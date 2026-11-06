@@ -1,0 +1,17 @@
+{
+  "sourceId": "route-chamonix-openmeteo",
+  "title": "Open-Meteo historical archive — Chamonix 45.9237N 6.8694E, 28–30 August 2015–2025",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=45.9237&longitude=6.8694&start_date=2015-08-28&end_date=2025-08-30&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Europe%2FParis",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The query returns 33 daily records for 28–30 August in each year from 2015 to 2025 at Chamonix valley coordinates.",
+    "Daily maximum temperature across those 33 days ranges from 11.8°C to 27.4°C, with a median of 23°C.",
+    "Daily minimum temperature across those 33 days ranges from 5.2°C to 16.7°C, with a median of 13°C.",
+    "15 of 33 days record at least 1 mm of precipitation and 10 of 33 record at least 5 mm.",
+    "The values are modelled historical data for a valley grid point, not measurements at the passes, so they cannot be used as high-altitude race-day temperatures.",
+    "Open-Meteo data are published under CC BY 4.0 and require attribution."
+  ],
+  "license": "CC-BY-4.0"
+}

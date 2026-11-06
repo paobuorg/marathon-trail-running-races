@@ -1,0 +1,17 @@
+{
+  "sourceId": "route-utmb-gpx-2026",
+  "title": "UTMB 2026 official GPX file",
+  "url": "https://pdf.utmb.world/raw/upload/v1786442971/montblanc/Races/GPX/2026/UTMB_2026_25e2a492e6.gpx",
+  "publisher": "UTMB World Series / LiveTrail",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The official 2026 UTMB GPX file contains 14,084 track points.",
+    "A local raw parse of the official GPX measures 173.83 km.",
+    "The raw elevation series in the GPX sums to +10,253 m and −10,252 m.",
+    "The GPX elevation range is 805 m to 2,571 m.",
+    "The GPX metadata declares copyright to LiveTrail® and links to livetrail.run.",
+    "The GPX carries no licence statement that would allow redistribution, so this site links to it instead of copying it."
+  ],
+  "license": null
+}

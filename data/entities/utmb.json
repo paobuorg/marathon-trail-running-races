@@ -5,7 +5,15 @@
   "status": "published",
   "riskLevel": "general",
   "sourceRefs": [
-    "route-utmb-2026"
+    "route-utmb-2026",
+    "route-utmb-track-2026",
+    "route-utmb-regulation",
+    "route-utmb-transport",
+    "route-utmb-gpx-2026",
+    "route-chamonix-openmeteo",
+    "photo-utmb-start-2015",
+    "photo-utmb-checkpoint-2005",
+    "photo-utmb-water-2009"
   ],
   "relatedRefs": [
     "knowledge:long-run-fueling",
@@ -15,9 +23,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-26",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
-  "reviewDueAt": "2027-10-28",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
+  "reviewDueAt": "2027-11-06",
   "details": {
     "raceType": "trail-ultra",
     "countryCodes": [
@@ -36,16 +44,16 @@
       "sourceRef": "route-utmb-2026"
     },
     "courseVersion": "2026-utmb-mont-blanc",
-    "direction": "Start and finish in Chamonix; the course crosses Italy, Switzerland and France",
+    "direction": "Chamonix → Italy → Switzerland → Chamonix (loop)",
     "distanceMeters": 174000,
-    "distanceMethod": "Official 2026 UTMB page stat block: 174 km",
+    "distanceMethod": "Official 2026 UTMB stat block: 174 km. The same official page also says approximately 170 km in its introduction and totals 176.865 km in its timing table; a raw parse of the official GPX measures 173.83 km. This card uses the stat block.",
     "elevationGainMeters": 9700,
-    "elevationMethod": "Official 2026 UTMB page stat block: 9,700 m positive elevation gain",
+    "elevationMethod": "Official 2026 UTMB stat block: 9,700 m positive gain. The official timing table totals +10,000 m and the introduction says about 10,000 m; a raw GPX parse sums to +10,253 m. This card uses the stat block.",
     "geometryAccess": "official-link",
     "geometryRef": null,
     "geometrySourceUrl": "https://pdf.utmb.world/raw/upload/v1786442971/montblanc/Races/GPX/2026/UTMB_2026_25e2a492e6.gpx",
     "geometryLicense": null,
     "officialGeometryUrl": "https://pdf.utmb.world/raw/upload/v1786442971/montblanc/Races/GPX/2026/UTMB_2026_25e2a492e6.gpx",
-    "attribution": "UTMB Mont-Blanc / UTMB World Series"
+    "attribution": "UTMB Mont-Blanc / UTMB World Series. The official GPX metadata declares copyright to LiveTrail® and carries no redistribution licence, so this site links to it and does not host a copy."
   }
 }

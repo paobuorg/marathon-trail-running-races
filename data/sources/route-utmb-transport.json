@@ -1,0 +1,21 @@
+{
+  "sourceId": "route-utmb-transport",
+  "title": "How to get to Chamonix Mont-Blanc?",
+  "url": "https://montblanc.utmb.world/discover/transportation/chamonixmontblanc",
+  "publisher": "UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "Geneva airport (GVA) is approximately 1 hour 30 minutes from Chamonix, with direct bus transfers or a train from Geneva Cornavin station.",
+    "Lyon Saint-Exupéry airport (LYS) is approximately 2 hours 30 minutes away, via TGV to Annecy or Bellegarde and then train or bus.",
+    "Milan Malpensa airport (MXP) has direct bus services to Chamonix with BlaBlaCar or FlixBus.",
+    "Zurich airport (ZRH) is reached through Switzerland by train.",
+    "Paris CDG/ORY connects by direct TGV to Annecy or Bellegarde, then train or bus to Chamonix.",
+    "Saint-Gervais-les-Bains-Le Fayet station connects to the Mont-Blanc Express.",
+    "Annecy station connects to Saint-Gervais-les-Bains and the Mont-Blanc Express, or by direct shuttle.",
+    "Lyon Part-Dieu connects by shuttle with FlixBus or BlaBlaCar Bus.",
+    "The Chamonix Mobilité public transport network covers the valley from Servoz to Vallorcine.",
+    "The organiser discourages arriving by private car because city-centre car parks are saturated during the event."
+  ],
+  "license": null
+}

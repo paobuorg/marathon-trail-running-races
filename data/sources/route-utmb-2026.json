@@ -1,16 +1,19 @@
 {
   "sourceId": "route-utmb-2026",
-  "title": "UTMB Mont-Blanc — The race",
+  "title": "UTMB Mont-Blanc — UTMB race page (2026 edition)",
   "url": "https://montblanc.utmb.world/races/utmb",
   "publisher": "UTMB World Series",
   "publishedAt": null,
-  "accessedAt": "2026-10-26",
+  "accessedAt": "2026-11-06",
   "claims": [
-    "The 2026 UTMB course is listed as 174 kilometres on the official stat block.",
-    "The 2026 UTMB course is listed as 9,700 metres of positive elevation gain on the official stat block.",
-    "The course passes through Italy, Switzerland and France.",
-    "The race starts and finishes in Chamonix.",
-    "The official 2026 race page provides a GPX download."
+    "The 2026 UTMB stat block lists 174 km and 9,700 m of positive elevation gain.",
+    "The page introduction describes the race as approximately 170 km with about 10,000 m of positive elevation gain around Mont-Blanc through Italy, Switzerland and France.",
+    "The 2026 UTMB starts on Friday 28 August 2026 at 19:45 from Chamonix and finishes in Chamonix.",
+    "The maximum allowed race time is 45 hours 30 minutes.",
+    "The page provides an official GPX download for the 2026 course.",
+    "The embedded official timing table totals 176.865 km with +10,000 m and −9,999 m, and lists 32 timing points.",
+    "The official profile gives a minimum elevation of 805 m and a maximum of 2,571 m.",
+    "The timing table lists 14 service checkpoints with supplies, medical, bus, bag and toilet flags plus cut-off times."
   ],
   "license": null
 }

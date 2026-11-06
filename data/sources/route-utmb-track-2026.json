@@ -1,0 +1,14 @@
+{
+  "sourceId": "route-utmb-track-2026",
+  "title": "UTMB 2026 — Race Profile / Map / Table",
+  "url": "https://track.utmb.world/en/utmb/2026/utmb/track",
+  "publisher": "UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The official interactive track view is the public source for the 2026 UTMB profile, map and timing table.",
+    "The profile covers the full 2026 course from Chamonix back to Chamonix.",
+    "The page is embedded as an iframe from the official UTMB race page."
+  ],
+  "license": null
+}
