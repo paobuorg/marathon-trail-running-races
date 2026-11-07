@@ -41,6 +41,8 @@ The organiser itself uses more than one distance figure. The page introduction s
 
 The card at the top of this page uses the stat block's 174 km and 9,700 m, because those are the two figures the organiser uses most in public. The segment and aid-station tables below use the official timing table, because it is the only basis that also gives checkpoints, supplies and cut-offs. The GPX is official, but point-by-point elevation noise inflates cumulative gain; +10,253 m should not be quoted as the official climb.
 
+**2026-11-07 recheck**: the official track page is now a standalone SPA. Rendered, it shows 173.6 km, +9,700 / −9,699 m and 17 service points, and does not display the 32-point timing table used on this page or Col des Pyramides Calcaires. The segment and aid-station tables below stay on the previously captured timing-table basis; before the next update, 176.865 km and the 32 points must be re-checked against the current official timing file.
+
 ## Eight segments
 
 | Segment | From → to | Distance | Gain / loss |
