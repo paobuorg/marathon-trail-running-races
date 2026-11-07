@@ -6,7 +6,20 @@
   "riskLevel": "general",
   "sourceRefs": [
     "route-hong-kong-100",
-    "route-anchor-editorial"
+    "route-hong-kong-100-home-2027",
+    "route-hong-kong-100-course-2027",
+    "route-hong-kong-100-rules-2027",
+    "route-hong-kong-100-gear-2027",
+    "route-hong-kong-100-transport-2027",
+    "route-hong-kong-100-entry-2027",
+    "route-hong-kong-100-bag-drop-2027",
+    "route-hong-kong-100-world-trail-majors-2027",
+    "route-hong-kong-100-gpx-2027",
+    "route-hong-kong-100-utmb-index-2026",
+    "route-hong-kong-100-openmeteo-2026",
+    "route-hong-kong-100-history-2026",
+    "route-hong-kong-100-airport-hkia",
+    "route-hong-kong-100-hko-climate"
   ],
   "relatedRefs": [
     "knowledge:long-run-fueling",
@@ -15,9 +28,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
-  "reviewDueAt": "2027-10-28",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
+  "reviewDueAt": "2027-11-06",
   "details": {
     "raceType": "trail-ultra",
     "countryCodes": [
@@ -28,22 +41,22 @@
       "en": "Sai Kung to Tai Mo Shan, Hong Kong"
     },
     "mapAnchor": {
-      "longitude": 114.321,
-      "latitude": 22.394,
-      "kind": "overview",
-      "sourceRef": "route-anchor-editorial"
+      "longitude": 114.320899,
+      "latitude": 22.398233,
+      "kind": "start",
+      "sourceRef": "route-hong-kong-100-gpx-2027"
     },
     "courseVersion": "2027-hong-kong-100-official-course",
     "direction": "Point-to-point from Pak Tam Chung, Sai Kung, to Rotary Club Park, Tai Mo Shan Road",
     "distanceMeters": 100000,
-    "distanceMethod": "Official 100 km",
+    "distanceMethod": "Official 2027 race card on the organiser home page: 100 km. The 2027 HK100 course page also describes a '100km journey'. UTMB Index records the 2026 edition, whose course was shortened by roughly 7 km after typhoon damage, as 92.9 km; that is a different edition and is not used here. This card uses the official 2027 figure.",
     "elevationGainMeters": 5142,
-    "elevationMethod": "Official climb about 5,142 m",
-    "geometryAccess": "unavailable",
+    "elevationMethod": "Official 2027 race card: 5,142 m of positive gain. The 2027 course page describes the same edition as climbing 'over 5,000 m'. UTMB Index records 5,073 m for the shortened 2026 course, which is a different edition and is not used here. No official page publishes a descent total. This card uses the official 2027 race card.",
+    "geometryAccess": "official-link",
     "geometryRef": null,
-    "geometrySourceUrl": null,
+    "geometrySourceUrl": "https://hk100ultra.com/wp-content/uploads/2026/06/HK100-Full-2027.gpx",
     "geometryLicense": null,
-    "officialGeometryUrl": null,
-    "attribution": "Hong Kong 100 Ultra Marathon"
+    "officialGeometryUrl": "https://hk100ultra.com/wp-content/uploads/2026/06/HK100-Full-2027.gpx",
+    "attribution": "Hong Kong 100 Ultra Marathon. The official HK100-Full-2027.gpx is served from the organiser's domain; its metadata names plotaroute.com as creator and carries no licence or copyright terms, so this site links to it and does not host a copy, draw the track or redistribute the file."
   }
 }

@@ -6,6 +6,15 @@
   "riskLevel": "general",
   "sourceRefs": [
     "route-sydney",
+    "route-sydney-cutoff-2026",
+    "route-sydney-course-map-2026",
+    "route-sydney-transport-2026",
+    "route-sydney-transportnsw-2026",
+    "route-sydney-results-2026",
+    "route-sydney-world-athletics-2026",
+    "route-sydney-wmm-2026",
+    "route-sydney-openmeteo-2026",
+    "photo-sydney-medal-2026",
     "route-anchor-editorial"
   ],
   "relatedRefs": [
@@ -15,9 +24,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
-  "reviewDueAt": "2027-10-28",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
+  "reviewDueAt": "2027-11-06",
   "details": {
     "raceType": "road-marathon",
     "countryCodes": [
@@ -36,14 +45,14 @@
     "courseVersion": "2026-sydney-official-course",
     "direction": "Point-to-point from Miller Street, North Sydney, to the Sydney Opera House",
     "distanceMeters": 42195,
-    "distanceMethod": "Official 42.195 km",
+    "distanceMethod": "Official 42.195 km from the 2026 course page. The World Athletics results page lists the men's and women's marathon, and no competing official distance figure was found.",
     "elevationGainMeters": 313,
-    "elevationMethod": "Official course: +313 m elevation gain and −83 m net drop",
+    "elevationMethod": "Official 2026 course page elevation profile: +313 m gain, −396 m loss and −83 m net. The same page's course-information text also labels 313 m as net elevation gain and 396 m as net elevation loss, and states that GPX elevation is not 100 per cent accurate. This card uses the official +313 m headline figure.",
     "geometryAccess": "unavailable",
     "geometryRef": null,
     "geometrySourceUrl": null,
     "geometryLicense": null,
     "officialGeometryUrl": null,
-    "attribution": "TCS Sydney Marathon"
+    "attribution": "TCS Sydney Marathon presented by ASICS. The official course page offers a GPX download but publishes no redistribution licence, so this site does not host, draw or bundle the track."
   }
 }

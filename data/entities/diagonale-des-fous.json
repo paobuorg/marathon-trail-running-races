@@ -5,6 +5,21 @@
   "status": "published",
   "riskLevel": "general",
   "sourceRefs": [
+    "route-diagonale-des-fous-2026-course",
+    "route-diagonale-des-fous-2026-cutoffs",
+    "route-diagonale-des-fous-2026-overview",
+    "route-diagonale-des-fous-2026-rules-archive",
+    "route-diagonale-des-fous-2026-equipment",
+    "route-diagonale-des-fous-2026-assistance",
+    "route-diagonale-des-fous-2026-bus",
+    "route-diagonale-des-fous-2026-shuttles",
+    "route-diagonale-des-fous-2026-dropbags",
+    "route-diagonale-des-fous-2026-airport",
+    "route-diagonale-des-fous-2026-results",
+    "route-diagonale-des-fous-weather-2026",
+    "route-diagonale-des-fous-2026-reunion3d",
+    "photo-diagonale-colorado-2010",
+    "photo-diagonale-finish-2011",
     "route-diagonale-des-fous",
     "route-anchor-editorial"
   ],
@@ -15,9 +30,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
-  "reviewDueAt": "2027-10-28",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
+  "reviewDueAt": "2027-11-06",
   "details": {
     "raceType": "trail-ultra",
     "countryCodes": [
@@ -36,14 +51,14 @@
     "courseVersion": "2026-diagonale-des-fous-official-course",
     "direction": "Point-to-point from Saint-Pierre to Saint-Denis",
     "distanceMeters": 180000,
-    "distanceMethod": "Official about 180 km",
+    "distanceMethod": "Multiple official bases: the 2026 race page lists 180 km; the 2026 official cut-off table totals 180.8 km; the English race overview lists 170 km; the archived 2013 rules give about 165 km. Figures are shown side by side and not averaged.",
     "elevationGainMeters": 10200,
-    "elevationMethod": "Official climb about 10,200 m",
+    "elevationMethod": "Multiple official bases: the 2026 race page lists 10,200 m D+; the 2026 official cut-off table gives +10,191 m and −10,154 m; the English race overview lists 10,500 m; the archived 2013 rules give about 9,900 m. Figures are shown side by side and not averaged.",
     "geometryAccess": "unavailable",
     "geometryRef": null,
     "geometrySourceUrl": null,
     "geometryLicense": null,
     "officialGeometryUrl": null,
-    "attribution": "Grand Raid de La Réunion"
+    "attribution": null
   }
 }

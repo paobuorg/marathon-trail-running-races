@@ -6,6 +6,14 @@
   "riskLevel": "general",
   "sourceRefs": [
     "route-london",
+    "route-london-overview-2026",
+    "route-london-event-guide-2026",
+    "route-london-results-2026",
+    "route-london-report-2026",
+    "route-london-world-athletics-2026",
+    "route-london-spectator-2026",
+    "route-london-openmeteo-2026",
+    "photo-london-2017",
     "route-anchor-editorial"
   ],
   "relatedRefs": [
@@ -15,9 +23,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
-  "reviewDueAt": "2027-10-28",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
+  "reviewDueAt": "2027-11-06",
   "details": {
     "raceType": "road-marathon",
     "countryCodes": [
@@ -34,11 +42,11 @@
       "sourceRef": "route-anchor-editorial"
     },
     "courseVersion": "2026-london-official-course",
-    "direction": "Point-to-point from the Greenwich/Blackheath start areas to The Mall",
+    "direction": "Point-to-point from the three Greenwich/Blackheath start lines to The Mall",
     "distanceMeters": 42195,
-    "distanceMethod": "Official 26.2 miles / 42.195 km",
-    "elevationGainMeters": null,
-    "elevationMethod": null,
+    "distanceMethod": "Official course page: 26.2 miles. The 2026 participant guide is used for race-day details but does not state the total mileage; the event overview gives the gain but no total mileage. The official route embedded on the course page displays 26.1 miles. This entity stores the standard marathon distance of 42,195 m; the official 26.2 miles is the rounded form of that distance, and the official pages do not state the full distance in kilometres.",
+    "elevationGainMeters": 75,
+    "elevationMethod": "Official event overview: 246 feet (74.98 m, rounded to 75 m). The official route embedded on the course page displays 278 feet (about 85 m); the course page text publishes no gain. This entity uses the event-overview figure.",
     "geometryAccess": "unavailable",
     "geometryRef": null,
     "geometrySourceUrl": null,

@@ -5,7 +5,22 @@
   "status": "published",
   "riskLevel": "general",
   "sourceRefs": [
-    "route-cape-town",
+    "route-cape-town-2026",
+    "route-cape-town-route-map-2026",
+    "route-cape-town-profile-2026",
+    "route-cape-town-spectator-2026",
+    "route-cape-town-transport-2026",
+    "route-cape-town-majors-2026",
+    "route-cape-town-records-2026",
+    "route-cape-town-world-athletics-2026",
+    "route-cape-town-openmeteo-2026",
+    "route-cape-town-final-instructions-2024",
+    "route-cape-town-2024-closures",
+    "route-cape-town-preview-2026",
+    "route-cape-town-park-and-ride-2026",
+    "route-cape-town-travel-2026",
+    "route-cape-town-two-starts-2025",
+    "photo-cape-town-2026",
     "route-anchor-editorial"
   ],
   "relatedRefs": [
@@ -15,9 +30,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
-  "reviewDueAt": "2027-10-28",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
+  "reviewDueAt": "2027-11-06",
   "details": {
     "raceType": "road-marathon",
     "countryCodes": [
@@ -36,14 +51,14 @@
     "courseVersion": "2026-cape-town-official-course",
     "direction": "Two start areas (Fritz Sonnenberg Rd and Beach Rd) on a city circuit, finishing on Vlei Road, Green Point",
     "distanceMeters": 42200,
-    "distanceMethod": "Official 42.2 km",
-    "elevationGainMeters": null,
-    "elevationMethod": null,
+    "distanceMethod": "Official 2026 Sanlam Cape Town Marathon FAQ and route profile give 42.2 km; the route profile labels the course 42.2 km from DHL Stadium to DHL Stadium.",
+    "elevationGainMeters": 215,
+    "elevationMethod": "2026 official route profile: total ascent 215 m and total descent 209 m; start 11 m, highest 41 m, lowest 8 m; 21 km uphill, 20 km downhill, 1 km flat. The event FAQ publishes no gain figure.",
     "geometryAccess": "unavailable",
     "geometryRef": null,
     "geometrySourceUrl": null,
     "geometryLicense": null,
     "officialGeometryUrl": null,
-    "attribution": "Cape Town Marathon"
+    "attribution": null
   }
 }

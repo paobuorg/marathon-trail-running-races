@@ -5,7 +5,17 @@
   "status": "published",
   "riskLevel": "general",
   "sourceRefs": [
+    "route-tor-des-geants-2026",
+    "route-tor-des-geants-timetable-2026",
+    "route-tor-des-geants-regulation-2026",
+    "route-tor-des-geants-gpx-2026",
+    "route-tor-des-geants-event-schedule-2026",
+    "route-tor-des-geants-transport",
+    "route-tor-des-geants-tunnel",
+    "route-tor-des-geants-weather-service",
+    "route-tor-des-geants-openmeteo",
     "route-tor-des-geants",
+    "photo-tor-des-geants-2017",
     "route-anchor-editorial"
   ],
   "relatedRefs": [
@@ -15,9 +25,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
-  "reviewDueAt": "2027-10-28",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
+  "reviewDueAt": "2027-11-06",
   "details": {
     "raceType": "trail-ultra",
     "countryCodes": [
@@ -36,14 +46,14 @@
     "courseVersion": "2026-tor-des-geants-official-course",
     "direction": "Courmayeur loop, start and finish in the same town",
     "distanceMeters": 330000,
-    "distanceMethod": "Official 330 km",
+    "distanceMethod": "Official 2026 TOR330 race page stat block: 330 km. The 2026 regulations describe approximately 350 km (ITRA evaluation), and the official 2026 timetable totals 336.5 km from start to finish. This card uses the race page figure that gives the race its name; the page tables use the timetable figures.",
     "elevationGainMeters": 24000,
-    "elevationMethod": "Official climb about 24,000 m",
+    "elevationMethod": "Official 2026 TOR330 race page stat block: 24,000 m D+. The 2026 regulations state about 25,000 m (ITRA evaluation), and the official 2026 timetable totals +26,182 m with −25,727 m. This card uses the race page figure; the page tables use the timetable figures.",
     "geometryAccess": "official-link",
     "geometryRef": null,
     "geometrySourceUrl": null,
     "geometryLicense": null,
     "officialGeometryUrl": "https://torxtrail.com/wp-content/uploads/2026/08/TOR330-CERT-2026.gpx",
-    "attribution": "TORX / VDA Trailers"
+    "attribution": "TORX / VDA Trailers. The official full-course GPX declares no redistribution licence, so this site links to it and does not host a copy or draw the track."
   }
 }

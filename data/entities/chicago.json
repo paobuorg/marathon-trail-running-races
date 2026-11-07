@@ -6,6 +6,18 @@
   "riskLevel": "general",
   "sourceRefs": [
     "route-chicago",
+    "route-chicago-guide-2026",
+    "route-chicago-participant-info",
+    "route-chicago-course-map",
+    "route-chicago-street-closures",
+    "route-chicago-results",
+    "route-chicago-press-2026",
+    "route-chicago-faq",
+    "route-chicago-spectator",
+    "route-chicago-transport",
+    "route-chicago-world-athletics",
+    "route-chicago-openmeteo",
+    "photo-chicago-2019",
     "route-anchor-editorial"
   ],
   "relatedRefs": [
@@ -15,9 +27,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
-  "reviewDueAt": "2027-10-28",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
+  "reviewDueAt": "2027-11-06",
   "details": {
     "raceType": "road-marathon",
     "countryCodes": [
@@ -34,9 +46,9 @@
       "sourceRef": "route-anchor-editorial"
     },
     "courseVersion": "2026-chicago-official-course",
-    "direction": "Start and finish in Grant Park; city loop",
+    "direction": "Grant Park start → Loop → North Side → West Side → South Side → Grant Park finish",
     "distanceMeters": 42195,
-    "distanceMethod": "Official 26.2 miles / 42.195 km",
+    "distanceMethod": "Official 26.2 miles (2026 participant guide); 42.195 km is the standard metric equivalent used for this field. No official elevation gain or descent is published.",
     "elevationGainMeters": null,
     "elevationMethod": null,
     "geometryAccess": "unavailable",
@@ -44,6 +56,6 @@
     "geometrySourceUrl": null,
     "geometryLicense": null,
     "officialGeometryUrl": null,
-    "attribution": "Chicago Marathon"
+    "attribution": "Bank of America Chicago Marathon / Chicago Marathon. The official 2026 course-map PDF is linked but not redistributed; no GPX, KML or GeoJSON is hosted."
   }
 }

@@ -6,7 +6,18 @@
   "riskLevel": "general",
   "sourceRefs": [
     "route-baa-course",
-    "route-world-athletics-marathon"
+    "route-world-athletics-marathon",
+    "route-boston-2026",
+    "route-boston-course",
+    "route-boston-course-map",
+    "route-boston-qualify",
+    "route-boston-entry",
+    "route-boston-participant-guide",
+    "route-boston-spectator",
+    "route-boston-results",
+    "route-boston-openmeteo-hopkinton",
+    "photo-boston-women-2019",
+    "route-boston-openmeteo-boston"
   ],
   "relatedRefs": [
     "knowledge:marathon-distance",
@@ -15,9 +26,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-26",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
-  "reviewDueAt": "2027-10-28",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
+  "reviewDueAt": "2027-11-06",
   "details": {
     "raceType": "road-marathon",
     "countryCodes": [
@@ -33,10 +44,10 @@
       "kind": "overview",
       "sourceRef": "route-baa-course"
     },
-    "courseVersion": "2026-baa-published-course",
+    "courseVersion": "2026-boston-marathon-official-course",
     "direction": "Point-to-point from Hopkinton to Boston",
     "distanceMeters": 42195,
-    "distanceMethod": "Standard marathon distance; the BAA publishes the Hopkinton-to-Boston course",
+    "distanceMethod": "The BAA publishes the course as 26.2 miles; the 2026 official course map prints 26.2 M / 42.2 K, and 42.195 km is the World Athletics marathon standard. This card uses 42,195 m.",
     "elevationGainMeters": null,
     "elevationMethod": null,
     "geometryAccess": "unavailable",

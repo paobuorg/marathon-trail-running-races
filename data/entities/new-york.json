@@ -6,6 +6,18 @@
   "riskLevel": "general",
   "sourceRefs": [
     "route-new-york",
+    "route-new-york-course-2026",
+    "route-new-york-course-qa-2019",
+    "route-new-york-race-2026",
+    "route-new-york-start-2026",
+    "route-new-york-transport-2026",
+    "route-new-york-rules-2026",
+    "route-new-york-cutoff-2026",
+    "route-new-york-watch-2026",
+    "route-new-york-results-2026",
+    "route-new-york-worldathletics-2026",
+    "route-new-york-openmeteo",
+    "photo-new-york-2024",
     "route-anchor-editorial"
   ],
   "relatedRefs": [
@@ -15,9 +27,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
-  "reviewDueAt": "2027-10-28",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
+  "reviewDueAt": "2027-11-06",
   "details": {
     "raceType": "road-marathon",
     "countryCodes": [
@@ -33,10 +45,10 @@
       "kind": "overview",
       "sourceRef": "route-anchor-editorial"
     },
-    "courseVersion": "2025-tcs-new-york-city-marathon",
-    "direction": "Point-to-point from Fort Wadsworth, Staten Island, to Central Park",
+    "courseVersion": "2026-new-york-city-marathon-official-course",
+    "direction": "Point-to-point from Fort Wadsworth, Staten Island, to Central Park (67th Street on West Drive), Manhattan",
     "distanceMeters": 42195,
-    "distanceMethod": "Official 26.2 miles / 42.195 km",
+    "distanceMethod": "Official NYRR course distance: 26.2 miles. 42,195 m is the standard marathon distance used for this card; NYRR publishes no metric figure.",
     "elevationGainMeters": null,
     "elevationMethod": null,
     "geometryAccess": "unavailable",
@@ -44,6 +56,6 @@
     "geometrySourceUrl": null,
     "geometryLicense": null,
     "officialGeometryUrl": null,
-    "attribution": "NYRR"
+    "attribution": null
   }
 }

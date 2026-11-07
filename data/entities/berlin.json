@@ -5,7 +5,19 @@
   "status": "published",
   "riskLevel": "general",
   "sourceRefs": [
-    "route-berlin",
+    "route-berlin-course-2026",
+    "route-berlin-course-map-2026",
+    "route-berlin-race-day-2026",
+    "route-berlin-race-day-2027",
+    "route-berlin-briefing-2026",
+    "route-berlin-entry-2027",
+    "route-berlin-event-2026",
+    "route-berlin-results-2026",
+    "route-berlin-wmm-course",
+    "route-berlin-world-athletics-2026",
+    "route-berlin-openmeteo",
+    "route-berlin-ber-airport",
+    "photo-berlin-finish-2022",
     "route-anchor-editorial"
   ],
   "relatedRefs": [
@@ -15,9 +27,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
-  "reviewDueAt": "2027-10-28",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
+  "reviewDueAt": "2027-11-06",
   "details": {
     "raceType": "road-marathon",
     "countryCodes": [
@@ -34,16 +46,16 @@
       "sourceRef": "route-anchor-editorial"
     },
     "courseVersion": "2026-berlin-official-course",
-    "direction": "Start on Straße des 17. Juni, finish at the Brandenburg Gate; city loop",
+    "direction": "Start on Straße des 17. Juni between the Brandenburg Gate and Kleiner Stern; finish behind the Brandenburg Gate; city course through Berlin",
     "distanceMeters": 42195,
-    "distanceMethod": "Official 42.195 km",
-    "elevationGainMeters": null,
-    "elevationMethod": null,
+    "distanceMethod": "Official course page: 42.195 km. The official runners' course map numbers the route 1–42, while the event homepage also uses 42.195 km. No second distance figure is published.",
+    "elevationGainMeters": 73,
+    "elevationMethod": "Abbott World Marathon Majors official magazine: around 73 m of climbing and 79 m of descent across the route. SCC Events' own course page lists elevation as 'tba' and publishes no climb figure, so this card uses the Majors figure and labels it as such; it is not an SCC Events number.",
     "geometryAccess": "unavailable",
     "geometryRef": null,
     "geometrySourceUrl": null,
     "geometryLicense": null,
     "officialGeometryUrl": null,
-    "attribution": "SCC Events"
+    "attribution": null
   }
 }

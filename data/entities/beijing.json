@@ -6,6 +6,12 @@
   "riskLevel": "general",
   "sourceRefs": [
     "route-beijing",
+    "route-beijing-2026-notice",
+    "route-beijing-2026-guide",
+    "route-beijing-2026-caa",
+    "route-beijing-2026-presser",
+    "route-beijing-2026-traffic",
+    "route-beijing-weather",
     "route-anchor-editorial"
   ],
   "relatedRefs": [
@@ -15,9 +21,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
-  "reviewDueAt": "2027-10-28",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
+  "reviewDueAt": "2027-11-06",
   "details": {
     "raceType": "road-marathon",
     "countryCodes": [
@@ -36,7 +42,7 @@
     "courseVersion": "2026-beijing-official-course",
     "direction": "Point-to-point from the east side of Tiananmen Square to the Olympic Park central Landscape Avenue",
     "distanceMeters": 42195,
-    "distanceMethod": "Official 42.195 km",
+    "distanceMethod": "Official 42.195 km, agreed by the race notice, Chinese Athletics Association release and traffic notice",
     "elevationGainMeters": null,
     "elevationMethod": null,
     "geometryAccess": "unavailable",

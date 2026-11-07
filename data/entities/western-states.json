@@ -5,7 +5,20 @@
   "status": "published",
   "riskLevel": "general",
   "sourceRefs": [
-    "route-western-states",
+    "route-western-states-course-2026",
+    "route-western-states-aid-2026",
+    "route-western-states-trail-history",
+    "route-western-states-home-2026",
+    "route-western-states-results-2026",
+    "route-western-states-recap-2026",
+    "route-western-states-faq",
+    "route-western-states-gps-2027",
+    "route-western-states-guide-2027",
+    "route-western-states-medical-2026",
+    "route-western-states-openmeteo-auburn-2026",
+    "route-western-states-openmeteo-olympic-valley-2026",
+    "route-western-states-commons-2026",
+    "photo-western-states-finish",
     "route-anchor-editorial"
   ],
   "relatedRefs": [
@@ -15,9 +28,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-10-28",
-  "reviewedAt": "2026-10-28",
-  "reviewDueAt": "2027-10-28",
+  "updatedAt": "2026-11-06",
+  "reviewedAt": "2026-11-06",
+  "reviewDueAt": "2027-11-06",
   "details": {
     "raceType": "trail-ultra",
     "countryCodes": [
@@ -35,15 +48,15 @@
     },
     "courseVersion": "2026-western-states-official-course",
     "direction": "Point-to-point from Olympic Valley to Placer High School in Auburn",
-    "distanceMeters": 161300,
-    "distanceMethod": "Official 100.2 miles (about 161.3 km)",
+    "distanceMeters": 161256,
+    "distanceMethod": "Official course pages give 100.2 miles; no metric distance is published. 100.2 miles converts to 161,256 m (161.3 km), which is the figure used on this card. No alternate official distance figure exists.",
     "elevationGainMeters": 5514,
-    "elevationMethod": "Official 18,090 ft climb (about 5,514 m)",
+    "elevationMethod": "Official Course Description gives 2,550 ft of climb in the first 4.5 miles plus another 15,540 ft, a summed total of 18,090 ft; the home page rounds this to more than 18,000 ft and the descent to nearly 23,000 ft. This card uses the exact summed climb, 18,090 ft = 5,514 m. The official pages do not publish per-segment gain or loss.",
     "geometryAccess": "unavailable",
     "geometryRef": null,
     "geometrySourceUrl": null,
     "geometryLicense": null,
     "officialGeometryUrl": null,
-    "attribution": "Western States Endurance Run Foundation"
+    "attribution": null
   }
 }
