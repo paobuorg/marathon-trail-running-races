@@ -2,13 +2,19 @@
   "sourceId": "route-chicago",
   "title": "Course – Bank of America Chicago Marathon",
   "url": "https://www.chicagomarathon.com/event-info/participant-information/course/",
-  "publisher": "Chicago Marathon",
+  "publisher": "Bank of America Chicago Marathon",
   "publishedAt": null,
-  "accessedAt": "2026-10-27",
+  "accessedAt": "2026-11-06",
   "claims": [
-    "The Chicago Marathon starts and finishes in Grant Park.",
-    "The official course passes through many Chicago neighbourhoods.",
-    "The official site provides a course-map PDF."
+    "The course starts and finishes in Grant Park and travels through 29 Chicago neighbourhoods.",
+    "The organiser describes the course as flat and fast and says it has produced seven world records, with 1.7 million spectators.",
+    "The 2026 course page links to an official course-map PDF and states that the course map is subject to change.",
+    "There are 20 aid stations approximately one to two miles apart, and each provides a medical tent with runner transport, standard and ADA toilets, Gatorade Endurance Formula, a public-address announcer and water.",
+    "Medical support is available at 22 on-course locations, including medical tents at all 20 aid stations plus additional tents between miles 14 and 15 and in the final mile.",
+    "The course time limit is 6 hours 30 minutes, a 15-minute-per-mile pace.",
+    "Timing checkpoints are at the start, each 5K, the halfway point at 13.1 miles, miles 20–25, mile 25.2 and the finish.",
+    "The event is recognised as a World Athletics Platinum Label road race.",
+    "The page does not publish a cumulative elevation gain or descent figure."
   ],
   "license": null
 }

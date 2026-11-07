@@ -1,0 +1,18 @@
+{
+  "sourceId": "route-tor-des-geants-openmeteo",
+  "title": "Open-Meteo historical archive — Courmayeur 45.791N 6.969E, 13–19 September 2015–2025",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=45.791&longitude=6.969&start_date=2015-09-13&end_date=2025-09-19&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Europe%2FParis",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The query returns 77 daily records for 13–19 September in each year from 2015 to 2025 at the requested Courmayeur coordinates 45.791N / 6.969E.",
+    "The API returns the model grid point 45.729N / 7.098E with a grid elevation of 1,174 m, which differs from the requested point.",
+    "Daily maximum temperature across the 77 days ranges from 9.7°C to 28.6°C, with a median of 19.6°C.",
+    "Daily minimum temperature across the 77 days ranges from −1.7°C to 13.5°C, with a median of 9.6°C.",
+    "33 of the 77 days record at least 1 mm of precipitation and 14 record at least 5 mm, with a maximum daily total of 24.0 mm.",
+    "The values are modelled historical data for a valley grid point, not measurements on the course or at the passes.",
+    "Open-Meteo data are published under CC BY 4.0 and require attribution."
+  ],
+  "license": "CC-BY-4.0"
+}

@@ -1,14 +1,25 @@
 {
   "sourceId": "route-hardrock",
-  "title": "Hardrock Course Description",
+  "title": "Hardrock Course Description (2026)",
   "url": "https://hardrock100.com/hardrock-course.php",
   "publisher": "Hardrock Hundred Endurance Run",
   "publishedAt": null,
-  "accessedAt": "2026-10-27",
+  "accessedAt": "2026-11-06",
   "claims": [
-    "Hardrock starts and finishes in Silverton, Colorado.",
-    "The official course is 101.8 miles with 33,441 ft of climb.",
-    "The course direction alternates; the organiser publishes a clockwise GPX."
+    "The 2026 course is 101.8 miles long with 33,441 feet of climb and 33,441 feet of descent, for 66,882 feet of total elevation change.",
+    "The course starts and finishes in Silverton and links the Lake City, Ouray, Telluride and Silverton areas in four legs.",
+    "The average elevation is about 11,000 feet and the high point is 14,048 feet.",
+    "There are 14 aid stations, with major aid stations in the towns and less well-equipped stations in between.",
+    "The course is closed, so runners are required to follow the specified route.",
+    "The organiser marks the entire course before the run, but long road sections and maintained trails may not be marked at all.",
+    "The altitude range is 7,700 to 14,000+ feet, with timberline locally at about 11,800 feet.",
+    "In a typical year runners have wet feet 90% or more of the run.",
+    "Every aid station is staffed by at least an EMT, has a first aid kit and has radio communication.",
+    "Each runner carries a SPOT tracker.",
+    "Runners who drop must inform the nearest Aid Station Captain and have their ID bracelet cut; transport from a dropout point may take many hours and is a best-effort arrangement.",
+    "The 48-hour cut-off allows runners to wait out thunderstorms or other life-threatening weather.",
+    "Recommended gear includes a hard-shell rain jacket, rain pants, emergency blanket, gloves, running hat, whistle, sunglasses, sunblock, a headlamp with backup, spare batteries, capacity to carry 80 oz of fluid and 500 calories.",
+    "The course page lists the 2026 clockwise course description and GPX file as updated 5 July 2026."
   ],
   "license": null
 }

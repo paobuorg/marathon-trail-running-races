@@ -1,15 +1,29 @@
 {
   "sourceId": "route-sydney",
-  "title": "Course – TCS Sydney Marathon",
+  "title": "The course – TCS Sydney Marathon presented by ASICS",
   "url": "https://www.tcssydneymarathon.com/course",
   "publisher": "TCS Sydney Marathon",
   "publishedAt": null,
-  "accessedAt": "2026-10-27",
+  "accessedAt": "2026-11-06",
   "claims": [
-    "The Sydney Marathon starts on Miller Street in North Sydney and finishes at the Sydney Opera House.",
-    "The official course lists 42.195 km with +313 m elevation gain and −83 m net drop.",
-    "The organiser publishes an official 2026 GPX download.",
-    "The official course crosses the Sydney Harbour Bridge before finishing at the Opera House."
+    "The 2026 TCS Sydney Marathon is scheduled for Sunday 30 August 2026 over 42.195 km and is described as a World Athletics Platinum Label Marathon.",
+    "The elite wheelchair race starts at 6:15am and the mass participation race starts at 6:30am, with start group timings to be published closer to event day.",
+    "The start line is on Miller Street in North Sydney and the finish line is at the Sydney Opera House Forecourt.",
+    "The start line closes at 8:40am and the course cut-off is seven hours, listed as 3:40pm, measured from the start-line closure.",
+    "The official elevation profile gives an elevation gain of +313 metres, an elevation loss of −396 metres and an overall elevation of −83 metres net loss.",
+    "The course information repeats the figures as a net elevation gain of 313 metres, a net elevation loss of 396 metres and a total elevation of −83 metres loss.",
+    "The page states that elevation data in the GPX file is not 100 per cent accurate and that the official values above should be used, while the course route in the GPX file is 100 per cent accurate.",
+    "Drink stations are listed at 5 km, 10 km, 15 km, 20 km, 25 km, 30 km, 35 km and 40 km.",
+    "Water is available at all drink stations and Powerade Mountain Blast is available at all eight course drink stations and at the finish-line recovery area.",
+    "GU Energy Gels are available at the 20 km and 30 km drink stations, are limited and subject to availability, and runners are advised to carry their own gels.",
+    "A refreshment station is located after the finish line during the walk-off in the Royal Botanic Garden, and portable toilets are located near each drink station.",
+    "The course highlights include a start line celebrating the Sydney 2000 Olympic Games marathon, a crossing of the Sydney Harbour Bridge, a loop of Centennial Park, Mrs Macquarie's Chair in the Royal Botanic Garden and the Sydney Opera House finish.",
+    "The organiser says recent course changes were designed for faster times and a better participant experience.",
+    "The page publishes course map and course elevation profile PDF downloads and a course GPX file with kilometre markers.",
+    "The page embeds a five-minute 2025 Course Preview video recorded with a 360-degree camera on an on-course vehicle.",
+    "In 2026 the race offers pacers from 2:30 to 7:00 plus a sweeper; pacers run to chip time, aim to be within 30 seconds of even pace at halfway and wear red TCS Sydney Marathon Pace Team singlets.",
+    "The page summarises that runners missing intermediary cut-offs will be redirected or loaded onto a sweeper bus, and all redirected or swept runners receive a DNF, though redirected runners can still cross the finish line.",
+    "The marathon landing page currently displays Sunday 29 August 2027 for the next edition while retaining the 42.195 km distance, Miller Street start, Opera House finish and seven-hour cut-off."
   ],
   "license": null
 }

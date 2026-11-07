@@ -1,0 +1,17 @@
+{
+  "sourceId": "route-tokyo-station-access",
+  "title": "Accessing Tokyo Station — Tokyo Station City",
+  "url": "https://www.tokyostationcity.com/en/access.html",
+  "publisher": "Tokyo Station City",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "From Narita Airport, Tokyo Station is about 60 minutes by Narita Express or about 90 minutes by Express Airport Narita.",
+    "The airport limousine bus from Narita to the Tokyo/Nihombashi Station area takes about 80-110 minutes.",
+    "From Haneda Airport, take the Tokyo Monorail to Hamamatsucho, then about 35 minutes by Keihin-Tohoku Line or Yamanote Line to Tokyo Station.",
+    "The airport limousine bus from Haneda to Tokyo Station Yaesu South Exit takes about 40 minutes.",
+    "Tokyo Station is served by JR conventional lines and Shinkansen, the Tokyo Metro Marunouchi Line, and the Tozai Line at Otemachi.",
+    "Tokyo Station can be reached by car via the Inner Circular Route Yaesu Exit or Gofukubashi Exit."
+  ],
+  "license": null
+}

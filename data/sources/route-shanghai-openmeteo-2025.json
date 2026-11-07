@@ -1,0 +1,16 @@
+{
+  "sourceId": "route-shanghai-openmeteo-2025",
+  "title": "Open-Meteo historical archive, Shanghai grid point, 23 November-1 December 2025",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=31.2304&longitude=121.4737&start_date=2025-11-23&end_date=2025-12-01&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Asia%2FShanghai",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The archive request for 31.2304N, 121.4737E returned the grid point 31.2478N, 121.5E at 5 m elevation.",
+    "The nine-day window 23 November-1 December 2025 had daily maximum temperatures from 13.5 to 22.8 degrees Celsius, with a median of 18.2 degrees.",
+    "Daily minimum temperatures ranged from 1.9 to 12.1 degrees Celsius, with a median of 7.5 degrees.",
+    "None of the nine days recorded daily precipitation of at least 1 mm.",
+    "On race day, 30 November 2025, the grid gives a maximum of 22.8 degrees, a minimum of 8.6 degrees and 0.0 mm precipitation."
+  ],
+  "license": "CC-BY-4.0"
+}

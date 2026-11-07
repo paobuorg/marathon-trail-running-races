@@ -1,0 +1,17 @@
+{
+  "sourceId": "route-shanghai-airport-transport",
+  "title": "上海机场国庆假日返程交通提示",
+  "url": "https://www.shanghai.gov.cn/nw17239/20261007/09a2936df1a5475da9b8ecab2e38b251.html",
+  "publisher": "上海市人民政府（上海发布）",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "Pudong Airport is served by Metro Line 2 (Pudong Airport station) from 06:00 to 22:30 and by the Maglev between Pudong Airport and Longyang Road from 07:02 to 21:42, and from Longyang Road to Pudong Airport from 06:45 to 21:40.",
+    "Pudong Airport airport buses include Line 4 to Shanghai Railway Station North Square (07:00-23:00), Line 7 to Shanghai South Railway Station (07:30-23:00), and an overnight service to Hongqiao Transport Hub East (23:00-05:30).",
+    "Hongqiao Airport is served by Metro Line 2 at Terminal 2 and Line 10 at Terminals 1 and 2, both 06:00-22:30.",
+    "The city airport line runs from Hongqiao Terminal 2 from 05:45 to 22:00 about every 15 minutes.",
+    "Airport Line 1 connects Hongqiao Transport Hub East with Pudong Airport from 06:00 to 23:00.",
+    "Both airports publish parking and taxi or ride-hailing pickup areas."
+  ],
+  "license": null
+}

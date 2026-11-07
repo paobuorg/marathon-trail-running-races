@@ -1,0 +1,18 @@
+{
+  "sourceId": "route-tor-des-geants-timetable-2026",
+  "title": "TOR330 – Tor des Géants® Timetable 2026",
+  "url": "https://torxtrail.com/wp-content/uploads/2026/08/TOR330-Timetable-2026.pdf",
+  "publisher": "TORX / VDA Trailers",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The 2026 timetable totals 336.5 km from the Courmayeur start to the Courmayeur finish, with +26,182 m and −25,727 m.",
+    "The start and finish are both listed at 1,224 m; the highest waypoint is Col Loson at km 90.6 and 3,295 m, and the lowest is Donnas at km 149.8 and 323 m.",
+    "Base Vita waypoints are listed at 104.0 km (Cogne, 1,536 m), 149.8 km (Donnas, 323 m), 203.8 km (Gressoney, 1,376 m), 237.5 km (Valtournenche, 1,504 m) and 286.5 km (Ollomont, 1,384 m).",
+    "Each Base Vita row gives separate entry and exit cut-off times for the first and second start waves.",
+    "Cut-off times are published for Eaux Rousses at km 78.3 (D4 19:30 for wave one and D4 21:30 for wave two), Oyace at km 274.7 (D8 12:00 and D8 14:00) and Bosses at km 307.8 (D9 06:00 and D9 08:00).",
+    "The first wave starts at D3 10:00 and the second at D3 12:00, with finish cut-offs at D9 16:00 and D9 18:00 respectively.",
+    "The timetable gives cumulative distance, altitude, cumulative climb and cumulative descent for every waypoint, so per-segment values can be derived by subtraction."
+  ],
+  "license": null
+}

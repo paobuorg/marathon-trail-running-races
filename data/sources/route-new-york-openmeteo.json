@@ -1,0 +1,18 @@
+{
+  "sourceId": "route-new-york-openmeteo",
+  "title": "Open-Meteo historical archive — New York City grid point 40.738N 74.043W, 26 October – 2 November 2026",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=40.7128&longitude=-74.0060&start_date=2026-10-26&end_date=2026-11-02&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=America%2FNew_York",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The query returns eight daily records for 26 October to 2 November 2026 at a New York City grid point resolved to 40.738 N / 74.043 W at 32 m elevation.",
+    "Daily maximum temperature across the eight days ranges from 15.9°C to 21.8°C, with a median of 18.0°C.",
+    "Daily minimum temperature across the eight days ranges from 4.4°C to 10.9°C, with a median of 7.3°C.",
+    "One of the eight days records measurable precipitation (0.4 mm on 28 October), and no day reaches 1 mm.",
+    "On race day, 1 November 2026, the daily maximum is 16.1°C, the daily minimum is 4.4°C and precipitation is 0.0 mm.",
+    "The values are modelled or reanalysis data for a grid point, not measurements on the course, at the start village or on the bridge decks.",
+    "Open-Meteo data are published under CC BY 4.0 and require attribution."
+  ],
+  "license": "CC-BY-4.0"
+}

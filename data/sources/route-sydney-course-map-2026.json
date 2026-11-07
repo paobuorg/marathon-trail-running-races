@@ -1,0 +1,15 @@
+{
+  "sourceId": "route-sydney-course-map-2026",
+  "title": "TCS Sydney Marathon 2026 course map",
+  "url": "https://www.tcssydneymarathon.com/_files/ugd/17da07_984b9db3a9eb473ba4707d11aaa84443.pdf",
+  "publisher": "TCS Sydney Marathon",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The official 2026 course map marks the start and the finish and marks kilometres every 5 km.",
+    "The map key identifies drink stations providing water and electrolytes, and energy gel points.",
+    "The map's extractable text names North Sydney, McMahons Point, Kirribilli, Pyrmont, Ultimo, Sydney, Darlinghurst, Woolloomooloo, Surry Hills, Paddington, Woollahra, Kensington, Kingsford and Royal Randwick.",
+    "The map's extractable text contains no elevation figures and no per-segment distance or climb table."
+  ],
+  "license": null
+}

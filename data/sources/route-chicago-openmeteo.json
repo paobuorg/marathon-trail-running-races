@@ -1,0 +1,19 @@
+{
+  "sourceId": "route-chicago-openmeteo",
+  "title": "Open-Meteo historical archive — Chicago 41.8781N 87.6298W, 4–12 October 2026",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=41.8781&longitude=-87.6298&start_date=2026-10-04&end_date=2026-10-12&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max&timezone=America%2FChicago",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The query returns nine daily records from 4 to 12 October 2026 for a grid point at 41.862915N, 87.64877W, elevation 241 m, timezone America/Chicago.",
+    "Daily maximum temperature across the nine days ranges from 18.6°C to 28.9°C, with a median of 22.1°C.",
+    "Daily minimum temperature across the nine days ranges from 10.6°C to 16.6°C, with a median of 11.9°C.",
+    "Two of the nine days record 0.4 mm of precipitation, on 9 and 12 October 2026, and no day reaches 1 mm.",
+    "On race day, 11 October 2026, the grid point records a maximum of 22.1°C, a minimum of 13.6°C, 0.0 mm precipitation and maximum wind of 11.3 km/h.",
+    "Daily maximum wind across the nine days ranges from 11.3 to 21.8 km/h, with a median of 14.5 km/h.",
+    "The values are modelled historical data for a grid point, not measurements on the race course.",
+    "Open-Meteo data are published under CC BY 4.0 and require attribution."
+  ],
+  "license": "CC-BY-4.0"
+}

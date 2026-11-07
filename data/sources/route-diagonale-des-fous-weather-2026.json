@@ -1,0 +1,17 @@
+{
+  "sourceId": "route-diagonale-des-fous-weather-2026",
+  "title": "Open-Meteo historical archive — Réunion grid point, 8–19 October 2026",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=-21.12&longitude=55.45&start_date=2026-10-08&end_date=2026-10-19&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=auto",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The archive returned the nearest grid point at 21.195° S, 55.483° E, elevation 1,166 m, timezone Indian/Reunion (UTC+4).",
+    "For the 12-day window 8–19 October 2026 the modelled daily maximum ranged from 18.7 °C to 22.6 °C with a median of 20.8 °C.",
+    "The modelled daily minimum ranged from 9.8 °C to 12.3 °C with a median of 11.3 °C.",
+    "8 of the 12 days had at least 1 mm of precipitation and 4 had at least 5 mm, with a window total of 39.2 mm.",
+    "On 15 October 2026 the modelled maximum was 20.5 °C, the minimum 9.8 °C and precipitation 0.4 mm.",
+    "These values are modelled grid-point data, not measurements taken on the race course."
+  ],
+  "license": "CC-BY-4.0"
+}

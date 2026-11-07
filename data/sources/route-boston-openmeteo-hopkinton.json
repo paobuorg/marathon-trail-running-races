@@ -1,0 +1,16 @@
+{
+  "sourceId": "route-boston-openmeteo-hopkinton",
+  "title": "Open-Meteo historical archive — Hopkinton grid point, 13–21 April 2026",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=42.2287&longitude=-71.5226&start_date=2026-04-13&end_date=2026-04-21&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max&timezone=America%2FNew_York",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The archive returns a grid point at 42.21441 N, -71.57895 W, elevation 134 m, for 13–21 April 2026.",
+    "Daily maximum temperatures over the nine days range from 9.8°C to 28.5°C, with a median of 19.2°C.",
+    "Daily minimum temperatures over the nine days range from -1.6°C to 14.0°C, with a median of 6.9°C.",
+    "Six of the nine days recorded at least 1 mm of precipitation and two recorded at least 5 mm.",
+    "On 20 April 2026 the grid shows a maximum of 9.8°C, a minimum of 0.3°C, 0.1 mm precipitation and maximum wind of 17.6 km/h."
+  ],
+  "license": "CC-BY-4.0"
+}

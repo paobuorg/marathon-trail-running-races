@@ -1,0 +1,16 @@
+{
+  "sourceId": "route-boston-openmeteo-boston",
+  "title": "Open-Meteo historical archive — Boston grid point, 13–21 April 2026",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=42.3601&longitude=-71.0589&start_date=2026-04-13&end_date=2026-04-21&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max&timezone=America%2FNew_York",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The archive returns a grid point at 42.35501 N, -71.12906 W, elevation 9 m, for 13–21 April 2026.",
+    "Daily maximum temperatures over the nine days range from 9.2°C to 25.4°C, with a median of 16.6°C.",
+    "Daily minimum temperatures over the nine days range from -0.4°C to 14.0°C, with a median of 6.9°C.",
+    "Four of the nine days recorded at least 1 mm of precipitation and four recorded at least 5 mm.",
+    "On 20 April 2026 the grid shows a maximum of 10.1°C, a minimum of 1.4°C, 0.4 mm precipitation and maximum wind of 15.7 km/h."
+  ],
+  "license": "CC-BY-4.0"
+}

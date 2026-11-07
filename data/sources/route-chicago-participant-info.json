@@ -1,0 +1,17 @@
+{
+  "sourceId": "route-chicago-participant-info",
+  "title": "Participant Information – Bank of America Chicago Marathon",
+  "url": "https://www.chicagomarathon.com/event-info/participant-information/",
+  "publisher": "Bank of America Chicago Marathon",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The event says the course takes participants through 29 neighbourhoods with the support of 10,000 volunteers and 1.7 million spectators.",
+    "The Hilton Chicago is the official headquarters hotel of the Bank of America Chicago Marathon, overlooking Grant Park and Lake Michigan, with 1,544 deluxe guest rooms near the start and finish.",
+    "Maritz is the official housing partner, offering access to room blocks at selected hotels.",
+    "Participants must collect their own packet and bag in person at the Abbott Health & Fitness Expo at McCormick Place; packets are not available on race day and are not mailed.",
+    "The page gives the race-day schedule, start-corral information, gear-check information, packet pick-up details and race-weekend services.",
+    "The page does not publish a cumulative elevation gain or descent figure."
+  ],
+  "license": null
+}

@@ -1,0 +1,17 @@
+{
+  "sourceId": "route-berlin-ber-airport",
+  "title": "Arrival and departure by public transport – BER Airport",
+  "url": "https://ber.berlin-airport.de/en/orientierung/getting-here/public-transport.html",
+  "publisher": "Flughafen Berlin Brandenburg GmbH",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The Airport Express (FEX) runs between Berlin Hauptbahnhof, Potsdamer Platz, Südkreuz and BER Airport.",
+    "The FEX runs every 15 minutes from 4 a.m. to 1 a.m., with a journey time of about 23 minutes from Hauptbahnhof, 19 minutes from Potsdamer Platz and 14 minutes from Südkreuz.",
+    "Regional trains RE20, RB22, RB24 and RB32 also serve BER Airport.",
+    "S-Bahn lines S9 and S85 serve BER Airport every 20 minutes.",
+    "Express bus X7 runs every 5 to 10 minutes between U Rudow and BER Airport.",
+    "The BER Airport railway station is directly under Terminal 1 on level U2."
+  ],
+  "license": null
+}

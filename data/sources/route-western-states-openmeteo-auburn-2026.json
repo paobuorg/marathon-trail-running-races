@@ -1,0 +1,17 @@
+{
+  "sourceId": "route-western-states-openmeteo-auburn-2026",
+  "title": "Open-Meteo historical archive – Auburn grid point, 20-28 June 2026",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=38.8966&longitude=-121.0769&start_date=2026-06-20&end_date=2026-06-28&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=America%2FLos_Angeles",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The returned grid point is 38.9104 N, 121.0260 W at an elevation of 374 m.",
+    "Daily maximum temperature from 20 to 28 June 2026 ranged from 23.9 to 32.1 degrees C with a median of 29.6 degrees C.",
+    "Daily minimum temperature from 20 to 28 June 2026 ranged from 11.6 to 15.1 degrees C with a median of 13.6 degrees C.",
+    "One of the nine days had at least 1 mm of precipitation and none had at least 5 mm; 26 June recorded 1.9 mm and 27 June recorded 0.6 mm.",
+    "On 27 June 2026 the grid point recorded a maximum of 23.9 degrees C, a minimum of 13.6 degrees C and 0.6 mm of precipitation.",
+    "These are modelled grid-point values, not measurements taken on the race course."
+  ],
+  "license": "CC-BY-4.0"
+}

@@ -1,0 +1,18 @@
+{
+  "sourceId": "route-beijing-weather",
+  "title": "Open-Meteo historical archive — Beijing grid point, 2026-10-11 to 2026-10-19",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=39.9042&longitude=116.4074&start_date=2026-10-11&end_date=2026-10-19&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=auto",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The archive returns a grid point at 39.89455N, 116.35983E, 47 m elevation, in timezone Asia/Shanghai.",
+    "The nine daily values cover 2026-10-11 to 2026-10-19.",
+    "Daily maximum temperatures range from 16.2C to 26.6C, with a median of 21.5C.",
+    "Daily minimum temperatures range from 6.8C to 15.9C, with a median of 12.8C.",
+    "One of the nine days has precipitation of at least 1 mm and one has at least 5 mm; the largest daily total is 52.2 mm on 2026-10-17.",
+    "On race day 2026-10-18 the daily maximum is 17.2C, the minimum is 10.5C and precipitation is 0.0 mm.",
+    "These are modelled grid values, not measurements taken on the course."
+  ],
+  "license": "CC-BY-4.0"
+}

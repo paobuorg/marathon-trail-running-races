@@ -1,0 +1,17 @@
+{
+  "sourceId": "route-hong-kong-100-openmeteo-2026",
+  "title": "Open-Meteo historical archive – Hong Kong grid point, 17-25 January 2026",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=22.40&longitude=114.25&start_date=2026-01-17&end_date=2026-01-25&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Asia%2FHong_Kong",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The returned grid point is at latitude 22.3902 and longitude 114.2236, at an elevation of 380 m, with timezone Asia/Hong_Kong.",
+    "Daily maximum temperatures from 17 to 25 January 2026 ranged from 13.9°C to 23.4°C, with a median of 18.2°C.",
+    "Daily minimum temperatures over the same nine days ranged from 6.5°C to 12.8°C, with a median of 10.3°C.",
+    "Only one of the nine days recorded any precipitation, 0.1 mm on 23 January 2026; no day reached 1 mm.",
+    "On 24 January 2026 the modelled daily maximum was 18.0°C and the minimum 7.2°C, with no precipitation.",
+    "These values are grid-point modelled historical data, not on-course measurements."
+  ],
+  "license": "CC-BY-4.0"
+}

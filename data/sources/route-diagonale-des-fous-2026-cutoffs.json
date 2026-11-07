@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-diagonale-des-fous-2026-cutoffs",
+  "title": "Diagonale des Fous 2026 — tableau des barrières horaires (PDF)",
+  "url": "https://www.grandraid-reunion.com/IMG/pdf/diag_2026_av_barrieres_horaires.pdf",
+  "publisher": "Grand Raid de La Réunion",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The 2026 cut-off table lists 33 points (1 start, 16 CP, 13 PR, 2 BV and 1 finish) and totals 180.8 km with +10,191 m and −10,154 m.",
+    "The 33 points in table order are: DEP Saint-Pierre Ravine Blanche 0.0; CP1 Domaine Vidot 14.0; CP2 Notre-Dame de la Paix–École 33.4; CP3 Parking aire Nez de Bœuf 45.4; CP4 Mare à Boue 55.6; CP5 Coteau Kerveguen 65.1; CP6 Croisée Coteau Kerveguen 67.6; PR1 Intersection Cap Anglais 70.5; CP7 Gîte de Bélouve 76.4; BV1 Hell-Bourg 80.6; PR2 Parking Bras Marrons 84.3; PR3 Ilet Mare d'Affouches 85.9; PR4 Plaine des Merles 87.2; PR5 Intersection Col de Fourche/Plaine des Merles 93.1; CP8 Plaine des Merles 93.8; CP9 Départ Sentier Scout 96.0; PR6 La Plaque 102.4; PR7 Ilet à Bourse 104.4; CP10 Grand Place les Bas–École 107.8; PR8 Roche Ancrée 111.3; CP11 Roche Plate–Plateau Cerf 116.4; PR9 La Brèche 118.9; PR10 Ti Col Maïdo 122.4; CP12 Maïdo–Tête Dure 123.9; BV2 Ilet Savannah 140.5; CP13 Chemin Ratinaud–Kalla 147.9; PR11 Lot. La Résidence Grande Montagne 153.9; CP14 La Possession–Place Festival 155.1; CP15 Grande Chaloupe 164.5; PR12 Saint-Bernard–Les Bambous 169.0; CP16 Colorado 173.8; PR13 Belvédère de la Vigie 177.8; ARR La Redoute 180.8.",
+    "Every point row gives cumulative kilometres, altitude, cumulative D+ and cumulative D−; key cumulative values are CP4 55.6 km/1,604 m/2,894/1,295; BV1 80.6/995/4,043/3,056; CP9 96.0/1,635/5,364/3,736; CP11 116.4/1,256/6,913/5,663; BV2 140.5/133/8,095/7,968; CP14 155.1/20/8,929/8,912; ARR 180.8/49/10,191/10,154.",
+    "Croisée Coteau Kerveguen at km 67.6, 2,475 m, is the highest timed point in the table; CP5 Coteau Kerveguen at km 65.1 stands at 2,187 m.",
+    "The 19 closing times are DEP Thursday 22:00; CP1 Friday 01:30; CP2 Friday 07:00; CP3 Friday 10:30; CP4 Friday 13:00; CP6 Friday 17:30; CP7 Friday 21:00; BV1 Saturday 01:00; CP8 Saturday 06:00; CP9 Saturday 07:00; CP10 Saturday 11:30; CP11 Saturday 16:30; CP12 Saturday 20:30; BV2 Sunday 00:15; CP13 Sunday 03:00; CP14 Sunday 06:30; CP15 Sunday 09:00; CP16 Sunday 13:30; ARR Sunday 16:00.",
+    "Hell-Bourg is base 1 (BV1) at km 80.6, 995 m, with food, soup, hot meal, doctor, nurse, physiotherapy, podiatry and a drop bag.",
+    "Ilet Savannah is base 2 (BV2) at km 140.5, 133 m, with food, soup, hot meal, doctor, nurse, physiotherapy, podiatry and a drop bag.",
+    "Only Hell-Bourg, Ilet Savannah and the La Redoute finish carry the drop-bag mark.",
+    "Gîte de Bélouve at km 76.4 is a timing point with a water-only supply; Départ Sentier Scout at km 96.0 is a timing point with personal assistance but no supply.",
+    "The 13 PR points carry no cut-off time; 15 of the 16 CP points and both BV points do, while CP5 Coteau Kerveguen carries none and a water-only supply.",
+    "The Repas chaud column is marked only at CP4 Mare à Boue, BV1 Hell-Bourg, BV2 Ilet Savannah and the La Redoute finish.",
+    "The Médecin column is marked at 10 points: DEP, CP4, BV1, CP8, CP10, CP11, CP12, BV2, CP14 and ARR; the Infirmier column is marked at 15 points: DEP, CP1, CP2, CP3, CP4, CP6, BV1, CP8, CP10, CP11, CP12, BV2, CP14, CP16 and ARR.",
+    "Kiné and Podologue are marked only at BV1, BV2 and ARR; Ostéopathe only at ARR; Secouriste at DEP and ARR.",
+    "Personal assistance (Assistance personnelle) is marked O at 15 points: DEP, CP1, CP2, CP3, CP4, BV1, CP9, CP10, CP11, PR10, BV2, CP14, CP15, CP16 and ARR; every other point is marked X.",
+    "The finish is at La Redoute, km 180.8, 49 m, with a Sunday 16:00 cut-off."
+  ],
+  "license": null
+}

@@ -1,0 +1,16 @@
+{
+  "sourceId": "route-hardrock-tracking",
+  "title": "Mandatory Electronic Runner Tracking",
+  "url": "https://hardrock100.com/hardrock-runner-tracking.php",
+  "publisher": "Hardrock Hundred Endurance Run",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "All runners must carry a Hardrock-issued GPS transmitter for the full duration of the run, and a pacer cannot carry it for the runner.",
+    "The transmitter is issued on Wednesday or Thursday at runner check-in and is returned after the runner finishes or withdraws.",
+    "Hardrock uses the Spot Gen3 tracker and the MAProgress tracking system.",
+    "A runner is not disqualified if the transmitter is lost, broken or accidentally left with crew.",
+    "Instructions for initiating a rescue are provided with the device, and initiating a rescue means the runner has dropped and cannot re-enter the run."
+  ],
+  "license": null
+}

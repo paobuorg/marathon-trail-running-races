@@ -1,0 +1,18 @@
+{
+  "sourceId": "route-tor-des-geants-gpx-2026",
+  "title": "TOR330 Full Track (GPX), 2026",
+  "url": "https://torxtrail.com/wp-content/uploads/2026/08/TOR330-CERT-2026.gpx",
+  "publisher": "TORX / VDA Trailers",
+  "publishedAt": null,
+  "accessedAt": "2026-11-07",
+  "claims": [
+    "The full-course GPX URL resolves and returns GPX 1.1 data created with Garmin Desktop App.",
+    "The file metadata contains only a Garmin link and a creation timestamp of 2026-08-14, with no copyright or redistribution licence statement.",
+    "The track bounds span latitudes 45.548 to 45.880 N and longitudes 6.921 to 7.930 E.",
+    "The file contains waypoints named BaseVita-Valgrisenche, BaseVita-Cogne, BaseVita-Donnas, BaseVita-Gressoney, BaseVita-Valtournenche and BaseVita-Ollomont.",
+    "Life Base waypoints carry the description 'Base vita - Base vie - Life base Docce - Douches - Showers Medico - Medecin - Doctor Barriera oraria - Barriere horaire - Time deadline'.",
+    "The BaseVita-Valgrisenche waypoint is at 45.630 N / 7.063 E with an elevation of 1,686 m.",
+    "The organiser also publishes seven split GPX files named START–Life Base 1 through Life Base 6–FINISH."
+  ],
+  "license": null
+}

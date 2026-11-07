@@ -1,0 +1,15 @@
+{
+  "sourceId": "route-chicago-course-map",
+  "title": "2026 Bank of America Chicago Marathon Course Map (official PDF)",
+  "url": "https://cdn.chicagomarathon.com/app/uploads/2026/08/24120143/26-BACM-COURSE-MAP-PRINT.pdf",
+  "publisher": "Bank of America Chicago Marathon",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The organiser publishes a 2026 course-map PDF.",
+    "The map legend includes mile markers, kilometre markers, aid stations, medical points, Culligan water refill stations, Maurten Hydrogel Fuel Depots, Biofreeze Pain Relief Zones, Bank of America Cheer Zones and charity block parties.",
+    "The map states that the course is subject to change.",
+    "The PDF is a map, not a GPX, KML or GeoJSON file, and it does not publish a cumulative elevation profile or ascent figure."
+  ],
+  "license": null
+}

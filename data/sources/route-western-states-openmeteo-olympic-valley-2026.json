@@ -1,0 +1,18 @@
+{
+  "sourceId": "route-western-states-openmeteo-olympic-valley-2026",
+  "title": "Open-Meteo historical archive – Olympic Valley grid point, 20-28 June 2026",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=39.196&longitude=-120.235&start_date=2026-06-20&end_date=2026-06-28&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=America%2FLos_Angeles",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The returned grid point is 39.1916 N, 120.2063 W at an elevation of 1,900 m.",
+    "Daily maximum temperature from 20 to 28 June 2026 ranged from 15.1 to 26.4 degrees C with a median of 24.2 degrees C.",
+    "Daily minimum temperature from 20 to 28 June 2026 ranged from 2.9 to 9.2 degrees C with a median of 5.9 degrees C.",
+    "One of the nine days had at least 1 mm of precipitation and none had at least 5 mm; 26 June recorded 1.1 mm and 27 June recorded 0.3 mm.",
+    "On 27 June 2026 the grid point recorded a maximum of 15.1 degrees C, a minimum of 4.5 degrees C and 0.3 mm of precipitation.",
+    "These are modelled grid-point values, not measurements taken on the race course.",
+    "The grid point is at 1,900 m, close to the official 6,200 ft start elevation, and the high country above it is colder."
+  ],
+  "license": "CC-BY-4.0"
+}

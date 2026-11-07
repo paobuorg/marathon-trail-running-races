@@ -1,0 +1,18 @@
+{
+  "sourceId": "route-hardrock-lottery",
+  "title": "Hardrock 100 Lottery - How the Lottery Works",
+  "url": "https://hardrock100.com/hardrock-lottery.php",
+  "publisher": "Hardrock Hundred Endurance Run",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "About 3000 applicants apply each year.",
+    "For the 2026 Hardrock, the 6 December 2025 lottery selected 147 entrants, split 64/83 between the Finished and Never Finished pools.",
+    "For 2026, 22.2% of applicants were women, and the percentage of women selected to start will not be less than the percentage of applicants.",
+    "The Never Finished pool gives 2^N tickets, where N is the number of previous DNSs since the applicant last started Hardrock.",
+    "The Finished pool gives one ticket for applying, one additional ticket per finish and one per DNS since the last start.",
+    "The Run Director may select six additional runners for 2026, evenly split between men and women.",
+    "The lottery is normally conducted at the beginning of December."
+  ],
+  "license": null
+}

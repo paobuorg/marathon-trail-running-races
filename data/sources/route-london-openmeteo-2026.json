@@ -1,0 +1,16 @@
+{
+  "sourceId": "route-london-openmeteo-2026",
+  "title": "Open-Meteo historical archive – London grid point, 19–27 April 2026",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=51.5074&longitude=-0.1278&start_date=2026-04-19&end_date=2026-04-27&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=auto",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "Open-Meteo archive data for 19–27 April 2026 at the returned grid point 51.4938 N, -0.1630 W at 16 m elevation give daily maximum temperatures from 13.4 °C to 21.7 °C with a median of 18.1 °C.",
+    "The same window gives daily minimum temperatures from 4.6 °C to 7.9 °C with a median of 6.4 °C.",
+    "Total precipitation in the nine-day window is 0.6 mm, all on 27 April 2026; eight days record 0.0 mm and no day reaches 1 mm.",
+    "On 26 April 2026 the grid point records a maximum of 19.5 °C, a minimum of 7.5 °C and 0.0 mm precipitation.",
+    "The values are modelled/reanalysis grid data, not measurements at the course."
+  ],
+  "license": "CC-BY-4.0"
+}

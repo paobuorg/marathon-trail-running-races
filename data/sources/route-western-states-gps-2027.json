@@ -1,0 +1,14 @@
+{
+  "sourceId": "route-western-states-gps-2027",
+  "title": "GPS Info – Western States 100",
+  "url": "https://www.wser.org/gps-info/",
+  "publisher": "Western States Endurance Run Foundation",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The GPS Info page links a GPX file for the 2027 course, including aid station waypoints, at https://www.wser.org/wp-content/uploads/gpx/WSER2027.gpx.",
+    "The GPS Info page does not link a GPX file for the 2026 course.",
+    "The page lists crew-accessible coordinates for Duncan Canyon, Robinson Flat, Dusty Corners, Michigan Bluff, Foresthill, Rucky Chucky parking at Driver's Flat, Green Gate and Pointed Rocks."
+  ],
+  "license": null
+}

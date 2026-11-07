@@ -1,0 +1,18 @@
+{
+  "sourceId": "route-chicago-transport",
+  "title": "Airport transit – Chicago Transit Authority",
+  "url": "https://www.transitchicago.com/airports/",
+  "publisher": "Chicago Transit Authority",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "CTA Blue Line trains provide direct service to and from O'Hare Airport, with the station in the lower-level concourse connected to Terminals 1, 2 and 3 and via a free airport shuttle train from Terminal 5.",
+    "Blue Line trains run 24 hours a day, seven days a week, and take about 40–45 minutes from O'Hare to downtown.",
+    "The CTA fare from O'Hare to downtown is $5 or less.",
+    "CTA Orange Line trains provide direct service to and from Midway Airport, with the station just east of the terminal and an enclosed walkway.",
+    "Orange Line trains take about 20–25 minutes from Midway to downtown and cost $2.50 or less.",
+    "Orange Line service does not run overnight, and the N62 Archer bus provides alternate overnight service.",
+    "All trains from O'Hare and Midway stations go through downtown."
+  ],
+  "license": null
+}

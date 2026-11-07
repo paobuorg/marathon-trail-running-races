@@ -1,0 +1,18 @@
+{
+  "sourceId": "route-hong-kong-100-hko-climate",
+  "title": "Climate of Hong Kong",
+  "url": "https://www.hko.gov.hk/en/cis/climahk.htm",
+  "publisher": "Hong Kong Observatory",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "Hong Kong's climate is sub-tropical, tending towards temperate for nearly half the year.",
+    "January and February are cloudier, with occasional cold fronts followed by dry northerly winds, and it is not uncommon for temperatures to drop below 10°C in urban areas.",
+    "Sub-zero temperatures and frost also occur at times on high ground and in the New Territories.",
+    "January and December are usually the driest months in Hong Kong.",
+    "About 80 percent of Hong Kong's rain falls between May and September.",
+    "Mean annual rainfall ranges from about 1,400 mm at Ping Chau to more than 3,000 mm in the vicinity of Tai Mo Shan.",
+    "May to November are the months in which tropical cyclones of different intensities may strike Hong Kong, while July to September are the most likely months."
+  ],
+  "license": null
+}

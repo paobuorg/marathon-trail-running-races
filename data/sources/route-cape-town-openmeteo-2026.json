@@ -1,0 +1,19 @@
+{
+  "sourceId": "route-cape-town-openmeteo-2026",
+  "title": "Open-Meteo historical archive — Cape Town grid point, 17–25 May 2026",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=-33.906&longitude=18.41&start_date=2026-05-17&end_date=2026-05-25&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max&timezone=Africa%2FJohannesburg",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The API returned a grid point at 33.848858 S / 18.49315 E with an elevation of 12 m and timezone Africa/Johannesburg.",
+    "The request covers nine days from 17 to 25 May 2026.",
+    "Daily maximum temperatures ranged from 17.2 °C to 24.0 °C, with a median of 20.6 °C.",
+    "Daily minimum temperatures ranged from 10.6 °C to 15.5 °C, with a median of 12.7 °C.",
+    "Precipitation reached at least 1 mm on two of the nine days: 1.9 mm on 19 May and 1.2 mm on 22 May; no day reached 5 mm.",
+    "Daily maximum wind speeds ranged from 8.5 to 20.9 km/h, with a median of 12.8 km/h.",
+    "On 24 May 2026 the values were 20.6 °C maximum, 14.1 °C minimum, 0.0 mm precipitation and 11.6 km/h maximum wind.",
+    "The values are modelled grid-point data returned for the requested coordinates, not measurements taken on the race course."
+  ],
+  "license": "CC BY 4.0"
+}

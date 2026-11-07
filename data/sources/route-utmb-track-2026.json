@@ -1,14 +1,14 @@
 {
   "sourceId": "route-utmb-track-2026",
-  "title": "UTMB 2026 — Race Profile / Map / Table",
+  "title": "UTMB 2026 — Race Profile / Map / Table (2026-11-07 recheck: 173.6 km / +9,700 m / 17 service points)",
   "url": "https://track.utmb.world/en/utmb/2026/utmb/track",
   "publisher": "UTMB World Series",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-07",
   "claims": [
     "The official interactive track view is the public source for the 2026 UTMB profile, map and timing table.",
     "The profile covers the full 2026 course from Chamonix back to Chamonix.",
-    "The page is embedded as an iframe from the official UTMB race page."
+    "The page is a standalone single-page app, not an iframe. On 2026-11-07 it rendered 17 service-point rows covering 173.6 km with +9,700 m / -9,699 m, and did not show the 32-point timing table or Col des Pyramides Calcaires cited elsewhere on this page."
   ],
   "license": null
 }

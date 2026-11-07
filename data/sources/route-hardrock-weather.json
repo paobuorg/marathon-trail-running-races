@@ -1,0 +1,17 @@
+{
+  "sourceId": "route-hardrock-weather",
+  "title": "Open-Meteo historical archive, Silverton grid point, 10-12 July 2016-2025",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=37.811&longitude=-107.664&start_date=2025-07-10&end_date=2025-07-12&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=auto",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-06",
+  "claims": [
+    "The same daily query was repeated for 10-12 July in each year from 2016 to 2025; the URL records the 2025 window as the representative request.",
+    "The returned grid cell is 37.7856 N, 107.7108 W at 2,838 m elevation, timezone America/Denver.",
+    "Across the 30 days, daily maximum temperature ranged from 18.3 to 26.4 C with a median of 22.1 C.",
+    "Daily minimum temperature ranged from 1.8 to 11.4 C with a median of 6.3 C.",
+    "11 of the 30 days had at least 1 mm of precipitation, 5 had at least 5 mm, and the maximum daily total was 14 mm.",
+    "These are gridded historical values, not on-course measurements."
+  ],
+  "license": "CC-BY-4.0"
+}
