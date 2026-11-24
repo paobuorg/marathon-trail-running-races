@@ -4,7 +4,7 @@
   "url": "https://www.courmayeurmontblanc.it/en/how-to-get-here/",
   "publisher": "Courmayeur Mont Blanc (official tourism office)",
   "publishedAt": null,
-  "accessedAt": "2026-11-07",
+  "accessedAt": "2026-11-08",
   "claims": [
     "Turin Caselle airport is about 150 km from Courmayeur, Milan Malpensa 212 km, Milan Linate 235 km and Geneva 115 km.",
     "The railway line serving the locality is the Chivasso–Aosta line.",
@@ -12,5 +12,42 @@
     "By car from Italy the main roads are the SS26 della Valle d'Aosta and the A5 Torino–Aosta–Courmayeur motorway; from France, Switzerland and northern Europe the connection is the Mont Blanc Tunnel or the Gran San Bernardo Tunnel.",
     "Town parking includes Piazzale Monte Bianco P1 (maximum 15 euros per 24 hours), Viale Monte Bianco P2 (maximum 20 euros per 24 hours) and Tzan de Blà P3 (maximum 8 euros per 24 hours)."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "browser",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "By plane：Turin Caselle 约 150 km、Milan Malpensa 212 km、Milan Linate 235 km、Geneva 115 km"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "By train：Chivasso–Aosta"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "By bus：连接 Aosta、Valle del Monte Bianco 与意大利北部主要城市，并连接 Chamonix"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "By car：SS26 della Valle d'Aosta、A5 Torino–Aosta–Courmayeur；Mont Blanc Tunnel 或 Gran San Bernardo Tunnel"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Car parks：P1 24 小时上限 €15、P2 €20、P3 €8"
+    }
+  ]
 }

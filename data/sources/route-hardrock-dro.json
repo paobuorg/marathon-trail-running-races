@@ -1,7 +1,7 @@
 {
   "sourceId": "route-hardrock-dro",
   "title": "Durango-La Plata County Airport (DRO)",
-  "url": "https://www.flydurango.com/209/Ground-Transportation",
+  "url": "https://www.flydurango.com/",
   "publisher": "Durango-La Plata County Airport",
   "publishedAt": null,
   "accessedAt": "2026-11-07",
@@ -12,5 +12,44 @@
     "Long-term parking is a few steps from the terminal.",
     "The airport offers rental cars and ground transportation information."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "官方页面直读",
+    "note": "claim 0–4 的原文均在机场首页；Ground Transportation 子页（https://www.flydurango.com/209/Ground-Transportation）是首页导航入口，只用于 claim 4 的“租车与地面交通信息”。2026-11-08 复核时 www.flydurango.com 连接超时，未能重读，沿用 2026-11-07 直读记录"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "机场首页首段：primary regional airport for southwest Colorado, northwest New Mexico and the entire Four Corners region"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "机场首页首段：American Airlines and United Airlines"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "机场首页首段：Year-round daily nonstop…DFW, DEN, PHX…seasonal…IAH"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "机场首页首段：long-term parking is just a few steps away"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "机场首页导航含 Rental Cars / Ground Transportation；对应子页 https://www.flydurango.com/209/Ground-Transportation 于 2026-11-07 可读"
+    }
+  ]
 }

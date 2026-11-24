@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-canyons-official-100m-aid-chart",
+  "title": "Canyons 100M aid-station chart (metric, 2026 revision)",
+  "url": "https://res.cloudinary.com/utmb-world/image/upload/v1776896940/canyons/2026/Aid%20Station%20Charts/2026_The_Canyons_Endurance_Runs_by_UTMB_100_mile_Aid_Station_Chart_Metric_0116e960f0.pdf.pdf",
+  "publisher": "UTMB World Series / Canyons Endurance Runs by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The 2026 100M metric chart places Start at 0.0 km, Deadwood-1 at 18.0, Swinging Bridge at 21.7, Deadwood-2 at 25.4, Michigan Bluff at 36.4, Foresthill at 45.9, Cal 2 at 59.1, Drivers Flat at 74.0, Mammoth Bar at 86.7, Confluence at 92.7, No Hands-1 at 93.8, Cool-1 at 98.6, Coffer Dam-1 at 101.4, Coffer Dam-2 at 108.8, Cool-2 at 118.3, Browns Bar-1 at 125.0, ALT at 133.7, Browns Bar-2 at 145.9, No Hands-2 at 155.8 and the finish at 161.4 km.",
+    "The chart gives cut-offs of 18:30 at Deadwood-2, 19:45 at Michigan Bluff, 21:30 at Foresthill, 03:00 at Drivers Flat, 05:30 at Mammoth Bar, 08:00 at Cool-1, 12:00 at Cool-2, 15:30 at ALT and 23:00 Saturday at the finish.",
+    "The chart's cumulative figures are 5,499 m of gain and 6,546 m of loss, while the race page header gives 18,208 ft+ (about 5,550 m).",
+    "The chart marks drop bags at Foresthill, Cool-1 and Cool-2, and crew access at Michigan Bluff, Foresthill, Drivers Flat, Cool-1 and Cool-2."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 读取 100M 公制补给站 PDF；为 2026 版，2027 页明确说会变。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "PDF 表内 AS KMs 列逐项照录；终点 161.4" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "PDF Cut-Off Time 列逐项照录" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "PDF 终点累计 5,499 / 6,546 m；赛事页页头 18,208 ft+ 约合 5,550 m" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "PDF Drop Bags / Crew Pacers 列的 X 标记逐行照录" }
+  ]
+}

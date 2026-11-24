@@ -1,0 +1,62 @@
+{
+  "entityId": "route:lavaredo",
+  "slug": "lavaredo",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-lavaredo-2027",
+    "route-lavaredo-track-2027",
+    "route-lavaredo-regulations-2025",
+    "route-lavaredo-aid-stations",
+    "route-lavaredo-mandatory-equipment",
+    "route-lavaredo-medical-certificate",
+    "route-lavaredo-gpx-2026",
+    "route-lavaredo-travel",
+    "route-lavaredo-weather",
+    "route-utmb-world-series-2027",
+    "photo-lavaredo-auronzo-2021"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:recovery-day",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-20",
+  "reviewedAt": "2026-11-20",
+  "reviewDueAt": "2027-05-31",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "IT"
+    ],
+    "placeName": {
+      "zh-CN": "意大利威尼托大区贝卢诺省科尔蒂纳丹佩佐（Cortina d'Ampezzo），Corso Italia 起终点",
+      "en": "Cortina d'Ampezzo, Province of Belluno, Veneto, Italy; start and finish on the Corso Italia"
+    },
+    "mapAnchor": {
+      "longitude": 12.1371008,
+      "latitude": 46.5374171,
+      "kind": "start",
+      "sourceRef": "route-lavaredo-gpx-2026"
+    },
+    "courseVersion": "2027-lavaredo120k",
+    "courseEdition": "2027",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "Loop from the Corso Italia in Cortina d'Ampezzo through the Dolomites and back to Cortina d'Ampezzo",
+    "distanceMeters": 120000,
+    "distanceMethod": "The 2027 Lavaredo 120K page gives 120 km; the track embedded in the same page measures 120,753 m; the linked GPX measures 119.479 km horizontally and 120.484 km in three dimensions. This card uses the official 120 km and keeps the other figures in the body. The event has five races and this page is about the 120K only.",
+    "elevationGainMeters": 5800,
+    "elevationMethod": "The 2027 page gives 5,800 m of positive gain and the embedded track gives 5,364 m with 5,346 m of loss. The linked GPX yields 5,977 m of raw positive change and 5,961 m of raw negative change; a 3 m threshold gives only 829 m because the 12,316 points are sampled too densely for that filter. This card uses the official 5,800 m; file-based figures are shown in the body and are not averaged with it.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": "https://pdf.utmb.world/raw/upload/v1782387012/lavaredo/files/2026/LUT_20_Madre_2026_6_2025_2065s_20pul_89a81f913b.gpx",
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://lavaredo.utmb.world/races/lavaredo120k",
+    "attribution": "La Sportiva Lavaredo Ultra Trail by UTMB. The GPX linked from the 2027 Lavaredo 120K page sits in a directory named files/2026, is named LUT_Madre_2026_6_2025_65s_pul_89a81f913b.gpx, was created by Garmin Desktop App, carries a metadata time of 2025-06-25T22:12:43Z, a track name 'LUT (Madre) 26-6-2025 65s pul.', first and last trackpoint times in August 2023, and no reuse licence. This site links to the official race page, does not host the file, does not draw the track and does not treat the file as verified 2027 geometry."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-two-oceans-faqs",
+  "title": "FAQs — Two Oceans Marathon",
+  "url": "https://www.twooceansmarathon.org.za/faqs/",
+  "publisher": "Two Oceans Marathon NPC",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The final cut-off for the 56 km Ultra Marathon is 7 hours from the start gun time of the last batch.",
+    "The time-of-day cut-off is determined by the starting time-of-day of the last batch and the cut-off time for 56 km to the finish line.",
+    "The Ultra and Half Marathons both start on Main Road, Newlands, and both finish at the University of Cape Town.",
+    "Parking details are posted on the website, and tickets for reserved parking are available through the entry system and at Race Pack Collection.",
+    "The FAQs do not publish the 2027 intermediate cut-off positions or clock times; they refer readers to the route map."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接抓取官网 FAQ 页，抄录 7 小时终点关门、按最后一组起跑时间换算的时刻关门、起终点、停车票获取方式；FAQ 未给 2027 中途关门表。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'The final cut-off for the 56km Ultra Marathon is 7 hours from the start gun time of the last batch.'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'Time-of-Day Cut-off is determined by the starting time-of-day of the last batch and the cut-off time for 56km... to the finish line.'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'The Ultra and Half Marathons both start on Main Road, Newlands.'；'both finish at the University of Cape Town.'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'Details of parking will be posted on the website.'；'Tickets for reserved parking will be available through the entry system and at Race Pack Collection.'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "FAQ 页面无中途关门位置或钟点；只给终点 7 小时与时刻换算规则。" }
+  ]
+}

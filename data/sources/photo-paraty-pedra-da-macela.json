@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-paraty-pedra-da-macela",
+  "title": "File:Pedra da Macela 1.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Pedra_da_Macela_1.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2015-07-11",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "The photograph shows sunrise from Pedra da Macela: a granite ridge and rounded summit in the foreground, low cloud below, forested slopes and islands, and the Angra dos Reis bay in the distance under a pale sky.",
+    "Commons titles the file Pedra da Macela 1.jpg and describes it as sunrise at Pedra da Macela with a view towards the Baia de Angra dos Reis; it is categorised under Paraty and Pedra da Macela. It shows the summit setting and view, not the 2027 race, a timing point, aid station, course marking or race-day crowd.",
+    "The author is Rafael Defavari; the file is licensed CC BY-SA 4.0; the photograph was taken on 2015-07-11; the original is 1,800 x 1,200 pixels and 1,318,504 bytes, and the file page gives no camera coordinates.",
+    "The route page uses a 960 x 640 copy of 127,498 bytes without cropping or colour change and credits Rafael Defavari, CC BY-SA 4.0, Wikimedia Commons; the resized copy keeps the same licence."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons file page, imageinfo API and downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons 文件页与 API 核对作者、许可、日期、原图尺寸和分类，并下载 960 px 副本目视确认：画面是 Pedra da Macela 日出与 Angra dos Reis 海湾，不是 2027 赛日、补给站或赛道标记。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地副本可见前景花岗岩脊与圆顶、下方低云、覆盖森林的山坡与岛屿、远处海湾和浅色天空。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons 标题与描述写明 Pedra da Macela 与 Baia de Angra dos Reis；分类为 Paraty、Pedra da Macela；画面无号码布、拱门、补给桌、旗标、计时毯或人群。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "imageinfo：Artist Rafael Defavari；LicenseShortName CC BY-SA 4.0；DateTimeOriginal 2015-07-11；1,800 x 1,200、1,318,504 字节；extmetadata 无 GPS 字段。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 x 640、127,498 字节；未裁剪、未改色；页面署名 Rafael Defavari、CC BY-SA 4.0、Wikimedia Commons。"
+    }
+  ]
+}

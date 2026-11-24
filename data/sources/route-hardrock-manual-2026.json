@@ -17,7 +17,172 @@
     "Camping Hardrock opens on 8 July at the Kendall Mountain Rec Center.",
     "The cut-off is 48 hours and the course reverses direction each year.",
     "The manual's pre-race text lists the fastest performances as Ludovic Pommeret 21:33 and Katie Schide 25:50, set in 2024 and 2025.",
-    "The 2026 course crosses thirteen major passes in the 12,000-13,000 ft range and the high point is Handies Peak at 14,048 feet."
+    "The 2026 course crosses thirteen major passes over 12,000 feet and the high point is Handies Peak at 14,048 feet.",
+    "The course is on trails as much as possible; there are 14 aid stations, with major aid stations in the towns and less well-equipped stations in between.",
+    "The altitude range is 7,700 to 14,000+ ft; lower forests are aspen, pine and spruce; timberline is locally about 11,800 ft; above it is alpine tundra with krummholz of spruce, fir and willow.",
+    "The manual warns runners will likely wade knee-deep ice-cold streams, cross snow fields in slick and post-holing conditions, traverse trails with 300 ft or more of cliff on one side, do mild rock climbing that requires hands, and be caught above treeline in extreme thunderstorms.",
+    "The start and some aid stations are at 7,700-9,000 ft in sheltered valleys, while most of the run is above 11,000 ft in exposed areas; temperature and wind can differ markedly and drop suddenly.",
+    "Weather can be as formidable as terrain, remoteness or elevation; gear should suit drenching rain, high winds and near-freezing temperatures, possibly at the same time.",
+    "The summer monsoon is a daily cycle: calm mornings, thunderheads building as the day warms, intense thunderstorms possible each afternoon, abating in the evening and overnight.",
+    "The 48-hour cut-off allows runners to wait out thunderstorms; the Run Director may authorise aid captains to hold runners if conditions are too dangerous.",
+    "Several runners have had direct contact with lightning and there have been near misses; if hair stands up or skin tingles, a strike is imminent, and runners should assume the lightning position and spread out at least 50 ft.",
+    "Snow fields can be slick at night and post-hole during the day above sharp scree; cornices may fall from above or collapse underfoot.",
+    "All search and rescue missions are initiated by the Run Director; all runners carry a run-provided MAProgress GPS tracking device.",
+    "Aid stations are staffed by at least an EMT, have a first aid kit and radio communication, and stretches between aid stations can last 6 hours or more.",
+    "Runner check-in, the mandatory briefing, the start and the finish are based at the Silverton School Gym on 12th St between Snowden and Reese St."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "官方 PDF 文本读取",
+    "note": "2026 跑者手册 PDF 可读"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "封面：Runners Manual / July 10-12, 2026 / Clockwise"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Welcome 段：approximately 101.8 miles…roughly 33,441…over 11,000 feet"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Notable Updates for 2026 第 1 条：returns to Grouse Gulch…shortening the course by 0.64mi"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Notable Updates 第 5 条：Virginius Pass / Govenor Basin…rejoin the original course in about .6 mile"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Notable Updates 第 2 条：Eureka Campground…crosses past Oh! Point (approx. mile 53)"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Notable Updates 第 3 条：no longer park in the Town Park lot…Silverjack and Shandoka"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Schedule 7/8、7/9、7/10、7/12 条目"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Schedule 7/9：15:00 Drop Bag Deadline (Kendall Mtn Rec Center)"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Schedule 7/8：08:00 Camping Hardrock Opens (Kendall Mtn Rec Center)"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Welcome 段：cut-off 48 hours；reverses direction each year"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Welcome 段：Pommeret (21:33)…Schide (25:50), set in 2024 and 2025：手册为赛前文本；官网 About 页已更新为 Pommeret 21:11（2026）"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Welcome 段原文：crossing thirteen major passes over 12,000 feet，最高点 14,048 ft Handies Peak。原 claim 写的 12,000-13,000 上限手册没有，已改窄到 over 12,000；12,000-13,000 区间由 route-hardrock-about 承担"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "The Hardrock Course 段：“The course is on trails as much as possible. There are 14 aid stations; major aid stations will be located in the towns with less well-equipped aid stations in between”"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "The Hardrock Course 段：“7,700 to 14,000+ feet… forests of aspen, pine, and spruce… Timberline is locally at about 11,800 feet… alpine tundra and low vegetation interspersed with krummholz (low, stunted spruce, fir, and willow)”"
+    },
+    {
+      "index": 14,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Safety 段：“Wade knee-deep, ice-cold streams… Cross snow fields in both slick and post-holing conditions… Traverse trails with 300’+ cliffs immediately to one side… Rock climb (mild, but hands required)… Be caught above treeline in extreme thunderstorms”"
+    },
+    {
+      "index": 15,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Safety 段：“The run start and some of the aid stations are at a relatively low elevation (7,700-9,000 feet) and in sheltered valleys, while most of the run takes place above 11,000 feet in exposed areas… Temperatures and wind conditions can be markedly different up high and the temperature can suddenly and dramatically drop”"
+    },
+    {
+      "index": 16,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Weather 段：“Weather is a critical factor in Hardrock and can be at least as formidable as the terrain, remoteness, or high elevation… gear appropriate for drenching rain, high winds, and near-freezing temperatures - possibly all at the same time”"
+    },
+    {
+      "index": 17,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Weather 段：“The ‘monsoon’ is a daily weather cycle. Calm mornings, but as the day warms up, thunderheads build up and intense thunderstorms may occur each afternoon, abating in the evening and through the night”"
+    },
+    {
+      "index": 18,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Weather 段：“The 48hr Cut-Off… allows runners to wait out thunderstorms… The Run Director may authorize Aid Captains to hold runners if weather conditions are considered too dangerous”"
+    },
+    {
+      "index": 19,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Lightning 段：“Several runners in past years have had direct contact with lightning and there have been several more near misses… If your hair begins to stand on end and/or your skin starts to tingle, a lightning strike is imminent. Assume the lightning position… spread out by at least 50’”"
+    },
+    {
+      "index": 20,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Snow 段：“Large snow fields may be sloped and extremely slick at night, while present post-holing above fields of sharp scree during the day… cornices… may fall from above or collapse beneath your feet”"
+    },
+    {
+      "index": 21,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Search and Rescue 段：“All Search and Rescue missions are initiated by the Run Director. All runners are required to carry a run-provided GPS Tracking device from MAProgress”"
+    },
+    {
+      "index": 22,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "First Aid 段：“All aid stations are staffed by at least an EMT, have a first aid kit, and have radio communication”；“Stretches between aid stations can last 6 hours or more”"
+    },
+    {
+      "index": 23,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Schedule 与地点段：“Runner Check in & Tracker Distribution (Silverton School Gym)”；“Silverton School Gym On 12th St. between Snowden and Reese St”"
+    }
+  ]
 }

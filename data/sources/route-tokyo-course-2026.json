@@ -14,5 +14,56 @@
     "The official elevation profile is published as a graphic only; its vertical axis runs to about 40 m, with the start near 40 m and the course dropping to near 0 m before 5 km.",
     "The page currently presents the 2027 edition while linking the 2026 course map; this source is used only for the 2026 map and course description."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 https://www.marathon.tokyo/en/about/course/ → .agent/tokyo35/course.html；另抓 illustmap_2026en.pdf 与 image-course.jpg",
+    "note": "页面标题与导航为 2027 届，正文含 2026.03.01 预计通过时刻，并链接 2026 英文路线图 PDF。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "路线页公里表终点 42.195"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文起点 Tokyo Metropolitan Government Bldg. No.1，终点 Wadakura-Gate intersection"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "公里表沿线地名覆盖该顺序"
+    },
+    {
+      "index": 3,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "illustmap_2026en.pdf 标出 5/10/15/20/25/30/35/40 km 与 Halfway Point；终点框写 Tokyo Station/Gyoko-dori Ave.，未印 21.0975 或 42.195 数字"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "路线图三处折返分别标 Turning point of Uenohirokoji / Tomioka Hachimangu / Tamachi Station"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "高低图为 image-course.jpg，纵轴 0/20/40 m，起点约40 m，5 km 前降至接近0"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面标题为 2027；Download the Course Map 指向 illustmap_2026en.pdf"
+    }
+  ]
 }

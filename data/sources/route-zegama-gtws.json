@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-zegama-gtws",
+  "title": "ZEGAMA – AIZKORRI — Golden Trail World Series race page",
+  "url": "https://goldentrailseries.com/race/zegama-aizkorri/",
+  "publisher": "Golden Trail World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The series page calls Zegama-Aizkorri 'The Basque Fever' and describes it as a unique experience where thousands of passionate fans create a festive atmosphere along the 42 km course.",
+    "The same page gives the race as 42 km with 2,745 m of accumulated height gain and 500 participants, while its prose describes 2,736 m of positive elevation.",
+    "The same page's 2026 ranking lists Elhousine Elazzaoui first in 3:45:07 with 212 points, Daniel Pattis second in 3:45:27 with 200 points and Taylor Stack third in 3:52:19 with 176 points.",
+    "The same page's schedule gives the 09:00 start, the first men at the finish at 12:30, the first women at 13:15 and the award ceremony at 14:00.",
+    "The same page's 2026 men's ranking continues to tenth place: 4th Manuel Merillas 3:53:16 (174), 5th Robert Pkemoi Matayango 3:53:29 (156), 6th Remi Bonnet 3:53:59 (166), 7th Maximilien Drion du Chapois 3:55:08 (144), 8th Benjamin Roubiol 3:55:22 (140), 9th Aitor Ajuria 3:57:58 (144), 10th Antonio Martínez 3:58:21 (139)."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 Golden Trail World Series 官方赛事页全文，抄录赛事描述、42 km / 2,745 m / 500 人、正文 2,736 m 的另一种说法、2026 排名与积分、以及当天时间表。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'The Zegama-Aizkorri mountain marathon is a unique experience where thousands of passionate fans create a festive atmosphere along the 42km course'；标题 'The Basque Fever'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'Distance 42 km'；'Accumulated Height Gain 2,745 m'；'Participants 500'；正文 '2,736 meters of positive elevation'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "排名表：ELHOUSINE ELAZZAOUI 03:45:07 212；DANIEL PATTIS 03:45:27 200；TAYLOR STACK 03:52:19 176" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'09:00 Race start'；'12:30 First men at the finish line'；'13:15 First women at the finish line'；'14:00 Award ceremony'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "2026 男子排名表第 4–10 行：MANUEL MERILLAS 03:53:16 174；ROBERT PKEMOI MATAYANGO 03:53:29 156；REMI BONNET 03:53:59 166；MAXIMILIEN DRION DU CHAPOIS 03:55:08 144；BENJAMIN ROUBIOL 03:55:22 140；AITOR AJURIA 03:57:58 144；ANTONIO MARTÍNEZ 03:58:21 139" }
+  ]
+}

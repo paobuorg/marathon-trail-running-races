@@ -15,9 +15,76 @@
     "The elevation profile places the start at the high end and the finish at the low end.",
     "The map marks mile points 1 through 26 and the town boundaries.",
     "The map states that Gatorade Endurance Formula and Poland Spring water are available to runners at every mile mark along the course and at the finish line.",
-    "The map states that 26 medical stations staffed by medical professionals are located along the course.",
-    "The map states that portable toilets are located at aid stations.",
     "The map carries a 2026 copyright notice stating that no portion of the map may be reproduced without permission of the Boston Athletic Association."
   ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "图上方说明原文：起点在 Hopkinton Main Street，沿 Route 135 经 Ashland、Framingham、Natick、Wellesley。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文写明 Route 135 与 16 交汇后走 Route 16 穿 Newton Lower Falls，在消防站右转上 Commonwealth Avenue（Route 30）。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文按序写 Commonwealth Ave、Newton Hills、水库旁右转 Chestnut Hill Ave 至 Cleveland Circle、左转 Beacon St 穿 Brookline/Kenmore、Mass Ave 下方、右转 Hereford（逆向）、左转 Boylston。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“finishing near the Boston Public Library in Copley Square”。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "终点图标旁标注“F 26.2 M / 42.2 K”。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "剖面左轴标题“ELEVATION FEET”，右轴“ELEVATION METERS”。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "剖面起点位于高值端（约 450 ft），终点位于 0 m 端。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "图面沿路线连续标出 1–26 英里数字，并在 Wellesley、Newton 等镇界标注地名。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "黄色说明条原文：“Gatorade Endurance Formula and Poland Spring water are available to runners at every mile mark along the course and at the finish line.”"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "底部版权原文：“©2026. All rights reserved. No portion of this map may be reproduced without permission of the Boston Athletic Association.”"
+    }
+  ],
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe 下载 PDF + PyMuPDF 分区渲染为图像后用视觉读取",
+    "note": "PDF 无文字层，按区块渲染成图片逐段读取图面文字、图例、剖面轴与版权行。"
+  },
   "license": null
 }

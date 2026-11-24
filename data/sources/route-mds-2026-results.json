@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-mds-2026-results",
+  "title": "40th MDS Legendary 2026 — official LiveTrail results",
+  "url": "https://marathondessables.v3.livetrail.net/zh-Hans/2026",
+  "publisher": "Marathon des Sables / LiveTrail",
+  "publishedAt": null,
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "The official LiveTrail results page linked from the MDS live page lists the 40th MDS Legendary as 270 km with 2,567 m cumulative gain, 1,350 finishers and 85 non-finishers, i.e. 1,435 starters.",
+    "The men's overall podium is Mohamed El Morabity 20:47:39, Rachid El Morabity +28:46 and Ludovic Pommeret +31:04; the absolute times for second and third are 21:16:25 and 21:18:43 when the published gaps are added to the winner's time.",
+    "The women's overall podium is Maryline Nakache 25:54:29, Aziza El Amrany +3:28:05 and Desiree Linden +4:22:03; the absolute times for second and third are 29:22:34 and 30:16:32 when the published gaps are added to the winner's time."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "checkedVia": "LiveTrail results page opened from the official MDS live-page ranking link",
+    "note": "2026-11-22 从 MDS 官方 live 页的 SEE MORE 外链进入 LiveTrail 2026 总排名页；页面显示 270 KM / 2567 M+ / 1350 完赛 / 85 未完赛，以及男女总排名前三与相对差。绝对成绩是冠军时间加页面相对差，未替换页面原始值。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-22", "note": "LiveTrail 2026 页顶部：270 KM、2567 M+、完赛者 1350、未完赛 85；两者相加 1,435。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-22", "note": "总排名男子前三：20:47:39、+28:46、+31:04；21:16:25 与 21:18:43 为加法推导。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-22", "note": "总排名女子前三：25:54:29、+3:28:05、+4:22:03；29:22:34 与 30:16:32 为加法推导。" }
+  ]
+}

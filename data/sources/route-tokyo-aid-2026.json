@@ -17,5 +17,74 @@
     "Food allergen information is displayed for the eight main specified ingredients.",
     "A start-area drinks station is also provided."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取公告页 → .agent/tokyo35/aid.html；另抓给水所表 PDF、路线图 PDF、スタートエリア PDF",
+    "note": "公告页正文可读；15 站表在链接 PDF 中，已渲染逐格核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文「15か所の給水所を設けております」"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PDF 表格 1–15：5/7/10/12/15/17/20/22/25/27/30/32/35/38/40 km"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PDF 表格ポカリスエット勾选 5/10/15/20/25/30/35/40 km；水 15 站全勾"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PDF 表格：スポンジ 20/25/30；干し梅 22/27/38；クリームパン 22；チョコレート 27/38；人形焼き 27"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文「各給水所の手前150m～300m付近には給水予告看板」"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文「給水はなるべく後方のテーブルから…」"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文「紙コップは分別回収」「給水所で出たごみは、必ずごみ箱に」"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文「給水所以外での給水・給食については、主催者は一切責任を負いません」"
+    },
+    {
+      "index": 8,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "正文只写「特定原材料の表示を行っております」，未写“8 項”；8 项是日本法定分类，不是原文"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "スタートエリア PDF 正文「スタートエリアにある給水所ではポカリスエットを配付しています」"
+    }
+  ]
 }

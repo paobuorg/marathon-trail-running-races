@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-mont-blanc-weather",
+  "title": "Open-Meteo ERA5 archive — June 2016–2025, Chamonix (45.9231 N, 6.8700 E)",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=45.9230969&longitude=6.8700009&elevation=1035&start_date=2016-06-01&end_date=2025-06-30&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Europe%2FParis",
+  "publisher": "Open-Meteo (ERA5 reanalysis)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Open-Meteo ERA5 archive for the grid cell at 45.9231 N, 6.8700 E, elevation 1,035 m, over the 300 June days from 2016 to 2025: mean daily maximum 20.9 °C and mean daily minimum 10.7 °C.",
+    "The same query gives mean precipitation of 4.7 mm per day; 171 of the 300 June days (57%) had at least 1 mm.",
+    "These are reanalysis statistics for the Chamonix valley grid cell, not official race data and not measurements from the 42 km course or the Posettes ridge."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接查询 Open-Meteo archive API，取 2016–2025 年 6 月共 300 天，按 daily time 过滤 06 月后计算均值；坐标与海拔采用 Chamonix 镇中心。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "API 返回 300 个 6 月日值；temperature_2m_max 均值 20.9，temperature_2m_min 均值 10.7。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "precipitation_sum 均值 4.7 mm/day；≥1 mm 的日数 171/300 = 57%。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Chamonix 镇中心 1,035 m；赛道最高点更高，本页明确不把镇中心数据当成赛道全程数据。" }
+  ]
+}

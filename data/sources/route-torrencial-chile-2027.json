@@ -1,0 +1,42 @@
+{
+  "sourceId": "route-torrencial-chile-2027",
+  "title": "PILOLCURA 100K — Torrencial Chile by UTMB 2027 race page",
+  "url": "https://torrencial.utmb.world/races/PILOLCURA100K",
+  "publisher": "UTMB World Series / Torrencial Chile by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2027 Pilolcura 100K starts on Thursday 24 June 2027 at 22:00 from Punucapa.",
+    "The official race page states a distance of 101 KM and 4,100 m of positive elevation gain.",
+    "The maximum allowed race time is 22 hours.",
+    "The official profile table lists 12 points from Start at 0 m to Finish at 101,492 m, with cumulative gain of 4,091 m and cumulative loss of 4,088 m.",
+    "The official profile distances are Las Truchas 1 6,074 m, Cafetería Oncol 24,669 m, Pililín 33,629 m, Quitaqui 43,299 m, Casa Manns 52,129 m, El Canelo 60,073 m, Las Truchas 2 73,017 m, Potreros 78,430 m, Espacio Bayo 90,708 m, El Castaño 95,905 m and Finish 101,492 m.",
+    "The official profile lists drink only at Las Truchas 1, hot food at the other nine intermediate points, medical support at ten of the twelve points, a drop bag only at Casa Manns, and power points at Cafetería Oncol, Espacio Bayo and El Castaño.",
+    "The official description says the route crosses the Coastal Range from Oncol Hill to the Pacific coast and finishes in Valdivia at dawn.",
+    "The race page lists 3 Running Stones and finals access for this race.",
+    "The page states that the top three female and top three male runners earn automatic qualification for the CCC race, while the page's meta description separately states six direct tickets to UTMB.",
+    "The four cutoff cells on the 2027 page carry 2026 dates (2026-06-28) and Sunday weekday labels, so they cannot be used as 2027 cutoff times.",
+    "The race page links a 2027 GPX file for the 101 km course."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "桌面 UA 直连抓取英文页与西文页（/es/races/PILOLCURA100K），并解析页面内嵌的剖面数据 JSON",
+    "note": "2026-11-08 读取。页头四项（101 KM / 4100 M+ / jueves 24 junio 2027 / Punucapa 22:00 / 22 Horas）在西文页与英文页一致。剖面表合计与页头不一致：表内终点 101,492 m、累计 +4,091 / −4,088 m。该页 4 个关门单元格的 cutoffDatetime 仍为 2026-06-28 且星期标为周日，属官方 2027 页面未更新的 2026 数据，本页不据此给 2027 关门时刻。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "西文页原文：Fecha de salida jueves 24 junio 2027；Salida Punucapa - 22:00；英文页：Thursday 24th June 2027 / Punucapa - 22:00。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Distancia 101 KM；Desnivel positivo 4100 M+（Categoría 区块）。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Tiempo máximo permitido 22 Horas / Max Allowed Race Time 22 Hours。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "剖面表逐点数据：Finish distance=101492，gainElevation=4091，lossElevation=4088。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "逐点 distance 字段原值；名称照录，Pililín 官方拼写带尾空格。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "逐点 supplies 与 hasMedical/hasBag/hasPower 字段：Start 与 Finish 为 none，其余 10 点为 drink 或 hotFood；Quitaqui 无医疗；仅 Casa Manns 有 drop bag。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "Corre 100 kilómetros a través de la Cordillera de la Costa... desde el cerro Oncol hasta la costa del Océano Pacífico... converge con la ciudad de Valdivia... a la luz del amanecer。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "页面侧栏：Running Stones 3 / Finals Access；西文页 Categoría Running Stones 3 / Acceso a las finales。" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "正文：Top 3 female and Top 3 male runners in Pilolcura 100K earn automatic qualification for the CCC race。meta description：Pilolcura 100K ofrece 6 tickets directos a UTMB。两者并列，不合并。" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "4 个非空 cutoff：Cafetería Oncol「dom. 03:00」、El Canelo「dom. 12:30」、Potreros「dom. 16:30」、Finish「dom. 20:00」；对应 cutoffDatetime 为 2026-06-28T03:00 等。" },
+    { "index": 10, "status": "supported", "checkedAt": "2026-11-08", "note": "页面数据 gpxUrl 指向 Torrencial 2027 / Tor_101k_4100_1808_b492400379.gpx。" }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-black-canyon-crew-2025",
+  "title": "Black Canyon Ultras — 2025 Crew Manual (updated 1 February 2025)",
+  "url": "https://www.aravaiparunning.com/avr/wp-content/uploads/Black-Canyon-Crew-2025.pdf",
+  "publisher": "Aravaipa Running / Black Canyon Ultras",
+  "publishedAt": "2025-02-01",
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2025 crew manual, updated 1 February 2025, dates the 100K to Saturday 8 February 2025 and lists the short race as 50K on Sunday 9 February 2025 in its finish-location panel.",
+    "The same manual's cut-off panel gives a 12-hour limit for a 60K race, and its course text says both the 100K and 60K start at Mayer High School while the 50K finishes at Deep Canyon Ranch.",
+    "The manual gives the Mayer High School start as 34.34764 N, 112.15706 W, mile 0.0 of the course.",
+    "The manual lists crew-accessible aid stations at Bumble Bee Ranch, Deep Canyon Ranch and Table Mesa, with no crew at Antelope Mesa, Hidden Treasure, Gloriana Mine, Black Canyon City, Cottonwood Gulch or Doe Spring.",
+    "The manual says there is no parking at Mayer High School and no shuttle back to the school after the race."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 下载官方 2025 crew manual PDF（10 页），pypdf 提取全文。该文件仅用于两件事：起点坐标与 2025 届短距离组别的口径对照。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "p2 QUICK LOOK：100K | Saturday February 8, 2025；50K | Sunday February 9, 2025" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "p2 写 60K Cutoff: 12 Hours；p3 原文 Both the 100K and 60K races begin at Mayer High School... The 50K finishes at Deep Canyon Ranch——同一文件内 60K 与 50K 并用" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "p5：MAYER HIGH SCHOOL ... Start - Mile 0.0 | 34.34764° N 112.15706° W" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "p4 AID STATIONS 逐站标注 CREW / NO CREW；Bumble Bee Ranch、Deep Canyon Ranch、Table Mesa 可进" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "p5：There is NO parking at the high school... No shuttles will return to Mayer High School after the race" }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "entityId": "route:doi-inthanon-pagoda-50-day",
+  "slug": "doi-inthanon-pagoda-50-day",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-doi-inthanon-race",
+    "route-doi-inthanon-night",
+    "route-doi-inthanon-rules",
+    "route-doi-inthanon-gear",
+    "route-doi-inthanon-faq",
+    "route-doi-inthanon-raceinfo",
+    "route-doi-inthanon-travel",
+    "route-doi-inthanon-gpx",
+    "route-doi-inthanon-park",
+    "route-doi-inthanon-park-climate",
+    "route-doi-inthanon-climate-jma",
+    "route-doi-inthanon-announcement",
+    "photo-doi-inthanon-mae-klang-luang",
+    "photo-doi-inthanon-twin-pagodas",
+    "photo-doi-inthanon-summit-sign"
+  ],
+  "relatedRefs": [
+    "knowledge:heat-and-humidity",
+    "knowledge:altitude-and-running",
+    "knowledge:trail-gear",
+    "tool:heat-adjust",
+    "tool:track-view",
+    "route:chiang-dao-160",
+    "route:elephant-100"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-24",
+  "reviewedAt": "2026-11-24",
+  "reviewDueAt": "2026-12-31",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "TH"
+    ],
+    "placeName": {
+      "zh-CN": "泰国清迈府宗通县，茵他侬山国家公园总部（起点与终点），绕茵他侬山一圈",
+      "en": "Doi Inthanon National Park Headquarters in Chom Thong District, Chiang Mai Province, Thailand (start and finish), on a loop around Doi Inthanon"
+    },
+    "mapAnchor": {
+      "longitude": 98.52212,
+      "latitude": 18.53616,
+      "kind": "start",
+      "sourceRef": "route-doi-inthanon-gpx"
+    },
+    "courseVersion": "2026-pagoda-50-day",
+    "courseEdition": "2026",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "Loop: start and finish at the Doi Inthanon National Park Headquarters, passing Doi Hua Suea, Doi Pha Tang Peak and the Twin Royal Pagodas",
+    "distanceMeters": 57000,
+    "distanceMethod": "The official PAGODA 50-DAY page gives 57 km, and the published time chart runs to 56.7 km at the finish. The linked 2026 GPX measures 55.736 km in two dimensions and 56.795 km in three dimensions, and its five aid-station projections run 0 to 0.85 km behind the published cumulative distances. The same GPX yields a raw cumulative descent of -3,606 m over 3,990 points. This card uses the official 57 km; the 56.7 km chart, the GPX figures and the gap are kept in the body and are not averaged.",
+    "elevationGainMeters": 3600,
+    "elevationMethod": "The official page gives 3,600 m of elevation gain. The linked 2026 GPX yields 3,606 m of raw positive change and 3,558 m with a 3 m threshold over 3,990 points, with elevation tags from 813 m to 2,149 m. The same GPX yields a raw cumulative descent of -3,606 m over 3,990 points. This card uses the official 3,600 m; the GPX figures are shown in the body and are not averaged.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": "https://pdf.utmb.world/raw/upload/v1793516040/thailand/GPX/2026/Pagoda_50_Stations_dc2d1c0795.gpx",
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://chiangmai.utmb.world/races/PAGODA50-DAY",
+    "attribution": "HOKA Chiang Mai Thailand by UTMB / UTMB World Series. The race page links the GPX Pagoda_50_Stations_dc2d1c0795.gpx; the file declares GPX 1.1, creator LiveTrail, metadata name 'Pagoda 50+Stations', description '25-9-2026', no timestamps and a copyright entry naming LiveTrail® without any reuse licence. Its maximum elevation tag is 2,149 m, below the 2,565 m summit named by the Department of National Parks. This site links to the official race page, does not host the file, does not draw the track and does not treat the file as verified race-day geometry."
+  }
+}
+

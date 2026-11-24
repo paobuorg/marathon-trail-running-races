@@ -12,5 +12,44 @@
     "The results page lists a men's field including Alphonce Felix Simbu fourth in 2:04:57 and Jemal Mekonen fifth in 2:04:59.",
     "The results page lists a women's field including Ellie Pashley ninth in 2:28:28 and Milly Clark eleventh in 2:29:47."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl 静态抓取 .agent/sydney/world-athletics.html",
+    "note": "World Athletics 成绩页男子/女子马拉松及澳大利亚锦标赛分组可读，逐名次核对"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页头 'TCS Sydney Marathon Presented by ASICS / Sydney (AUS) / 30 AUG 2026'"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Men's Marathon Final：1 Gobena 2:04:42、2 Debele 2:04:46、3 Ramakongoana 2:04:57"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Women's Marathon Final：1 Jepchirchir 2:18:31、2 Irine Chepet Cheptai 2:22:11、3 Shure Demise 2:22:33"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "男子第 4 Alphonce Felix Simbu 2:04:57、第 5 Jemal Mekonen 2:04:59"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "女子第 9 Ellie Pashley 2:28:28、第 11 Milly Clark 2:29:47"
+    }
+  ]
 }

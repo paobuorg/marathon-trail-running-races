@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-comrades-weather-pmb",
+  "title": "Open-Meteo ERA5 archive — June 2016–2025, Pietermaritzburg (-29.6168, 30.3928)",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=-29.61679&longitude=30.39278&elevation=636&start_date=2016-06-01&end_date=2025-06-30&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Africa%2FJohannesburg",
+  "publisher": "Open-Meteo (ERA5 reanalysis)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Open-Meteo ERA5 archive for the grid cell at 29.6168 S, 30.3928 E, elevation 636 m, over the 300 June days from 2016 to 2025: mean daily maximum 22.1 °C and mean daily minimum 7.7 °C.",
+    "The same query gives mean precipitation of 0.4 mm per day; 25 of the 300 June days (8.3%) had at least 1 mm.",
+    "These are reanalysis statistics for the Pietermaritzburg grid cell, not official race data and not measurements from the race route."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接查询 Open-Meteo archive API，取 2016–2025 年 6 月共 300 天，按 daily time 过滤 06 月后计算均值；坐标与海拔取自 Open-Meteo geocoding 的 Pietermaritzburg 条目。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "API 返回 300 个 6 月日值；temperature_2m_max 均值 22.1，temperature_2m_min 均值 7.7。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "precipitation_sum 均值 0.4 mm/day；≥1 mm 的日数 25/300 = 8.3%。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "网格再分析数据，非赛事官方观测；Pietermaritzburg 海拔 636 m，不能代表赛道全程。" }
+  ]
+}

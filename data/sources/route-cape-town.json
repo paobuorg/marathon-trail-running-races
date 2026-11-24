@@ -11,5 +11,38 @@
     "The official route is approximately 42.2 km.",
     "The official FAQ describes the 2026 two-start arrangement; the 2027 edition may change."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "本地静态抓取 .agent/capetown/raw",
+    "note": "该 URL 现为 FAQ 页，正文已是 2027 届；页面只提两个起点，未提“五个波次”，也未在终点句里写 Green Point"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "原文只写 'has two starts: The Stadium & Beach Road start'；全文检索不到 wave/五波次，五个波次需另引 two-starts 页"
+    },
+    {
+      "index": 1,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "原文只写 'The Finish for all events is on Vlei Road.'；'in Green Point' 是页外补充，FAQ 本页未印"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'The 42.2km Sanlam Cape Town Marathon'"
+    },
+    {
+      "index": 3,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "FAQ 已改届：'The 42.2km Sanlam Cape Town Marathon (23 May 2027) has two starts'，不再是“描述 2026、2027 可能变化”的写法"
+    }
+  ]
 }

@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-comrades-weather-durban",
+  "title": "Open-Meteo ERA5 archive — June 2016–2025, Durban (-29.8579, 31.0292)",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=-29.8579&longitude=31.0292&elevation=21&start_date=2016-06-01&end_date=2025-06-30&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Africa%2FJohannesburg",
+  "publisher": "Open-Meteo (ERA5 reanalysis)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Open-Meteo ERA5 archive for the grid cell at 29.8579 S, 31.0292 E, elevation 21 m, over the 300 June days from 2016 to 2025: mean daily maximum 22.5 °C and mean daily minimum 13.9 °C.",
+    "The same query gives mean precipitation of 0.8 mm per day; 47 of the 300 June days (15.7%) had at least 1 mm.",
+    "These are reanalysis statistics for the Durban grid cell, not official race data and not measurements from the race route."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接查询 Open-Meteo archive API，取 2016–2025 年 6 月共 300 天，按 daily time 过滤 06 月后计算均值；坐标与海拔取自 Open-Meteo geocoding 的 Durban 条目。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "API 返回 300 个 6 月日值；temperature_2m_max 均值 22.5，temperature_2m_min 均值 13.9。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "precipitation_sum 均值 0.8 mm/day；≥1 mm 的日数 47/300 = 15.7%。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "网格再分析数据，非赛事官方观测；Durban 海拔 21 m，湿度与海风不在该三变量中。" }
+  ]
+}

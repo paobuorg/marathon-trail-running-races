@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-gpt100-access",
+  "title": "Grampians Peaks Trail — plan and prepare guide (Parks Victoria)",
+  "url": "https://www.parks.vic.gov.au/-/media/project/pv/main/parks/documents/visitor-guides-and-publications/grampians/grampians-peaks-trail-plan-and-prepare-guide.pdf?rev=a0e6ef2f615a4a4b91fa3acd94136bc7",
+  "publisher": "Parks Victoria",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "Halls Gap is a 3-hour (255 km) drive from Melbourne and a 5.5-hour (500 km) drive from Adelaide; Dunkeld is a 3-hour (270 km) drive from Melbourne.",
+    "Public Transport Victoria operates rail services to Ararat, and Horsham and Stawell are stops on The Overland train between Melbourne and Adelaide.",
+    "Tullamarine International Airport (Melbourne) and Avalon Airport are the nearest airports.",
+    "Some Grampians trailheads have very limited or no parking, and Parks Victoria recommends drop-off and pick-up with a Licensed Tour Operator there."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch 读取 Parks Victoria PDF 的 Getting to the trail 段",
+    "note": "2026-11-19 读取官方 PDF 的交通段；车程与铁路信息照录，不补写班次时刻。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "PDF 'Getting to the trail — By vehicle'：'Halls Gap is a 3-hour (255km) drive from Melbourne and a 5.5-hour (500km) drive from Adelaide. Dunkeld is a 3-hour (270km) drive from Melbourne...'"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "PDF 'By public transport'：'rail service to Ararat. Horsham and Stawell are stops for The Overland train service connecting Melbourne and Adelaide.'"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "PDF：'Tullamarine International Airport Melbourne and Avalon Airport are the nearest airports.'"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "PDF：'Some trailheads provide plenty of parking ... others are only suited to a few vehicles or have no parking at all ... organise drop-off and pick-up with a Licensed Tour Operator'。"
+    }
+  ]
+}

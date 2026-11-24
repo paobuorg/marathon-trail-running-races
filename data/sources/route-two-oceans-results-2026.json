@@ -1,0 +1,62 @@
+{
+  "sourceId": "route-two-oceans-results-2026",
+  "title": "Jantjies puts Hopetown on the map as Steyn makes history — Two Oceans Marathon",
+  "url": "https://www.twooceansmarathon.org.za/jantjies-puts-hopetown-on-the-map-as-steyn-makes-history-at-the-totalsports-two-oceans-marathon-powered-by-byd/",
+  "publisher": "Two Oceans Marathon",
+  "publishedAt": "2026-04-11",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2026 Totalsports Two Oceans Ultra Marathon was held on Saturday 11 April 2026.",
+    "Arthur Jantjies won the men's 56 km in 3:09:25.",
+    "Gerda Steyn won the women's 56 km in 3:27:43, her record-breaking seventh victory.",
+    "The official report says Jantjies won by 35 seconds over Khonkhobe.",
+    "The official report calls Steyn's 3:27:43 the second fastest Two Oceans time of her career and lists her 3:26:54 as the fastest women's time in race history.",
+    "The 2026 combined prize purse was ZAR 2.6 million; the Ultra carried ZAR 2,177,400 and the Half Marathon ZAR 422,600."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "search result + official race article",
+    "note": "Official race report read in full on 2026-11-20. It gives the winners, Jantjies' 35-second margin, Steyn's 3:27:43 and 3:26:54 history, and the 2026 prize-purse split."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Article: Saturday, 11 April 2026."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Article: Jantjies stopped the clock in 3:09:25."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Article: Steyn's record-breaking seventh victory, 3:27:43."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Article: 'claim a famous 35 second victory over his friend and rival Khonkhobe'。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Article: '3:27:43 – the second fastest time of her ... career'；'The fastest women in the history of ... (3:26:54)'。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Article: combined prize purse R2.6 million; Ultra R2,177,400; Half R422,600。"
+    }
+  ]
+}

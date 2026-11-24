@@ -10,5 +10,32 @@
     "The results page offers event certificates and a process to request a time adjustment.",
     "The results page notes that mass-event participants are not competing against one another and that placings or rankings are provided for comparison only."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 londonmarathonevents.co.uk/london-marathon/results → .agent/london35/results.html",
+    "note": "正文与 2026 结果入口链接均可读"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面 2026 结果入口 href 为 https://results.tcslondonmarathon.com/2026/"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“download your event certificate or request an adjustment to your time”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“mass event are not competing against one another … placings or rankings … comparison purposes only”"
+    }
+  ]
 }

@@ -1,0 +1,76 @@
+{
+  "sourceId": "route-spartathlon-roadbook-2026",
+  "title": "Spartathlon 2026 Road Book — 26–27 September 2026",
+  "url": "https://www.spartathlon.gr/wp-content/uploads/2026/09/EN-ROADBOOK-2026.pdf",
+  "publisher": "International Spartathlon Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "The 2026 road book describes a point-to-point race from Athens to Sparta, reaching a maximum elevation of 1,200 m over paved roads, dirt roads and mountain trails.",
+    "The road book places aid stations approximately every 3,500 m, with food, water, refreshments and runners' personal supplies.",
+    "The 2026 road book lists 76 checkpoints numbered 0–75; checkpoint 0 is the Acropolis start at 07:00 and checkpoint 75 is the statue of King Leonidas in Sparta with a 19:00 closing time on 27 September.",
+    "The final checkpoint is km 244.74, giving a 36-hour race duration from the 07:00 start to the 19:00 close.",
+    "The road book lists cut-off times for every checkpoint and states that a runner arriving after the closing time will not be permitted to continue.",
+    "The road book describes doctors, physiotherapists and ambulances available throughout the 36-hour event, and a police and medical supervision system.",
+    "Basic aid-station provisions include water, Coca-Cola, juices, raisins, fruit, bread, biscuits, milk, coffee, potato chips, toast crackers, chocolate, sugar, honey, nuts and pasteli; main checkpoints add light meals, with soup and tea at many later points.",
+    "The road book marks assistance at selected checkpoints, including Elefsina, Megara, Isthmia, Ancient Corinth, Nemea, Lyrkeia, Mountain Base, Nestani, Tegea and Sparta; runners should use the assistance column rather than assume every checkpoint allows crew."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "Downloaded PDF, extracted text",
+    "note": "Official 2026 road book PDF, 8 pages; text extracted and checkpoint table read."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Page 1, sections 01–03."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Page 1, section 02."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Pages 2–7, checkpoint rows 0–75."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Row 75: km 244.74, closing 19.00; start row 0: 07.00."
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Page 1, section 04."
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Page 1, section 03."
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Page 8, race nutrition."
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Assistance column in the checkpoint table."
+    }
+  ]
+}

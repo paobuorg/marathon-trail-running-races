@@ -10,5 +10,31 @@
     "The page describes the Hong Kong 100 Ultra Marathon as a 100-kilometer race in a megacity of 7.4 million inhabitants.",
     "The World Trail Majors calendar on the page lists the Hong Kong 100 as its first event of the 2027 sequence shown."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://hk100ultra.com/world-trail-majors/ 列表段"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "列表首项：“HONG KONG 100 ULTRAMARATHON 21-24 January 2027”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "简介：“The megacity of Hong Kong (7.4 million inhabitants)… a 100-kilometer race”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "事件列表顺序：Hong Kong 100 排在第一项，其后为 2 月的 Black Canyon Ultras"
+    }
+  ]
 }

@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-sierre-zinal-records",
+  "title": "Sierre-Zinal — records since 1974",
+  "url": "https://www.sierre-zinal.com/en/records-74.html",
+  "publisher": "Sierre-Zinal Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The official records page lists the men's record as 2:25:34 by Kilian Jornet (ESP) in 2024.",
+    "The same page lists the women's record as 2:49:20 by Maude Mathys (SUI) in 2019.",
+    "The same page presents itself as the list of all records established since 1974."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官网纪录页。该页未把 2020 与 2021 届成绩列入纪录；冠军表脚注另行说明这两届成绩因赛道变化与特殊比赛条件不作官方承认。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'JORNET Kilian' / 'ESP' / '2024' / '02:25:34'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'MATHYS Maude' / 'SUI' / '2019' / '02:49:20'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'Liste de tous les records établi depuis 1974'" }
+  ]
+}

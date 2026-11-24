@@ -1,0 +1,70 @@
+{
+  "entityId": "route:chiang-dao-160",
+  "slug": "chiang-dao-160",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-chiang-mai-chiangdao160",
+    "route-chiang-mai-chiangdao160-chart",
+    "route-chiang-mai-chiangdao160-gpx",
+    "route-chiang-mai-gear-160-100",
+    "route-chiang-mai-faq-160-100",
+    "route-doi-inthanon-rules",
+    "route-doi-inthanon-faq",
+    "route-doi-inthanon-raceinfo",
+    "route-doi-inthanon-announcement",
+    "route-doi-inthanon-travel",
+    "route-doi-inthanon-climate-jma",
+    "photo-chiang-dao-wat-tham",
+    "photo-chiang-dao-doi-luang",
+    "photo-chiang-dao-monthathan"
+  ],
+  "relatedRefs": [
+    "knowledge:heat-and-humidity",
+    "knowledge:altitude-and-running",
+    "knowledge:trail-gear",
+    "knowledge:ultra-running-basics",
+    "tool:heat-adjust",
+    "tool:track-view",
+    "route:doi-inthanon-pagoda-50-day",
+    "route:elephant-100"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-24",
+  "reviewedAt": "2026-11-24",
+  "reviewDueAt": "2026-12-31",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "TH"
+    ],
+    "placeName": {
+      "zh-CN": "泰国清迈府，第二周赛事：起点 Wat Tham Chiang Dao（清道洞寺），终点清迈市 Chiang Mai PAO Park",
+      "en": "Chiang Mai Province, Thailand, Week 2: start at Wat Tham Chiang Dao and finish at Chiang Mai PAO Park in Chiang Mai city"
+    },
+    "mapAnchor": {
+      "longitude": 98.92913,
+      "latitude": 19.39306,
+      "kind": "start",
+      "sourceRef": "route-chiang-mai-chiangdao160-gpx"
+    },
+    "courseVersion": "2026-chiang-dao-160",
+    "courseEdition": "2026",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "Point to point: Wat Tham Chiang Dao → Doi Luang Chiang Dao → San Pa Kia → Doi Pha Sam Liam → Ban Doi Pui → Monthathan Waterfall → Chiang Mai PAO Park",
+    "distanceMeters": 173000,
+    "distanceMethod": "The official CHIANG DAO 160 page gives 173 km, and the official time chart also ends at 173 km at the finish. The linked 2026 GPX measures 170.865 km in two dimensions and 173.601 km in three dimensions. The same GPX yields a raw cumulative descent of -10,338 m over 23,331 points. This card uses the official 173 km; the GPX figures are kept in the body and are not averaged.",
+    "elevationGainMeters": 9800,
+    "elevationMethod": "The official page gives 9,800 m of elevation gain and the official time chart sums to 9,840 m of cumulative ascent. The linked 2026 GPX yields 10,227 m of raw positive change and 9,853 m with a 3 m threshold over 23,331 points, with elevation tags from 319 m to 1,730 m. The same GPX yields a raw cumulative descent of -10,338 m over 23,331 points. This card uses the official 9,800 m; the chart and GPX figures are shown in the body and are not averaged.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": "https://pdf.utmb.world/raw/upload/v1790325226/thailand/GPX/2026/Chiang_Dao_160_Stations_af5020d931.gpx",
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://chiangmai.utmb.world/races/CHIANGDAO160",
+    "attribution": "HOKA Chiang Mai Thailand by UTMB / UTMB World Series. The race page links the GPX Chiang_Dao_160_Stations_af5020d931.gpx; the file declares GPX 1.1, creator GPS Track Editor, metadata name 'Chiang Dao 160+Stations', description '25-9-2026', no copyright entry and no reuse licence. This site links to the official race page, does not host the file, does not draw the track and does not treat the file as verified race-day geometry."
+  }
+}
+

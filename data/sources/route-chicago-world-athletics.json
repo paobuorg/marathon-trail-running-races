@@ -13,5 +13,20 @@
     "Emma Grace Hurley's 2:20:47 was the fastest-ever marathon debut by a US woman.",
     "The report does not restate the course distance or publish an elevation figure."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取World Athletics赛报 → .agent/chicago-beijing35/chicago-worldathletics.html",
+    "note": "WA赛报正文可读；成绩与“三女sub-2:15”表述均能核对"
+  },
+  "claimVerification": [
+    {"index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "报道称2026年10月11日芝加哥马拉松为World Athletics Platinum Label road race"},
+    {"index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Feysa 2:13:33；Lokedi 2:14:07；Kosgei 2:14:55"},
+    {"index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "原文“first marathon in history in which three women finished inside 2:15”"},
+    {"index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Kipruto 2:01:09；Bikila 2:02:56；Mengesha 2:03:46；Kiplimo 2:04:18"},
+    {"index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "原文Hurley 2:20:47为“fastest-ever marathon debut by a US woman”"},
+    {"index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "全文无42.195/26.2或elevation数字"}
+  ]
 }

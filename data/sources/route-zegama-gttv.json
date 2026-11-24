@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-zegama-gttv",
+  "title": "GTWS Channel (GT TV) — Live Races",
+  "url": "https://goldentrailseries.com/gttv/?race_id=762&race_year=2026&tab=tab_races",
+  "publisher": "Golden Trail World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The GTWS Channel page has a 'Live Races' tab and lists the 2026 series races as live sessions, including Zegama-Aizkorri on 17/05/2026 and Sierre-Zinal on 08/08/2026.",
+    "On the access date the same page displayed 'There is no live event happening at the moment.'"
+  ],
+  "license": null,
+  "verification": {
+    "access": "browser",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 抓取 GTWS 官方 GT TV 页面，看到 Live Races 栏、2026 各站列表（含 ZEGAMA-AIZKORRI 17/05/2026）与「There is no live event happening at the moment.」提示。该页未给出 2027 的直播平台、语言或场次。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Live Races 选项卡下列出 2026 年各站：MUJU TRAIL GRAND FINALE 24/10/2026、JINSHANLING 27/09/2026、MYOKO 20/09/2026、SIERRE-ZINAL 08/08/2026、PITZ ALPINE 01/08/2026、QUÉBEC 05/07/2026、LEDRO SKY 24/05/2026、ZEGAMA-AIZKORRI 17/05/2026。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'There is no live event happening at the moment.'" }
+  ]
+}

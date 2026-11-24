@@ -26,9 +26,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-26",
-  "updatedAt": "2026-11-06",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-11-06",
+  "updatedAt": "2026-11-08",
+  "reviewedAt": "2026-11-08",
+  "reviewDueAt": "2027-01-20",
   "details": {
     "raceType": "road-marathon",
     "countryCodes": [
@@ -45,6 +45,9 @@
       "sourceRef": "route-baa-course"
     },
     "courseVersion": "2026-boston-marathon-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [],
     "direction": "Point-to-point from Hopkinton to Boston",
     "distanceMeters": 42195,
     "distanceMethod": "The BAA publishes the course as 26.2 miles; the 2026 official course map prints 26.2 M / 42.2 K, and 42.195 km is the World Athletics marathon standard. This card uses 42,195 m.",

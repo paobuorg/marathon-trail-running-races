@@ -1,0 +1,49 @@
+{
+  "sourceId": "route-mtfuji100-entries",
+  "title": "Mt.FUJI 100 — REGARDING RACE ENTRIES (2027)",
+  "url": "https://www.mtfuji100.com/racers/regarding/",
+  "publisher": "Mt.FUJI100 Executive Committee",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Entrants must be male or female, at least 18 years old on race day, and able to complete the course within the time limit without getting lost.",
+    "For the FUJI100mi, entrants must have finished either one ITRA-certified race worth 4 points or more, or two races worth 3 points or more, between two years before the general entry opening date and the day before it, and must be able to prove this on the ITRA results page.",
+    "Virtual FUJI100mi 2026, Virtual KAI70k 2026 and Virtual ASUMI40k 2026 do not count as qualifying races.",
+    "Priority entry for the 2027 FUJI100mi is open from 19 October 2026 at 12:00 to 15 November 2026 at 23:59 to runners ranked in the top 100 overall of Mt.FUJI100 2026 and to elite athletes.",
+    "General and donation entry for the 2027 FUJI100mi run from 2 November 2026 at 12:00 to 15 November 2026 at 23:59, with the lottery result announced on 1 December 2026 and payment from 1 to 15 December 2026.",
+    "The 2027 FUJI100mi entry fee is 50,000 yen including tax; the donation entry is 105,000 yen including a 55,000 yen donation and the 50,000 yen entry fee; the private supporter entry is 5,500 yen.",
+    "Elite invitation standards for the FUJI100mi are an ITRA Performance Index of 850 or above for men and 715 or above for women for the free invitation, and 800 or above for men and 650 or above for women for the paid invitation, based on 100k or 100M races.",
+    "Participation conditions require entrants to understand the distance and the special nature of running through mountainous terrain for more than a day and night, to have trained for it, and to deal independently with expected trouble, bad weather, extreme fatigue, digestive problems, muscle pain and minor injuries.",
+    "The conditions state that the organisers are not responsible for those issues, and that a violation of the participation conditions in the 2027 race may lead to refusal of entry from 2028 onwards.",
+    "After payment, no change of event or cancellation is accepted for any reason and entry fees are not refunded; the right to participate cannot be transferred to a third party; a photo ID is required when exchanging the number card.",
+    "Parking is by reservation only, parking tickets are sold in advance, and there is no parking available for athletes at the finish venue, Kitafuji Park.",
+    "The English entry page states the priority entry period as 'November 19, 2026 (Monday)' and the general entry as 'November 2, 2026 (Monday)', while the Japanese page gives 19 October and 2 November 2026; the Japanese page is internally consistent with the 15 November closing date.",
+    "Donation entry is first-come (senchaku-sei) rather than a lottery; the lottery applies only to general entry when the capacity is exceeded.",
+    "FUJI100mi capacities for 2027 are 1,900 general entries (domestic and overseas), 100 donation entries and 500 private supporters.",
+    "Private supporter entry for the 2027 FUJI100mi runs from 5 January 2027 at 12:00 to 12 January 2027 at 23:59, with the lottery result on 18 January 2027 and payment from 18 to 24 January 2027."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取日文页与英文页；日文页日期完整，英文页优先エントリー月份写成 November 19，与日文页 10 月 19 日不符，正文并列并以日文页为主"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "参加資格第 1 条原文" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "参加資格第 2 条：FUJI100mi は ITRA Points 4 以上の 1 レースもしくは ITRA Points 3 の 2 レース" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "同节：Virtual 三场不列为对象赛事" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "優先エントリー：2026年10月19日 12:00〜11月15日 23:59；対象は Mt.FUJI100 2026 総合 100 位以内とエリート" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "一般／寄付エントリー：2026年11月2日〜11月15日；抽選結果 12月1日；入金 12月1日〜15日" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "参加費：50,000円／寄付エントリー 105,000円（寄付金55,000円＋参加費50,000円）／プライベートサポーター 5,500円" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "エリート選手資格：無償招待 ITRA PI 男子850以上・女子715以上、有償 男子800以上・女子650以上（100k or 100M）" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "参加条件 1〜4 条原文" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "参加条件末段：'2027 年大会で违反した場合、2028 年以降の参加を拒否することがあります'" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "注意事項：入金后不可变更/取消、不退款、不可转让；换号码卡需带照片证件" },
+    { "index": 10, "status": "supported", "checkedAt": "2026-11-08", "note": "駐車場段：完全予約制、事前販売；'There is no parking available for athletes at the finish line venue, Kitafuji Park.'" },
+    { "index": 11, "status": "supported", "checkedAt": "2026-11-08", "note": "英文页 'November 19, 2026 (Monday)' 与日文页 '2026年10月19日（月）' 冲突；英文一般エントリー 11 月 2 日与日文一致" },
+    { "index": 12, "status": "supported", "checkedAt": "2026-11-08", "note": "日文页 '*1 一般エントリーは募集定員を超えた場合は抽選'、'*2 寄付エントリーは先着制'" },
+    { "index": 13, "status": "supported", "checkedAt": "2026-11-08", "note": "エントリー費段：'一般エントリー（国内・海外1,900名）'、'寄付エントリー（100名）'、'私的サポーター（500名）'" },
+    { "index": 14, "status": "supported", "checkedAt": "2026-11-08", "note": "私的サポーター：'2027年1月5日（火）12時00分〜1月12日（火）23時59分'、'抽選結果発表2027年1月18日（月）12時00分（予定）'、'入金期間2027年1月18日（月）～24日（日）23時59分'" }
+  ]
+}

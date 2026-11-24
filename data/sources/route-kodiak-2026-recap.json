@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-kodiak-2026-recap",
+  "title": "Kodiak, Yeti and Oil Creek recap: Poskin and Abma win at Big Bear",
+  "url": "https://runninglookout.com/news/ultra-weekend-recap-october-11-2026-kodiak-poskin-abma-yeti-lecrone-taylor-oil-creek/",
+  "publisher": "Running Lookout",
+  "publishedAt": "2026-10-12",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "Of 428 starters in the 2026 Kodiak 100M, 279 finished.",
+    "Cody Poskin's 16:46:21 was the third-fastest time on the Kodiak 100 course; Alex Proctor was second in 17:23:05 and Max Jolliffe third in 18:15:45.",
+    "Nichole Abma won the women's 100M in 20:43:40, the fourth-fastest women's time on the course; Madeline Wighardt was second in 22:05:50 and Charlotte Saunders third in 22:39:31.",
+    "Cole Campbell set a men's 50K course record of 3:20:42 and Anna Gibson set a women's 50K course record of 3:59:13."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 直读 Running Lookout 赛后汇总；用于完赛人数与历史名次，不用于官方关门或赛道数据。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：'Of 428 starters, 279 finished.'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：'third-fastest time on the course'；Proctor 17:23:05；Jolliffe 18:15:45" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：Abma 20:43:40 'fourth-fastest women's time'；Wighardt / Saunders 时间照录" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：'Cole Campbell set a course record of 3:20:42'；'Anna Gibson ... 3:59:13'" }
+  ]
+}

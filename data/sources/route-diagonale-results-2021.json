@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-diagonale-results-2021",
+  "title": "Grand Raid 2021 — all results and rankings",
+  "url": "https://www.grandraid-reunion.com/en/results/all-results-and-ranking-2021/",
+  "publisher": "Grand Raid de La Réunion",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The official 2021 results page labels the race 'Diagonale des fous 160km / 9383m+'.",
+    "The official 2021 results page gives no reason for the shorter distance."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接读取官方 2021 成绩页，页头写明 160km / 9383m+。原因未在官方页面出现。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页头原文：Diagonale des fous160km / 9383m+" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "页面只有成绩与排名，无赛道说明或缩短原因" }
+  ]
+}

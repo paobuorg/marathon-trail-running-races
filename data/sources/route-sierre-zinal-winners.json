@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-sierre-zinal-winners",
+  "title": "Sierre-Zinal — winners since 1974",
+  "url": "https://www.sierre-zinal.com/en/winners-since-1974-73.html",
+  "publisher": "Sierre-Zinal Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The page presents a list of all winners since the first edition of the race in 1974.",
+    "The list gives the 2024 men's winner as Kilian Jornet (ESP) in 2:25:34 and the 2025 men's winner as Philemon Kiriago (KEN) in 2:28:31.",
+    "The list gives the 2024 women's winner as Joyline Chepngeno (KEN) in 2:54:06 and the 2025 women's winner as Caroline Kimutai (KEN) in 2:55:31.",
+    "The list gives the 2023 men's winner as Philemon Kiriago (KEN) in 2:27:27 and the 2023 women's winner as Sophia Laukli (USA) in 2:53:17.",
+    "The list gives the 1996 men's winner as Eticha Tesfaye (ETH) in 2:41:05 and the 2003 women's winner as Tsige Worku (ETH) in 3:16:07.",
+    "The list gives the 2017 and 2018 women's winners as Lucy Wambui Murigi (KEN) in 2:58:40 and 2:57:54.",
+    "A footnote states that times from the 2020 and 2021 editions are not officially recognised due to course changes and exceptional race conditions.",
+    "The list records Maude Mathys (SUI) winning in 2:46:03 in 2021, a time covered by the footnote excluding 2020 and 2021."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官网冠军表。表格为逐年滚动布局，页面顶部先列 2025 与 2024；本页按年份字段逐条抄录，未把 2026 届写入该表，2026 届成绩另引世界田联与 GTWS。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'A list of all the winners since the first edition of the race in 1974'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "2024 'JORNET BURGADA Kilian' 'ESP' '02:25:34'；2025 'KIRIAGO Philemon Ombogo' 'KEN' '02:28:31'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "2024 'CHEPNGENO Joyline' 'KEN' '02:54:06'；2025 'KIMUTAI Caroline' 'KEN' '02:55:31'。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "2023 'KIRIAGO Philemon Ombogo' 'KEN' '02:27:27'；'LAUKLI Sophia' 'USA' '02:53:17'。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "1996 'TESFAYE Eticha' 'ETH' '02:41:05'；2003 'WORKU Tsige' 'ETH' '03:16:07'。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "2017 'MURIGI Lucy Wambui' 'KEN' '02:58:40'；2018 同人 '02:57:54'。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "'Times from the 2020 and 2021 editions are not officially recognized due to course changes and exceptional race conditions.'" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "2021 'MATHYS Maude' 'SUI' '02:46:03'，页内以 \\*\\*\\* 标注。" }
+  ]
+}

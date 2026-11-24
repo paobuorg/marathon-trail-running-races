@@ -21,5 +21,98 @@
     "Recommended gear includes a hard-shell rain jacket, rain pants, emergency blanket, gloves, running hat, whistle, sunglasses, sunblock, a headlamp with backup, spare batteries, capacity to carry 80 oz of fluid and 500 calories.",
     "The course page lists the 2026 clockwise course description and GPX file as updated 5 July 2026."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "官方页面直读",
+    "note": "2026 课程页正文与文件列表可读"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 2 段（Four legs…）：101.8 miles…33,441 feet…66,882 feet"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 2 段：Four legs，起点与终点同为 Silverton"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 2 段：average elevation about 11,000 feet；high point 14,048 feet"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 3 段：There are 14 aid stations…major aid stations in the towns"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 1 段：The course is closed…required to follow the specified route"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 4 段：We will mark the entire course…long road sections and maintained trails may not be marked"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 5 段：altitude range 7,700 to 14,000+ feet；Timberline…11,800 feet"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Safety 段：wet feet 90% or more of your run"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "First Aid 段：at least an EMT, first aid kit, radio communication"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "First Aid 段末：each runner carries a SPOT tracker"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Dropping Out 段：inform the nearest Aid Station Captain…best try effort"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Weather 段：The 48hr Cut-Off…wait out thunderstorms"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Recommended Gear 列表：Hard Shell / Rain Pants / … / 80oz fluid / 500 calories"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "文件列表：Course Description 2026 与 GPX File - Clockwise 2026 均标 Updated 7/5/26"
+    }
+  ]
 }

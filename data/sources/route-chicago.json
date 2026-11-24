@@ -16,5 +16,23 @@
     "The event is recognised as a World Athletics Platinum Label road race.",
     "The page does not publish a cumulative elevation gain or descent figure."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取课程页 → .agent/chicago-beijing35/chicago-course.html",
+    "note": "课程页正文可读；规模、补给、医疗、关门与标签口径均逐句核对；负向结论基于全文无爬升字段"
+  },
+  "claimVerification": [
+    {"index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "原文“The race starts and finishes in Grant Park”；“Run through 29 neighborhoods”"},
+    {"index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原文“flat and fast course”“seven world records”“1.7 million spectators”“29 neighborhoods”"},
+    {"index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "页面“VIEW THE 2026 COURSE MAP”链接官方PDF，并写“Please note the course map is subject to change.”"},
+    {"index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "原文20个aid stations，间隔约1至2英里；列医疗帐篷、Runner Transport、标准/ADA厕所、Gatorade、PA、水"},
+    {"index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "原文“Medical support is available at 22 on-course locations”；20站医疗帐篷+14至15英里之间+最后1英里"},
+    {"index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "原文“6 hours and 30 minutes, a 15-minute mile pace”"},
+    {"index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "原文列起跑、每5K、13.1英里半程、20至25英里、25.2英里、终点"},
+    {"index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "原文“recognized as a Platinum Label event by World Athletics”"},
+    {"index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "全文检索无累计爬升或下降数字；页面只称flat and fast"}
+  ]
 }

@@ -12,5 +12,19 @@
     "Age-group awards cover men, women and non-binary divisions from 16–19 through 80 and over.",
     "The page does not restate the course distance or publish an elevation figure."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取成绩页 → .agent/chicago-beijing35/chicago-results.html",
+    "note": "成绩页正文可读；2026入口链接、历史年份范围与年龄组均能核对"
+  },
+  "claimVerification": [
+    {"index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页面“View the official race results from the 2026...”链接 https://results.chicagomarathon.com/2026/"},
+    {"index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原文“more than one million runners...since the event’s founding in 1977”"},
+    {"index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "原文“Online results are available from 1993-2019 and 2021-2025”"},
+    {"index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "年龄组为Men、Women、Non-binary，16-19至80 & over，前列获刻名奖牌"},
+    {"index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "全文无42.195/26.2或elevation数字"}
+  ]
 }

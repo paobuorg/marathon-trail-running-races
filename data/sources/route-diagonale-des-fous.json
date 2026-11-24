@@ -4,13 +4,51 @@
   "url": "https://www.grandraid-reunion.com/fr/les-courses/la-diagonale-des-fous/",
   "publisher": "Grand Raid de La Réunion",
   "publishedAt": null,
-  "accessedAt": "2026-10-27",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The Diagonale des Fous starts in Saint-Pierre and finishes in Saint-Denis.",
     "The official distance is about 180 km.",
-    "The organisers publish a trace map but no public GPX; some sections are private land.",
+    "The official course page warns that some sections cross private land and are open only during the race; it publishes a route description and map rather than a public GPX.",
     "The official course lists about 10,200 m of cumulative climb.",
     "The route crosses the Pitons, Cirques and Remparts national park."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 复核官方路线页；负向结论限定为本次页面核查"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Le départ se fait dans le Sud à Saint Pierre”；正文写 “L’arrivée à Saint-Denis”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“une distance d’environ 180 kilomètres”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "官方路线页原文：Certains passages empruntent des terrains privés et ne sont accessibles qu’au moment de la course；Bassin Plat–Piton Sec 踩线被禁。页面未提供 GPX 下载。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“10200 m D+”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Parc National… Pitons, Cirques et Remparts”"
+    }
+  ]
 }

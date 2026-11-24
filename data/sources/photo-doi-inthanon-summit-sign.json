@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-doi-inthanon-summit-sign",
+  "title": "File:Place MostHighestofThailand.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Place_MostHighestofThailand.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2007-03-11",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "The image shows the summit sign on Doi Inthanon: a dark wooden board lettered in Thai with 'สูงสุดแดนสยาม', in English with 'THE HIGHEST SPOT IN THAILAND' and with smaller elevation text, above stone steps and visitors, surrounded by mountain forest.",
+    "The Commons file describes the subject as the highest point of Siam in Doi Inthanon National Park; it is a summit marker photograph, not a 2026 course, finish arch or timing-point photograph.",
+    "The author is Thanyakij at Thai Wikipedia; the file is public domain; the original upload date is 2007-03-11; the original is 1,024 x 768 pixels and 273,506 bytes; it was transferred to Commons on 2007-04-22.",
+    "The route page uses a 960 x 720 copy of 237,681 bytes without cropping or colour change and credits the author, public-domain status and source."
+  ],
+  "license": "Public-Domain",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons file page, imageinfo API and downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons 文件页与 imageinfo API 读取作者、许可、原图尺寸与描述，下载 960 px 副本并放大核对木牌上的泰文、英文与海拔小字；按山顶标识照使用，不当作赛道或赛果证据。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地副本与放大裁片可见木牌上的泰文 สูงสุดแดนสยาม、英文 THE HIGHEST SPOT IN THAILAND，以及下方海拔小字；前方为石阶与游客，周围为森林。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons 描述写 สูงสุดแดนสยาม / th: อุทยานแห่งชาติดอยอินทนนท์；文件页没有赛事号码布、终点拱门、计时设备或 2026 届赛事信息。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "imageinfo：Artist Thanyakij at Thai Wikipedia；LicenseShortName Public domain；原图上传日期 2007-03-11；1,024 x 768、273,506 字节；Commons 上传 2007-04-22；Credit 写 Transferred from th.wikipedia to Commons。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 x 720、237,681 字节；未裁剪、未改色；页面署名 Thanyakij at Thai Wikipedia / Public domain / Wikimedia Commons。"
+    }
+  ]
+}

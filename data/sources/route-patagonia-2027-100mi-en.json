@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-patagonia-2027-100mi-en",
+  "title": "100 Miles 英文页：与西语页一致的距离、爬升、时限、费用与资格",
+  "url": "https://patagoniarun.com/en/100-millas/",
+  "publisher": "Patagonia Run",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "英文页同样写 160.3 km、42 Hours、9221 m，2027 年 4 月 9 日（周五）在 Regimiento de Caballería de Exploración de Montaña 4 出发，Time: To be defined。",
+    "英文页同样标注赛道基于 2026 届、2027 届可能调整。",
+    "英文页同样写外国人 1 期 U$D 782、3 期 U$D 821.10；阿根廷居民 1 期 ARS 1,199,900、3 期 1,270,500、6 期 1,380,000。",
+    "英文页资格同样写 12 ITRA points，最多 3 场，2024 至 2026 年，至少 1 场 ≥110 km non-stop；与西语 100Mi 页一致。",
+    "英文页同样写 2025 或 2026 年 100 Miles 完赛者可进 2027 Hardrock 抽签，2026 年完赛者可进 2027 Western States 抽签。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 读取英文版全文，与西语页逐项对照距离、爬升、时限、发枪日、费用与资格年份；核心数字未发现西语/英文冲突。",
+    "checkedVia": "https://patagoniarun.com/en/100-millas/"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页面字段：START: FRIDAY, APRIL 9, 2027；Location: Regimiento de Caballería de Exploración de Montaña 4；Time: To be defined；160.3 km；42 Hours；9221 m。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "英文页 ALTIMETRÍA 段原文：COURSE BASED ON THE 2026 EDITION, MAY BE SUBJECT TO CHANGES FOR THE 2027 EDITION。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "英文页 CURRENT FEES – STAGE 7 段逐项核对，与西语页金额一致。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "英文页原文：12 ITRA Points accumulated in a maximum of 3 races between 2024 and 2026。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-09", "note": "英文页 HARDROCK 100 / WESTERN STATES 100 两段与西语页表述一致。" }
+  ]
+}

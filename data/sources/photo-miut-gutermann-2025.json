@@ -1,0 +1,41 @@
+{
+  "sourceId": "photo-miut-gutermann-2025",
+  "title": "File:Gutermann Jan 2025.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Gutermann_Jan_2025.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2025-04-25",
+  "accessedAt": "2026-11-21",
+  "claims": [
+    "The file shows French trail runner Jan Gutermann at the start of the MIUT 115 in Madeira in April 2025.",
+    "The photograph was taken on 25 April 2025 and published as own work by the uploader, credited as Sportif d'endurance.",
+    "The file is licensed CC BY-SA 4.0 (Creative Commons Attribution-Share Alike 4.0)."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-21",
+    "checkedVia": "Playwright 经 127.0.0.1:7890 代理读取 Commons 文件页和 Special:Redirect 缩略图；Python Pillow 只做 4:3 顶部裁剪和缩放",
+    "note": "2026-11-21 经代理读取文件页：Description 写明 Jan Gutermann au départ du MIUT 115 à Madère en avril 2025；Date 25 April 2025；Author Sportif d'endurance；CC BY-SA 4.0。原图 896×1195，本地图为顶部裁剪 896×672 后缩放至 1200×900，未改变画面内容。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "文件页描述与图片均显示选手在 MIUT 起点，号码布为 MIUT 14；画面与 2025 年 MIUT 115 起点相符。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "文件页 Date 2025-04-25，Source Own work，Author Sportif d'endurance。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "文件页 Licensing 明确 CC BY-SA 4.0。"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-black-canyon-2026-hot-takes",
+  "title": "5 Hot Takes About the 2026 Black Canyon Ultras — Trailhead Media from UltraSignup",
+  "url": "https://trailhead.ultrasignup.com/competition/5-hot-takes-about-the-2026-black-canyon-ultras/",
+  "publisher": "Trailhead Media / UltraSignup",
+  "publishedAt": "2026-02-16",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2026 Black Canyon weekend drew nearly 2,000 total runners; the article reports 767 finishers in the 100K and 849 in the 50K.",
+    "Hans Troyer's 7:20:00 broke Seth Ruhling's 2025 course record of 7:24:55.",
+    "Jennifer Lichter's 7:57:05 broke Riley Brady's 2025 course record of 8:16:18.",
+    "Seth Ruhling won the 2026 50K in a course-record 3:16:29; Jane Maus won the women's 50K in 3:47:04.",
+    "The race dates back to 2014 and has become one of the top early-season 100K races in the world."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "Full article",
+    "note": "UltraSignup Trailhead 2026-02-16 赛后分析；其 767/849 完赛数与 UltraSignup 官方成绩页 765/850、Aravaipa 汇总 1,626 均不完全一致，正文并列。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：nearly 2,000 total runners；767 finished 100K、849 finished 50K" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：Troyer 7:20:00 shattering Seth Ruhling's 2025 course record of 7:24:55" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：Lichter 7:57:05 obliterating Riley Brady's 8:16:18 course record from last year" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：Ruhling's course-record win 3:16:29；Jane Maus 3:47:04" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：race has been around since 2014; top early season races" }
+  ]
+}

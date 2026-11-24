@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-spartathlon-transport-sparta",
+  "title": "Sparta to Athens KTEL bus — Rome2Rio route summary (third party)",
+  "url": "https://www.rome2rio.com/s/Sparta/Athens-Kifissos-Bus-Terminal",
+  "publisher": "Rome2Rio",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "A KTEL Laconia bus runs from Sparti to Athens Kifissos terminal, with an average journey time of about 3 hours 30 minutes and roughly four departures a day.",
+    "Rome2Rio is a third-party route aggregator; the official KTEL Laconia timetable should be checked before booking."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch",
+    "note": "Third-party route summary read; labelled as third party."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Bus section: 3h30 average, every 4 hours."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Site identity and caveat added by this site."
+    }
+  ]
+}

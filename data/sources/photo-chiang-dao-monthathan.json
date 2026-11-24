@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-chiang-dao-monthathan",
+  "title": "File:Biodiversity at Monthathan Waterfall, Chiangmai, Thailand.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Biodiversity_at_Monthathan_Waterfall,_Chiangmai,_Thailand.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2026-06-28",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "The photograph shows Monthathan Waterfall in Doi Suthep-Pui National Park: a multi-tiered waterfall over dark rock, dense green forest, a wet rock ledge in the foreground and three orange butterflies resting on the stone.",
+    "Commons titles the file Biodiversity at Monthathan Waterfall, Chiangmai, Thailand.jpg; the picture documents the waterfall and its immediate biodiversity, not the 2026 A16 aid station, course markings, timing mat, runners or race-day conditions.",
+    "The author is ศุภฤกษ์ลายประวัติ; the file is licensed CC BY-SA 4.0; the photograph was taken on 2026-06-28 at 10:25:13; the original is 2,400 x 1,600 pixels and 3,189,393 bytes; the file page gives no camera coordinates.",
+    "The route page uses a 960 x 640 copy of 235,456 bytes without cropping or colour change and credits ศุภฤกษ์ลายประวัติ, CC BY-SA 4.0, Wikimedia Commons; the resized copy keeps the same licence."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons file page, imageinfo API and downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons 文件页与 API 核对作者、许可、日期、原图尺寸，并下载 960 px 副本目视确认：画面是 Monthathan 瀑布与岩石上的三只橙色蝴蝶，不是 2026 赛事现场。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地副本可见多层瀑布、深色岩壁、茂密绿林、前景湿岩与三只橙色蝴蝶；画面无人物、号码布、补给桌或赛事设施。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons 标题写明 Monthathan Waterfall, Chiangmai, Thailand；画面记录瀑布与周边生物，不是比赛现场。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "imageinfo：Artist ศุภฤกษ์ลายประวัติ；LicenseShortName CC BY-SA 4.0；DateTimeOriginal 2026-06-28 10:25:13；2,400 x 1,600、3,189,393 字节；GPS 字段为空。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 x 640、235,456 字节；未裁剪、未改色；页面署名 ศุภฤกษ์ลายประวัติ、CC BY-SA 4.0、Wikimedia Commons。"
+    }
+  ]
+}

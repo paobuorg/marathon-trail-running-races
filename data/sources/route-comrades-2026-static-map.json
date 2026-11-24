@@ -1,0 +1,40 @@
+{
+  "sourceId": "route-comrades-2026-static-map",
+  "title": "Comrades Start Information — 2026 Static Route Map link",
+  "url": "https://www.comrades.com/start-information",
+  "publisher": "Comrades Marathon Association (CMA)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "The official Start Information page contains a 'Static route map' button whose href is https://mosaic-cms.b-cdn.net/media/documents/rMF6aevh1Yw9BDBm78du1Ebk/2026-route-map-final.pdf.",
+    "The same page identifies the 2026 race as an Up Run from outside Durban City Hall, over 85.777 km, with three start groups at 05:00/05:15/05:30 and a finish at Hollywoodbets Scottsville Racecourse.",
+    "The page also says the 2026 route is an Up Run and the static map is a 2026 file; no 2027 route map or downloadable GPX is offered there, so the map cannot be treated as 2027 Down Run geometry."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "note": "2026-11-22 读取官方 Start Information 页 HTML（HTTP 200、145,095 字节），在 'Static route map' 按钮的 href 中取得 2026-route-map-final.pdf 直链。该 PDF 链接本身以 b-cdn 提供服务，但本地下载返回 403，未渲染 PDF 内容；本来源只对页面上的按钮、链接与 2026 年赛事文字负责。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "页面 HTML 的按钮 href 明确指向 2026-route-map-final.pdf；链接文字为 'Static route map'。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "页面文字写 2026 为 Up Run、Durban City Hall 起跑、85.777 km、05:00/05:15/05:30 三组、Scottsville Racecourse 终点。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "页面只提供 2026 静态图；没有 2027 路线图或 GPX 下载入口。"
+    }
+  ]
+}

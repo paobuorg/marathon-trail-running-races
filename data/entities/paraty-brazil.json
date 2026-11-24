@@ -1,0 +1,81 @@
+{
+  "entityId": "route:paraty-brazil",
+  "slug": "paraty-brazil",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-paraty-2027-course-ptr100",
+    "route-paraty-2026-live",
+    "route-paraty-2026-report",
+    "route-paraty-2027-regulation-pt",
+    "route-paraty-2027-regulation-en",
+    "route-paraty-2027-faq",
+    "route-paraty-2027-registration",
+    "route-paraty-2027-terms",
+    "route-paraty-2027-gpx",
+    "route-paraty-2027-access",
+    "photo-paraty-caminho-do-ouro",
+    "photo-paraty-historic-centre",
+    "photo-paraty-pedra-da-macela"
+  ],
+  "relatedRefs": [
+    "knowledge:heat-and-humidity",
+    "knowledge:night-running-and-traffic",
+    "knowledge:long-run-fueling",
+    "knowledge:trail-navigation",
+    "tool:track-view",
+    "tool:splits",
+    "route:torrencial-chile"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-09",
+  "updatedAt": "2026-11-24",
+  "reviewedAt": "2026-11-24",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "BR"
+    ],
+    "placeName": {
+      "zh-CN": "巴西里约热内卢州帕拉蒂（Paraty），起终点均在历史中心",
+      "en": "Paraty, Rio de Janeiro, Brazil — start and finish in the historic centre"
+    },
+    "mapAnchor": {
+      "longitude": -44.71323,
+      "latitude": -23.21773,
+      "kind": "start",
+      "sourceRef": "route-paraty-2027-gpx"
+    },
+    "courseVersion": "2027-ptr100",
+    "courseEdition": "2027",
+    "courseStatus": "current",
+    "courseChanges": [
+      {
+        "edition": "2027",
+        "observedAt": "2026-11-20",
+        "field": "course",
+        "change": "distance-revised",
+        "from": "2026 届 PTR 108（官方名称；赛后报道实测 101.9 km / +4,778 m）",
+        "to": "2027 届 PTR 100（页头 101 km / +4,850 m；逐点表 102.2 km / +4,779 m）",
+        "sourceRef": "route-paraty-2027-course-ptr100",
+        "note": {
+          "zh-CN": "2026 届名为 PTR 108，但赛后报道按组织方测量写 101.9 km；2027 届改称 PTR 100，页头 101 km，逐点表 102.2 km。名称、页头与逐点表是三套不同口径，本页并列，不把 PTR 108 当成 108 km 的实测距离。",
+          "en": "The 2026 edition was branded PTR 108, while its race report gives an organiser measurement of 101.9 km. The 2027 edition is branded PTR 100, with a 101 km header and a 102.2 km point table. The name, header and table are three different figures; this page shows them side by side and does not treat PTR 108 as a measured 108 km."
+        }
+      }
+    ],
+    "direction": "Paraty historic centre → Taquari → Serraria → Pedra da Macela → Cachoeira 7 Quedas → Paraty historic centre",
+    "distanceMeters": 101000,
+    "distanceMethod": "Official PTR 100 page header and the official FAQ both give 101 km. The same official page's point table ends at 102,215 m; the linked 2026 GPX measures 101.104 km locally; the 2026 PTR 108 race report gives an organiser measurement of 101.9 km. This card keeps the 2027 headline figure; the other official and measured figures are reported in the body and are not averaged.",
+    "elevationGainMeters": 4850,
+    "elevationMethod": "Official PTR 100 page header and the official FAQ both give 4,850 m+. The same page's point table sums to +4,778 m / −4,781 m, and the 2026 PTR 108 race report also gives 4,778 m. Local measurement of the linked GPX gives +5,258 m raw. This card keeps the organiser's headline figure; the other figures are shown side by side in the body.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://pdf.utmb.world/raw/upload/v1789262755/paraty/GPX/2026/PTR_100k_Paraty_2026_v12_Set26_6715d35f30.gpx",
+    "attribution": "Paraty Brazil by UTMB / UTMB World Series; the linked file was generated on Trace de Trail. Its metadata names the trace \"Paraty Brazil by UTMB 2026 2026 - PTR 100k\" and carries no licence, copyright or year field beyond that name. The event website's terms reserve all intellectual property rights; the file was downloaded on 2026-11-20 for a local measurement only, and this site only links to the official file and neither hosts, redistributes nor draws the track. The 2026 official live page and Somos Trail race report are used only for the separate 2026 PTR 108 edition."
+  }
+}

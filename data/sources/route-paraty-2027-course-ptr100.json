@@ -1,0 +1,38 @@
+{
+  "sourceId": "route-paraty-2027-course-ptr100",
+  "title": "PTR 100 官方赛道页：101 km、4,850 m+、逐点表与主要补给站关门",
+  "url": "https://paraty.utmb.world/races/ptr100",
+  "publisher": "Paraty Brazil by UTMB / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "PTR 100 官方页标 101 km、累计爬升 4,850 m+，2027-09-24（周五）19:00 自 Paraty 历史中心出发，总时限 30 小时。",
+    "该页的比赛类别为 UTMB World Series 100K，给出 3 颗 Running Stones 与 Finals Access。",
+    "同页的逐点表列 13 个点：起点、10 个中间检查点/补给点和终点；终点累计距离 102,215 m，逐点累计爬升合计 4,778 m、累计下降合计 4,781 m。",
+    "逐点表给出每个点的累计距离、海拔、累计爬升/下降、补给类型与医疗/休息/存包/厕所/电力等服务标记。",
+    "主要补给站关门时间：Taquari 周六 02:00、Trutario Rio Manso 周六 15:00、Macela 周六 19:15、Cachoeira 7 Quedas 周六 22:00、终点周日 01:00。",
+    "赛道经 Taquari、Pedra da Macela（逐点表海拔 1,797 m，全场最高）与 Caminho do Ouro 返回 Paraty。",
+    "页面提供 Map + GPX 入口，下载链接指向 pdf.utmb.world 上的 PTR_100k_Paraty_2026_v12_Set26 文件；页面没有声明 GPX 的许可或版权。",
+    "PTR 100 强制装备分基础、炎热、寒冷三套；基础套含 2 只头灯、至少 1 L 水、至少 150 ml 个人杯、至少 1.40 × 2 m 急救毯、防水带帽外套与弹性绷带。",
+    "完赛可获得 UTMB Index；页面写明在 26 小时内完赛可参加 Western States 抽签，并保留 3 颗 Running Stones。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 重新读取官方 PTR 100 页面，核对 2027 距离、逐点表、关门、装备与 Western States 资格表述。",
+    "checkedVia": "https://paraty.utmb.world/races/ptr100"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "页面字段：Distance 101 KM；Elevation Gain 4850 M+；Start Date Friday 24th September 2027；Race Start Paraty - Centro Histórico - 19:00；Max Allowed Race Time 30 Hours。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "Race Category 图标 alt=ws100KM；Running Stones 3；Finals Access 字段存在。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "逐点数组 13 项，末点 distance=102215；gainElevationFromLastPoint 求和 4778；lossElevationFromLastPoint 求和 4781。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "每项含 distance、elevation、gainElevation、lossElevation、supplies、hasRest、hasToilets、hasPower、hasBag、hasMedical、isChrono 字段。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "cutoff 字段：Taquari『Sat 02:00 AM』、Trutario Rio Manso『Sat 03:00 PM』、Macela『Sat 07:15 PM』、Cachoeira 7 Quedas『Sat 10:00 PM』、Paraty Chegada『Sun 01:00 AM』。其余点 cutoff 为空。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-20", "note": "OVERVIEW 原文点名 Taquari、Pedra da Macela、Caminho do Ouro；逐点表 Pedra da Macela elevation=1797，为 13 点最高。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-20", "note": "页面 Map + GPX 模块的 gpxUrl 指向 pdf.utmb.world/raw/upload/v1789262755/paraty/GPX/2026/PTR_100k_Paraty_2026_v12_Set26_6715d35f30.gpx；页面无 licence/copyright 字样。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-20", "note": "Mandatory gear 区分 Basic kit · mandatory、Basic kit · recommended、Hot-weather kit、Cold-weather kit；原文列出 2 头灯、≥1 L 水、≥150 ml 杯、≥1.40 × 2 m 急救毯、防水外套、100 cm × 6 cm 绷带。" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-20", "note": "页面 'Your chance to qualify' 段：完赛获得 UTMB Index；'finish the course in under 26 hours' 可进入 Western States 抽签；Running Stones 3。" }
+  ]
+}

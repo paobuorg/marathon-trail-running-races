@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-tarawera-spectators",
+  "title": "Tarawera Ultra-Trail by UTMB — Spectators",
+  "url": "https://tarawera.utmb.world/get-involved/spectators",
+  "publisher": "Tarawera Ultra-Trail by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Athletes may receive support crew assistance only at the designated aid stations, and only for the TMiler, T102 and T50; T21 and T14 athletes may not have support crew support, only spectators.",
+    "Spectator locations listed are Village Green (finish and event hub), Te Puia (TMiler, T50 and T14 start), Firmin Field Kawerau (T102 start, about a 60-minute drive from central Rotorua), Lake Tikitapu (T21 start and aid station), Puarenga, Buried Village, Rerewhakaaitu, Okataina (shuttle bus only) and Redwoods and Rifle Range.",
+    "Any aid station not listed on the page is not accessible to spectators.",
+    "Supporters may join the last stretch from the Redwoods aid station after registering with event staff and receiving a wristband, and only supporters of the TMiler and T102 may enter the finish chute with their athlete.",
+    "Tarawera Road is closed from 9:45am until about 11am for the T21 race start."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://tarawera.utmb.world/get-involved/spectators，读取 SUPPORTER INFO、SUPPORTER RULES、SPECTATOR LOCATIONS、RUN HOME FROM REDWOODS 各节"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "SUPPORT CREW ASSISTANCE 段：'only for the TMiler, T102 and T50'；'T21 and T14 may not have support crew support'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "SPECTATOR LOCATIONS 各小标题与正文；Firmin Field 段写 'approximately a 60min drive from central Rotorua'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'any aid station not listed is not accessible.'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "RUN HOME FROM REDWOODS 段：register + wristband；只有 TMiler 与 T102 支持者可进终点通道" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "Buried Village 段：'Tarawera Road will be closed from 9:45am until approx. 11am for the T21 race-start.'" }
+  ]
+}

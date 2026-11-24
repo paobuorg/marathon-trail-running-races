@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-sdw100-official-2025-infopack",
+  "title": "SDW100 2025 Infopack — official archive",
+  "url": "https://centurionrunning.com/races/south-downs-way-100-2025/section/infopack",
+  "publisher": "Centurion Running",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2025 edition was held over the weekend of 14–15 June 2025, with a 30 hour limit and cut-offs at every aid station.",
+    "The 2025 infopack tells runners not to recce the first 7.2 miles around Matterley Estate and lists course records of Mark Perkins (M) 14:03:54 in 2014 and Bethan Male (F) 16:49:57 in 2022."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接抓取并读取 2025 届 infopack。recce 距离写 7.2 miles，与 2026/2027 的 5 miles 不同。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Introduction 段：'weekend of 14th-15th June 2025'；'within 30 hours'；'further cut offs at every aid station'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Course and Trail Conditions 段：'first 7.2 miles around. Matterley Estate'；页首：Mark Perkins (M) 14:03:54 2014；Bethan Male (F) 16:49:57 2022" }
+  ]
+}

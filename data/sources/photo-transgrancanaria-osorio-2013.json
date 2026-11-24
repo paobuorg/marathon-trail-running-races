@@ -1,0 +1,26 @@
+{
+  "sourceId": "photo-transgrancanaria-osorio-2013",
+  "title": "File:Fotos The North Face Transgrancanaria 2013 a su paso por la finca de Osorio en Teror Gran Canaria Islas Canarias (02-03-2013). (8523268371).jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Fotos_The_North_Face_Transgrancanaria_2013_a_su_paso_por_la_finca_de_Osorio_en_Teror_Gran_Canaria_Islas_Canarias_(02-03-2013)._(8523268371).jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2013-03-02",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The file shows Marcin Świerc running through the Osorio estate in Teror during the 2013 Transgrancanaria Maratón.",
+    "The author is El Coleccionista de Instantes Fotografía & Video.",
+    "The file is licensed CC BY-SA 2.0."
+  ],
+  "license": "CC-BY-SA-2.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe + local 7890 proxy; Commons action=query imageinfo and w/thumb.php",
+    "note": "2026-11-20 经代理读取 Commons 文件页、imageinfo API 与 1400 px 缩略图，逐项核对作者、许可、日期、画面。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "画面为林间土路上的领先跑者与后续选手；文件描述写明 Marcin Świerc at 2013 Transgrancanaria Maratón, Osorio, Teror。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "Commons Artist：El Coleccionista de Instantes Fotografía & Video。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "Commons LicenseShortName：CC BY-SA 2.0。" }
+  ]
+}

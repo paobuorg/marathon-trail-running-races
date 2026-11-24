@@ -1,0 +1,32 @@
+{
+  "sourceId": "route-utmb-2026-practical",
+  "title": "Infos pratiques 2026 — HOKA UTMB Mont-Blanc (Internet Archive snapshot)",
+  "url": "http://web.archive.org/web/20260514185307/https://montblanc.utmb.world/fr/races-runners/runners/infos-pratiques",
+  "publisher": "UTMB World Series / Internet Archive",
+  "publishedAt": "2026-05-14",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "Bibs can be collected at the start village of the runner's own race or in Chamonix; the reservation window runs from 1 July to 10 August inclusive.",
+    "Shuttle buses to the start are included in the bib for UTMB, CCC, OCC, TDS, MCC, ETC and YCC, but a reservation is mandatory; pre-shuttles run from Cluses, Sallanches, Le Fayet, Servoz and the Chamonix valley.",
+    "The Prevention and Health Pathway (PPS) is mandatory for adults, costs €5 and replaces the medical certificate; it must be completed before bib collection.",
+    "Bib transfer, deferral to another year and category change are not allowed.",
+    "Cancellation insurance can refund 100% of the registration fee in case of injury before the event and 50% for other covered reasons; it must be taken out at registration.",
+    "Rescue insurance covering search and evacuation in France, Italy and Switzerland is mandatory for every runner."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "Internet Archive snapshot of the official 2026 practical-information page",
+    "note": "2026-11-20 读取 2026-05-14 官方实用信息快照；当前官网页面已切换为 2027 版，因此固定引用该 2026 快照。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "Retrait des dossards 段落：start village 或 Chamonix，预约 1 July–10 August。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "Navettes 段落：包含在 dossard 内、必须预约；列出 Cluses/Sallanches/Le Fayet/Servoz/Chamonix valley 的 pré-navettes。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "PPS 段落：mandatory、€5、不再要求 medical certificate。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "Transfert / report / changement de catégorie 段落均写 impossible。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "Assurance annulation 段落：100% 伤退、50% 其他承保原因。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-20", "note": "Assurance recherche/évacuation 段落；与规则 §ASSURANCE 一致。" }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "entityId": "route:mont-blanc-marathon",
+  "slug": "mont-blanc-marathon",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-mont-blanc-home",
+    "route-mont-blanc-42k-en",
+    "route-mont-blanc-42k-fr",
+    "route-mont-blanc-history",
+    "route-mont-blanc-2026-recap",
+    "route-mont-blanc-ranking-2026",
+    "route-mont-blanc-registration",
+    "route-utmb-mont-blanc-regulation",
+    "route-mont-blanc-utmb-index",
+    "route-mont-blanc-place-osm",
+    "route-mont-blanc-transport",
+    "route-mont-blanc-weather",
+    "photo-mont-blanc-2018-start",
+    "route-mont-blanc-2025-course-map",
+    "route-mont-blanc-2025-profile"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:recovery-day",
+    "tool:pace",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-21",
+  "reviewedAt": "2026-11-21",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "trail-mountain",
+    "countryCodes": [
+      "FR"
+    ],
+    "placeName": {
+      "zh-CN": "法国上萨瓦省霞慕尼-勃朗峰（Chamonix-Mont-Blanc）",
+      "en": "Chamonix-Mont-Blanc, Haute-Savoie, France"
+    },
+    "mapAnchor": {
+      "longitude": 6.8700009,
+      "latitude": 45.9230969,
+      "kind": "overview",
+      "sourceRef": "route-mont-blanc-place-osm"
+    },
+    "courseVersion": "2027-mont-blanc-42k",
+    "courseEdition": "2027",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "Start and finish in Chamonix; the course passes Tour, Vallorcine and La Flegere around the Aiguilles Rouges, with the Aiguillette des Posettes as the main climb",
+    "distanceMeters": 42000,
+    "distanceMethod": "The official French and English 42 km pages give 42 km. UTMB's own race database records the same event at 42.2 km in 2013, 42.5 km in 2017 and 42.7 km in 2018, so measured distance varies by edition and device. The organiser publishes PDF maps but no GPX file, so this card uses the official 42 km and does not measure a track.",
+    "elevationGainMeters": 2540,
+    "elevationMethod": "Both official 42 km pages give 2,540 m D+/-, i.e. the same figure for ascent and descent. UTMB's race database gives 2,515 m+ for 2013 and 2,780 m+ for 2017 and 2018. The organiser warns that GPX tracks may produce different distance and elevation results depending on system and settings. This card uses the official 2,540 m and keeps the other figures in the body rather than averaging them.",
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "Club des Sports de Chamonix. The official 42 km page links a 2025 PDF course map, a 2025 PDF profile, estimated passage times and an interactive map, but publishes no GPX file or reuse licence for the track; it also warns that GPX results vary by device and settings. This site links the two PDFs directly and labels them as 2025 files, does not draw the course, does not host a track and does not present any third-party GPX as official geometry."
+  }
+}

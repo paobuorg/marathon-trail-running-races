@@ -1,0 +1,39 @@
+{
+  "sourceId": "route-zegama-race",
+  "title": "XXV Zegama Aizkorri Mendi Maratoia — course page",
+  "url": "https://www.zegama-aizkorri.com/en/mendi-maratoia-zegama",
+  "publisher": "Zegama-Aizkorri Mendi Maratoia (organiser)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The official race page describes a medium mountain route over the Aratz massif and the Sierra of Aizkorri which includes the four highest peaks in the Basque Autonomous Region (Aratz, Aizkorri, Aketegi).",
+    "The same page gives the course as 42.195 km with 14 control points and 13 refreshment points.",
+    "The same page gives accumulated height gain as 5,472 m, maximum altitude 1,551 m at Aketegi and minimum altitude 296 m at Zegama.",
+    "The same page gives the technical percentage of the course as approximately 50% and the time limit as 8 hours.",
+    "The same page lists a flying sprint at Aizkorri at km 22.58.",
+    "The same page lists course records of 3:36:40 by Kilian Jornet Burgada (2022, men) and 4:16:43 by Nienke Brinkman (2022, women).",
+    "The same page gives the 2026 race date as 17 May 2026 with a 09:00 start, and calls the 2026 edition the XXV Zegama Aizkorri Mendi Maratoia.",
+    "The same page describes the route as very technical and of a high level of difficulty, combining beech forests, steep rocky slopes and high grazing land.",
+    "The same page publishes a closing-time table with 11 control rows, from Ulzama at km 8.5 (10:25, 85 min) through Sancti Spiritu at km 19.6 (12:15, 195 min) to Zegama at km 42.20 (17:00, 480 min).",
+    "The same page embeds a YouTube video titled '3D ROUTE' (Golden Trail World Series / 2019 / Zegama Race Specs) and, at the time of access, offered no downloadable race GPX."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取赛事官网英文赛道页全文，抄录距离、爬升、海拔、技术比例、时限、飞行冲刺、纪录与 2026 届次。页面日期栏有一处排版错误写作 'May 17, 20256'，同页其他位置与规则页均写 2026。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'A medium mountain route over the Aratz massif and the Sierra of Aizkorri which includes the four highest peaks in the Basque Autonomous Region (Aratz – Aizkorri – Aketegi).'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'Total length: 42,195 kilometers'；'Control points: 14'；'Refreshment points: 13'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'Accumulated height gain: 5.472 metres'；'Maximum altitude: 1.551 [Aketegi]'；'Minimum altitude: 296 [Zegama]'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'Technical percentage of course: 50% approx.'；'Time limit: 8 hours'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "'Flying sprint: Aizkorri (Km 22,58)'" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "'3 hours, 36 minutes, 40 seconds — Kilian Jornet Burgada – 2022, masculine'；'4 hours, 16 minutes, 43 seconds — Nienke Brinkman – 2022, feminine'" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "'XXV ZEGAMA AIZKORRI MENDI MARATOIA'；'May 17, 2026'；'09:00 start'（Date 行有 'May 17, 20256' 的排版错误）" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "'It is very technical and with a high level of difficulty.'；'It combines forests, principally beech, with steep rocky slopes and high grazing land.'" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "关门表 11 行：'1 Ulzama Km 8,5 10:25h 85min' … '4 Sancti Spiritu Km 19.6 12:15h 195min' … '11 Zegama Km 42.20 17:00h 480min'；表内没有 Km 0 行。" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "页面 '3D ROUTE' 栏嵌入 YouTube 视频 'Golden Trail World Series/2019/Zegama Race Specs'；同页只有 'Go to enrolement page' 与地图赞助模块，无 GPX 下载链接。" }
+  ]
+}

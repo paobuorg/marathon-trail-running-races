@@ -13,5 +13,50 @@
     "Airport Line 1 connects Hongqiao Transport Hub East with Pudong Airport from 06:00 to 23:00.",
     "Both airports publish parking and taxi or ride-hailing pickup areas."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 shanghai.gov.cn 机场交通页 → .agent/berlin-shanghai35/sh-airport.html",
+    "note": "机场交通页正文可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "浦东机场地铁 2 号线 6:00–22:30；磁浮浦东—龙阳路 7:02–21:42，龙阳路—浦东 6:45–21:40。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "机场 4 线至上海火车站北广场 7:00–23:00；7 线至上海南站 7:30–23:00；夜宵线至虹桥枢纽东 23:00–5:30。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "虹桥 T2 地铁 2 号线、T1/T2 地铁 10 号线，均 6:00–22:30。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "机场专线虹桥 T2 5:45–22:00，约 15 分钟一班。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "机场 1 线连接虹桥枢纽东与浦东机场 6:00–23:00。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "两场均公布停车与出租车/网约车接客区。"
+    }
+  ]
 }

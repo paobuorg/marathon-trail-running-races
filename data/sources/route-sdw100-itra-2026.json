@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-sdw100-itra-2026",
+  "title": "Centurion South Downs Way 100 2026 — ITRA race page",
+  "url": "https://itra.run/Races/RaceDetails/South.Downs.Way.100./2026/106345",
+  "publisher": "International Trail Running Association (ITRA)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "ITRA dates the 2026 race to 13 June 2026 with a start time of 05:30 and lists it as a solo race.",
+    "ITRA gives the distance as 160.56 km, elevation gain of +3,393 m and loss of -3,487 m, a time limit of 30:00 hours, 14 aid stations and 500 participants.",
+    "ITRA classifies the race as Mountain Level 2 with a Finisher Level of 490 and includes it in the National League; the fetched page does not show a numeric ITRA point value.",
+    "The ITRA course page gives the start as Winchester and the finish as Eastbourne, with terrain of 85% paths, 10% tracks and 5% roads."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 通过 WebFetch 读取该页与 Race Course 页；直接 curl 被反爬拦截。ITRA 的 14 站、160.56 km/+3,393 m、500 人与官方 12 站、161 km/3,800 m、600 人不同，按 B 层对照记录。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Event Information：13 June 2026；Race Date 2026/06/13；Start Time 05:30:00；Participation Solo" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Course details：Distance 160.56；Elevation Gain +3393；Elevation Loss -3487；Time Limit 30:0:0；Number of Aid Stations 14；Number of Participants 500" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "页首：Mountain Level 2；Finisher Level 490；National League；'Itra Points' 行在抓取文本中没有数值" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Race Course 页：Start Location Winchester；Finish Location Eastbourne；'85% Paths / 10% Tracks / 5% Roads'" }
+  ]
+}

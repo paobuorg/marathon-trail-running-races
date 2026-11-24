@@ -17,5 +17,74 @@
     "The guide lists quieter areas including Rotherhithe Peninsula at Miles 9 to 11, The Highway at Miles 14 and 22, Westferry at Mile 15, Isle of Dogs at Mile 16, Poplar at Mile 20 and Victoria Embankment at Mile 25.",
     "The guide says road closures will be in place and links to affected routes."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 londonmarathonevents.co.uk/london-marathon/london-marathon-spectator-guide → .agent/london35/spectator.html",
+    "note": "页面正文与表格可读；Canada Water 的英里数在表格单元格中"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "拥挤点表：6.5 Cutty Sark、9 Canada Water、11.5 Bermondsey、13 Tower Bridge、18/19 Canary Wharf and Heron Quays、21 Limehouse、23 Tower Hill、26 Westminster"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“queues up to 90 minutes at peak times”（Cutty Sark）；“Limehouse station … queues up to 90 minutes”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Westminster station will be exit only from 07:00 to 19:00”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“we recommend walking to different parts of the route … listen to marshals’ instructions”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“five accessible viewing areas … managed by stewards and are barrier-free … Cutty Sark, Canary Wharf, Rainbow Row (Butcher Row), Tower Hill and Victoria Embankment”"
+    },
+    {
+      "index": 5,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "页面写“Your runner will take about 30 minutes to reach this area after crossing the Finish Line”，是到达耗时估计；claim 的“about 30 minutes’ walk from the Finish Line”把耗时转成步行距离表述，属轻微推断"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Hop pier-to-pier between Woolwich (Royal Wharf) and Westminster, including Greenwich, Canary Wharf, Rotherhithe, Tower and Embankment”"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“reception might be patchy in congested areas”"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "安静区表：9 to 11 Rotherhithe Peninsula、14/22 The Highway、15 Westferry、16 Isle of Dogs、20 Poplar、25 Victoria Embankment"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Road closures will be in place”“View affected routes”"
+    }
+  ]
 }

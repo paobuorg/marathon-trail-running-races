@@ -1,0 +1,32 @@
+{
+  "sourceId": "route-buenosaires-preview-2026",
+  "title": "Maratón de Buenos Aires 2026: cortes de calle, corrales y logística — Infobae",
+  "url": "https://www.infobae.com/sociedad/2026/09/19/maraton-de-buenos-aires-2026-como-seran-los-cortes-de-calle-que-comenzaran-este-sabado-desde-las-9/",
+  "publisher": "Infobae",
+  "publishedAt": "2026-09-19",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2026 Buenos Aires Marathon was scheduled for Sunday 20 September, with the main start at 07:00 at Figueroa Alcorta and Dorrego, awards around 10:00 and the official close at 13:00.",
+    "The field was 16,384 runners from 64 countries, including 10,615 Argentines, 5,769 foreigners, 5,246 women, and representatives of all 24 Argentine jurisdictions.",
+    "The start was staggered by declared time: corral P for athletes with disabilities at 06:57, followed by two elite groups at 07:00 and 07:01.",
+    "Aid stations ran every 2.5 km from km 5, with water and isotonic drink; banana was offered at km 20 and km 30.",
+    "The elite men all had personal bests under 2:09, with Bethwel Kibet's 2:04:37 from Amsterdam 2023 the fastest listed; the elite women were under 2:27.",
+    "Brazil supplied 2,769 of the 5,769 foreign runners; Chile 499, Colombia 468, Uruguay 455, Peru 378 and Mexico 190."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "Search result full text",
+    "note": "Infobae 2026-09-19 赛前稿，正文含分批出发、补给品类、精英 PB 与客源国；起点时刻与官方规程 6:57/7:00/7:02... 有 1 分钟差异，正文以规程为准。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：domingo 20 de septiembre、largada 7、cierre 13；premios alrededor de las 10" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：16.384、64 países、10.615 argentinos、5.769 extranjeros、5.246 mujeres、24 jurisdicciones" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：corral P 6:57；dos grupos de élite 7:00 y 7:0x；官方规程为 7:00 与 7:02，正文采用规程" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：puestos cada 2,5 km desde km 5；agua, bebida isotónica；banana en km 20 y 30" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：hombres todos sub-2:09；Kibet 2:04:37 Amsterdam 2023；mujeres sub-2:27" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：Brasil 2.769、Chile 499、Colombia 468、Uruguay 455、Perú 378、México 190" }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "entityId": "route:canyons",
+  "slug": "canyons",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-canyons-official-100k",
+    "route-canyons-2026-results",
+    "route-canyons-2026-live",
+    "route-canyons-2026-report",
+    "route-canyons-2026-schedule",
+    "route-canyons-2026-gpx",
+    "route-canyons-official-100m",
+    "route-canyons-official-races",
+    "route-canyons-official-main-2026",
+    "route-canyons-official-100k-aid-chart",
+    "route-canyons-official-100m-aid-chart",
+    "route-canyons-official-registration",
+    "route-canyons-utmb-majors",
+    "route-canyons-official-50k",
+    "route-canyons-official-25k",
+    "route-canyons-place-geocoding",
+    "route-canyons-openmeteo",
+    "route-canyons-transport",
+    "photo-canyons-no-hands",
+    "photo-canyons-michigan-bluff",
+    "photo-canyons-auburn"
+  ],
+  "relatedRefs": [
+    "route:kodiak",
+    "route:western-states",
+    "route:utmb",
+    "knowledge:heat-and-humidity",
+    "knowledge:long-run-fueling",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-09",
+  "updatedAt": "2026-11-23",
+  "reviewedAt": "2026-11-23",
+  "reviewDueAt": "2027-04-30",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "US"
+    ],
+    "placeName": {
+      "zh-CN": "美国加利福尼亚州 Auburn 起终点；100K 与 100M 从 China Wall Trailhead 出发，沿 Western States Trail 到 Auburn 市区",
+      "en": "Auburn, California, United States — the 100K and 100M start at China Wall Trailhead and finish in downtown Auburn along the Western States Trail"
+    },
+    "mapAnchor": {
+      "longitude": -121.07689,
+      "latitude": 38.89657,
+      "kind": "overview",
+      "sourceRef": "route-canyons-place-geocoding"
+    },
+    "courseVersion": "2027-canyons-100k",
+    "courseEdition": "2027",
+    "courseStatus": "current",
+    "courseChanges": [
+      {
+        "edition": "2026",
+        "observedAt": "2026-11-20",
+        "field": "course",
+        "change": "route-refined",
+        "from": "2026 计划路线（China Wall 至 Michigan Bluff 段）",
+        "to": "2026 赛前一周因恶劣天气改线后的赛道",
+        "sourceRef": "route-canyons-2026-report",
+        "note": {
+          "zh-CN": "iRunFar 报道 2026 届在赛前一周因恶劣天气改线；2027 页面仍把 GPX 标为 2026 Alternate 并写明会变，因此不能把这份 2026 文件当成 2027 赛道，也不能当成 2026 赛日路线的完整记录。",
+          "en": "iRunFar reports that the 2026 race was rerouted earlier in race week because of inclement weather. The 2027 page still labels its GPX as the 2026 Alternate file and says it will change, so the file is neither a 2027 course nor a complete record of the 2026 race-day line."
+        }
+      }
+    ],
+    "direction": "Point-to-point from China Wall Trailhead via Mitchell Mine Road and Eldorado Canyon to Deadwood, Swinging Bridge and Devil's Thumb, then Michigan Bluff, Volcano Canyon, Foresthill, Cal Street and the American River, before Drivers Flat, Mammoth Bar, the Confluence Trail, No Hands Bridge and Robie Point into downtown Auburn.",
+    "distanceMeters": 100000,
+    "distanceMethod": "The organiser's 2027 100K page gives 100 KM in its French and Spanish locales and 62.1 miles in the English locale; the 2026 main page gives 62.1 miles (about 99.94 km); the 2026 metric aid chart ends at 99.1 km. The 2027 page says its GPX and aid chart are the 2026 versions and are subject to change. This card uses the organiser's 100 KM category distance and reports the other figures in the body without averaging them.",
+    "elevationGainMeters": 3750,
+    "elevationMethod": "The organiser's 2027 100K header gives 3,750 m+ (about 12,303 ft); the same page's description says approximately 13,000 ft of gain (about 3,962 m), and the 2026 metric aid chart's cumulative gain is 3,698 m. This card uses the header's 3,750 m and reports all three figures in the body rather than choosing the largest.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://pdf.utmb.world/raw/upload/v1776808248/canyons/2026/GPX%20Files/2026_Canyons_Endurance_Runs_by_UTMB_100k_Course_Alternate_877686b0ca.gpx",
+    "attribution": "Canyons Endurance Runs by UTMB, organised by UTMB World Series in Auburn, California, on the Western States Trail. Distance, gain, start times, limits, cut-offs, aid stations, fees and qualification come from the organiser's 2027 100K, 100M, 50K and 25K pages, races page, registration page, 2026 schedule and 2026 metric aid-station charts, which are level A evidence. UTMB's Majors page is level A for the 2027 Americas Major identity and for the Finals range. The 2026 official results and live pages provide the 2026 podium and starter/finisher counts; iRunFar provides the 2026 weather reroute and Golden Ticket roll-down. The 2027 100K page labels its GPX file and aid chart as 2026 versions subject to change; the GPX link returned HTTP 200 (333,185 bytes) and was downloaded on 2026-11-20 for a local measurement only. This site therefore links to the organiser's file instead of hosting it, and does not treat it as a 2027 track. The map anchor is an Open-Meteo geocode for the town of Auburn, not the China Wall start line. Three location photographs of No Hands Bridge, Michigan Bluff and downtown Auburn come from Wikimedia Commons under CC BY-SA 4.0 or 3.0; they show places on or beside the course, not race-day coverage."
+  }
+}

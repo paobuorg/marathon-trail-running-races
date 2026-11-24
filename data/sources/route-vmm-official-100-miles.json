@@ -1,0 +1,31 @@
+{
+  "sourceId": "route-vmm-official-100-miles",
+  "title": "VMM 100 Miles — official distance page",
+  "url": "https://vietnamtrailseries.com/mountain-marathon/vmm-100-miles/",
+  "publisher": "Vietnam Trail Series / Topas",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 100 miles page lists 161 km with 8,800 m of gain and says the distance is brought back for 2026 after being created as Vietnam's first miler.",
+    "The page says '2028 Race dates: to be updated' while its pacer schedule refers to Thursday 17/09/2026 and Friday 18/09/2026.",
+    "The 100 miles cut-offs are 13:30 at CP Sa Pa, 20:00 at CP M4, 04:00 Saturday at CP M7, 10:00 at CP Topas Ecolodge, 17:00 at CP2, 20:00 at CP3, 23:00 at CP4, 01:30 Sunday at CP5, 04:30 at CP6, 06:15 at CP7 and 09:00 at the finish.",
+    "The 100 miles page badges the race as a 6-point ITRA race, an ITRA National League race, a 100M UTMB Index race and a Western States 2027 qualifying race.",
+    "Pacers are allowed for the final 70 km from CP Topas Ecolodge at km 86.3, must carry the 70km mandatory kit, must register by 18/8/2026 and may only be changed at checkpoints.",
+    "The 100 miles page allows three bags — finish, CP M5 and CP2 — handed in at the start line."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "该页是 2026 届内容（pacer 日期为 2026 年 9 月 17–18 日），但日期行写 '2028 Race dates: to be updated'，与英文主页的 2027 TBD 不一致。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Distance: 161km | Elevation gain: 8800m；正文 'We are now happy to bring it back for the running community again for 2026'；'Vietnam's original miler'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "日期行 '2028 Race dates: to be updated'；pacer 段 'Thursday 17/09/2026'、'Friday 18/09/2026'；截止 'by 18/8/2026'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "CUT-OFF 行逐项照录" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "页尾：6-point ITRA；ITRA National League；100M UTMB Index；Western States 2027 Qualifying Race" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "PACERS 段逐条照录；final 70km（CP Topas Ecolodge KM 86.3 – Finish）；70km mandatory kit；change over at checkpoints only" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "FINISH AND DROP BAGS 段：3 bags = Finish Bag / CP M5 / CP2" }
+  ]
+}

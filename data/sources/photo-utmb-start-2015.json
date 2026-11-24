@@ -1,14 +1,41 @@
 {
   "sourceId": "photo-utmb-start-2015",
-  "title": "File:UTMB 2015 Starting Line.jpg (2026-11-07 check: host unreachable from this network; not re-verified)",
+  "title": "File:UTMB 2015 Starting Line.jpg",
   "url": "https://commons.wikimedia.org/wiki/File:UTMB_2015_Starting_Line.jpg",
   "publisher": "Wikimedia Commons",
   "publishedAt": "2016-04-14",
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The file shows the UTMB 2015 starting line in Chamonix, with the Ultra-Trail du Mont-Blanc banner visible.",
     "The uploader and author is BeatPitch.",
     "The file is licensed CC BY-SA 4.0 (Creative Commons Attribution-Share Alike 4.0) and credited as own work."
   ],
-  "license": "CC-BY-SA-4.0"
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe --proxy local 7890 proxy；Commons action=query imageinfo + w/thumb.php 缩略图",
+    "note": "2026-11-20 经本地 7890 代理读取 Commons 文件页、imageinfo API 与缩略图，确认作者、许可、拍摄日期和画面。此前 blocked 是本机直连不可达，不是文件不存在或没有许可。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    }
+  ]
 }

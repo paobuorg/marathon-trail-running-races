@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-canyons-official-50k",
+  "title": "Canyons 50K — Canyons Endurance Runs by UTMB 2027",
+  "url": "https://canyons.utmb.world/races/50K",
+  "publisher": "UTMB World Series / Canyons Endurance Runs by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The 50K is 50 KM with 1,700 m of gain, starts in Downtown Auburn on Saturday 24 April 2027 at 07:00 and has a 10-hour limit; it carries 2 Running Stones.",
+    "The route goes from Robie Point over No Hands Bridge and the Clementine trail to the Foresthill Divide Loop, Drivers Flat, Mammoth Bar and the Confluence Trail back to Auburn."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取并读取 2027 50K 赛事页。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页头：50 KM、1700 M+、Saturday 24th April 2027、Downtown Auburn 07:00、10 Hours、Running Stones 2" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "Course Description 段逐段照录" }
+  ]
+}

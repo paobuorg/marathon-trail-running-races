@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-patagonia-2027-reglamento-en",
+  "title": "2027 竞赛规程英文版：与西语原文的逐项对照",
+  "url": "https://www.patagoniarun.com/en/reglamento",
+  "publisher": "Patagonia Run / Spartan Race S.A.U.",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "英文规程同样写 2027 年 4 月 7 日至 11 日、六个距离 12k、21k、42k、70k、110k、100Mi，发枪日与西语版一致。",
+    "英文规程的 100Mi 资格写 12 ITRA points，最多 3 场，2025 至 2027 年，至少 1 场 ≥110 km；与西语规程一致，与 100Mi 宣传页的 2024–2026 冲突。",
+    "英文规程写“one of the following criteria”并列出三项，没有西语版“四项”的笔误。",
+    "英文规程的领物写发枪前一天、2027 年 4 月 6 日至 9 日、地点待确认，预约从 2027 年 3 月最后一周开放，与西语版一致。",
+    "英文规程同样写明超过 10 天后不退不转，并提供 2028 届 100% / 75% 两档抵扣，之后逐案评估。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 读取英文规程全文，与西语规程逐项对照；核心条款一致，差异仅在“四项/三项”的表述。",
+    "checkedVia": "https://www.patagoniarun.com/en/reglamento"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "英文规程首部日期、距离与 Starts 段与西语版逐项一致。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "英文原文：Minimum of 12 ITRA points from up to 3 races between 2025 and 2027, including at least one race ≥110 km。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "英文写 Participants must meet one of the following criteria，随后 1)、2)、3) 三项。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "英文 Accreditation 段：day prior to the start of each distance… Tuesday, April 6… Friday, April 9, 2027… location to be confirmed。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-09", "note": "英文 Article 5 与西语 Article 5 对应，10 天窗口、2028 抵扣 100% / 75% 及逐案评估一致。" }
+  ]
+}

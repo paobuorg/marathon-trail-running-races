@@ -1,0 +1,31 @@
+{
+  "sourceId": "route-lavaredo-mandatory-equipment",
+  "title": "Mandatory equipment — Lavaredo 120K and Lavaredo 80K",
+  "url": "https://lavaredo.utmb.world/races-runners/info/mandatory-equipment",
+  "publisher": "La Sportiva Lavaredo Ultra Trail by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The organisers may modify the mandatory equipment list at their sole discretion on the basis of the weather forecast, and any change may be communicated up to 12 hours before the start.",
+    "The Lavaredo 120K and Lavaredo 80K mandatory list contains: a race backpack; a long-sleeved sweater; long trousers or tights; a hat or bandana; warm and waterproof gloves; at least 1 litre of water capacity; a beaker of at least 15 cl; a visible race bib; an emergency thermal blanket of at least 2.00 x 1.40 m; a whistle; a switched-on phone with emergency numbers stored; a waterproof jacket with an integrated hood and a membrane of at least 10,000 Schmerber; a headlamp with spare batteries or two headlamps with batteries; footwear suitable for Dolomite terrain (stones, rocks, gravel); energy bars or solid food; at least EUR 20 for Alpine huts; and elastic bandages.",
+    "Disposable tableware is not handed out at refreshment stations or life bases, so athletes must bring their own cutlery and containers to eat hot or cold food.",
+    "The recommended equipment for the 120K and 80K is waterproof trousers, mineral salts, sunglasses, a warm long-sleeved sweatshirt, sunscreen and a third layer (fleece or quilted jacket) for particularly cold weather.",
+    "Trekking poles are permitted.",
+    "The Lavaredo 50K has the same mandatory list as the 120K and 80K but without the headlamp and spare batteries."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://lavaredo.utmb.world/races-runners/info/mandatory-equipment，逐项读取 'Lavaredo 120K & Lavaredo 80K' 与 'Lavaredo 50K' 两段"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页首段：may modify... up to 12 hours before the start" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Lavaredo 120K & Lavaredo 80K 段 17 项逐条" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "同段：disposable tableware will not be handed out... bring their own cutlery and containers" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "RECOMMENDED EQUIPMENT 段 6 项" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "RECOMMENDED EQUIPMENT 段末句 'Trekking poles are permitted'" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "Lavaredo 50K 段与 120K/80K 段逐条比对，唯一差异是无 headlamp 行" }
+  ]
+}

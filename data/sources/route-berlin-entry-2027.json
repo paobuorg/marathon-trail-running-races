@@ -18,5 +18,80 @@
     "Fifty runners holding a Sozialticket S can buy an entry for 50 euros.",
     "Starting spots are assigned to specific individuals and may not be transferred to another person or year."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 https://www.generali-berlin-marathon.com/en/registration/run → .agent/berlin-shanghai35/berlin-entry.html",
+    "note": "2027 报名页正文可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面写参赛名额由 lottery 分配。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "报名 2026-10-01 至 2026-11-12，2026-12-03 公布结果。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "报名费 215 €，抽中并分配名额后才扣款。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "含 4 日 ABC 交通票、各波配速员、个人证书、披风或 5 € 存衣袋、沿途及终点按摩。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2009 年及以前出生可报；禁 Nordic walking；步行者在关门内允许。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "关门 6:15 h。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "按 DLV 与 World Athletics 规则，BLV 监督。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "医疗团队及额外急救人员有权并有义务移出受伤或过度用力者。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "男子 2:45/2:55/3:25，女子 3:10/3:30/4:20；成绩须两年内。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "50 名 Sozialticket S 持有者可以 50 € 购名额。"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "名额绑定个人，不得转让他人或跨年。"
+    }
+  ]
 }

@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-sierre-zinal-home",
+  "title": "Sierre-Zinal — official homepage (2027 edition)",
+  "url": "https://www.sierre-zinal.com/en/homepage.html",
+  "publisher": "Sierre-Zinal Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The site header for the next edition reads 'Sierre-Zinal 2027 Saturday, August 7'.",
+    "The homepage describes the race as '31 km, 2200 metres of ascent, 1100 metres of descent' in the Valais Alps.",
+    "The site's page titles call Sierre-Zinal 'the race of the five 4000'.",
+    "The French homepage describes the course as 'très engageant' (very demanding).",
+    "The French homepage states under 'Nos Labels': 'Sierre-Zinal fait partie des plus grands circuits mondiaux.'"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官网英文首页与法文首页，抄录 2027 日期与赛道三组数字。官网语言选择默认法文，英文首页内容与法文一致。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "英文页头 'Sierre-Zinal 2027Saturday, August 7'；法文页头 'Sierre-Zinal 2027Samedi 7 août'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'31 km, 2200 metres of ascent, 1100 metres of descent'；法文 '31 km, 2200 mètres de montée, 1100 mètres de descente'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "页面标题后缀 'Sierre-Zinal the race of the five 4000, Valais, Switzerland'；法文 'la course des cinq 4000'。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'présente un parcours très engageant : 31 km, 2200 mètres de montée, 1100 mètres de descente'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-09", "note": "2026-11-09 复核法文首页 https://www.sierre-zinal.com/fr/homepage.html：'Nos Labels' 段原文 'Sierre-Zinal fait partie des plus grands circuits mondiaux.'；同页页头 'Sierre-Zinal 2027Samedi 7 août'。" }
+  ]
+}

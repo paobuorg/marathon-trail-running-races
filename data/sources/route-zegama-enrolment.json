@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-zegama-enrolment",
+  "title": "Enrolement — XXV Zegama Aizkorri Mendi Maratoia",
+  "url": "https://www.zegama-aizkorri.com/en/zegama-aizkorri-race/enrolement",
+  "publisher": "Zegama-Aizkorri Mendi Maratoia (organiser)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The enrolment page states that the organisation has set a limit of 500 participants and reserves 150 places for commitments associated with the event.",
+    "The same page sets aside another 125 places for runners who have competed in all previous editions and for runners with the fastest times in the last two editions (2025 and 2024).",
+    "The same page states that the remaining 225 places are drawn from pre-registrations to reach a maximum of 500 participants.",
+    "The same page gives the 2026 entry price as 75 euros and the public draw at Zegama City Hall on 20 February 2026."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官网报名页全文，抄录 500 人上限的拆分：150 保留、125 给历届完赛与近两届最快成绩、225 抽签，以及 2026 报名费与抽签地点。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'limit of 500 participants ... the Organization shall reserve 150 ridges to cover all commitments'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'set aside another 125 places ... competed in the all previous editions ... fastest times in the last two editions (2025 and 2024)'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'The remaining 225 places, to cover a maximum of 500 participants, will be drawn from all those runners ... who have pre-registered'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'The price of the inscription is 75€.'；'City Hall, in Zegama on February 20, 2026'" }
+  ]
+}

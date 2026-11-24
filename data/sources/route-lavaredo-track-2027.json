@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-lavaredo-track-2027",
+  "title": "Lavaredo 120K embedded track and time chart (2027 race page)",
+  "url": "https://lavaredo.utmb.world/races/lavaredo120k",
+  "publisher": "La Sportiva Lavaredo Ultra Trail by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2027 Lavaredo 120K page embeds a track object with distance 120,753 m, gainElevation 5,364 m and lossElevation 5,346 m.",
+    "The embedded time chart has 16 points from Cortina d'Ampezzo start (0 m, 1,217 m) to Cortina d'Ampezzo finish (120,753 m, 1,233 m).",
+    "Intermediate points and their distances and elevations are: Ospitale 18,720 m / 1,475 m; Passo Tre Croci 27,782 m / 1,819 m; Federavecchia 33,748 m / 1,396 m; Misurina 42,186 m / 1,769 m; Rifugio Auronzo 49,522 m / 2,316 m; Forcella Lavaredo 52,124 m / 2,449 m; Cimabanche 66,858 m / 1,541 m; Malga Ra Stua 76,416 m / 1,708 m; Malga Travenanzes 89,700 m / 1,959 m; Col Gallina 96,597 m / 2,074 m; Rifugio Averau 100,747 m / 2,414 m; Passo Giau 104,097 m / 2,250 m; Rifugio Croda da Lago 111,630 m / 2,064 m; Mortisa 118,836 m / 1,272 m.",
+    "The embedded chart records cut-off times only at Passo Tre Croci (Sat 04:30), Misurina (Sat 08:00), Cimabanche (Sat 13:30), Malga Ra Stua (Sat 15:30), Col Gallina (Sat 21:30), Passo Giau (Sat 23:59) and the finish (Sun 05:00); the other nine points carry no cut-off.",
+    "The chart marks assistance as allowed only at Cimabanche and Col Gallina, and marks supplies as food at the eight refreshment points, drink at Rifugio Auronzo and Malga Travenanzes, and none at Federavecchia, Forcella Lavaredo, Rifugio Averau and Mortisa.",
+    "The chart gives cumulative gain and loss at each point: Ospitale 757/497 m; Passo Tre Croci 1,406/802 m; Federavecchia 1,458/1,279 m; Misurina 2,000/1,448 m; Rifugio Auronzo 2,591/1,493 m; Forcella Lavaredo 2,737/1,505 m; Cimabanche 2,862/2,538 m; Malga Ra Stua 3,362/2,870 m; Malga Travenanzes 4,033/3,293 m; Col Gallina 4,526/3,669 m; Rifugio Averau 4,968/3,773 m; Passo Giau 5,048/4,013 m; Rifugio Croda da Lago 5,339/4,495 m; Mortisa 5,347/5,295 m.",
+    "The page's GPX link points to pdf.utmb.world in a directory named files/2026 with the file name LUT_Madre_2026_6_2025_65s_pul_89a81f913b.gpx.",
+    "The stored cutoffDatetime values of the intermediate points are dated 2024-06-29 and the finish value 2025-06-29, while the same chart labels the days Sat and Sun and the page header dates the race 25 June 2027."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 2027 Lavaredo 120K 页，解析页面内嵌 JSON：track{distance:120753,gainElevation:5364,lossElevation:5346} 与 16 点 checkpoints 数组；原始数组已存 .agent/lavaredo/checkpoints.json"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页面 JSON：track.distance=120753, track.gainElevation=5364, track.lossElevation=5346" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "checkpoints[0] 与 checkpoints[15]：uid L00/L15，均名 Cortina d'Ampezzo，distance 0 / 120753，elevation 1217 / 1233" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "checkpoints[1..14] 的 distance 与 elevation 字段" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "checkpoints 的 cutoff 字段：L02 04:30 AM、L04 08:00 AM、L07 01:30 PM、L08 03:30 PM、L10 09:30 PM、L12 11:59 PM、L15 05:00 AM；其余 null" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "checkpoints 的 isAssistance 字段仅 L07/L10 为 true；supplies 字段：food 8 点、drink 2 点、none 4 点（L03/L06/L11/L14）" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "checkpoints 的 gainElevation / lossElevation 累进值" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "页面内嵌 map 组件 gpx 字段：https://pdf.utmb.world/raw/upload/v1782387012/lavaredo/files/2026/LUT_20_Madre_2026_6_2025_2065s_20pul_89a81f913b.gpx" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "checkpoints 的 cutoffDatetime 字段：L02/L04 为 2024-06-29，L15 为 2025-06-29；cutoff 文本为 Sat/Sun；页头 startDate 为 2027-06-25T23:00:00" }
+  ]
+}

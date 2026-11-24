@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-utmb-2026-waves",
+  "title": "Infos pratiques 2026 — start waves and drop bags (search cache)",
+  "url": "https://montblanc.utmb.world/fr/races-runners/runners/infos-pratiques",
+  "publisher": "UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2026 CCC start waves were 09:00 for Top Elites, Elites and CCC1, 09:15 for CCC2 and 09:30 for CCC3.",
+    "The 2026 OCC start waves were 08:15 for Top Elites, Elites and OCC1, 08:30 for OCC2, 08:45 for OCC3 and 09:00 for OCC4.",
+    "At CCC, each runner can deposit one drop bag, collect it at Champex-Lac and then at the finish.",
+    "At OCC, each runner can deposit one drop bag and collect it at the finish.",
+    "Only the organiser's drop bags are transported; poles and valuables must not be placed in them, and bags must be collected within two hours of finishing."
+  ],
+  "license": null,
+  "verification": {
+    "access": "browser",
+    "bodyRead": false,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "search-engine cache of the 2026 official practical page",
+    "note": "2026-11-20 通过搜索索引缓存读取 2026 版页面中的出发波次与存包段；当前官网同一 URL 已切换为 2027 版，故 bodyRead=false，并固定记录 2026 内容。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "CCC start waves 段落列出 09:00/09:15/09:30 与 CCC1–CCC3。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "OCC start waves 段落列出 08:15/08:30/08:45/09:00 与 OCC1–OCC4。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "CCC drop-bag 段落：1 sac, retrait à Champex-Lac puis à l'arrivée。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "OCC drop-bag 段落：1 sac, retrait à l'arrivée。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "Sacs d'allègement 段落：只运输组织方发的袋，禁止杖与贵重物品，完赛后 2 小时内取。" }
+  ]
+}

@@ -11,5 +11,38 @@
     "The map's extractable text names North Sydney, McMahons Point, Kirribilli, Pyrmont, Ultimo, Sydney, Darlinghurst, Woolloomooloo, Surry Hills, Paddington, Woollahra, Kensington, Kingsford and Royal Randwick.",
     "The map's extractable text contains no elevation figures and no per-segment distance or climb table."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl 下载 PDF，PyMuPDF 提取文本",
+    "note": "PDF 为单页地图，文本层仅含地名、公里标、图例与 START/FINISH；无高程数字"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PDF 文本层见 'START'、'FINISH' 与 5KM/10KM/…/40KM 公里标"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "图例：'DRInk stations Water + Electrolytes'、'ENERGY GELS'"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "可提取地名含 NORTH SYDNEY、McMAHONS POINT、KIRRIBILLI、PYRMONT、ULTIMO、SYDNEY、DARLINGHURST、WOOLLOOMOOLOO、SURRY HILLS、PADDINGTON、WOOLLAHRA、KENSINGTON、Kingsford、royal randwick"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "全文仅地名、公里标与图例；无任何海拔数字，也无分段距离/爬升表"
+    }
+  ]
 }

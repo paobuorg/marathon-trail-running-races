@@ -1,0 +1,100 @@
+{
+  "entityId": "route:sdw100",
+  "slug": "sdw100",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-sdw100-official-2027",
+    "route-sdw100-official-infopack-2027",
+    "route-sdw100-official-aidstations-2027",
+    "route-sdw100-official-aidstations-2026",
+    "route-sdw100-official-aidstations-2025",
+    "route-sdw100-official-aidstations-2024",
+    "route-sdw100-official-schedule-2027",
+    "route-sdw100-official-faqs-2027",
+    "route-sdw100-official-course-notes-2027",
+    "route-sdw100-official-rules-2027",
+    "route-sdw100-official-register-2027",
+    "route-sdw100-official-2026-infopack",
+    "route-sdw100-official-2025-infopack",
+    "route-sdw100-official-2024-infopack",
+    "route-sdw100-wtm",
+    "route-sdw100-wser-2027",
+    "route-sdw100-itra-2026",
+    "photo-sdw100-matterley",
+    "photo-sdw100-qecp",
+    "photo-sdw100-alfriston"
+  ],
+  "relatedRefs": [
+    "route:western-states",
+    "route:black-canyon-ultras",
+    "knowledge:long-run-fueling",
+    "knowledge:heat-and-humidity",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-23",
+  "reviewedAt": "2026-11-23",
+  "reviewDueAt": "2027-07-31",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "GB"
+    ],
+    "placeName": {
+      "zh-CN": "英国英格兰南唐斯国家步道，Matterley Bowl（温彻斯特附近）至伊斯特本",
+      "en": "South Downs Way National Trail, England, United Kingdom — Matterley Bowl near Winchester to Eastbourne"
+    },
+    "mapAnchor": {
+      "longitude": -1.246487,
+      "latitude": 51.051114,
+      "kind": "start",
+      "sourceRef": "route-sdw100-official-infopack-2027"
+    },
+    "courseVersion": "2027-sdw100",
+    "courseEdition": "2027",
+    "courseStatus": "current",
+    "courseChanges": [
+      {
+        "edition": "2025",
+        "observedAt": "2026-11-09",
+        "field": "field-checkpoints",
+        "change": "route-refined",
+        "from": "2024 届：QECP 在第 22.6 英里的 Bottom Field | The Meadow；Beacon Hill Beeches 9.85、South Harting 26、Cocking 35.1、Washington 54、Botolphs 61.2 英里（route-sdw100-official-aidstations-2024）",
+        "to": "2025 届：QECP 改到第 23.4 英里的 The Event Field，官方在该行标注 moved from its 2024 location；Beacon Hill Beeches 11.4、South Harting 28、Cocking 36.6、Washington 55、Botolphs 60.9 英里；Houghton Farm 在 2025、2026 均为 45 英里，2027 另改为 47.3 英里（route-sdw100-official-aidstations-2025、-2026、-2027）",
+        "sourceRef": "route-sdw100-official-aidstations-2025",
+        "note": {
+          "zh-CN": "这是有官方新旧位置描述的检查站迁移，不是「重新核了一遍」：2024 页写 QECP 在 Bottom Field 与 The Meadow，2025 页写改到 The Event Field 并直接标注 moved。第 1–4 号与第 6–7 号补给站的英里数同时从 2024 到 2025 发生位移；第 5 号 Houghton Farm 在 2024→2025 保持 45 英里，2026 仍为 45，2027 另改为 47.3。Saddlescombe Farm 之后不变。本页只记录官方给出的位置与里程，不推断改线走向。",
+          "en": "This is a checkpoint relocation with official before-and-after descriptions, not a re-check: the 2024 chart places QECP in the Bottom Field and The Meadow, while the 2025 chart moves it to The Event Field and states 'This check point has moved from its 2024 location'. The mileages of stations 1–4 and 6–7 also shift between 2024 and 2025. Houghton Farm stays at 45 miles from 2024 through 2026 and is separately changed to 47.3 in 2027. Everything from Saddlescombe Farm onward is unchanged. This page records the published locations and mileages only and does not infer the route geometry."
+        }
+      },
+      {
+        "edition": "2027",
+        "observedAt": "2026-11-23",
+        "field": "field-checkpoints",
+        "change": "distance-revised",
+        "from": "2026 届：Houghton Farm 在第 45 英里，Wave 1 关门 19:45；Cocking→Houghton 8.4 英里、Houghton→Washington 10.0 英里（route-sdw100-official-aidstations-2026）",
+        "to": "2027 届：同一 Houghton Farm 地址改到第 47.3 英里，Wave 1 关门 20:20；Cocking→Houghton 10.7 英里、Houghton→Washington 7.7 英里；其余编号站的英里数与 2026 相同（route-sdw100-official-aidstations-2027）",
+        "sourceRef": "route-sdw100-official-aidstations-2027",
+        "note": {
+          "zh-CN": "2027 表把 Houghton Farm 的英里数从 2025、2026 的 45 改为 47.3，Wave 1 关门从 19:45 改为 20:20，地址仍是 Houghton Farm, Houghton Lane, BN18 9LW；2027 行没有写 moved 说明。官方没有解释这是检查点在场内迁移、换了一个入口，还是表格更新，本页只记录同址数值变化，不推断是改线。这个变化把 Cocking→Houghton 拉长到 10.7 英里、把 Houghton→Washington 压到 7.7 英里，也是 13 段隐含速度出现 4.49 与 7.43 的直接原因。",
+          "en": "The 2027 chart changes Houghton Farm from 45 miles in 2025 and 2026 to 47.3, and its Wave 1 cut-off from 19:45 to 20:20, while the address remains Houghton Farm, Houghton Lane, BN18 9LW; the 2027 row carries no 'moved' note. The organiser does not say whether this is a physical checkpoint move within the farm, a different access point or a table update, so this page records the same-address number change without inferring a route change. It lengthens Cocking→Houghton to 10.7 miles and shortens Houghton→Washington to 7.7 miles, which is the direct cause of the 4.49 and 7.43 implied speeds in the 13-segment table."
+        }
+      }
+    ],
+    "direction": "Point-to-point west to east along the South Downs Way National Trail, from Matterley Bowl near Winchester to a lap of the athletics track at Eastbourne Sports Park.",
+    "distanceMeters": 161000,
+    "distanceMethod": "The organiser's 2027 page gives 100 mi / 161 km and the course notes give 100 miles. ITRA's 2026 race page gives 160.56 km and World Trail Majors describes it as 100 miles (160 km). This card uses the organiser's 161 km and reports the other values in the body without averaging.",
+    "elevationGainMeters": 3800,
+    "elevationMethod": "The organiser's 2027 page gives 12,700 ft / 3,800 m in the same vital-stats line, and the FAQ and course notes repeat 12,700 ft. ITRA's 2026 race page gives +3,393 m gain and -3,487 m loss. This card uses the organiser's 3,800 m; the organiser's own foot-to-metre conversion is approximate (12,700 ft is about 3,871 m) and is reported in the body rather than corrected.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://centurionrunning.s3-eu-west-1.amazonaws.com/races/gpx/6a6fd6e9f2b13030641b3421a3b4ed0d.gpx",
+    "attribution": "South Downs Way 100, organised by Centurion Running on the South Downs Way National Trail and part of the World Trail Majors series according to the organiser's 2027 page. Distance, gain, waves, cut-offs, aid stations, drop bags, mandatory kit, qualification, entry and permit details come from the organiser's 2027 race page, infopack, aid-station chart, schedule, FAQ, rules and register, which are level A evidence. The 2024–2026 aid-station archive charts are also level A and are the evidence for the 2025 QECP relocation and for the 2027 Houghton Farm mileage and cut-off change. World Trail Majors, the Western States qualifying-race list and ITRA are cited as level B or as series/qualifier evidence. The organiser publishes a GPX and KML on its course-notes page; both URLs were checked with HEAD requests (HTTP 200) and neither file was downloaded, mirrored or hosted here, and no licence is stated for them. The map anchor is the Matterley Bowl coordinate embedded in the organiser's 2027 infopack map, not a surveyed start line. The three location photographs are from Wikimedia Commons: Matterley Bowl by Peter Facey (CC BY-SA 2.0), the South Downs Way in Queen Elizabeth Country Park by Dave Kelly (CC BY-SA 2.0), and the Church of St Andrew, Alfriston by David Iliff (CC BY-SA 3.0); each is credited, licensed and described in the page and in its photo source record, and none is race-day coverage."
+  }
+}

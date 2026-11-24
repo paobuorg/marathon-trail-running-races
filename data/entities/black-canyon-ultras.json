@@ -1,0 +1,68 @@
+{
+  "entityId": "route:black-canyon-ultras",
+  "slug": "black-canyon-ultras",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-black-canyon-official-2027",
+    "route-black-canyon-guide-2026",
+    "route-black-canyon-crew-2025",
+    "route-black-canyon-itra-2027",
+    "route-black-canyon-itra-2026-results",
+    "route-black-canyon-wtm",
+    "route-black-canyon-2026-results",
+    "route-black-canyon-2026-results-50k",
+    "route-black-canyon-2026-summary",
+    "route-black-canyon-2026-report",
+    "route-black-canyon-2026-hot-takes",
+    "route-black-canyon-golden-ticket-2027",
+    "photo-black-canyon-emery-henderson",
+    "photo-black-canyon-trail-near-bcc",
+    "photo-black-canyon-trail-canyon"
+  ],
+  "relatedRefs": [
+    "route:western-states",
+    "knowledge:heat-and-humidity",
+    "knowledge:long-run-fueling",
+    "knowledge:recovery-day",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-24",
+  "reviewedAt": "2026-11-24",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "US"
+    ],
+    "placeName": {
+      "zh-CN": "美国亚利桑那州 Spring Valley 至 New River，Black Canyon 国家休闲步道",
+      "en": "Spring Valley to New River, Arizona, United States — Black Canyon National Recreation Trail"
+    },
+    "mapAnchor": {
+      "longitude": -112.15706,
+      "latitude": 34.34764,
+      "kind": "start",
+      "sourceRef": "route-black-canyon-crew-2025"
+    },
+    "courseVersion": "2027-black-canyon-100k",
+    "courseEdition": "2027",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "Point-to-point southbound from Mayer High School in Spring Valley to Emery Henderson Trailhead near New River, following the Black Canyon National Recreation Trail.",
+    "distanceMeters": 100100,
+    "distanceMethod": "The organizer lists the 100K as 62.2 miles, which converts to 100.10 km, and the card rounds that to 100,100 m. The same 2027 page's embedded CalTopo card says 62.7 miles (100.9 km). ITRA lists 99.90 km. The 50K is listed by the organizer as 32.2 miles (51.82 km) while ITRA lists 52.02 km. All values are reported in the body; the card uses the organizer's key-stat figure, not a blend.",
+    "elevationGainMeters": 1591,
+    "elevationMethod": "The organizer's 2027 key stats give +5,219 ft (1,591 m) and -7,337 ft (2,237 m) for the 100K, and +2,004 ft (611 m) and -4,005 ft (1,221 m) for the 50K. The same page's CalTopo card gives +5,254 ft, and the 2026 guide's CalTopo card gives +6,965 / -9,094 ft. ITRA gives +1,610 m / -2,260 m for the 100K and +531 m / -1,141 m for the 50K. The card uses the organizer's converted key-stat figure and reports the conflicts without averaging them.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://caltopo.com/m/UVSJ5",
+    "attribution": "Black Canyon Ultras presented by HOKA, organised by Aravaipa Running on the Black Canyon National Recreation Trail. On 2026-11-24 the official 2027 page maps the 100K and 50K with Strava route embeds plus CalTopo links (UVSJ5 and HPSHM2N); it offers no GPX download button and no .gpx/.kml file. This site therefore links to the official map entries and hosts no track. The map anchor is the start coordinate printed in the organiser's 2025 crew manual for Mayer High School, not a surveyed 2027 start line. Distance, gain, cut-offs and aid stations come from the organiser's 2027 page; ITRA entries and the 2026 results are cited as secondary evidence."
+  }
+}

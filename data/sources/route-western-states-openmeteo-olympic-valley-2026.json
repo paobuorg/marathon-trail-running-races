@@ -12,7 +12,57 @@
     "One of the nine days had at least 1 mm of precipitation and none had at least 5 mm; 26 June recorded 1.1 mm and 27 June recorded 0.3 mm.",
     "On 27 June 2026 the grid point recorded a maximum of 15.1 degrees C, a minimum of 4.5 degrees C and 0.3 mm of precipitation.",
     "These are modelled grid-point values, not measurements taken on the race course.",
-    "The grid point is at 1,900 m, close to the official 6,200 ft start elevation, and the high country above it is colder."
+    "The grid point is at 1,900 m, close to the official 6,200 ft start elevation."
   ],
-  "license": "CC-BY-4.0"
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 复核：直接读取 API JSON，重算 9 天 min/max/median 与降水计数。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "API 顶层字段 latitude / longitude / elevation：实际返回 39.191563、-120.20633、1900.0 m。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "daily.temperature_2m_max 数组（2026-06-20 至 06-28）：重算 min 15.1 / max 26.4 / median 24.2。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "daily.temperature_2m_min 数组（2026-06-20 至 06-28）：重算 min 2.9 / max 9.2 / median 5.9。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "daily.precipitation_sum 数组（2026-06-20 至 06-28）：重算：仅 06-26 的 1.1 mm ≥1 mm；无 ≥5 mm；06-27 为 0.3 mm。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "daily 数组 2026-06-27 项"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "API 返回的网格点字段与 daily 序列"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "API 顶层 elevation 字段：API 返回 1,900 m（6,200 ft ≈ 1,890 m），只能支持“接近起点海拔”；API 不提供高海拔温度，原句后半已删除"
+    }
+  ]
 }

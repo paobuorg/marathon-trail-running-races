@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-uta-oncourse-2027",
+  "title": "HOKA Ultra-Trail Australia by UTMB 2027 — On Course Info",
+  "url": "https://uta.utmb.world/runners/on-course-info",
+  "publisher": "USM Events Pty Ltd / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "UTA checkpoints are cupless; first aid is available at each checkpoint, the Emergency Aid Station and the finish, with roving first aid crews on course.",
+    "Port-a-loos are placed at the start, at all checkpoints except CP1 Narrow Neck and at the Emergency Aid Station, with flushing toilets at Katoomba Aquatic Centre, Fairmont Resort and the finish.",
+    "Checkpoints are stocked with a mixture of Naak nutrition including drink mix, gels and waffles, gels, water, hot water, tea, coffee, soup, soft drink, lollies, fruit and bakery goods, but not every item is available at every checkpoint and exact stocks are in the Runner Guide.",
+    "One drop bag per runner is allowed at each drop bag location; bags must be closable, soft and a reasonable size, with no plastic bags, plastic boxes or glass.",
+    "Checkpoint drop bags must be delivered to the checkpoint trucks at race check-in on Friday between 10:00am and 7:00pm, and finish-line drop bags can be left at the KCC area on Friday only between 10:00am and 7:00pm.",
+    "Drop bags are returned to the drop bag marquee at Scenic World within four hours after the relevant checkpoint cut-off, must be collected by 2:00pm on Sunday 18 May according to the page text, and uncollected bags are donated or disposed of after 10am Monday.",
+    "The course is marked with red directional arrows on a white background, dark blue crosses on white and pink flagging tape, with reflective tape and arrows on night sections, markings at least every 500 m and at every track junction, and a distance sign every 5 km.",
+    "Spectating outside supported checkpoints is moral support only, with no material or physical support allowed, and spectators must respect private land."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://uta.utmb.world/runners/on-course-info，读取 CHECKPOINTS / DROP BAGS / RACE DAY COURSE MARKINGS / SPECTATORS 四段"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "CHECKPOINTS 段：we are a cup-less event；First Aid will be available at each checkpoint, the Emergency Aid Station and the finish；roving first aid crews" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "同段：port-a-loos at the start, all checkpoints except CP 1: Narrow Neck, and the Emergency Aid Station；flushing toilets 三处" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Checkpoints are stocked with 列表逐项；Note - not all items listed above will be available at every checkpoint" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "DROP BAGS 段：One drop bag per runner；closable and soft；no plastic bags or plastic boxes；glass 禁止" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "同段：delivered at race check-In on the Friday between 10:00am and 7:00pm；Finish line drop bags Friday ONLY 10:00am-7:00pm" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "同段：returned within 4 hours；collected by 2:00PM on Sunday 18th May；not collected by 10am Monday 处置" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "RACE DAY COURSE MARKINGS 段：red directional arrows、dark blue crosses、pink flagging、reflective tape、every 500m、distance sign every 5km" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "SPECTATORS 段：moral support only - no material or physical supporting；respect private landowners" }
+  ]
+}

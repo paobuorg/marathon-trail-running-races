@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-tds-courmayeur",
+  "title": "File:Courmayeur view.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Courmayeur_view.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2015-05-09",
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "The Commons file is a daylight panorama of Courmayeur and the surrounding mountain, showing the town's low-rise buildings, road, grass and lamp posts.",
+    "The file is a location photograph of the TDS start town, not a photograph of the TDS race; the file metadata contains no race or event context.",
+    "The author is Tiia Monto, credited under CC BY-SA 3.0; the original file is 8,445 x 3,073 pixels, 5,351,524 bytes, dated 2015-05-09.",
+    "The file page requires attribution and share-alike; the route page uses a 960 x 349 Commons thumbnail of 115,340 bytes and credits the author and licence."
+  ],
+  "license": "CC-BY-SA-3.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "checkedVia": "Commons action=query imageinfo + thumbnail visual check",
+    "note": "2026-11-22 读取 Commons 文件页与 imageinfo，核对标题、作者、日期、许可、尺寸和画面；缩略图与文件描述一致。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "File description says view of Courmayeur and mountain; thumbnail shows the town, road, grass and lamp posts in daylight."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "No race or TDS category in the file metadata; caption treats it as a location photograph."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "imageinfo: 8,445 x 3,073; 5,351,524 bytes; Artist Tiia Monto; CC BY-SA 3.0; DateTimeOriginal 2015-05-09."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Local file is the 960 x 349 Commons thumbnail, 115,340 bytes; source page states attribution and share-alike."
+    }
+  ]
+}

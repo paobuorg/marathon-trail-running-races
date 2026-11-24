@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-canyons-utmb-majors",
+  "title": "UTMB World Series Majors — Canyons as 2027 Americas Major",
+  "url": "https://utmb.world/utmb-world-series-majors",
+  "publisher": "UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "UTMB's Majors page lists HOKA Canyons Endurance Runs by UTMB as one of the two 2027 Americas Majors, alongside HOKA Kodiak Ultra Marathons by UTMB.",
+    "The page says the Canyons 100K is a Western States 100 Golden Ticket race in which the top two female and male finishers earn direct entry, while the event's own main page and registration page say the top three.",
+    "The page's Finals prize table lists only UTMB, CCC and OCC."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取 UTMB Majors 页。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "AMERICAS 段原文列出 Kodiak 与 Canyons" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "Canyons 段原文 'top two female and male finishers'；Canyons 主页与报名页写 top three" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "Finals 奖金表表头只有 UTMB / CCC / OCC" }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "sourceId": "route-qmt-2026-gpx",
+  "title": "QMT135 2026 — official GPX from the Course Map panel",
+  "url": "https://ultratrailcanada.com/en/ultra-trail-races/qmt-135/",
+  "publisher": "Québec Mega Trail / Ultra-Trail Canada (organiser)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "The QMT135 page's COURSE MAP accordion says 'You must enable statistical cookies to display this interactive map. The GPX file is located at the bottom of the window.' and exposes a GPX button whose href is https://ultratrailcanada.com/wp-content/uploads/2026/07/QMT135-Quebec-Mega-Trail-2026_final.gpx.",
+    "The Course Map itself is an interactive map that remains blank unless statistical cookies are enabled; the page does not provide a static route-map image in that accordion.",
+    "The downloaded GPX is 1,141,270 bytes, its internal track name is 'QMT135 - Quebec Mega Trail 2026', its creator is 'RaceMap Self-Serve', and it contains 11,732 track points from 47.43544, -70.50525, 6.58 m to 47.07565, -70.90691, 177.70 m.",
+    "A raw point-to-point measurement of the 2026 GPX gives 133.31 km, +6,614 m / −6,443 m, with a 3.97 m minimum and 817.06 m maximum; these are file-inspection values, not organiser figures, and the file's 2026 label means it cannot be treated as the 2027 course or as 2027 geometry."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "note": "2026-11-22 在官方 QMT135 页打开 COURSE MAP 折叠块：交互地图需启用统计 cookie 才显示，底部 GPX 按钮直链为 QMT135-Quebec-Mega-Trail-2026_final.gpx；通过浏览器下载 1,141,270 字节并用 Python 解析 11,732 个 trkpt。官方总距离/爬升仍为 134 km / +6,000 / −5,859 m，不用 GPX 原始测值替换。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "折叠块原文与 GPX 按钮 href 均在页面 DOM 中读取；直链文件名含 2026。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "截图与页面文字确认：未启用统计 cookie 时只显示提示文字与 GPX 按钮，没有静态路线图。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "文件字节数、内部 name/creator、trkpt 数与首末坐标均由本地文件解析得到。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "按原始点距 Haversine 得 133,310.4 m；逐点原始高程累加 +6,614.1 / −6,443.0 m；文件内部名明确写 2026。"
+    }
+  ]
+}

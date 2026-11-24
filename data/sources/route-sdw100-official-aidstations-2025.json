@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-sdw100-official-aidstations-2025",
+  "title": "SDW100 2025 Aid Stations — official archive",
+  "url": "https://centurionrunning.com/races/south-downs-way-100-2025/aidstations",
+  "publisher": "Centurion Running",
+  "publishedAt": null,
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The 2025 aid station mileages: Beacon Hill Beeches 11.4, QECP 23.4, South Harting 28, Cocking 36.6, Houghton Farm 45, Washington 55, Botolphs 60.9, Saddlescombe Farm 66.6, Housedean Farm 76.6, Southease 84, Alfriston 91.6, Jevington 95.7 and the finish at 100. Houghton Farm is 45 in the 2025 and 2026 charts but 47.3 in the 2027 chart.",
+    "The 2025 QECP row carries the note 'This check point has moved from its 2024 location'."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接抓取并读取 2025 届补给站表。用于确认 2024→2025 的 QECP 位置变更，以及 2025 与 2027 的里程一致性。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-23", "note": "2026-11-23 重新读取 2025 表：Houghton Farm 行明确为 Mile 45、Wave 1 cutoff 19:45；其余编号站与 2027 表一致，Houghton 是唯一例外。旧记录误写成 47.3，已按官方原文修正" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "QECP 行原文：'**This check point has moved from its 2024 location**'" }
+  ]
+}

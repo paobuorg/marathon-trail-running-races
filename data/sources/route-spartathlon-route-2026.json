@@ -1,0 +1,55 @@
+{
+  "sourceId": "route-spartathlon-route-2026",
+  "title": "Race Road — Spartathlon",
+  "url": "https://www.spartathlon.gr/en/route-eng/",
+  "publisher": "International Spartathlon Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "The official route page describes a point-to-point course from Athens to Sparta, ranging from sea level to 1,200 m over tarmac road, trail and mountain footpath.",
+    "The official route page says aid stations are placed every 3 to 5 km and that each of the 75 race control points has its own time limit.",
+    "The route page divides the course into Corinth, Nemea, Lyrkia, Mountain and Nestani, Tegea and Sparta sections, with the Sangas Pass climb of about 960 m in 13 km and a summit at 1,100 m.",
+    "The route page ends the narrative at Sparta at 245.3 km, while the 2026 road book ends at 244.74 km; the two official pages do not use the same rounded distance.",
+    "The official GPX download is available from the route page."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch",
+    "note": "Official route page read."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Opening paragraphs."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Opening paragraphs: aid every 3–5 km; 75 control points."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Section headings and Mountain/Nestani section."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Last paragraph says 245.3 km; road book row 75 says 244.74 km."
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "\"Download GPX file\" link points to https://spartathlon.gr/gpx/spartathlon-2026.gpx."
+    }
+  ]
+}

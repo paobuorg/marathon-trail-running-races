@@ -19,5 +19,86 @@
     "Spectators are not allowed on any of the bridges on the course.",
     "The best way for spectators to get around is the subway, with mta.info checked before travel."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 prod.nyrr.org/tcsnycmarathon/watch-the-race",
+    "note": "观赛页全文可读，含分段观赛点、桥梁禁入与终点看台规则"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "开头：“The majority of the course is open to spectators from mile 3 to mile 26.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：no spectator viewing at the start or on the Verrazzano-Narrows Bridge。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Brooklyn 段：Fourth Avenue miles 2–4；Fourth & Flatbush mile 8。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：Williamsburg and Greenpoint miles 10–13，before Pulaski Bridge。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Queens 段：Pulaski Bridge mile 13.1 连接 Brooklyn/Queens，closed to spectators。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Manhattan 段：First Avenue miles 16–18；East Harlem miles 18–20。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：Fifth Avenue, East 90th to East 105th Streets，miles 23–24。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Finish 段：“finishes at 67th Street on West Drive”。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：grandstand seating or standing area from Columbus Circle to south end of grandstands，about 500 feet before finish。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：no spectator access north of the grandstands。"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Bridges 段：spectators not allowed on any course bridge。"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "文末：best way 是 subway，出发前查 mta.info。"
+    }
+  ]
 }

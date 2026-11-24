@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-tarawera-on-course",
+  "title": "Tarawera Ultra-Trail by UTMB — On Course Info",
+  "url": "https://tarawera.utmb.world/runners/on-course-info",
+  "publisher": "Tarawera Ultra-Trail by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Aid stations are stocked with lollies, potato chips, sandwiches (jam, honey, chocolate spread, marmite), fruit (bananas, oranges, watermelon), ice, water, Näak nutrition (drink mix, waffles, gels) and soft drinks (cola, ginger beer, mountain dew), and some items may not be available at all aid stations.",
+    "The event is cup-less, with no drinking cups at aid stations.",
+    "Drop bags must not contain glass, all liquids must be in secure containers, one bag is needed per location, bags must be soft and of reasonable size, and one 'Authority to Collect' card is issued at Athlete Check-In.",
+    "This page states that support crews can assist only at aid stations with spectator access, including 500 m either side of the aid station.",
+    "This page states that pacers must register online no later than 11 February 2027.",
+    "Pacers must carry their own full set of mandatory clothing and equipment and may not carry extra water, food or equipment for athletes.",
+    "Drop bags must be dropped at the designated area at Athlete Check-In before 8pm on Friday.",
+    "Pacers are responsible for their own transport but must use an event bus if accessing Okataina."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://tarawera.utmb.world/runners/on-course-info，读取 AID STATIONS、AID STATION DROP BAGS、SUPPORT CREW、PACERS 各节；该页与赛页在协助半径与配速员截止日上不一致，本页并列写出"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "AID STATIONS 列表 7 类与 'some of the items listed above may not be available at all aid stations'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'We are a cup-less event. ... we will have no drinking cups at aid stations.'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "AID STATION DROP BAGS 五个圆点与 Authority to Collect 段" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'This includes 500m either side of the aid station on course.'；赛页同一句写 200m，本页并列" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "'must be registered online no later than 11 February 2027'；赛页写 10 February 2027，本页并列" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "PACER RULES：'must carry their own set of mandatory clothing and equipment'；'may not carry extra water, food or equipment for athletes'" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "AID STATION DROP BAGS：'before 8pm on Friday'" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "PACER RULES：'Pacers are responsible for their own transport, but must use an event bus if accessing Okataina'" }
+  ]
+}

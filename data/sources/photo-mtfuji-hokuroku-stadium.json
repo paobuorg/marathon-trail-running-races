@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-mtfuji-hokuroku-stadium",
+  "title": "File:Fuji Hokuroku Stadium.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Fuji_Hokuroku_Stadium.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2021-05-09",
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The image is a vertical aerial view of the athletics stadium inside Fuji Hokuroku Park, showing the red running track, grass infield, low grandstand, large car parks to the north and west, access roads and surrounding woodland.",
+    "The Commons file identifies Fuji Hokuroku Stadium; the FUJI100mi finish is Fuji Hokuroku Park Fujisan GX Stadium at 167.0 km. The aerial was taken in 2021, so it shows the venue footprint but cannot prove the 2026 finish arch, race-day layout or the later stadium name.",
+    "The author is the Geospatial Information Authority of Japan (国土地理院); the file is licensed CC BY 4.0; the original is 1,005 x 1,008 pixels and 757,125 bytes; the photograph is dated 2021-05-09 and derived from the GSI aerial-photo service.",
+    "The route page uses a 960 x 963 copy of 319,235 bytes without cropping or colour change and credits the author, licence and source; attribution is required."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons file page, imageinfo API and downloaded 960 px copy inspection",
+    "note": "2026-11-23 通过 Commons 文件页与 imageinfo API 读取作者、许可、原图尺寸、拍摄日期与 GSI 来源，下载 960 px 副本并目视核对田径场、草地内场、看台、停车区与周边林地；照片早于 2026 届，按终点场地照使用，不当作赛日现场。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地副本为垂直航拍，可见红色跑道、草地内场、看台、北侧与西侧停车格、道路和林地。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Commons 标题与描述为 Fuji Hokuroku Stadium；官方把终点写作富士北麓公园富士山GX体育场；照片日期 2021-05-09，早于 2026 届。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "imageinfo：Artist 国土地理院；LicenseShortName CC BY 4.0；1,005 x 1,008、757,125 字节；DateTimeOriginal 2021-05-09；Credit 指向 GSI 地图服务。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地文件 960 x 963、319,235 字节；未裁剪、未改色；页面署名 国土地理院 / CC BY 4.0 / Wikimedia Commons。"
+    }
+  ]
+}

@@ -19,7 +19,11 @@
     "route-hong-kong-100-openmeteo-2026",
     "route-hong-kong-100-history-2026",
     "route-hong-kong-100-airport-hkia",
-    "route-hong-kong-100-hko-climate"
+    "route-hong-kong-100-hko-climate",
+    "route-hong-kong-100-checkpoint-table-2027",
+    "photo-hong-kong-100-east-dam",
+    "photo-hong-kong-100-tai-long-sai-wan",
+    "photo-hong-kong-100-tai-mo-shan"
   ],
   "relatedRefs": [
     "knowledge:long-run-fueling",
@@ -28,9 +32,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-11-06",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-11-06",
+  "updatedAt": "2026-11-23",
+  "reviewedAt": "2026-11-23",
+  "reviewDueAt": "2027-11-24",
   "details": {
     "raceType": "trail-ultra",
     "countryCodes": [
@@ -47,11 +51,28 @@
       "sourceRef": "route-hong-kong-100-gpx-2027"
     },
     "courseVersion": "2027-hong-kong-100-official-course",
+    "courseEdition": "2027",
+    "courseStatus": "current",
+    "courseChanges": [
+      {
+        "edition": "2027",
+        "observedAt": "2026-11-06",
+        "field": "distance",
+        "change": "distance-revised",
+        "from": "2026 届约 92.9 km（台风后缩短；来源 route-hong-kong-100-utmb-index-2026）",
+        "to": "2027 届 100 km（来源 route-hong-kong-100-course-2027）",
+        "sourceRef": "route-hong-kong-100-course-2027",
+        "note": {
+          "zh-CN": "2026 届赛道因台风缩短，UTMB Index 记为 92.9 km；本页采用 2027 届官方 100 km 数据，两者不可混用。",
+          "en": "The 2026 course was shortened after typhoon damage and is recorded by UTMB Index as 92.9 km; this page uses the official 100 km figure for 2027, and the two must not be mixed."
+        }
+      }
+    ],
     "direction": "Point-to-point from Pak Tam Chung, Sai Kung, to Rotary Club Park, Tai Mo Shan Road",
     "distanceMeters": 100000,
-    "distanceMethod": "Official 2027 race card on the organiser home page: 100 km. The 2027 HK100 course page also describes a '100km journey'. UTMB Index records the 2026 edition, whose course was shortened by roughly 7 km after typhoon damage, as 92.9 km; that is a different edition and is not used here. This card uses the official 2027 figure.",
+    "distanceMethod": "Official 2027 race card on the organiser home page: 100 km. The 2027 HK100 course page also describes a '100km journey'. The 2027 official checkpoint-table image adds its 11 cumulative rows to 96 km and labels the last row Finish 96, 4 km short of the race card; the organiser does not explain the difference. This card keeps 100 km as the race-card distance, while the page's segment and checkpoint tables follow the 96 km table. UTMB Index records the 2026 edition, whose course was shortened by roughly 7 km after typhoon damage, as 92.9 km; that is a different edition and is not used here.",
     "elevationGainMeters": 5142,
-    "elevationMethod": "Official 2027 race card: 5,142 m of positive gain. The 2027 course page describes the same edition as climbing 'over 5,000 m'. UTMB Index records 5,073 m for the shortened 2026 course, which is a different edition and is not used here. No official page publishes a descent total. This card uses the official 2027 race card.",
+    "elevationMethod": "Official 2027 race card: 5,142 m of positive gain. The 2027 course page describes the same edition as climbing 'over 5,000 m'. The 2027 official checkpoint-table image publishes per-stage gain and per-stage loss that each total +5,142 / −5,142 m; this is the only formal per-stage descent data, and the page reports it. UTMB Index records 5,073 m for the shortened 2026 course, which is a different edition and is not used here. This card uses the official 2027 race card.",
     "geometryAccess": "official-link",
     "geometryRef": null,
     "geometrySourceUrl": "https://hk100ultra.com/wp-content/uploads/2026/06/HK100-Full-2027.gpx",

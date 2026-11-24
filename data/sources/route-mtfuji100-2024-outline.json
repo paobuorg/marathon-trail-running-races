@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-mtfuji100-2024-outline",
+  "title": "Mt.FUJI100 大会概要発表 (Press Release No.83, 2024 race outline)",
+  "url": "https://mtfuji100.com/wp-content/uploads/2023/09/MF_PressRelease_No.83.pdf",
+  "publisher": "Mt.FUJI100 Executive Committee",
+  "publishedAt": "2023-10-01",
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The press release dated 1 October 2023 announces that the event name changes to Mt.FUJI100 from the 2024 race, which is the 12th edition.",
+    "The 2024 FUJI100mi was scheduled from 26 April 2024 at 00:00 to 27 April 2024 at 21:00, a limit of 44 hours 30 minutes.",
+    "The 2024 FUJI100mi and KAI70k both started at midnight, and the finish venue moved to Fuji Hokuroku Park.",
+    "The 2024 FUJI100mi is listed as approximately 166.6 km with 7,039 m of accumulated gain, starting at Fujisan Kodomo no Kuni in Fuji City, Shizuoka Prefecture.",
+    "The 2024 KAI70k had a 21-hour limit."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 下载官方 PDF（225 行文本）读取第 1-2 页要点与第 (1)-(8) 条；文件名在 2023/09 目录，文首日期 2023年10月1日"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "要点：'大会名を「Mt.FUJI100」に変更'；第(1)条：'Mt.FUJI100 2024「マウントフジ100（ヒャク）」（12回目）'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "要点：'FUJI100mi 2024年4月26日(金)0:00〜4月27日(土)21:00 44時間30分制限'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "要点：'FUJI100mi/KAI70k共に深夜0時からスタート'；'フィニッシュ会場を富士北麓公園へ変更'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "第(7)条 ①FUJI100mi：距離 約166.6km、累積標高 +7,039m、スタート会場 富士山こどもの国（静岡県富士市）" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "要点：'KAI70k…21時間制限'" }
+  ]
+}

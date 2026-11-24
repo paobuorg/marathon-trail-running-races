@@ -13,5 +13,20 @@
     "The page gives the race-day schedule, start-corral information, gear-check information, packet pick-up details and race-weekend services.",
     "The page does not publish a cumulative elevation gain or descent figure."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取参赛者信息页 → .agent/chicago-beijing35/chicago-participant.html",
+    "note": "页面正文可读；规模、酒店、住房伙伴、领物规则均能逐句核对；页面当前混有2027信息，但不影响所引事实"
+  },
+  "claimVerification": [
+    {"index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "原文“29 neighborhoods with the support of 10,000 volunteers and 1.7 million spectators”"},
+    {"index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原文Hilton Chicago为官方总部酒店，1,544间客房，俯瞰Grant Park与Lake Michigan，近起终点"},
+    {"index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "原文“Maritz is the official housing partner...exclusive room blocks”"},
+    {"index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "McCormick Place的Abbott Expo本人领取；race day不提供、不邮寄、不可代领"},
+    {"index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "页面含RACE WEEKEND EVENTS、Start corrals、Gear check、Race weekend services、Participant Packet Pick-up"},
+    {"index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "全文无累计爬升或下降数字"}
+  ]
 }

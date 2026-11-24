@@ -1,0 +1,62 @@
+{
+  "sourceId": "route-sydney-gpx-2026",
+  "title": "TCS Sydney Marathon 2026 course page — linked GPX file",
+  "url": "https://58d6b978-2a26-47fe-9461-dde79ffbf034.filesusr.com/ugd/74dc15_df9a918b10dc4249a347dc530b28822c.gpx?dn=TCS_Sydney_Marathon_2026_Course.gpx",
+  "publisher": "TCS Sydney Marathon",
+  "publishedAt": null,
+  "accessedAt": "2026-11-21",
+  "claims": [
+    "The 2026 TCS Sydney Marathon course page at https://www.tcssydneymarathon.com/course (which resolves to /marathon) offers a 'Download Marathon Course GPX File' link and states that the course route is 100% accurate in the GPX while the elevation is not 100% accurate.",
+    "The linked GPX URL carries dn=TCS_Sydney_Marathon_2026_Course.gpx; a GET on 2026-11-21 returned HTTP 200, application/gpx+xml and 52,384 bytes.",
+    "The file is GPX 1.1 with creator Garmin Connect and contains 650 trkpt, no wpt and 650 <ele> elements; its metadata name is 'TCS Sydney Marathon 2025 - 42.195 km' (repeated), metadata time 2026-08-03T10:03:42 and metadata link https://www.goandrace.com.",
+    "A local haversine sum over the 650 trackpoints gives 42.2424 km, 47.4 m (0.112%) longer than the official 42.195 km; the first point is -33.833204, 151.208004, the last is -33.858142, 151.214300, and the bounding box is 33.833204–33.931257 S / 151.191888–151.241047 E.",
+    "The 650 elevation values sum raw to +283 m / −357 m, with a minimum of 3.8 m and a maximum of 80.4 m; the official page states GPX elevation is not 100% accurate and publishes +313/−396 m (with +317/−400 m also present on the same page), so this page keeps the official figures and does not substitute the raw GPX sums.",
+    "The file has no copyright line or redistribution licence; the page links it only and does not copy it into site media, bundle it or draw the track."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-21",
+    "checkedVia": "Playwright 打开 https://www.tcssydneymarathon.com/course，提取 Download Marathon Course GPX File 直链；context.request.get 下载至 site-www\\tmp-sydney-2026.gpx；Node 正则读取 trkpt/ele/wpt 并用 haversine 逐点求和",
+    "note": "2026-11-21 官方 course 页（重定向到 /marathon）仍显示 Download Marathon Course GPX File；文件 GET 200、application/gpx+xml、52,384 字节；650 trkpt、650 ele、0 wpt；内部 name 写 2025，metadata link 指向 goandrace.com，metadata time 2026-08-03。平面距离 42.2424 km。无版权行、无再分发许可。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "Playwright 读取 https://www.tcssydneymarathon.com/course：最终 URL /marathon；页面 Elevation Profile 下有 'Download Marathon Course GPX File'；正文写 'The course route is 100% accurate within the .gpx file'、'elevation ... is not 100% accurate'。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "直链 query dn=TCS_Sydney_Marathon_2026_Course.gpx；GET 返回 200，content-type application/gpx+xml，content-length 52,384。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "文件头 GPX 1.1、creator Garmin Connect；正则计数 trkpt 650、wpt 0、ele 650；metadata/trk name 均为 'TCS Sydney Marathon 2025 - 42.195 km'；metadata time 2026-08-03T10:03:42；metadata link href https://www.goandrace.com。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "650 个 trkpt 逐点 haversine 求和 42.242401… km；与 42.195 差 0.0474 km=47.4 m，相对差 0.001123=0.112%；首点 -33.833204/151.208004，末点 -33.858142/151.214300；lat 33.833204–33.931257 S，lon 151.191888–151.241047 E。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "650 个 ele 原始相邻差累加：上行 283 m、下行 357 m；min 3.8 m、max 80.4 m；首点 79.2 m、末点 5.2 m。官方页同时写 +313/−396 与 Course Information +317/−400，并声明 .gpx 高程不 100% 准确。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "文件内无 copyright/licence 字段；官方页未给再分发许可；未复制到 public/media，未打包，未转成站点几何。"
+    }
+  ]
+}

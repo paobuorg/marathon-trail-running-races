@@ -1,0 +1,68 @@
+{
+  "entityId": "route:gpt100-miler",
+  "slug": "gpt100-miler",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-gpt100-official-miler",
+    "route-gpt100-official-course",
+    "route-gpt100-official-aid-stations",
+    "route-gpt100-official-cutoffs",
+    "route-gpt100-official-fees",
+    "route-gpt100-results",
+    "route-gpt100-wtm",
+    "route-gpt100-itra-2026",
+    "route-gpt100-place-geocoding",
+    "route-gpt100-openmeteo",
+    "route-gpt100-transport",
+    "route-gpt100-access",
+    "photo-gpt100-taipan-wall",
+    "photo-gpt100-halls-gap-pinnacle",
+    "photo-gpt100-sturgeon-abrupt"
+  ],
+  "relatedRefs": [
+    "route:ultra-trail-australia",
+    "route:utct",
+    "knowledge:heat-and-humidity",
+    "knowledge:long-run-fueling",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-24",
+  "reviewedAt": "2026-11-24",
+  "reviewDueAt": "2027-03-31",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "AU"
+    ],
+    "placeName": {
+      "zh-CN": "澳大利亚维多利亚州 Grampians（Gariwerd）国家公园，Mt Zero 至 Dunkeld",
+      "en": "Grampians (Gariwerd) National Park, Victoria, Australia — Mount Zero to Dunkeld"
+    },
+    "mapAnchor": {
+      "longitude": 142.52345,
+      "latitude": -37.14646,
+      "kind": "overview",
+      "sourceRef": "route-gpt100-place-geocoding"
+    },
+    "courseVersion": "2026-gpt100-miler",
+    "courseEdition": "2026",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "Point-to-point north to south along the full Grampians Peaks Trail, from Mount Zero Picnic Area to the southern terminus in Dunkeld.",
+    "distanceMeters": 163000,
+    "distanceMethod": "The organiser's 2026 Miler page gives 163 km, and the twelve legs in its aid-station table sum to 163.0 km. ITRA's event text gives 164 km and the embedded Strava route shows 161.9 km; World Trail Majors calls it a 100 miler. This card uses the organiser's 163 km and reports the other values in the body without averaging them.",
+    "elevationGainMeters": 7700,
+    "elevationMethod": "The organiser gives 7,700 m of gain and loss (\"7700m+-\"), and the leg ascents in its aid-station table sum to 7,700 m while the leg descents also sum to 7,700 m when the first leg's symmetrical 600 m is counted. ITRA's event text gives 7,702 m and the embedded Strava route shows 7,588 m. This card uses the organiser's 7,700 m.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://drive.google.com/drive/folders/1uum8XqwbXw74rSDTXo8G1j5MJWhdXqFK?usp=drive_link",
+    "attribution": "Grampians Peaks Trail 100 Miler (GPT100), delivered by SingleTrack Events on the Grampians Peaks Trail in Gariwerd/Grampians National Park. Distances, elevation, aid stations, cut-offs and fees come from the organiser's 2026 pages, which are level A evidence. The organiser offers a course GPX through a Google Drive folder and TERRAiNAV offline maps; the file was not downloaded and is not hosted here, and no licence is stated for it. ITRA's 2026 event page and the World Trail Majors series page are cited as level B. The map anchor is an Open-Meteo geocode for the Halls Gap event village, not the Mount Zero start line; the pages read give no official start or finish coordinates. The page uses three Wikimedia Commons location photographs (Taipan Wall by Ed Dunens, CC BY 2.0; Halls Gap from the Pinnacles by Diliff, CC BY-SA 3.0; Mount Sturgeon and Mount Abrupt by Melburnian, CC BY 3.0) and two locally made SVG diagrams under CC BY 4.0; none is a 2026 race-day photograph."
+  }
+}

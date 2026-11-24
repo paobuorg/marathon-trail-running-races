@@ -1,0 +1,32 @@
+{
+  "sourceId": "route-black-canyon-2026-report",
+  "title": "Black Canyon Ultras 2026 results: Record-breaking wins for Lichter and Troyer — RUN247",
+  "url": "https://run247.com/running-news/trail/black-canyon-ultras-2026-results-report",
+  "publisher": "RUN247",
+  "publishedAt": "2026-06-28",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2026 Black Canyon 100K started at 07:00 from Mayer High School, with 62 miles ahead and 55 of them on the Black Canyon National Recreation Trail.",
+    "Hans Troyer won the men's 100K in 7:20:00, with Anthony Costales second in 7:24:32 and Tracen Knopp third in 7:26:45; Canyon Woodward was fourth and Jordan Bramblett fifth.",
+    "Troyer and Woodward already had Western States places, so the three men's Golden Tickets went to Troyer, Costales and Knopp.",
+    "Jennifer Lichter won the women's 100K in 7:57:05, with Anne Flower second in 7:58:15 and Tara Dower third in 8:11:46; Molly Seidel was fourth in 8:25:13 and Abby Hall fifth in 8:27:50.",
+    "Because Dower already had a Western States place, the third women's Golden Ticket rolled down to fourth-placed Seidel, so Lichter, Flower and Seidel took the three women's tickets.",
+    "RUN247 calls both Troyer's and Lichter's runs course records and reports that six Golden Tickets were handed out."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "Search result full text",
+    "note": "RUN247 2026 赛后稿，含男女前五、六张金票与赛道记录；Flower 7:58:15 与 UltraSignup 7:57:59 差 16 秒，正文并列。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：started at 7am local time from Mayer High School track, 62 miles, 55 on BCNRT" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：Troyer 7:20 flat、Costales 7:24:32、Knopp third 7:26:45、Woodward fourth、Bramblett fifth" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：all five will be at Western States as Troyer and Woodward already had places；金票为 Troyer/Costales/Knopp" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：Lichter 7:57:05、Flower 7:58:15、Dower 8:11:46、Seidel 8:25:13、Hall 8:27:50" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：third one rolled down to fourth place... Seidel；Lichter/Flower/Seidel" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：two new course records and six Golden Tickets" }
+  ]
+}

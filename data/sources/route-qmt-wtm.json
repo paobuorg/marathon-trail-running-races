@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-qmt-wtm",
+  "title": "World Trail Majors — all races 2026",
+  "url": "https://worldtrailmajors.com/all-races/",
+  "publisher": "World Trail Majors",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "World Trail Majors lists Quebec Mega Trail on 2026/07/02-05 as one of its ten 2026 races.",
+    "WTM describes it as one of the most prestigious ultras in Canada and as a 135 km race that is the queen of an eight-race festival weekend."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接读取 worldtrailmajors.com/all-races/ 十站列表与 Quebec 卡片。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "QUEBEC MEGA TRAIL 卡片，日期 2026/07/02-05；页面为 World Trail Majors 10 站列表" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "卡片简介：Considered one of the most prestigious ultras in Canada the 135 km Quebec Mega Trail is the queen of an 8 race “festival” weekend" }
+  ]
+}

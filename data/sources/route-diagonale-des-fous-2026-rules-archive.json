@@ -4,12 +4,44 @@
   "url": "https://www.grandraid-reunion.com/IMG/pdf/reglement_2013_en_anglais.pdf",
   "publisher": "Association Grand Raid",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The archived 2013 rules describe the Diagonale des Fous as an ultra trail of about 165 km with a total uphill climb of 9,900 m.",
     "The 2013 rules say the course crosses Réunion diagonally from south to north, skirts the Piton de la Fournaise and goes across the cirques of Cilaos, Mafate and Salazie.",
     "The 2013 rules say the route mostly follows regular long-distance footpaths and starts at Saint-Pierre, Ravine Blanche.",
     "The 2013 rules set a maximum time of 65 hours for that edition."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 2013 英文规则 PDF 并转文本核对"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“about 165km long, with a total uphill climb of 9900 m”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“crossing Reunion Island diagonally from south to north… skirts the Piton de la Fournaise… three cirques of Cilaos, Mafate and Salazie”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“mostly following regular long distance footpaths”；“Starting point is at Saint Pierre (Ravine Blanche)”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“within 65 (sixty five hours), including stops”"
+    }
+  ]
 }

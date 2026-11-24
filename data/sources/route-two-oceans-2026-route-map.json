@@ -1,0 +1,47 @@
+{
+  "sourceId": "route-two-oceans-2026-route-map",
+  "title": "TTOM 2026 Route Map — Ultra Marathon (56 km), Chappies",
+  "url": "https://media.twooceansmarathon.org.za/wp-content/uploads/2026/03/12131935/TTOM2026-Route-Map-Ultra-Marathon-Chappies.pdf",
+  "publisher": "Two Oceans Marathon NPC",
+  "publishedAt": "2026-03-12",
+  "accessedAt": "2026-11-21",
+  "claims": [
+    "The PDF linked from the official 2027 Ultra Marathon page as 'Download Map' is headed '56KM ULTRA' and carries the TOTALSPORTS TWO OCEANS MARATHON, powered by BYD branding.",
+    "The sheet maps the 56 km route from the Newlands main-road start to the Rondebosch finish, with kilometre markers to 54 km, hydration, food and medical stations, and inset maps for Noordhoek and the Canterbury Drive area.",
+    "An elevation profile across the foot of the sheet runs from 5 km to 56 km on the horizontal axis and from 3 m to 242 m on the vertical axis.",
+    "The file is a static PDF map of the 2026 edition, not a GPX, KML or GeoJSON track, and carries no stated reuse licence; the official 2027 page still says a detailed 2027 route map will be made available before the race."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-21",
+    "note": "2026-11-21 下载并逐页读取官方 PDF（1 页，6,213,932 字节，HTTP Last-Modified 2026-03-12）：标题 '56KM ULTRA'，含 56 公里路线、公里标记、补给/医疗站、两处放大图与底部海拔剖面。该 PDF 由官方 2027 Ultra 页的 'Download Map' 直接链接；它是 2026 届静态图，不是 2027 路线图，也不是 GPX。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "PDF 首页左上角 '56KM ULTRA'；左下角 'TOTALSPORTS TWO OCEANS MARATHON powered by BYD'。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "图上 START 在 Newlands Main Road，FINISH 在 Rondebosch；公里标记 1–54；legend 列出 HYDRATION STATION、KM MARKER、MEDICAL STATION、FOOD STATION；含 Noordhoek 与 Canterbury Drive 两处 inset。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "底部 'ELEVATION PROFILE' 纵轴刻度 3M–242M，横轴 5KM–56KM。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "文件为 application/pdf、单页静态地图；页面无 GPX/KML 下载；PDF 无许可声明；官方 2027 Ultra 页仍写 'A detailed route map will be made available prior to the race'。"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-tarawera-home",
+  "title": "Tarawera Ultra-Trail by UTMB — homepage",
+  "url": "https://tarawera.utmb.world/",
+  "publisher": "Tarawera Ultra-Trail by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The homepage introduces Tarawera Ultra-Trail by UTMB as New Zealand's premier trail running event, held in Rotorua, which it calls New Zealand's birthplace of tourism.",
+    "The homepage lists five distances, T14, T21, T50, T102 and TMiler, and says the courses are all point-to-point, on mostly non-technical runnable terrain, designed with the aim of seeing everyone succeed.",
+    "The homepage lists the 2027 event dates as 13-14 February 2027 and the five distance cards as TMiler 163 km / 3,800 m+, T102 102 km / 2,300 m+, T50 52 km / 1,150 m+, T21 23 km / 400 m+ and T14 14 km / 161 m+.",
+    "The homepage describes the landscape as native bush, redwoods, eight lakes and streams, and frames the event around the concepts of taiao, whānau and tutuki."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://tarawera.utmb.world/，读取首屏介绍、Distances to suit every ability 五张卡片、Explore Taiao 与 Find Whānau 两节"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "首屏：'New Zealand's Premier trail running event held in Rotorua, New Zealand's birthplace of tourism.'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'Courses are all point-to-point, on mostly non-technical runnable terrain. They are designed with the aim of seeing everyone succeed.'；同段列出 T14/T21/T50/T102/TMiler" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "首屏日期 13-14 February 2027；五张卡片距离与爬升" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Explore Taiao：'lush native bush, towering redwoods, past 8 glistening lakes and down crystal clear streams'；Find Whānau / Discover Tutuki 两节" }
+  ]
+}

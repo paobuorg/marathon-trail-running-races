@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-sdw100-qecp",
+  "title": "File:South Downs Way in Queen Elizabeth Country Park - geograph.org.uk - 3941804.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:South_Downs_Way_in_Queen_Elizabeth_Country_Park_-_geograph.org.uk_-_3941804.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2014-04-10",
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The image shows a wide, light-coloured chalk and gravel path running straight through leafless woodland in Queen Elizabeth Country Park, with green verges and a blue sky.",
+    "The file title identifies the South Downs Way in Queen Elizabeth Country Park; it contains no SDW100, Centurion Running or race-day context and is a location photograph, not the QECP aid station, crew field or race markings.",
+    "The author is Dave Kelly; the file is licensed CC BY-SA 2.0; the original is 4,320 x 3,240 pixels (about 5.53 MB), dated 10 April 2014, and the Commons file page carries Geograph image 3941804.",
+    "The route page uses a 960 x 720 Commons thumbnail of 334,177 bytes without cropping or colour change and credits the author, licence and source; attribution and share-alike are required."
+  ],
+  "license": "CC-BY-SA-2.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons file page and downloaded thumbnail inspection",
+    "note": "2026-11-23 读取 Commons 文件页并目视 960 像素本地副本，核对标题、作者、日期、许可、原图尺寸与画面；缩略图与文件描述一致。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Local thumbnail shows the wide chalk/gravel path, leafless woodland, green verges and blue sky."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Commons title names the South Downs Way in Queen Elizabeth Country Park; no race, club or race-day metadata appears."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Commons file page: author Dave Kelly; date 10 April 2014; CC BY-SA 2.0; original 4,320 x 3,240; Geograph 3941804."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Local file is 960 x 720 and 334,177 bytes; no crop or colour operation was applied; the page credits Dave Kelly and CC BY-SA 2.0."
+    }
+  ]
+}

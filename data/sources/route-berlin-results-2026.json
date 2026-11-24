@@ -10,5 +10,32 @@
     "The 2026 results and live tracking are available at berlin.r.mikatiming.com/2026.",
     "The results list is protected by copyright and may be viewed only for private informational purposes."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 https://www.bmw-berlin-marathon.com/en/your-race/results → .agent/berlin-shanghai35/berlin-results.html",
+    "note": "结果页正文可读；外部成绩平台对 curl 403。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面称可查看所有 BMW BERLIN-MARATHON 与 mini-Marathon 成绩并下载证书。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面链接“Results and Live Tracking 2026”指向 berlin.r.mikatiming.com/2026；该平台对 curl 返回 403（bot 防护），链接来自官方页。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面写成绩列表受版权保护，仅供私人信息用途。"
+    }
+  ]
 }

@@ -16,5 +16,68 @@
     "The run starts at 6am, so runners finishing in over 40 hours see the sun set twice.",
     "The course is described as a graduate-level challenge requiring mountaineering, wilderness survival and wilderness navigation skills."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "官方页面直读",
+    "note": "About 页正文可读"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 1 段：101.8 miles…33,441 feet…66,882 feet…over 11,000 feet"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 1 段：loop course on 4WD roads, dirt trails, and cross country…San Juan Range"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Event Description 段：2026 clockwise；2027 counter-clockwise；each year opposite direction"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Event Description 段：thirteen major passes…13 times…Handies Peak 14,048"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Event Description 段：since 1992, except 1995/2002/2019/2020"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Event Description 段末：kiss the Hardrock…ram's head…stone mining debris"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Running Times 段：48 hours；39:52:11；Pommeret 21:11 in 2026；Schide 25:50 in 2025"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Running Times 段：starts at 6am 后见 the sun set twice"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Event Description 段末：graduate level challenge…Mountaineering, wilderness survival and wilderness navigation"
+    }
+  ]
 }

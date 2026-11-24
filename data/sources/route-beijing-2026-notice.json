@@ -19,5 +19,26 @@
     "The event is organised by the Chinese Athletics Association and the Beijing Municipal Bureau of Sports, co-organised by China Media Group.",
     "Race-day entry uses bib checks plus face-recognition or identity-document verification."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取报名须知页HTML（SPA壳），调用 detailArticle API(articleID=9024245728409368) 取正文 → .agent/chicago-beijing35/beijing-notice-api.json",
+    "note": "报名须知正文可读；规模、年龄、成绩门槛、费用、轮椅与婴儿车规则均逐条核对；主办单位不在本文"
+  },
+  "claimVerification": [
+    {"index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "报名须知：2026年10月18日（星期日）7:30起跑"},
+    {"index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "起点天安门广场；终点奥林匹克公园中心区景观大道"},
+    {"index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "规模32,000人；北京马拉松与全国马拉松锦标赛同为42.195公里"},
+    {"index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "途经东城区、西城区、海淀区、朝阳区"},
+    {"index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "年满20周岁；65周岁以上须本人及家属共同签署参赛承诺书"},
+    {"index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "报名截止前24个月内完成马拉松或两次半程马拉松；线上马拉松成绩无效"},
+    {"index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "9月17日10:00至9月22日18:00报名；超额抽签"},
+    {"index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "报名费200元/人，不退不转让"},
+    {"index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "不设竞速轮椅组；竞速轮椅不得参赛；非竞速轮椅在后排出发"},
+    {"index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "婴儿车禁止进入起终点及赛道"},
+    {"index": 10, "status": "partial", "checkedAt": "2026-11-08", "note": "报名须知未载主办/承办单位；中国田协赛后通稿写明主办为中国田径协会、北京市体育局，联合主办为中央广播电视总台"},
+    {"index": 11, "status": "supported", "checkedAt": "2026-11-08", "note": "号码布查验加人脸识别或身份证件核验"}
+  ]
 }

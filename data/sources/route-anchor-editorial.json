@@ -4,9 +4,24 @@
   "url": "https://paobu.org/about/#method",
   "publisher": "RunUp",
   "publishedAt": null,
-  "accessedAt": "2026-10-27",
+  "accessedAt": "2026-11-08",
   "claims": [
     "Map anchors are editorial overview coordinates, not official start, finish or course positions."
   ],
-  "license": "CC-BY-4.0"
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 paobu.org/about/ → .agent/tokyo35/about.html",
+    "note": "关于与方法页正文可读；“路线与地图”段写明地图锚点不是起点或终点的精度声明"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“路线与地图”段：“地图锚点不是起点或终点的精度声明”"
+    }
+  ]
 }

@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-buenosaires-transport",
+  "title": "Getting to Buenos Aires — official City of Buenos Aires tourism site",
+  "url": "https://turismo.buenosaires.gob.ar/es/node/66895",
+  "publisher": "Gobierno de la Ciudad de Buenos Aires",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "Ezeiza International Airport (EZE) is about 32 km from the centre of Buenos Aires and the journey to the centre takes about 50 minutes.",
+    "Jorge Newbery Airport (AEP) is inside the city in Palermo and is within 25 minutes of the main hotels.",
+    "AEP mainly serves domestic flights and flights to neighbouring countries; most long-haul international flights use EZE.",
+    "Tienda León runs buses from Ezeiza airport to the city."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch",
+    "note": "Official city tourism page read."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "By air section: EZE 32 km, about 50 minutes."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "AEP located in Palermo, within 25 minutes of main hotels."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Airport roles described in the same section."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Getting to the city from the airports: Tienda León buses from Ezeiza."
+    }
+  ]
+}

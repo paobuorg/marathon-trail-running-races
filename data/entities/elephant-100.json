@@ -1,0 +1,69 @@
+{
+  "entityId": "route:elephant-100",
+  "slug": "elephant-100",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-chiang-mai-elephant100",
+    "route-chiang-mai-elephant100-chart",
+    "route-chiang-mai-elephant100-gpx",
+    "route-chiang-mai-gear-160-100",
+    "route-chiang-mai-faq-160-100",
+    "route-doi-inthanon-rules",
+    "route-doi-inthanon-faq",
+    "route-doi-inthanon-raceinfo",
+    "route-doi-inthanon-announcement",
+    "route-doi-inthanon-travel",
+    "route-doi-inthanon-climate-jma",
+    "photo-elephant-mae-sa-valley",
+    "photo-elephant-doi-pui",
+    "photo-elephant-mon-jam"
+  ],
+  "relatedRefs": [
+    "knowledge:heat-and-humidity",
+    "knowledge:altitude-and-running",
+    "knowledge:trail-gear",
+    "knowledge:ultra-running-basics",
+    "tool:heat-adjust",
+    "tool:track-view",
+    "route:doi-inthanon-pagoda-50-day",
+    "route:chiang-dao-160"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-24",
+  "reviewedAt": "2026-11-24",
+  "reviewDueAt": "2027-03-04",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "TH"
+    ],
+    "placeName": {
+      "zh-CN": "泰国清迈府，第二周赛事：起点 Wat Nhong Bua Noi，终点清迈市 Chiang Mai PAO Park",
+      "en": "Chiang Mai Province, Thailand, Week 2: start at Wat Nhong Bua Noi and finish at Chiang Mai PAO Park in Chiang Mai city"
+    },
+    "mapAnchor": {
+      "longitude": 98.86267,
+      "latitude": 19.05267,
+      "kind": "start",
+      "sourceRef": "route-chiang-mai-elephant100-gpx"
+    },
+    "courseVersion": "2026-elephant-100",
+    "courseEdition": "2026",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "Point to point: Wat Nhong Bua Noi → Wat Phraphutthabat Si Roi → Monjam → Mae Sa Elephant Camp → Wat Doi Pui → Monthathan Waterfall → Chiang Mai PAO Park",
+    "distanceMeters": 100000,
+    "distanceMethod": "The official ELEPHANT 100 page gives 100 km, while the official time chart ends at 101 km at the finish. The linked 2026 GPX measures 99.586 km in two dimensions and 101.065 km in three dimensions. The same GPX yields a raw cumulative descent of -5,737 m over 13,410 points. This card uses the official 100 km; the 101 km chart, the GPX figures and the gap are kept in the body and are not averaged.",
+    "elevationGainMeters": 5500,
+    "elevationMethod": "The official page gives 5,500 m of elevation gain and the official time chart sums to 5,540 m of cumulative ascent. The linked 2026 GPX yields 5,693 m of raw positive change and 5,480 m with a 3 m threshold over 13,410 points, with elevation tags from 319 m to 1,600 m. The same GPX yields a raw cumulative descent of -5,737 m over 13,410 points. This card uses the official 5,500 m; the chart and GPX figures are shown in the body and are not averaged.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": "https://pdf.utmb.world/raw/upload/v1790325225/thailand/GPX/2026/Elephant_100_Stations_ddf2a67ffb.gpx",
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://chiangmai.utmb.world/races/ELEPHANT100",
+    "attribution": "HOKA Chiang Mai Thailand by UTMB / UTMB World Series. The race page links the GPX Elephant_100_Stations_ddf2a67ffb.gpx; the file declares GPX 1.1, creator GPS Track Editor, metadata name 'Elephant 100+Stations', description '25-9-2026', no copyright entry and no reuse licence. This site links to the official race page, does not host the file, does not draw the track and does not treat the file as verified race-day geometry."
+  }
+}

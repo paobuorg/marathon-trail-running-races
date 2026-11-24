@@ -1,0 +1,31 @@
+{
+  "sourceId": "route-sierre-zinal-rules-entries",
+  "title": "Sierre-Zinal rules — registration and benefits (art. 23–30)",
+  "url": "https://www.sierre-zinal.com/en/registration-benefits-23-30-351.html",
+  "publisher": "Sierre-Zinal Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Article 23 limits the Tourist category to 4,000 participants, the Runner category to 2,100, the Chandolin–Zinal junior race to 250 and the children's race to 500.",
+    "Article 23 allows the organiser to run a free pre-registration for residents of the municipalities of the Sierre district and to hold a draw if that quota is exceeded.",
+    "Article 24 sets the entry fee at CHF 110 for the Tourist and Runner categories, excluding options.",
+    "Article 26 provides a free shuttle from Sierre station to the start, a return bus from Zinal, transport of a belongings bag and a post-race meal.",
+    "Article 25 states that registration is personal and non-transferable and that entry fees are not refunded.",
+    "Article 23 states that in principle no on-site registration is possible on race day for any category or event."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官网英文规则 Art. 23–30。费用与人数均为方括号数字，规则说明可逐年调整；本页按当前版本抄录，不把它当作 2027 届最终值。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'Tourist' limited to [4,000]；'Runner' limited to [2,100]；Junior [250]；'5 Obstacles' [500]。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'pre-registration system for residents of the municipalities of the Sierre district'；'a draw shall be conducted'；'Pre-registration shall be free of charge.'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'CHF [110].– for the \"Tourist\" and \"Runner\" categories'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Art. 26 列 free shuttle、return bus、belongings transport、meal。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "'registration is personal and non-transferable'；'entry fees are not refunded'" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "'In principle, no on-site registration shall be possible on the day of the Sierre-Zinal Race, for any category or event'。" }
+  ]
+}

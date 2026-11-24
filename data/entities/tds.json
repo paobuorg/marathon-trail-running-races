@@ -1,0 +1,62 @@
+{
+  "entityId": "route:tds",
+  "slug": "tds",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-tds-2026",
+    "route-tds-track-2026",
+    "route-tds-results-2026",
+    "route-tds-regulation-2027",
+    "route-tds-transport-courmayeur",
+    "route-tds-openmeteo",
+    "route-tds-ravit-2026",
+    "photo-tds-courmayeur",
+    "photo-tds-cormet-roselend",
+    "photo-tds-chamonix"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:recovery-day",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-19",
+  "updatedAt": "2026-11-22",
+  "reviewedAt": "2026-11-22",
+  "reviewDueAt": "2027-05-31",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "IT",
+      "FR"
+    ],
+    "placeName": {
+      "zh-CN": "意大利库尔马约尔至法国霞慕尼",
+      "en": "Courmayeur, Italy to Chamonix, France"
+    },
+    "mapAnchor": {
+      "longitude": 6.97158,
+      "latitude": 45.79288,
+      "kind": "start",
+      "sourceRef": "route-tds-track-2026"
+    },
+    "courseVersion": "2026-tds",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [],
+    "direction": "Courmayeur → Beaufortain → Chamonix (point-to-point)",
+    "distanceMeters": 145000,
+    "distanceMethod": "Official 2026 race stat block: 145 km. The official UTMB Index race page gives 154 km, the official embedded course trace measures 150.772 km, and third-party tables range from about 147 to 151 km. This card uses the race stat block; the page presents all published values side by side and uses the official 150.772 km trace for checkpoint distances.",
+    "elevationGainMeters": 9500,
+    "elevationMethod": "Official 2026 race stat block: 9,500 m positive gain. The official embedded trace computes +9,322 / −9,509 m. This card uses the stat block; the page uses the trace values for the point-by-point table.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": "https://pdf.utmb.world/raw/upload/v1786442970/montblanc/Races/GPX/2026/TDS_2026_098e06c78e.gpx",
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://pdf.utmb.world/raw/upload/v1786442970/montblanc/Races/GPX/2026/TDS_2026_098e06c78e.gpx",
+    "attribution": "UTMB Mont-Blanc / LiveTrail for the official course data and GPX. The official GPX metadata declares copyright to LiveTrail® and carries no redistribution licence, so this site links to the file and does not host a copy. The three location photographs are credited to Tiia Monto (CC BY-SA 3.0), Philipendula (CC BY 2.5) and Ximonic, Simo Räsänen (CC BY-SA 3.0); the two structural SVGs are by RunUp Editorial and are not official maps."
+  }
+}

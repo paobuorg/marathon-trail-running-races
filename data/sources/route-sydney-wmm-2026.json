@@ -13,5 +13,50 @@
     "The report says Peres Jepchirchir and Irine Cheptai took control after the 30 km mark, and Jepchirchir dropped Cheptai from 35 km.",
     "The report says Manuela Schär put time into Eden Rainbow-Cooper just before the elevated section into Driver Avenue."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl 静态抓取 .agent/sydney/wmm.html",
+    "note": "WMM 赛后报道全文可读，按段落核对 37 km、下坡、Harbour Bridge、10 km、30/35 km 与 Driver Avenue 的描述"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'only opened up at the 37k mark ... heading into the Royal Botanical Gardens'"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'Seven became five as they headed into final downhill section when Gobena pulled clear'"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'David Weir ... signalled his intentions by racing into a lead on the Harbour Bridge incline'"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'after the 10k mark when Romanchuk took control through the elevation into Oxford Street'"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'took control after the 30k mark'；'Jepchirchir showed her class from 35k, dropping Cheptai'"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'just before heading into the elevated section into Driver Avenue'"
+    }
+  ]
 }

@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-marathon-des-sables-concept",
+  "title": "MDS Legendary — The Concept (official format page)",
+  "url": "https://marathondessables.com/en/format/mds-legendary",
+  "publisher": "Marathon des Sables",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The Concept section states: 'The MDS Legendary is a unique race and adventure that has been taking place in the Sahara since 1986.'",
+    "The same section states that in 2026 the MDS Legendary will celebrate its 40th edition.",
+    "The Participants section states 'With 39 editions so far, over 30,000 people have taken part in the adventure', and gives averages of 60 nationalities, over 30% walkers, 27% women, average age 47, 90% finishers and an average pace of 5.2 km/h.",
+    "The French version of the same page states 'Le MDS Legendary est une course et une aventure hors du commun, se déroulant dans le Sahara depuis 1986', 'En 2026, le MDS Legendary fêtera sa 40e édition' and 'Avec 39 éditions au compteur'."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直取英文与法文格式页 https://marathondessables.com/en/format/mds-legendary 与 /fr/format/mds-legendary。英文页写 40th edition（2026）与 39 editions so far；法文页写 40e édition 与 39 éditions au compteur；2027 赛事页另写 41st edition（见 route-mds-legendary-2027-event）。三处并列，不做平均。页面无发布日，accessedAt 为读取日。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "THE CONCEPT 原文：'The MDS Legendary is a unique race and adventure that has been taking place in the Sahara since 1986.'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：'In 2026, the MDS Legendary will celebrate its 40th edition—a perfect occasion to honor four decades…'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "PARTICIPANTS 原文：'With 39 editions so far, over 30,000 people have taken part in the adventure. On average, each edition brings together: 60 nationalities represented / Over 30% walkers / 27% women / Average age: 47 years / 90% finishers / Average pace: 5.2 km/h'。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "法文页原文：'Le MDS Legendary est une course et une aventure hors du commun, se déroulant dans le Sahara depuis 1986.'；'En 2026, le MDS Legendary fêtera sa 40e édition'；'Avec 39 éditions au compteur, c’est aujourd’hui plus de 30 000 personnes qui se sont lancées dans l’aventure.'" }
+  ]
+}

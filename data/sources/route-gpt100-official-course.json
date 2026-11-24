@@ -1,0 +1,31 @@
+{
+  "sourceId": "route-gpt100-official-course",
+  "title": "The course — GPT100 Miler official page",
+  "url": "https://www.gpt100.com.au/the-course",
+  "publisher": "SingleTrack Events / Grampians Peaks Trail 100 Miler",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The race is a point-to-point 100 mile trail of 163 km with 7,700 m of ascent from Mt Zero Picnic Area to Dunkeld, passing 12 campsites and 11 aid stations, and is split into four sections each ending at a major aid station.",
+    "The official leg table gives: GAR Trailhead #1 at 15.5 km (leg 15.5 km, 600 m +-); Mt Difficult Rd #2 at 35.5 km (20 km, +1,100 m, -670 m); Halls Gap #3 at 49.5 km (14 km, +300 m, -770 m); Rosea Carpark #4 at 59.5 km (9.7 km, +650 m, -270 m); Borough Huts Camp #5 at 72 km (12.8 km, +440 m, -745 m); Mt William Carpark #6 at 86.6 km (14.6 km, +1,260 m, -610 m); Jimmy Creek Rd #7 at 106.7 km (20.1 km, +775 m, -1,400 m); Yarram Gap Rd #8 at 118.5 km (11.8 km, +580 m, -560 m); Griffin Fireline #9 at 130.7 km (12.2 km, +440 m, -490 m); Cassidys Gap Rd #10 at 142 km (11.3 km, +450 m, -370 m); Bainggug Carpark #11 at 152.8 km (10.8 km, +650 m, -730 m); Finish Dunkeld #12 at 163 km (10.2 km, +455 m, -485 m).",
+    "The official cumulative distances are internally inconsistent by 0.3 km at one point: 49.5 km plus the 9.7 km leg gives 59.2 km, but Rosea Carpark is listed at 59.5 km; 59.5 km plus 12.8 km gives 72.3 km, but Borough Huts is listed at 72 km.",
+    "The twelve leg ascents sum to 7,700 m; the descents listed for legs 2 to 12 sum to 7,100 m, and with the first leg's symmetrical 600 m the total descent is also 7,700 m.",
+    "The Strava course map embedded on the same page lists 161.9 km and 7,588 m of elevation gain.",
+    "The page describes the trail as purpose-built through Grampians National Park, with much of the route in remote wilderness and the four sections each finishing at a major aid station."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接抓取 gpt100.com.au/the-course，读取全部正文与 AID STATIONS and Leg Stats 表。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页首：point to point 100 mile trail (163km with 7700m of ascent)；pass 12 campsites；11 aid stations；four sections each with major aid stations at each completion" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "AID STATIONS and Leg Stats 表逐行照录；累计值、段长、爬升、下降均为官方原值" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "页面自身算术：49.5+9.7=59.2，但表列 59.5；59.5+12.8=72.3，但表列 72。其余各行相加与累计值一致" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "逐行加总：爬升 600+1100+300+650+440+1260+775+580+440+450+650+455=7700；下降 670+770+270+745+610+1400+560+490+370+730+485=7100，加首段 600 为 7700" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "页面内 Strava 嵌入：Distance 161.9 km、Elev Gain 7,588 m" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "正文：purpose built；much of the journey goes through remote wilderness areas；four sections" }
+  ]
+}

@@ -28,9 +28,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-11-06",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-11-06",
+  "updatedAt": "2026-11-20",
+  "reviewedAt": "2026-11-20",
+  "reviewDueAt": "2027-05-30",
   "details": {
     "raceType": "trail-ultra",
     "countryCodes": [
@@ -47,16 +47,33 @@
       "sourceRef": "route-anchor-editorial"
     },
     "courseVersion": "2026-western-states-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [
+      {
+        "edition": "2026",
+        "observedAt": "2026-11-08",
+        "field": "course",
+        "change": "new-course",
+        "from": "historic course",
+        "to": "2026 course",
+        "sourceRef": "route-western-states-course-2026",
+        "note": {
+          "zh-CN": "2026 届启用新线；旧线数据不再代表当前赛道，本页按 2026 官方赛道页记录。",
+          "en": "A new course was used in 2026; the earlier course no longer represents the current route, and this page records the official 2026 course page."
+        }
+      }
+    ],
     "direction": "Point-to-point from Olympic Valley to Placer High School in Auburn",
     "distanceMeters": 161256,
     "distanceMethod": "Official course pages give 100.2 miles; no metric distance is published. 100.2 miles converts to 161,256 m (161.3 km), which is the figure used on this card. No alternate official distance figure exists.",
     "elevationGainMeters": 5514,
     "elevationMethod": "Official Course Description gives 2,550 ft of climb in the first 4.5 miles plus another 15,540 ft, a summed total of 18,090 ft; the home page rounds this to more than 18,000 ft and the descent to nearly 23,000 ft. This card uses the exact summed climb, 18,090 ft = 5,514 m. The official pages do not publish per-segment gain or loss.",
-    "geometryAccess": "unavailable",
+    "geometryAccess": "official-link",
     "geometryRef": null,
-    "geometrySourceUrl": null,
+    "geometrySourceUrl": "https://www.wser.org/gps-info/",
     "geometryLicense": null,
-    "officialGeometryUrl": null,
-    "attribution": null
+    "officialGeometryUrl": "https://www.wser.org/wp-content/uploads/gpx/WSER2027.gpx",
+    "attribution": "Western States Endurance Run Foundation. The official GPS Info page links only WSER2027.gpx (HEAD 200, 538,087 bytes, 22 waypoints, 6,000 trackpoints, creator GPS Visualizer). The file was downloaded once to a temporary directory, measured locally and deleted: planar distance 161.23 km against 100.2 mi = 161.256 km; at a 1 m threshold +5,537 / −7,012 m against the official 18,090 / 22,970 ft = 5,513.8 / 7,001.3 m; maximum 2,651 m against Emigrant Pass 8,750 ft = 2,666.7 m. The file's own desc lists five changes from 2026: Shirley lift top by road, a new five-mile trail in Granite Chief, a Duncan Canyon exit change, Little Bald instead of N43, and an adjustment before Cal-1. It is therefore an official 2027 entry, not the 2026 raced geometry. No copyright line and no redistribution licence: linked only, not hosted, mirrored or redrawn."
   }
 }

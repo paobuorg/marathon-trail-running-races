@@ -1,0 +1,31 @@
+{
+  "sourceId": "route-doi-inthanon-travel",
+  "title": "Plan your trip — Chiang Mai Thailand by UTMB",
+  "url": "https://chiangmai.utmb.world/discover/experience-the-place/plan-your-trip",
+  "publisher": "UTMB World Series / HOKA Chiang Mai Thailand by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Doi Inthanon National Park Headquarters (GPS 18.5367, 98.5218) serves as expo, bib collection, start and finish for the first week of the competition on 28-29 November 2026.",
+    "The Headquarters is about 100 km from Chiang Mai PAO Park and about 2 hours away, and about 30 km from the main road turn-off plus another 16 km uphill to the summit.",
+    "About 500 m from the Headquarters there are shops and restaurants, a camping ground with equipment rental, and local resorts, guesthouses and homestays, with most local communication requiring Thai via Facebook or LINE.",
+    "Accommodation that is easier to find on booking platforms is available in Chom Thong District, about 30 km and 30 minutes away.",
+    "Shuttle bus services run between Chiang Mai province, Chom Thong District and the race venue throughout the event.",
+    "An Airport Line shuttle runs from Chiang Mai International Airport and Chiang Mai city for THB 400, with bookings through inthanon.utmb.world."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取英文 plan-your-trip 页；页面同时给出 2026 与旧域名链接，按原文抄录"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'Doi Inthanon National Park Headquarters (GPS 18.5367, 98.5218) will serve as the expo, bib collection, start and finish line for the first week... (November 28-29, 2026).'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'approximately 100 kilometers away, taking about 2 hours'；'about 30 kilometers from the main road turn-off... another 16 kilometers uphill'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'Camping Ground: Camping equipment rental services are available.'；'most communication for these local options will require Thai language via Facebook or Line.'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'Chom Thong District. This area is approximately 30 kilometers away and takes about 30 minutes to reach.'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "'There will be shuttle bus services provided between Chiang Mai Province, Chom Thong District, and the race venue throughout the event.'" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "'The fare is THB 400'；预订链接指向 inthanon.utmb.world" }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-utmb-world-series-2027",
+  "title": "UTMB World Series — three levels, 2027 Majors list and Finals qualification",
+  "url": "https://lavaredo.utmb.world/discover/the-event/utmb-world-series",
+  "publisher": "UTMB World Series / La Sportiva Lavaredo Ultra Trail by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The UTMB World Series integrates three levels: the UTMB World Series Finals, the UTMB World Series Majors and the UTMB World Series Events.",
+    "The UTMB World Series Majors in 2027 are HOKA Kodiak Ultra Marathons and HOKA Canyons Endurance Runs (Americas), HOKA Val d'Aran and Wildstrubel (Europe), HOKA Chiang Mai Thailand (Asia-Pacific) and HOKA Ultra-Trail Australia (Oceania).",
+    "A Major grants the top 10 male and female runners in the 100M, 100K and 50K categories automatic qualification for the Finals and double the Running Stones of an Event; an Event grants the top 3 male and female finishers in those categories automatic qualification.",
+    "Running Stones can be collected only by finishing a UTMB World Series Event or Major, and at least one Running Stone plus a valid UTMB Index is required to enter the HOKA UTMB Mont-Blanc lottery.",
+    "The page lists more than 70 UTMB World Series Events across the Americas, Europe, Asia, Africa and Oceania."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://lavaredo.utmb.world/discover/the-event/utmb-world-series，读取 'An inclusive sports system' 下三段；该页是 UTMB World Series 的官方说明页，挂在赛事站导航下"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "首句：integrates three, different levels of events；三个小标题" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'The UTMB World Series Majors in 2027 are :' 以下四行；OCEANIA 行为 HOKA Ultra-Trail Australia by UTMB" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Majors 段：top 10... double the amount of Running Stones；Events 段：top 3... automatically win their place" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Finals 段与 Events 段：Running Stones mandatory；at least 1 Running Stone and a valid UTMB Index" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "Events 段：more than 70 events" }
+  ]
+}

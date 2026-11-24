@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-sierre-zinal-aid-cutoffs",
+  "title": "Sierre-Zinal rules — aid stations and cut-off times (art. 20–21)",
+  "url": "https://www.sierre-zinal.com/en/rules-regulations-340.html",
+  "publisher": "Sierre-Zinal",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "Article 20 lists official aid stations at Beauregard km 4, Ponchette km 7.5, Chandolin km 12, Tignousa km 16, Hotel Weisshorn km 20, Nava km 24 (water only) and Barneuza km 27.",
+    "Article 20 says water at Beauregard and Ponchette is limited because of supply logistics and asks runners to use it reasonably.",
+    "Article 21 gives cut-off times of 10:40:59 (Tourist) and 14:10:59 (Runner) at Chandolin, 12:00:59 and 14:40:59 at Tignousa, 13:30:59 and 15:20:59 at Hotel Weisshorn, and a final 17:30:59 at Zinal.",
+    "The organiser reserves the right to modify the cut-off times."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch / 搜索摘要读取 https://www.sierre-zinal.com/en/rules-regulations-340.html 的 Art. 20–21",
+    "note": "2026-11-19 读取官方规则页 Art. 20 Aid Stations 与 Art. 21 Cut-off Times；只把页面列出的站点、公里与时刻入表，未补写服务清单。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Art. 20 原文逐个列出 Beauregard km [4]、Ponchette km [7.5]、Chandolin km [12]、Tignousa km [16]、Hotel Weisshorn km [20]、Nava km [24]、Barneuza km [27]。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Art. 20 原文：'Due to the logistical constraints ... the quantity of water available at these locations is limited ... use the water reasonably'。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Art. 21 原文逐个列出 Chandolin、Tignousa、Hotel Weisshorn 的两类时刻与 17:30:59 终点时限。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Art. 21 原文：'The Organizer reserves the right to modify the above-mentioned cut-off times.'"
+    }
+  ]
+}

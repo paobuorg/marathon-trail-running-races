@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-occ-results-2026",
+  "title": "UTMB OCC 2026 results: Gregory denies Lang in greatest ever finish — RUN247",
+  "url": "https://run247.com/running-news/trail/utmb-occ-2026-results-report",
+  "publisher": "RUN247",
+  "publishedAt": "2026-08-27",
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "The 2026 OCC was held on Thursday 27 August 2026 over 60 km.",
+    "The men's 2026 OCC podium is Frédéric Tranchand (FRA) 5:10:08, Nashon Kiplimo (KEN) 5:14:37 and Miguel Benitez (ESP) 5:17:43.",
+    "The women's 2026 OCC podium is Lauren Gregory (USA) 6:08:07, Naomi Lang (GBR) 6:08:10 and Sara Alonso (ESP) 6:09:11.",
+    "Gregory beat Lang by three seconds after Lang had led most of the race."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "search result + article",
+    "note": "Media results report; times cross-checked against a second media report."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Article header: Thursday 27 August 2026, 60km."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Elite men table ranks 1–3."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Elite women table ranks 1–3."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Article narrative: three-second margin."
+    }
+  ]
+}

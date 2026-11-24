@@ -16,5 +16,68 @@
     "All entries are non-transferable and running in another runner's bib leads to disqualification.",
     "The 2027 marathon is scheduled for 23 May 2027."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "本地静态抓取 .agent/capetown/raw",
+    "note": "FAQ 页面当前整体为 2027 届（23 May 2027）；逐条对照 Start / Finish、Cut-off、Timing、Hydration、Age limits、Bib 文字"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'The 42.2km Sanlam Cape Town Marathon (23 May 2027) has two starts: The Stadium & Beach Road start. The Stadium start is on Fritz Sonnenberg Road, next to the Stadium, and the Beach Road start is on Beach Road, Mouille Point.'"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'The Finish for all events is on Vlei Road.'"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'There are 15 Hydration stations on the 42.2km route, approximately 3km apart, 13 of which will have a combination of water, Coke, Coke No Sugar and Powerade, and 2 of which will serve water.'"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "问答写 'Hydration packs are permitted.' 与 'Earphones / headphones? None permitted (of any description).'"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'42.2km Marathon – 6.5 hours'，下一行 'See the route map for details of all cut-off times'"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'Gun to mat for elites' 与 'Mat to mat for all other events (net time)'"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'The Sanlam Cape Town Marathon events have the following age restrictions ... on the day of the race'，'42.2km Marathon — 18 years'"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'All 2027 entries ... are non-transferable'；'Running in another runner's bib is strictly prohibited ... will be disqualified'"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'The 42.2km Sanlam Cape Town Marathon (23 May 2027)'"
+    }
+  ]
 }

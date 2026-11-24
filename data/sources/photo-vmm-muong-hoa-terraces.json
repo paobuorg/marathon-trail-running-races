@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-vmm-muong-hoa-terraces",
+  "title": "File:Rice terraces in Sapa, Vietnam.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Rice_terraces_in_Sapa,_Vietnam.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2019-12-16",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "The photograph looks across terraced fields in the Muong Hoa valley near Sa Pa, with dry-season paddies and paths in the foreground and middle ground, forested slopes on both sides and the town of Sa Pa as a pale strip on the distant ridge; it is a valley landscape, not a marked race line, a checkpoint, an aid station or a race-day scene.",
+    "Commons titles the file Rice terraces in Sapa, Vietnam.jpg and the description reads 'Rice terraces in Sapa, Vietnam'; the route page uses it as landscape context for the Muong Hoa valley section described by the organiser, not as a survey of the 2026 course.",
+    "The author is Eerin25; the file is licensed CC0 1.0; the photograph was taken on 2019-12-16 at 14:11:21; the original is 4,272 x 2,848 pixels and 4,084,598 bytes; the file page gives no camera coordinates.",
+    "The route page uses a 960 x 640 copy of 302,629 bytes without cropping or colour change and credits Eerin25, CC0 1.0, Wikimedia Commons; the resized copy keeps the same public-domain dedication."
+  ],
+  "license": "CC0-1.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons file page and downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons 文件页核对作者、CC0 许可、日期、原图尺寸，并下载 960 px 副本目视确认：画面是沙坝 Muong Hoa 河谷梯田，不是 2026 赛道标记或赛日现场。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地副本可见前景与中景的干季梯田、田间小路、两侧林地，以及远处山脊上的沙坝镇浅色建筑带；没有号码布、旗标、检查站、补给桌或人群。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "文件页标题与描述均为 Rice terraces in Sapa, Vietnam，分类包含 Sa Pa 与 Rice terraces in Vietnam；正文只用它解释 Muong Hoa 河谷的地貌。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "文件页：Author Eerin25；License CC0 1.0；Date 2019-12-16 14:11:21；Original 4,272 x 2,848、4,084,598 字节；Metadata 未给 GPS。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 x 640、302,629 字节；未裁剪、未改色；页面署名 Eerin25、CC0 1.0、Wikimedia Commons。"
+    }
+  ]
+}

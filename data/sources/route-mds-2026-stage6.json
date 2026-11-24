@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-mds-2026-stage6",
+  "title": "Stage 6 — MDS Legendary 2026 official recap",
+  "url": "https://marathondessables.com/en/stage-6-mds-legendary",
+  "publisher": "Marathon des Sables",
+  "publishedAt": null,
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "The official stage 6 recap says the 40th edition covered 270 km; the final stage started at 06:30 and was 23.2 km with 238 m of elevation gain.",
+    "Maryline Nakache won all six stages of the 2026 MDS Legendary and claimed her third title in three participations; she won the final stage in 2:06 ahead of Magdalena Boulet (2:11) and Aziza El Amrany (2:18), with Desiree Linden and Aziza Raji completing the top five (2:24).",
+    "On the final stage, Mohamed El Morabity beat Ludovic Pommeret by a few seconds, with Rachid El Morabity third; sandstorm, rain and strong gusts marked the finishes."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "checkedVia": "Official stage 6 article, full rendered text",
+    "note": "2026-11-22 读取 MDS 官方第 6 段收官稿。该页只给最后一段与阶段名次，不提供总成绩表；总成绩使用同站外链的 LiveTrail 页面。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-22", "note": "正文：After 270 km；Participants set off at 6:30 AM for a 23.2 km course with 238 meters of elevation gain。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-22", "note": "正文：6 out of 6；three wins in three participations；决赛段 2:06、2:11、2:18、2:24。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-22", "note": "正文：Mohamed won by just a few seconds ahead of Ludovic，Rachid third；sandstorm、rain、strong gusts。" }
+  ]
+}

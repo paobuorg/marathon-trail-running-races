@@ -1,0 +1,101 @@
+{
+  "entityId": "route:qmt-135",
+  "slug": "qmt-135",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-qmt-official-135",
+    "route-qmt-official-135-fr",
+    "route-qmt-schedule-2027",
+    "route-qmt-faq",
+    "route-qmt-rules",
+    "route-qmt-aid-menu",
+    "route-qmt-results",
+    "route-qmt-2026-results",
+    "route-qmt-recap-2025",
+    "route-qmt-news-2026",
+    "route-qmt-news-135-launch",
+    "route-qmt-wtm",
+    "route-qmt-itra-2026",
+    "route-qmt-utmb-2025",
+    "route-qmt-place-geocoding",
+    "route-qmt-openmeteo",
+    "route-qmt-2026-gpx",
+    "route-qmt-2026-elevation",
+    "photo-qmt-135-baie-saint-paul",
+    "photo-qmt-135-refuge-liguori",
+    "photo-qmt-135-mont-sainte-anne"
+  ],
+  "relatedRefs": [
+    "route:gpt100-miler",
+    "route:utct",
+    "knowledge:heat-and-humidity",
+    "knowledge:long-run-fueling",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-22",
+  "reviewedAt": "2026-11-22",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "CA"
+    ],
+    "placeName": {
+      "zh-CN": "加拿大魁北克省 Baie-Saint-Paul 至 Mont-Sainte-Anne，Charlevoix 与 Côte-de-Beaupré",
+      "en": "Baie-Saint-Paul to Mont-Sainte-Anne, Quebec, Canada — Charlevoix and Côte-de-Beaupré"
+    },
+    "mapAnchor": {
+      "longitude": -70.49858,
+      "latitude": 47.44109,
+      "kind": "overview",
+      "sourceRef": "route-qmt-place-geocoding"
+    },
+    "courseVersion": "2027-qmt-135",
+    "courseEdition": "2027",
+    "courseStatus": "current",
+    "courseChanges": [
+      {
+        "edition": "2025",
+        "observedAt": "2026-11-09",
+        "field": "course",
+        "change": "new-course",
+        "from": "QMT-100 Miles（160 km）与 QMT-110 两个组别",
+        "to": "合并为 135 km 单组，经 Sentier des Caps 的 Cap Brûlé 新路段",
+        "sourceRef": "route-qmt-news-135-launch",
+        "note": {
+          "zh-CN": "改线兼组别重组。官方 2025 launch 明示两组合并、新路段点名 Cap Brûlé，并给出 6,000 m、32 小时与 10 个补给站；不是单纯改名。",
+          "en": "Course change and group consolidation. The official launch states the two races were merged, names the new Cap Brûlé section, and gives 6,000 m, 32 hours and 10 aid stations; this is not a rename."
+        }
+      },
+      {
+        "edition": "2026",
+        "observedAt": "2026-11-09",
+        "field": "cut-off",
+        "change": "timing-revised",
+        "from": "32 小时（2025 官方 launch）",
+        "to": "37 小时（官方 QMT135 页）",
+        "sourceRef": "route-qmt-official-135",
+        "note": {
+          "zh-CN": "改规则（关门）。两届官方材料给出不同总时限；同一页另有 32:00:00 的 Western States 资格线，与总关门不是同一概念，不能混用。未点名路段，不记改线。",
+          "en": "Rule change (cut-off). The two official materials give different overall limits; the same page also carries a 32:00:00 Western States qualifying standard, which is not the overall cut-off. No course point is named, so this is not logged as a reroute."
+        }
+      }
+    ],
+    "direction": "Point-to-point from the Hôtel & Spa Le Germain Charlevoix in Baie-Saint-Paul, along the St. Lawrence and the Sentier des Caps de Charlevoix to Saint-Tite-des-Caps, through the Sainte-Anne river canyon and Mestachibo, then over Mont-Sainte-Anne to the finish on its south side.",
+    "distanceMeters": 134000,
+    "distanceMethod": "The organiser's QMT135 page gives 134 KM, while the race name, the organiser's 2024 launch announcement and the World Trail Majors listing all say 135 km. ITRA's 2026 entry gives 133.74 km and UTMB's 2025 dashboard gives 137.00 km. This card uses the organiser's 134 km and reports the other values in the body without averaging them.",
+    "elevationGainMeters": 6000,
+    "elevationMethod": "The organiser gives +6,000 m of gain and −5,859 m of loss on the QMT135 page; the 2024 launch announcement also gives 6,000 m of gain, and UTMB's 2025 dashboard gives 6,000 m. ITRA's 2026 entry gives +5,530 m and −5,359 m. This card uses the organiser's 6,000 m and reports ITRA's figure in the body.",
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "Québec Mega Trail (QMT), organised by Ultra-Trail Canada, with the 135 km race starting in Baie-Saint-Paul and finishing at Mont-Sainte-Anne. Distance, gain, loss, cut-off, aid-station count, records, qualification, crew, pacer, drop-bag and mandatory-gear details come from the organiser's QMT135 page, schedule, FAQ, rules and aid-station pages, which are level A evidence. The Course Map accordion exposes an official GPX named QMT135-Quebec-Mega-Trail-2026_final.gpx and a static elevation chart with eleven segments. The file is labelled 2026, not a confirmed 2027 track, so it is linked out, inspected and reported but not used as 2027 geometry; geometryAccess remains unavailable and no track is mirrored or hosted. The 2026 men's and women's top-five tables come from the official RaceResult page linked by the organiser's results index; that page publishes separate gender rankings, not a combined overall table. ITRA, World Trail Majors and UTMB's dashboard are cited as level B comparisons. The map anchor is an Open-Meteo geocode for the town of Baie-Saint-Paul, not the hotel start line. Three landscape photographs are from Wikimedia Commons: Baie-Saint-Paul by OnionneRing (CC BY-SA 4.0), Refuge Liguori and Mont-Sainte-Anne by Cephas (CC BY-SA 3.0); they are location photographs, not race photography. Two editorial graphics (an eleven-segment structure deck and a non-scale node sequence) are RUNUP originals under CC BY 4.0 and are not official maps or 2027 tracks."
+  }
+}

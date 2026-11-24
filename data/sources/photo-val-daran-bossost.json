@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-val-daran-bossost",
+  "title": "File:Panoramica de Bossòst-2016.JPG",
+  "url": "https://commons.wikimedia.org/wiki/File:Panoramica_de_Boss%C3%B2st-2016.JPG",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2016-01-17",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "The photograph is a daylight winter view of Bossòst along the Garonne: a stone embankment and rocky river channel in front, pollarded bare trees and a road behind, low-rise houses with slate roofs, a church spire at left and a sunlit mountain ridge above the village.",
+    "Commons titles the photograph Panoramica de Bossòst-2016.JPG; it shows the village and river environment, not the VDA aid station, bag-drop tent, timing mat, course marking, start arch, finish line or race-day crowd.",
+    "The author is Alberto-g-rovi; the file is licensed CC BY 3.0; the photograph was taken on 2016-01-17 at 17:45:38; the original is 4,288 x 2,848 pixels and 12,019,848 bytes.",
+    "The route page uses a 960 x 638 copy of 304,833 bytes without cropping or colour change and credits Alberto-g-rovi, CC BY 3.0, Wikimedia Commons; the resized copy keeps the same licence."
+  ],
+  "license": "CC-BY-3.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons file page, imageinfo API and downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons 文件页与 API 核对作者、许可、日期和原图尺寸，并下载 960 px 副本目视确认：画面是 Bossòst 沿加龙河的村景，不是 VDA 补给站、存包帐或计时毯。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地副本可见石砌河堤、多石河道、无叶修剪树、沿河道路、石板屋顶房屋、左侧教堂尖塔和被夕照的山脊。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons 文件名写 Panoramica de Bossòst-2016；画面无号码布、围栏、补给桌、存包帐、拱门或计时毯。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "imageinfo：Artist Alberto-g-rovi；LicenseShortName CC BY 3.0；DateTimeOriginal 2016-01-17 17:45:38；4,288 x 2,848、12,019,848 字节。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 x 638、304,833 字节；未裁剪、未改色；页面署名 Alberto-g-rovi、CC BY 3.0、Wikimedia Commons。"
+    }
+  ]
+}

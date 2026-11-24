@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-sdw100-official-course-notes-2027",
+  "title": "SDW100 2027 Course Notes — official",
+  "url": "https://centurionrunning.com/races/south-downs-way-100-2027/section/course%20notes",
+  "publisher": "Centurion Running",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The course follows the South Downs Way for 93% of the race, is 100 miles long and has a total elevation gain of 12,700 feet.",
+    "The listed deviations are a loop around the Matterley Estate at mile 0, the alternative route through Washington village at mile 53 where missing the check-in leads to disqualification, the Alfriston aid station at mile 91, the blue Jevington bridleway rather than the yellow Exceat/Seven Sisters path at mile 91.1, the Jevington churchyard at mile 96, and leaving the South Downs Way at the mile 98 trig point for the final run to the track.",
+    "The course notes include a downloadable GPX at https://centurionrunning.s3-eu-west-1.amazonaws.com/races/gpx/6a6fd6e9f2b13030641b3421a3b4ed0d.gpx and a KML at https://centurionrunning.s3-eu-west-1.amazonaws.com/races/kml/c8bf99197e5e50410cbffc00b2f6e70a.kml.",
+    "The notes warn that the route leaving Alfriston at mile 91 takes the bridleway through Jevington rather than the coastal path across Seven Sisters, and that missing the turn adds a very significant distance."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接抓取并读取该页。GPX/KML 仅做 HEAD 检查（HTTP 200），未下载文件。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "首段：'follows the South Downs Way for 93% of the race'；'The course is 100 miles in length. The total elevation gain is 12,700 feet.'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Mile 0 / Mile 53 / Mile 91 / Mile 91.1 / Mile 96 / Mile 98 to the finish 各段逐项照录；Mile 53 写 'you will be DQ'd from the race'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "页面链接：gpx/6a6fd6e9f2b13030641b3421a3b4ed0d.gpx 与 kml/c8bf99197e5e50410cbffc00b2f6e70a.kml；HEAD 均返回 HTTP/1.1 200 OK" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "NOTE 段：'THE COURSE TRAVERSES THE BRIDLEWAY THROUGH JEVINGTON AS OPPOSED TO THE COASTAL PATH ACROSS SEVEN SISTERS - IF YOU MISS THIS TURN YOU WILL GO BADLY OFF COURSE'" }
+  ]
+}

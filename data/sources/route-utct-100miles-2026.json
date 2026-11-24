@@ -1,0 +1,68 @@
+{
+  "sourceId": "route-utct-100miles-2026",
+  "title": "UTCT 100 miles — official 2026 route page",
+  "url": "https://www.ultratrailcapetown.com/100miles",
+  "publisher": "RMB Ultra-trail Cape Town",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The official 2026 UTCT 100-mile card lists 163 km, 7,187 m D+, a 45-hour cut-off, 14 aid stations, start and finish at Gardens Rugby Club, and a 17:00 start on 20 November 2026.",
+    "The same official 100-mile page's opening description says the route has 7,516 m of elevation gain, so the first-party page carries both 7,187 m and 7,516 m.",
+    "Every 100-mile entrant must submit a qualifying result: completion of a 50 km or longer trail race within the 24 months before race day, emailed by midday on 28 October or the right to participate is forfeited.",
+    "The 100-mile pacing zone covers 105.7 km from the Llandudno aid station to the Alphen aid station, with seven pick-up points; a runner may use up to three pacers but only one at a time.",
+    "The Honey Badger medal is awarded for finishing the 100 miler under 30 hours; the page says only 43 people had done so before and five had repeated it.",
+    "The 2026 100-mile open prize money is R80,000 for first, R40,000 for second and R25,000 for third.",
+    "The 100-mile route runs from Cape Town's northern mountains to the southern mountains via Silvermine, Kalk Bay, Kommetjie and Simon's Town, and finishes with the climb from UCT to the King's Blockhouse and the contour path back to Gardens."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "Official 100-mile page read directly on 2026-11-20. The card gives 163 km / 7,187 m / 45 h / 14 stations / 17:00, while the page prose says 7,516 m. Qualifier, pacing zone, Honey Badger medal and prize money are on the same page."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Card: DISTANCE 163KM; ELEVATION 7187M D+; CUT OFF 45H; AID STATIONS 14; START/FINISH GARDENS RUGBY CLUB; 20 NOVEMBER 2026 17H00."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Opening description: 'WITH 7516M ELEVATION GAIN'; card separately says 7187M D+. Both first-party and unresolved."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Page: 50km+ trail race within 24 months; email by midday on 28 October; otherwise forfeit right to participate."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Page: Pacing Zone 105.7km from Llandudno to Alphen; seven pick-up points; maximum three pacers, one at a time."
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Page: sub-30 Honey Badger medal; 43 people before, 5 repeated."
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Prize Money block: FIRST PLACE R80,000; SECOND R40,000; THIRD R25,000."
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Page: northern mountain range to southern mountains via Silvermine, Kalk Bay, Kommetjie, Simon's Town; final UCT-to-King's-Blockhouse climb and contour to finish."
+    }
+  ]
+}

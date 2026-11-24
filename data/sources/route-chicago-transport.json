@@ -14,5 +14,21 @@
     "Orange Line service does not run overnight, and the N62 Archer bus provides alternate overnight service.",
     "All trains from O'Hare and Midway stations go through downtown."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取CTA机场页 → .agent/chicago-beijing35/chicago-transport.html",
+    "note": "CTA机场页正文可读；票价、用时、车站衔接与夜间替代服务均逐句核对"
+  },
+  "claimVerification": [
+    {"index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Blue Line直达O'Hare；车站位于lower level concourse，连T1/2/3；T5经免费机场shuttle train接驳"},
+    {"index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原文“24 hours a day, seven days a week”；“40-45 minutes”"},
+    {"index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "对比表“CTA trains ... $5 or less*”"},
+    {"index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Orange Line直达Midway；车站just east of the terminal，有enclosed walkway"},
+    {"index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "原文“20-25 minutes”；“$2.50 or less*”"},
+    {"index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "Orange Line overnight不运行；替代为N62 Archer bus"},
+    {"index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "O'Hare所有列车经downtown；Midway所有列车去downtown Loop"}
+  ]
 }

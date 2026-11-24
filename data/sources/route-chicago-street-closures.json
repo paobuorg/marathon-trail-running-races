@@ -14,5 +14,21 @@
     "No-parking zones along the course are enforced from 1 a.m. on Sunday 11 October.",
     "The page states that street and park closures may change if deemed necessary by the City of Chicago."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取街道封闭页 → .agent/chicago-beijing35/chicago-streetclosures.html",
+    "note": "封闭时间表与正文均可读；逐英里重开时间与页面表格一致"
+  },
+  "claimVerification": [
+    {"index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "原文“closed to traffic starting at 6 a.m. and continuing to 4 p.m.”"},
+    {"index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原文“final runners pass through (at a 15-minute mile pace)”；Chicago Police Department负责关闭与重开"},
+    {"index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "表格按mile列，mile 1为Columbus Dr“Start to Grand Ave”，终点为Columbus Dr"},
+    {"index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "表内Clark mile10 12:45；Wells mile13 1:30；Wacker mile13 1:45；18th/Halsted mile20 3:15；31st mile25 4:15；Michigan mile26 4:30；Roosevelt 6:00"},
+    {"index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "原文“All streets in the Loop will be open to traffic by 9 a.m.”"},
+    {"index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "原文“towing...will be enforced beginning at 1 a.m. on Sunday, October 11”"},
+    {"index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "原文“street and park closures...may change if deemed necessary by the City of Chicago”"}
+  ]
 }

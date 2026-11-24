@@ -1,0 +1,71 @@
+{
+  "entityId": "route:sierre-zinal",
+  "slug": "sierre-zinal",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-sierre-zinal-home",
+    "route-sierre-zinal-course-plan",
+    "route-sierre-zinal-course-page",
+    "route-sierre-zinal-rules-adult",
+    "route-sierre-zinal-rules-entries",
+    "route-sierre-zinal-rules-conduct",
+    "route-sierre-zinal-history",
+    "route-sierre-zinal-records",
+    "route-sierre-zinal-winners",
+    "route-sierre-zinal-2026",
+    "route-sierre-zinal-gtws",
+    "route-sierre-zinal-broadcast",
+    "route-sierre-zinal-wa-2023",
+    "route-sierre-zinal-registration-status",
+    "route-sierre-zinal-place-osm",
+    "route-sierre-zinal-access",
+    "route-sierre-zinal-weather",
+    "route-sierre-zinal-weather-zinal",
+    "route-sierre-zinal-aid-cutoffs",
+    "photo-sierre-zinal-2022"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:recovery-day",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-20",
+  "reviewedAt": "2026-11-20",
+  "reviewDueAt": "2027-08-31",
+  "details": {
+    "raceType": "trail-mountain",
+    "countryCodes": [
+      "CH"
+    ],
+    "placeName": {
+      "zh-CN": "瑞士瓦莱州（Valais）谢尔（Sierre）起跑，齐纳尔（Zinal）终点",
+      "en": "Start in Sierre, Valais, Switzerland; finish in Zinal"
+    },
+    "mapAnchor": {
+      "longitude": 7.5323195,
+      "latitude": 46.2922522,
+      "kind": "overview",
+      "sourceRef": "route-sierre-zinal-place-osm"
+    },
+    "courseVersion": "2027-sierre-zinal-31k",
+    "courseEdition": "2027",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "Point-to-point from Sierre in the Rhône valley up to Chandolin and Tignousa, over the Hôtel Weisshorn, then down to Zinal",
+    "distanceMeters": 31000,
+    "distanceMethod": "Official rules and homepage give about 31 km, split by the official course plan into 11 km from Sierre to Chandolin and 20 km from Chandolin to Zinal. The official course page embeds a Strava route but offers no direct GPX file download, so this card uses the official 31 km and does not measure the embedded track.",
+    "elevationGainMeters": 2200,
+    "elevationMethod": "Official rules and homepage give 2,200 m of ascent and 1,100 m of descent. World Athletics reports a climb from 560 m in Sierre to a high point of 2,424 m over the opening 24 km, then a 7 km descent to the finish; its 2023 preview gives the finish as 1,680 m. The official pages publish no separate descent total beyond 1,100 m, and this card does not average the sources.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": "https://www.strava.com/routes/3225024720519678070",
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://www.sierre-zinal.com/fr/parcours-coureurs-2189.html",
+    "attribution": "Sierre-Zinal Association. The official runners' course page embeds Strava route 3225024720519678070 and says GPX coordinates are available by using 'send to device'; at the time of access no direct GPX file or reuse licence was published. This site links to the official page, does not host the file, does not draw the track and does not treat the Strava route as redistributable geometry."
+  }
+}

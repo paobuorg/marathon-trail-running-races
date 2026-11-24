@@ -15,5 +15,62 @@
     "Hellen Obiri's course record of 2:19:51 was not under threat in the still, sunny autumnal conditions.",
     "The race is described as being over 26.2 miles."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 worldathletics.org/news/report/new-york-city-marathon-2026-almgren-chepkirui",
+    "note": "World Athletics 赛后报道全文可读，含分段配速、名次与纪录背景"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首段：held on Sunday 1 November 2026；“World Athletics Platinum Label road race”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段／背景：“50th anniversary of the race’s route through the city’s five boroughs”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Men’s race 段：Almgren 2:06:01 on debut；Crippa 2:06:14；Mofolo 2:06:26。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Women’s race 段：Chepkirui 2:24:36；McClain 2:24:42；Obiri 2:24:43。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Men’s race 段：lead pack 10km in 30:52；当时领跑的 Talbi 通过 halfway in 1:04:01。"
+    },
+    {
+      "index": 5,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "原文写“Kipruto’s surge to cover mile 23 in 4:38 led to a breakaway group of four”，把 4:38 归于 Kipruto 的加速而非“the men’s leader”；25km 后 Queensboro Bridge 的 move 与原文一致。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Weather 段：Obiri 的 2:19:51 course record 在 still, sunny autumnal conditions 下未被威胁。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "报道明确以 26.2 miles 描述赛道。"
+    }
+  ]
 }

@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-patagonia-2026-altimetry",
+  "title": "Altimetría 100Mi Patagonia Run 2026 — official elevation profile PDF",
+  "url": "https://patagoniarun.com/wp-content/uploads/2026/03/Altimetria_100Millas_2026_15_marzo.pdf",
+  "publisher": "Patagonia Run",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The official one-page PDF is titled 'Altimetría 100Mi Patagonia Run 2026' and gives 160.3 km with D+ 9,221 m.",
+    "The profile labels the start at RCM4 as 740 m above sea level and the finish in San Martín de los Andes as 651 m.",
+    "The highest labelled summit on the profile is 'Cumbre CE Colorado' at 1,765 m; a later labelled summit, 'Cumbre Quechuquina', is 1,650 m.",
+    "The profile does not print a cumulative descent figure; the 2026 100 Millas page separately warns that the circuit is based on the 2026 edition and may change for 2027.",
+    "The 2027 100 Millas page also serves the same 2026 profile as a 2,560×623 JPG at /wp-content/uploads/2026/03/Altimetria_100Millas_2026-scaled.jpg, alongside the PDF download link."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "checkedVia": "curl.exe + local 7890 proxy; downloaded the 721,563-byte PDF and visually read its single page",
+    "note": "2026-11-20 下载并逐字读图。PDF 只有一页海拔剖面，不是 GPX，也不是 2027 届数据；官方 100 Millas 页写明赛道基于 2026 届、2027 可能修改。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "PDF 标题 'Altimetría 100Mi Patagonia Run 2026'；图内大字 '160.3 km' 与 'D+ 9221 mts'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "图内 'Largada RCM4 ... 740 msnm'；右端 'META ... 651 msnm'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "图内峰值标注 'Cumbre CE Colorado (1765 msnm)'；后段 'Cumbre Quechuquina (1650 msnm)'。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-22", "note": "剖面只有逐点海拔与 D+，没有累计下降数字；2027 100 Millas 页原话 'CIRCUITO BASADO EN LA EDICIÓN 2026, PUEDE SUFRIR MODIFICACIONES EN LA EDICIÓN 2027'。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-22", "note": "2026-11-22 直接下载 JPG，System.Drawing 读得 2560×623；页面 HTML 同时含该 JPG 的 picture/src 与 PDF 下载按钮。" }
+  ]
+}

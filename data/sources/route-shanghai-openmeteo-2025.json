@@ -12,5 +12,44 @@
     "None of the nine days recorded daily precipitation of at least 1 mm.",
     "On race day, 30 November 2025, the grid gives a maximum of 22.8 degrees, a minimum of 8.6 degrees and 0.0 mm precipitation."
   ],
-  "license": "CC-BY-4.0"
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 请求 archive-api.open-meteo.com → .agent/berlin-shanghai35/sh-openmeteo.json",
+    "note": "JSON 可读；返回网格已在 claim 0 注明。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "响应 latitude 31.247803、longitude 121.5、elevation 5 m。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "九日最高温 13.5–22.8，排序中位 18.2。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "最低温 1.9–12.1，中位 7.5。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "九日降水均为 0.0 mm。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "11 月 30 日 22.8/8.6/0.0 mm。"
+    }
+  ]
 }

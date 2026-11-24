@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-vmm-official-rules",
+  "title": "VMM Race Rules — official",
+  "url": "https://vietnamtrailseries.com/mountain-marathon/practical-info/vmm-race-rules/",
+  "publisher": "Vietnam Trail Series / Topas",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The rules state that a cut-off time is the time a runner must leave the checkpoint, not the time they arrive, and that leaving after the cut-off changes the runner's status to DNF.",
+    "The rules list outside-assistance checkpoints for VMM100 as CP Topas Ecolodge, CP1, CP2, CP4, CP5 and CP6; for VMM70 as CP1, CP2, CP4, CP5 and CP6; for VMM50 as CP4, CP5 and CP6; and none for VMM21 and VMM10.",
+    "The rules allow one bag of up to 40 litres per runner at the outside-assistance area and forbid supporters from providing medical support, setting up tables or tents, lighting fires or consuming checkpoint food.",
+    "The rules forbid supporters from running along with participants at any point and say this leads to disqualification.",
+    "The rules require the mandatory kit to be carried at all times, with kit checks for the top three and random checks including at the start line.",
+    "The rules allow audio headphones with the requirement to switch sound off at checkpoints and on public roads, and forbid portable speakers.",
+    "The rules require runners to leave gates as they find them, forbid pets on course and in the Topas Ecolodge finish area, and require leading runners to carry an organiser GPS device.",
+    "The rules require any results dispute to be lodged within 48 hours of the finish cut-off time."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "规则页未写届次；与 FAQ、100km 页的组别信息一致，但未再次给出各站公里数。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "第 7 条：'The cut-off time is the time you MUST LEAVE the checkpoint, not the time you arrive.' 与 'status to DNF'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "第 9 条逐组照录：VMM100: CP Topas Ecolodge; CP1; CP2; CP4; CP5; CP6" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "第 9 条项目符号：1 bag/runner of max 40L；Medical support is not permitted；no supporter station/table/tent/chairs；checkpoint food for runners only" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "第 11 条：'Supporters may not run along with participants at any point on the course. This results in disqualification.'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "第 13 条：mandatory kit at all times；Top 3 inspected；random checks including start line" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "第 14 条：headphones allowed with switch-off at checkpoints and public roads；'No portable speakers may be used.'" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "第 16、17、18、23 条照录" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "第 22 条：'within 48 hours of the finish cut off time'" }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-vmm-official-home-legacy",
+  "title": "Vietnam Mountain Marathon — 旧域名主页",
+  "url": "https://vietnammountainmarathon.com/",
+  "publisher": "Vietnam Mountain Marathon / Topas",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The legacy official domain still displays '2026 race date: 17 – 20/9/2026'.",
+    "The legacy domain says the Vietnam Trail Series has raised over USD 544,000 for good causes, while the current English home page says over USD 570,000.",
+    "The legacy domain lists the same six distances and the same Topas Ecolodge finish."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "vietnammountainmarathon.com 与 vietnamtrailseries.com/mountain-marathon/ 同为官方站点，日期与慈善金额不同步。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页首：'2026 race date: 17 – 20/9/2026'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "GIVING BACK 段：over USD544,000；对照当前英文主页 USD570,000" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "DISTANCES 段与 FINISH LINE 段照录" }
+  ]
+}

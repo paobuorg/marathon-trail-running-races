@@ -18,5 +18,80 @@
     "Ellie Pashley won the Australian women's championship in 2:28:28, with Milly Clark second in 2:29:47 and Caitlin Scott third in 2:31:11.",
     "The race report describes the 2026 event as the fastest race in Australian history and says three of the four race records were broken."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl 静态抓取 .agent/sydney/results.html",
+    "note": "赛事新闻稿全文可读，逐项核对男女及轮椅组成绩、纪录差值与澳大利亚锦标赛名次"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：'breaking the tape in 02:04:42 to take 1 minute 24 seconds off the race record of 02:06:06 set by Hailemaryam Kiros in 2025'"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'Chimdessa Debele Gudeta ... second in 02:04:46'；'Tebello Ramakongoana ... third in 02:04:57'；'Alphonce Simbu finished 4th with 2:04:57'"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'All three broke 02:05:00'；'podium faster than any seen on Australian soil'"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "引述 Race Director：'Five men under 2:05 on Australian soil'；'All three men finished inside the previous race record, alongside four others'"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'crossing the line in 02:18:31 to win by 3 minutes 40 seconds'；Cheptai 02:22:11；Shure Demise Ware 02:22:33"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'just nine seconds outside Sifan Hassan's 2025 race record of 02:18:22'"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'winning in 01:26:50 and lowering the race and Australian all-comers record of 01:27:15 set by Marcel Hug in 2025'"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'01:42:04 took 2 minutes 48 seconds off Susannah Scaroni's course record of 01:44:52'"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Australian Male 表：Andy Buchanan 2:10:14、Tim Vincent 2:13:54、Liam Boudin 2:14:58"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Australian Female 表：Ellie Pashley 2:28:28、Milly Clark 2:29:47、Caitlin Scott 2:31:11；正文误写 Amelia Clark，表格为 Milly"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'fastest race in Australian history today, with three of the four race records smashed'"
+    }
+  ]
 }

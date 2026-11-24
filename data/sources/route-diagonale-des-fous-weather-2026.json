@@ -4,7 +4,7 @@
   "url": "https://archive-api.open-meteo.com/v1/archive?latitude=-21.12&longitude=55.45&start_date=2026-10-08&end_date=2026-10-19&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=auto",
   "publisher": "Open-Meteo",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The archive returned the nearest grid point at 21.195° S, 55.483° E, elevation 1,166 m, timezone Indian/Reunion (UTC+4).",
     "For the 12-day window 8–19 October 2026 the modelled daily maximum ranged from 18.7 °C to 22.6 °C with a median of 20.8 °C.",
@@ -13,5 +13,49 @@
     "On 15 October 2026 the modelled maximum was 20.5 °C, the minimum 9.8 °C and precipitation 0.4 mm.",
     "These values are modelled grid-point data, not measurements taken on the race course."
   ],
-  "license": "CC-BY-4.0"
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 Open-Meteo 历史存档 JSON 并复算"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "JSON：latitude 21.195，longitude 55.483，elevation 1166，timezone Indian/Reunion"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "12 天 tmax 复算：min 18.7、max 22.6、median 20.75（页面记 20.8）"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "tmin 复算：min 9.8、max 12.3、median 11.25（页面记 11.3）"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "复算：8 天 ≥1 mm、4 天 ≥5 mm、合计 39.2 mm"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2026-10-15：tmax 20.5、tmin 9.8、precip 0.4"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "数据源为 archive-api 的 modelled grid-point 值，非赛道实测"
+    }
+  ]
 }

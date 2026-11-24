@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-utct-transport",
+  "title": "Cape Town International Airport — ground transportation guide",
+  "url": "https://www.capetown-airport.com/transport.php",
+  "publisher": "Cape Town Airport (independent airport guide)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "Cape Town International Airport is about 20 km from downtown Cape Town and the journey usually takes 20–30 minutes depending on traffic.",
+    "The A01 MyCiTi bus runs between the airport and the Civic Centre bus station in downtown Cape Town, every 20–30 minutes, roughly 05:00–22:00, about 30 minutes, and requires a MyConnect card.",
+    "The airport has buses, shuttles, metered taxis, ride-hailing services and car rentals."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web search result",
+    "note": "Independent airport guide; used only for generic distance and transport modes, not as the race organiser's shuttle policy."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Guide: about 20 km, 20–30 minutes."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "MyCiTi A01 section."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Ground transport overview."
+    }
+  ]
+}

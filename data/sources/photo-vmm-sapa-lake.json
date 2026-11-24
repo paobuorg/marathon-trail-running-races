@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-vmm-sapa-lake",
+  "title": "File:Sa Pa Lake 1.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Sa_Pa_Lake_1.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2018-08-09",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "The photograph shows Sa Pa Lake in the centre of Sa Pa, with a calm reflective surface in the foreground, a low lakeside road and railing, closely packed town buildings behind it and the Hoang Lien Son ridge under cloud above the rooftops; it is a town-centre view, not the Sapa Square start line, a race arch, aid station, course marking or race-day crowd.",
+    "Commons titles the file Sa Pa Lake 1.jpg and the description reads 'View of the Sa Pa Lake'; the route page uses it only as the town setting for the 2026 VMM 100km start, not as proof of the exact start line or of race-day conditions.",
+    "The author is Christophe95; the file is licensed CC BY-SA 4.0; the photograph was taken on 2018-08-09 at 17:14:37; the original is 5,184 x 3,888 pixels and 5,455,110 bytes; the file page gives a camera location of 22.337815 N, 103.846696 E.",
+    "The route page uses a 960 x 720 copy of 138,380 bytes without cropping or colour change and credits Christophe95, CC BY-SA 4.0, Wikimedia Commons; the resized copy keeps the same licence."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons file page and downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons 文件页核对作者、许可、日期、原图尺寸与相机坐标，并下载 960 px 副本目视确认：画面是沙坝湖与镇区，不是 2026 起跑拱门或赛日现场。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地副本可见湖面倒影、湖畔道路与栏杆、密集镇区建筑，以及后方云下的黄连山山脊；没有号码布、拱门、补给桌、计时毯、封路或赛日人群。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons 文件页描述为 View of the Sa Pa Lake，分类为 Sa Pa Lake；正文只把照片当沙坝镇中心的环境。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "文件页：Author Christophe95；License CC BY-SA 4.0；Date 2018-08-09 17:14:37；Original 5,184 x 3,888、5,455,110 字节；相机位置 22°20′16.134″ N, 103°50′48.106″ E，即 22.337815 / 103.846696。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 x 720、138,380 字节；未裁剪、未改色；页面署名 Christophe95、CC BY-SA 4.0、Wikimedia Commons。"
+    }
+  ]
+}

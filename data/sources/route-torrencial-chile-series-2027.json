@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-torrencial-chile-series-2027",
+  "title": "EVENTOS UTMB® WORLD SERIES — series structure page",
+  "url": "https://torrencial.utmb.world/es/discover/utmb-world-series",
+  "publisher": "UTMB World Series / Torrencial Chile by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The UTMB World Series are organised in three levels: UTMB World Series Finals, UTMB World Series Majors and UTMB World Series Events.",
+    "UTMB World Series Events are described as the best trail races on the planet and give the top three elite runners automatic entry to the Finals while all finishers collect Running Stones.",
+    "UTMB World Series Majors award double Running Stones and 225 automatic finals qualifications per Major.",
+    "Running Stones are required for the Dacia UTMB Mont-Blanc lottery, and UTMB Index races do not grant Running Stones."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "工具抓取（桌面 UA）读取西文系列说明页正文",
+    "note": "2026-11-08 读取。该页正文仍夹带 2024 年的 Major 名单与「En 2024」字样，属官方未更新的年份文案；本页只引用三级结构与赛事级别定义，不引用其年份段落。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Las UTMB World Series engloban distintos niveles de eventos：FINALS、MAJORS、EVENTS。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Los 3 mejores corredores de élite obtienen la entrada automática a las Finales... todos los finalistas recogen Running Stones。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "otorgan el doble de Running Stones；En total, 225 corredores se clasifican automáticamente... a través de cada Major。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Running Stones que son obligatorios para entrar en el sorteo...；Terminar una carrera INDEX... no te proporcionará los Running Stones。" }
+  ]
+}

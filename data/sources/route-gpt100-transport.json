@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-gpt100-transport",
+  "title": "GPT100 Shuttles — official",
+  "url": "https://www.gpt100.com.au/shuttles",
+  "publisher": "Grampians Peaks Trail 100 Miler",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "The Halls Gap shuttle pick-up and drop-off point is the bus stop outside Centenary Hall at 115 Grampians Rd, Halls Gap VIC 3381.",
+    "Shuttle seats to the Mt Zero start must be booked on Race Roster; Miler, Stage Race and Team Relay runners can book free, while GPT50k runners and spectators pay A$35.",
+    "Stage Race and Team Relay runners have rolling shuttles back to Halls Gap from the Mt William, Griffin Fireline and Dunkeld finishes; these return shuttles do not need booking.",
+    "The official page says Stage 2 starts in Halls Gap and needs no shuttle."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch / 搜索摘要读取 https://www.gpt100.com.au/shuttles 正文",
+    "note": "2026-11-19 读取官方 Shuttle BUS Program 页；正文照录班车点、预订与免费/收费边界，不补写页面未给出的发车时刻。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "原文 Halls Gap Shuttle Point：'The Pick up and drop off shuttle point in Halls Gap is the bus stop outside of Centenary Hall. 115 Grampians Rd, Halls Gap VIC 3381'。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "原文 Mt Zero Startline：'Runners MUST BOOK on Race Roster ... Miler, Stage Race and Team Relays will be able to book these for free. GPT50k runners and Spectators ... $35.'"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "原文：'Stage Race and Team Relay runners will also have shuttles provided to bring them back to Halls Gap from the finish lines at Mt William, Griffin Fireline and Dunkeld. ... These do not have to be booked.'"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "原文：'Note we have excluded Stage 2 here because it starts in Halls Gap and no shuttle is required.'"
+    }
+  ]
+}

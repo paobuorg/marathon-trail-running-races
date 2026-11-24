@@ -1,0 +1,62 @@
+{
+  "sourceId": "route-shanghai-2026-course-map",
+  "title": "2026 上海马拉松官方路线图与起终点平面图",
+  "url": "https://static.shang-ma.com/web/matchDetail/index.html?eventId=232&eventTtype=2",
+  "publisher": "上海马拉松组委会",
+  "publishedAt": null,
+  "accessedAt": "2026-11-21",
+  "claims": [
+    "The 2026 official course map is published on the event page as a 5686x7885 JPEG at https://media.shang-ma.com/bms/5Inp4haCyXKZme35.jpg.",
+    "The 2026 course map marks the start at 06:45, the finish at 13:30, and cut-off times at 5 km 08:10, 10 km 08:50, 15 km 09:35, 20 km 10:20, 25 km 11:00, 30 km 11:45, 35 km 12:30 and 40 km 13:15.",
+    "The 2026 course map includes an altitude profile with a vertical axis labelled 5-20 m and a horizontal axis 0-42 km, but it does not label cumulative ascent or cumulative descent.",
+    "The event page also publishes a start diagram at https://media.shang-ma.com/bms/BgGqHh8WwOj6DXm4.jpg (3088x2666) and a finish diagram at https://media.shang-ma.com/bms/UwE41cYHn6PpsgNR.jpg (3088x2666).",
+    "The start diagram marks corrals A-E along the Bund and the finish diagram marks the athlete flow and bag tents inside Xujiahui Sports Park.",
+    "The official map and diagrams are published without a redistributable licence; this page links to them but does not copy or repackage the image files."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-21",
+    "checkedVia": "Playwright 打开 eventId=232 赛事详情页，逐个点击“赛事路线图/起点示意图/终点示意图”标签；下载原图并用 System.Drawing 核对尺寸",
+    "note": "2026-11-21 页面标签已从 2026-11-08 的“敬请期待”变为实际图件；路线图为 5686×7885 / 4,434,620 字节，起点图 3088×2666 / 1,750,444 字节，终点图 3088×2666 / 2,001,287 字节。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "Playwright 点击“赛事路线图”后出现 img src=https://media.shang-ma.com/bms/5Inp4haCyXKZme35.jpg，naturalWidth 5686、naturalHeight 7885；下载后字节数 4,434,620。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "原图图例逐项读得：起点—06:45、5 km—08:10、10 km—08:50、15 km—09:35、20 km—10:20、25 km—11:00、30 km—11:45、35 km—12:30、40 km—13:15、终点—13:30。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "路线图右下角剖面纵轴标 5、10、15、20，横轴 0–42；图内没有累计爬升/下降数值。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "点击“起点示意图”得到 3088×2666 图，点击“终点示意图”得到 3088×2666 图；两图 URL 与字节数已记入 verification.note。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "起点图图例列出 A–E 区集结、存衣车、厕所等；终点图图例列出运动员流线、存衣包帐篷、医疗点、赞助商展示与徐家汇体育公园出入口。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "赛事页未给图片许可声明；本页只记 URL 与事实，不把原图复制进站点媒体目录。"
+    }
+  ]
+}

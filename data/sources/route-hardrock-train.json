@@ -11,5 +11,38 @@
     "The railroad is a National Historic Landmark.",
     "The line was built to haul silver and gold ore, and passengers came for the scenery."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "官方页面直读",
+    "note": "铁路官网首页可读"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "All Aboard! Magazine 段：continuous operation between Durango and Silverton since 1882"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Scenic Round Trip Silverton Train 卡片：Excursions begin May 2, departing from the Durango Depot"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 1 段：A National Historic Landmark"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "All Aboard! Magazine 段：constructed to haul silver & gold ore…the view…truly precious"
+    }
+  ]
 }

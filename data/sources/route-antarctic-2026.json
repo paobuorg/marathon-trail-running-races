@@ -1,0 +1,55 @@
+{
+  "sourceId": "route-antarctic-2026",
+  "title": "Antarctic Ice Marathon — official home page, 2026 edition",
+  "url": "https://www.icemarathon.com/",
+  "publisher": "Antarctic Ice Marathon / Runbuk",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "The 2026 Antarctic Ice Marathon is the 21st edition and is scheduled for 13 December 2026 at Union Glacier, Antarctica.",
+    "The official home page gives the marathon as 26.2 miles, latitude 80°S, typical temperature -20 °C and 24 hours of daylight.",
+    "The official home page lists the men's event record as 2:53:33 (Sean Tobin, 2022) and the women's event record as 3:29:16 (Liesl Muehlhauser, 2024).",
+    "The event has had 20 editions since the 2005/2006 Antarctic season and 1,030 global finishers across all distances since 2005.",
+    "The 2026 entry fee is USD 22,500 and includes round-trip flights from Punta Arenas to Union Glacier, food and accommodation in Antarctica, and race entry."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch",
+    "note": "Official home page read; fast facts, records and 2026 edition details are in the body."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Home page: On 13 December 2026, 21st edition; Union Glacier."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Fast Facts: 26.2 miles, -20 °C, 80°S, 24 hours daylight."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Records block: Sean Tobin 2:53:33; Liesl Muehlhauser 3:29:16."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "20 editions, 1,030 finishers since 2005."
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Athlete Services block: $22,500, flights, accommodation, food, entry."
+    }
+  ]
+}

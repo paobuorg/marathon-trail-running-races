@@ -10,5 +10,32 @@
     "The 2025 course is approximately 102.5 miles with roughly 33,197 feet of climb and descent.",
     "The 2025 manual lists summer single-lane closures on US 550 between Silverton and Durango and up to 15-minute traffic holds on US 550 between Silverton and Ouray."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "官方 PDF 文本读取",
+    "note": "2025 跑者手册 PDF 可读"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "封面：July 11-13, 2025 / Counter-Clockwise"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Welcome 段：approximately 102.5 miles…roughly 33,197 feet of climb and 33,197 feet of descent"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Notable Updates for 2025 第 1 条 Road Construction：US 550 single lane closures…up to 15min traffic holds"
+    }
+  ]
 }

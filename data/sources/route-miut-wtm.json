@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-miut-wtm",
+  "title": "World Trail Majors — all races (MIUT entry)",
+  "url": "https://worldtrailmajors.com/all-races/",
+  "publisher": "World Trail Majors",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "World Trail Majors lists MIUT – Madeira Island Ultra-Trail as one of its 2026 races, dated 25–26 April 2026.",
+    "The WTM entry describes MIUT as taking runners through Madeira's greenery, peaks and coastal views, and the series page places it among ten World Trail Majors races."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 worldtrailmajors.com/all-races/，读取 MIUT 条目与日期"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "MIUT – MADEIRA ISLAND ULTRA-TRAIL 条目，日期 2026/04/25-26" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "同条目描述与系列页 10 站列表" }
+  ]
+}

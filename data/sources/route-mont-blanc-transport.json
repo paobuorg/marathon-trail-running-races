@@ -1,0 +1,31 @@
+{
+  "sourceId": "route-mont-blanc-transport",
+  "title": "Getting around the Chamonix Valley — Mont-Blanc Marathon",
+  "url": "https://www.marathonmontblanc.fr/en/infos-pratiques/transports",
+  "publisher": "Club des Sports de Chamonix (organiser)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The organiser says a dedicated, free transport plan of buses, shuttles and trains operates alongside the Chamonix Valley public network during the event.",
+    "To reach the starts of the 90 km, 42 km and 10 km outside public-transit hours, the organiser lists buses and trains from Vallorcine, from the Saint-Gervais-les-Bains–Le Fayet train station and from Les Houches.",
+    "Special buses, shuttles and trains also run for spectators along the 90 km, 42 km and 23 km courses.",
+    "The Chamonix Mobilité bus network has four main lines serving Les Houches, Chamonix, Argentière and Le Tour, and the Mont-Blanc Express runs from Saint-Gervais-les-Bains–Le Fayet to Martigny, with Vallorcine as the last French station.",
+    "The organiser offers a three-day Mont-Blanc Marathon bus pass for €7, valid on the whole Chamonix Valley bus network except night lines after 21:30.",
+    "The page mentions ATMB car-sharing car parks on the motorway network but publishes no race-day road-closure timetable or parking capacity."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取赛事官网英文交通页全文，抄录免费接驳、三个上车区域、观众接驳、Chamonix Mobilité 四线、Mont-Blanc Express 区间、€7 三日票与 ATMB 拼车停车场；页面没有封路时刻表。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'a dedicated, free transportation plan (buses, shuttles, and trains) is available in addition to the Chamonix Valley's public transit system'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'from Vallorcine'；'from the Saint-Gervais-les-Bains – Le Fayet train station'；'from Les Houches'；'to the starting lines of the various races: 90 km, 42 km, and 10 km'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'special buses, shuttles, and trains are available for spectators... along the entire 90 km, 42 km, and 23 km courses'。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'4 main lines... Les Houches, Chamonix Mont-Blanc, Argentière and Le Tour'；'from Saint-Gervais-les-Bains - Le Fayet to the bottom of the valley... all the way to Martigny... last station in France is Vallorcine'。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "'3-day Mont-Blanc Marathon pass for just €7'；'excluding night lines from 9:30pm'。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "'ATMB is making available all the car-sharing parking lots'；页面无 road closure 时刻表。" }
+  ]
+}

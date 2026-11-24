@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-black-canyon-itra-2027",
+  "title": "Black Canyon Ultras 2027 — ITRA race pages (100K and 50K)",
+  "url": "https://itra.run/Races/RaceDetails/31.Km/2027/121210",
+  "publisher": "ITRA (International Trail Running Association), data submitted by the organiser",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The ITRA 2027 100K page lists 99.90 km, +1,610 m, -2,260 m, a 20-hour limit, 8 aid stations, 1,000 participants and a 07:00 start on 13 February 2027, flagged as a Western States Golden Ticket race.",
+    "The ITRA 2027 50K page lists 52.02 km, +531 m, -1,141 m, an 11-hour limit, 0 aid stations, 1,200 participants and a 07:00 start on 14 February 2027.",
+    "The ITRA 100K figures disagree with the organiser's 62.2 miles, +5,219 ft and nine-aid-station table.",
+    "The ITRA 50K entry of 0 aid stations also disagrees with the organiser's aid-station table.",
+    "The ITRA 2027 pages give the venue as Mayer, United States, and list both distances as solo participation."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 读取 ITRA 2027 两个距离页（100K 121210、50K 121211）。ITRA 的赛事描述与 Course details 由组委会提交，本页只把它当 B 层对照，不覆盖官方页。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "121210 Course details：99.90、+1610、-2260、20:0:0、8、1000、2027/02/13 07:00；Championship 写 Western States Golden Ticket Race" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "121211 Course details：52.02、+531、-1141、11:0:0、0、1200、2027/02/14 07:00" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "官方页 Key Stats 62.2 Miles、+5,219 feet、Nine aid stations；ITRA 99.90/+1,610/8，差异照录不取平均" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "ITRA Number of Aid Stations 0；官方表列 5 个短距离站，冲突成立" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "两页 Event Information 均写 Mayer, United States；Participation 分别为 Solo / solo" }
+  ]
+}

@@ -4,7 +4,7 @@
   "url": "https://montblanc.utmb.world/discover/transportation/chamonixmontblanc",
   "publisher": "UTMB World Series",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-08",
   "claims": [
     "Geneva airport (GVA) is approximately 1 hour 30 minutes from Chamonix, with direct bus transfers or a train from Geneva Cornavin station.",
     "Lyon Saint-Exupéry airport (LYS) is approximately 2 hours 30 minutes away, via TGV to Annecy or Bellegarde and then train or bus.",
@@ -17,5 +17,72 @@
     "The Chamonix Mobilité public transport network covers the valley from Servoz to Vallorcine.",
     "The organiser discourages arriving by private car because city-centre car parks are saturated during the event."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Plane 段：GVA 约 1 小时 30 分，直达巴士或 Geneva Cornavin 火车"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Plane 段：LYS 约 2 小时 30 分，TGV 至 Annecy 或 Bellegarde 后转火车/巴士"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Plane 段：MXP 有 BlaBlaCar 或 FlixBus 直达巴士"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Plane 段：ZRH 经瑞士火车到达"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Plane 段：CDG/ORY 直达 TGV 至 Annecy 或 Bellegarde 后转乘"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Train 段：Saint-Gervais-les-Bains-Le Fayet 站接 Mont-Blanc Express"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Train 段：Annecy 站接 Saint-Gervais 与 Mont-Blanc Express，或 BlaBlaCar Bus 直达接驳"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Train 段：Lyon Part-Dieu 接 FlixBus 或 BlaBlaCar Bus"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Bus 段：Chamonix Mobilité 覆盖 Servoz 至 Vallorcine"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Car 段：市中心停车场饱和，强烈不建议自驾"
+    }
+  ]
 }

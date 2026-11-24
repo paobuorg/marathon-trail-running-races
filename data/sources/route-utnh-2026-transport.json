@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-utnh-2026-transport",
+  "title": "可隆宁海越野挑战赛 2026 交通住宿",
+  "url": "https://ninghai100.com/page/about/transportation",
+  "publisher": "可隆宁海越野挑战赛 / 上海穹景体育文化发展有限公司",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "官方建议乘高铁或火车到宁海站，赛事期间客流大，建议提前 14 天购票；自驾可导航至宁海县西门城楼，赛事期间周边实行交通管制。",
+    "西门城楼是领包、EXPO、起点与终点；官方建议从酒店乘公共交通或出租车、网约车前往。",
+    "各组别比赛当日，组委会在宁海喜来登酒店、宁海霞客居天明湖公园店、宁海金海开元名都大酒店、宁海全季酒店、宁海新世纪大酒店提供前往西门城楼的接驳公交。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 通过页面内容接口读取“前往宁海”“前往西门城楼”“住宿”三节全文。",
+    "checkedVia": "ninghai100.com/app-api/race/page/get?id=17"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：购买目的地为宁海站的车票；赛事期间客流较大，建议提前14天购票；自驾导航至宁海县西门城楼，赛事期间周边会进行交通管制。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：宁海西门城楼是赛事主会场，选手将在西门城楼领取参赛包、参观EXPO，同时这里也是出发地点和终点。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：各组别比赛当日，组委会将在以下地点提供前往西门城楼（起点）的接驳公交，并列出五家酒店。" }
+  ]
+}

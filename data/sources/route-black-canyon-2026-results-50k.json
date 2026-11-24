@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-black-canyon-2026-results-50k",
+  "title": "2026 Black Canyon Ultras 50K — official results",
+  "url": "https://qa.ultrasignup.com/results_event.aspx?did=125777",
+  "publisher": "UltraSignup / Aravaipa Running",
+  "publishedAt": "2026-02-15",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2026 Black Canyon 50K results page lists 850 finishers.",
+    "The men's top three were Seth Ruhling 3:16:29, Adam Peterman 3:18:18 and Cade Michael 3:18:43.",
+    "The women's top three were Jane Maus 3:47:04, Liz O'Connor 3:52:30 and Lindsay Allison 3:55:44."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "Full results table",
+    "note": "UltraSignup 2026 50K 官方成绩页，Finishers - 850；前三名逐行读取。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "表头：Finishers - 850" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "Place 1–3 行" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "女子 Place 1–3 行" }
+  ]
+}

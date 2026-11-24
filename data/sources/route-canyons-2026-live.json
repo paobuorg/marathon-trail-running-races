@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-canyons-2026-live",
+  "title": "UTMB Live — The Canyons Endurance Runs by UTMB 2026, 100K",
+  "url": "https://live.utmb.world/en/canyons/2026/100k",
+  "publisher": "UTMB World Series / UTMB Live",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2026 Canyons 100K started at China Wall on 25 April 2026 at 05:00 and recorded 678 starters, 138 DNF and 540 finishers.",
+    "The 2026 100K was listed as 62.1 miles (100 km) with 12,303 ft+ of gain."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 直接读取 UTMB Live 2026 Canyons 100K 页面，核对起跑、距离、爬升与出发/完赛人数。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "页面 Starters 678 / DNF 138 / Finishers 540；Start time 05:00 AM；Date April 25, 26。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "页面 Distance 62.1 Miles；Elevation 12,303 ft+。" }
+  ]
+}

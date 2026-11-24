@@ -1,0 +1,76 @@
+{
+  "sourceId": "route-antarctic-faq",
+  "title": "Antarctic Ice Marathon — Frequently asked questions",
+  "url": "https://www.icemarathon.com/faq",
+  "publisher": "Antarctic Ice Marathon / Runbuk",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "The 2026 Antarctic Ice Marathon / Half Marathon is scheduled for 13 December 2026 and is the 21st edition.",
+    "Antarctic flights are not guaranteed to operate on schedule; days of delay can be normal and runners should allow at least two weeks after the expected return.",
+    "The departure point is Punta Arenas, Chile; runners arrange their own flights to Punta Arenas, typically via Santiago, and a Boeing 757 flies them about four hours to Union Glacier, landing at 80°S.",
+    "The marathon is normally run on a 10.55 km loop repeated four times, with an aid station every 5 km and a heated structure at the half-way point.",
+    "The marathon cut-off is 10 hours; the temperature at Union Glacier typically ranges from -10 °C to -20 °C at race time.",
+    "The course is groomed before the race and should be reasonably solid ice, but can include soft and loose snow; trail running shoes are recommended.",
+    "The race entry fee is USD 22,500; official hotels in Punta Arenas are Diego de Almagro and Almasur, and runners should budget for several days of possible delay.",
+    "Union Glacier camp has a basic medical clinic staffed by a doctor and medic specialising in emergency and remote medicine, with 24-hour support."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch",
+    "note": "Official FAQ read."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "What date / 21st edition."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Can I be guaranteed / delay answer."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Departure point, how to get there, Boeing 757, four-hour flight, 80 Degrees South."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Where exactly will the races take place."
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Cut-off answer; weather answer."
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Underfoot conditions; shoes answer."
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Fee answer; hotel answer."
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Safety/medical answer."
+    }
+  ]
+}

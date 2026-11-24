@@ -18,5 +18,80 @@
     "The 2025 event marked the 29th year of the Shanghai Marathon.",
     "The international tourism runner programme involved runners from 26 countries and regions."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 tyj.sh.gov.cn 赛后稿 → .agent/berlin-shanghai35/sh-results-2025.html",
+    "note": "赛后官方稿正文可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "赛事历时 6 小时 30 分，13:30 关门。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "赛事描述覆盖 42.195 km 的服务网络。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Mengesha 2:06:25；Kosgei 2:16:36 打破女子赛会纪录。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "丰配友 2:08:36；张德顺 2:25:13。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "罗兴传 1:26:30；田雅娟 1:49:40。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "43 个医疗站、终点综合医疗站、4 个赛后医疗点、36 辆监护救护车、275 台 AED、9 家定点医院、100 名骑行急救、500 余名定点急救、200 名急救跑者。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "近 4400 名志愿者，60 多个岗位。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "17 处加油站。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "赛事主题地铁卡可免费乘坐两次。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2025 年为第 29 年。"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "ITP 覆盖 26 个国家和地区。"
+    }
+  ]
 }

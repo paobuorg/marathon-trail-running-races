@@ -17,5 +17,73 @@
     "Only three runners have won the hundred twice: Yun Yanqiao in 2013 and 2017, You Peiquan in 2020 and 2023, and Meng Guangfu in 2024 and 2025.",
     "The page notes that the official 2027 GPX is supplied by the organiser and that distances measured from the track may differ slightly from the advertised race distance."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "browser",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "客户端渲染页面；2026-11-08 用无头浏览器打开并读取正文（命令行直取只返回 SPA 外壳，无正文）"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“The first Hong Kong 100 was held in January 2011 with 175 starters”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“founded by Janet Ng and Steve Brammar, two Hong Kong lawyers”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“the opening round of the World Trail Majors and the largest hundred-kilometre trail race in Asia”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“The 2026 field of 1,844 finishers”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“shortened by roughly 7 km after Typhoon Wipha damaged the route the previous summer”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“first dead heat… Veronika Leng and Vietnam’s Hà Thị Hậu crossing together in 10:43:35”"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“men’s course record… Qi Min, whose 9:28:36 in 2018”"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“women’s record… Yao Miao in 10:40:52”"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“Only three runners have won the hundred twice: Yun Yanqiao in 2013 and 2017, You Peiquan in 2020 and 2023, and Meng Guangfu in 2024 and 2025”"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页脚注：“Official 2027 GPX supplied by the organizer. Distances shown are measured from the track and may differ slightly from the advertised race distance”"
+    }
+  ]
 }

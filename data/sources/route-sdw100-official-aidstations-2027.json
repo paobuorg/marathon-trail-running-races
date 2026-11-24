@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-sdw100-official-aidstations-2027",
+  "title": "SDW100 2027 Aid Stations — official chart",
+  "url": "https://centurionrunning.com/races/south-downs-way-100-2027/aidstations",
+  "publisher": "Centurion Running",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The aid station chart numbers 12 aid stations plus the Start at Matterley Bowl and the Finish at Eastbourne, giving mileages of 11.4, 23.4, 28, 36.6, 47.3, 55, 60.9, 66.6, 76.6, 84, 91.6, 95.7 and 100.",
+    "The Wave 1 cut-offs are 09:00 at Beacon Hill Beeches, 12:30 at QECP, 13:55 at South Harting, 16:30 at Cocking, 20:20 at Houghton Farm, 22:00 at Washington, 23:50 at Botolphs, 01:30 at Saddlescombe Farm, 04:25 at Housedean Farm, 06:40 at Southease, 09:00 at Alfriston, 10:15 at Jevington and 11:30 at the finish; the Wave 2 cut-offs are one hour later at every station, finishing at 12:30.",
+    "Crew access is permitted at QECP, Cocking, Houghton Farm and Washington only; the chart gives street addresses and what3words references for the stations and states that parking is free on site at Matterley Bowl.",
+    "The chart lists a separate Washington (Crew) point at 50.896565, -0.408093, distinct from the Washington aid station at 50.905929, -0.406945."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接抓取并读取该表。表内 12 个编号补给站加 Start/Finish；页面同时嵌入各点坐标。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "表内 No. 1–12 与 Start/Finish 行逐项照录；最后一行 Finish Eastbourne 为 100 miles" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "表内 Wave 1 Cut off 与 Wave 2 Cut off 两列逐项照录；Wave 2 每站比 Wave 1 晚 1 小时" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "表内 Crew Access 列：QECP、Cocking、Houghton Farm、Washington 有 crew access；其余写 'No Crew Access Permitted'；地址列给出 SO21 1HW 等；Start 行写免费停车" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "页面地图 div：name=\"Washington\" location=\"50.905928579044705,-0.40694475173950195\"；name=\"Washington (Crew)\" location=\"50.896565,-0.408093\"" }
+  ]
+}

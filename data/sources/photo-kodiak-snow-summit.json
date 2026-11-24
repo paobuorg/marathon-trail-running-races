@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-kodiak-snow-summit",
+  "title": "File:Snow Summit, Big Bear.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Snow_Summit,_Big_Bear.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2008-03-24",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "The image is an aerial view of the Snow Summit ski area at Big Bear: snow-covered runs cut through conifer forest, with a small pond at the lower right and the valley beyond.",
+    "The Commons description names Snow Summit Ski Resort at Big Bear; the 100M descends from the Snow Summit summit to the finish, but this is not a race-day photograph and has no course markers, timing mats or aid tables.",
+    "The author is Doc Searls; the file is CC BY-SA 2.0; the photograph was taken on 2008-03-24 at 10:31:24; the original is 2,799 x 1,785 pixels and 3,817,582 bytes; the credit says it was originally posted to Flickr as 2008_03_24_bos-lax767d.",
+    "The route page uses a 960 x 612 copy of 218,578 bytes without cropping or colour change and credits the author, licence and source."
+  ],
+  "license": "CC-BY-SA-2.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons file page, imageinfo API and downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons 文件页与 imageinfo API 读取作者、许可、原图尺寸与描述，下载 960 px 副本并目视核对雪道、林带、山顶与谷地；作为 Snow Summit 地点照使用，不当作赛事现场或精确下降轨迹。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地副本可见雪道自山顶向下切开针叶林，右下有小水塘，远处为谷地与山脊。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons ImageDescription 写 Snow Summit Ski Resort, at Big Bear；画面没有号码布、计时毯、补给桌或赛道标记。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "imageinfo：Artist Doc Searls；LicenseShortName CC BY-SA 2.0；DateTimeOriginal 2008-03-24 10:31:24；2,799 x 1,785、3,817,582 字节；Credit 写 originally posted to Flickr as 2008_03_24_bos-lax767d。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 x 612、218,578 字节；未裁剪、未改色；页面署名 Doc Searls / CC BY-SA 2.0 / Wikimedia Commons。"
+    }
+  ]
+}

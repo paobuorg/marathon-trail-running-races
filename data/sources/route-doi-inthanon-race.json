@@ -1,0 +1,33 @@
+{
+  "sourceId": "route-doi-inthanon-race",
+  "title": "PAGODA 50-DAY — Chiang Mai Thailand by UTMB",
+  "url": "https://chiangmai.utmb.world/races/PAGODA50-DAY",
+  "publisher": "UTMB World Series / HOKA Chiang Mai Thailand by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "PAGODA 50-DAY is listed as 57 km with 3,600 m of elevation gain, starting on Saturday 28 November 2026 at 07:00 from Doi Inthanon National Park HQ, with a maximum allowed race time of 16 hours 30 minutes.",
+    "The race carries 4 Running Stones and the page labels its finals access as '50k-direct-entry-major'.",
+    "The course is a loop that starts and finishes at the Doi Inthanon National Park Headquarters and passes Doi Hua Suea, Doi Pha Tang Peak and the Twin Royal Pagodas before reaching the summit of Doi Inthanon.",
+    "The aid stations are B1 Mae Klang Luang School, B2 Pha Tang Junction, B3 Mae Uam Water Resource Management Office, B4 Mae Chaem Guard Unit and B5 Relic of the Buddha.",
+    "The published time chart gives cumulative distances of 8.3 km (B1), 19.6 km (B2), 28.7 km (B3), 40.1 km (B4), 47.6 km (B5) and 56.7 km (finish).",
+    "The published time chart gives cut-off times of 15:00 at B3, 18:00 at B4, 21:30 at B5 and 23:30 at the finish, while no cut-off times are shown for B1 and B2.",
+    "The page states that the PAGODA 50 route is 57 km even though the race is named PAGODA 50."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取英文与泰文 PAGODA50-DAY 页；距离、爬升、起跑时间、时限、Running Stones 与补给站名称在两语版本一致；关门时刻取自页面时间图（泰文页可读出 B3 15:00 / B4 18:00 / B5 21:30 / F 23:30）"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "英文页 'Distance 57 KM'、'Elevation Gain 3600 M+'、'Sat 28th November 2026'、'Doi Inthanon National Park HQ - 07:00'、'16 Hours 30 Minutes'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "英文页 'Running Stones 4'、'Finals Access 50k-direct-entry-major'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "英文页 'The PAGODA 50 route passes iconic landmarks including Doi Hua Suea, Doi Pha Tang Peak, and the Twin Royal Pagodas before reaching the summit of Doi Inthanon. The loop course starts and finishes at the Doi Inthanon National Park Headquarters.'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "英文页 Aid Stations 列表 B1-B5；泰文页给出泰文站名" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "时间图数字序列：8.3 / 19.6 / 28.7 / 40.1 / 47.6 / 56.7 km" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "时间图：B3 'Sat 03:00 PM'、B4 'Sat 06:00 PM'、B5 'Sat 09:30 PM'、F 'Sat 11:30 PM'；B1、B2 无时刻" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "标题 PAGODA 50 与 'Distance 57 KM' 并列" }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-canyons-official-25k",
+  "title": "Canyons 25K — Canyons Endurance Runs by UTMB 2027",
+  "url": "https://canyons.utmb.world/races/25K",
+  "publisher": "UTMB World Series / Canyons Endurance Runs by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The 25K is 25 KM with 850 m of gain, starts in Downtown Auburn on Friday 23 April 2027 at 16:00 and has a 5-hour limit; the page shows 2 Running Stones while the 2026 main page shows 1.",
+    "The route goes from Robie Point over No Hands Bridge and the Training Hill into Cool, does a short loop and returns to Auburn.",
+    "The page still says 'New for 2026: the 25K will take place on Friday evening, April 24, 2026' while the 2027 start date is Friday 23 April 2027."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取并读取 2027 25K 赛事页。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页头：25 KM、850 M+、Friday 23rd April 2027、Downtown Auburn 16:00、05 Hours、Running Stones 2；主页 2026 卡写 1" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "Course Description 段逐段照录" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "页面原文 'New for 2026: ... Friday evening, April 24, 2026'；页头 Start Date 为 Friday 23rd April 2027" }
+  ]
+}

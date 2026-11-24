@@ -1,10 +1,10 @@
 {
   "sourceId": "route-sydney-transportnsw-2026",
-  "title": "Sydney Marathon 2026 – transportnsw.info event page（2026-11-07 复核：原页已下线，仅保留查阅记录）",
+  "title": "Sydney Marathon 2026 – transportnsw.info event page",
   "url": "https://transportnsw.info/events/2026/08/sydney-marathon-2026",
   "publisher": "Transport for NSW",
   "publishedAt": null,
-  "accessedAt": "2026-11-07",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The event page states that 40,000 participants will take part in the 42 km Sydney Marathon on Sunday 30 August 2026.",
     "The event page lists the marathon start at 06:15, the finish at 15:40 and the Recovery Village closing at 16:00.",
@@ -14,7 +14,6 @@
     "The M1 metro line runs between Tallawong, Chatswood and Sydenham; early services start around 3.30am from Tallawong and 4am from Sydenham, with trains every four minutes until 8am and every five minutes until 3pm.",
     "Arrivals before 6am at North Sydney station exit via Blue St, turn right and cross Pacific Hwy to Walker St; after 6am they use the Greenwood Plaza Pacific Hwy pedestrian bridge to Denison St, then Berry St and Walker St.",
     "From Victoria Cross metro, exit at Denison St, turn right onto Berry St and left onto Walker St; from Crows Nest metro, exit at Clarke St and continue via Willoughby Rd, Burlington St, West St and Falcon St.",
-    "A dedicated drop-off is available at ANZAC Public School on Anzac Ave off Ernest St, with accessible drop-off in the North Sydney Boys High School car park on Falcon St.",
     "Significant city-wide road closures will be in place between 2am and 4.30pm from North Sydney, the Sydney CBD, Pyrmont, Darlinghurst, Moore Park to Kingsford, with special event clearway parking restrictions from 12.01am Sunday.",
     "Key closures include the Sydney Harbour Bridge, Cahill Expressway and Western Distributor from 3am to 11am, Macquarie Street and Oxford Street from 4am to 4pm or 4.30pm, and Anzac Parade from 5am to 2pm.",
     "The Cross City Tunnel will be toll-free from 5am to 4.30pm for motorists crossing the course east-west.",
@@ -26,5 +25,122 @@
     "Spectators can reach the start line by metro to Victoria Cross, the spectator site at Barangaroo, the Customs House festival and Opera House finish by train to Circular Quay, and the Moore Park spectator hub by light rail from Town Hall.",
     "The page lists bus changes including buses across the Harbour Bridge ending at Crows Nest, St Leonards or Macquarie Park, and city-east buses starting and ending at Kings Cross or Woolloomooloo until mid-afternoon."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch 工具抓取 https://transportnsw.info/events/2026/08/sydney-marathon-2026（桌面 UA）；本机直连同一 URL 302 到 /events 通用列表页，工具抓取返回完整 2026 赛事页",
+    "note": "2026 赛事页正文可读；ANZAC Public School / North Sydney Boys High School 落客点未在正文出现，已删除，正文改挂 route-sydney-transport-2026。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Road closures 上方首段原文：40,000 participants ... Sunday 30 August 2026。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页头三行原文：Marathon start 06:15 / Finish 15:40 / Recovery Village closes 16:00。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Top tips 原文：Travel on public transport is included in your Sydney Marathon event registration ... show your race bib。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Top tips 与 Ticketing information 两处均写明机场站 station access fee 不在报名或赛事交通权益内。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Top tips、Metro、Train 三节均写明 Purple/Orange 走 Victoria Cross Metro 或 North Sydney Train，Green 走 Crows Nest Metro。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Metro 节原文：M1 在 Tallawong、Chatswood、Sydenham 间运行；3.30am 自 Tallawong、4am 自 Sydenham 加开；8am 前每 4 分钟、3pm 前每 5 分钟。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Train 节原文：6am 前经 Blue St 出站右转穿 Pacific Hwy 到 Walker St；6am 后经 Greenwood Plaza 人行天桥到 Denison St、Berry St、Walker St。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Metro 节原文：Victoria Cross 走 Denison St 出口右转 Berry St 左转 Walker St；Crows Nest 走 Clarke St、Willoughby Rd、Burlington St、West St、Falcon St。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Road closures 首条原文：2am 至 4.30pm，范围 North Sydney、CBD、Pyrmont、Darlinghurst、Moore Park 到 Kingsford；clearway 自周日 12.01am 生效。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Road closures 第二条原文：Harbour Bridge、Cahill Expressway、Western Distributor 3am–11am；Macquarie St 与 Oxford St 4am–4pm/4.30pm；Anzac Pde 5am–2pm。"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Road closures 第二条原文：Cross City Tunnel 5am–4.30pm toll-free。"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Train 节逐条列出 Berowra 2.59am/3.30am、Penrith 3.30am、Hornsby 3.10am/3.40am、Ashfield 3.58am、Liverpool 3.45am、Bankstown 3.25am/3.50am、Cronulla 2.47am/3.17am、Revesby 3.10am。"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Train 节原文：North Sydney 为 42km 与 10km 起点的最近车站，T1 North Shore 与 T9 Northern。"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Train 节 Getting home 原文：终点最近车站 Circular Quay，Wynyard 与 Martin Place 短步行距离。"
+    },
+    {
+      "index": 14,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Ticketing information 原文：8/29–8/30 凭 bib、完赛奖牌或志愿者 T 恤可乘列车、Intercity、Metro、巴士、轻轨、渡轮，有效至次日 4am。"
+    },
+    {
+      "index": 15,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Ticketing information 末段原文：志愿者可前往 8/27–8/29 在 Sydney Olympic Park 举行的 Running Expo。"
+    },
+    {
+      "index": 16,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Spectator Live Sites 原文：Metro 到 Victoria Cross/Barangaroo，火车到 Circular Quay（Customs House 与 Opera House 终点），轻轨自 Town Hall 到 Moore Park。"
+    },
+    {
+      "index": 17,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Bus services & changes 原文：跨海港大桥巴士止于 Crows Nest、St Leonards 或 Macquarie Park（3am–11am 止于市区）；市区—东区巴士在 Kings Cross/Woolloomooloo 起终至午后。"
+    }
+  ]
 }

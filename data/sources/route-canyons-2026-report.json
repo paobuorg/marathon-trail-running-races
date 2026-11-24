@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-canyons-2026-report",
+  "title": "2026 Canyons by UTMB 100k Results: Adam Peterman and Riley Brady Take Home Wins — iRunFar",
+  "url": "https://www.irunfar.com/2026-canyons-by-utmb-100k-results",
+  "publisher": "iRunFar",
+  "publishedAt": "2026-04-25",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2026 Canyons 100K had a late reroute earlier in race week because of inclement weather; runners still faced about 12,300 ft of gain and 17,000 ft of descent.",
+    "The 2026 race was the 12th edition and nearly 700 runners started at China Wall at 05:00.",
+    "In the men's race Peterman won in 8:18:47, Miller was second in 8:21:05, Hawks third in 8:23:28 and Can-Hua Luo fourth in 8:25:17.",
+    "In the women's race Brady won in 9:41:09, Arnold was second in 9:56:36 and Allaben third in 10:14:58; Arnold and Allaben declined their Golden Tickets, which rolled to Sarah Humble (4th, 10:18:43) and Ellaney Matarese (5th, 10:29:16)."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 直接读取 iRunFar 2026 Canyons 100K 赛后报道，核对天气改线、起跑、前三与 Golden Ticket 递补。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "原文：'had a late reroute earlier in the week due to inclement weather'；'approximately 12,300 feet (3,750 meters) of elevation gain and 17,000 feet (5,181 meters) of descent'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "原文：'At 5 a.m. local time, on Saturday, April 25, nearly 700 runners started...'；'in its 12th edition'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "原文成绩段与 Men's Results 列表：8:18:47 / 8:21:05 / 8:23:28 / 8:25:17。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "原文：Brady 9:41:09、Arnold 9:56:36、Allaben 10:14:58；Arnold 与 Allaben 放弃 Golden Ticket，递补给 Humble 10:18:43 与 Matarese 10:29:16。" }
+  ]
+}

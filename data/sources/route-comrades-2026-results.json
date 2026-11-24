@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-comrades-2026-results",
+  "title": "Kusche and Steyn Shatter Records and Cash In at 2026 Comrades Marathon",
+  "url": "https://www.comrades.com/blogs/kusche-and-steyn-shatter-records-and-cash-in-at-2026-comrades-marathon",
+  "publisher": "Comrades Marathon Association (CMA)",
+  "publishedAt": "2026-06-16",
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "George Kusche won the 2026 men's race in 5:15:56, breaking the previous Up Run record of 5:24:49 set by Leonid Shvetsov in 2008.",
+    "Gerda Steyn won the 2026 women's race in 5:44:53, improving her own women's Up Run record of 5:49:46 set in 2024.",
+    "The 2026 route was 85.777 km, 133 metres shorter than in 2024 and the shortest Up Run distance in recorded history.",
+    "The 2026 race was the 99th edition of the Comrades Marathon and the 50th Up Run, with 18,523 finishers.",
+    "Both 2026 winners earned R2,322,000 each, including first-place prize money, first South African bonus, Up Run record incentive and Best Average Pace bonus."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 CMA 2026 赛后官方博客，抄录 Up Run 男女纪录、85.777 km、99 届/第 50 次 Up Run、18,523 完赛人数；同日尝试官方成绩门户 results.finishtime.co.za，被机器人校验挡住，未能读取；女子 Down 5:44:54 与 Up 5:44:53 分别由 CMA Race Information 页和本赛后稿确认。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Kusche won the men’s race in 5:15:56, shattering the previous Up Run Record of 5:24:49, which was run in 2008 by Russian Leonid Shvetsov'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Steyn... 5:44:53... well inside her own race record for the women’s Up Run of 5:49:46, which she set by in 2024'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'With the route being 85.777km long, which was 133 metres shorter than in 2024 and the shortest route distance in recorded history for the Up Run'。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'the 99th edition of The Ultimate Human Race, and 50th edition of the Up Run'；'the rest of the 18,523 finishers of the 2026 race'。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'both walk away with over R2-million... took their individual winnings to R2,322,000 each'。" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-kodiak-place-geocoding",
+  "title": "Open-Meteo geocoding — Big Bear Lake, California, United States",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=Big%20Bear%20Lake&count=5&language=en&format=json&countryCode=US&admin1=California",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "Open-Meteo geocoding returns Big Bear Lake, San Bernardino County, California at latitude 34.2439, longitude -116.91142, elevation 2,058 m.",
+    "The result is a town centroid, not the Rim Nordic Ski Area start or the Village finish line."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 调用 Open-Meteo geocoding API，取 Big Bear Lake 镇中心坐标作地图锚点。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "API 返回 latitude 34.2439、longitude -116.91142、elevation 2058.0、feature_code PPL、admin2 San Bernardino" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "feature_code 为 PPL（populated place），不是赛道起终点测量点" }
+  ]
+}

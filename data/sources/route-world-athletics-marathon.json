@@ -9,5 +9,10 @@
     "The marathon is a road running event.",
     "The standard marathon distance is 42.195 kilometres."
   ],
+  "claimVerification": [
+    {"index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：“The event takes place on the road and the finishing order of the race is determined by time.”"},
+    {"index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：“a distance of 26 miles and 385 yards (42.195km)”，并写明 1921 年标准化。"}
+  ],
+  "verification": {"access": "direct", "bodyRead": true, "checkedAt": "2026-11-08", "checkedVia": "curl.exe + HTML 转文本", "note": "HTTP 200；项目定义与距离段落可读。"},
   "license": null
 }

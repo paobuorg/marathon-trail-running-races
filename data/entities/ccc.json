@@ -1,0 +1,81 @@
+{
+  "entityId": "route:ccc",
+  "slug": "ccc",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-ccc-2026",
+    "route-utmb-series-2026",
+    "route-utmb-transport",
+    "route-chamonix-openmeteo",
+    "route-ccc-results-2026",
+    "route-ccc-results-2026-xinhua",
+    "route-utmb-2026-rules",
+    "route-utmb-2026-practical",
+    "route-utmb-2026-waves",
+    "route-utmb-2026-registration",
+    "route-ccc-gpx-2026",
+    "photo-ccc-courmayeur",
+    "photo-ccc-grand-col-ferret",
+    "photo-ccc-champex"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:recovery-day",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-23",
+  "reviewedAt": "2026-11-23",
+  "reviewDueAt": "2027-05-30",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "IT",
+      "CH",
+      "FR"
+    ],
+    "placeName": {
+      "zh-CN": "意大利库尔马约尔出发，经瑞士到法国霞慕尼",
+      "en": "Courmayeur, Italy → Switzerland → Chamonix, France"
+    },
+    "mapAnchor": {
+      "longitude": 6.969,
+      "latitude": 45.7917,
+      "kind": "start",
+      "sourceRef": "route-ccc-2026"
+    },
+    "courseVersion": "2026-ccc-100k-final",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [
+      {
+        "edition": "2026",
+        "observedAt": "2026-11-19",
+        "field": "course",
+        "change": "new-course",
+        "from": "2026 原 101 km 路线",
+        "to": "雷雨改线后 108 km（UTMB Index 记 107 km / 6,200 m）",
+        "sourceRef": "route-ccc-results-2026-xinhua",
+        "note": {
+          "zh-CN": "2026 届因雷雨改线。新华体育写 101→108 km；UTMB Index 结果页写 107 km。两处官方口径并列，不取平均；本页卡片仍按计时表 107.8 km。",
+          "en": "The 2026 edition was rerouted in thunderstorms. Xinhua reports 101→108 km; the UTMB Index results page records 107 km. Both official figures are shown side by side, not averaged; the course card still uses the 107.8 km timing table."
+        }
+      }
+    ],
+    "direction": "Courmayeur → Grand Col Ferret → Chamonix",
+    "distanceMeters": 107800,
+    "distanceMethod": "Official 2026 timing table: 107.8 km. The same page header states 108 km. This card uses the table total; both official figures are shown side by side and neither is averaged.",
+    "elevationGainMeters": 6198,
+    "elevationMethod": "Official 2026 timing table: +6,198 m / −6,382 m. The same page header states 6,200 m+. Both official figures are shown side by side; this card uses the table total.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://pdf.utmb.world/raw/upload/v1785143154/montblanc/Races/GPX/2026/CCC_2026_cd3cb129a5.gpx",
+    "attribution": "UTMB Mont-Blanc / UTMB World Series. The organiser page exposes a direct GPX (CCC 2026, 1,468,412 bytes). The file was downloaded once to a temporary directory and measured locally (9,064 points, 99.36 km planar, +6,015 / −6,199 m at a 3 m threshold, 1,035–2,556 m), then deleted. The GPX is 8.44 km shorter than the official 107.8 km timing table, so it is linked as official but not treated as the raced 2026 geometry. The file carries a LiveTrail copyright line and no redistribution licence; no track is mirrored, hosted or redrawn. Photographs: Via Roma, Courmayeur, by Florian Pépellin (CC BY-SA 4.0, 2024-06-16); Grand Col Ferret and Lac de Champex by Rémih (CC BY-SA 4.0, 2023-06-28 / 2023-06-29); all three are Wikimedia Commons location photographs, not race-day images. The ten-checkpoint order diagram and ten-point elevation profile are self-made editorial SVGs; they copy no official map or GPX geometry."
+  }
+}

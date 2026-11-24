@@ -1,0 +1,26 @@
+{
+  "sourceId": "photo-mds-2004-salt-flat",
+  "title": "File:Running the Marathon des Sable.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Running_the_Marathon_des_Sable.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2004-05-05",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The file shows a runner crossing an open, flat desert surface during the Marathon des Sables.",
+    "The author is Ben Hammersley, credited through Flickr.",
+    "The file is released under CC BY 2.0 and requires attribution."
+  ],
+  "license": "CC-BY-2.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "PowerShell Invoke-WebRequest + local 7890 proxy; Commons action=query imageinfo and w/thumb.php",
+    "note": "2026-11-20 经代理读取 Commons 文件页、imageinfo API 与 1400 px 缩略图，逐项核对作者、许可、日期、画面。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "画面为一名背负装备的跑者在开阔平坦的荒漠地表上行进，文件描述为 Marathon des Sables。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "Commons Artist 字段为 Ben Hammersley，Credit 指向 Flickr 原图。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "Commons LicenseShortName 为 CC BY 2.0，LicenseUrl 指向 creativecommons.org/licenses/by/2.0。" }
+  ]
+}

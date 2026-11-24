@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-gaoligong-tengchong-dawn",
+  "title": "File:乱云飞渡-高原的朝霞 dawn, Tengchong - panoramio.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:%E4%B9%B1%E4%BA%91%E9%A3%9E%E6%B8%A1-%E9%AB%98%E5%8E%9F%E7%9A%84%E6%9C%9D%E9%9C%9E_dawn%2C_Tengchong_-_panoramio.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2010-09-18",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "A dawn view over Tengchong town: dark tiled roofs and low buildings in the foreground, the edge of the urban area and wooded hills under a grey-pink sky; no lake, park gate, start arch or runners are visible. It is a location photograph, not a 2026 race-day photograph, and it does not show a start arch, finish gantry, bib, timing mat, aid table, course marking or race crowd.",
+    "Commons titles the file 乱云飞渡-高原的朝霞 dawn, Tengchong - panoramio.jpg. The route page uses it as Tengchong town context near the Yanhu Park start of MGU; it does not show Yanhu Park, the start line or race-day conditions.",
+    "The Commons author field reads wanghongliu; the file is marked CC-BY-SA-3.0 (https://creativecommons.org/licenses/by-sa/3.0/); the relevant date is 2010-09-18 (Commons upload date); the file page gives a camera or subject position of 25.038086 N, 98.488108 E; the original is 3,532 × 1,921 px; 1,019,035 bytes.",
+    "The route page uses a 960 × 522 px; 89,086 bytes copy without cropping or colour change and credits wanghongliu, CC-BY-SA-3.0 (https://creativecommons.org/licenses/by-sa/3.0/), Wikimedia Commons; the resized copy keeps the same licence."
+  ],
+  "license": "CC-BY-SA-3.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons API metadata plus downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons API 与文件页核对作者、许可、日期、原图尺寸和（如有）坐标，并下载 960 px 副本目视确认：A dawn view over Tengchong town: dark tiled roofs and low buildings in the foreground, the edge of the urban area and wooded hills under a grey-pink sky; no lake, park gate, start arch or runners are visible. 不是赛日现场，也不是赛道测绘照片。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地 960 px 副本可见：A dawn view over Tengchong town: dark tiled roofs and low buildings in the foreground, the edge of the urban area and wooded hills under a grey-pink sky; no lake, park gate, start arch or runners are visible. 画面中没有号码布、拱门、计时毯、补给桌、赛道旗标或赛日人群。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons 标题为 乱云飞渡-高原的朝霞 dawn, Tengchong - panoramio.jpg；文件描述与分类支持这一地点用途；正文只把它当环境照，不当赛道证据。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "文件页记录：作者 wanghongliu；许可 CC-BY-SA-3.0 (https://creativecommons.org/licenses/by-sa/3.0/)；日期 2010-09-18 (Commons upload date); the file page gives a camera or subject position of 25.038086 N, 98.488108 E；原图 3,532 × 1,921 px; 1,019,035 bytes。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 × 522 px; 89,086 bytes；未裁剪、未改色；页面署名 wanghongliu、CC-BY-SA-3.0、Wikimedia Commons。"
+    }
+  ]
+}

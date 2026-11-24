@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-paraty-2027-access",
+  "title": "Paraty Brazil by UTMB 2027 — How to get there (official)",
+  "url": "https://paraty.utmb.world/discover/access",
+  "publisher": "Paraty Brazil by UTMB / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "Paraty is about four hours by car from both São Paulo International Airport (GRU) and Rio de Janeiro International Airport (GIG).",
+    "The official page gives 269 km from São Paulo to Paraty and 263 km from Rio de Janeiro to Paraty, each with a drive time of about four hours.",
+    "The official page lists bus, rental car and private transfer as the ways to reach Paraty, and says the roads are well maintained.",
+    "The official page publishes an event arena map link and a parking-lot map link."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch 读取 https://paraty.utmb.world/discover/access 全文",
+    "note": "2026-11-19 直接读取官方 access 页；页面只有交通方式、机场距离/车程与停车信息，没有逐日班车时刻，正文不补写时刻。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "原文：'Paraty is located about 4 hours by car from two major international airports: São Paulo International Airport (GRU) and Rio de Janeiro International Airport (GIG).'"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "原文 Distances and Time：'From São Paulo to Paraty: The distance is 269 km, and the drive takes about 4 hours.'；'From Rio de Janeiro to Paraty: The distance is 263 km, with a similar drive time of around 4 hours.'"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "原文：'To get to Paraty, you have several options: take a bus, rent a car, or hire a private transfer. The roads are well-maintained and safe...'"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "原文 Event Arena 与 Parking lot 两段各有一个地图链接。"
+    }
+  ]
+}

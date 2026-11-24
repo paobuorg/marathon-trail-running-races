@@ -1,0 +1,36 @@
+{
+  "sourceId": "route-patagonia-2026-guide-100mi",
+  "title": "Guía del Participante de 100Mi Patagonia Run 2026 — official participant guide",
+  "url": "https://pr26.b-cdn.net/pdf/PR2026-100MI-V1-ES-2.pdf",
+  "publisher": "Patagonia Run",
+  "publishedAt": null,
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "The official 2026 100Mi Participant Guide is a 24-page PDF titled 'Guía del Participante de 100Mi Patagonia Run 2026'; it gives 160.3 km, +9,221 m, an approximate maximum altitude of 1,959 m, three summits, a 42-hour limit and a finish closing at 08:00 on Sunday 12 April 2026.",
+    "The guide's PAS table lists 20 rows with distance from the start and cumulative D+: Vallescondido 1 5.3 km/363 m, Galpón 13.1/1,037, Las Pendientes 22.4/1,888, Maderero 36/2,870, Vallescondido 2 48.3/3,353, Gimnasio 52.5/3,406, PAEX 1 52.5, Rosales 61/3,964, Portezuelo 67.9/4,607, Colorado 1 78.2/5,186, Mallín 88.5/5,864, Quechuquina 104.7/6,392, Nonthue 111.1/6,667, PAEX 2 111.1/6,667, Lago 121.8/6,941, Cohíue 130/7,791, Colorado 2 142.4/8,558, Bayos 151/8,730, Ruta 48 152.8 and finish 160.3/9,221.",
+    "The 2026 guide gives eight intermediate cut-offs plus the finish: Gimnasio/PAEX 1 at 02:00 Saturday, Quechuquina at 20:00 Saturday, Nonthue/PAEX 2 at 21:00 Saturday, Lago at 23:15 Saturday, Cohíue at 02:00 Sunday, Colorado 2 at 05:00 Sunday, Bayos at 06:00 Sunday, Ruta 48 at 06:30 Sunday and the finish at 08:00 Sunday; these are clock times, not elapsed race times.",
+    "The guide lists three PAS Total - Gimnasio, Colorado and Nonthue - and two PAEx at km 52.5 and km 111.1.",
+    "Mandatory kit in the 2026 guide includes two headlamps of at least 200 lumens each with batteries for 30 hours, an emergency whistle, a survival blanket, at least 1.5 litres of water capacity, a personal cup, a ziplock bag for rubbish and warm clothing; disposable cups are not provided.",
+    "The guide states that GPS tracks are not shared and that private or restricted land is authorised only for and during the event.",
+    "The 2026 race starts on Friday 10 April at 14:00 from RCM4; the finish closes at Plaza San Martín at 08:00 on Sunday 12 April and the awards are at 11:00.",
+    "The guide includes a full 2026 elevation profile and partial profiles by PAS, but no route map or GPS track."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "checkedVia": "Official PDF, full 24-page text and profile images",
+    "note": "2026-11-22 直接读取 24 页 PDF。所有逐站距离、累计 D+、8 个中途关门与终点 08:00 均属 2026 届；2027 页明确赛道基于 2026 届、可能修改，因此只作 2026 基线，不写成 2027 已确认表。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-22", "note": "首页与 General Description：160,3 km / D+ 9.221 m / Altura máxima aproximada 1.959 msnm / 3 cumbres / 42 h / cierre 08:00 domingo 12。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-22", "note": "Puestos de Asistencia 表逐行；距离标注为 redondeadas。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-22", "note": "PAS 表 Horario de Corte 列：Gimnasio/PAEX1 02:00 sáb、Quechuquina 20:00 sáb、Nonthue/PAEX2 21:00 sáb、Lago 23:15 sáb、Cohíue 02:00 dom、Colorado2 05:00 dom、Bayos 06:00 dom、Ruta48 06:30 dom、Meta 08:00 dom；脚注说明为 hora reloj。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-22", "note": "Puestos de Asistencia Total 段列 Gimnasio、Colorado、Nonthue；General Description 与表列 PAEX1 52.5、PAEX2 111.1。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-22", "note": "Elementos Obligatorios：2 linternas 200 lúmenes、baterías 30 h、silbato、manta、1.500 cm³、taza personal、Ziploc、ropa de abrigo；正文明确不提供 vasos desechables。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-22", "note": "Información del Recorrido 与 Altimetría 页脚：no se compartirán tracks GPS；private/restricted access only during event。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-22", "note": "Largada 段：viernes 10 - 14:00h - RCM4；Meta 段：cierre 08:00 domingo 12、Plaza San Martín；Premiación 11:00。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-22", "note": "Altimetría 与 Altimetrías Parciales 多张图；全文没有 route map 或 GPX 附件。" }
+  ]
+}

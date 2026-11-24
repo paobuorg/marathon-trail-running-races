@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-miut-2026-report",
+  "title": "MIUT 2026 Results: Esmiol and Hartmuth Rule Madeira",
+  "url": "https://trailsight.app/en/news/2026-miut-results-esmiol-hartmuth-madeira",
+  "publisher": "TrailSight",
+  "publishedAt": "2026-04-27",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2026 MIUT was the 17th edition, held on 25–26 April 2026, with about 3,500 runners from more than 60 countries and 700 volunteers.",
+    "Vincent Esmiol won the 2026 Legend in 12:48:03, with Gautier Airiau second in 12:56:52 and Tyler Green third in 13:02:10.",
+    "Katharina Hartmuth won the women's 2026 Legend in 14:54:53, with Helen Mino Faukner second in 15:50:00 and Jazmine Lowther third in 15:54:22.",
+    "The 2026 course had 7,165 m of positive gain and was about 8 km shorter than the 2025 course after the 2024 wildfires.",
+    "Conditions in 2026 were about 16°C overnight and low 20s°C by day, with alternating drizzle and sun on the high ridges."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 直读 TrailSight 赛后报道；Hartmuth 时间与官方成绩页差 6 秒，正文采用官方并保留差异。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "开篇：17th edition、April 25–26 2026、3,500 runners、60 nations、700 volunteers" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "Legend 段：Esmiol 12h48:03；Airiau 12h56:52；Green 13h02:10" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "女子段：Hartmuth 14h54:53；Faukner 15h50:00；Lowther 15h54:22" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "开篇与 Legend 段：7,165 m；'about eight kilometres shorter than 2025' 与火灾后恢复" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "Conditions 段：around 16°C overnight、low 20s by day、drizzle and sun" }
+  ]
+}

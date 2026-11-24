@@ -1,0 +1,31 @@
+{
+  "sourceId": "route-sierre-zinal-history",
+  "title": "Sierre-Zinal — history",
+  "url": "https://www.sierre-zinal.com/en/history-71.html",
+  "publisher": "Sierre-Zinal Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The official history page records that the race was imagined by Jean-Claude Pont, a doctor of mathematics, professor of history and philosophy of science and certified Swiss mountain guide.",
+    "The same page states that the race would be named, not just Sierre-Zinal, but the 'Race of the Five 4000 m Peaks'.",
+    "The same page names the 'Imperial Crown' as the Weisshorn (4,404 m), Zinalrothorn (4,221 m), Obergabelhorn (4,063 m), Matterhorn (4,478 m) and Dent Blanche (4,357 m).",
+    "The same page describes the Tourist category as unique to Sierre-Zinal: it was designed for runners whose sole aim is to get together and test themselves, and it receives a certificate with the final time but no ranking.",
+    "The same page summarises that philosophy as 'the heart before the watch'.",
+    "The same page refers to Pont's book 'Courir dans une Cathédrale', devoted to the first forty years of the race."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官网英文历史页全文。页面把 Weisshorn 写作 4,404 m；本页只采用五个山峰名称与官方叙述，不把这座山的高度当作已核数值使用。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'Jean-Claude Pont, Dr. of Mathematics, Professor of \"History and Philosophy of Science\" ... and a certified Swiss mountain guide'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'The race would be named, not just Sierre-Zinal, but the \"Race of the Five 4000 m Peaks\"!'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'the \"Imperial Crown\" composed of the Weisshorn (4.404 m), the Zinalrothorn(4.221m), the Obergabelhorn (4.063m), the Matterhorn (4.478m) and the Dent Blanche (4.357m)'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'a new \"Tourist\" category was created - unique to Sierre-Zinal'；'receive a certificate with their final running time but with no ranking'。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "'the philosophy of \"the heart before the watch\" wins!'" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "'\"Courir dans une Cathédrale\", dedicated to the story of the first forty years of the race'。" }
+  ]
+}

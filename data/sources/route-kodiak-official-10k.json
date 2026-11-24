@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-kodiak-official-10k",
+  "title": "Kodiak 10K — HOKA Kodiak Ultra Marathons by UTMB 2026",
+  "url": "https://kodiak.utmb.world/races/10K",
+  "publisher": "UTMB World Series / HOKA Kodiak Ultra Marathons by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The 10K is 9.4 KM with 342 m of gain, starts at The Village of Big Bear Lake on Saturday 10 October 2026 at 12:00 and has a 3-hour limit; it carries no Running Stones.",
+    "The page says the 2026 routes are final and offers a final 2026 GPX file."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取并读取 2026 10K 赛事页。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页头：9.4 KM、342 M+、Saturday 10th October 2026、The Village of Big Bear Lake - 12:00、03 Hours；页头无 Running Stones 字段" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "GPX 与补给表段均写 '2026 ROUTES ARE NOW FINAL'" }
+  ]
+}

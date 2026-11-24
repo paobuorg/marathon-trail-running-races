@@ -21,8 +21,119 @@
     "Maggie is at mile 86.5, 11,838 ft, +1,615/-1,021 ft, 4WD access, no bathroom, no drop bags, no crewing and a pacer exchange on foot only, with no published cut-off.",
     "Cunningham is at mile 92.5, 10,378 ft, +1,700/-3,160 ft, with a bathroom, auto access, drop bags, crew access and a cut-off of Sunday 02:00.",
     "Silverton is at mile 101.8, 9,308 ft, +2,770/-3,840 ft, with a bathroom, auto access, drop bags, crew access and a cut-off of Sunday 06:00.",
-    "The 14 segment climbs sum to 33,440 feet and the 14 segment descents sum to 33,440 feet.",
+    "The 14 segment climbs sum to 33,441 feet and the 14 segment descents sum to 33,441 feet, matching the official total.",
     "Cut-offs are published at KT, Chapman, Telluride, Ouray, Grouse Gulch, Sherman, Cunningham and Silverton; the other rows say 'None'."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "官方页面直读",
+    "note": "2026 顺时针援助站表可读"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表头 Hardrock Aid Stations - Clockwise Direction；表脚 Times in military time, MDT"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表第 3 行 KT：11.5 / 11.5 / 4069 / -2749 / Fri 1245 / 10628' / 4WD / No"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表第 4 行 Chapman：18.1 / 2450 / -2920 / Fri 1600 / 10158' / Auto 4WD / Y / Hike In Only"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表第 5 行 Telluride：27.8 / 3090 / -4500 / Fri 2000 / 8748' / Y / Auto / Y / Yes"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表第 6 行 Kroger's：32.7 / 4390 / -40 / None / 13098' / Hike / No"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表第 7 行 Governor：36.3 / 0 / -2425 / None / 10673' / Auto / No"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表第 8 行 Ouray：43.9 / 48 / -3043 / Sat 0315 / 7678' / Y / Auto / Y / Yes"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表第 9 行 Engineer：51.9 / 4575 / -455 / None / 11798' / Hike / No"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表第 10 行 Grouse Gulch：58.2 / 1220 / -2259 / Sat 1030 / 10729' / Y / 4WD / Y / Yes"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表第 11 行 Burrows：67.8 / 4432 / -4603 / None / 10588' / Y / Auto / No"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表第 12 行 Sherman：72.0 / 0 / -950 / Sat 1600 / 9638' / Y / Auto 4WD / Y / Yes"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表第 13 行 Pole Creek：81.5 / 3082 / -1476 / None / 11244' / Hike / No"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表第 14 行 Maggie：86.5 / 1615 / -1021 / None / 11838' / 4WD / No Crew Hike-In Pacer Exchange"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表第 15 行 Cunningham：92.5 / 1700 / -3160 / Sun 0200 / 10378' / Y / Auto / Y / Yes"
+    },
+    {
+      "index": 14,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表第 16 行 Silverton：101.8 / 2770 / -3840 / Sun 0600 / 9308' / Y / Auto / Y / Yes"
+    },
+    {
+      "index": 15,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表第 3-16 行 Climb 与 Descent 列逐行相加：爬升 33,441、下降 33,441，与官方总数一致；此前写的 33,440／差 1 ft 经重算不成立，已改"
+    },
+    {
+      "index": 16,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表第 3-16 行 Cut Off 列：8 行有日期时间，6 行显示 None"
+    }
+  ]
 }

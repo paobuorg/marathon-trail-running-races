@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-vmm-topas-terraces",
+  "title": "File:Sapa view 3.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Sapa_view_3.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2010-08-31",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "The photograph looks down over steep, closely spaced rice terraces near Sa Pa, with two small farm buildings, footpaths and wooded gullies between the fields; the file's Flickr source and EXIF title identify the location as Topas Ecolodge, but the frame does not show the lodge buildings, the finish gantry or any race furniture.",
+    "Commons titles the file Sapa view 3.jpg; the description reads 'Sa Pa, Vietnam' and the source line reads Flickr: Topas Ecolodge; the route page uses it as terraced-landscape context near the Topas Ecolodge finish, not as proof of the finish line, the final descent or race-day conditions.",
+    "The author is David McKelvey; the file is licensed CC BY 2.0; the photograph was taken on 2010-08-31 at 18:01:24; the original is 3,216 x 1,809 pixels and 2.42 MB; the file page gives no camera coordinates.",
+    "The route page uses a 960 x 540 copy of 248,916 bytes without cropping or colour change and credits David McKelvey, CC BY 2.0, Wikimedia Commons; the resized copy keeps the same licence."
+  ],
+  "license": "CC-BY-2.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons file page and downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons 文件页核对作者、许可、日期与原图尺寸，并下载 960 px 副本目视确认：画面是 Topas Ecolodge 一带的梯田山坡，不是终点拱门或赛日现场。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地副本可见密集梯田、两座小农舍、田间小路和林间沟谷；没有旅馆建筑、终点拱门、计时设备、补给桌或人群。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "文件页 Description 为 Sa Pa, Vietnam；Source 为 Flickr: Topas Ecolodge；EXIF Image title 为 Topas Ecolodge, North West Vietnam。正文只把它当 Topas 终点附近的梯田环境。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "文件页：Author David McKelvey；License CC BY 2.0；Date 2010-08-31 18:01:24；Original 3,216 x 1,809、2.42 MB；Metadata 未给 GPS。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 x 540、248,916 字节；未裁剪、未改色；页面署名 David McKelvey、CC BY 2.0、Wikimedia Commons。"
+    }
+  ]
+}

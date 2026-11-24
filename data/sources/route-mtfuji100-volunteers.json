@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-mtfuji100-volunteers",
+  "title": "Mt.FUJI 100 — VOLUNTEERS (2026 tournament information)",
+  "url": "https://www.mtfuji100.com/volunteers/",
+  "publisher": "Mt.FUJI100 Executive Committee",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The volunteer page states that its information is for the 2026 tournament and asks readers to wait for updates.",
+    "From the 2026 tournament, LINE groups are used by activity for ordinary and emergency communication just before and during the race, and people without their own LINE account cannot apply.",
+    "Volunteer shifts are 8 to 10 hours depending on the area and activity, and volunteers may be asked to extend their time depending on the weather on the day.",
+    "Some aid stations cannot be reached by public transport and must be reached by car or motorbike: F1 Fujinomiya, F2 Fumoto, F3 Shojiko, F5 Oshino, F7 Nijumagari and F8 Fujiyoshida.",
+    "Volunteers travelling to Fuji Hokuroku Park by public transport can use the event loop bus from Fujisan Station or the Fujikyu Highland express bus stop, and a shuttle bus runs from the parking lots.",
+    "The volunteer programme includes interpretation roles, mainly English and Chinese; if there are not enough volunteer interpreters, athletes generally contact the interpreter at headquarters or volunteers handle the situation with an interpreter app.",
+    "Volunteer recruitment in 2026 ran in two rounds: first-round results were sent on 19 January, second-round recruitment ran from 2 to 13 February with results on 27 February, and manuals were distributed through activity-specific LINE groups on 20 April.",
+    "Volunteer tasks include receiving, sorting and returning baggage and drop bags at the Fuji Hokuroku Park gymnasium, including returning drop bags to runners who withdrew from midnight and to finishers afterwards."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取日文志愿者页与英文页；日文页开头写明 '2026年大会の情報です'；英文页为机器翻译，个别班次时间错位，正文只取两页一致的事实"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "日文页首行：'2026年大会の情報です。更新までしばらくお待ちください。'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "重要事項第 1 条：'2026大会から…LINEグループを利用します。ご自身のLINEアカウントをお持ちでない方は…応募ができません'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "重要事項：'活動時間は8〜10時間を予定'；'当日の天候により活動時間が変更となる場合…延長をお願いすることがあります'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "英文页：'Aid stations that cannot be accessed by public transport and must be reached by car or motorbike: F1…F2…F3…F5/K1…F7/K3…F8/K4/A1…'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "重要事項：公共交通利用者は 2026 大会循環バス；駐車場シャトルバスの案内链接" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "英文页 'Interpretation (mainly English and Chinese)' 段与末句 'if there are not enough volunteer interpreters…'" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "日文页 1 次/2 次募集日程：1/19、1/28、1/29；2/2-2/13、2/27、3/7、3/8；4/20 マニュアル配信" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "手荷物・ドロップバッグ 存取段：富士北麓公園体育館，0 時起向退赛者返还，之后向完赛者返还" }
+  ]
+}

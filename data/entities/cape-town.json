@@ -30,9 +30,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-11-06",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-11-06",
+  "updatedAt": "2026-11-08",
+  "reviewedAt": "2026-11-08",
+  "reviewDueAt": "2027-02-22",
   "details": {
     "raceType": "road-marathon",
     "countryCodes": [
@@ -49,6 +49,9 @@
       "sourceRef": "route-anchor-editorial"
     },
     "courseVersion": "2026-cape-town-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [],
     "direction": "Two start areas (Fritz Sonnenberg Rd and Beach Rd) on a city circuit, finishing on Vlei Road, Green Point",
     "distanceMeters": 42200,
     "distanceMethod": "Official 2026 Sanlam Cape Town Marathon FAQ and route profile give 42.2 km; the route profile labels the course 42.2 km from DHL Stadium to DHL Stadium.",

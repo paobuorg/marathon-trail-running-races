@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-gaoligong-range",
+  "title": "File:Gaoligongshan IMGP5778.jpeg",
+  "url": "https://commons.wikimedia.org/wiki/File:Gaoligongshan_IMGP5778.jpeg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": null,
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "A Gaoligong mountain ridge seen through broken cloud: steep forested slopes, a pale road cut on the left flank, scrub in the foreground and cloud wrapping the higher ground; the exact section is not recorded by Commons. It is a location photograph, not a 2026 race-day photograph, and it does not show a start arch, finish gantry, bib, timing mat, aid table, course marking or race crowd.",
+    "Commons titles the file Gaoligongshan IMGP5778.jpeg. The route page uses it as Gaoligong mountain context for the MGU 168; because the exact section is unknown, it is not presented as the 2026 course, a checkpoint or a race-day view.",
+    "The Commons author field reads Knautzen; the file is marked CC-BY-2.0-DE (https://creativecommons.org/licenses/by/2.0/de/); the relevant date is 2006-10 (month only in the Commons date field); the file page gives no camera coordinates; the original is 1,024 × 768 px; 472,137 bytes.",
+    "The route page uses a 960 × 720 px; 155,199 bytes copy without cropping or colour change and credits Knautzen, CC-BY-2.0-DE (https://creativecommons.org/licenses/by/2.0/de/), Wikimedia Commons; the resized copy keeps the same licence."
+  ],
+  "license": "CC-BY-2.0-DE",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons API metadata plus downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons API 与文件页核对作者、许可、日期、原图尺寸和（如有）坐标，并下载 960 px 副本目视确认：A Gaoligong mountain ridge seen through broken cloud: steep forested slopes, a pale road cut on the left flank, scrub in the foreground and cloud wrapping the higher ground; the exact section is not recorded by Commons. 不是赛日现场，也不是赛道测绘照片。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地 960 px 副本可见：A Gaoligong mountain ridge seen through broken cloud: steep forested slopes, a pale road cut on the left flank, scrub in the foreground and cloud wrapping the higher ground; the exact section is not recorded by Commons. 画面中没有号码布、拱门、计时毯、补给桌、赛道旗标或赛日人群。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons 标题为 Gaoligongshan IMGP5778.jpeg；文件描述与分类支持这一地点用途；正文只把它当环境照，不当赛道证据。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "文件页记录：作者 Knautzen；许可 CC-BY-2.0-DE (https://creativecommons.org/licenses/by/2.0/de/)；日期 2006-10 (month only in the Commons date field); the file page gives no camera coordinates；原图 1,024 × 768 px; 472,137 bytes。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 × 720 px; 155,199 bytes；未裁剪、未改色；页面署名 Knautzen、CC-BY-2.0-DE、Wikimedia Commons。"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-sierre-zinal-wa-2023",
+  "title": "Strong fields head to Switzerland as Sierre-Zinal celebrates 50th edition",
+  "url": "https://worldathletics.org/news/preview/sierre-zinal-50th-edition-2023",
+  "publisher": "World Athletics",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "World Athletics describes the 2023 running as the 50th edition of Sierre-Zinal.",
+    "The same preview states that the final 7 km is downhill and that the finish is at 1,680 m.",
+    "The same preview states that both course records fell in 2019, with Kilian Jornet clocking 2:25:35 and Maude Mathys 2:49:20, and that Mathys later lowered the women's mark to 2:46:03."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取世界田联 2023 赛前稿。该稿写于 2024 年之前，故男子纪录仍写 2:25:35；官网现纪录页已更新为 2024 年 Jornet 2:25:34。女子 2:46:03 与官网纪录页的 2:49:20 冲突，官网冠军表脚注说明 2020 与 2021 届成绩不作官方承认。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'as Sierre-Zinal celebrates 50th edition'；'the 50th edition of Sierre-Zinal'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'Then the final 7km is downhill, culminating in a frantic sprint through Zinal to the finish line at 1680m.'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'Kilian Jornet clocking 2:25:35 and Maude Mathys 2:49:20, and Mathys has since lowered the women's mark again to 2:46:03'" }
+  ]
+}

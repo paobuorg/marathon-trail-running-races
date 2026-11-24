@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-sierre-zinal-rules-conduct",
+  "title": "Sierre-Zinal rules — rights and obligations of participants (art. 14–22)",
+  "url": "https://www.sierre-zinal.com/en/rights-obligations-participants-14-22-350.html",
+  "publisher": "Sierre-Zinal Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The rules state that there is no apparel requirement, that part of the course is above 2,000 m and that runners are advised to adapt their clothing to the conditions.",
+    "The rules note that Tourist runners may find a flashlight or headlamp useful because their race starts at night, and that the organiser does not provide a lamp deposit.",
+    "The rules prohibit poles on all courses and prohibit headphones.",
+    "The rules set minimum ages of 10 for the Tourist category and 18 for the Runner category, with no maximum age, and 10–17 for the junior race.",
+    "The rules publish absolute cut-off times: Chandolin 10:40:59 for Tourist and 14:10:59 for Runner, Tignousa 12:00:59 and 14:40:59, Hôtel Weisshorn 13:30:59 and 15:20:59, finish 17:30:59.",
+    "The rules list refreshment points at Beauregard km 4, Ponchette km 7.5, Chandolin km 12, Tignousa km 16, Hôtel Weisshorn km 20, Nava km 24 (water only) and Barneuza km 27.",
+    "The rules give Tourist starts between 04:45 and 06:15 and Runner starts at 10:30 for women and between 11:00 and 11:20 for the mixed field.",
+    "The rules allow runners to take shortcuts on the final descent between two points of the marked route."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官网英文规则 Art. 14–22。关门时刻为绝对时刻而非累计用时；本页在正文中按绝对时刻理解，不换算成用时。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'There is no apparel requirement'；'part of the course is above 2,000 m'；'advised to adapt their clothing'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'Tourist' race starts at night；'flashlight or headlamp may be useful'；'does not provide a lamp deposit'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'Poles are prohibited on all courses'；'Headphones are prohibited'。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'Tourist' from 10；'Runner' from 18；'no maximum age'；Junior 10–17。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "Chandolin 10h40'59 Tourist / 14h10'59 Runner；Tignousa 12h00'59 / 14h40'59；Hôtel Weisshorn 13h30'59 / 15h20'59；finish 17h30'59。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "Beauregard km 4；Ponchette km 7.5；Chandolin km 12；Tignousa km 16；Hôtel Weisshorn km 20；Nava km 24 (water only)；Barneuza km 27。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "Tourist 04:45–06:15；Runner women 10:30；Runner mixed 11:00–11:20。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "'Runners may take shortcuts on the final descent between two points of the marked route.'" }
+  ]
+}

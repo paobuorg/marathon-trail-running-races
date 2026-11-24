@@ -16,5 +16,68 @@
     "Among marathon finishers, 2,070 (5.6%) finished under 3 hours, 9,951 (26.7%) under 4 hours, 11,389 (30.6%) under 5 hours, 8,858 (23.8%) under 6 hours and 4,967 (13.3%) under 7 hours, excluding the wheelchair marathon.",
     "The marathon gender ratio was 73.78% men, 26.11% women and 0.11% non-binary."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 https://www.marathon.tokyo/en/about/past/2026/ → .agent/tokyo35/results.html",
+    "note": "官方 Past Race 2026 页正文可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Participants Marathon 38,472；Finishers 37,268；96.9%"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Total Participants 38,773（10.7km 301）；Total Finishers 37,567（10.7km 299）"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "10.7km 完走率 99.3%"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Marathon Men TADESE TAKELE / Ethiopia / 2:03:37"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Marathon Women BRIGID KOSGEI / Kenya / 2:14:29 / NCR"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Men's Wheelchair MARCEL HUG / Switzerland / 1:21:09"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Women's Wheelchair CATHERINE DEBRUNNER / Switzerland / 1:37:15"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面按 Less than 3/4/5/6/7 hours 列 2,070(5.6%)/9,951(26.7%)/11,389(30.6%)/8,858(23.8%)/4,967(13.3%)；百分比相加为100%，应为时段分档而非累计"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Gender ratio Men 73.78% / Women 26.11% / Non-binary 0.11%"
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "sourceId": "route-tokyo-traffic",
-  "title": "交通規制のお知らせ – 東京マラソン2026（2026-11-07 复核：原页已跳转官网首页，不可再访问）",
+  "title": "交通規制のお知らせ – 東京マラソン2026（checked 2026-11-07: the original page now redirects to the event homepage and is no longer accessible）",
   "url": "https://www.marathon.tokyo/about/traffic/",
   "publisher": "Tokyo Marathon Foundation",
   "publishedAt": null,
@@ -14,5 +14,56 @@
     "Ward-by-ward traffic-control maps were updated on 13 January 2026.",
     "The site provides a separate page for shuttle buses serving the Akihabara and Ueno areas."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch 工具抓取 https://www.marathon.tokyo/about/traffic/（桌面 UA）；本机直连该 URL 落点为官网首页，工具抓取返回完整交通规制页",
+    "note": "2026-11-08 重试成功：本机直接请求仍会跳到官网首页，改用工具抓取（桌面 UA）拿到完整日文交通规制页，7 条 claim 均可读。页面为 2026 届（区级 PDF 更新日 2026-01-13），不作为 2027 承诺。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面「ご案内」原文：コース及びコース直近の道路は、長時間にわたり車両の通行が禁止されます。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面原文：歩行者、自転車、電動キックボード等のコース横断も規制されます。歩行者は、歩道橋、地下鉄出入口等をご利用ください。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面原文：う回ルートにつきましては、現場の警察官・係員の指示に従ってください。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面原文：首都高速道路（一部出入口規制あり）。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面原文：航空法に基づき、許可等を得ずにコース及び会場周辺で無人航空機（ドローン）を飛行させることはできません。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面原文：区ごとの交通規制のご案内（PDF）…（更新日：2026年1月13日）。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面链接「秋葉原・上野エリア／シャトルバスについて」指向 /about/traffic/shuttlebus/。"
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "sourceId": "route-berlin-race-day-2026",
-  "title": "Race day for runners – GENERALI BERLIN-MARATHON 2026",
-  "url": "https://www.generali-berlin-marathon.com/en/race-weekend/race-day-for-participants",
+  "title": "BMW BERLIN-MARATHON 2026 Race Briefing (EN)",
+  "url": "https://www.bmw-berlin-marathon.com/fileadmin/media/events/berlinmarathon/PDFs/race-briefing/BM-26_Race_Briefing_EN.pdf",
   "publisher": "SCC Events",
   "publishedAt": null,
   "accessedAt": "2026-11-07",
@@ -10,7 +10,7 @@
     "The start is on Straße des 17. Juni, between the Brandenburg Gate and the 'Kleiner Stern'.",
     "Start times are 8:20 am for top handbikers, 8:26 am for elite wheelchair athletes, 8:29 am for handbike and wheelchair athletes, and runners start from 8:45 am in six waves.",
     "The race takes place regardless of the weather unless a weather warning from the German Weather Service exists; schedule and course are subject to change.",
-    "The bib number is valid from 24 to 27 September 2026 as a ticket in fare zones A, B and C.",
+    "The bib number is valid as a ticket in fare zones A, B and C from midnight on 24 September to 3 am on 28 September 2026.",
     "Public transport stops near the start and finish are U-Bahn Unter den Linden, Brandenburger Tor, Bundestag and Potsdamer Platz; S-Bahn Brandenburger Tor, Berlin Main Station and Potsdamer Platz; regional rail Berlin Main Station and Potsdamer Platz.",
     "The time limit is 6:15 hours and the cut-off point is at 3:40 pm at km 33.",
     "Runners who miss the cut-off or time limit must leave the course and are taken to the finish in the sweep bus; continuing at their own risk is not permitted.",
@@ -19,11 +19,128 @@
     "Runner entrances are Platz der Republik for all runners and Bremer Weg only for runners with a purple bib, a poncho symbol and no place in block K.",
     "Own refreshments must be delivered by 7:45 am to Annemarie-Renger-Str. / Otto-von-Bismarck-Allee.",
     "Entry to the start/finish area is limited to participants with an official bib number and athlete wristband.",
-    "Accessible parking is limited to vehicles with an official special permit on Altonaer Str. in the direction from Großer Stern toward Hansaplatz, with additional spaces on Fasanenstraße near Charlottenburger Tor.",
+    "Accessible parking is limited to vehicles with an official special permit on Altonaer Str. in the direction from Großer Stern toward Hansaplatz.",
     "Massage stations are set up from km 25 every 5 km, with a free massage service after the finish.",
-    "Accessible restrooms are available at all refreshment points.",
-    "The race-day page warns wheelchair athletes and handcyclists about tram tracks at km 8 and km 38.",
-    "The race-day page lists technical support and a dedicated sweep vehicle for wheelchair and handbike athletes."
+    "Toilets are provided at the end of each refreshment station.",
+    "The race briefing requires helmets for wheelchair athletes and handbikers.",
+    "Wheelchair athletes and handbikers are directed to their starting positions from 8 am."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch 读取 2026 Race Briefing PDF 全文",
+    "note": "2026 赛前简报 PDF（Status: July 2026）可读，含日期、起跑、时限、号码布交通票、起点分区入场、补给站厕所与轮式项目头盔/出发安排。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "PDF 封面与 welcome：SEPTEMBER 27, 2026；第 52 届。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "现页面仍写起点 Straße des 17. Juni，位于 Brandenburger Tor 与 Kleiner Stern 之间。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "现页面仍列 handbike 8:20、elite wheelchair 8:26、handbike/wheelchair 8:29，跑者 8:45 起六波。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文“race takes place regardless of the weather unless…German Weather Service…warning”。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "PDF：start card email 的公交票 valid from 24 September (midnight) to 28 September (3 am) in fare zone ABC；bib number serves as your ticket in fare zone ABC。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "现页面仍列 U/S/Regional 站点 Unter den Linden、Bundestag、Brandenburger Tor、Potsdamer Platz、Central Station。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "PDF Time limit：6 hours 15 minutes from crossing the starting mat；cut-off 3:40 pm at KM 33。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "现页面仍写未达关门须退出，可乘 sweep bus 到终点，不得自行继续。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "PDF：Official finish time is 5:00 pm；after that crossing the line is no longer possible。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "PDF 表：07:00 A-B-C、07:30 D-E、08:00 F-G、08:30 H-J、09:00 K。"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "现页面仍写 Platz der Republik 为全体入口；Bremer Weg 限紫色号码布、披风标志且非 K 区。"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "现仍要求 7:45 前送到 Annemarie-Renger-Str./Otto-von-Bismarck-Allee。"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "现仍写仅持号码布与参赛手环可进入起终点区域。"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2026-11-08 页面仅列 Altonaer Str. 特殊停车证车位；原 claim 的 Fasanenstraße 增补车位无支撑，已删除该半句。"
+    },
+    {
+      "index": 14,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "现仍写 25 km 起每 5 km 按摩站，终点后免费按摩。"
+    },
+    {
+      "index": 15,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "PDF REFRESHMENTS：Toilets are provided at the end of each refreshment station。"
+    },
+    {
+      "index": 16,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "PDF：Helmets are mandatory for Wheelchair athletes & Handbiker。"
+    },
+    {
+      "index": 17,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "PDF：Wheelchair athletes and handbiker will be directed to their starting positions starting at 8 am。"
+    }
+  ]
 }

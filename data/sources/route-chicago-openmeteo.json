@@ -15,5 +15,22 @@
     "The values are modelled historical data for a grid point, not measurements on the race course.",
     "Open-Meteo data are published under CC BY 4.0 and require attribution."
   ],
-  "license": "CC-BY-4.0"
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 调用Open-Meteo archive API → .agent/chicago-beijing35/chicago-openmeteo.json；另抓取许可页",
+    "note": "JSON九日序列逐值复算；中位数与极值一致；许可页确认CC BY 4.0"
+  },
+  "claimVerification": [
+    {"index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "返回9条日记录（10-04至10-12）；网格41.862915/87.64877，elevation 241 m，timezone America/Chicago"},
+    {"index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "日最高18.6至28.9°C，排序中位22.1°C"},
+    {"index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "日最低10.6至16.6°C，中位11.9°C"},
+    {"index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "10-09与10-12各0.4 mm，其余0，无日≥1 mm"},
+    {"index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "10-11：最高22.1°C、最低13.6°C、降水0.0 mm、最大风11.3 km/h"},
+    {"index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "日最大风11.3至21.8 km/h，中位14.5 km/h"},
+    {"index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "数据为再分析网格值，不是赛道实测"},
+    {"index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "Open-Meteo许可页写明API data under CC BY 4.0，需署名"}
+  ]
 }

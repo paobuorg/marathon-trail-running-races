@@ -17,5 +17,74 @@
     "Each race has a time limit set out in the NYRR Time Cutoff Policy; fluid stations and amenities may not be available after the course closes, and participants may be instructed to move to sidewalks or board the sweep bus.",
     "Participants on the sweep bus may not cross the finish line, will not receive 9+1 credit and will not be included in the results."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 prod.nyrr.org/tcs-nyc-marathon-rules-of-competition",
+    "note": "规则页全文可读，页首标注 Updated August 12, 2026"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页首：“Updated August 12, 2026”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "开头：“under the rules and regulations of World Athletics… World Para Athletics… Wheelchair Division”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course 段：“certified by USA Track & Field and/or World Athletics”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Wave/Corral 段：可 move to a slower wave，不可 faster；starting earlier may lead to disqualification。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Assistance 段：unofficial pacers、unregistered persons 不允许；非官方人员协助可能 DQ。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Fluid 段：≤1 litre，hydration belt、vest 前袋或手持；不得 backpack 或背后 bladder/container。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course 段：未完成全程 DQ；离开后只能从离开点 rejoin。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Timing 段：missing or irregular split times 会复核，可能 DQ。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Time Limit 段：按 Time Cutoff Policy；关后补给/设施可能不可用，可能被要求上人行道或 sweep bus。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Sweep Bus 段：不得穿终点、无 9+1 credit、不计入 results。"
+    }
+  ]
 }

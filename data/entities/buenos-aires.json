@@ -1,0 +1,64 @@
+{
+  "entityId": "route:buenos-aires",
+  "slug": "buenos-aires",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-buenosaires-2026",
+    "route-buenosaires-regulations-2026",
+    "route-buenosaires-course-map",
+    "route-buenosaires-results-2026",
+    "route-buenosaires-participation-2026",
+    "route-buenosaires-openmeteo",
+    "route-buenosaires-transport",
+    "route-buenosaires-city-2026",
+    "route-buenosaires-preview-2026",
+    "route-buenosaires-record-2019",
+    "photo-buenos-aires-obelisco",
+    "photo-buenos-aires-casa-rosada",
+    "photo-buenos-aires-caminito"
+  ],
+  "relatedRefs": [
+    "knowledge:heat-and-humidity",
+    "knowledge:long-run-fueling",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-19",
+  "updatedAt": "2026-11-24",
+  "reviewedAt": "2026-11-24",
+  "reviewDueAt": "2027-05-31",
+  "details": {
+    "raceType": "road-marathon",
+    "countryCodes": [
+      "AR"
+    ],
+    "placeName": {
+      "zh-CN": "阿根廷布宜诺斯艾利斯",
+      "en": "Buenos Aires, Argentina"
+    },
+    "mapAnchor": {
+      "longitude": -58.4286,
+      "latitude": -34.5758,
+      "kind": "start",
+      "sourceRef": "route-buenosaires-2026"
+    },
+    "courseVersion": "2026-buenos-aires-42k",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [],
+    "direction": "Palermo → Recoleta → Obelisco → Puerto Madero → La Boca → Palermo (loop)",
+    "distanceMeters": 42195,
+    "distanceMethod": "Official 2026 regulations: 42.195 km on an urban asphalt circuit homologated by World Athletics. No per-kilometre official split table or GPX was published; the official course map is an image still named Recorrido-42K-2024.jpg and is treated as a course-shape reference, not 2026-specific geometry. Media descriptions of the landmarks match that map, but the organiser has not confirmed that the 2026 route is metre-for-metre identical.",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": "https://www.maratondebuenosaires.com/uploads/recorridos/Recorrido-42K-2024.jpg",
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "Maratón de Buenos Aires. The official page displays a 2024 course-map image without a separate 2026 map or a GPX; the image is linked, not re-hosted."
+  }
+}

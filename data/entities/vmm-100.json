@@ -1,0 +1,70 @@
+{
+  "entityId": "route:vmm-100",
+  "slug": "vmm-100",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-vmm-official-100km",
+    "route-vmm-official-100km-legacy",
+    "route-vmm-official-100km-vi",
+    "route-vmm-official-home",
+    "route-vmm-official-home-vi",
+    "route-vmm-official-home-legacy",
+    "route-vmm-official-100-miles",
+    "route-vmm-official-faq",
+    "route-vmm-official-rules",
+    "route-vmm-wtm",
+    "route-vmm-results-2026",
+    "route-vmm-2026-report",
+    "route-vmm-2026-map",
+    "route-vmm-2026-profile",
+    "photo-vmm-sapa-lake",
+    "photo-vmm-muong-hoa-terraces",
+    "photo-vmm-topas-terraces"
+  ],
+  "relatedRefs": [
+    "route:chiang-dao-160",
+    "route:elephant-100",
+    "knowledge:heat-and-humidity",
+    "knowledge:long-run-fueling",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-24",
+  "reviewedAt": "2026-11-24",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "VN"
+    ],
+    "placeName": {
+      "zh-CN": "越南老街省沙坝（Sa Pa），黄连山山脉，终点 Topas Ecolodge",
+      "en": "Sa Pa, Lao Cai Province, Vietnam — Hoang Lien Son mountains, finishing at Topas Ecolodge"
+    },
+    "mapAnchor": {
+      "longitude": 103.8418272,
+      "latitude": 22.3356028,
+      "kind": "start",
+      "sourceRef": "route-vmm-official-100km-vi"
+    },
+    "courseVersion": "2026-vmm-100km",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [],
+    "direction": "Point-to-point from Sapa Square, over Ham Rong Mountain, Mount Silverstone, the Ban Moi valley and Topas Ecolodge, then through Lao Chai, O Quy Ho, Cow Mountain and Ta Phin to the Topas Ecolodge finish.",
+    "distanceMeters": 101000,
+    "distanceMethod": "The current organiser 100km page gives 101 km. The legacy English 100km page gives 100.9 km, the Vietnamese 100km page still carries the 2024 edition at 99.5 km, and a 2026 race report gives 101 km. This card uses the current organiser 101 km and reports the other values in the body without averaging.",
+    "elevationGainMeters": 5500,
+    "elevationMethod": "The current organiser 100km page, the legacy English 100km page and the World Trail Majors page all give 5,500 m of gain; the Vietnamese 100km page still carries the 2024 edition at 5,200 m. This card uses 5,500 m and reports the older Vietnamese figure in the body.",
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "Vietnam Mountain Marathon presented by Kailas Fuga, organised by Topas as part of the Vietnam Trail Series since 2013. Distance, gain, cut-offs, drop-bag rules, qualification and identity badges come from the organiser's current and legacy 100km pages, the 100 miles page, the FAQ, the race rules and the Vietnamese home page, which are level A evidence. The current 100km page's 2026 static map and elevation profile are cited separately for the checkpoint kilometre marks, the 05:00 start and the printed 28-hour time limit; the profile's CP Topas 25.9 km conflicts with the map's 28.6 km and both are kept. The organiser's FAQ says the GPX file is sent one week before the race and publishes no public download link, so geometryAccess is unavailable; no track is downloaded, mirrored or hosted here. The static JPGs are linked, not copied into this repository. World Trail Majors, a 2026 race report and the official Results 2026 page are cited as level B or as evidence of what the results page did not show. The map anchor is the Sapa Square coordinate in the organiser's Vietnamese 100km page, not a surveyed start line. Three Wikimedia Commons location photographs (Sa Pa Lake, Muong Hoa valley terraces and terraces near Topas Ecolodge) and two self-made diagrams (an 18-point chain and a seven-cut-off ladder) are used on the page; the photographs are pre-race location views, not race-day evidence, and the diagrams are not official maps or navigation aids."
+  }
+}

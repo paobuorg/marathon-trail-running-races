@@ -1,0 +1,21 @@
+{
+  "sourceId": "route-zegama-place-osm",
+  "title": "OpenStreetMap — Zegama (relation 347124)",
+  "url": "https://www.openstreetmap.org/relation/347124",
+  "publisher": "OpenStreetMap contributors",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "OpenStreetMap places Zegama, Gipuzkoa, at latitude 42.9758111 and longitude -2.290301, with a bounding box of 42.9315027 to 42.9978634 north and -2.3407838 to -2.2563809 east."
+  ],
+  "license": "ODbL-1.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 通过 OpenStreetMap 的 Nominatim 接口查询 'Zegama, Gipuzkoa'，返回 relation 347124，lat 42.9758111、lon -2.290301，licence 字段写明 Data © OpenStreetMap contributors, ODbL 1.0。该坐标只用于地图锚点，不用于赛道几何。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Nominatim 返回：{\"osm_type\":\"relation\",\"osm_id\":347124,\"boundingbox\":[\"42.9315027\",\"42.9978634\",\"-2.3407838\",\"-2.2563809\"],\"lat\":\"42.9758111\",\"lon\":\"-2.290301\",\"display_name\":\"Zegama, Gipuzkoa, Euskadi, 20215, España\"}" }
+  ]
+}

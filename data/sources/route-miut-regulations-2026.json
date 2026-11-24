@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-miut-regulations-2026",
+  "title": "Regulamento 17ª edição do MIUT 2026 (official regulations PDF)",
+  "url": "https://my.atrp.pt/socios/ficheiros/68f8fef8b28fa.pdf",
+  "publisher": "MIUT – Madeira Island Ultra-Trail / Clube de Montanha do Funchal (hosted by ATRP)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2026 regulations, for the 17th edition, list MIUT LEGEND 110 km with 7,200 m of positive and negative gain and a 32-hour limit, ADVANCED 80 km with 4,760 m and 25 hours, DISCOVER 56 km with 2,800 m up and 3,060 m down and 15 hours, MARATHON 40 km with 1,450 m up and 2,000 m down and 11 hours, and STARTER 17 km with 510 m up and 520 m down and 3 h 30 min.",
+    "The 2026 LEGEND starts at 23:59 on 24 April in Porto Moniz.",
+    "The organiser provides GPS tracks for the courses, but the marking on the ground always prevails.",
+    "All aid stations have cut-offs, and a runner must leave a checkpoint before it closes or be disqualified.",
+    "The courses are mainly paths, trails, veredas, levadas, unpaved forest roads and small asphalt stretches, are not closed to traffic, and may cross public roads and private property."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 从 ATRP 站点下载 2026 届官方规程 PDF（370,648 字节），用 pypdf 提取文本 75,912 字符，读取 2.3 距离表、2.4 赛道性质、2.5 关门、2.7 检查点、2.8 补给、2.9 装备"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "2.3 表：LEGEND 110 km 7200 m / 7200 m / 32 h；ADVANCED 80 / 4760 / 4760 / 25 h；DISCOVER 56 / 2800 / 3060 / 15 h；MARATHON 40 / 1450 / 2000 / 11 h；STARTER 17 / 510 / 520 / 3 h 30" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "正文 2.2 段：O MIUT LEGEND (110k) tem início às 23h59 do dia 24 de abril no Porto Moniz" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "2.4 段：organização disponibilizará os tracks GPS；prevalecerá sempre a sinalização colocada no terreno" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "2.5 段：Todos os postos de abastecimentos terão barreiras horárias；须在关闭前离开" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "2.4 段：caminhos, trilhos, veredas, levadas, estradas florestais não asfaltadas e pequenas extensões de asfalto；per cursos não estarão fechados" }
+  ]
+}

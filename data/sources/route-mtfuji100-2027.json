@@ -1,0 +1,37 @@
+{
+  "sourceId": "route-mtfuji100-2027",
+  "title": "Mt.FUJI 100 — RACE INFORMATION (2027, 23-25 April)",
+  "url": "https://www.mtfuji100.com/about/information/",
+  "publisher": "Mt.FUJI100 Executive Committee",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2027 Mt.FUJI100 runs from 23 to 25 April 2027, and the FUJI100mi covers 165.3 km with 6,463 m of accumulated elevation gain.",
+    "The FUJI100mi starts at Mount Fuji Children's World (Fuji City, Shizuoka Prefecture) and finishes at Fuji Hokuroku Park Fujisan GX Stadium (Fujiyoshida City, Yamanashi Prefecture).",
+    "The 2027 FUJI100mi starts in three waves on 23 April at 17:00, 17:15 and 17:30, each of approximately 700 runners, with limits of 45 hours 30 minutes, 45 hours 15 minutes and 45 hours respectively; the final cut-off is 25 April at 14:30.",
+    "The 2027 FUJI100mi recruitment is 2,000 people including priority, general and donation entries, and 500 support staff.",
+    "The 2027 KAI70k covers 67.9 km with 2,917 m of gain, starts and finishes at Fuji Hokuroku Park, starts on 24 April at 14:00 and has a 21-hour limit ending 25 April at 11:00.",
+    "The 2027 ASUMI40k covers approximately 38.5 km with 1,481 m of gain, starts and finishes at Fuji Hokuroku Park, starts on 24 April at 12:00 and has a 9-hour 30-minute limit ending 24 April at 21:30.",
+    "The 2027 page lists the FUJI100mi as a World Trail Majors eligible race, a Western States Endurance Run 2028 qualifying race and an ITRA National League race.",
+    "The event is organised by the Mt.FUJI100 Executive Committee, with Fuji City, Fujinomiya City, Minobu Town, Narusawa Village, Fujikawaguchiko Town, Fujiyoshida City, Oshino Village, Yamanakako Village, Gotemba City and Susono City as co-organisers.",
+    "The English version of the same page misstates several dates and times: it gives the KAI70k start as 'April 4th (Sat) 24:14', the ASUMI40k final deadline as 'April 4th (Saturday) 24:21' and the FUJI100mi final deadline as 'February 4 (Sun) 25:14', all of which contradict the Japanese page."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取日文页 https://www.mtfuji100.com/about/information/ 与英文页 https://en.mtfuji100.com/about/information/，逐行比对三段赛事表；英文页存在明显日期/时刻错位，日文页内部一致，正文以日文页为准并记录英文页缺陷"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "日文页：開催日 2027年4月23日（金）～25日（日）；FUJI100mi 距離 165.3km／累積標高 +6,463m" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "日文页：スタート 富士山こどもの国（静岡県富士市）／フィニッシュ 富士北麓公園富士山GXスタジアム（山梨県富士吉田市）" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "日文页：第1ウェーブ 4月23日17時00分 約700名（45時間30分制限）、第2 17時15分（45時間15分）、第3 17時30分（45時間00分）；最終制限時刻 4月25日14時30分" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "日文页：募集 2,000名（優先エントリー・一般エントリー・寄付エントリー含む）；サポート 500名" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "日文页 KAI70k 行：67.9km／+2,917m／4月24日14時00分／4月25日11時00分（21時間00分制限）" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "日文页 ASUMI40k 行：約38.5km／+1,481m／4月24日12時00分／4月24日21時30分（9時間30分制限）" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "日文页 FUJI100mi 行：ワールドトレイルメジャーズ対象レース／ウエスタンステイツエンデュランスラン2028 クオリファイレース／ITRAナショナルリーグ対象レース" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "日文页 主催／共催 两段原文" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "英文页 KAI70k：'April 4th (Sat) 24:14'；ASUMI40k：'April 4th (Saturday) 24:21 (※30 hour limit)'；FUJI100mi：'February 4 (Sun) 25:14'，均与日文页不符" }
+  ]
+}

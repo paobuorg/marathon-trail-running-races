@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-tarawera-tikitapu",
+  "title": "File:Lake Tikitapu, New Zealand (1).JPG",
+  "url": "https://commons.wikimedia.org/wiki/File:Lake_Tikitapu,_New_Zealand_(1).JPG",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2014-09-21",
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The image shows Lake Tikitapu / Blue Lake, with the lake surface, a forested ridge and a small section of shoreline.",
+    "The file title identifies Lake Tikitapu, New Zealand; it contains no Tarawera race, UTMB or race-day context and is a location photograph, not a drop-bag area or race coverage.",
+    "The author is Michal Klajban, credited under CC BY-SA 4.0; the original is 3,888 x 2,406 pixels and 3,145,037 bytes, dated 2014-09-21.",
+    "The route page uses a 960 x 594 re-encoded Commons thumbnail of 119,723 bytes and credits the author and licence; attribution and share-alike are required."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons action=query imageinfo + thumbnail visual check",
+    "note": "2026-11-23 读取 Commons 文件页与 imageinfo，核对标题、作者、日期、许可、尺寸和画面；缩略图与文件描述一致。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Thumbnail shows the lake surface, a forested ridge and a small strip of shoreline."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "The title identifies Lake Tikitapu, New Zealand; no Tarawera, UTMB or race-day metadata appears."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "imageinfo: 3,888 x 2,406; 3,145,037 bytes; Artist Michal Klajban; CC BY-SA 4.0; DateTimeOriginal 2014-09-21."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Local file is 960 x 594 and 119,723 bytes after resizing; the Commons licence requires attribution and share-alike."
+    }
+  ]
+}

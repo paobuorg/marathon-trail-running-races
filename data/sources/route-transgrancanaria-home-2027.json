@@ -1,0 +1,75 @@
+{
+  "sourceId": "route-transgrancanaria-home-2027",
+  "title": "The North Face Transgrancanaria — official home page and race cards",
+  "url": "https://transgrancanaria.net/en/",
+  "publisher": "The North Face Transgrancanaria / Arista Eventos S.L.",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The home page header states that the 2027 event runs from 22 to 28 February 2027 and that registrations are open.",
+    "The home page race cards still describe the 2026 week: '4-8 March', VK Wednesday 4th, Half & Promo Thursday 5th, Marathon Friday 6th, Classic & Advanced Saturday 7th, alongside a 'Results 2026' link.",
+    "The Classic card gives 125 km, 6,764 m of positive gain, a 30-hour cut-off and a start on 'March 6, 11.59 PM'.",
+    "The Advanced card gives 81 km, 4,314 m and 21 hours; the Marathon card gives 46 km, 1,784 m and 11 hours.",
+    "The navigation menu labels the races Classic 126 km, Advanced 82 km, Marathon 47 km, Half 23 km, Open Agáldar 21 km, Promo 12 km, Short 5 km, Family Trail and VK El Gigante, while the page URLs still carry other distances (advanced-84km, marathon-46km, starter-21-km).",
+    "The remaining cards give Half 23 km with 1,817 m and 6:30, Open Agáldar 21 km with 613 m and 5:30, Promo 12 km with 869 m and 6:30, Short 5 km with 264 m and 1:30, Family Trail 5 km with 264 m and 1:30, and KV El Gigante 5.5 km with 1,090 m and 1:30.",
+    "The home page describes the Classic as part of the World Trail Majors circuit and the Marathon as part of The Short Series by Gran Canaria World Trail Majors; it does not describe the event as part of the UTMB World Series.",
+    "The home page navigation contains no transport, shuttle or travel page."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://transgrancanaria.net/en/，读取顶部赛事周、九张 race card 与导航菜单；未发现 transport/shuttle 链接"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页头：22-28 FEBRUARY 2027；OPEN REGISTRATIONS"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：4-8 March；VK Wednesday 4th；HALF & PROMO Thursday 5th；MARATHON Friday 6th；CLASSIC & ADVANCED Saturday 7th；RESULTS 2026"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Classic card：CLASSIC 125 KM；March 6, 11.59 PM；Distance 125 Kilometers；Positive elevation 6.764 M；Cut-off time 30 Hours"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Advanced card：ADVANCED 81KM；March 7, 9.00 AM；81 Kilometers；4.314 M；21 Hours；Marathon card：46 Kilometers；1.784 M.；11 Hours"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "导航菜单逐项读取；链接 href 为 /en/advanced-84km/、/en/marathon-46km/、/en/starter-21-km/"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "各卡片 stat block 逐项读取；Open Agáldar 卡片写 cut-off time 5:30 Horas（原文混用西班牙语）"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Classic card 正文：part of the international World Trail Majors circuit；Marathon card 正文：The Short Series by Gran Canaria World Trail Majors；整页未出现 UTMB World Series"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "导航与页脚链接逐条检查：Registration、The Races、Regulations、Schedule、Prices & Timetable、Contact、Shop 等，无 transport/travel"
+    }
+  ]
+}

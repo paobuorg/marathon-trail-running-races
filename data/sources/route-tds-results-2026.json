@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-tds-results-2026",
+  "title": "HOKA UTMB Mont-Blanc 2026 — TDS results and index",
+  "url": "https://utmb.world/utmb-index/races/646.hokautmbmont-blanctds.2026",
+  "publisher": "UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "The UTMB Index lists 1,290 results for TDS 2026 and describes the race as 154 km with 9,500 m of gain.",
+    "The top three men are Rémy Brassac in 19:28:43, Pierre-Adrien Hivert in 20:14:26 and Nicolas Court in 20:56:52.",
+    "Sarah Vieuille is the first woman in 22:08:16; Alice Meignié is second in 22:30:29 and Alyssa Clark third in 22:54:19.",
+    "The Index page labels the race date as 24 August 2026 and the city as Courmayeur."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch",
+    "note": "Official UTMB Index race page, ranking list read."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Header: 154 KM / 9500 M+ / 1290 Results."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Ranking rows 1–3 read directly."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Women's rows: rank 9 Sarah Vieuille 22:08:16; rank 11 Alice Meignié 22:30:29; rank 15 Alyssa Clark 22:54:19."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Header: Date 24th August 2026; City Courmayeur."
+    }
+  ]
+}

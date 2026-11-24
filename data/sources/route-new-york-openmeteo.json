@@ -14,5 +14,56 @@
     "The values are modelled or reanalysis data for a grid point, not measurements on the course, at the start village or on the bridge decks.",
     "Open-Meteo data are published under CC BY 4.0 and require attribution."
   ],
-  "license": "CC-BY-4.0"
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 调用 archive-api.open-meteo.com，响应存 .agent/ny/openmeteo.json",
+    "note": "API JSON 可解析，8 天 daily 数据完整；网格点 40.738136/-74.04254，elevation 32.0"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "JSON 返回 8 条 daily 记录（2026-10-26 至 2026-11-02），latitude 40.738136、longitude -74.04254、elevation 32.0。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "temperature_2m_max 为 15.9/16.7/16.1/21.8/19.3/21.7/16.7/15.9；排序后中位 (16.7+19.3)/2=18.0。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "temperature_2m_min 为 4.4/5.9/6.8/10.9/7.0/7.6/9.2/7.8；排序后中位 (7.0+7.6)/2=7.3。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "precipitation_sum 仅 10-28 为 0.4 mm，其余 0.0，无一天 ≥1 mm。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2026-11-01：max 16.1、min 4.4、precipitation 0.0。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Open-Meteo 页面将该产品标为 modelled/reanalysis；响应为网格点值，非赛道、起点村或桥面实测。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Open-Meteo licence 页写明数据为 CC BY 4.0，要求 attribution。"
+    }
+  ]
 }

@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-uta-scenic-world",
+  "title": "File:Katoomba (AU), Scenic World, Scenic Skyway -- 2019 -- 1872.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Katoomba_(AU),_Scenic_World,_Scenic_Skyway_--_2019_--_1872.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2019-10-22",
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The image shows the blue Scenic Skyway cable car crossing above a forested cliff, with the Scenic World building complex on the ridge behind and a clear blue sky.",
+    "The Commons file identifies Katoomba Scenic World, the exact UTA100 start and finish venue; it contains no UTA race, start corral, finish arch or race-day crowd, so it is a venue photograph, not race-day evidence.",
+    "The author is Dietmar Rabich; the file is licensed CC BY-SA 4.0; the original is 5,973 x 4,480 pixels and 19.16 MB; the camera position is -33.7285, 150.3010; the photograph was taken on 2019-10-22 at 10:30 and uploaded on 2019-12-20.",
+    "The route page uses a 960 x 720 thumbnail of 326,420 bytes without cropping or colour change and credits the author, licence and source; attribution is required and adaptations must be shared alike."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons file page, imageinfo API and downloaded 960 px thumbnail inspection",
+    "note": "2026-11-23 通过 Commons 文件页与 imageinfo API 读取作者、许可、原图尺寸、GPS 与拍摄时间，下载 960 px 副本并目视核对缆车、Scenic World 建筑、森林崖壁与天空；画面没有赛事元素，按场地照使用。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地缩略图可见蓝色 Scenic Skyway 缆车、林覆盖的崖壁、山脊上的 Scenic World 建筑群与蓝天。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Commons 标题与描述均指向 Katoomba Scenic World；文件页没有 UTA 赛事、起跑区或终点拱门信息。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "imageinfo：Artist Dietmar Rabich；LicenseShortName CC BY-SA 4.0；5,973 x 4,480、19.16 MB；GPS -33.7285, 150.3010；DateTimeOriginal 2019-10-22 10:30；上传 2019-12-20。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地文件 960 x 720、326,420 字节；未裁剪、未改色；页面署名 Dietmar Rabich / CC BY-SA 4.0 / Wikimedia Commons。"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-sierre-zinal-registration-status",
+  "title": "Sierre-Zinal — participants and registration status",
+  "url": "https://www.sierre-zinal.com/en/participants-147.html",
+  "publisher": "Sierre-Zinal Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The participants page links 'REGISTRATION – SIERRE-ZINAL 53rd EDITION' and marks that registration as closed.",
+    "At the time of access the same page listed no registration page for the 2027 edition.",
+    "The same page describes the junior race as Chandolin–Zinal for 10–17 year-olds."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官网英文参赛者页。页面仍以 2026 第 53 届为主体；2027 只显示日期，没有报名入口或费用说明。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'REGISTRATION – SIERRE-ZINAL 53rd EDITION'；'Registrations closed'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "页面报名区只有第 53 届链接，未见 2027 报名页或 2027 费用。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'Chandolin–Zinal for 10–17 year-olds'" }
+  ]
+}

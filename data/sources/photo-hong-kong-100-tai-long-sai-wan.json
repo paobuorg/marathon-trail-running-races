@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-hong-kong-100-tai-long-sai-wan",
+  "title": "File:Tai Long Sai Wan.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Tai_Long_Sai_Wan.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": null,
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The image shows Tai Long Sai Wan: a wide sandy beach, shallow water and offshore islands, with a few people on the sand.",
+    "The Commons file title identifies Tai Long Sai Wan; it contains no Hong Kong 100, HK100 or race-day context and is a location photograph.",
+    "The author is Chingleung; the file is marked Public domain; the original is 3,892 x 2,594 pixels; the file page does not display a date; the Commons file page supplies the image.",
+    "The route page uses a 960 x 640 thumbnail of 171,894 bytes without cropping or colour change and credits the author and licence; public-domain status permits reuse but attribution is retained."
+  ],
+  "license": "Public-Domain",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons API imageinfo and downloaded thumbnail inspection",
+    "note": "2026-11-23 通过 Commons API 读取文件页 imageinfo，下载 960 px 副本并目视核对沙滩、浅滩与岛屿画面。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地缩略图可见西湾沙滩、浅水、远处岛屿和少量游人。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Commons 文件名为 Tai Long Sai Wan；文件页没有 HK100 或赛事信息。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Commons imageinfo：作者 Chingleung；Public domain；原图 3,892 x 2,594；Date 字段未显示。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地文件 960 x 640、171,894 字节；未裁剪、未改色；页面保留作者与许可说明。"
+    }
+  ]
+}

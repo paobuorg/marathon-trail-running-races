@@ -1,0 +1,33 @@
+{
+  "sourceId": "route-val-daran-history-2021",
+  "title": "Val d'Aran by UTMB 2021 — CDH result page",
+  "url": "https://utmb.world/utmb-index/races/21259.vald-aranbyutmb-cdh.2021",
+  "publisher": "UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2021 Val d'Aran by UTMB CDH was held in Les on 9 July 2021 over 104 km with 6,500 m of positive gain and 951 finishers.",
+    "The 2021 CDH was won by Aritz Egea Caceres in 13:03:25."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 UTMB Index 2021 CDH 赛果页"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：City / Country Les；Date 9th July 2021；Distance 104 KM；Elevation Gain 6500 M+；951 Results"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "赛果第 1 行：13:03:25 Aritz EGEA CACERES"
+    }
+  ]
+}

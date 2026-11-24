@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-utnh-2026-schedule",
+  "title": "可隆宁海越野挑战赛 2026 赛事日程",
+  "url": "https://ninghai100.com/page/schedule",
+  "publisher": "可隆宁海越野挑战赛 / 上海穹景体育文化发展有限公司",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "11 月 12 日 17:30–18:30 在西门城楼举行开幕式、精英选手见面会及赛事说明会。",
+    "11 月 12 日 14:00–22:00 领取 CNH-60 参赛包，11 月 13 日 10:00–21:00 领取 UTNH-100 参赛包，11 月 14 日 10:00–21:00 领取 YNH-25 参赛包，地点均为西门城楼。",
+    "11 月 13 日 16:30 举行 CNH-60 颁奖仪式，11 月 15 日 10:00 举行 UTNH-100 与 YNH-25 颁奖仪式，地点均为西门城楼。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 通过页面内容接口读取结构化日程。",
+    "checkedVia": "ninghai100.com/app-api/race/page/get?id=8"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "日程：11月12日 17:30–18:30 开幕式、精英选手见面会及赛事说明会，地点西门城楼。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "日程逐条列出三天领物时间与地点，与 FAQ 一致。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "日程：11月13日 16:30 CNH-60 颁奖；11月15日 10:00 UTNH-100、YNH-25 颁奖。" }
+  ]
+}

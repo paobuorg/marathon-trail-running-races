@@ -40,5 +40,212 @@
     "The guide says only participate if fit and well and to read the medical advice from event Medical Director Professor Sanjay Sharma.",
     "The guide says to call 999 in an emergency."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 TCSLM-2026-Event-Guide_FINAL_v2.pdf → .agent/london35/guide.pdf；PyMuPDF 提取 17 页全文 → guide.txt",
+    "note": "PDF 全文可解析；第 13 页赛道图为整页图片，只有图例文字，未标注公里数或爬升"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "封面：“SUNDAY 26 APRIL 2026”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 7 页 Bib/Assembly Area 表列出 BLUE、GREEN、PINK、RED、YELLOW"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 7 页表：Blue/Pink/Red 有 Start Line，Green 与 Yellow 的 Start Line 单元格留空"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 7 页表：Blue、Yellow 为 Blackheath 10-minute walk；Pink 为 Maze Hill 10-minute walk；Red 为 Greenwich 20-minute walk；Green 的 Nearest Station 留空"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 10 页：“From about 09:30 to 11:30 a sequence of Start Waves will take place”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 10 页：“All Start Lines close at 11:30 … will not be permitted to start after this time”"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 7 页：“free travel on Southeastern train services from London stations to the Start, as well as on the DLR, Elizabeth Line, London Underground, Overground and buses … do not tap in or out”"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 7 页：“about 05:30 from Tower Gateway and Lewisham, and about 07:00 from Bank and all other DLR routes”"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 7 页：“every 20 minutes from central London to Greenwich Pier”"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 7 页：“Spectators should not travel to the Start, as it is for participants only”"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 9 页：“Water Refill Stations are available in the Start and Finish Areas, and along the route”"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 13 页 COURSE MAP 图例：Water、Refill station、KM Marker、Vaseline、Toilets"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 13 页标题为 COURSE MAP"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 12 页：“Distance markers and timing clocks are at every mile and every 5K point … since the first wave started”"
+    },
+    {
+      "index": 14,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 12 页：“blue line indicates the shortest route; please let faster participants use it”“Move to the left if you need to walk”"
+    },
+    {
+      "index": 15,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 11 页：“Non-noise-cancelling or bone conduction headphones … or … just one earpiece … must be able to hear safety instructions”"
+    },
+    {
+      "index": 16,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 11 页：“handbikes, rollerblades, skateboards, scooters or motorised gear are prohibited”"
+    },
+    {
+      "index": 17,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 12 页：“let staff know at the nearest First Aid Point … sweep minibus … public transport for free … may be a long wait”"
+    },
+    {
+      "index": 18,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 12 页：“eight hours after the last participant starts at 11:30, with The Mall closing at 19:30 … moves to St James’s Park until midnight”"
+    },
+    {
+      "index": 19,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 12 页：“finishing after 19:30 will need to move onto the pavement”"
+    },
+    {
+      "index": 20,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 12 页：“Tailwalkers and cycle marshals maintain an eight-hour pace … over seven hours … Pink Start”"
+    },
+    {
+      "index": 21,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 12 页：“self-sufficient after Drinks Stations close. Toilets remain available until midnight”"
+    },
+    {
+      "index": 22,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 9 页：“no bag-drop facility in the Green Assembly Area”“Only official event kitbags will be accepted”"
+    },
+    {
+      "index": 23,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 14 页：“free until 20:00 on London Underground, Overground, Elizabeth Line, buses and DLR … Southeastern trains do not offer free post-event travel”"
+    },
+    {
+      "index": 24,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 14 页：“Westminster station will be exit-only”"
+    },
+    {
+      "index": 25,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 14 页：“result will be online within 24 hours; photos within 48 hours via Sportograf”"
+    },
+    {
+      "index": 26,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 14 页：“up to 30 minutes’ walk … lettered Meeting Points at Whitehall, Horse Guards Parade and Horse Guards Road”"
+    },
+    {
+      "index": 27,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 11 页：“Vaseline will be at Miles 14, 17, 20 and 22”"
+    },
+    {
+      "index": 28,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 11 页：“Start, every mile from 1 to 24, and at the Finish … Miles 1 and 2, and every even mile thereafter”"
+    },
+    {
+      "index": 29,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 9 页：“Pack a food item in your kitbag to eat after you finish”"
+    },
+    {
+      "index": 30,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 3 页：“Complete your medical information on the back of your bib”"
+    },
+    {
+      "index": 31,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 3 页：“Only participate if you’re fit and well … Professor Sanjay Sharma”"
+    },
+    {
+      "index": 32,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 3 页：“In case of emergency, call 999”"
+    }
+  ]
 }

@@ -17,5 +17,74 @@
     "The finish line closes at 5:15 PM, after which it is no longer possible to run through the Brandenburg Gate or cross the finish line.",
     "Only runners who provide proof of all split times and cross the finish mat before the finish line closes receive an official result, medal and poncho."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取同一 race-day URL → .agent/berlin-shanghai35/berlin-race-day-2026.html",
+    "note": "当前页面即 2027 版，正文可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 2027 年 9 月 26 日（周日）。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "起点 Straße des 17. Juni，位于 Brandenburger Tor 与 Kleiner Stern 之间。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "六波 8:45、9:05、9:33、10:02、10:12、10:27。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文“regardless of the weather unless…German Weather Service…warning”。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "号码布 9 月 23–26 日（2027）在 ABC 区作车票有效。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "列 U-Bahn Unter den Linden、Bundestag、Brandenburger Tor、Potsdamer Platz；S-Bahn 与区域列车 Berlin Central Station、Potsdamer Platz。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "6:15 h，km 33 关门 15:50（3:50 PM）。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "未达关门须退出，可乘 sweep bus 到终点，不得自行继续。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "终点 17:15 关闭，之后不得穿勃兰登堡门或过终点。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "须提供全部分段成绩并在关闭前过终点地毯，方可获官方成绩、奖牌与披风。"
+    }
+  ]
 }

@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-kodiak-utmb-majors",
+  "title": "UTMB World Series Majors — Kodiak as 2027 Americas Major",
+  "url": "https://utmb.world/utmb-world-series-majors",
+  "publisher": "UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "UTMB's Majors page lists HOKA Kodiak Ultra Marathons by UTMB as one of the two 2027 Americas Majors, alongside HOKA Canyons Endurance Runs by UTMB.",
+    "The page's Finals prize table lists only UTMB, CCC and OCC."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取 UTMB Majors 页，读取 AMERICAS 段与 Finals 奖金表。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "AMERICAS 段原文列出 Kodiak 与 Canyons" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "Finals 奖金表表头只有 UTMB / CCC / OCC" }
+  ]
+}

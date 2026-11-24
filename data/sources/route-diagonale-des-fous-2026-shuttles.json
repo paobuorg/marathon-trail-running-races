@@ -4,7 +4,7 @@
   "url": "https://www.grandraid-reunion.com/fr/informations-pratiques/service-de-navettes-pour-certains-postes/",
   "publisher": "Grand Raid de La Réunion",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-08",
   "claims": [
     "A free shuttle runs from the ZAC Canabady car park in Saint-Pierre to Ravine Blanche on Thursday 15 October from 17:00 to 23:30, with no reservation needed.",
     "A free shuttle runs between Bourg-Murat and the Nez de Bœuf area every 30 minutes from Thursday 18:00 to Friday 12:00, for relay runners and supporters.",
@@ -14,5 +14,55 @@
     "SODIPARC and Citalis run shuttles to the Stade de La Redoute from Thursday 15 to Sunday 18 October.",
     "The page describes six separate shuttle and parking arrangements for the 2026 edition."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官方接驳与停车页"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Gratuite et sans réservation, elle circule de 17h00 à 23h30”；ZAC Canabady → Ravine Blanche"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Une rotation toutes les 30 minutes… du jeudi 15 octobre à 18h00 au vendredi 16 octobre à 12h00”，开放给 relayeurs 与 accompagnateurs"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Sentier Scout / Salazie — Vendredi 16 et samedi 17 octobre — CIREST”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Maïdo — Vendredi 16 (12h00) → samedi 17 octobre (20h30) — RF08 → sommet du Maïdo”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Ilet Savannah — Vendredi 16 (15h30) → dimanche 18 octobre (00h00) — Rotations depuis le parking Expobat”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Stade de La Redoute — Du jeudi 15 au dimanche 18 octobre — SODIPARC · Citalis”"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面写 “Six dispositifs pour suivre la course sans prendre votre voiture”"
+    }
+  ]
 }

@@ -11,5 +11,38 @@
     "The generic policy closes the finish line at a 20-minute-per-mile pace plus the 20 minutes that the start remains open.",
     "Medical support remains available on the course after the cutoff time, although some course amenities may be removed and breakdown may begin in the finish area."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 prod.nyrr.org/guidelines-and-procedures-nyrr-time-cutoff-policy",
+    "note": "政策页全文可读，含生效时间、豁免赛事与通用关门公式"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页首：“Effective January 2024”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "豁免名单列有“TCS New York City Marathon”，并指向该赛事的 race info page 查询具体 timeline。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "通用规则：“20 minutes per mile… plus the 20 minutes the start line is open”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同页：“Medical support will remain in place”，部分 amenities 可能撤除，finish area 可能开始 breakdown。"
+    }
+  ]
 }

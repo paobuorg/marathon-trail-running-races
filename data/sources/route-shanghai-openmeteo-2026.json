@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-shanghai-openmeteo-2026",
+  "title": "Open-Meteo historical archive, Shanghai grid point, 4-8 December 2015-2025",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=31.2304&longitude=121.4737&start_date=2015-12-04&end_date=2025-12-08&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Asia%2FShanghai",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-21",
+  "claims": [
+    "The archive request for 31.2304N, 121.4737E returned the grid point 31.247803N, 121.5E at 5 m elevation.",
+    "For 6 December across 2015-2025, the grid point gives daily maximum temperatures from 10.1 to 18.0 C with a median of 12.6 C, and daily minimum temperatures from -1.3 to 7.2 C with a median of 4.6 C.",
+    "Two of the eleven 6 December days recorded at least 1 mm of daily precipitation: 6.1 mm in 2015 and 23.5 mm in 2018.",
+    "These are reanalysis grid-point values, not measurements on the race course."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-21",
+    "checkedVia": "PowerShell Invoke-WebRequest 经 127.0.0.1:7890 请求 archive-api.open-meteo.com，解析 daily.time/temperature_2m_max/temperature_2m_min/precipitation_sum",
+    "note": "返回网格 31.247803 / 121.5，elevation 5 m；2015-12-04 至 2025-12-08 共 55 个日值，其中 11 个 12 月 6 日值用于统计。第二次请求触发 daily API limit，统计基于首次成功响应，不重试。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "响应 latitude=31.247803、longitude=121.5、elevation=5。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "11 个 12 月 6 日值：最高 10.3/10.7/10.4/12.6/10.1/14.6/16.3/11.1/18.0/13.3/17.2，最低 1.7/4.1/-1.3/7.2/3.1/4.6/5.2/3.8/6.5/6.7/5.7；排序后中位分别为 12.6 与 4.6。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "11 个 12 月 6 日降水中，2015 为 6.1 mm、2018 为 23.5 mm，其余 9 天为 0.0 mm。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "Open-Meteo archive 是再分析网格，不是赛道仪器；页面正文明确写“网格点历史统计，不是赛道实测”。"
+    }
+  ]
+}

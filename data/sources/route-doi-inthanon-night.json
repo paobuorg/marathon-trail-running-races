@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-doi-inthanon-night",
+  "title": "PAGODA 50-NIGHT — Chiang Mai Thailand by UTMB",
+  "url": "https://chiangmai.utmb.world/races/PAGODA50-NIGHT",
+  "publisher": "UTMB World Series / HOKA Chiang Mai Thailand by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "PAGODA 50-NIGHT is listed as 57 km with 3,600 m of elevation gain, starting on Saturday 28 November 2026 at 18:00 from Doi Inthanon National Park HQ, with a maximum allowed race time of 16 hours 30 minutes.",
+    "The NIGHT race carries 4 Running Stones and uses the same PAGODA 50 loop through Doi Hua Suea, Doi Pha Tang Peak and the Twin Royal Pagodas.",
+    "The 2026 edition introduces the night race as a new format that reaches the twin pagodas at dawn."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取英文与泰文 PAGODA50-NIGHT 页；并对照 'WHAT'S NEW FOR 2026 EDITION' 新闻页"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "英文页 'Distance 57 KM'、'Elevation Gain 3600 M+'、'Saturday 28th November 2026'、'Doi Inthanon National Park HQ - 18:00'、'16 Hours 30 Minutes'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "页面 Running Stones 4；赛道描述与 DAY 页同名地标" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "新闻页 'PAGODA 50 NIGHT : A new night run at Doi Inthanon, reaching the twin pagodas at dawn.'" }
+  ]
+}

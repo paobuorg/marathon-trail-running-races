@@ -1,0 +1,208 @@
+{
+  "sourceId": "route-val-daran-2027",
+  "title": "HOKA Val d'Aran by UTMB 2027 — VDA race page, track and time chart",
+  "url": "https://valdaran.utmb.world/races/VDA",
+  "publisher": "HOKA Val d'Aran by UTMB / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2027 event runs from 7 to 11 July 2027; the VDA starts on Friday 9 July 2027 at 16:00 from Vielha and finishes back in Vielha.",
+    "The 2027 VDA is 163 km with 10,000 m of positive gain and a maximum allowed race time of 48 hours.",
+    "The event presents eight race formats and describes VDA, CDH and PDA as the 100M, 100K and 50K equivalents in the UTMB World Series finals pathway, with direct finals access for the top 10 men and women in each.",
+    "The 2027 CDH is 110 km with 6,400 m of positive gain, starts in Les at 06:00 on Friday 9 July 2027 and has a 28-hour limit.",
+    "The 2027 TDL is 75 km with 5,100 m of positive gain, starts in Bossòst at 07:30 on Wednesday 7 July 2027 and has a 20-hour limit.",
+    "The 2027 PDA is 55 km with 3,300 m of positive gain and 3,700 m of negative gain, starts in Salardú at 07:00 on Thursday 8 July 2027 and has a 14-hour limit.",
+    "The 2027 EXP is 32 km with 2,100 m of gain, starts in Vielha at 08:00 on Sunday 11 July 2027 and has a limit of 7 hours 15 minutes.",
+    "The 2027 SKY is 18 km with 900 m of gain, starts at Pla de Beret at 09:30 on Saturday 10 July 2027 and has a 4-hour limit.",
+    "The event also lists an 18 km SKY Promesas and a 10 km Vielha 10K; the home page gives the 10K 500 m of gain while the 2026 race report gives 600 m.",
+    "The embedded VDA track totals 163.011 km with 10,053 m of positive gain, 10,049 m of negative gain, a maximum elevation of 2,551 m and a minimum of 609 m.",
+    "The track lists 27 points, including 16 intermediate timed checkpoints at cumulative distances of 10.5, 21.0, 32.8, 42.6, 49.2, 58.2, 65.8, 81.8, 99.7, 104.8, 113.7, 122.6, 134.2, 144.5, 149.0 and 154.9 km, with the finish at 163.0 km.",
+    "Cut-offs are published at 14 intermediate points and the finish: Bassa d'Oles Friday 19:15, Artiga de Lin 21:15, Portilhon Saturday 04:00, Bossòst 05:30, Canejan 08:00, Refugi Honeria 09:15, Còth de Varradòs 16:00, Montgarri 20:45, Beret 22:15, Salardú Sunday 00:00, Banhs de Tredòs 02:45, Colomèrs 07:00, Arties 10:45, Stet Escunhau 13:15 and Vielha Sunday 16:00; Poilaner and Mont-Romies have no cut-off.",
+    "The Slowest column is later than the published cut-off at Refugi Honeria, Còth de Varradòs, Montgarri, Beret, Salardú, Banhs de Tredòs, Colomèrs, Arties and the finish, while at the earlier cut-off points the Slowest is earlier than the cut-off.",
+    "VDA runners receive three 30-litre bags, delivered to Bossòst, Salardú and Arties; the bags are returned to Vielha and must be collected within two hours of the runner's finish.",
+    "Assistance is allowed only at Bossòst, Salardú and Arties, by one person with a bag of at most 30 litres; pacers are not allowed.",
+    "The mandatory equipment is published as a downloadable PDF; the race page does not reproduce the list in text.",
+    "The tracks page links to a file named VDA_2027_COLOMERS_...gpx, but the downloaded file's metadata names it 'VDA 2026_COLOMERS', gives gpx.studio as author, a creation time of 2024-05-30 and Strava route links, and carries no licence or copyright terms.",
+    "The race page's embedded gpxUrl points to a file named VDA_2026_WEB_COLOMERS_...gpx.",
+    "The highest named point on the track is Pòrt d'Urets at 2,520 m; the highest timed checkpoint is Còth de Varradòs at 2,048 m; the track maximum of 2,551 m is higher than both.",
+    "The UTMB World Series event list embedded in the same site marks Val d'Aran by UTMB as a Major (isMajor 1) in Europe, Spain, with dates 7–11 July 2027.",
+    "The race page describes the VDA as 'Torn dera Val d'Aran, the tour of the Val d'Aran', '163 kilometres of demanding terrain', crossing 'wild valleys, abandoned mines and cirques of lakes' and the Aranese culture.",
+    "The track's 27 points are named, in order, VIELHA, Tuc Montcorbison, BASSA D'OLES, ARTIGA DE LIN, Uelhs deth Joeu, Tuc dera Escaleta, POILANER, Còth de Baretja, PORTILHON, BOSSÒST, Les, CANEJAN, REFUGI HONERIA, Mines de Liat, CÒTH DE VARRADÒS, Pòrt d'Urets, MONTGARRI, BERET, SALARDÚ, BANHS DE TREDÒS, Estanh Obago, COLOMÈRS, MONT-ROMIES, ARTIES, STET ESCUNHAU, Tuc de Meddia and VIELHA.",
+    "The track's cutoffDatetime values carry the years 2022 (14 points) and 2023 (Stet Escunhau), while the displayed cutoff text uses the 2027 weekdays.",
+    "The track's supplies field marks 11 points as food, 3 as hotFood (Bossòst, Salardú, Arties) and 3 as drink (Poilaner, Mont-Romies, Stet Escunhau); the remaining points are none.",
+    "The track records per-point facilities: Artiga de Lin has toilets and a bus; Bossòst has toilets, a bus, a rest area and a bag drop; Canejan, Refugi Honeria, Montgarri, Beret, Salardú, Banhs de Tredòs, Colomèrs and Arties have toilets (Beret, Salardú, Banhs de Tredòs and Arties also a bus); Salardú and Arties have a rest area and a bag drop; the finish has toilets, a bag drop and showers.",
+    "Checkpoint altitudes along the track are 1,600, 1,185, 2,000, 1,292, 710, 891, 1,017, 2,048, 1,659, 1,850, 1,260, 1,759, 1,980, 1,765, 1,139 and 1,780 m at the 16 intermediate checkpoints, with the finish at 982 m; the non-timed point Les is at 640 m.",
+    "Every point on the track carries the difficulty label T3."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://valdaran.utmb.world/races/VDA 与其 __NEXT_DATA__ 内嵌 track，另取 /race/tracks 与 VDA_2027 GPX 文件头"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页头：Start Date Friday 9th July 2027；Race Start VIELHA - 16:00；正文 starting and finishing in Vielha"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页头：Distance 163 KM；Elevation Gain 10000 M+；Max Allowed Race Time 48 Hours"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首页：eight mountain races；VDA、CDH、PDA 对应 OCC 50K、CCC 100K、UTMB 100M；top 10 male and female"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CDH 页头：110 KM / 6400 M+ / Friday 9th July 2027 / LES - 06:00 / 28 Hours"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "TDL 页头：75 KM / 5100 M+ / Wednesday 7th July 2027 / BOSSÒST - 07:30 / 20 Hours"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PDA 页头：55 KM / 3300 M+ / Thursday 8th July 2027 / SALARDÚ - 07:00 / 14 Hours；正文 3,700 m negative"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "EXP 页头：32 KM / 2100 M+ / Sunday 11th July 2027 / VIELHA - 08:00 / 07 Hours 15 Minutes"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "SKY 页头：18 KM / 900 M+ / Saturday 10th July 2027 / PLA DE BERET - 09:30 / 04 Hours"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首页列出 SKY 18 km/900 m 与 Vielha 10K 10 km/500 m+；2026 赛报写 10K 600 m gain"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "__NEXT_DATA__ track：distance 163011、gainElevation 10053、lossElevation 10049、maxElevation 2551、minElevation 609"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "track.points 共 27 个点；isChrono 为真的中间计时点 16 个，累计距离与正文一致"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "track.points 的 cutoff 显示值；Poilaner 与 Mont-Romies cutoff 为 null"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "逐点比较 slowest 与 cutoff：Honeria 10:10>09:15 起至 Arties 10:47>10:45，终点 16:02>16:00；前段 Portilhon 03:56<04:00 等"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "SPARE BAGS 段：three 30-liter bags；Bossòst、Salardú、Arties；returned to Vielha；2 hours"
+    },
+    {
+      "index": 14,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "RUNNER ASSISTANCE 段：仅 Bossòst、Salardú、Arties；single person；30 liters；Pacers are not allowed"
+    },
+    {
+      "index": 15,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "MANDATORY EQUIPMENT 段只有 DOWNLOAD PDF HERE 链接，无正文清单"
+    },
+    {
+      "index": 16,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "下载 VDA_2027_COLOMERS_6d455e408b.gpx 后，metadata name=VDA 2026_COLOMERS，author=gpx.studio，time=2024-05-30T16:07:37Z，含 Strava route link，无 license/copyright"
+    },
+    {
+      "index": 17,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "__NEXT_DATA__.props.pageProps.gpxUrl = .../VDA_2026_WEB_COLOMERS_ea9d9ddf9e.gpx"
+    },
+    {
+      "index": 18,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "track.points：Pòrt d'Urets 2520 m；Còth de Varradòs 2048 m；track maxElevation 2551 m"
+    },
+    {
+      "index": 19,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "站内 events 列表：tenant valdaran，continent Europe，country Spain，dateBegin 2027-07-07，dateEnd 2027-07-11，isMajor 1"
+    },
+    {
+      "index": 20,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：A unique experience. The VDA, the Tour of the Val d'Aran...163 kilometres of demanding terrain...wild valleys, abandoned mines and cirques of lakes...Aranese culture"
+    },
+    {
+      "index": 21,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "track.points 27 个 name 字段按顺序读取"
+    },
+    {
+      "index": 22,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "cutoffDatetime 逐点统计：2022-07-08/09 共 14 个，2023-07-09 为 Stet Escunhau；cutoff 显示文本为 Fri/Sat/Sun + 2027 周内时刻"
+    },
+    {
+      "index": 23,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "supplies 字段计数：food 11、hotFood 3（BOSSÒST/SALARDÚ/ARTIES）、drink 3（POILANER/MONT-ROMIES/STET ESCUNHAU），其余 none"
+    },
+    {
+      "index": 24,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "逐点 hasToilets/hasBus/hasRest/hasBag/hasShower 读取；终点 VIELHA hasBag/hasShower 为 true"
+    },
+    {
+      "index": 25,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "track.points elevation 逐点读取；Les 640 m 为最低非计时点，track minElevation 609 m 未标注点名"
+    },
+    {
+      "index": 26,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "track.points 每点 difficulty 均为 T3"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-ccc-grand-col-ferret",
+  "title": "File:Grand col Ferret.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Grand_col_Ferret.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2023-06-28",
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The file shows the grassy saddle and gravel trail at Grand Col Ferret, with hikers, a small marker, lingering snow patches, glacier ice and rocky peaks in the background.",
+    "The file metadata places the pass between Courmayeur and Orsières, in the Aosta Valley and Valais, on the Italy-Switzerland border; it contains no race, CCC or UTMB event context and is a location photograph, not a race-day photograph.",
+    "The author is Rémih, credited under CC BY-SA 4.0; the original file is 4,608 x 3,456 pixels, 6,528,750 bytes, dated 2023-06-28.",
+    "The route page uses a 960 x 720 Commons thumbnail of 254,934 bytes and credits the author and licence; attribution and share-alike are required."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons action=query imageinfo + thumbnail visual check",
+    "note": "2026-11-23 读取 Commons 文件页与 imageinfo，核对标题、作者、日期、许可、尺寸和画面；缩略图与文件描述一致。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Thumbnail shows the pass, trail, hikers, marker, snow, glacier and peaks; the file description names Le Grand col Ferret."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "ImageDescription: Courmayeur et Orsières, Vallée d'Aoste et Valais, Italie et Suisse; no CCC or race metadata appears."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "imageinfo: 4,608 x 3,456; 6,528,750 bytes; Artist Rémih; CC BY-SA 4.0; DateTimeOriginal 2023-06-28."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Local file is the 960 x 720 Commons thumbnail, 254,934 bytes; source page states attribution and share-alike."
+    }
+  ]
+}

@@ -14,5 +14,55 @@
     "Mean annual rainfall ranges from about 1,400 mm at Ping Chau to more than 3,000 mm in the vicinity of Tai Mo Shan.",
     "May to November are the months in which tropical cyclones of different intensities may strike Hong Kong, while July to September are the most likely months."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取香港天文台 Climate of Hong Kong 页"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“Hong Kong’s climate is sub-tropical, tending towards temperate for nearly half the year”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“January and February are cloudier, with occasional cold fronts… below 10 Degree C in urban areas”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“Sub-zero temperatures and frost also occur at times on high ground and in the New Territories”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“January and December are usually the driest months”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“About 80 percent of the rain falls between May and September”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“about 1400 millimetres at Ping Chau to more than 3000 millimetres in the vicinity of Tai Mo Shan”"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“May to November… tropical cyclones of different intensities may strike… July to September are the most likely months”"
+    }
+  ]
 }

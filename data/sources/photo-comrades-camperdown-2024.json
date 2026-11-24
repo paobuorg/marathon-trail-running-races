@@ -1,0 +1,26 @@
+{
+  "sourceId": "photo-comrades-camperdown-2024",
+  "title": "File:2024 Comrades Marathon at Camperdown.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:2024_Comrades_Marathon_at_Camperdown.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2024-06-09",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The file shows runners on the road at Camperdown during the 2024 Comrades Marathon.",
+    "The author and uploader is Upjav, credited as own work.",
+    "The file is released under CC0 1.0."
+  ],
+  "license": "CC0-1.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe + local 7890 proxy; Commons action=query imageinfo and w/thumb.php",
+    "note": "2026-11-20 经代理读取 Commons 文件页、imageinfo API 与 1400 px 缩略图，逐项核对作者、许可、日期、画面。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "画面为 Camperdown 公路上的 2024 年 Comrades 跑者，与文件描述一致。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "Commons Artist/Credit 字段：Upjav，own work。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "Commons LicenseShortName：CC0；LicenseUrl 指向 CC0 1.0。" }
+  ]
+}

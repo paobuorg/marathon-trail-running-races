@@ -12,5 +12,43 @@
     "Riley Brady finished second among women in 15:42:14 and Marianne Hogan third among women in 15:51:44.",
     "The results page lists finishers by place, finish time, name, gender, age, city, state and country."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 复核：本次直接读取 2026 Results 表并核对名次、时间与表头。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2026 Results 表：Place 1 行"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2026 Results 表：Place 2-3 行"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2026 Results 表：Place 11 行"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2026 Results 表：Place 12-13 行"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2026 Results 表头"
+    }
+  ]
 }

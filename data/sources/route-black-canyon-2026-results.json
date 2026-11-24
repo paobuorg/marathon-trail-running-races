@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-black-canyon-2026-results",
+  "title": "2026 Black Canyon Ultras 100K — official results",
+  "url": "https://qa.ultrasignup.com/results_event.aspx?did=125776",
+  "publisher": "UltraSignup / Aravaipa Running",
+  "publishedAt": "2026-02-14",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2026 Black Canyon 100K results page lists 765 finishers.",
+    "The men's top five were Hans Troyer 7:20:00, Anthony Costales 7:24:32, Tracen Knopp 7:26:45, Canyon Woodward 7:37:27 and Jordan Bramblett 7:42:32.",
+    "The women's top five were Jennifer Lichter 7:57:05, Anne Flower 7:57:59, Tara Dower 8:11:46, Molly Seidel 8:25:13 and Abby Hall 8:27:50.",
+    "The results page puts Lichter 54 seconds ahead of Flower; a RUN247 race report gives Flower 7:58:15 and a 70-second gap.",
+    "Sage Canaday, 40, finished seventh in 7:52:42."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "Full results table",
+    "note": "UltraSignup 2026 100K 官方成绩页，页面标题 2026 Black Canyon Ultras 100K，Finishers - 765；前 30 行逐行读取。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "表头：Finishers - 765" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "Place 1–5 行" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "女子 Place 1–5：Lichter 7:57:05、Flower 7:57:59、Dower 8:11:46、Seidel 8:25:13、Hall 8:27:50" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "UltraSignup 差 54 秒；RUN247 写 Flower 7:58:15、差 70 秒，保留两套" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "Place 7 Sage Canaday 7:52:42，年龄 40" }
+  ]
+}

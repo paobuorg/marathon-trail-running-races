@@ -1,9 +1,9 @@
 {
   "sourceId": "photo-new-york-2024",
-  "title": "File:2024 New York City Marathon Elite Men Leaders.jpg (2026-11-07 check: host unreachable from this network; not re-verified)",
+  "title": "File:2024 New York City Marathon Elite Men Leaders.jpg",
   "url": "https://commons.wikimedia.org/wiki/File:2024_New_York_City_Marathon_Elite_Men_Leaders.jpg",
   "publisher": "Wikimedia Commons",
-  "publishedAt": "2024-11-28",
+  "publishedAt": "2024-11-03",
   "accessedAt": "2026-11-06",
   "claims": [
     "The file shows the 2024 New York City Marathon elite men leaders, with winner Abdi Nageeye in the middle of the pack.",
@@ -11,5 +11,38 @@
     "The uploader and author is Nrbelex, credited as own work.",
     "The file is licensed CC BY-SA 4.0 (Creative Commons Attribution-Share Alike 4.0)."
   ],
-  "license": "CC-BY-SA-4.0"
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe --proxy local 7890 proxy；Commons action=query imageinfo + w/thumb.php 缩略图",
+    "note": "2026-11-20 经本地 7890 代理读取 Commons 文件页、imageinfo API 与缩略图，确认作者、许可、拍摄日期和画面。此前 blocked 是本机直连不可达，不是文件不存在或没有许可。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    }
+  ]
 }

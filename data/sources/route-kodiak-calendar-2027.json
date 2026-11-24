@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-kodiak-calendar-2027",
+  "title": "Kodiak Ultra Marathons — 2027 calendar entry",
+  "url": "https://ultrarunning.com/calendar/event/kodiak-100",
+  "publisher": "UltraRunning Magazine",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "UltraRunning's calendar lists the 2027 Kodiak 100-mile on 8 October 2027 with a 36-hour cut-off and the 100K on 9 October 2027 with a 20-hour cut-off.",
+    "The same calendar's past-results table lists 2026 100M 279 finishers with 20:43:40 and 16:46:21 as the top women's and men's times.",
+    "The calendar's past-results table gives the 2023 100M winners as 21:10:28 and 16:22:08."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 直读 UltraRunning 日历页；2027 日期为第三方日历，不是组委会确认，正文明确标为参考。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "Upcoming Races 段：Oct 8 2027 100 Miles 36:00；Oct 9 2027 100 KM 20:00" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "100 Miles 历届表：10/09/26，279，20:43:40，16:46:21" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "100 Miles 历届表：10/13/23，147，21:10:28，16:22:08" }
+  ]
+}

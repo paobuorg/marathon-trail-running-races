@@ -12,5 +12,44 @@
     "Each Park & Ride point has secure parking and toilets.",
     "The page warns that road closures leave little or no access to parking near the start/finish area, and that congestion in Green Point can mean missing the start."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "本地静态抓取 .agent/capetown/raw",
+    "note": "Park & Ride 页面已读；核对票价、五个上车点、首末班与返程时段"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面列 UCT、Theo Marais Park、CTICC、Civic Centre、Century City 五点，票价 'R50 per person'"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "时刻表：UCT/Theo Marais/Century City 04:00–04:30；CTICC/Civic Centre 04:00–05:00"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "返程 'from 10:00 to 14:30'，五个点相同"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面逐点写 secure parking 与 toilets"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文警告：道路封闭使起点/终点附近停车'little or no access'，Green Point 拥堵可能导致错过起跑"
+    }
+  ]
 }

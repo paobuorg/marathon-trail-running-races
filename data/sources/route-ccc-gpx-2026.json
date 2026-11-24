@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-ccc-gpx-2026",
+  "title": "CCC 2026 — official GPX from the HOKA UTMB Mont-Blanc race page",
+  "url": "https://pdf.utmb.world/raw/upload/v1785143154/montblanc/Races/GPX/2026/CCC_2026_cd3cb129a5.gpx",
+  "publisher": "HOKA UTMB Mont-Blanc / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The official CCC race page exposes a direct GPX link under pdf.utmb.world; a HEAD request on 2026-11-20 returned HTTP 200 with 1,468,412 bytes.",
+    "The GPX metadata names the track CCC 2026, credits LiveTrail as creator and carries a LiveTrail copyright line but no redistribution licence.",
+    "The file contains 9,064 track points; a local planar calculation gives 99.36 km, with a 3 m elevation threshold giving +6,015 m and −6,199 m between 1,035 m and 2,556 m.",
+    "The GPX's 99.36 km is 8.44 km shorter than the official timing table's 107.8 km for the 2026 rerouted course, so the file cannot be treated as the raced 2026 geometry without further confirmation."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "official race page HTML + direct GPX download",
+    "note": "Direct URL extracted from https://montblanc.utmb.world/races/ccc; file downloaded once to a temporary directory, measured locally, then deleted. The file carries a LiveTrail copyright line and no reuse grant."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "HEAD https://pdf.utmb.world/.../CCC_2026_cd3cb129a5.gpx: 200, application/octet-stream, content-length 1,468,412."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "GPX metadata: <name>CCC 2026</name>, creator LiveTrail, copyright author LiveTrail."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Local parse of 9,064 trkpt; haversine planar sum 99.36 km; 3 m threshold ascent 6,015 m, descent 6,199 m; elevation range 1,035–2,556 m."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Comparison: official 2026 timing table total 107.8 km vs GPX 99.36 km; 107.8 − 99.36 = 8.44 km."
+    }
+  ]
+}

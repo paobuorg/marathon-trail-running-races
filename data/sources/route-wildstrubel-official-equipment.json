@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-wildstrubel-official-equipment",
+  "title": "Mandatory equipment — Wildstrubel by UTMB",
+  "url": "https://wildstrubel.utmb.world/mandatory-equipment",
+  "publisher": "UTMB World Series / Wildstrubel by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The Wild 110 and Wild 70 basic kit includes a running pack, a smartphone with Swiss roaming and LiveTrail, a 15 cl cup, at least 1 litre of water, an 800 kcal food reserve, two headlamps with spare batteries, a 1.4 × 2 m survival blanket, a whistle, a 100 × 6 cm elastic bandage, a waterproof hooded jacket (10,000 mm, RET 13), full-length leg cover, a warm long-sleeved second layer of at least 180 g and ID.",
+    "The hot-weather kit adds sunglasses, a head-and-neck cover and SPF 50 sunscreen and raises the water minimum to 2 litres; the cold-weather kit adds a down third layer, protective glasses, a beanie, warm waterproof gloves, waterproof overpants and sturdy closed-toe trail shoes."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取并读取 Wild110 & Wild70 的强制装备清单。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "Basic Kit 逐项照录：pack、smartphone（roaming + LiveTrail）、15 cl cup、1 L water、800 kcal、two headlamps、1.40 × 2 m blanket、whistle、100 × 6 cm bandage、10,000 mm/RET 13 jacket、full-leg cover、180 g second layer、ID" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "Hot Weather Kit 与 Cold Weather Kit 逐项照录；Wild110 热水上限为 2 litres" }
+  ]
+}

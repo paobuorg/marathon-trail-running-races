@@ -1,0 +1,31 @@
+{
+  "sourceId": "route-comrades-2027-entrant-stats",
+  "title": "Entrant Statistics for 2027 Comrades Marathon",
+  "url": "https://www.comrades.com/blogs/entrant-statistics-for-2027-comrades-marathon",
+  "publisher": "Comrades Marathon Association (CMA)",
+  "publishedAt": "2026-10-21",
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "A total of 28,070 athletes successfully secured an entry for the 2027 Comrades Marathon.",
+    "The CMA received a total of 56,283 entry submissions and ballot applications during the three-part entry process.",
+    "The 2027 race will take place on Sunday 13 June and will follow the Down Run direction, starting in front of the Pietermaritzburg City Hall and finishing at the Hollywoodbets Kings Park precinct in Durban.",
+    "The entry cap was increased to 28,000 athletes, up from 22,000 entries in 2026 and 24,000 for the most recent Down Run in 2025, and the 2027 race will have the largest field in Comrades Marathon history.",
+    "The new finish venue will provide additional capacity for the expanded field, spectators and Centenary activities.",
+    "The CMA describes the 2027 race as 'the 100th centenary edition of the world-famous Ultimate Human Race'."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 CMA 官方博客，抄录 28,070 已获名额、56,283 份提交/抽签申请、28,000 名额上限、起点与终点、largest field 表述。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'the field of 28,070 athletes who successfully secured an entry'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'a total of 56,283 entry submissions and ballot applications received during the three-part entry process'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'will take place on Sunday 13 June and will follow the Down Run direction, starting in front of the Pietermaritzburg City Hall and finishing at the Hollywoodbets Kings Park precinct in Durban'。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'increase the entry cap to 28,000 athletes – up from 22,000 entries in 2026, and 24,000 for the most recent Down Run in 2025 – and the 2027 race will have the largest field in Comrades Marathon history'。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'The new finish venue will provide additional capacity for the expanded field, spectators and Centenary activities.'" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：'With next year’s race marking the 100th centenary edition of the world-famous Ultimate Human Race…'（2026-11-09 复核同页）。" }
+  ]
+}

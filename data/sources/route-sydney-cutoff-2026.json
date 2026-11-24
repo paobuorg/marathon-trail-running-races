@@ -25,5 +25,122 @@
     "Mrs Macquarie's Rd is a redirection point at approximately 38.75 km, skipping the Mrs Macquarie's point loop, with a cut-off 6 hours 27 minutes after closure and a 3:07pm day time.",
     "The document states that the event must reopen state and local roads and the Sydney Harbour Bridge by the advertised time, and that cut-off times will be recalculated if the start window closes late."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl 下载 PDF，PyMuPDF 提取全文",
+    "note": "PDF 3 页全文可读，逐项核对起跑窗口、7 小时关门与 11 个关门/改道点的时间、里程和跳过距离"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PDF 第 1 页：'2026 Sydney Marathon Start Time: for Runners is 6:30 AM'；'Start Window is 130min'；'Start Line will be closed at 8:40 AM'"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'All Participants must complete the Sydney Marathon Course within 7 Hours'；'average speed of 10min per KM or better'"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'Day Times are calculated from 8:40 AM'；'Event Tail Sweep Pacer will cross the Start Line at 8:40 AM and start their Race Pace Stopwatch'"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 1 页列三种处理：进 SAG vehicle、沿 FOP 内外走回终点、skip 一段继续；另有 SAG 车接走"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'Tail Control Pacer/ Sweep' 与 'Participant Tail Support Vehicle'；'the runner will be warned twice'"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'Anyone who takes the skip option ... will be Disqualified (DSQ) not be regarded as an official finisher'"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 3 页第 1 项：'Start Line (Cut-off Point)'，0 km，'8:40 AM'"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 3 页第 2 项：17.8 km、Approx 1.00 km、2 hrs:57 min、11:37 AM"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 3 页第 3 项：21.2 km、Approx 4.00 km、3 hrs:31 min、12:11 PM；标题写 Baker St，正文写 Barker St"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 3 页第 4 项：22.0 km、Approx 2.00 km、3 hrs:40 min、12:19 PM"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 3 页第 5 项：28.3 km、4 hrs:42 min、1:22 PM；'option to retire and walk back to Finish along the FOP'"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 3 页第 6 项：29.1 km、4 hrs:50 min、1:30 PM；可走回终点或离场进 SAG"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 3 页第 7 项：30.26 km、5 hrs:02 min、1:42 PM；'skipping the full loop of CP'"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 3 页第 8 项：33.4 km、5 hrs:34 min、2:14 PM；'Centennial Park Medical Tent (Jervois Ave) (SAG Pick Up Point)'"
+    },
+    {
+      "index": 14,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 3 页第 9 项：35.1 km、5 hrs:50 min、2:32 PM；'Hard Cut-Off & SAG Pick Up Point'"
+    },
+    {
+      "index": 15,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 3 页第 10 项：37.6 km、6 hrs:15 min、2:55 PM；'Prince Albert Rd into Macquarie ST, skipping RBG'"
+    },
+    {
+      "index": 16,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 3 页第 11 项：38.75 km、6 hrs:27 min、3:07 PM；'skipping Mrs Macquarie's point loop'"
+    },
+    {
+      "index": 17,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 1 页：'reopen state and local road networks and the Sydney Harbour Bridge by the advertised time'；第 2 页：延迟关闭时 'all cut-off timings will be recalculated'"
+    }
+  ]
 }

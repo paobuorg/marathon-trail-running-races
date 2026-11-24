@@ -4,7 +4,7 @@
   "url": "https://www.grandraid-reunion.com/fr/informations-pratiques/arrivee-a-l-aeroport-roland-garros/",
   "publisher": "Grand Raid de La Réunion",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The organiser welcomes runners and their companions arriving on flights from Paris at Roland Garros airport.",
     "The airport welcome runs from Saturday 3 October to Tuesday 13 October 2026.",
@@ -12,5 +12,43 @@
     "The reception offers coffee, tea, Creole specialities and updates on the routes, weather and trail conditions from the race president or a representative.",
     "The organiser describes Roland Garros as the first aid station of every Grand Raid race."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官方到达机场页正文"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Concurrents métropolitains et étrangers sur les vols en provenance de Paris… attendus à l’aéroport Roland Garros”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Du samedi 3 octobre au mardi 13 octobre 2026”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“bénévoles, reconnaissables à leurs T-shirts et leurs pancartes… guideront vers le lieu de réception”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“café, thé, spécialités créoles…”；“Le Président du Grand Raid, ou son représentant… parcours, météo, état des sentiers”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Roland Garros est le tout premier poste de ravitaillement de toutes les courses du Grand Raid”"
+    }
+  ]
 }

@@ -14,8 +14,77 @@
     "The page says own refreshments can be delivered to 5, 9, 15, 20, 25, 30, 36 and 40 km, with containers handed in from 07:00 to 07:45 at the own-refreshment stand outside the fenced area Annemarie-Renger-Str. / Otto-von-Bismarck-Allee.",
     "The page says containers must be marked with the runner's name, bib number and refreshment point and must not be made of glass.",
     "The page says all drinks are served in cups and that own hydration systems can be refilled at every refreshment point, at the last water table.",
-    "The page gives elevation as 'tba'; the fetched page provides an interactive map and a start/finish-area PDF link, and no GPX or KML download link was found.",
+    "The current 2026/2027 course page gives elevation as 'tba' and provides an interactive map and a start/finish-area PDF link; it does not link a GPX or KML file. A separate official 2025 GPX file is documented in route-berlin-gpx-2025.",
     "The page states that the interactive map shows the routes and information for the 2026 BMW BERLIN-MARATHON and will be updated when the 2027 map is available."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 https://www.generali-berlin-marathon.com/en/race-weekend/course → .agent/berlin-shanghai35/berlin-course.html；HTML 转文本核对",
+    "note": "页面为 2027 年版，课程距离、补给与自备补给正文可读；elevation 标 tba。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "课程页写明“flattest of the Abbott World Marathon Majors”及“42.195 km route”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文“very little elevation gain”“15 aid stations along the course”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026 Race Briefing PDF 补给表：Water at KM 5/12/17.5/22.5/27.5/32.5/34.5/38/40；与 claim 一致。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文“Water, fruit, tea und Maurten DRINK MIX 160: 9/15/20/25/30/36 km”。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文“Maurten Gel 100: 27,5 km”。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文列 5/9/15/20/25/30/36/40 km，07:00–7:45 交至 Annemarie-Renger-Str./Otto-von-Bismarck-Allee 围栏外。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文要求容器标注姓名、号码布、补给点，且 no glass。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文“All drinks are served in cups”；补水系统可在每个补给点最后一桌加水并认 refill sign。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面“Elevation tba”；仅有 interactive map 与 start/finish PDF 链接，HTML 中无 gpx/kml/geojson；2025 官方 GPX 另见来源 route-berlin-gpx-2025。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文“map shows the routes and information for the 2026 BMW BERLIN MARATHON… updated as soon as…2027…available”。"
+    }
+  ]
 }

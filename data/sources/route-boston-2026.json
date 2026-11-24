@@ -6,7 +6,7 @@
   "publishedAt": null,
   "accessedAt": "2026-11-06",
   "claims": [
-    "The site presents the 130th Boston Marathon presented by Bank of America as the 2026 edition and promotes the 131st Boston Marathon presented by Bank of America.",
+    "The site presents the 131st Boston Marathon presented by Bank of America as the next edition and states that the event represents 130 years of marathon history.",
     "30,000 participants will race on Patriots' Day.",
     "The event is supported by nearly 10,000 volunteers from start to finish.",
     "US$57.3 million has been raised through the Bank of America Official Charity Program.",
@@ -14,5 +14,56 @@
     "33,656 qualifier applications were received for the 2027 Boston Marathon.",
     "Qualifier acceptances for the 131st Boston Marathon were announced on 29 September 2026."
   ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "页面已改版：当前宣传 The 131st Boston Marathon 与 130 years of marathon history。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“30,000 participants will race on Patriots' Day.”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“supported by nearly 10,000 volunteers from start to finish”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“US$57.3 million has been raised through the Bank of America Official Charity Program”。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文出现“130 years of marathon history”。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“33,656 qualifier applications were received for the 2027 Boston Marathon”。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文写明录取通知自 2026 年 9 月 29 日开始发出。"
+    }
+  ],
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe + HTML 转文本",
+    "note": "HTTP 200；页面主体已切换为 2027 年第 131 届，2026 届 130th 的表述不再存在。"
+  },
   "license": null
 }

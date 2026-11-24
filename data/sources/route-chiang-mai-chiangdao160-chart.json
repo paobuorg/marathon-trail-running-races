@@ -1,0 +1,33 @@
+{
+  "sourceId": "route-chiang-mai-chiangdao160-chart",
+  "title": "CHIANG DAO 160 mandatory time chart 2026",
+  "url": "https://img.utmb.world/image/upload/v1791343933/thailand/Time%20chart/TIME%20CHART%202026/Chiang_Dao_100_M_64f3903485.jpg",
+  "publisher": "UTMB World Series / HOKA Chiang Mai Thailand by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The official time chart lists 18 rows: the start at Wat Tham Chiang Dao, aid stations A1 to A16, and the finish at Chiang Mai PAO Park.",
+    "The chart gives cumulative distances of 0, 9, 23, 33, 43, 51, 65, 72, 82, 92, 100, 110, 115, 130, 139, 149 and 162 km at the start, A1 to A16, and 173 km at the finish.",
+    "The chart gives station altitudes from 430 m at the start up to 1,560 m at A3, and 320 m at the finish.",
+    "The chart gives cumulative ascent of 9,840 m and cumulative descent of 9,960 m at the finish.",
+    "The chart shows cut-off times at eight points only: A3 19:00 on 4 December, A5 23:00 on 4 December, A7 04:00 on 5 December, A10 12:30 on 5 December, A11 16:30 on 5 December, A13 23:30 on 5 December, A16 07:30 on 6 December and the finish 10:00 on 6 December; the start, A1, A2, A4, A6, A8, A9, A12, A14 and A15 show no cut-off time.",
+    "The chart gives 'fastest' and 'slowest' reference times for every row, with the slowest times running from 10:00 at the start to 10:00 at the finish 48 hours later.",
+    "The file name of the chart contains 'Chiang_Dao_100_M', while the race itself is published as 173 km."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 下载官方 JPG（1920×1344）并逐格读图；关门列（COT/Time Barriers）与时间列分别放大 3 倍复核。官方只以图片发布该表，没有 HTML 表格或可下载的 CSV"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "表体 18 行：START / A1-A16 / FINISH" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Cumul. Distance 列逐行读数 0/9/23/33/43/51/65/72/82/92/100/110/115/130/139/149/162/173" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Altitude 列：430/450/750/1560/1080/530/1250/710/670/1050/740/860/1280/520/1010/1380/680/320" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Cumul. H+ 末行 9840；Cumul. H- 末行 9960" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "COT 列八处有值，其余留空；放大图逐行核对" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "Fastest 与 Slowest 两列逐行有值；起点 10:00、终点 10:00（次日 +2）" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "文件名 Chiang_Dao_100_M_64f3903485.jpg 与 CHIANGDAO160 页面对应的 173 KM 不一致，按原文并列记录" }
+  ]
+}

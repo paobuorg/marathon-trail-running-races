@@ -1,17 +1,33 @@
 {
   "sourceId": "route-western-states-commons-2026",
-  "title": "Wikimedia Commons search – Western States 100 (2026-11-07 check: host unreachable from this network; not re-verified)",
+  "title": "Wikimedia Commons search – Western States 100 (2026-11-20 proxy recheck)",
   "url": "https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=%22Western%20States%20100%22&gsrnamespace=6&gsrlimit=30&prop=imageinfo&iiprop=url%7Cextmetadata&format=json",
   "publisher": "Wikimedia Commons",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-20",
   "claims": [
     "The Commons search returned files in Category:Western States Endurance Run.",
     "File:Finish!.jpg is licensed CC BY 2.0, credited to Jon Roig, dated 2010-06-27, and its description links to the English Wikipedia article Western States Endurance Run.",
     "File:Foot repair, Michigan Bluff.jpg is licensed CC BY 2.0, credited to Jon Roig, dated 2010-06-27, and its description references Western States Endurance Run 2010 at Michigan Bluff.",
-    "File:Race Start.jpg is licensed CC BY 2.0, credited to Jon Roig, dated 2010-06-27, and its description references Western States Endurance Run 2010.",
+    "File:Race Start.jpg is licensed CC BY 2.0, credited to Jon Roig, dated 2010-06-29, and its description references Western States Endurance Run 2010.",
     "File:HalKoerner2009.jpg is public domain, dated 2009-06-27, and its description says Hal Koerner is climbing into Michigan Bluff during the Western States 100 in 2009.",
-    "File:Western States 100 Finish Line.JPEG is licensed CC BY-SA 4.0, dated 2011, and its description references the finish line at Placer Union High School."
+    "File:Western States 100 Finish Line.JPEG is licensed CC BY-SA 4.0, dated 2011-07-14, and its description references the finish line at Placer Union High School."
   ],
-  "license": "CC0-1.0"
+  "license": "CC0-1.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe via local 7890 proxy + Commons action=query imageinfo API",
+    "note": "2026-11-20 经本机 7890 代理重试成功，action=query 返回 12 个文件及 extmetadata。2026-11-08 的直连超时只说明本机网络不可达，不是文件或许可不存在。Race Start 的 DateTimeOriginal 为 2010-06-29，原条目写成 2010-06-27，已按元数据纠正。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "action=query generator=search 返回 12 个 Commons 文件，含赛事照片与路线剖面图。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "File:Finish!.jpg：Jon Roig，CC BY 2.0，2010-06-27 20:38:47；描述为 en:Western States Endurance Run。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "File:Foot repair, Michigan Bluff.jpg：Jon Roig，CC BY 2.0，2010-06-27 07:11:17；描述为 en:Western States Endurance Run 2010。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "File:Race Start.jpg：Jon Roig，CC BY 2.0，DateTimeOriginal 2010-06-29 06:16:32；描述为 video en:Western States Endurance Run 2010。原 claim 日期已纠正。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "File:HalKoerner2009.jpg：Kbertilson，Public domain，2009-06-27；描述为 Hal Koerner climbing into Michigan Bluff during the Western States 100 in 2009。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-20", "note": "File:Western States 100 Finish Line.JPEG：Trackinfo，CC BY-SA 4.0，2011-07-14；描述为 The finish line to the Western States 100 at Placer Union High School。" }
+  ]
 }
+

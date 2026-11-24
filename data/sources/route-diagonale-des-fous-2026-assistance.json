@@ -4,7 +4,7 @@
   "url": "https://www.grandraid-reunion.com/fr/informations-pratiques/assistance/",
   "publisher": "Grand Raid de La Réunion",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-08",
   "claims": [
     "Personal assistance is allowed only within 300 m before and 300 m after an official Grand Raid aid station, in zones marked by the station chief.",
     "Accepting a pacer or any outside assistance outside those tolerance zones is penalised under article 17 of the rules.",
@@ -13,5 +13,49 @@
     "The assistance page states the 2026 Diagonale course as 180.8 km with a Thursday 15 October 22:00 start from Saint-Pierre to Saint-Denis.",
     "The page cites the official 2026 cut-off tables as its source and says the official rules prevail in case of divergence."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官方个人协助页正文与 33 点列表"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“uniquement dans une zone définie de 300 mètres en amont et 300 mètres en aval”；“zones de tolérance… signalées… par le chef de poste”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“pénalité… telle que prévue à l’article 17 du règlement”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“15 points autorisés sur 33”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面 15 个 ✓ 点位与 claim 完全一致，含 Ti Col Maïdo 与终点"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“180,8 km · départ jeudi 15 oct. 22h00 · Saint-Pierre → Saint-Denis”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页脚：“Source : tableaux officiels des barrières horaires 2026. En cas de divergence, le règlement officiel de l’épreuve fait foi.”"
+    }
+  ]
 }

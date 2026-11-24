@@ -1,0 +1,21 @@
+{
+  "sourceId": "route-tor-mag-2015-shortened",
+  "title": "Everything is ready for TORX with Kailas — official TORX magazine",
+  "url": "https://mag.torxtrail.com/2025/news/everything-is-ready-for-torx-with-kailas/",
+  "publisher": "TORX / VDA Trailers",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The official TORX magazine describes Denise Zimmermann's 2015 win as coming in the shortened edition ending at Ollomont."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接读取官方 TORX 杂志页。该表述与官方规程对 2015 届中止点的写法不一致，两者并列，不合并。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：Denise Zimmermann, winner in 2015 (in the shortened edition ending at Ollomont)." }
+  ]
+}

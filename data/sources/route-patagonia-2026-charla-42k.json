@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-patagonia-2026-charla-42k",
+  "title": "2026 技术说明（42k）：官方不提供 GPX 的原话与土地授权说明",
+  "url": "https://pr26.b-cdn.net/pdf/ct/Patagonia_Run_2026_Charla_Tecnica_42k.pdf",
+  "publisher": "Patagonia Run",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "文件写“No hay tracks GPS oficiales”，并写“La navegación es por marcación de carrera.”与“No se comparten tracks del circuito.”。",
+    "文件在信号与授权部分重申：“no se compartirán tracks GPS oficiales. La carrera se sigue por marcación y por lo anunciado por Dirección Técnica.”。",
+    "文件写私人、军事、机构与社区土地仅在赛事官方日期与时段获得授权；赛前或赛后进入认路、训练可能影响未来许可，并可导致处罚直至取消资格。",
+    "文件是 2026 年第 16 届的 42k 场次，不是 2027 年 100Mi 版，也不是 2027 赛道数据。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 读取该 PDF 全文。只把它作为官方轨迹政策与土地授权的证据，不把 42k 的距离、爬升或关门用于 100Mi。",
+    "checkedVia": "https://patagoniarun.com/"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "PDF 第 2 页“ALGUNAS GENERALIDADES IMPORTANTES”三条连续原文。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "PDF 第 5 页“SEÑALIZACIÓN, BASURA, ABANDONO Y PASO AUTORIZADO”下方原文。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "同页原文：Terrenos privados, militares, institucionales y de comunidades están autorizados SOLO para el día y horario oficial del evento。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "封面：PATAGONIA RUN / CHARLA TÉCNICA 2026 / 42k / 16ª edición。" }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-mtfuji-childrens-world",
+  "title": "File:MtFuji ChildrensWorld.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:MtFuji_ChildrensWorld.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2015-05-02",
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The image shows the main entrance area of Mount Fuji Children's World, with carp streamers above grass, an entrance sign reading Mt.FUJI CHILDREN'S WORLD, and Mount Fuji behind the sign.",
+    "The Commons file identifies Mount Fuji Children's World, the exact start venue of FUJI100mi; it contains no race bib, start arch, corral, timing mat or race-day crowd, so it is a venue photograph, not race-day evidence.",
+    "The author is Mocchy; the file is public domain; the original is 2,048 x 1,152 pixels and 551,757 bytes; the photograph was taken from the main gate on 2015-05-02 and uploaded on 2015-05-25.",
+    "The route page uses a 960 x 540 copy of 170,926 bytes without cropping or colour change and credits the author, public-domain status and source."
+  ],
+  "license": "Public-Domain",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons file page, imageinfo API and downloaded 960 px copy inspection",
+    "note": "2026-11-23 通过 Commons 文件页与 imageinfo API 读取作者、许可、原图尺寸与拍摄说明，下载 960 px 副本并目视核对正门、鲤鱼旗、入口牌与富士山；画面没有赛事元素，按起点场地照使用。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地副本可见草地上的鲤鱼旗、写有 MT.FUJI CHILDREN'S WORLD 的入口牌、树线与远处富士山。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Commons 标题、描述与 Credit 均指向富士山こどもの国正门；文件页没有赛事、起跑拱门或号码布信息。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "imageinfo：Artist Mocchy；LicenseShortName Public domain；2,048 x 1,152、551,757 字节；DateTimeOriginal 2015-05-02；Credit 正门より撮影；上传 2015-05-25。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地文件 960 x 540、170,926 字节；未裁剪、未改色；页面署名 Mocchy / Public domain / Wikimedia Commons。"
+    }
+  ]
+}

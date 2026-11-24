@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-paraty-2026-report",
+  "title": "Paraty Brazil by UTMB 2026: quem venceu a PTR 108 — Somos Trail",
+  "url": "https://somostrail.run/paraty-utmb-2026-ptr108-resultado/",
+  "publisher": "Somos Trail",
+  "publishedAt": "2026-09-19",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "Rogério Silvestrin won the 2026 PTR 108 in 12:43:38, 38 seconds ahead of Rodrigo Machado Oliveira (12:44:16); Paulo Galvao was third in 13:20:53.",
+    "Juliana Stolarski Uavnizack won the women's PTR 108 in 15:55:53; Mariana Scarpelli was second in 16:38:38 and Lilian Schiffer third in 17:41:58; all six podium finishers were Brazilian.",
+    "The organiser measured the 2026 PTR 108 at 101.9 km with 4,778 m of gain; the race started at 19:00 on Friday from the historic centre, and a finish under 26 hours gives access to the Western States lottery.",
+    "The 2026 edition was the fourth edition and the first with Nubank as naming-rights partner; the organiser described it as the country's first cardio-protected trail race with 30 AEDs across the course and medical posts."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 直接读取 Somos Trail 2026 PTR 108 赛后报道，核对成绩、实测距离/爬升、Western States 门槛与赛事变化。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "原文：Silvestrin 12h43min38s，Oliveira 12h44min16s，38 秒差；Paulo Galvão 13h20min。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "原文：Juliana 15h55min；Mariana 16h38min；Lilian 17h41min；'todos os seis do pódio são brasileiros'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "原文：'101,9 km e 4.778 m de D+ medidos pela organização'；19h 起跑；'até 26 horas' 进入 Western States 抽签。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "原文：'quarta edição'；Nubank 首次冠名；'30 desfibriladores automáticos (DEAs)'。" }
+  ]
+}

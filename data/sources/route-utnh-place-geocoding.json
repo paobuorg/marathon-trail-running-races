@@ -1,0 +1,21 @@
+{
+  "sourceId": "route-utnh-place-geocoding",
+  "title": "Open-Meteo Geocoding API — Ninghai",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=Ninghai&count=3&language=en&format=json",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "Open-Meteo 地理编码将 Ninghai（浙江省宁海县）定位在纬度 29.28917、经度 121.42472。"
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接调用 Open-Meteo 地理编码接口。该坐标是县城点位，不是西门城楼的起跑线坐标。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "接口返回 results[0]：name=Ninghai, latitude=29.28917, longitude=121.42472, country=China, admin1=Zhejiang。" }
+  ]
+}

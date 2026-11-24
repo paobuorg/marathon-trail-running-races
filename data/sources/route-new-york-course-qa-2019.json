@@ -13,5 +13,50 @@
     "The article states that the marathon enters the Bronx during mile 20 and exits it just after mile 21.",
     "The article describes three start lines and refers to a green wave taking the lower level of the Verrazzano Bridge, wording that differs from the 2026 race and start pages' blue, orange and pink colours."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch 读取 www.nyrr.org 原文（直接 curl 该路径返回 404）",
+    "note": "2019-10-17 文章全文可读，作者 Lela Moore，含五条 myth 与教练引语"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页眉日期：“Oct 17, 2019”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Myth: really hilly 段，教练 Ben Delaney：“The highest point of the race is in the first two miles, at a whopping 260 ft above sea level”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：“The highest hill in the TCS New York City Marathon is the Verrazzano Bridge. That is, miles 1 and 2.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：“You have the Queensboro Bridge at miles 15 to 16 and then Fifth Avenue at miles 22 to 23.”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Bronx myth 段：“The marathon enters the Bronx during mile 20 and exits it just after mile 21.”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Green wave myth 段：“The New York City Marathon has three separate start lines… The blue and orange waves begin atop the Verrazzano Bridge. The green wave takes off on the bridge’s lower level.”"
+    }
+  ]
 }

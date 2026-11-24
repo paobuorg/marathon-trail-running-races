@@ -1,0 +1,47 @@
+{
+  "sourceId": "route-two-oceans-history",
+  "title": "History — Two Oceans Marathon",
+  "url": "https://www.twooceansmarathon.org.za/about-two-oceans/history/",
+  "publisher": "Two Oceans Marathon NPC",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The first Two Oceans race was held on Saturday 2 May 1970 over 35 miles from Impala Park; 26 runners started, 15 finished, the entry fee was 50 cents and Dirkie Steyn won barefoot in 3:55:50.",
+    "Thompson Magawana set the still-standing men's course record of 3:03:44 on 2 April 1988, also setting world bests for 30 miles and 50 km.",
+    "The 1998 edition moved the start to Main Road, Newlands and the finish to the University of Cape Town rugby fields.",
+    "In 2000 the cut-off was extended from 6:30 to 7 hours; Chapman's Peak Drive closed after fires and rockfalls, and the race used Ou Kaapse Weg for the next four years while keeping the 56 km distance."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "Official history page read in full on 2026-11-20. It records the 1970 first race, Magawana's 1988 record, the 1998 Newlands-to-UCT move and the 2000 cut-off/Chapman's Peak changes."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "History page: first race Saturday 2 May 1970, 26 runners, 15 finishers, 35 miles, 50 cents, Dirkie Steyn 3:55:50 barefoot."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "History page: 2 April 1988, 3:03:44 course record still stands; world bests for 30 miles and 50 km."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "History page: 1998 moved to Main Road Newlands start and UCT rugby fields finish."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "History page: cut-off extended to 7 hours in 2000; Chapman's Peak closed and Ou Kaapse Weg used for four years at 56 km."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-sdw100-wtm",
+  "title": "South Downs Way 100 — World Trail Majors all-races listing",
+  "url": "https://worldtrailmajors.com/all-races/",
+  "publisher": "World Trail Majors",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The World Trail Majors all-races listing describes the South Downs Way 100 as a 100-mile (160-kilometre) point-to-point race following the historic South Downs Way national trail through rolling terrain, past ancient Roman forts and through villages in southern England.",
+    "The same listing gives the South Downs Way 100 dates as 2026/06/13-14 and places the entry in the World Trail Majors all-races grid."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接抓取 all-races 页面。列表只列 2026 届日期，没有 2027 日期；WTM 单场赛事页本次抓取返回空内容。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "列表描述原文：'a 100-mile (160-kilometer) point-to-point race that follows the historic South Downs Way national trail through rolling terrain, past ancient Roman forts, and through picturesque villages in southern England.'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "条目 meta 日期：2026/06/13-14；父级 class 含 'world-trail-majors'" }
+  ]
+}

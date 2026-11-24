@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-zegama-2027",
+  "title": "We have a date for 2027! — Zegama-Aizkorri news",
+  "url": "https://www.zegama-aizkorri.com/en/news/368-date-2027",
+  "publisher": "Zegama-Aizkorri Mendi Maratoia (organiser)",
+  "publishedAt": "2026-10-09",
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The organiser announces that the 26th Zegama-Aizkorri will be held on 6 June 2027 and calls it 'the most iconic mountain marathon'.",
+    "The same article states that the event is a qualifying race for the Golden Trail World Series and will again have 225 bibs available through a public lottery.",
+    "The same article gives pre-registration for the marathon from 11 to 22 January 2027 and the bib draw on 12 February 2027.",
+    "The same article gives the 13th Vertical Kilometre on 4 June 2027 and the 16th Junior Trail on 6 June 2027 for ages 16 to 18.",
+    "The same article reports the 2026 winners as Tove Alexandersson in 4h08:09 and Elhousine Elazzaoui in 3h45:07, and says Elazzaoui was the first male runner after Kilian Jornet to repeat a victory in Zegama.",
+    "The same article states that Alexandersson shattered the course record in her debut appearance in Zegama.",
+    "The same article says hundreds of spectators will once again carry the runners on a wave of passion through world-renowned spots such as Sancti-Spiritu.",
+    "The same article says bibs are allocated by draw, by qualifying times and by direct entries reserved for local residents or runners who have completed every previous edition, and that KV and Junior Trail pre-registration runs from 25 January to 5 February 2027."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取赛事官网 2026-10-09 新闻全文，抄录 2027 届次、日期、225 个抽签名额、预报名与抽签日期、VK 与 Junior Trail 届次，以及 2026 冠军成绩与原句。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'The 26th Zegama-Aizkorri will be held on 6 June'；'the 26th edition of what is considered the most iconic mountain marathon'；'On June 6, 2027'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'A qualifying race for the Golden Trail World Series, the event will once again have 225 bibs available through a public lottery.'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'pre-registration will open on 11 January'；'from January 11 to January 22'；'The bib draw for all three races will be held on February 12.'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'13th Zegama-Aizkorri Vertical Kilometer'；'16th Zegama-Aizkorri Junior Trail'；'ages 16–18'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "'Tove Alexandersson ... 4h08:09'；'Elhousine Elazzaoui (3h45:07) ... first male runner after Kilian Jornet to repeat a victory'" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "'who shattered the course record in her debut appearance in Zegama'" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "'hundreds of spectators will once again carry the runners on a wave of passion through world-renowned spots like Sancti-Spiritu'" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "'spots will be allocated via the draw, by qualifying times, and direct entries reserved for local residents or those who have completed every previous edition'；'pre-registration for the 13th edition of the Vertical Kilometre and the 16th edition of the Junior Trail ... will run from January 25 to February 5'" }
+  ]
+}

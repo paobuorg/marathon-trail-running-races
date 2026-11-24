@@ -1,16 +1,54 @@
 {
   "sourceId": "route-diagonale-des-fous-2026-reunion3d",
-  "title": "Diagonale des Fous 2026 — parcours, barrières horaires et carte 3D",
+  "title": "Diagonale des Fous 2027 — parcours, barrières horaires et carte 3D",
   "url": "https://www.reunion3d.re/grandraid/diagonaledesfous/",
   "publisher": "Reunion3D",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-08",
   "claims": [
-    "The Reunion3D page presents the 2026 Diagonale des Fous as 180.6 km with +10,199 m D+ and a 66-hour limit.",
-    "The page states that the 2026 route removes the Cilaos cirque passage and the Col du Taïbit climb, going after Coteau Kerveguen to Caverne Dufour, Cap Anglais and the Bélouve gîte before entering the Salazie cirque.",
-    "The page states that Hell-Bourg replaces Cilaos as the first major base, with hot meal and drop bag.",
-    "The page offers a GPX download for the 2026 course from its course map.",
+    "The Reunion3D page, labelled “Diagonale des Fous 2027”, gives 180.6 km, +10,199 m D+ and a 66-hour limit; its 15–18 October dates name Thursday–Sunday, which matches 2026, not 2027.",
+    "Under that 2027 label, the page states the route removes the Cilaos cirque passage and the Col du Taïbit climb, going via Caverne Dufour, Cap Anglais and the Bélouve gîte into the Salazie cirque.",
+    "Under that 2027 label, the page states that Hell-Bourg replaces Cilaos as the first major base, with hot meal and drop bag.",
+    "The page offers a GPX download from its 2027-labelled course map.",
     "Reunion3D is an independent third-party site, not the race organiser, and the page states no licence permitting redistribution of the GPX."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 Reunion3D 页面；页面标 2027，日期/星期却对应 2026，数字与官方 2026 不同。仅作第三方线索，不作赛道数值依据"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "页面自述 180,6 km / +10 199 m / 66 h，但标 2027、日期星期对应 2026，且与官方 2026 的 180,8 / 10 191 不同；不作为赛道数值依据"
+    },
+    {
+      "index": 1,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "页面文字如此，但归属 2027 标签；官方 2026 关门表已走 Salazie / Hell-Bourg，无法据此确认改线年份"
+    },
+    {
+      "index": 2,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "页面写 Hell-Bourg (Km 80,4) remplace Cilaos… repas chaud et sac d’assistance，但标注 2027；官方 2026 关门表已是 BV1 Hell-Bourg"
+    },
+    {
+      "index": 3,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "GPX 下载存在，但标注 “parcours 2027”；不采用为 2026 轨迹"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第三方站点；页面未见允许再分发的许可声明"
+    }
+  ]
 }

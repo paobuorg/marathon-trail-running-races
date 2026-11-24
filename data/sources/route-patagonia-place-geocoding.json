@@ -1,0 +1,24 @@
+{
+  "sourceId": "route-patagonia-place-geocoding",
+  "title": "Open-Meteo 地理编码：San Martín de los Andes 城镇坐标",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=San%20Mart%C3%ADn%20de%20los%20Andes&count=3&language=es&format=json",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "查询返回 San Martín de los Andes，latitude -40.15789、longitude -71.35337、elevation 651 m、country_code AR、admin1 Provincia del Neuquén、timezone America/Argentina/Salta。",
+    "该坐标是城镇点，只用于地图总览锚点，不是起点或终点坐标；官方没有公布 RCM4 的经纬度。"
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接请求 Open-Meteo 地理编码接口，读取返回 JSON 的第一条结果。",
+    "checkedVia": "https://geocoding-api.open-meteo.com/"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "返回 JSON 的 results[0] 字段逐项核对。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "公开接口只提供城镇级坐标；官方赛事页只写 RCM4 名称与街道，未给经纬度。" }
+  ]
+}

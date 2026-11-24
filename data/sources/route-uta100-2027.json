@@ -1,0 +1,51 @@
+{
+  "sourceId": "route-uta100-2027",
+  "title": "HOKA Ultra-Trail Australia by UTMB 2027 — UTA100 race page",
+  "url": "https://uta.utmb.world/races/UTA100",
+  "publisher": "USM Events Pty Ltd / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The UTA100 page gives 101 km and 4,400 m of positive gain, a start on Saturday 15 May 2027 at 05:00 from Scenic World Katoomba, a maximum allowed time of 28 hours, a minimum age of 18 and a required cut-off pace of 3.84 km/h.",
+    "The page states a first finisher time of 9 hours 7 minutes (2:07pm) without naming the year of that result.",
+    "The time chart lists Scenic World start 0 km, Tarros 13.8, Foggy Knob 23.8, Six Foot Track Outbound 37.3, Six Foot Track Water Point 45.7, Katoomba Aquatic Centre 56.2, Fairmont Resort 68.3, Queen Victoria Hospital 79.3, Emergency Aid Station 92.5 and Scenic World finish 101.3 km, with distance from the previous checkpoint and distance to the finish.",
+    "Cut-off times on the time chart are Tarros 12:30PM, Foggy Knob 02:30PM, Six Foot Track Outbound 05:20PM, Katoomba Aquatic Centre 10:20PM, Fairmont Resort 02:05PM Sunday, Queen Victoria Hospital 05:5AM Sunday and the finish 12:30PM Sunday; the water point and emergency aid station show no cut-off.",
+    "The time chart marks spectators and drop bags as available at Six Foot Track Outbound, Katoomba Aquatic Centre, Fairmont Resort, Queen Victoria Hospital and the finish, and unavailable at Tarros, Foggy Knob and the Emergency Aid Station.",
+    "The page says the UTA100 has 7 checkpoints, while the time chart prints 10 rows from start to finish, including the start, the Emergency Aid Station and the finish.",
+    "The page note says '*2026 courses above', that maps are subject to change, that time charts are a guide only, that cut-off times supersede the slowest estimates and that cut-offs may be brought forward in bad weather.",
+    "The page embeds a track with a distance of 101,395 m, 4,399 m of gain and 4,403 m of loss, and exposes a GPX export whose URL sits in a folder named '2026 RACE ALIGNMENTS' with the file name uta_100k_cleaned_livetrail_f81c7a5085.gpx.",
+    "The page links the course to Strava segments for training and offline route use, and warns that some sections cross private land.",
+    "The page describes UTA100 as a 'UTMB World Series 100K Event' and states that finishers receive 6 running stones; the Finals Access control on the page is displayed as SOLD OUT.",
+    "Buckle standards are gold for the winning male and female, silver for male sub-14 hours and female sub-16 hours, bronze for male 14-20 hours and female 16-22 hours, with a finisher medal for slower times; the page says buckles are awarded based on start group times.",
+    "Awards and prizes give prize money to the top 5 male and female overall, a trophy to the 10 fastest male and female, free entry to the following year to the 5 fastest male and female, and a trophy to first in each age division; overall prizes, age group awards and automatic UTMB Finals qualification are determined by net time.",
+    "Age divisions for both male and female run from 18-19 to 85+ in five-year bands, using age as at 31 December 2027.",
+    "The 2027 UTA100 is a qualifying race for the 2028 Western States 100; runners completing in 19 hours or less enter a lottery, and Western States reserves the right to determine qualifiers and change the criteria.",
+    "The course description says the race starts at Scenic World and takes in cliff tops, lush valleys and scenic ridges before returning, names Narrow Neck, Ironpot Ridge, Leura Forest, Wentworth Falls, Kedumba Pass and Furber Steps, describes mostly single track and wide trails in the World Heritage-listed Blue Mountains national park, and says the final climb is 951 Furber Steps after about 99 km.",
+    "There are multiple start groups with assignment explained on a separate Start Groups page, and the total allowable time is 28 hours elapsed from crossing the start mat."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://uta.utmb.world/races/UTA100，读取页头 stat block、Time Charts 表、Checkpoints 段与嵌入 track JSON（distance / gainElevation / lossElevation / gpxUrl）"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页头：Distance 101 KM；Elevation Gain 4,400 M+；Start Date Saturday 15th May 2027；Race Start Scenic World, Katoomba - 05:00；Max Allowed 28 Hours；Min Age 18；Cutoff Pace 3.84 km/hr" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "页头 FIRST FINISHER：9hr 07min (2:07pm)；页面未标年份" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Location / Distance from Start / Distance from Last Checkpoint / Distance to Next Checkpoint / Distance to Finish 列逐行读取" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Cut-off Time 列逐行读取；Six Foot Track Water Point 与 Emergency Aid Station 为 '-'；Queen Victoria Hospital 原文 '05:5AM SUN'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "Spectators / Drop Bags 两列逐行读取 Y/N" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "CHECKPOINTS 段：The UTA100 has 7 checkpoints along its route；同页 time chart 共 10 行（含起点与终点）" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "Time Charts 上方 *2026 courses above 与脚注：guide only / cut-off times supercede / may be brought forward" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "嵌入 JSON：track.distance 101395；gainElevation 4399；lossElevation 4403；gpxUrl 指向 pdf.utmb.world/.../2026%20RACE%20ALIGNMENTS/uta_100k_cleaned_livetrail_f81c7a5085.gpx" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "Course Maps 段：Check out the key sections of the course on Strava；TRAINING ON COURSE 段：some sections of the course are on private land" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "UTMB World Series 段：The UTA100 is a UTMB Worlds Series 100K Event. Finishers of UTA100 will receive 6 running stones；页头 Finals Access 显示 SOLD OUT" },
+    { "index": 10, "status": "supported", "checkedAt": "2026-11-08", "note": "belt buckle 段逐行：Gold / Silver / Bronze / finisher medal；句首 based on their start group times" },
+    { "index": 11, "status": "supported", "checkedAt": "2026-11-08", "note": "AWARDS & PRIZES 段逐行：Top 5 prize money；10 fastest trophy；5 fastest free entry；1st each age division trophy；Net Time" },
+    { "index": 12, "status": "supported", "checkedAt": "2026-11-08", "note": "TIMING RESULTS 段：18-19, 20-34, 35-39 ... 85+；age as at 31/12/2027" },
+    { "index": 13, "status": "supported", "checkedAt": "2026-11-08", "note": "Western States Qualifying 2028 段：19 hours or less qualifies to enter a lottery；criteria subject to change" },
+    { "index": 14, "status": "supported", "checkedAt": "2026-11-08", "note": "COURSE DESCRIPTION 段：cliff tops / lush valleys / scenic ridges；Narrow Neck, Ironpot Ridge, Leura Forest, Wentworth Falls, Kedumba Pass, Furber Steps；951 级" },
+    { "index": 15, "status": "supported", "checkedAt": "2026-11-08", "note": "START GROUPS 段：multiple start groups, view the Start Groups page；TOTAL ALLOWABLE TIME：28 hours elapsed time from when you crossed the start mat" }
+  ]
+}

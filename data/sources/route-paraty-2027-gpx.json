@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-paraty-2027-gpx",
+  "title": "PTR_100k_Paraty_2026_v12_Set26.gpx — 官方赛道页链接的 GPX 文件",
+  "url": "https://pdf.utmb.world/raw/upload/v1789262755/paraty/GPX/2026/PTR_100k_Paraty_2026_v12_Set26_6715d35f30.gpx",
+  "publisher": "Trace de Trail / Paraty Brazil by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "文件 metadata 的 name 为“Paraty Brazil by UTMB 2026 2026 - PTR 100k”，creator 为 Trace de Trail，time 为 2026-09-13T01:16:17Z。",
+    "文件含 7,974 个 trkpt；首点与末点同为 -23.21773, -44.71323，首点海拔 7 m。",
+    "轨迹纬度范围 -23.21982 至 -23.00849，经度范围 -44.85969 至 -44.68224。",
+    "文件没有 licence、copyright 或 bounds 字段，也没有累计距离标签。",
+    "本地逐点测量为 101.104 km，最低 3 m、最高 1,800 m；原始逐点累计 +5,258 / -5,258 m，1 m 阈值不变，3 m 阈值降到 +2,713 / -2,726 m。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 下载该文件读取 XML 头与轨迹点做统计，仅用于核验，未托管、未重绘、未再分发。",
+    "checkedVia": "https://paraty.utmb.world/races/ptr100"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "metadata 原文：<name>Paraty Brazil by UTMB 2026 2026 - PTR 100k</name>，<author><name>Trace de Trail</name></author>，<time>2026-09-13T01:16:17Z</time>。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "统计 <trkpt> 共 7,974 个；首末坐标相同；首点 <ele>7</ele>。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "对全部 trkpt 的 lat/lon 取最小最大值。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "全文无 <copyright>、<bounds>、<distance>、licence 字段。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "haversine 累计 101,104 m；ele 最低 3、最高 1,800；原始逐点 +5,258/-5,258；3 m 阈值 +2,713/-2,726。" }
+  ]
+}

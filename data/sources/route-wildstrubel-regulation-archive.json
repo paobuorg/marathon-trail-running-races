@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-wildstrubel-regulation-archive",
+  "title": "Wildstrubel by UTMB — Race Regulations (official PDF)",
+  "url": "https://utmbworld-cms.utmb.world/uploads/WILDSTRUBEL_by_UTMB_Race_Regulation2_6b8212f218.pdf",
+  "publisher": "UTMB International",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The published race regulation PDF describes a WILD 106 of about 106 km and 6,000 m of gain with a 26 h 30 min limit, a WILD 50 of about 50 km and 2,500 m with a 9 h 15 min limit, and a WILD 23 of about 23 km and 1,000 m with a 4 h 15 min limit, not the 110/70/55/Glacier/25/10 set on the current pages.",
+    "The regulation states that cut-off times are calculated so runners can reach the finish within the time limit and that runners must leave a checkpoint before its cut-off regardless of arrival time."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接读取官方 regulation PDF；文件未标日期，内容是旧版 106/50/23 口径。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "PDF 'DEFINITION OF THE RACES' 段逐项照录：WILD 106 ~106 km / ~6,000 m / 26h30；WILD 50 ~50 km / ~2,500 m / 9h15；WILD 23 ~23 km / ~1,000 m / 4h15" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "PDF 关于 cut-off 的段落原文照录" }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-sdw100-alfriston",
+  "title": "File:Church of St. Andrew, Alfriston, England Crop - May 2009.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Church_of_St._Andrew,_Alfriston,_England_Crop_-_May_2009.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": null,
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The image shows the Church of St Andrew at Alfriston, with a shingled broach spire, flint walls, red tiled roofs, gravestones, a low flint wall and the green Tye in front, under a blue sky with white cloud.",
+    "The file title identifies the Church of St Andrew, Alfriston, England, as a May 2009 crop; it contains no SDW100, Centurion Running or race-day context and is a village landmark photograph, not the Old Chapel Centre aid station, runners or race markings.",
+    "The author is David Iliff (Diliff); the file is licensed CC BY-SA 3.0; the original crop is 6,233 x 3,561 pixels and 9.29 MB, dated May 2009. The Commons file page is the source of the licence and authorship.",
+    "The route page uses a 760 x 434 rendition of 133,044 bytes, without further cropping or colour change; attribution and share-alike are required."
+  ],
+  "license": "CC-BY-SA-3.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons category and attribution records plus downloaded image inspection",
+    "note": "2026-11-23 读取 Commons 文件页/分类页与第三方转载署名，核对标题、作者、许可、原图尺寸与画面；本地 760 像素副本目视与描述一致。文件页本次间歇不可读，作者与许可由 Commons 分类页、Wikidata/Wikipedia 署名和转载页交叉确认，因此没有把未读到的字段写成已读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Local image shows the spire, flint walls, red roofs, gravestones, flint boundary wall and green Tye."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Title identifies the Church of St Andrew, Alfriston, May 2009; no race, club or race-day metadata appears."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Commons category and Wikipedia picture-of-the-day credit name David Iliff (Diliff); the licence is CC BY-SA 3.0; Commons lists 6,233 x 3,561 and 9.29 MB for the crop."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Local file is 760 x 434 and 133,044 bytes; the Commons source is already a crop, and this page only downsizes it further without cropping or colour change."
+    }
+  ]
+}

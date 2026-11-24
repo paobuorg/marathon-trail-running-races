@@ -1,0 +1,80 @@
+{
+  "entityId": "route:comrades-marathon",
+  "slug": "comrades-marathon",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-comrades-entry-terms",
+    "route-comrades-race-information",
+    "route-comrades-faqs",
+    "route-comrades-2027-entrant-stats",
+    "route-comrades-2026-final-instructions",
+    "route-comrades-2026-results",
+    "route-comrades-2026-medical",
+    "route-comrades-hyponatremia-review",
+    "route-comrades-weather-pmb",
+    "route-comrades-weather-durban",
+    "route-comrades-place-geocoding",
+    "route-comrades-big-five",
+    "photo-comrades-camperdown-2024",
+    "route-comrades-2026-static-map"
+  ],
+  "relatedRefs": [
+    "knowledge:heat-and-humidity",
+    "knowledge:hydration",
+    "knowledge:long-run-fueling",
+    "knowledge:race-day-pacing",
+    "tool:pace",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-22",
+  "reviewedAt": "2026-11-22",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "road-ultra",
+    "countryCodes": [
+      "ZA"
+    ],
+    "placeName": {
+      "zh-CN": "南非夸祖鲁-纳塔尔省，彼得马里茨堡至德班",
+      "en": "Pietermaritzburg to Durban, KwaZulu-Natal, South Africa"
+    },
+    "mapAnchor": {
+      "longitude": 30.39278,
+      "latitude": -29.61679,
+      "kind": "start",
+      "sourceRef": "route-comrades-place-geocoding"
+    },
+    "courseVersion": "2027-comrades-89k-down",
+    "courseEdition": "2027",
+    "courseStatus": "current",
+    "courseChanges": [
+      {
+        "edition": "2027",
+        "observedAt": "2026-11-08",
+        "field": "finish",
+        "change": "new-course",
+        "to": "Hollywoodbets Kings Park precinct, Durban",
+        "sourceRef": "route-comrades-2027-entrant-stats",
+        "note": {
+          "zh-CN": "官方报名统计博客把 2027 终点写成 Hollywoodbets Kings Park precinct，并称这是 new finish venue；2026 Up Run 的终点是 Pietermaritzburg 的 Scottsville Racecourse。2025 Down Run 的终点未在本轮来源中单独核实，因此不写 from。",
+          "en": "The official entrant-statistics blog names the Hollywoodbets Kings Park precinct in Durban as the 2027 finish and calls it a new finish venue. The 2026 Up Run finished at Scottsville Racecourse in Pietermaritzburg. The 2025 Down Run finish was not separately verified in this round, so no from value is given."
+        }
+      }
+    ],
+    "direction": "Official 2027 wording: a Down Run from Pietermaritzburg to Durban, starting in front of the Pietermaritzburg City Hall and finishing at the Hollywoodbets Kings Park precinct in Durban",
+    "distanceMeters": 89000,
+    "distanceMethod": "Entry Terms 1.1 gives an approximate distance of 89 km, subject to final measurement and the Final Race Instructions. The 2026 Up Run was officially 85.777 km, so the two directions cannot be treated as the same measured distance.",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "Comrades Marathon Association (CMA). The 2027 Entry Terms publish an approximate distance and direction but no GPX file or track-reuse licence. This site does not draw the course, does not host a track and does not present any third-party GPX as official geometry. The official Start Information page provides a 2026 'Static route map' PDF, which is linked only as a 2026 Up Run document and is not treated as 2027 Down Run geometry. The elevation figures in the body come from a peer-reviewed review and are labelled as estimates, not as official race measurements."
+  }
+}

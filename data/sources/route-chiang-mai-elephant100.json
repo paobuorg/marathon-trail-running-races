@@ -1,0 +1,31 @@
+{
+  "sourceId": "route-chiang-mai-elephant100",
+  "title": "ELEPHANT 100 — Chiang Mai Thailand by UTMB",
+  "url": "https://chiangmai.utmb.world/races/ELEPHANT100",
+  "publisher": "UTMB World Series / HOKA Chiang Mai Thailand by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "ELEPHANT 100 is listed as 100 km with 5,500 m of elevation gain, starting on Friday 4 December 2026 at 08:00 from Wat Nhong Bua Noi, with a maximum allowed race time of 28 hours.",
+    "The race carries 6 Running Stones and the page labels its finals access as '100k-direct-entry-major'.",
+    "The course is point to point, running through Wat Phra Phutthabat Si Roi, the Hmong village at Ban Doi Pui, the viewpoint at Doi Mon Jam and Mae Sa Elephant Camp before finishing at Chiang Mai PAO Park.",
+    "The aid stations are A18 Wat Ban Iak, A9 Wat Phraphutthabat Si Roi, A10 Mae Ka Piang Village, A11 Wat Pang Hai, A12 Monjam, A13 Maesa Elephant Camp, A14 Chao Pho Luang Upatham 7 School, A15 Wat Doi Pui and A16 Montha Than Waterfall.",
+    "The race page offers a DOWNLOAD GPX link to Elephant_100_Stations_ddf2a67ffb.gpx on pdf.utmb.world and a DOWNLOAD TIME CHART image, without stating what licence applies to either file.",
+    "The race is part of Week 2 of the 2026 event, 3-6 December 2026, based at Chiang Mai PAO Park, and the early-bird entry fee listed for it is THB 6,500."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取英文 ELEPHANT100 页；Finals Access 的实际文字写在页面内嵌 SVG 的 alt 属性 '100k-direct-entry-major'，不显示为可复制文本"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'Distance 100 KM'、'Elevation Gain 5500 M+'、'Friday 4th December 2026'、'Wat Nhong Bua Noi - 08:00'、'Max Allowed Race Time 28 Hours'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'Running Stones 6'；Finals Access 图 alt='100k-direct-entry-major'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'A point-to-point trail running route through Wat Phra Phutthabat Si Roi, the Hmong village at Ban Doi Pui, panoramic views at Doi Mon Jam, and Mae Sa Elephant Camp, before crossing the finish line at Chiang Mai PAO Park.'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "页面 Aid stations 列表 9 站，逐项抄录；起点站编号从 A18 开始，与 CHIANG DAO 160 共用 A9-A16" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "页面 'DOWNLOAD TIME CHART' 与 'DOWNLOAD GPX' 两个链接；两者均无许可说明" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "RACE INFORMATION 页 Week 2 Chiang Mai PAO Park 3-6 December 2026；早鸟费 THB 6,500" }
+  ]
+}

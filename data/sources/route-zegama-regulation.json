@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-zegama-regulation",
+  "title": "Zegama-Aizkorri Mendi Maratoia — Regulation (XXV, 2026)",
+  "url": "https://www.zegama-aizkorri.com/en/mendi-maratoia-zegama/regulation",
+  "publisher": "Zegama-Aizkorri Mendi Maratoia (organiser)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The regulation states that the course is 42.195 km long with an accumulated height gain of 5,472 m, and that the measurements have been officially confirmed by technicians of the Basque Mountain Federation.",
+    "The regulation states that the race scores for the Golden Trail World Series 2026 and that all classified runners gain points towards the Golden Trail World Series classification.",
+    "The regulation allows athletes over 18 to take part, with a maximum of 500 runners.",
+    "The regulation states that there are 13 checkpoints on the course.",
+    "The regulation states that there are 13 refreshment points plus one at the finishing line.",
+    "The regulation sets the maximum time at 8 hours and publishes a checkpoint time-limit table from km 0 at 09:00 to km 42.195 at 17:00.",
+    "The regulation requires runners to wear a windproof coat and to carry a cup for liquids and a thermal blanket for the whole race; sticks are allowed and an organisation-issued double bib and GPS device are compulsory if provided.",
+    "The regulation sets the 2026 pre-registration period from 12 to 23 January, the bib draw on 20 February 2026, and the entry fee at 75 euros."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取赛事官网规则页全文（22 条），抄录距离/爬升与测量方、积分体系、人数上限、检查点与补给点数量、时限表、强制装备与 2026 报名费用。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'it is 42.195 km in length, with an accumulated height gain of 5,472m. The measurements have been officially confirmed by technicians of the Basque Mountain Federation.'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'The race will score for the Golden Trail World Series 2026.'；'All classifieds will gain points towards the classification of the Golden Trail World Series.'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'over the age of 18 ... with a maximum of 500 runners'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'13 checkpoints through which it is obligatory to pass'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "'13 refreshment points available, plus one at the finishing line'" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "'maximum time allowed for reaching the finish line will be 8 hours'；时限表末行 'Zegama- META 42,195km 17:00 (8h)'" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "'Runners have to wear windproof coat and carry a cup for liquids and thermal blanket during the whole race. Sticks are allowed.'" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "'pre-registration period will be from 12 to 23 January 2026'；'bib draw will take place on 20 February 2026'；'cost of inscription is 75€'" }
+  ]
+}

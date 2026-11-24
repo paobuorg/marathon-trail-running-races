@@ -1,0 +1,37 @@
+{
+  "sourceId": "route-mtfuji100-history",
+  "title": "Mt.FUJI 100 — HISTORY (歴代優勝者・10年ヒストリー)",
+  "url": "https://en.mtfuji100.com/about/history/",
+  "publisher": "Mt.FUJI100 Executive Committee",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 100-mile event began in 2012 under the name UTMF, with Julien Chorier winning in 18:53:12 over 156.0 km with 8,530 m of gain.",
+    "The official winners table lists the race name as UTMF from 2012 to 2022, as FUJI in 2023 and as FUJI100mi from 2024 to 2026.",
+    "The 2026 FUJI100mi is listed as 165.3 km with 6,461 m of gain, won by Chris Myers of the USA in 17:50:13 and Ying Li of China in 22:18:12.",
+    "The 2025 FUJI100mi is listed as 168.0 km with 6,254 m of gain, won by Joaquin Lopez in 17:48:40 and Manyee Cheung in 23:42:00.",
+    "The 2024 FUJI100mi is listed as 166.6 km with 7,039 m of gain, won by Guomin Deng in 19:10:34 and Courtney Dauwalter in 19:21:22.",
+    "The 2023 race is listed as FUJI over 164.7 km with 6,451 m of gain, and the 2022 race as UTMF over 157.9 km with 6,388 m of gain.",
+    "The 2016 UTMF is listed as 44.8 km with 1,926 m of gain, marked as shortened with the finish line changed to Asagiri Roadside Station.",
+    "The 2020 and 2021 editions are listed as cancelled, and the table has no 2017 row.",
+    "The winners table also lists an under-100-mile event that appears as STY from 2012 to 2019 and as KAI from 2022 onwards, with ASUMI40k added in 2025."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取英文 history 页，逐行读取 100 miles 表与 under 100 miles 表；页面无发布日；表中无 2017 行，未解释原因"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "100 miles 表首行：2012 / UTMF / 156.0km / 8,530m / Julien Chorier / 18:53:12" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "同表赛事名列：2012-2022 UTMF、2023 FUJI、2024-2026 FUJI100mi" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "2026 行：165.3km / 6,461m / Chris Myers / USA / Brooks / 17:50:13；女子 ying li / CHINA / 22:18:12" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "2025 行：168.0km / 6,254m / Joaquin Lopez 17:48:40；Manyee Cheung 23:42:00" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "2024 行：166.6km / 7,039m / GUOMIN DENG 19:10:34；COURTNEY DAUWALTER 19:21:22" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "2023 行：FUJI / 164.7km / 6,451m；2022 行：UTMF / 157.9km / 6,388m" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "2016 行：44.8km / 1,926m / Dylan Bowman 3:46:38*，注 '* Race shortened and finish line changed to Asagiri Roadside Station'" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "2020、2021 行均写 'Tournament canceled'；表中无 2017 行" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "under 100 miles 表：2012-2019 STY，2022-2026 KAI，2025/2026 另有 ASUMI40k 行" }
+  ]
+}

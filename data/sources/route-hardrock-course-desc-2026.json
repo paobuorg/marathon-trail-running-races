@@ -21,7 +21,182 @@
     "Engineer and Pole Creek are backcountry aid stations whose supplies are packed in.",
     "Maggie Gulch has no crewing; one pacer may hike up from the base of the road at CR-2 to exchange.",
     "Some sections are faint or off-trail, and the route at the top of Buffalo Boy Ridge can vary from year to year with snow and cornices.",
-    "The description warns of falls on snow, scree, talus and cliffs, fast-moving water, wildlife, rock fall, altitude sickness, lightning, cold and heat."
+    "The description warns of falls on snow, scree, talus and cliffs, fast-moving water, wildlife, rock fall, altitude sickness, lightning, cold and heat.",
+    "The course description warns that marmots devour course markers and pull them into dens, elk trample them into mud, and markers have been vandalised, stolen or maliciously relocated.",
+    "From Telluride the route follows paved streets to the Cornet Creek Trail, climbs steeply through Liberty Bell Basin to Mendota Ridge, traverses a scree field and climbs a steep loose trail to Kroger’s Canteen.",
+    "After Kroger’s the route descends three steep pitches; the first usually has snow even in dry years and may have a fixed line, with rock fall risk above and below.",
+    "From Governor Basin the route follows Yankee Boy / Camp Bird Road downhill for several miles to the edge of Ouray.",
+    "The Ouray Bear Creek Trail enters a steep, narrow gorge; hazards include rock fall, huge vertical drops off the right side and difficult stream crossings after heavy rain, and runners should lean left.",
+    "The last 3 miles of the drive past Eureka to Grouse Gulch are on a rough, narrow and occasionally congested road; 4WD is strongly recommended.",
+    "The trail from Grouse Gulch becomes less distinct and more braided; American Basin likely has some snow even in dry years.",
+    "From Burrows the route follows Cinnamon Pass Road downhill for 3 miles to Cottonwood Creek Road / CR-35 and then 0.5 mile to Sherman.",
+    "The Cataract Gulch Trail becomes less distinct with wetlands and willows; many runners have got off course in the huge willow stands and wetlands near Pole Creek, where elk trample markers.",
+    "The Maggie Gulch aid station is at the end of a rough, narrow 4WD road with steep drops."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "官方 PDF 文本读取",
+    "note": "2026 顺时针课程说明 PDF 可读"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首页标题：Hardrock Hundred Endurance Run 2026 Course Description-Clockwise Direction"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "引言第 1 段：It is not intended to be used as a navigation tool"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Climb #1 / #2 / #3 / #4 标题行"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Kroger's Canteen 段：NEW FOR 2026…400 meters…4/10 of a mile…Governor Basin Road"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Climb #6 / #7 / #8 标题行"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Climb #9 / #10 / #11 / #12 标题行"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Silverton Start 段：cross Mineral Creek…fixed rope…biggest water crossing"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Silverton Start 段：NO CREW, SPECTATORS or MEDIA…Colorado State Patrol"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Silverton Start 段：Rainbow Trail…just under 2mi…Highway 550"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "KT Aid Station 段：No crew. No drop bags.；Chapman Gulch 段：hike approximately 1.4mi…then 0.3mi"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Kroger's Canteen 段：very limited space"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Ouray Aid Station 段：Pacers may start here. Low point of the Hardrock 100"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Engineer Aid Station 段：backcountry, supplies packed in；Pole Creek 段：backcountry, supplies hiked in"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Maggie Gulch Aid Station 段：No crewing is allowed…single pacer may hike up from the base of the road at CR-2"
+    },
+    {
+      "index": 14,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Maggie Gulch 段末：Trail is faint or nonexistent…vary from year to year…snow and cornice conditions"
+    },
+    {
+      "index": 15,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "引言第 6 段：falls on snow, scree, talus and cliffs; fast moving water; wildlife; rock fall; altitude sickness; lightning; cold and heat"
+    },
+    {
+      "index": 16,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "引言：“Marmots devour course markers and pull them into their dens. Elk trample them into the mud. Markers have been vandalized, stolen and maliciously relocated”"
+    },
+    {
+      "index": 17,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Telluride Aid Station 段：“follow the course markers on paved streets through Telluride… to the Cornet Creek Trail. Ascend the Cornet Creek Trail steeply uphill through Liberty Bell Basin to Mendota Ridge… traverse the scree field… ascend a steep, loose trail NE to the aid station”"
+    },
+    {
+      "index": 18,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Climb #5 段：“Depart the aid station heading North down three steep pitches. The first steep step off the pass will usually have snow, even in dry years. There may be a fixed line here for safety… be mindful of rock fall from above and dropping rocks on runners below”"
+    },
+    {
+      "index": 19,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Governors Basin 段：“Continue on Yankee Boy / Camp Bird Rd downhill for several miles until you reach the edge of town”"
+    },
+    {
+      "index": 20,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Ouray 段：“the Ouray Bear Creek Trail soon enters a steep, narrow gorge… potential hazards including rock fall, huge vertical drops off the right side of the trail and potentially difficult stream crossings in the event of heavy rain… lean to the left”"
+    },
+    {
+      "index": 21,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Grouse Gulch 段：“The last 3 miles of the drive (past Eureka) to Grouse Gulch from Silverton is on a rough, narrow and occasionally congested road. 4WD strongly recommended”"
+    },
+    {
+      "index": 22,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Grouse Gulch 段：“The trail becomes less distinct and more braided as you climb”；“Cross over the pass and descend into American Basin. There will likely be some snow here, even on dry years”"
+    },
+    {
+      "index": 23,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Burrows Park 段：“Turn right (SSE) on Cinnamon Pass Rd (CR-30) and follow it 3mi downhill… to Cottonwood Creek Rd / CR-35. Turn right across the bridge and go 0.5mi to the aid station”"
+    },
+    {
+      "index": 24,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Sherman 段：“The trail becomes less distinct as you climb, with numerous wetlands and willows”；Pole Creek 段：“Many runners have gotten off-course here in the huge willow stands and numerous wetlands. The elk are notorious for trampling course markers in this area”"
+    },
+    {
+      "index": 25,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Maggie Gulch 段：“The aid station is located at the end of a rough, narrow 4WD road with steep drops”"
+    }
+  ]
 }

@@ -12,5 +12,44 @@
     "The article says last year's race took place in unseasonably warm conditions and that organisers are encouraging runners to carry their own bottles rather than rely only on the 15 refreshment stations.",
     "The article says Berlin remains a course that elite athletes look to when they want to run a big time."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 https://wmmajors.shorthandstories.com/majors-issue-15/index.html → .agent/berlin-shanghai35/berlin-wmm.html",
+    "note": "Shorthand 杂志页正文可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文“around 73 m of climbing and 79 m of descent”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文“no significant hills”“long straight sections”“relatively few sharp changes of direction”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文“13 marathon world records”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文“last year…unseasonably warm”“carry their own bottles rather than…15 refreshment stations”。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文“elite athletes look to when they want to run a big time”。"
+    }
+  ]
 }

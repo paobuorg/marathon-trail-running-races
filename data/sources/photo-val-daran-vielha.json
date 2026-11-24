@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-val-daran-vielha",
+  "title": "File:VIELHA - VAL D'ARAN - IB-399.JPG",
+  "url": "https://commons.wikimedia.org/wiki/File:VIELHA_-_VAL_D%27ARAN_-_IB-399.JPG",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2015-07-24",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "The photograph is a daylight view of Vielha from the Salient viewpoint, showing dense low-rise buildings with slate roofs, streets, a river corridor, parking areas and surrounding wooded slopes; the file page gives the camera location as 42.706531 N, 0.808758 E.",
+    "Commons titles the photograph VIELHA - VAL D'ARAN - IB-399.JPG and describes it as Vielha seen from the Salient viewpoint; it shows the town environment, not the VDA start arch, finish line, aid station, timing mat, course marking or race-day crowd.",
+    "The author is Isidre blanc; the file is licensed CC BY-SA 4.0; the photograph was taken on 2015-07-24 at 13:33:59; the original is 2,048 x 1,536 pixels and 1,673,884 bytes.",
+    "The route page uses a 960 x 720 copy of 373,898 bytes without cropping or colour change and credits Isidre blanc, CC BY-SA 4.0, Wikimedia Commons; the resized copy keeps the same licence."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons file page, imageinfo API and downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons 文件页与 API 核对作者、许可、日期、原图尺寸和拍摄坐标，并下载 960 px 副本目视确认：画面是 Vielha 镇区航拍，不是 VDA 赛日起点拱门、终点线或补给布置。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地副本可见密集石板屋顶、街道、河道、停车区域与周边林坡；文件页 Camera location 为 42.706531 N, 0.808758 E。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons ImageDescription 写“Vielha des del mirador de Salient”；画面无号码布、围栏、拱门、计时毯或补给桌。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "imageinfo：Artist Isidre blanc；LicenseShortName CC BY-SA 4.0；DateTimeOriginal 2015-07-24 13:33:59；2,048 x 1,536、1,673,884 字节。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 x 720、373,898 字节；未裁剪、未改色；页面署名 Isidre blanc、CC BY-SA 4.0、Wikimedia Commons。"
+    }
+  ]
+}

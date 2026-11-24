@@ -1,0 +1,31 @@
+{
+  "sourceId": "route-mtfuji100-course",
+  "title": "Mt.FUJI 100 — COURSE MAP (コースマップ)",
+  "url": "https://www.mtfuji100.com/racers/course/",
+  "publisher": "Mt.FUJI100 Executive Committee",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The course page is dated 1 September 2026 and links the GPX file 26FUJI100mi_ver.1.5.gpx for the FUJI100mi.",
+    "The page states that the GPX data is being corrected because of a course change on 9 April, and the Japanese page says the same for the elevation/progress chart and the detailed course map.",
+    "The English page shows a course map image named coursemap2027-fuji.jpg and states that it is being updated because of the course change on 9 April.",
+    "The page explains that many of the courses and venues are used with permission only during the event, so runners who want to train on the route are directed to four published test-run courses.",
+    "The four test-run courses are published as Strava routes 2944396810347488186, 2944399641245801764, 3480020451656145126 and 2944403968101089572, with a warning that high mountain sections may still hold snow.",
+    "The detailed course map is published as the PDF 26FUJI100MAALL_ver.1.5_.20260416.pdf, whose file name and date indicate the 2026 edition."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取日文与英文 course 页；日文页标 '2026/9/1現在'，英文页标 'As of June 2026, 9'；并抓取页面 HTML，确认高低图/进行表区块被注释为修正中"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "日文页标题下 '2026/9/1現在'；FUJI100mi 段链接 26FUJI100mi_ver.1.5.gpx" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "页面文字：'MAP GPXデータは4/9コース変更により修正中'；高低図・進行表区块 HTML 注释同样写修正中" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "英文页图片链接 .../uploads/2026/09/coursemap2027-fuji.jpg，alt 文字 'Currently being updated due to course changes on April 9th.'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "页面说明：'Many of the courses and venues are used with permission only during the tournament...'（英文页）；日文页同义" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "四个 Strava 路线链接逐条抄录；'積雪がある場所があります' 警告在日文页" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "PDF 链接文件名与上传目录 2026/04；PDF 首页日期 20260416" }
+  ]
+}

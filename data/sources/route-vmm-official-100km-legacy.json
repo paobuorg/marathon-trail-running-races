@@ -1,0 +1,33 @@
+{
+  "sourceId": "route-vmm-official-100km-legacy",
+  "title": "VMM 100KM Ultra Marathon — legacy English distance page",
+  "url": "https://vietnamtrailseries.com/mountain-marathon/about-vmm/100km-ultra-marathon/",
+  "publisher": "Vietnam Trail Series / Topas",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The legacy English 100km page lists 100.9 km with 5,500 m of elevation gain.",
+    "The legacy page gives a start time of 20:00 on Friday 19/9/2025 from Sapa Square, with bib collection 09:00-21:00 on Friday.",
+    "The legacy page gives cut-off times of 03:00 at CP Topas Ecolodge, 12:00 at CP3, 15:00 at CP4, 17:00 at CP5, 20:00 at CP6, 21:30 at CP7 and 00:00 at the finish.",
+    "The legacy page allows three bags — finish, CP2 and CP4 — handed in at the start line.",
+    "The legacy page badges the 100km as a 4-point ITRA race, an ITRA National League race, a 100K UTMB Index race and a Western States 2026 qualifying race.",
+    "The legacy course description runs over Ham Rong Mountain, a new route after CP M2, an alternative single-track climb to Mount Silverstone, the Ban Moi valley (CP M4), Topas Ecolodge, a river water station, Giang Ta Chai, CP1 at Lao Chai, an updated CP1-CP2 climb, CP3 at O Quy Ho, Cow Mountain, CP4 at Ta Phin, CP5 at 31 Bridge, Sau Chua, CP6 to CP7 and a second Mount Silverstone climb before the Topas Ecolodge finish.",
+    "The legacy page states that 100km entrants must be at least 18 on race day and must have completed at least one chip-timed 50km+ ultra mountain race."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "该页仍在 about-vmm/ 旧路径下，起跑时间写 2025 年，明显未随 2026 届更新；与当前 100km-ultra-trail/ 页并存。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Distance: 100.9km | Elevation gain 5,500m" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Bib collection: 9:00-21:00 Friday at Sapa Square；Start time: 20:00, Friday, 19/9/2025；Start location: Sapa Square" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "CUT-OFF: 3:00 CP Topas Ecolodge – 12:00 CP3 – 15:00 CP4 – 17:00 CP5 – 20:00 CP6 – 21:30 CP7 – 00:00 FINISH" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "FINISH AND DROP BAGS 段：3 bags = Finish Bag / CP2 / CP4；Leave all 3 bags at the START LINE" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "页尾：4-point qualifying race for ITRA；ITRA National League；100K UTMB Index；Western States 2026 Qualifying Race" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "Course description 逐段照录；与当前页文字基本相同，但当前页未写 100.9km 与 2025 起跑时间" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "Age restriction 与 Qualification 两段照录" }
+  ]
+}

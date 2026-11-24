@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-gpt100-results",
+  "title": "Results and course records — GPT100 official page",
+  "url": "https://www.gpt100.com.au/results",
+  "publisher": "SingleTrack Events / Grampians Peaks Trail 100 Miler",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The results page links 2026 timing and tracking to gpt.livingitlive.com.au and lists 2025, 2024 and 2023 results for the Miler, the 50K and the Stage Race.",
+    "Under the heading Course Records / GPT100 Miler the page lists Man Yee Cheung (HK) 27:58:45 and Caleb Olson (USA) 21:19:39, without a gender column.",
+    "The GPT50K course records are Fuzhao Xiang (CHN) 5:05:59 and Peter Frano (SVK) 4:29:20; the GPT100 Stage Race records are Nadya Fedorova (AUS) 23:44:17 and Dan Jones (NZ) 16:34:29.",
+    "The all-time finishers honour board lists six three-time Miler finishers: Greg Kew, Simon Wildes, Jarrod Burke, Justin Dyer, Luke Cooper and Marc Sutherland."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接抓取 gpt100.com.au/results，读取成绩链接、Course Records 与 Honour Board。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页首 2026 TIMING AND TRACKING 指向 gpt.livingitlive.com.au；2025/2024/2023 各有 Miler、50K、Stage Race 结果链接" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Course Records / GPT100 Miler 下两行：Man Yee Cheung (HK) 27:58:45；Caleb Olson (USA) 21:19:39。页面未标 Men/Women 栏" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "GPT50k 与 GPT100 Stage Race 段逐行照录" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Honour Board：Three Time Finishers 表 6 人，姓名与年份 2023, 2024, 2025 照录" }
+  ]
+}

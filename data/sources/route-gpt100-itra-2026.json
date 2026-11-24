@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-gpt100-itra-2026",
+  "title": "ITRA — Grampians Peaks Trail 100 Miler 2026, GPT100 Miler race course",
+  "url": "https://itra.run/Races/RaceCourse/42km.SkyMarathon/2026/113849",
+  "publisher": "International Trail Running Association (ITRA)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "ITRA dates the 2026 event 5-8 November 2026 and its event description calls the trail 164 km with 7,702 m of elevation from Mt Zero in the north to Dunkeld in the south.",
+    "ITRA lists the GPT100 Miler start as Mt Zero Picnic Area and the finish as Dunkeld Visitor Centre, with terrain of 98% paths, 2% tracks and 0% roads.",
+    "ITRA lists the 2026 event's races as GPT100 Miler, GPT100 Stage 2, Stage 3, Stage 4 and GPT50K."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接抓取 ITRA 2026 赛事页，读取 Event Information、GPT100 Miler 与 Race Course 段。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Event Information：05 November 2026 to 08 November 2026；描述段：a 164km trail with 7,702 metres of elevation from Mt Zero in the north to Dunkeld in the south" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Race Course：Start Location Mt Zero Picnic Area, Australia；Finish Location Dunkeld Visitor Centre, Australia；Type of Terrain 98% Paths / 2% Tracks / 0% Roads" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "页面列出 GPT100 Stage 4、GPT100 Stage 2、GPT100 Stage 3、GPT50K、GPT100 Miler 五个链接" }
+  ]
+}

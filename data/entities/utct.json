@@ -1,0 +1,70 @@
+{
+  "entityId": "route:utct",
+  "slug": "utct",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-utct-official-2026",
+    "route-utct-ut100-2026",
+    "route-utct-itra-2026",
+    "route-utct-2025-results",
+    "route-utct-wtm",
+    "route-utct-place-geocoding",
+    "route-utct-openmeteo",
+    "route-utct-transport",
+    "route-utct-100miles-2026",
+    "route-utct-enter-2026",
+    "route-utct-race-info-2026",
+    "route-utct-2025-100m-results",
+    "route-utct-2026-results",
+    "route-utct-2026-100m-provisional",
+    "route-utct-2026-100m-final",
+    "photo-utct-table-mountain",
+    "photo-utct-hout-bay",
+    "photo-utct-lions-head"
+  ],
+  "relatedRefs": [
+    "route:cape-town",
+    "knowledge:long-run-fueling",
+    "knowledge:recovery-day",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-22",
+  "reviewedAt": "2026-11-22",
+  "reviewDueAt": "2027-02-28",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "ZA"
+    ],
+    "placeName": {
+      "zh-CN": "南非西开普省开普敦，桌山与开普半岛",
+      "en": "Cape Town, Western Cape, South Africa — Table Mountain and the Cape Peninsula"
+    },
+    "mapAnchor": {
+      "longitude": 18.42322,
+      "latitude": -33.92584,
+      "kind": "start",
+      "sourceRef": "route-utct-place-geocoding"
+    },
+    "courseVersion": "2026-utct-100k",
+    "courseEdition": "2026",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "Loop-based ultra starting and finishing in Cape Town, crossing Table Mountain, the Atlantic seaboard and the southern Cape Peninsula",
+    "distanceMeters": 99100,
+    "distanceMethod": "The official 2026 UT100 page lists 99.1 km in its race card; the organiser-submitted ITRA entry lists 99.85 km. The official GPX sums to 97.83 km of straight-line segment distance. The card uses the first-party 99.1 km and reports the other values in the body.",
+    "elevationGainMeters": 5000,
+    "elevationMethod": "The official UT100 card gives 5,000 m D+ and the same page description says 4,972 m of elevation gain; the organiser-submitted ITRA entry gives +5,085 m and -5,084 m. The official GPX, measured point by point, gives +6,827 m / -6,826 m raw before any smoothing, which is a measurement rather than the official figure. The card uses the first-party 5,000 m.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": "https://50b13dc4-9f26-4d02-a75b-aa3a65e319c8.filesusr.com/ugd/88cc2c_6f8bc135495b4f029629c4eb15b7c07f.gpx",
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://50b13dc4-9f26-4d02-a75b-aa3a65e319c8.filesusr.com/ugd/88cc2c_6f8bc135495b4f029629c4eb15b7c07f.gpx",
+    "attribution": "RMB Ultra-Trail Cape Town, organised in Cape Town. The official 2026 event page, UT100 page, 100-mile page, race-info page, entry page and GPX were read through the local 7890 proxy on 2026-11-20; the official UTCT TRACKING link led to the Sportraxs 2026 UT100 leaderboard, read provisionally at 2026-11-22 06:22 SAST and again as official at 10:50 SAST. The UTCT 100M leaderboard was read provisionally at 11:19 SAST and again as official at 14:25 SAST, after the 45-hour cut-off at 14:00. This page links to the official GPX but does not host or redistribute the file and draws no track. The map anchor is a city-level geocode, not the Gardens Rugby Club start. The 100-mile card carries 163 km and 7,187 m D+, while the same first-party page prose says 7,516 m; both are reported and neither is substituted for the other. The 2026 UT100 official leaderboard reports 447 runners, 359 finishes, 88 withdrawals and none on course; the 2026 UTCT 100M official leaderboard reports 127 runners, 91 finishes, 36 withdrawals and none on course (101 men: 72 finished, 29 withdrawn; 26 women: 19 finished, 7 withdrawn). Those are leaderboard counts, not entries. Three general location photographs are used under Commons licences: Table Mountain from Blouberg by South African Tourism (CC BY 2.0), Hout Bay Harbour aerial by South African Tourism (CC BY 2.0), and Lion's Head from Cape Town CBD by Husskeyy (CC BY-SA 4.0); each is a location photograph, not a race photograph. Two editorial SVGs show the 13-node course order and the five competing climb figures; neither is to scale, neither is navigable, and neither is an official track."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-tarawera-t102-2027",
+  "title": "Tarawera Ultra-Trail by UTMB — T102 race page (13 February 2027)",
+  "url": "https://tarawera.utmb.world/races/t-102",
+  "publisher": "Tarawera Ultra-Trail by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The T102 starts at Firmin Field, Kawerau at 07:00 on Saturday 13 February 2027, covers 102 km with 2,300 m of positive gain and has a maximum allowed time of 30 hours.",
+    "The T102 is a point-to-point course from Kawerau to Rotorua taking in 5 lakes, and the page states that the T102 is a UTMB Worlds Series 100K Event with 3 running stones.",
+    "The T102 has 8 aid stations along its route and no pacer option.",
+    "The T102 entry price is NZ$600 on the race page, while the entry page lists NZ$625.",
+    "The T102 aid-station table lists 10 rows from Firmin Field (0 km) to Village Green (101.9 km), and the same page's drop-bag table gives Okataina 57.3 km, Tikitapu 84.5 km and Village Green 101.6 km against 57.5 km, 84.8 km and 101.9 km in the aid table."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://tarawera.utmb.world/races/t-102；该页只用于第 2 节的组别消歧与同页矛盾登记，本页正文不写 T102 的分段与补给细节"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页头：102 KM / 2300 M+ / Saturday 13th February 2027 / Firmin Field, Kawerau - 07:00 / 30 Hours" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "COURSE DESCRIPTION：'point-to-point course starts in Kawerau and finishes in Rotorua, taking in 5 stunning lakes'；RACE DETAILS：'The T102 is a UTMB Worlds Series 100K Event'，3 running stones" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "KEY INFO：'The T102 has 8 aid stations along its route'；PACERS 段：'There are no Pacers for T14, T21, T50 or T102 athletes.'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "赛页 Price $600；entry-info 价格表 T102 $625；两处都是官方页面，本页并列不取其一" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "计时表 Okataina 57.5 / Tikitapu 84.8 / Village Green 101.9；DROP BAGS 表 57.3 / 84.5 / 101.6" }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-lavaredo-medical-certificate",
+  "title": "Medical Certificate — Lavaredo Ultra Trail by UTMB",
+  "url": "https://lavaredo.utmb.world/races-runners/runners/medical-certificate",
+  "publisher": "La Sportiva Lavaredo Ultra Trail by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "A medical certificate for competitive sports activity is mandatory for all race distances under Italian law.",
+    "Non-Italian athletes must provide a certificate under Italian law (DM 18/02/1982) or the downloadable form; it must be no more than 12 months old at issue, uploaded to the personal dashboard between 10 January 2027 and 15 May 2027, and valid on 27 June 2027.",
+    "Italian athletes resident abroad must upload a certificate for competitive practice of athletics under DM 18/02/1982 in the same window, valid on 27 June 2027.",
+    "Italian athletes must upload a competitive medical certificate valid on 27 June 2027 in the same window.",
+    "Failure to upload the certificate by the deadline permanently cancels the registration without refund."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://lavaredo.utmb.world/races-runners/runners/medical-certificate，读取 NON-ITALIAN / ITALIAN ATHLETES RESIDENT ABROAD / ITALIAN ATHLETES 三段"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页首句：mandatory for all race distances, as required by Italian law" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "NON-ITALIAN ATHLETES 段" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "ITALIAN ATHLETES RESIDENT ABROAD 段" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "ITALIAN ATHLETES 段" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "三段均写 annulment/cancellation without refund" }
+  ]
+}

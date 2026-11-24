@@ -1,0 +1,33 @@
+{
+  "sourceId": "route-uta22-2027",
+  "title": "HOKA Ultra-Trail Australia by UTMB 2027 — UTA22",
+  "url": "https://uta.utmb.world/races/UTA22",
+  "publisher": "USM Events Pty Ltd / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2027 UTA22 is 22 km with 1,200 m of positive gain, starts at Queen Victoria Hospital at 06:40 on Friday 14 May 2027, and has a 7 h limit.",
+    "The UTA22 page shows 2 Running Stones and is marked SOLD OUT."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://uta.utmb.world/races/UTA22，读取页头 stat block"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页头 stat block：Distance 22 KM；Elevation Gain 1200 M+；Start Date Friday 14th May 2027；Race Start Queen Victoria Hospital - 06:40；Max Allowed 07 Hours"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页头 Running Stones 2；SOLD OUT"
+    }
+  ]
+}

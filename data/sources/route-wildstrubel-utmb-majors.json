@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-wildstrubel-utmb-majors",
+  "title": "UTMB World Series Majors — 2027 list and Finals prize table",
+  "url": "https://utmb.world/utmb-world-series-majors",
+  "publisher": "UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "UTMB's Majors page lists Wildstrubel by UTMB as the Europe Major for 2027, alongside HOKA Val d'Aran by UTMB, and lists Kodiak and Canyons for the Americas, Chiang Mai Thailand for Asia-Pacific and Ultra-Trail Australia for Oceania.",
+    "The same page's Finals prize table lists only UTMB, CCC and OCC, and the page says the Finals are the three key races of HOKA UTMB Mont-Blanc."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取 UTMB Majors 页，用于确认 2027 Major 身份与 Finals 组别范围。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页面原文：'The UTMB World Series Majors in 2027 are' 下列 EUROPE = Val d'Aran & Wildstrubel；AMERICAS = Kodiak & Canyons；ASIA-PACIFIC = Chiang Mai；OCEANIA = UTA" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "Finals 奖金表表头只有 UTMB / CCC / OCC；utmb.world/finals 页同样只列这三场" }
+  ]
+}

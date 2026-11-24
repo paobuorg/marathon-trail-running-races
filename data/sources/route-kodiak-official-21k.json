@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-kodiak-official-21k",
+  "title": "Kodiak 21K — HOKA Kodiak Ultra Marathons by UTMB 2026",
+  "url": "https://kodiak.utmb.world/races/21K",
+  "publisher": "UTMB World Series / HOKA Kodiak Ultra Marathons by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The 21K race page gives 12.1 miles and 1,886 ft+ of gain, starts at The Village of Big Bear Lake on Saturday 10 October 2026 at 10:00 and has a 5-hour limit; it carries 2 Running Stones.",
+    "The page links the 2025 GPX file and 2025 aid-station charts, saying there are no major changes planned for 2026 but the route cannot be declared final until approved by the US Forest Service.",
+    "The event's main page gives the same race as 21.7 KM with 678 m of gain, which does not match the 21K page's 12.1 miles and 1,886 ft.",
+    "The course climbs the Snow Summit ski area and returns a panoramic view of the mountains and Big Bear Lake."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取并读取 21K 赛事页，并与主页 21K 卡片对照。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页头：Distance 12.1 Miles、Elevation Gain 1886 ft+、Saturday 10th October 2026、The Village of Big Bear Lake - 10:00、05 Hours、Running Stones 2" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "GPX 段原文 'This is the 2025 GPX file. There are no major changes planned for 2026, however we can't declare the route final until approved by the US Forest Service.'；补给表段同样写 2025 charts" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "主页卡片：21.7 KM、678 M+；21K 页：12.1 Miles（约 19.5 km）、1886 ft+（约 575 m）" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "Course Description 段照录 Snow Summit ski area 与 Big Bear Lake" }
+  ]
+}

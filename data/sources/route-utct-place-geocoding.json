@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-utct-place-geocoding",
+  "title": "Open-Meteo geocoding — Cape Town",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=Cape%20Town&count=1&language=en&format=json",
+  "publisher": "Open-Meteo (GeoNames)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Open-Meteo geocoding returns Cape Town, Western Cape, South Africa at 33.92584 S, 18.42322 E, elevation 25 m.",
+    "The same record gives the time zone Africa/Johannesburg."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 查询 Open-Meteo geocoding；只用于城市级 mapAnchor，不是官方起跑线坐标"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "返回 latitude -33.92584、longitude 18.42322、elevation 25、country_code ZA" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "返回 timezone Africa/Johannesburg" }
+  ]
+}

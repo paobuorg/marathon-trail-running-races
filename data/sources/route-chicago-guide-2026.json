@@ -17,7 +17,95 @@
     "The Event Alert System uses green, yellow, red and black levels, communicated by email, the website, expo public address and colour-coded flags at the start, finish and all 20 aid stations.",
     "The guide recommends CTA, Metra, the South Shore Line, Divvy, free bike valet and Millennium Garages, and discourages driving.",
     "Race-day starts are 7:20 a.m. for the men's professional wheelchair, 7:21 for the women's professional wheelchair, 7:23 for handcycle, 7:30 for professional men and women, 7:32 for the elite start, 7:35 for Wave 1, 8:00 for Wave 2 and 8:35 for Wave 3.",
-    "Grant Park opens to runners at 5:30 a.m. and to spectators at 9:30 a.m."
+    "Grant Park opens to runners at 5:30 a.m. and to spectators at 9:30 a.m.",
+    "The event rules prohibit unregistered wheeled devices, baby joggers, strollers, skateboards, bicycles, motorised devices, selfie sticks, camera mounts, drones and hydration-bladder packs or running vests, while allowing front-pocket running vests, fuel belts, handheld bottles and soft flasks."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 下载官方中文指南PDF，PyMuPDF 提取全文 → .agent/chicago-beijing35/chicago-guide2026.txt",
+    "note": "12页PDF正文可读；补给站里程、配速、起跑时间逐项对照；交通建议部分按原文语义判定"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PDF：48th running；Sunday, October 11, 2026；26.2 miles；29 communities；起终点Grant Park"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "20个补给站约1至2英里；每站医疗帐篷、Runner Transport、标准/ADA厕所、Gatorade、PA、水"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "20个里程逐一对应：1.6、3.25、5.05、5.75、7.3、8.8、10.1、11.5、12.6、13.6、14.6、15.7、16.9、18、19.2、20.2、22.3、23.04、24.5、25.2"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Maurten Gel 100在9号站12.4英里、14号站18.1英里，每袋25克碳水"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第16至18号站（20.2至23英里）提供香蕉"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Culligan在第4、7、12、16号站前，5.7、10.1、15.7、20.3英里"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Biofreeze止痛区在21.2英里、Cermak Rd与Archer Ave交汇处"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "6小时30分、15分钟每英里；每个补给站医疗帐篷均有Runner Transport通道"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "EAS绿/黄/红/黑；邮件与网站；博览会公共广播与色标；起终点及20个补给站广播与旗帜"
+    },
+    {
+      "index": 9,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "CTA、Metra、South Shore Line、Divvy、免费自行车代客、Millennium Garages均列出；但原文只“强烈建议公共交通”，未劝阻自驾，且提供停车优惠"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "7:20、7:21、7:23、7:30、7:32、7:35、8:00、8:35全部与PDF时间表一致"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文“格兰特公园向赛跑者开放 上午5:30”“向观众开放 上午9:30”"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "官方中文指南 PDF：禁止未注册轮椅、婴儿推车、滑板、直排轮滑鞋、自行车与机动装置；禁止自拍杆、相机支架、摄像设备、无人机；禁止 Camelbaks 及带补水囊的背包/跑步背心；明确允许带前口袋背心、能量腰带、手持水瓶和软水壶。"
+    }
+  ]
 }

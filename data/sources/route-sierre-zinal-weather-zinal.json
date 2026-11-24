@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-sierre-zinal-weather-zinal",
+  "title": "Open-Meteo ERA5 archive — June 2016–2025, Zinal (46.1343 N, 7.6287 E)",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=46.13426&longitude=7.62868&elevation=1640&start_date=2016-06-01&end_date=2025-06-30&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Europe%2FZurich",
+  "publisher": "Open-Meteo (ERA5 reanalysis)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Open-Meteo ERA5 archive for the grid cell at 46.1343 N, 7.6287 E, elevation 1,640 m, over the 300 June days from 2016 to 2025: mean daily maximum 18.0 °C and mean daily minimum 6.6 °C.",
+    "The same query gives mean precipitation of 5.7 mm per day; 193 of the 300 June days (64.3%) had at least 1 mm.",
+    "Zinal village is still below the 2,424 m course high point, so these reanalysis statistics are the highest reliable station used on this page, not course-wide or summit data."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接查询 Open-Meteo archive API；坐标与海拔取自 Open-Meteo geocoding 的 Zinal 村（46.13426, 7.62868, 1,640 m）；取 2016–2025 年 6 月共 300 天，按 daily time 过滤 06 月后计算均值。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "API 返回 300 个 6 月日值；temperature_2m_max 均值 18.0，temperature_2m_min 均值 6.6。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "precipitation_sum 均值 5.7 mm/day；≥1 mm 的日数 193/300 = 64.3%。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Zinal 村 1,640 m；赛道最高点 2,424 m 由官方赛道资料给出，本页明确不把村站数据外推到高点。" }
+  ]
+}

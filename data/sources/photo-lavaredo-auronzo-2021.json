@@ -1,0 +1,26 @@
+{
+  "sourceId": "photo-lavaredo-auronzo-2021",
+  "title": "File:Lavaredo Ultra Trail 2021- Sul sentiero del rifugio Auronzo IAG.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Lavaredo_Ultra_Trail_2021-_Sul_sentiero_del_rifugio_Auronzo_IAG.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2021-06-26",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The file shows runners on the final climb to Rifugio Auronzo during the 2021 Lavaredo Ultra Trail, with the Tre Cime di Lavaredo behind them.",
+    "The author and uploader is Anthospace, credited as own work.",
+    "The file is licensed CC BY-SA 4.0."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe + local 7890 proxy; Commons action=query imageinfo and w/thumb.php",
+    "note": "2026-11-20 经代理读取 Commons 文件页、imageinfo API 与 1400 px 缩略图，逐项核对作者、许可、日期、画面。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "画面为山径上的跑者与三峰山岩壁；文件描述 'Derniers hectomètres de l'ascension du refuge Auronzo'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "Commons Artist：Anthospace；Credit：Own work。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "Commons LicenseShortName：CC BY-SA 4.0；LicenseUrl 指向 by-sa/4.0。" }
+  ]
+}

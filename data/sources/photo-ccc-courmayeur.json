@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-ccc-courmayeur",
+  "title": "File:Via Roma dans le centre de Courmayeur au matin (juin 2024).JPG",
+  "url": "https://commons.wikimedia.org/wiki/File:Via_Roma_dans_le_centre_de_Courmayeur_au_matin_(juin_2024).JPG",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2024-06-16",
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The file shows Via Roma in central Courmayeur in morning light, with stone paving, alpine buildings, a white canopy structure, flower beds, people and snow-covered peaks behind the town.",
+    "The file metadata identifies the location as Courmayeur in the Aosta Valley, Italy; it contains no race, CCC or UTMB event context and is a location photograph, not a race-day photograph.",
+    "The author is Florian Pépellin, credited under CC BY-SA 4.0; the original file is 3,216 x 2,396 pixels, 4,169,102 bytes, dated 2024-06-16.",
+    "The route page uses a 960 x 715 Commons thumbnail of 177,709 bytes and credits the author and licence; attribution and share-alike are required."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons action=query imageinfo + thumbnail visual check",
+    "note": "2026-11-23 读取 Commons 文件页与 imageinfo，核对标题、作者、日期、许可、尺寸和画面；缩略图与文件描述一致。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Thumbnail shows the town square, stone paving, alpine buildings, canopy, flower beds, people and snowy peaks; the file description calls it a morning sight of Via Roma in Courmayeur."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "ImageDescription places the scene in Courmayeur, Aosta Valley, Italy; no CCC or race metadata appears."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "imageinfo: 3,216 x 2,396; 4,169,102 bytes; Artist Florian Pépellin; CC BY-SA 4.0; DateTimeOriginal 2024-06-16."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Local file is the 960 x 715 Commons thumbnail, 177,709 bytes; source page states attribution and share-alike."
+    }
+  ]
+}

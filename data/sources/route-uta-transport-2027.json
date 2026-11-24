@@ -1,0 +1,33 @@
+{
+  "sourceId": "route-uta-transport-2027",
+  "title": "HOKA Ultra-Trail Australia by UTMB 2027 — Transport & Parking",
+  "url": "https://uta.utmb.world/runners/transport-parking",
+  "publisher": "USM Events Pty Ltd / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Public transport in the region is provided by Transport for NSW services that accept Opal or cashless payment, with information via 131500 and special event timetables 686 and 686G listed on the page.",
+    "Free runner shuttle buses run on Thursday, Friday, Saturday and Sunday between Katoomba town centre and Scenic World and between Leura and Scenic World, with the Katoomba loop taking 10-15 minutes and the Leura service taking 20-25 minutes.",
+    "A Blackheath/Medlow shuttle provides check-in and start line service to and from Blackheath and Medlow Bath, with times to be confirmed and communicated later.",
+    "New for 2027, spectators using official UTA buses must buy a Spectator Bus Pass, giving unlimited access from Thursday to Sunday to the expo, eligible start lines excluding UTA22, finish lines and named UTAMiler and UTA100 checkpoints.",
+    "A decision on parking at KCC Oval will be made closer to the event once ground and weather conditions can be assessed, and recent wet weather has prevented its use.",
+    "The 2027 bus guide is described as a reference only and subject to change, with information updated closer to the event.",
+    "The event's 'How to get there' page says the easiest access from international ports to the Blue Mountains is to fly into Sydney International/Domestic Airport, and tells international visitors to check whether they need a visa before booking."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://uta.utmb.world/runners/transport-parking，读取 Public Transport / RUNNER SHUTTLE BUSES / SPECTATOR BUS PASS / Parking 四段"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Public Transport 段：OPAL / cashless、131500、686 与 686G Special Event TT" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "RUNNER SHUTTLE BUSES 段：Thursday, Friday, Saturday and Sunday；Katoomba 10-15 分钟 loop；Leura 20-25 分钟 scheduled" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "同段：Blackheath/Medlow Shuttle ... times confirmed and communicated at a later date" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "SPECTATOR BUS PASS 段：New for 2027；unlimited access from Thursday to Sunday；eligible start lines (excluding UTA22)；UTAMiler 与 UTA100 checkpoint 名单" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "Parking Options 段：decision closer to the event；wet weather prevented use in recent years" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "页内：The 2027 bus guide should be used as a reference only；subject to change" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "2026-11-08 直取 https://uta.utmb.world/destination/how-to-get-there：FLIGHTS 段写 fly in to Sydney International/Domestic Airport；DO YOU NEED A VISA 段" }
+  ]
+}

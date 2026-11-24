@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-mtfuji100-wtm",
+  "title": "World Trail Majors — RACES list",
+  "url": "https://worldtrailmajors.com/all-races/",
+  "publisher": "World Trail Majors",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The World Trail Majors race list includes Mt.FUJI 100 among its races with the dates 2026/04/24-26.",
+    "The World Trail Majors description says Mt.FUJI100 connects the approximately 100 miles of trails at the foot of Mt. Fuji with the people and culture associated with them.",
+    "The same description says the race requires no sleep or rest, and that it aims to convey the importance of taking on challenges and the appeal of trail running.",
+    "The list shown on 2026-11-08 contains ten World Trail Majors races: Hong Kong 100, Black Canyon Ultras, Transgrancanaria, Mt.FUJI 100, MIUT Madeira, South Downs Way 100, Quebec Mega Trail, Vietnam Mountain Marathon, Grampians Peaks Trail 100 Miler and RMB Ultra-Trail Cape Town.",
+    "The list shows 2026 dates and does not state whether Mt.FUJI 100 is in the series for 2027."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 /all-races/；页面按 'World Trail Majors 10' 分类列出十场，Mt.FUJI 100 条目日期 2026/04/24-26"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "列表第 4 项标题 'Mt.FUJI 100'，条目下 '2026/04/24-26'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "条目简介原文：'connects the approximately 100 miles of trails at the foot of Mt. Fuji…'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "同段：'this race, which requires no sleep or rest…'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "页面计数 'World Trail Majors 10'，逐条抄录十场名称" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "页面仅列 2026 日期；无 2027 名单" }
+  ]
+}

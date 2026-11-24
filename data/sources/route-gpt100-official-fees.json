@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-gpt100-official-fees",
+  "title": "Fees and key dates — GPT100 official page",
+  "url": "https://www.gpt100.com.au/fees-key-dates",
+  "publisher": "SingleTrack Events / Grampians Peaks Trail 100 Miler",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "GPT100 Miler entry is A$828 for priority entry, A$920 standard and A$1,104 late, with entries closing at midnight on 29 October.",
+    "GPT100 Miler Pairs entry is A$1,620 priority, A$1,800 standard and A$2,160 late.",
+    "Other 2026 entries are GPT100 Stage Race A$968 / 1,075 / 1,290, GPT50K A$315 / 350 / 420, GPT33K A$250 / 250 / 300, GPT14K A$120 standard and A$144 late, and GPT6K A$40.",
+    "Priority entry opens on 3 February at 9 AM for 48 hours, standard entry opens on 5 February at 9 AM, and late entry runs from midnight on Thursday 8 October."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接抓取 gpt100.com.au/fees-key-dates，读取各组别价格与开售日期。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "GPT100 Miler 卡片：PRIORITY ENTRY $828；STANDARD ENTRY $920；LATE ENTRY $1104；ENTRIES CLOSE MIDNIGHT OCTOBER 29" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "GPT100 Miler Pairs 卡片：$1620 / $1800 / $2160" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Stage Race、GPT50k、GPT33K、GPT14k、GPT6K 卡片逐项照录" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "各卡片：Opens 3rd February 9 AM for 48 hours；Opens 5th February 9 AM；From Midnight, Thursday October 8" }
+  ]
+}

@@ -13,5 +13,50 @@
     "A waiting list is maintained after the field is full.",
     "Selected runners may defer for five years for pregnancy or one year for specified parental circumstances."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "官方页面直读",
+    "note": "Entry & Deferrals 页可读"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 1 段：first two weeks of October…exact dates announced in September"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 1 段：held on the first weekend in December"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 2 段：$450 plus applicable UltraSignup processing fees"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 3 段：50% refund…prior to June 1st…No refunds…after June 1st"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 4 段：A waiting list will be maintained after the field is full"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Parental Entry Deferral 段：five-year…one-year deferral"
+    }
+  ]
 }

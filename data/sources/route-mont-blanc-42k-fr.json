@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-mont-blanc-42k-fr",
+  "title": "42km : l'épreuve mythique — Marathon du Mont-Blanc (page française)",
+  "url": "https://www.marathonmontblanc.fr/courses/42km-du-mont-blanc",
+  "publisher": "Club des Sports de Chamonix (organiser)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The French 42 km page gives the date as Sunday 27 June 2027, the start as 06:45, the distance as 42 km and the elevation as 2,540 m D+/-.",
+    "The same page gives bib pickup at the EMC2 space on 24, 25 and 26 June 2027, by appointment only.",
+    "The same page states that the race is open from the 'Espoirs' category upwards, limited to 2,300 runners, with 6 starting waves and a 10-hour maximum time.",
+    "The same page repeats the three full feed stations plus one finish feed station, the same mandatory equipment list and the same four cut-off points as the English page."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取法文 42 km 页面全文。法文页已切到 2027-06-27，英文页仍停在 2026-06-28；两页其余数据一致。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'Dimanche 27 juin 2027'；'Départ 6h45'；'Distance 42 km'；'Dénivelé 2540m D+/-'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'Jeudi 24 juin 2027 de 9h à 21h'；'Vendredi 25 juin 2027 de 9h à 15h'；'Samedi 26 juin 2027 de 10h à 21h'；'uniquement sur rendez-vous'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'Ouvert à partir de la catégorie \"Espoirs\"'；'Limité à 2 300 coureurs'；'6 vagues de départ'；'Temps maximum : 10 heures'。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'3 ravitaillements complets + 1 ravitaillement d'arrivée'；装备与四条 barrières horaires 与英文页一致。" }
+  ]
+}

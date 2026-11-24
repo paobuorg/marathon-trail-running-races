@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-occ-gpx-2026",
+  "title": "OCC 2026 — official GPX from the HOKA UTMB Mont-Blanc race page",
+  "url": "https://pdf.utmb.world/raw/upload/v1787126004/montblanc/Races/GPX/2026/OCC_2026_V2_94a3b7427e.gpx",
+  "publisher": "HOKA UTMB Mont-Blanc / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The official OCC race page exposes a direct GPX link under pdf.utmb.world; a HEAD request on 2026-11-20 returned HTTP 200 with 831,287 bytes.",
+    "The GPX metadata names the track OCC 2026, credits LiveTrail as creator and carries a LiveTrail copyright line but no redistribution licence.",
+    "The file contains 5,118 track points; a local planar calculation gives 60.14 km, with a 3 m elevation threshold giving +3,342 m and −3,221 m between 893 m and 2,311 m.",
+    "The GPX's 60.14 km sits between the official page header's 60 km and the official timing table's 61.4 km, while its 3 m-threshold gain matches the table's +3,342 m."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "official race page HTML + direct GPX download",
+    "note": "Direct URL extracted from https://montblanc.utmb.world/races/occ; file downloaded once to a temporary directory, measured locally, then deleted. The file carries a LiveTrail copyright line and no reuse grant."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "HEAD https://pdf.utmb.world/.../OCC_2026_V2_94a3b7427e.gpx: 200, application/octet-stream, content-length 831,287."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "GPX metadata: <name>OCC 2026</name>, creator LiveTrail, copyright author LiveTrail."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Local parse of 5,118 trkpt; haversine planar sum 60.14 km; 3 m threshold ascent 3,342 m, descent 3,221 m; elevation range 893–2,311 m."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Comparison: official header 60 km, timing table 61.4 km, GPX 60.14 km; GPX gain 3,342 m equals the timing-table total."
+    }
+  ]
+}

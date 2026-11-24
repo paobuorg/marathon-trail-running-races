@@ -4,16 +4,64 @@
   "url": "https://montblanc.utmb.world/races/utmb",
   "publisher": "UTMB World Series",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The 2026 UTMB stat block lists 174 km and 9,700 m of positive elevation gain.",
     "The page introduction describes the race as approximately 170 km with about 10,000 m of positive elevation gain around Mont-Blanc through Italy, Switzerland and France.",
     "The 2026 UTMB starts on Friday 28 August 2026 at 19:45 from Chamonix and finishes in Chamonix.",
     "The maximum allowed race time is 45 hours 30 minutes.",
     "The page provides an official GPX download for the 2026 course.",
-    "The embedded official timing table totals 176.865 km with +10,000 m and −9,999 m, and lists 32 timing points.",
-    "The official profile gives a minimum elevation of 805 m and a maximum of 2,571 m.",
-    "The timing table lists 14 service checkpoints with supplies, medical, bus, bag and toilet flags plus cut-off times."
+    "The current embedded timing table totals 173.6 km with +9,700 m and −9,699 m across 17 rows; the 32-point table that previously totalled 176.865 km is no longer shown.",
+    "The 32-point timing table previously captured by this site (176.865 km, 14 mid-course service points) is no longer displayed; the current embedded table has 17 rows with icon-only services and cut-off times, and the 32-point figures are treated as a historical basis only."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面顶部统计栏：174 KM / 9,700 M+"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "介绍段：“approximately 170 kilometers and 10,000 meters of positive elevation gain”，并写明穿越 Italy、Switzerland、France"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Start Date: Friday 28th August 2026；Race Start: Chamonix - 19:45；终点同为 Chamonix"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Max Allowed Race Time: 45 Hours 30 Minutes"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "静态 HTML 内即含 gpxUrl：https://pdf.utmb.world/raw/upload/v1786442971/montblanc/Races/GPX/2026/UTMB_2026_25e2a492e6.gpx，HEAD 返回 200、application/octet-stream、2,292,339 字节；旧记“静态 HTML 无 .gpx 直链”不成立"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2026-11-08 复核：旧 claim 写 176.865 km / 32 个计时点，当前页面表为 173.6 km、17 行、+9,700/−9,699 m，已改写"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2026-11-08 复核：旧 claim 写 14 个服务点，当前页面表为 17 行（含起终点），服务以图标呈现，已改写"
+    }
+  ]
 }

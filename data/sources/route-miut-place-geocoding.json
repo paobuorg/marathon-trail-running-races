@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-miut-place-geocoding",
+  "title": "Open-Meteo geocoding — Porto Moniz, Madeira",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=Porto%20Moniz&count=3&language=en&format=json",
+  "publisher": "Open-Meteo (GeoNames)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Open-Meteo geocoding returns Porto Moniz, Madeira, Portugal at 32.86681 N, 17.16667 W, elevation 24 m.",
+    "The same record gives the time zone Atlantic/Madeira."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接查询 Open-Meteo geocoding；仅用于 mapAnchor 的起点城镇定位，不是官方起跑线坐标，也不用于赛道几何"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "返回 latitude 32.86681、longitude -17.16667、elevation 24、country_code PT、name Porto Moniz" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "返回 timezone Atlantic/Madeira" }
+  ]
+}

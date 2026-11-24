@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-kodiak-results-2026",
+  "title": "Cody Poskin leads from start to finish to win the Kodiak 100",
+  "url": "https://unbrokenreview.com/trail-ultra/kodiak-by-utmb-2026-cody-poskin-nichole-abma/",
+  "publisher": "Unbroken Review",
+  "publishedAt": "2026-10-16",
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "Cody Poskin won the 2026 Kodiak 100-mile race in 16:46:21 and Nichole Abma won the women's race in 20:43:40.",
+    "Jose Angel Fernandez Jimenez won the 2026 100K in 8:33:09, with Gavin Prior second in 8:35:40 and Stephen Kersh third in 8:59:04; Lotti Brinks won the women's 100K in 10:15:44.",
+    "Cole Campbell won the 2026 50K in 3:20:42 and Anna Gibson won the women's 50K in 3:59:13.",
+    "The article says UTMB's official results give the 100M as 161.1 km with 4,877 m of gain and the 100K as 101.1 km with 3,143 m."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 读取第三方赛后报道；其自述成绩来自 UTMB Index 官方结果页，本页仍按 B 层处理。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "正文：Poskin 16:46:21；'Canada's Nichole Abma won the women's race in 20:43:40'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "正文：100K 段落列出 8:33:09、8:35:40、8:59:04 与 Brinks 10:15:44" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "正文：'Cole Campbell won the men's race in 3:20:42'；'Anna Gibson in 3:59:13'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "正文：161.1 km with 4,877 m；101.1 km with 3,143 m，来源标为官方 UTMB results" }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "entityId": "route:miut",
+  "slug": "miut",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-miut-regulations-2027",
+    "route-miut-legend-page",
+    "route-miut-results",
+    "route-miut-regulations-2026",
+    "route-miut-wtm",
+    "route-miut-home-2027",
+    "route-miut-2026-report",
+    "route-miut-records-history",
+    "photo-miut-gutermann-2025",
+    "route-miut-place-geocoding"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:recovery-day",
+    "tool:track-view",
+    "tool:splits",
+    "route:transgrancanaria"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-21",
+  "reviewedAt": "2026-11-21",
+  "reviewDueAt": "2027-01-31",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "PT"
+    ],
+    "placeName": {
+      "zh-CN": "葡萄牙马德拉岛 Porto Moniz 至 Machico",
+      "en": "Porto Moniz to Machico, Madeira, Portugal"
+    },
+    "mapAnchor": {
+      "longitude": -17.16667,
+      "latitude": 32.86681,
+      "kind": "start",
+      "sourceRef": "route-miut-place-geocoding"
+    },
+    "courseVersion": "2027-miut-legend-110k",
+    "courseEdition": "2027",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "Point-to-point west-to-east crossing of Madeira from Porto Moniz to Fórum Machico",
+    "distanceMeters": 110000,
+    "distanceMethod": "The official 2027 regulations and the official Legend page both give 110 km. The same Legend page's 2027 checkpoint table sums to 108.9 km at Machico. The card uses the 110 km official race distance and reports the 108.9 km checkpoint sum in the body; it does not average them. The results page still labels 2025 and 2024 as MIUT 115, and the 2025 ITRA entry measures 118.72 km; those are older labels/measurements, not a 2027 distance change.",
+    "elevationGainMeters": 7200,
+    "elevationMethod": "The official 2027 regulations and Legend page give 7,200 m of positive and negative gain. The Legend checkpoint table's segment sums are +7,165 m / -7,175 m. The card keeps the official 7,200 m header and reports the checkpoint sum in the body; a third-party trace's 7,337 m is not used.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": "https://www.dropbox.com/scl/fi/lnyrue15hzisjxiejgi9h/MIUT_LEGEND.gpx?rlkey=o6qga2hbm4tli8jtzid9i9xr5&st=vtivks2k&dl=0",
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://miutmadeira.com/miut-legend-ultra-trail-madeira/",
+    "attribution": "MIUT – Madeira Island Ultra-Trail / Clube de Montanha do Funchal (CMOF). The official Legend page links a GPX hosted on Dropbox, but the file carries no licence or copyright statement and could not be retrieved in this environment. The 2027 regulations and Legend checkpoint table are level A for the race table, fees, schedule, mandatory kit and ten checkpoint cut-offs. This site links to the official race page, does not host or redistribute the GPX, does not draw the track, and treats the map anchor as an editorial town-level point rather than an official start line."
+  }
+}

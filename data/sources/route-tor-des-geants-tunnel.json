@@ -4,11 +4,36 @@
   "url": "https://www.tunnelmb.net/en-US/news/september-december-2026-total-closures-to-traffic",
   "publisher": "TMB GEIE – Mont Blanc Tunnel",
   "publishedAt": null,
-  "accessedAt": "2026-11-07",
+  "accessedAt": "2026-11-08",
   "claims": [
     "No extended autumn closure of the kind carried out in 2023, 2024 and 2025 is planned for 2026.",
     "From mid-September onwards, numerous midweek night-time closures are scheduled from Monday to Thursday, each lasting 8 hours from 22:00 to 06:00, with two exceptions lasting 11 or 12 hours.",
     "The schedule of night-time closures is still under review by the Prefecture and will be published on the operator's website and the TMB Mobility app once approved."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "browser",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：no extended autumn closure (2023/2024/2025 式) is planned for 2026"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：周一至周四 22:00–06:00，每次 8 小时；另有 2 次 11/12 小时例外"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：schedule currently being reviewed by the Prefecture，批准后发布于官网与 TMB Mobility app"
+    }
+  ]
 }

@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-wildstrubel-trailsplits",
+  "title": "Wildstrubel by UTMB — Wild 110 aid stations and cut-offs (TrailSplits)",
+  "url": "https://trailsplits.com/races/wildstrubel-by-utmb",
+  "publisher": "TrailSplits",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "TrailSplits lists Wild 110 as 113 km with 6,600 m of gain, a 30-hour limit and 12 aid stations, and says its station services and cut-offs come from the organiser's 2026 page.",
+    "TrailSplits gives 2026 cut-offs of Leukerbad 03:15, Kandersteg 08:00, Adelboden 13:15, Lenk 18:30, Iffigenalp 21:00, Tseuzier 02:45 and finish 04:30, one hour earlier than the 2027 official times at the six stations where both publish a time.",
+    "TrailSplits' linked GPX URL returned HTTP 404 to a HEAD request on 2026-11-09."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 读取 TrailSplits 页面；其数据自述来自组委会 2026 页，列为 B 层对照，不覆盖 2027 官方值。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页面：'Wild 110 113 km 6600 m D+ 30h cut-off 12 aid stations'；'Stations, leg climbs and cutoffs from the organizer's 2026 page, checked 2026-10-06'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "站点表 2026 cut-off 列逐项照录；与官方 2027 页 Leukerbad 04:15、Kandersteg 09:00、Adelboden 14:15、Lenk 19:30、Iffigenalp 22:00、Tseuzier 04:00 相比均早一小时" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "对 https://res.cloudinary.com/utmb-world/raw/upload/v1757916709/wildstrubel/Races/Wild%20100M/GPX/WILD_110_K_officiel_79d0995203.gpx 发 HEAD，返回 404" }
+  ]
+}

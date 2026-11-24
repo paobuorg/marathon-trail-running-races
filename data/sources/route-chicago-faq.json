@@ -13,5 +13,50 @@
     "Time-qualifier results must come from a marathon run on a course certified by USA Track & Field, World Athletics or a similar governing association, within the qualifying window of 1 January 2024 to 18 November 2025.",
     "The FAQ states that future race dates are subject to change."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "web_fetch https://www.chicagomarathon.com/runners/frequently-asked-application-questions/",
+    "note": "2026-11-20 重读 2026 FAQS 页；页面标 Updated as of July 23, 2026，下列四条在正文可直接读到。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "正文 “The 48th running ... will take place on Sunday, October 11, 2026.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文“takes place on the second Sunday of October”；“these dates are subject to change”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "正文 “U.S. residents ... $250 (USD) / Non-U.S. residents: $260 (USD) ... processing fee is applied to all entry fees.”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "正文 “participants are required to raise no less than $2,200 (USD).”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "正文 “qualifying window (January 1, 2024 to November 18, 2025) ... certified by USA Track & Field (USATF), World Athletics or a similar governing association.”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文“Please note that these dates are subject to change.”"
+    }
+  ]
 }

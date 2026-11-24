@@ -1,0 +1,33 @@
+{
+  "sourceId": "route-doi-inthanon-gear",
+  "title": "Mandatory Gear — Chiang Mai Thailand by UTMB",
+  "url": "https://chiangmai.utmb.world/races-runners/runners/mandatory-gears",
+  "publisher": "UTMB World Series / HOKA Chiang Mai Thailand by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "For PAGODA 50 DAY the mandatory list contains 13 items: running pack, mobile phone, personal collapsible cup of at least 150 ml, at least 1 litre of water, one working headlamp with spare batteries, survival blanket of at least 1.40 m x 2 m, food, windproof jacket with hood and DWR protection, LED/flashing light or reflective vest/belt, first-aid kit, whistle, cap/bandana/buff, and reusable bowl with spoon or spork, plus a passport or ID card.",
+    "The PAGODA 50 DAY mandatory shell is a windproof jacket with hood and DWR protection; a waterproof rain jacket is not on the mandatory list for this race.",
+    "The mandatory water minimum for PAGODA 50 DAY is 1 litre, to be carried in hydration packs or bottles, and water in plastic bags or ziplock bags is not permitted.",
+    "The recommended gear for PAGODA 50 DAY includes warm gloves, spare warm clothing, long trousers or socks covering the legs, sunglasses, arm sleeves, and Vaseline or anti-heat cream.",
+    "The page states that the organiser may add items to the mandatory list according to the weather forecast, with the final list confirmed one or two days before the race.",
+    "The page states that the mandatory first-aid kit should include wound care and pain relievers, and that NSAIDs are prohibited.",
+    "The PAGODA 50 NIGHT mandatory list is the same 13-item list as the DAY race."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取英文 mandatory-gears 页；PAGODA 50 DAY 与 NIGHT 两段逐项比对，条目一致"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "PAGODA 50 DAY 'Mandatory Equipment' 表 13 行；ID 单列为 'Passport/ID card'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "表内为 'Windproof jacket with hood with durable water-repellent protection (DWR protection)'，全表无 rain jacket" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'Minimum 1 liter in hydration packs or water bottles. (It's not permitted to pack water in plastic bags or ziplock bags)'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Recommended Gear 表：Warm Gloves、Spare Warm Cloth、Long-legged trousers or sock to cover legs、Sun Glasses、Arm Sleeves、Vasline or Anti-Heat Cream" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "'according to the weather forecast, the organizer may add some more items... The final list will be confirmed 1 or 2 days before the race.'" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "'pain relievers (NSAIDs prhibited)' 原文拼写如此" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "PAGODA 50 NIGHT 段 13 行与 DAY 段逐项相同" }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "sourceId": "route-two-oceans-ultra-page",
+  "title": "Ultra Marathon — Totalsports Two Oceans Marathon 2027",
+  "url": "https://www.twooceansmarathon.org.za/ultra-marathon/",
+  "publisher": "Two Oceans Marathon NPC",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2027 Totalsports Two Oceans Ultra Marathon is scheduled for Sunday, 4 April 2027 and is the 56th edition of the 56 km route.",
+    "The race starts at 05:15 in batches on Newlands Main Road, Newlands, Cape Town, and finishes at the UCT Rugby Fields, Upper Campus, Rondebosch.",
+    "The entry limit is 21,000, and the event is run under World Athletics, Athletics South Africa and Western Province Athletics.",
+    "The organiser describes the course around the Cape Peninsula as passing Chapman's Peak and highlights Muizenberg, St James, Kalk Bay, Hout Bay, Noordhoek, Constantia and Newlands.",
+    "All ultra entrants must submit a qualifying marathon or longer race run between 1 May 2026 and 7 March 2027; qualifying races must be officially measured and officially timed.",
+    "The qualifying standards are sub 5:00 for 42 km, sub 6:00 for 48 km, sub 6:30 for 50 km, sub 7:00 for 56.6 km, sub 12:00 for 90 km and sub 13:30 for 100 km or longer.",
+    "The 2027 ultra entry fees are R840 for licensed South African runners, GBP 46 for rest-of-Africa entrants and GBP 140 for international entrants; the TOMI entry at R1,840 is listed as sold out.",
+    "A free race-day shuttle operates between the UCT finish and designated parking areas, with the start and end collection point at UCT Upper Campus North Stop opposite P6 and stops at UCT Middle Campus, Mowbray Bus Terminus, Sandown and Campground Road, Groote Schuur Primary School, Groote Schuur High School, Sans Souci Girls School and Main Road and Dean Street.",
+    "Tog bags are handed in at the start just after Dean Street at Great Westerford, two matching bands are issued, and bags are collected at UCT Upper Campus; no bag is released without the matching wristband.",
+    "The organiser says a detailed 2027 route map will be made available prior to the race, and publishes no elevation profile or intermediate cut-off table on this page.",
+    "The official route description calls the Noordhoek Main Road section about 4 km of gentle undulation before the first big climb; Chapman's Peak runs from Noordhoek Village along the mountain edge to Hout Bay and is not accessible by car, while Hout Bay Main Road leads to the marathon mark at Constantia Nek.",
+    "The organiser describes Constantia Nek as the second and most taxing climb, with a steep incline.",
+    "The page notes that if Chapman's Peak Drive is unavailable, the Ultra Marathon will be diverted over Ou Kaapse Weg.",
+    "The organiser says refreshment stations are set at regular intervals and provide water, sports drinks and supplies.",
+    "The page lists medical stations at 12, 19, 28, 33, 39, 42, 46, 49 and 51 km.",
+    "The official 2027 Ultra page lists equal men's and women's open prize money of ZAR 380,000, 220,000, 100,000, 60,000 and 40,000 for first to fifth, then 30,000, 23,000, 18,000, 14,000 and 12,000 for sixth to tenth, plus age-group prizes from 40-49 upward.",
+    "International and rest-of-Africa entrants must obtain their official entry through Marathon Tours & Travel, the event's exclusive international travel partner; a race-entry-only option is also listed."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 直接重读赛事官网 2027 Ultra Marathon 页：起跑时间已由 06:00 改为 05:15；页面并列出 2027 报名费、open 奖金表、年龄组奖金、接驳、存包、医疗站与资格表。2027 路线图仍未发布。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：'Sunday, 4 April 2027'；'The milestone 56th edition of our globally iconic 56km route'。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "'Start: 5.15 am'；'Runners will leave in batches from 5.15 AM'；'Newlands Main Road, Newlands, Cape Town'；'UCT Rugby Fields, Upper Campus, Rondebosch'。2026-11-20 重读时页面已显示 5.15 am。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'ENTRY LIMIT 21 000'；'run under the auspices of World Athletics (WA), Athletics South Africa (ASA) and Western Province Athletics (WPA)'。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：'traverse Chapman's Peak'；'Muizenberg, St James, Kalk Bay, Hout Bay, Noordhoek, Constantia and Newlands'。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'Qualifying Window Period (1 May 2026 – 7 March 2027)'；'officially measured'；'officially timed'。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面资格表：42km sub 5:00；48km sub 6:00；50km sub 6:30；56.6km sub 7:00；90km sub 12:00；100+km sub 13:30。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'Licensed South African R 840'；'Rest-of-Africa £ 46'；'International £ 140'；'TOMI Entry R 1,840 SOLD OUT'。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'A free race-day shuttle service will operate between the finish venue at UCT and the various designated parking areas'；站点 A–H 与 UCT Upper Campus North Stop (opposite P6)。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'Tog Bag facilities will be available at the start, just after Dean Street at Great Westerford'；'two bands'；'No bags will be released without a matching wristband'；终点 UCT Upper Campus。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'A detailed route map will be made available prior to the race'；页面无高程剖面与中途关门表。"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'The gently undulating 4km section along Noordhoek Main Road'；'Chapman's Peak... Starting at Noordhoek Village and winding its way along the mountain's edge to Hout Bay'；'This stretch of the route is not accessible by car'；'where runners will also hit the marathon mark'。"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'the second and most taxing climb ahead'；'The steep incline at Constantia Nek'。"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面改线说明：'If Chapman's Peak Drive is unavailable, the Ultra Marathon will be diverted over Ou Kaapse Weg'。"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：'Refreshment Stations are placed at regular intervals... water, sports drinks and supplies'。"
+    },
+    {
+      "index": 14,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面医疗站列表：12, 19, 28, 33, 39, 42, 46, 49, 51 km。"
+    },
+    {
+      "index": 15,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "页面 Prize Money 表：Open 1st R380 000、2nd R220 000、3rd R100 000、4th R60 000、5th R40 000、6th R30 000、7th R23 000、8th R18 000、9th R14 000、10th R12 000；'The same prize money for men and women'；年龄组 40-49/50-59/60-69/70+ 另有奖金。"
+    },
+    {
+      "index": 16,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "页面：'As an International and Rest-of-Africa athlete, you must obtain your official event entry exclusively through Marathon Tours & Travel'；并列出 Entry Only 选项。"
+    }
+  ]
+}

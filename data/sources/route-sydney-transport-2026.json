@@ -19,5 +19,86 @@
     "The official 2026 marathon bib can be shown to transport staff on all Sydney Trains, metro, bus and ferry services on event Sunday.",
     "Spectators can reach the major spectator and entertainment zones at Customs House, Circular Quay and Mrs Macquarie's Chair by light rail or metro."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl 静态抓取 .agent/sydney/transport.html",
+    "note": "2027 报名季页面仍保留赛事物流正文；逐条核对火车、地铁、轻轨、巴士、封路、接驳与观众区"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Train 段：Purple/Orange 'catch a train to North Sydney Station'；Green 'connect with Sydney Metro services to Crows Nest'"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Metro 段：'nearest metro stations ... Victoria Cross Station or Crows Nest Station, depending on your start group'；早班运行"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Purple/Orange 'exit via Denison Street, then Walker St'；Green 'Exit via Clarke St'"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'From Central, Gadigal, Martin Place or Barangaroo'；北面 Chatswood/Epping；南或西 Sydenham/Central"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'bus services will be heavily impacted'；'closest stops ... around Crows Nest'；'Limited buses ... Falcon St near St Leonards Park'"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'from 3.45am on all light rail lines'，列 L1/L2/L3；'will not be operating from Kingsford after 5:47am'"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'ANZAC Public School on Anzac Ave off Ernest St'；'North Sydney Boys High School car park on Falcon St'"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'public transport is the only way to travel on race morning'；'zero parking'"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'Critical Course Lock-Down: 5:30am – 10:30am'；封路区域逐项列出 CBD、The Rocks、Walsh Bay、Dawes Point、Millers Point、Barangaroo、Darling Harbour、Pyrmont"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'three separate railway stations, each capable of moving 25,000 people per hour directly into the starting corrals'；'arrive at least 60 minutes before your wave start'"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'Show your official 2026 TCS Sydney Marathon bib to transit staff on all Sydney Trains, metro services, buses, and ferries on event Sunday'"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "'Catch the light rail or metro directly to ... Customs House, Circular Quay, and Mrs Macquarie's Chair'"
+    }
+  ]
 }

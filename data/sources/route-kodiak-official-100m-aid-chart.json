@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-kodiak-official-100m-aid-chart",
+  "title": "Kodiak 100M aid-station chart (imperial, 2026 final, 10/6/2026 update)",
+  "url": "https://pdf.utmb.world/image/upload/v1791328612/kodiak/Aid%20Station%20Charts/2026/2026_Kodiak_Ultra_Marathons_by_UTMB_100_M_FINAL_Aid_Station_Chart_imperial_10_6_2026_update_86389b7395.pdf.pdf",
+  "publisher": "UTMB World Series / HOKA Kodiak Ultra Marathons by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The 2026 100M chart places Start at 0.0 miles, Crab Flats at 8.4, Camp Whittle at 19.4, Van Dusen at 26.8, Doble Camp 1 at 33.7, Burns Canyon 1 at 39.7, Smarts Ranch at 47.5, Cactus Flats at 51.4, Doble Camp 2 at 55.4, Burns Canyon 2 at 61.5, Sugarloaf 1 at 69.3, Balky Horse at 78.1, Sugarloaf 2 at 83.0, Bear Mountain at 89.2, Snow Summit at 95.5 and the finish at 100.1 miles.",
+    "The chart gives cut-offs of 19:15 Friday at Camp Whittle, 23:30 Friday at Doble Camp 1, 05:30 Saturday at Cactus Flats, 07:30 Saturday at Doble Camp 2, 13:00 Saturday at Sugarloaf 1, 19:00 Saturday at Sugarloaf 2, 21:00 Saturday at Bear Mountain, 23:30 Saturday at Snow Summit and 01:00 Sunday at the finish.",
+    "The chart's cumulative figures are 15,735 ft of gain and 15,663 ft of loss (about 4,796 m and 4,774 m), while the race page header gives 4,876 m+.",
+    "The chart marks drop bags at the start, Camp Whittle, Doble Camp 1, Doble Camp 2, Sugarloaf 1, Sugarloaf 2 and the finish, and pacer pick-up at Doble Camp 2, Sugarloaf 1, Sugarloaf 2 and Bear Mountain; crew access is at the start, Doble Camp 1, Doble Camp 2, Sugarloaf 1, Sugarloaf 2, Bear Mountain, Snow Summit and the finish."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 读取 2026 100M 英制补给站 PDF（10/6/2026 更新版）。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "PDF Total Miles 列逐项照录；终点 The Village 100.1" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "PDF Cut-Off Time 列逐项照录" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "PDF 终点累计 Gain 15,735 ft、Loss 15,663 ft；换算约 4,796 / 4,774 m；赛事页页头 4,876 M+" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "PDF Drop Bags、Supporter Allowed、Pick-up Pacer 列逐行照录" }
+  ]
+}

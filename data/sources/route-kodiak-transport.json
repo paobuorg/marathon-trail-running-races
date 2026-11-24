@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-kodiak-transport",
+  "title": "Big Bear Lake local services and transportation — official visitor site",
+  "url": "https://www.bigbear.com/local-services/",
+  "publisher": "Big Bear Lake, CA",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "Big Bear Airport is at 501 W. Valley Blvd, Big Bear City, California 92314.",
+    "The official visitor site lists LAX and other California airports as transportation resources for travel to and from Big Bear.",
+    "The site does not publish a race-day shuttle or a single official airport transfer policy."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web search result + official visitor page",
+    "note": "Official Big Bear visitor site read."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Local services listing: Big Bear Airport address."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Transportation Resources section mentions LAX and other airports."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "No race-specific shuttle listed; this page does not infer one."
+    }
+  ]
+}

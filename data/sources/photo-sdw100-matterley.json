@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-sdw100-matterley",
+  "title": "File:The Matterley Bowl (geograph 2836792).jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:The_Matterley_Bowl_(geograph_2836792).jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": null,
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The image shows the grassy bowl of Matterley Bowl: a mown green field in the hollow, an earth or chalk track along the lower slope, a belt of trees and a ploughed field on the rim, under a blue sky with scattered cloud.",
+    "The file title identifies The Matterley Bowl and Geograph image 2836792; it contains no SDW100, Centurion Running or race-day context and is a location photograph, not the start arch, runners or race infrastructure.",
+    "The author is Peter Facey; the file is licensed CC BY-SA 2.0; the original is 640 x 427 pixels and 82,625 bytes. The Commons file page does not display a capture date for this upload.",
+    "The route page uses the 640 x 427 file without cropping or colour change and credits the author, licence and source; attribution and share-alike are required."
+  ],
+  "license": "CC-BY-SA-2.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons file page and downloaded image inspection",
+    "note": "2026-11-23 读取 Commons 文件页并目视本地文件，核对标题、作者、许可、尺寸与画面；文件页未显示拍摄日期，页面与本来源均如实写未显示，不猜日期。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Local image shows the bowl-shaped green field, track, tree belt, ploughed rim and cloudy sky."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "The Commons title names The Matterley Bowl and Geograph 2836792; no race, club or race-day metadata appears."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Commons file page: author Peter Facey; CC BY-SA 2.0; 640 x 427; local file 82,625 bytes; no capture date shown."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Local file dimensions 640 x 427 and bytes 82,625; no crop or colour operation was applied; the page credits Peter Facey and CC BY-SA 2.0."
+    }
+    ]
+}

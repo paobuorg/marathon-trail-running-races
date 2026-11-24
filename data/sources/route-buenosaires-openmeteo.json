@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-buenosaires-openmeteo",
+  "title": "Open-Meteo ERA5 archive — Buenos Aires, 20 September, 2015–2025",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=-34.58&longitude=-58.42&start_date=2015-09-20&end_date=2025-09-20&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=auto",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "For Buenos Aires on 20 September in 2015–2025, there are 11 daily records: daily maximum 14.4–25.6 °C (median 18.8 °C), daily minimum 5.7–15.3 °C (median 10.7 °C), 2 days with at least 1 mm precipitation and 1 day with at least 5 mm.",
+    "The station is a city station; the race is a flat urban course with no published total elevation gain."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "Open-Meteo archive API",
+    "note": "Daily values retrieved and filtered to 20 September; medians and wet-day counts calculated locally."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "11 rows, computed from downloaded CSV."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Coordinates from API; no elevation figure in official regulations or map."
+    }
+  ]
+}

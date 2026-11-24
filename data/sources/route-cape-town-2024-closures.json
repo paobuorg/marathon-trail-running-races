@@ -10,5 +10,32 @@
     "The page describes the event at that time as being in its assessment year as a candidate to become an Abbott World Marathon Majors event.",
     "The page publishes area-specific road closures and parking restrictions for Atlantic Seaboard, CBD, Salt River and Southern Suburbs."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "本地静态抓取 .agent/capetown/raw",
+    "note": "页面正文已读；只有 PDF 下载与停车限制地图两个入口，未在 HTML 中列出四个分区名"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'The Sanlam Cape Town Marathon takes place the weekend of the 19 th and 20 th October 2024.'"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'currently in its assessment year as a candidate to become an Abbott World Marathon Majors event'"
+    },
+    {
+      "index": 2,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "页面只有 'ROAD CLOSURES PDF DOWNLOAD' 与 'VIEW PARKING RESTRICTIONS MAP'；正文未出现 Atlantic Seaboard、CBD、Salt River、Southern Suburbs 分区名，无法从本页证实"
+    }
+  ]
 }

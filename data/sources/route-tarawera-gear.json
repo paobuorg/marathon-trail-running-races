@@ -1,0 +1,37 @@
+{
+  "sourceId": "route-tarawera-gear",
+  "title": "Tarawera Ultra-Trail by UTMB — Mandatory Gear",
+  "url": "https://tarawera.utmb.world/runners/mandatory-gear",
+  "publisher": "Tarawera Ultra-Trail by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "All athletes, including pacers, must carry mandatory gear during the race.",
+    "The TMiler mandatory list is: long sleeve thermal top, waterproof and breathable jacket, beanie/balaclava/head sock, long leg thermal pants, full-fingered lightweight thermal gloves, headlamp, spare batteries or a second headlamp or a portable USB charger, mobile phone, water bottle/collapsible cup/hydration vest, emergency survival bag (not a survival blanket), high visibility safety vest, self-adhesive bandage, and a lightweight dry sack or zip-lock bags.",
+    "TMiler athletes are required to carry the full list at all times; for T102, T50 and T21 the weather-dependent items are confirmed at 12 noon on Wednesday 10 February.",
+    "The event is cupless and athletes are strongly advised to carry their own drinking cup, bottle or hydration vest.",
+    "No mandatory gear means no start; if a mandatory item is missing during the race, the athlete cannot continue until it is replaced and a time penalty may be applied.",
+    "The high visibility safety vest must comply with AS/NZS 4602:1999, 2010 or 2011 Class D/N and must be worn when running on Tarawera Road between the Blue/Green Lake Carpark and Buried Village.",
+    "The emergency survival bag must be a bag rather than a blanket, large enough to climb into and pull tight around the shoulders; the self-adhesive bandage must be at least 40 mm wide and 2 m long unstretched.",
+    "The waterproof jacket must have fully taped (not critically taped) waterproof seams and a hood; the mobile phone must be in working order with a charged battery and a working SIM card usable in New Zealand.",
+    "Gear checks can be done early at gear check stores in New Zealand or Australia until 11 February, or at Athlete Check-In immediately before collecting the race pack."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://tarawera.utmb.world/runners/mandatory-gear，读取强制装备矩阵（TMiler 列）、装备检查段、天气依赖裁决段与逐项说明"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "赛页 MANDATORY GEAR 行：'All athletes (including Pacers) must carry mandatory gear'；装备页首段同义" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "矩阵 TMiler 列 13 项全部 ✔，逐项抄录" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "WEATHER DEPENDENT RULINGS：'TMiler athletes are required to carry the full list of mandatory gear at all times.'；'advised at 12-noon Wednesday 10 February'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "MANDATORY GEAR LISTS 段：'we are a cupless event'，建议自带杯/瓶/背心" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "Important Information：'No mandatory gear = No start.'；missing item 段：不得继续、可能罚时" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "High visibility safety vest 描述：AS/NZS 4602 三个年份与 Class D/N；Tarawera Road 段落必须穿" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "Survival bag 与 Self-adhesive bandage 描述段" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "Waterproof & breathable jacket 与 Mobile phone 描述段" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "MANDATORY GEAR CHECK 两项：'until 11 February'；'immediately prior to collecting your race pack'" }
+  ]
+}

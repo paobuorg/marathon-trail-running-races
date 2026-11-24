@@ -15,5 +15,62 @@
     "Amos Kipruto finished fourth in 2:01:39 and Tamirat Tola fifth in 2:02:59.",
     "Mahamed Mahamed was the first Briton home in 2:06:14, with Patrick Dever next in 2:06:18."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 londonmarathonevents.co.uk/london-marathon/article/sawe-smashes-two-hour-barrier-make-sporting-history-2026-tcs-london → .agent/london35/report.html",
+    "note": "赛事方赛后报道全文可读"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“1:59:30 … first man ever to run an official marathon under two hours”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Kejelcha … second in 1:59:41 with Kiplimo third in 2:00:28”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“three men finish inside the previous world record”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“led a group of six Africans through halfway in 60:29”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“leading pair clipped through 35K in 1:39:57”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“negative split of 60:29/59:01”"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Amos Kipruto … fourth, clocking 2:01:39 with … Tamirat Tola fifth … 2:02:59”"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Mahamed Mahamed … 10th with a PB of 2:06:14, just ahead of Patrick Dever … 2:06:18”"
+    }
+  ]
 }

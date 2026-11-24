@@ -1,0 +1,37 @@
+{
+  "sourceId": "route-mgu-2026-rules",
+  "title": "2026 ANTA GUANJUN Tengchong Gaoligong Ultra — Race Regulations",
+  "url": "http://mgu.saihuitong.com/m/text?mid=32223",
+  "publisher": "2026安踏冠军腾冲高黎贡超级山径赛组委会",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "赛事日期为 2026 年 3 月 20–22 日，地点为云南省腾冲市，总规模 3,800 人，设 MGU、RCE、THT、TCZ、GEP、FTR 六个组别。",
+    "六个组别的距离、爬升、下降、总时限、起终点与出发/关门时刻：MGU 168 km/+8,540 m/−8,550 m/47 小时；RCE 120 km/5,942/5,955/32 小时；THT 55 km/2,126/2,130/12.5 小时；TCZ 35 km/1,421/1,468/8.5 小时；GEP 15 km/465/600/4 小时；FTR 5 km/128/131/2 小时。",
+    "MGU 从砚湖公园出发，经东上草甸、艾菱子、田家山、龙文桥、糖梨坝、三叠水、大蒿坪、大蛇腰、小地方三界碑、干沟护林站、公馆、桥街村、马厂村、苏脑河水库、沙坝林场、大铁凹水库、飞虎公园，到和顺古镇双虹桥终点。",
+    "规程只写“各关门点的关门时间将于赛前在参赛手册和官网公布”，规程正文没有逐站关门时刻表。",
+    "MGU 选手仅可在 CP4 龙文桥、CP7 大蒿坪、CP9 三界碑、CP12 桥街村、CP15 沙坝林场接受他人支援；RCE 仅限 CP4、CP7、CP11。",
+    "竞赛装备按组别列明：MGU 与 RCE 要求 ≥800 kcal 应急食物、GPS 设备、1 个主头灯加 2 组备用电池或 1 个充电宝；THT、TCZ 为 ≥500 kcal 并只要求 1 个头灯；所有组别不提供一次性杯与餐具。",
+    "报名费：MGU 2,180 元（早鸟 1,850 元，国际选手 310 美元），RCE 1,580 元，THT 750 元，TCZ 420 元，GEP 200 元，FTR 150 元；2025 年 12 月 31 日前取消退 100%，2026 年 2 月 20 日前退 50%，之后不退。",
+    "年龄与资格：MGU、RCE、THT 须年满 20 岁，TCZ 18 岁，GEP 16 岁；MGU 需单场 ITRA 4 分以上或 100 km 以上越野完赛证明；所有组别领物时提交赛前 3 个月内体检报告（含合格心电图）。",
+    "MGU 在 CP7 大蒿坪设转组点，选手可改跑 RCE；转组名额上限为 MGU 总人数的 20%，转组后不参与两组排名与奖励，但可获 RCE 完赛物资与 ITRA 积分。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 通过 WebFetch 读取规程全文（约 64 KB）。页面为赛事官方报名平台的规程页，未标发布日期，内容明确指向 2026 年 3 月 20–22 日。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：Race Dates: March 20 - 22, 2026；Race Location: Tengchong City, Yunnan Province；six races；Total number of athletes: 3,800。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "原文组别表：MGU 168km 8540D+/8550D− 47 hours；RCE 120km 5942/5955 32 hours；THT 55km 2126/2130 12.5 hours；TCZ 35km 1421/1468 8.5 hours；GEP 15km 465/600 4 hours；FTR 5km 128/131 2 hours。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：Yanhu Park (Start) → Dong Shang Cao Dian → Ai Ling Zi → … → Shuang Hong Qiao, Heshun Ancient Town (Finish)。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：The cut-off times at each cut-off checkpoint will be announced before the race in the handbook and on the official website. 规程未附逐站时刻表。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-09", "note": "原文列出 MGU 五个支援点 CP4/CP7/CP9/CP12/CP15 与 RCE 的 CP4/CP7/CP11。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-09", "note": "装备表按 MGU/RCE/THT/TCZ/GEP/FTR 列明；MGU 与 RCE 应急食物 ≥800 kcal、GPS、头灯加 2 组电池或充电宝。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-09", "note": "费用表与退费表原文；早鸟价以 2025 年 10 月 20 日 23:59 为界。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-09", "note": "原文年龄与资格条款；体检报告须为 race date 前三个月内、含合格心电图。" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：A decision point is established at CP7 (Da Hao Ping)… quota limited to 20% of the total number of athletes in the MGU category。" }
+  ]
+}

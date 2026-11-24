@@ -1,0 +1,55 @@
+{
+  "sourceId": "route-mgu-results-2026",
+  "title": "Antaguanjun Tengchong Gaoligong Ultra 2026 — MGU 168 km results",
+  "url": "https://itra.run/Races/RaceResults/MGU.168km/2026/114951",
+  "publisher": "ITRA",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "ITRA lists the 2026 Tengchong Gaoligong Ultra MGU 168 km on 20–22 March 2026, with Mountain Level 7 and Finisher Level 410.",
+    "The MGU 168 km men's top three are Zhang Weiqiang 21:48:08, Liu Peng 22:36:17 and Li Song 22:56:23.",
+    "ITRA's result page is an organiser-submitted record, not the race's own live timing page.",
+    "The MGU 168 km women's top three are Chi Lingjie 24:40:24, Zhao Fufen 25:29:59 and Qin Meiqing 26:04:15.",
+    "ITRA's 2026 MGU result block records 565 total participants, 428 finishers and 137 DNFs."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "search result + ITRA page",
+    "note": "ITRA race result page; used as B-layer evidence and labelled as such."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Page header: 20–22 March 2026; Mountain Level 7; Finisher level 410."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Result rows 1–3."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "ITRA result pages are organiser-submitted."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "ITRA result rows: Chi Lingjie 24:40:24 (8th overall, F), Zhao Fufen 25:29:59 (10th), Qin Meiqing 26:04:15 (11th)."
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "ITRA 2026 MGU result block for a finisher: Total Participants 565, Finishers / DNF 428 / 137 (428+137=565)."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-black-canyon-itra-2026-results",
+  "title": "Black Canyon Ultras 2026 — ITRA results (100K and 50K)",
+  "url": "https://itra.run/Races/RaceResults/100.Miles/2026/110869",
+  "publisher": "ITRA (International Trail Running Association)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "In the 2026 Black Canyon 100K, Hans Troyer finished first in 7:20:00, Anthony Costales second in 7:24:32 and Tracen Knopp third in 7:26:45, with 765 finishers listed.",
+    "The 2026 100K women's leaders were Jennifer Lichter in 7:57:05, Anne Flower in 7:57:59 and Tara Dower in 8:11:46.",
+    "In the 2026 Black Canyon 50K, Seth Ruhling finished first in 3:16:29, Adam Peterman second in 3:18:18 and Cade Michael third in 3:18:43, with 849 finishers listed.",
+    "The 2026 50K women's leaders were Jane Maus in 3:47:04, Liz O'Connor in 3:52:30 and Lindsay Allison in 3:55:44."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 读取 ITRA 2026 届 100K（110869）与 50K（110870）结果页，取总排名与女子前列。ITRA 结果页为第三方录入，作为 B 层引用。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "110869 结果表第 1-3 行：TROYER 7:20:00、COSTALES 7:24:32、KNOPP 7:26:45；表头参与者计数 765" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "110869 中 LICHTER 7:57:05（总第 9）、FLOWER 7:57:59（第 10）、DOWER 8:11:46（第 12），为最早三位 F" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "110870 结果表第 1-3 行：RUHLING 3:16:29、PETERMAN 3:18:18、MICHAEL 3:18:43；表头参与者计数 849" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "110870 中 MAUS 3:47:04（总第 22）、O'CONNOR 3:52:30（第 29）、ALLISON 3:55:44（第 34），为最早三位 F" }
+  ]
+}

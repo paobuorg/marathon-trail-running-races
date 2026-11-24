@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-tds-cormet-roselend",
+  "title": "File:Cormet de Roselend F.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Cormet_de_Roselend_F.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2005-10-19",
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "The Commons file shows the Cormet de Roselend pass in the French Alps, with green alpine slopes, scree and a stream in the foreground.",
+    "The file is a landscape photograph of the pass, not a photograph of the TDS race; it contains no runners or event signage.",
+    "The author is Philipendula, credited under CC BY 2.5; the original file is 2,560 x 1,920 pixels, 3,625,926 bytes, with a Commons upload date of 2005-10-19.",
+    "The file page requires attribution; the route page uses a 960 x 720 Commons thumbnail of 226,970 bytes and credits the author and licence."
+  ],
+  "license": "CC-BY-2.5",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "checkedVia": "Commons action=query imageinfo + thumbnail visual check",
+    "note": "2026-11-22 读取 Commons 文件页与 imageinfo，核对标题、作者、日期、许可、尺寸和画面；缩略图与文件描述一致。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "File description names Cormet de Roselend in the French Alps; thumbnail shows green slopes, scree and a stream."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "No race or TDS category in the file metadata; caption treats it as a landscape photograph."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "imageinfo: 2,560 x 1,920; 3,625,926 bytes; Artist Philipendula; CC BY 2.5; original upload date 2005-10-19."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Local file is the 960 x 720 Commons thumbnail, 226,970 bytes; source page states attribution."
+    }
+  ]
+}

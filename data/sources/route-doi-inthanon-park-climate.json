@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-doi-inthanon-park-climate",
+  "title": "Doi Inthanon National Park — National Parks of Thailand (DNP portal)",
+  "url": "https://portal.dnp.go.th/Content/nationalpark?contentId=34709",
+  "publisher": "Department of National Parks, Wildlife and Plant Conservation (Thailand)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The Department of National Parks gives the park's elevation range as 400 to 2,565 m above sea level, with the Doi Inthanon summit the highest in Thailand.",
+    "The same page divides the park by altitude: tropical climate below 1,000 m, subtropical between 1,000 and 2,000 m, and temperate above 2,000 m.",
+    "The same page divides the year into summer from March to May, a rainy season from June to November and winter from December to February, and states that the southwest monsoon brings moisture and rain clouds while the northeast monsoon brings cold and drought.",
+    "The same page gives the park's central region a year-round average temperature of about 20 degrees Celsius, and an average of 15 to 17 degrees Celsius in December and January.",
+    "The same page states that the upper highlands are wet and cold throughout the year, that the summit can have gale-force winds and subfreezing temperatures, and that on frosty days in December and January the temperature may fall to 0 to 4 degrees Celsius.",
+    "The same page gives average annual rainfall of 2,000 to 2,100 millimetres.",
+    "The same page states that above 1,800 m a cool, wet climate prevails because low clouds keep the forest clouded and foggy for the majority of the year.",
+    "The same page lists Doi Hua Mot Luang at 2,330 m, Doi Hua Mot Noi at 1,900 m and Doi Hua Suea at 1,881 m."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取泰国国家公园局 DNP 门户的 Doi Inthanon National Park 英文页面全文（约 109 行），逐条抄录气候段。页面未标注发布日期与内容许可。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'The area is located between 400 and 2,565 meters above sea level with the Doi Inthanon summit being Thailand's highest summit.'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'tropical climate in the lower part... lower than 1,000 meters... subtropical climate in the middle... between 1,000-2,000 meters and... temperate climate in areas... more than 2,000 meters'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'summer lasting from March to May, a rainy season lasting from June to November, and winter lasting from December to February'；'southwest monsoon, which brings moisture and rain clouds... northeast monsoon... cold and drought'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'At the park's central region... Throughout the year, the average temperature is around 20 degrees Celsius. During the winter months of December and January, the average temperature is between 15 and 17 degrees Celsius.'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "'The upper highlands... are generally wet and cold throughout the year... There may be gale-force winds and subfreezing temperatures... during frosty days in December and January, the temperature may fall to 0-4 degrees Celsius'" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "'The average annual rainfall is between 2,000 and 2,100 millimeters.'" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "'At elevations of 1,800 meters and higher, a cool, wet climate prevails... low clouds cause the forest to be clouded and foggy for the majority of the year.'" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "'Doi Hua Mot Luang, at 2,330 meters... Doi Hua Mot Noi reaches a height of 1,900 meters and Doi Hua Suea's summit is 1,881 meters above sea level.'" }
+  ]
+}

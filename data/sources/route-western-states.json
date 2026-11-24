@@ -11,5 +11,38 @@
     "The organiser publishes route and map material; this site does not redistribute a track file.",
     "The course follows historic 1850s mining trails and begins with a climb to Emigrant Pass."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://www.wser.org/course/ 与 https://www.wser.org/",
+    "note": "课程说明页与官网首页正文已读；18,090 ft 为官网两段爬升之和，官网首页只写 more than 18,000 feet。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "课程页：starting at Olympic Valley … ending in Auburn"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "官网首页写 100.2 miles；爬到 Emigrant Pass 2,550 ft + 其后 15,540 ft = 18,090 ft，官网未直接印总数"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "官网提供 Course Description / Maps；本站未打包轨迹文件，属本站再分发策略"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "课程页：original trails used by the gold and silver miners of the 1850's；ascends to Emigrant Pass"
+    }
+  ]
 }

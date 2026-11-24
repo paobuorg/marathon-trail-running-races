@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-utnh-2026-course-page",
+  "title": "UTNH-100 官方组别页（路线图、时间表、GPX）",
+  "url": "https://ninghai100.com/page/UNTH-100",
+  "publisher": "可隆宁海越野挑战赛 / 上海穹景体育文化发展有限公司",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "UTNH-100 官方页给出 12 行逐站时间表，含每个站点的累计距离、累计爬升、累计下降与关门时间，终点为 100.6 km、累计爬升 4,986 m、累计下降 4,986 m。",
+    "路线图旁注明：CP2 位置由 16.4 km 外辽调整至 18.6 km 里辽，关门时间延长 30 分钟。",
+    "页面提供“下载GPX轨迹”按钮，链接指向组委会自有 OSS 上的 UTNH-100 GPX 文件，页面未附许可或版权说明。",
+    "页面提示组委会有权在赛前根据天气等情况追加竞赛装备的品类和数量。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-09 与 2026-11-20 两次通过赛事内容接口读取。路线图更新标记为 2026-09-14，装备提示图标记为 2026-11-06。GPX 文件本身另建 route-utnh-2026-gpx 来源，避免把页面与轨迹文件混成一条。",
+    "checkedVia": "ninghai100.com/app-api/race/group/get?id=6（2026-11-20）；ninghai100.com/app-api/race/page/get?id=25（2026-11-09）"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "时间表原文：起点 0 km/0 m/6:05；CP5 50.5 km/2,781 m/2,126 m/16:50；终点 100.6 km/4,986 m/4,986 m/6:00(+1)。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "原文：提醒：CP2位置由16.4km外辽调整至18.6km里辽，关门时间延长30分钟。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "页面按钮“下载GPX轨迹”，链接为 qiongjing.oss-cn-shanghai.aliyuncs.com 下的 .gpx 文件；页面无 licence/copyright 字样。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "原文：组委会有权在赛前根据实际情况（如天气因素）追加竞赛装备的品类和数量，如有调整，将于赛前公告。" }
+  ]
+}

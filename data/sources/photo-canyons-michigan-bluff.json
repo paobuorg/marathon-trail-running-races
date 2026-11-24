@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-canyons-michigan-bluff",
+  "title": "File:Michigan Bluff CA USA, historic district, Sep-2018.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Michigan_Bluff_CA_USA,_historic_district,_Sep-2018.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2018-09-30",
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The image shows a stone Michigan Bluff historic marker, a wooden noticeboard, dry grass, trees and a fence at the Michigan Bluff townsite in California.",
+    "The file title identifies Michigan Bluff, California, as a historic district; it contains no Canyons race or UTMB event context and is a location photograph, not race-day coverage.",
+    "The author is T71024, credited under CC BY-SA 4.0; the original file is 5,120 x 2,880 pixels and 7,458,647 bytes, dated 2018-09-30.",
+    "The route page uses a 960 x 540 re-encoded Commons thumbnail of 251,723 bytes and credits the author and licence; attribution and share-alike are required."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons action=query imageinfo + thumbnail visual check",
+    "note": "2026-11-23 读取 Commons 文件页与 imageinfo，核对标题、作者、日期、许可、尺寸和画面；缩略图与文件描述一致。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Thumbnail shows the stone marker lettered MICHIGAN BLUFF, a noticeboard, dry grass, trees and a fence."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "The title identifies the Michigan Bluff historic district in California; no Canyons, UTMB or race-day metadata appears."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "imageinfo: 5,120 x 2,880; 7,458,647 bytes; Artist T71024; CC BY-SA 4.0; DateTimeOriginal 2018-09-30."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Local file is 960 x 540 and 251,723 bytes after re-encoding; the Commons licence requires attribution and share-alike."
+    }
+  ]
+}

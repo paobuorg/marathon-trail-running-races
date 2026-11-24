@@ -15,5 +15,62 @@
     "The marathon is mat-to-mat timed for all participants except elites.",
     "In the 2025 plan the first yellow wave departed the Stadium at 06:17 and the first blue wave departed Beach Road at 06:31."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "本地静态抓取 .agent/capetown/raw",
+    "note": "2025-07-24 双起点说明全文已读；核对波次颜色、批次、Crowd Science 方法与 2025 发车时刻"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'introducing two start areas and a five-wave system ... alleviate batch loading congestion, congestion in the first 10km, and pressure on the finish line'"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'The Stadium start on Fritz Sonnenberg Road remains ... for elites and a large portion of the field'；'Beach Road start, on Beach Road in Mouille Point'"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文批次/颜色：Yellow A–D Stadium、Pink G–H Stadium、Red K–N Stadium、Blue E–F Beach Road、Green I–J Beach Road"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'Crowd Science ... route GPX, road-width data ... historical congestion data ... pinch points such as Stanhope Road and the Company Gardens'"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：确保 'the last runner in each wave is beyond the convergence point ... before the next wave starts'"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'From the time the final runner crosses the start mat, the race clock runs for 6 hours and 30 minutes ... cut-off times are calculated'"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'mat-to-mat timing for all participants except the elites'"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'first yellow wave departed the Stadium at 06:17'；'first blue wave departed Beach Road at 06:31'"
+    }
+  ]
 }

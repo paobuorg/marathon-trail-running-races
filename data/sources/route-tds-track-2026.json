@@ -1,0 +1,62 @@
+{
+  "sourceId": "route-tds-track-2026",
+  "title": "TDS 2026 — official course JSON and GPX",
+  "url": "https://montblanc.utmb.world/en/races/tds",
+  "publisher": "UTMB Mont-Blanc / LiveTrail",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "The official TDS 2026 course data contains 24 timing points and a measured trace of 150,772 m.",
+    "The official trace totals +9,322 m and −9,509 m, with minimum and maximum elevations of 721 m and 2,589 m.",
+    "The official trace starts at 1,222 m in Courmayeur and finishes at 1,035 m in Chamonix.",
+    "The official timing points include 12 cut-offs: Lac Combal, Petit Saint-Bernard, Bourg-Saint-Maurice, Fort de la Platte, Cormet de Roselend, La Gittaz, Beaufort, Hauteluce, Le Signal, Les Contamines, Bellevue and Les Houches, plus the finish.",
+    "The official timing data marks bag drop at Courmayeur, Beaufort and Chamonix, rest areas at Beaufort, Les Contamines, Chalets du Truc and Chamonix, and runner assistance at Courmayeur, Bourg-Saint-Maurice, Beaufort, Les Contamines, Chalets du Truc and Chamonix.",
+    "The official GPX is a 1,359,016-byte file created by LiveTrail, whose metadata declares copyright to LiveTrail® and no redistribution licence."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "Saved official HTML + parsed embedded JSON + downloaded GPX",
+    "note": "The page's embedded course JSON was parsed directly; the GPX was downloaded and its metadata read."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "points array length 24; course distance 150772; final point distance 150772."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "course elevationGain 9322, elevationLoss 9509, minElevation 721, maxElevation 2589."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "First point elevation 1222, last point elevation 1035."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Twelve intermediate points carry a non-empty cutoff field."
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "hasBag/hasRest/isAssistance flags parsed from the official JSON."
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "HTTP 200, 1,359,016 bytes; GPX metadata copyright author LiveTrail®; no licence element."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-black-canyon-golden-ticket-2027",
+  "title": "HOKA Golden Ticket Races — Western States Endurance Run",
+  "url": "https://www.wser.org/golden-ticket-races/",
+  "publisher": "Western States Endurance Run",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "For the 2027 Western States, six races form the HOKA Golden Ticket series: three award two men's and two women's places, and three award three men's and three women's places.",
+    "Black Canyon 100K on 13 February 2027 is one of the three top-three races, with three automatic men's and three automatic women's places.",
+    "At the top-three races, the automatic bid slides to third, fourth and subsequently down to seventh place if needed.",
+    "Golden Ticket winners must meet Western States' male or female eligibility requirements; nonbinary runners must designate the male or female category in which they compete before the race.",
+    "Winners have two weeks from the qualifying race to decide and register; withdrawals before 1 May roll to the next runner in that race, no further than fifth or seventh, while withdrawals after 1 May go to the general wait list."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "Official page full text",
+    "note": "WSER 官方 2027 金票页明确 Black Canyon 为 top 3 M/F，roll down as far as seventh；旧稿的 sixth 是错误。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：six races；three with four tickets (top 2 M/F)，three with six tickets (top 3 M/F)" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "列表：Black Canyon Presented by HOKA — 100K, Arizona, February 13, 2027 (top 3 M/F)" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：We'll roll down as far as seventh place if needed at these races" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "脚注：must meet male or female eligibility；nonbinary must designate category" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：two weeks to decide/register；withdraw before May 1 → next runner no further than 5th/7th；after May 1 → general wait list" }
+  ]
+}

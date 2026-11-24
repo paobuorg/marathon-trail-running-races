@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-sdw100-official-2027",
+  "title": "South Downs Way 100 2027 — official race page",
+  "url": "https://centurionrunning.com/races/south-downs-way-100-2027/",
+  "publisher": "Centurion Running",
+  "publishedAt": null,
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The SDW100 is a 100 mile non-stop foot race taking in the entire South Downs Way National Trail, from just outside Winchester east to Eastbourne; the page calls it the 16th Annual and says the race is part of the World Trail Majors Series.",
+    "The vital-stats panel gives 100 mi / 161 km, 12,700 ft / 3,800 m of elevation, a 30 hour cut-off, an entry fee of £225, the date 12 Jun 2027 05:30, 600 starters, 12 aid stations, 15% road / 85% trail, an average temperature of 15 C, average rainfall of 52 mm and average humidity of 60%.",
+    "The page lists course records of David Green (M) 13:27:13 in 2026 and Sarah Webster (F) 14:27:34 in 2026.",
+    "Entries for 2027 open at 1900 on Sunday 19 July 2026 on a first come, first served basis; the fee is £225 (£227 unaffiliated); 100 free places go to volunteers; elite applicants are guided by an ITRA Index of 750+ for men and 600+ for women.",
+    "Qualification is a minimum 50 mile distance race completed within 15 hours between 1 January 2020 and race day.",
+    "The race is held under a full UK Athletics Permit granted through the TRA, with the permit number still to be confirmed (TBC).",
+    "The race starts in two waves on Saturday 12 June 2027, Wave 1 at 0530 and Wave 2 at 0630, with waves set by estimated finish time and no changes once published about three weeks before the event.",
+    "Registration and the start are at Matterley Bowl; the finish is at Eastbourne Sports Club Athletics Track, where runners complete a lap of the track.",
+    "Entry includes 12 fully stocked aid stations, a marked course, overnight camping at the start line, full medical support, live tracking, finish-line hot food and a finishers buckle.",
+    "The Route section says the race begins with a 4 mile loop through Matterley Estate before joining the South Downs Way as it passes through the farm, and that the final 96 miles remain identical to previous years. The same page says the first 5 miles around Matterley Estate are entirely private land and must not be recce'd.",
+    "All aid stations from Houghton onwards have hot drinks including tea and coffee; hot food is available at Washington and the finish line, and soup or other hot food is available at some aid stations across the second half of the course."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接抓取并读取该页正文。该页是 2027 届当前主页，包含 vital stats、报名、资格、起跑波次与赛道纪录。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "正文首段：'The SDW100 is a 100 mile non-stop foot race taking in the entire South Downs Way National Trail'；'16th Annual. The race is part of the World Trail Majors Series.'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Vital Stats 面板逐项照录：Distance 100 mi 161 KMs；Elevation 12700 ft 3800 m；Cut-off 30 hours；Entry Fee £225；Date 12 Jun 2027 05:30；No. of Starters 600；# of Aid Stations 12；Terrain 15% road / 85% trail；Avg Temp 15 C；Avg Rainfall 52 mm；Avg Humidity 60%" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "页首 Course Records 行：David Green (M) 13:27:13 2026；Sarah Webster (F) 14:27:34 2026" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "General Info 段：Entries for 2027 open at 1900 on Sunday 19th July 2026；first come, first served；£225 (£227 Unaffiliated)；100 places for volunteers；ITRA Index 750+ (Men) and 600+ (Women)" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "Qualification Standard 段：'a minimum of a 50 mile distance race within 15hrs, between 1st January 2020 and race day'" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "正文：'Race held under full UK Athletics Permit granted through the TRA (Permit Number TBC).'" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "Start Process 段：'both on Saturday 12th June 2027. Wave 1 will go at 0530 Wave 2 will go at 0630'；'will not be able to change waves once they are set and published... around 3 weeks before the event'" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "Start/Finish Location 段：'Registration and the race start is at Matterley Bowl'；'finishes at Eastbourne Sports Club Athletics Track... complete a lap of the track'" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "What do I get for my entry fee 段：12 fully stocked aid stations、marked course、overnight camping at the start line、Full Medical Support、Live Tracking、Finish Line Hot Food and Drinks、Finishers Buckle" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-23", "note": "Route 段原文：'The race route begins with a 4 mile loop through Matterley Estate before joining the South Downs Way as it passes through the farm. The final 96 miles remain identical...'；同页 Recce 提示原文：'the first 5 miles around. Matterley Estate, it is entirely on private land'" },
+    { "index": 10, "status": "supported", "checkedAt": "2026-11-23", "note": "Aid Stations 段原文：'All aid stations from Houghton onwards will have hot drinks including tea and coffee. There will be hot food available at Washington and the finish line. Soup and other hot food will be available at some aid stations across the second half of the course.'" }
+  ]
+}

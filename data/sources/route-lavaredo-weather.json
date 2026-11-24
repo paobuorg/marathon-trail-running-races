@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-lavaredo-weather",
+  "title": "Open-Meteo historical archive, Cortina d'Ampezzo and Forcella Lavaredo, 25-27 June 2015-2026",
+  "url": "https://archive-api.open-meteo.com/v1/archive",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "For the grid point 46.5369, 12.1357 (Cortina d'Ampezzo, model elevation 1,198 m) over 25-27 June of 2015-2026, 36 days: daily maximum 16.3-31.0 C with a median of 21.4 C; daily minimum 5.8-16.8 C with a median of 11.35 C; 22 of 36 days reached 1 mm of precipitation, 14 of 36 reached 5 mm, and the maximum daily total was 34.1 mm.",
+    "For the grid point 46.5358, 12.2092 downscaled to 2,300 m near Forcella Lavaredo, over the same 36 days: daily maximum 9.6-23.6 C with a median of 14.4 C; daily minimum -0.8-10.3 C with a median of 4.65 C; 23 of 36 days reached 1 mm, 12 of 36 reached 5 mm, and the maximum daily total was 34.1 mm.",
+    "These are gridded model values, not on-course measurements; the 2,300 m point is a downscaling and the 2027 race-week weather was unknown at the check date."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 调 archive-api.open-meteo.com/v1/archive，daily=temperature_2m_max,temperature_2m_min,precipitation_sum，timezone=Europe/Rome，窗口 2015-06-25 至 2026-06-27，再筛 6 月 25-27 日共 36 天"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "脚本 .agent/lavaredo/weather.mjs 输出：36 天，tmax 16.3-31.0 中位 21.4，tmin 5.8-16.8 中位 11.35，22/36 ≥1 mm，14/36 ≥5 mm，最大 34.1 mm，模型高程 1,198 m" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "同脚本：36 天，tmax 9.6-23.6 中位 14.4，tmin -0.8-10.3 中位 4.65，23/36 ≥1 mm，12/36 ≥5 mm，最大 34.1 mm，降尺度 2,300 m" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "数据源为再分析网格；2027 赛事周尚未发生" }
+  ]
+}

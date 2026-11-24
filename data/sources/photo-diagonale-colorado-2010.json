@@ -1,15 +1,48 @@
 {
   "sourceId": "photo-diagonale-colorado-2010",
-  "title": "File:Kilian jornet Grand raid 2010.JPG (2026-11-07 check: host unreachable from this network; not re-verified)",
+  "title": "File:Kilian jornet Grand raid 2010.JPG",
   "url": "https://commons.wikimedia.org/wiki/File:Kilian_jornet_Grand_raid_2010.JPG",
   "publisher": "Wikimedia Commons",
-  "publishedAt": "2010-10-23",
-  "accessedAt": "2026-11-06",
+  "publishedAt": "2010-10-22",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The file shows a runner with a head torch at night at the Colorado place above Saint-Denis, at the end of the 2010 Grand Raid.",
     "The file description identifies the runner as Kilian Jornet and the place as Colorado above Saint-Denis.",
     "The uploader and author is Cecuber, who credits the image as a personal collection.",
     "The file is licensed CC BY-SA 3.0 (Creative Commons Attribution-Share Alike 3.0)."
   ],
-  "license": "CC-BY-SA-3.0"
+  "license": "CC-BY-SA-3.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe --proxy local 7890 proxy；Commons action=query imageinfo + w/thumb.php 缩略图",
+    "note": "2026-11-20 经本地 7890 代理读取 Commons 文件页、imageinfo API 与缩略图，确认作者、许可、拍摄日期和画面。此前 blocked 是本机直连不可达，不是文件不存在或没有许可。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    }
+  ]
 }

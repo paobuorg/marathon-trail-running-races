@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-tor-changed-route-2018",
+  "title": "TOR 2018 — the route changes",
+  "url": "https://www.torxtrail.com/en/news/changed-route-tor-2018",
+  "publisher": "TORX / VDA Trailers",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The organiser's 2018 announcement said the Tor des Géants route would be changed at two points.",
+    "In the municipality of Valgrisenche the base life moves from Bonne to Valgrisenche centre.",
+    "In the municipality of Torgnon the route changes between Finestra d'Ersaz and Rifugio Magià, affecting both Tor des Géants and Tot Dret."
+  ],
+  "license": null,
+  "verification": {
+    "access": "blocked",
+    "bodyRead": false,
+    "checkedAt": "2026-11-09",
+    "note": "官方 2018 新闻页在 2026-11-09 直接访问返回 404，Wayback availability API 亦无快照；本条通过搜索索引保留的官方页正文片段取证，未直接读全文。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "partial", "checkedAt": "2026-11-09", "note": "索引片段原文：The route of TOR 2018 will be changed in two points" },
+    { "index": 1, "status": "partial", "checkedAt": "2026-11-09", "note": "索引片段原文：Valgrisenche municipality The base life moves from Bonne to Valgrisenche centre" },
+    { "index": 2, "status": "partial", "checkedAt": "2026-11-09", "note": "索引片段原文：Torgnon municipality Changed route between Finestra d'Ersaz and Rifugio Magià；同一片段标注 Tor des Géants 与 Tot Dret" }
+  ]
+}

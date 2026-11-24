@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-doi-inthanon-faq",
+  "title": "Most Frequently Asked Questions — Chiang Mai Thailand by UTMB",
+  "url": "https://chiangmai.utmb.world/faqs",
+  "publisher": "UTMB World Series / HOKA Chiang Mai Thailand by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The FAQ states that hot-weather and cold-weather kit decisions are made after assessing the latest conditions close to race day, possibly one or two days before the race.",
+    "The FAQ states that vehicles may enter the national park in accordance with Doi Inthanon National Park regulations.",
+    "The FAQ describes an Airport Line shuttle from Chiang Mai International Airport and Chiang Mai city at THB 400, and gives a call-centre number operating from 7 December, without stating a year.",
+    "The FAQ states that spectators may support runners only at designated aid stations and must present a Support Pass.",
+    "The FAQ states that mid-race baggage drop is available only for CHIANG DAO 160 and ELEPHANT 100, not for PAGODA 50.",
+    "The FAQ states that trekking poles are allowed but must be carried for the whole race and are not permitted in spare bags.",
+    "The FAQ states that a collapsible cup and a reusable bowl are different mandatory items and are not interchangeable.",
+    "The FAQ states that a power bank can replace headlamp batteries only within stated capacity conditions."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取英文 FAQ 页；页面多处保留 2022 年文案（'available from 7 December 2022'、inthanon.utmb.world 旧域名），与 2026 赛事页并存"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'We will assess the latest weather conditions close to the race day... It may be 1-2 days before the race day.'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'Vehicles are permitted to enter the national park in accordance with the regulations of Doi Inthanon National Park.'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'The fare is THB 400'、'Call Center at 081-336-5834, available from 7 December 2022 onwards'（原文含年份 2022）" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'support is only permitted at the designated aid stations. Support crew members must present their Support Pass'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "'Mid-race baggage drop is available only for the CHIANG DAO 160 and ELEPHANT 100 races'" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "'they must carry them for the entire duration... No poles are authorized in the spare bags.'" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "'collapsible cups and reusable bowls are different mandatory gears.'" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "power bank 两条条件（5000 mah / 2500 mah）" }
+  ]
+}

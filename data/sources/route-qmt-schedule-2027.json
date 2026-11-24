@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-qmt-schedule-2027",
+  "title": "Québec Mega Trail — 2027 schedule",
+  "url": "https://ultratrailcanada.com/en/infos/schedule/",
+  "publisher": "Québec Mega Trail / Ultra-Trail Canada",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2027 event is listed as 1-4 July 2027, with the note 'Date T.B.A' directly beneath those dates.",
+    "QMT135 bib pickup and mandatory gear check run 5-7 p.m. on Friday 2 July 2027 at the Hôtel & spa Le Germain de Charlevoix, the pre-race meeting is at 7:30 p.m. and the start is at 8 p.m. from the hotel's interior courtyard.",
+    "QMT135 shuttle boarding is at 4:30 p.m. and departure at 5 p.m. from the Mont-Sainte-Anne main parking lot on Friday 2 July 2027.",
+    "The same schedule runs the other races from 2 to 4 July 2027, including QMT50, TransQMT 18 km, QMT80, QMT32, QMT6, QMT25, QMT15, the QMT15 night edition and the QMT1 kids race."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接读取官方日程页。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页首：From July 1st to 4th, 2027；下一行 (Date T.B.A)" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Friday, July 2nd, 2027 表：5 p.m. to 7 p.m. QMT135 bibs pickup；5 p.m. to 7 p.m. Mandatory gear check；7:30 p.m. pre-race meeting；8 p.m. start – Interior courtyard" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "同表：4:30 p.m. Shuttle boarding – QMT135；5 p.m. Shuttle departure – QMT135；Mont-Sainte-Anne main parking lot" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "7 月 2 日至 4 日各表逐项照录" }
+  ]
+}

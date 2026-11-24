@@ -1,0 +1,40 @@
+{
+  "sourceId": "route-paraty-2027-regulation-pt",
+  "title": "Paraty Brazil by UTMB 2027 竞赛规程（葡萄牙语原文）",
+  "url": "https://paraty.utmb.world/pt/newreg",
+  "publisher": "Paraty Brazil by UTMB / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "规程以葡萄牙语为原文，并写明葡语版与其他语言版本冲突时以葡语版为准。",
+    "各组别总时限：PTR 100 30 小时、PTR 55 16 小时 30 分、PTR 34 9 小时、PTR 25 6 小时、PTR 17 4 小时 30 分、NIGHT 10 2 小时 30 分、RUN 7 2 小时。",
+    "关门以“离开主要补给站”的时间为准；主要补给站的关门时刻在赛事官网与《Athlete Guide》公布，变更会在 briefing 或通过短信通知。",
+    "PTR 100 只允许在 Taquari（32.2 km）与 Trutaria Rio Manso（71.5 km）接受外部支援；PTR 55、34、25、17、NIGHT 10 与 RUN 7 全程禁止外部支援。",
+    "PTR 100 发放两个存包，分别在 Taquari 与 Trutaria Rio Manso 可取；终点领取截止 2027-09-26 12:00，逾期由组委会捐赠或丢弃。",
+    "医疗证明须在 2027-08-31 前通过 UTMB 账户的运动员面板提交。",
+    "公布距离允许与实际赛道有 ±5% 的差异；出发后 10 分钟不得再起跑。",
+    "距离变更与名额转让均截至 2027-08-10；转让费 R$100（US$20 / EUR20），降组不退差价。",
+    "组委会取消赛事时按距赛时间退费：4 个月前 60%、2 个月前 30%、之后不退。",
+    "GPX、地图与赛道说明在各自距离的官网页提供。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 读取葡语版规程全文；关键条目与英文版逐条对照，发现医疗证明日期在英文版写成 08-30、葡语原文为 08-31，按规程的葡语优先条款采用 08-31。",
+    "checkedVia": "https://paraty.utmb.world/pt/newreg"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：『A versão original destas regras é redigida em português... a versão em português prevalecerá.』" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：『PTR 100: 30h / PTR 55: 16h30 / PTR 34: 9h / PTR 25: 6h / PTR 17: 4h30 / NIGHT 10: 2h30 / RUN 7: 2h』。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：可查询『horário limite para sair dos principais postos de apoio no site do evento e no Guia do Atleta』；变更在 briefing 或短信通知。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "原文列出 Taquari (32,2 km)、Trutaria Rio Manso (71,5 km)，并写明其余检查点与其他位置禁止支援；其他六个组别全程禁止。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：两个存包在 Taquari 与 Trutaria Rio Manso 可取；终点领取不得晚于 2027-09-26 12:00。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：『atestado deverá ser entregue... até o dia 31 de agosto de 2027』。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：距离可有 ±5% 差异；『Nenhum atleta poderá largar após 10 minutos do horário oficial de início』。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：距离变更与转让均至 10 de agosto de 2027；转让费 R$100；downgrade 不退差价。" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-09", "note": "退费表：至 4 个月前 60%、至 2 个月前 30%、2 个月前之后不退。" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：『Os percursos em formato GPX, mapas e descritivo estarão disponíveis no site oficial da distância.』" }
+  ]
+}

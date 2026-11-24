@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-torrencial-chile-gpx-2027",
+  "title": "Tor_101k_4100_1808_b492400379.gpx — official 2027 Pilolcura 100K track file",
+  "url": "https://pdf.utmb.world/raw/upload/v1788471557/torrencial/Races/GPX%20Files/Torrencial%202027/Tor_101k_4100_1808_b492400379.gpx",
+  "publisher": "LiveTrail for Torrencial Chile by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The GPX metadata declares creator LiveTrail, the name \"LiveTrail Race\" and copyright author \"LiveTrail®\".",
+    "The file contains 10,345 track points and its last cumulative distance is 101,285 m.",
+    "The track bounds are latitude -39.83301 to -39.66278 and longitude -73.33446 to -73.23967.",
+    "The start point is latitude -39.7555, longitude -73.26669, elevation 17 m.",
+    "The GPX header states no redistribution licence and carries no year field."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "桌面 UA 直连下载 1,691,003 字节 GPX，读取 XML 头与末点",
+    "note": "2026-11-08 下载并读文件头。metadata 只有 name、bounds、copyright author=LiveTrail® 与 link=https://livetrail.run；没有 licence 字段、没有年份字段。因此按 §7 记 official-link：只给官方链接，不托管、不画线。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "gpx creator=\"LiveTrail\"；metadata name=LiveTrail Race；copyright author=\"LiveTrail®\"。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "trkpt 计数 10,345；最后一个点的 <distance>101285</distance>。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "metadata bounds 原值。maxlat=-39.66278, maxlon=-73.33446, minlat=-39.83301, minlon=-73.23967。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "第一个 trkpt：lat=-39.7555, lon=-73.26669, ele=17。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "XML 只有 copyright 作者署名，没有 license/usage 条款；metadata 无 year 元素。" }
+  ]
+}

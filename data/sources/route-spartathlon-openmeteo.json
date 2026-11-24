@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-spartathlon-openmeteo",
+  "title": "Open-Meteo ERA5 archive — Athens and Sparta, 26–27 September, 2015–2025",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=37.9702&longitude=23.7228&start_date=2015-09-26&end_date=2025-09-27&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=auto",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "For Athens, the 26–27 September window in 2015–2025 contains 22 daily records: daily maximum 19.7–30.0 °C (median 25.3 °C), daily minimum 13.9–20.5 °C (median 17.6 °C), 6 days with at least 1 mm precipitation and 2 days with at least 5 mm.",
+    "For Sparta, the same window contains 22 daily records: daily maximum 19.6–32.3 °C (median 26.6 °C), daily minimum 11.6–18.6 °C (median 15.9 °C), 4 days with at least 1 mm precipitation and 2 days with at least 5 mm.",
+    "The two stations are valley/coastal stations; the course crosses the Sangas Pass at about 1,100 m, where conditions can differ from both cities."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "Open-Meteo archive API",
+    "note": "Daily values retrieved for Athens and Sparta and filtered to 26–27 September; medians and wet-day counts calculated locally."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "22 rows, computed from downloaded CSV."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "22 rows, computed from downloaded CSV."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Coordinates from API; pass elevation from official route page."
+    }
+  ]
+}

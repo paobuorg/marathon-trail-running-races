@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-zegama-weather",
+  "title": "Open-Meteo ERA5 archive — June 2016–2025, Zegama (42.9758 N, 2.2903 W)",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=42.9758111&longitude=-2.290301&elevation=296&start_date=2016-06-01&end_date=2025-06-30&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Europe%2FMadrid",
+  "publisher": "Open-Meteo (ERA5 reanalysis)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Open-Meteo ERA5 archive for the grid cell at 42.9758 N, 2.2903 W, elevation 296 m, over the 300 June days from 2016 to 2025: mean daily maximum 23.6 °C and mean daily minimum 14.2 °C.",
+    "The same query gives mean precipitation of 3.4 mm per day; 155 of the 300 June days (51.7%) had at least 1 mm.",
+    "These are reanalysis statistics for a grid cell, not official race data and not measurements from the race course or race day."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接查询 Open-Meteo archive API，取 2016–2025 年 6 月共 300 天，按 daily time 过滤 06 月后计算均值；坐标与海拔采用赛事镇中心。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "API 返回 300 个 6 月日值；temperature_2m_max 均值 23.6，temperature_2m_min 均值 14.2。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "precipitation_sum 均值 3.4 mm/day；≥1 mm 的日数 155/300 = 51.7%。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Open-Meteo 文档与页面标注数据为 ERA5 再分析；本页未把它写成赛事方数据或赛事日实测。" }
+  ]
+}

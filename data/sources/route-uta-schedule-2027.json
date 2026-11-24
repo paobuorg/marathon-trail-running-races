@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-uta-schedule-2027",
+  "title": "HOKA Ultra-Trail Australia by UTMB 2027 — Event Schedule",
+  "url": "https://uta.utmb.world/runners/event-schedule",
+  "publisher": "USM Events Pty Ltd / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Thursday 13 May 2027 runs the expo and event information from 9:00am to 7:30pm, UTA11 check-in from 9:00am to 12:30pm, UTA22 and UTAMiler check-in from 9:00am to 7:30pm, UTAMiler drop bags from 9:00am to 7:30pm, the UTA11 start at 1:00pm, UTA11 finishes from 1:55pm to 6:00pm and UTA11 presentations at 5:00pm.",
+    "Friday 14 May 2027 starts the UTAMiler at 5:00am from Govetts Leap Lookout, starts UTA22 between 6:40am and 9:40am from Queen Victoria Hospital, runs UTA100 and UTA50 check-in from 10:00am to 7:00pm, takes UTA100 drop bags from 10:00am to 7:00pm, announces the UTA100 weather-dependent gear ruling at 10:00am, holds UTA22 presentations at 4:45pm and expects the first UTAMiler finisher at 11:59pm (marked with an asterisk).",
+    "Saturday 15 May 2027 starts UTA100 between 5:00am and 8:30am and UTA50 between 5:05am and 8:00am, opens the UTA50 finish from 9:00am, opens the UTA100 finish from 1:30pm and sets the UTA50 finish cut-off at 10:30pm.",
+    "Sunday 16 May 2027 sets the UTAMiler finish cut-off at 1:40am, runs 1km-4-Kids check-in from 8:00am to 9:30am with a 9:30am start, holds presentations at 10:30am, lists last UTA100 finishers at 12:30pm and sets the drop bag collection deadline at 3:00pm.",
+    "The schedule is labelled a draft and subject to change."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://uta.utmb.world/runners/event-schedule，按 Thu/Fri/Sat/Sun 四个 tab 逐行读取"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Thursday 13 May 2027 表逐行：Expo 9:00am-7:30pm；Race Check-In UTA11 9:00-12:30；UTA11 start 1:00pm；finish 1:55-6:00pm；presentations 5:00pm" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Friday 14 May 2027 表逐行：UTAMiler 5:00am Govetts Leap Lookout；UTA22 6:40-9:40am QVH；Check-In UTA100/50 10:00am-7:00pm；gear announcement 10:00am；first finisher expected 11:59*pm" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Saturday 15 May 2027 表逐行：UTA100 5:00-8:30am；UTA50 5:05-8:00am；UTA50 finish from 9:00am；UTA100 finish from 1:30pm；UTA50 cut-off 10:30pm" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Sunday 16 May 2027 表逐行：UTAMiler cut-off 1:40am；1km-4-Kids check-in 8:00-9:30am、start 9:30am；presentations 10:30am；last finishers UTA100 12:30pm；drop bag deadline 3:00pm" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "页尾：2027 Event schedule is draft and subject to change" }
+  ]
+}

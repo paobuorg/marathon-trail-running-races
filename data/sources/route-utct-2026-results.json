@@ -1,0 +1,62 @@
+{
+  "sourceId": "route-utct-2026-results",
+  "title": "Sportraxs — RMB | UTCT 2026, UT100 official leaderboard",
+  "url": "https://sportraxs.com/events/589/races/1478?grid=true",
+  "publisher": "Sportraxs (official timing platform linked from RMB Ultra-trail Cape Town)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "At 10:50 SAST on 22 November 2026 the official Sportraxs UT100 leaderboard listed 447 runners in total: 359 finished, 88 withdrawn and none still on course; the men's field was 366 runners with 295 finished and 71 withdrawn, while the women's field was 81 runners with 64 finished and 17 withdrawn.",
+    "The 2026 UT100 men's top three were David Sinclair in 10:01:09, Hannes Namberger in 10:18:04 and Andreas Reiterer in 10:47:26.",
+    "The 2026 UT100 women's top three were Abby Hall in 12:14:26, Ekaterina Mityaeva in 12:37:24 and Rebecca Kohne in 12:38:30.",
+    "The official Sportraxs leaderboard labels the 2026 UT100 standings 'Official' and reports 447 runners, 359 finished and 88 withdrawn.",
+    "Abby Hall's 12:14:26 placed 15th overall on the official leaderboard.",
+    "The 06:22 SAST provisional count of 358 finished, 87 withdrawn and 2 on course became 359 finished, 88 withdrawn and 0 on course at 10:50 SAST, an increase of one finisher and one withdrawal; both changes were in the men's field, while the women's field stayed at 64 finished and 17 withdrawn."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "checkedVia": "Browser Use (aha_browser_use) on the official Sportraxs 2026 UT100 leaderboard",
+    "note": "2026-11-22 10:50 SAST 通过浏览器读取官方 UTCT 2026 TRACKING 按钮指向的 Sportraxs 事件 589、UT100 组别 1478 的 final/official 排行榜；页面显示 447 runners · Official、Finished 359、Withdrawn 88、On course 0。分性别人数由同页 Men / Women 筛选与官方 relay 数据核对；100 英里仍在关门时间内。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "All: 447 runners, 359 finished, 88 withdrawn, 0 on course; Men: 366 / 295 / 71 / 0; Women: 81 / 64 / 17 / 0。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Leaderboard men's top three: David Sinclair 10:01:09, Hannes Namberger 10:18:04, Andreas Reiterer 10:47:26。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Leaderboard women's top three: Abby Hall 12:14:26, Ekaterina Mityaeva 12:37:24, Rebecca Kohne 12:38:30。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Page text: '447 runners · Official'; status filter: Finished (359), Withdrawn (88), On course (0)。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "All leaderboard shows place 15 next to Abby Hall, #6 Open female, 12:14:26。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "06:22 provisional: 358 / 87 / 2; 10:50 official: 359 / 88 / 0. Men 294 / 70 / 2 -> 295 / 71 / 0; women 64 / 17 / 0 unchanged。"
+    }
+  ]
+}

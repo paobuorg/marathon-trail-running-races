@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-spartathlon-2026",
+  "title": "Spartathlon — Race List 2026",
+  "url": "https://www.spartathlon.gr/en/spartathlon/race/list/",
+  "publisher": "International Spartathlon Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "The 2026 Spartathlon is race ID 47, starting on 26 September 2026 at 07:00 and ending on 27 September 2026 at 19:00.",
+    "The official race list records 403 registered, 323 started and 279 finished for the 2026 edition.",
+    "The official race list gives 76 checkpoints for the 2026 edition."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch",
+    "note": "Official race list table read."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Row 47: 2026-09-26 07:00 to 2026-09-27 19:00."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Registered 403, Started 323, Finished 279."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Checkpoints column: 76."
+    }
+  ]
+}

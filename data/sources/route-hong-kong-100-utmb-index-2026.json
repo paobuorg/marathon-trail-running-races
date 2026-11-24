@@ -12,5 +12,43 @@
     "The men's winner in 2026 was Guidu Qin of China in 8:52:36, followed by Guangfu Meng in 8:58:50 and Guomin Deng in 9:09:48.",
     "The leading two women in 2026 both recorded 10:43:35: Veronika Leng of Slovakia and Hau Ha Thi of Vietnam."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 UTMB Index 906 赛事页 2026 结果表"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "赛事头：“24 Jan 2026… Hong Kong, China”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "赛事头：“92.9 km… 5073 m”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "结果表计数：“1844 Results”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "结果表第 1–3 名：Qin 8:52:36 / Meng 8:58:50 / Deng 9:09:48"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "结果表第 21–22 名：Veronika Leng 10:43:35 / Hau Ha Thi 10:43:35（均为 Women）"
+    }
+  ]
 }

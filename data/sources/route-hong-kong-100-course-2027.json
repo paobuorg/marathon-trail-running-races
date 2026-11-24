@@ -22,7 +22,208 @@
     "The course is rocky, uneven and steep in places, and the organiser warns runners to take care when overtaking and when crossing roads.",
     "Emergency first aid will be available at each checkpoint.",
     "Mobile phone coverage exists over most of the course but some areas have no coverage or only intermittent coverage.",
-    "The Food & Beverages section of the page says 'To be announced'."
+    "The Food & Beverages section of the page says 'To be announced'.",
+    "The course starts in Pak Tam Chung on the east side of the New Territories and winds west along coastal paths, across beaches, through ancient villages, over hills and through valleys before finishing after the descent of Tai Mo Shan.",
+    "From East Dam to the second checkpoint the route climbs over Sai Wan Shan (314 m).",
+    "From CP2 the route climbs briefly for views over the Sai Kung Country Park, descends to Sai Wan village, crosses Sai Wan and Ham Tin beaches, skirts behind Ham Tin village to Tai Long Wan beach, turns inland about halfway along that beach, and after 1 km of jungle trail rejoins the MacLehose Trail Stage 2.",
+    "From Pak Tam Au the route climbs steeply up Ngau Yee Shek Shan, which rises to almost 400 m above sea level, and the summit views include Kau Sai Chau.",
+    "After the descent the route turns sharply right at Cheung Sheung onto the Cheung Sheung Country Trail, described as a soft and bouncy trail runner’s dream; it then turns left on Hoi Ha Road and follows the road to Pak Sha O and CP4, where runners must use the pavement and cross the road with care.",
+    "From Pak Sha O to CP5 the route is a mixture of fast coastal path and dirt trail, with views across Kei Ling Ha towards Ma On Shan (\"Saddle Hill\").",
+    "Leaving CP5, \"the real climbing starts\": the route leaves via the back of Yung Shue O village up the Cheung Sheung Country Trail, turns sharply right to rejoin the MacLehose Trail, and passes Kai Kung Shan (399 m) before CP6.",
+    "The ridge after Ma On Shan gives views over Sai Kung and the islands of the South China Sea, and smooth, runnable orange-coloured dirt trail.",
+    "From Gilwell Camp to CP8 the route traverses behind Lion Rock with views over Kowloon and Hong Kong Island, which the organiser calls the best city views of the whole course.",
+    "From CP8 to CP9 the route descends sharply into an area with monkeys, shares trails and the Tai Po Road footbridge for 5 km, and climbs the sealed road of Golden Hill; the organiser warns that macaques will snatch food.",
+    "Leaving Shing Mun there are three climbs: Needle Hill (532 m), then Grassy Hill (647 m) via a winding sealed road, then a sharp descent to CP10.",
+    "The organiser says CP10 is inaccessible to vehicles and that it is easier to shuffle to the finish than to walk out of the country park.",
+    "The Safety section tells runners to ensure they have enough food and drink to reach the next checkpoint and to be particularly careful to drink enough and carry enough fluid."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://hk100ultra.com/hk100/ 正文与 Checkpoints/Course Markings 段"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "开头段：“finishing after the descent of Tai Mo Shan, Hong Kong’s highest peak (at 957m)”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "开头段：“The 100km journey climbs over 5,000m and much of the climbing is in the second half”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 1 段：“The first 10km… High Island Reservoir… CP1 (East Dam – 10km)”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CP2 段：“Sai Wan Pavilion… CP2 (17km)”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CP3 段：“Pak Tam Au… CP3 (28km)”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CP4/CP5 段：“CP4 (36km)… CP5 (Yung Shue O – 44km)”"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CP6 段：“your drop bag at CP6 (Kei Ling Ha – 52km)”"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CP7 段：“CP6 to CP7 (Gilwell Camp – 65km) is the race’s longest and hardest stage”"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CP8/CP9 段：“CP8 (Beacon Hill – 74km)… CP9 (Shing Mun – 80km)”"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CP10 段：“CP10 (Lead Mine Pass – 87km)… inaccessible to vehicles… you have just 10km to go”"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "结尾段：“have a 4km run downhill to the party and the glory at the finish line”"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course GPX 段：“Download Course GPX (Direct Download)”"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course Markings 段：“directional arrows, crosses and reflective flagging tapes”；“highly recommended to download the GPX track to your sports watch”"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Safety 段：“The course is rocky, uneven and steep in places… never overtake unless it is safe”"
+    },
+    {
+      "index": 14,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "First Aid 段：“Emergency first aid will be available at each checkpoint”"
+    },
+    {
+      "index": 15,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Mobile Phone Coverage 段：“coverage over most of the course… non-existent or intermittent”"
+    },
+    {
+      "index": 16,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Food & Beverages 段：“To be announced”"
+    },
+    {
+      "index": 17,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "开头 Course Description 段：“starts in Pak Tam Chung on the east side of Hong Kong’s New Territories and winds its way west along coastal paths, across beaches, through ancient villages, over hills and through valleys before finishing after the descent of Tai Mo Shan”"
+    },
+    {
+      "index": 18,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CP2 段：“From East Dam to the second checkpoint requires a climb over Sai Wan Shan (314m)”"
+    },
+    {
+      "index": 19,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CP2 段：“short climb up to stunning views over the Sai Kung Country Park… descending to Sai Wan village and crossing Sai Wan and Ham Tin Beaches… skirts around the back of Ham Tin village… About halfway along Tai Long Wan beach… After 1km of ‘jungle trail’ rejoin the Maclehose Trail… Stage 2”"
+    },
+    {
+      "index": 20,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CP2 段：“From Pak Tam Au you climb steeply up Ngau Yee Shek Shan which rises to almost 400m above sea level… views to the islands (including… Kau Sai Chau)”"
+    },
+    {
+      "index": 21,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CP2 段：“turn sharply right at Cheung Sheung to fly down the Cheung Sheung Country Trail, a soft and bouncy trail runner’s dream. Turn left when you reach Hoi Ha Road and follow the road to Pak Sha O village and CP4… Runners must use the pavement and cross the road with care”"
+    },
+    {
+      "index": 22,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CP4 段：“From Pak Sha O to CP5 (Yung Shue O – 44km) it is a mixture of fast coastal path and dirt trail. Watch out for the magnificent views across Kei Ling Ha towards Ma On Shan (‘Saddle Hill’)”"
+    },
+    {
+      "index": 23,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CP5 段：“As you leave CP5 the real climbing starts. The route leaves via the back of Yung Shue O village up the Cheung Sheung Country Trail to rejoin the Maclehose Trail by turning sharp right. Kai Kung Shan (‘Rooster Hill’) (399m) stands between you and your drop bag at CP6”"
+    },
+    {
+      "index": 24,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CP6 段：“The ridge line after Ma On Shan provides incredible views over Sai Kung and the hundreds of islands in the South China Sea, and the chance to open up on smooth, runnable orange-coloured dirt trail”"
+    },
+    {
+      "index": 25,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CP6 段：“the route from Gilwell Camp to CP8 (Beacon Hill – 74km) provides the best city views of the whole course as you traverse behind Lion Rock looking out over Kowloon… Hong Kong island”"
+    },
+    {
+      "index": 26,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CP8 段：“requires a sharp descent into monkeyland, then for 5km you’ll be sharing the trails, the bridge across Tai Po Road… and the climb up the sealed road of Golden Hill with the… macaques. If you eat here, they will snatch your snack!”"
+    },
+    {
+      "index": 27,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CP9 段：“As you leave Shing Mun you have just 3 climbs to go. First up… Needle Hill (532m)… After Needle Hill comes Grassy Hill (647m), a winding sealed road… and the sharp descent to CP10”"
+    },
+    {
+      "index": 28,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CP9 段：“the CP is inaccessible to vehicles, so it’s easier to shuffle to the finish than to walk out of the country park”"
+    },
+    {
+      "index": 29,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Safety 段：“Ensure that you will have enough to eat and drink to reach the next check-point. Be particularly careful to drink enough and carry enough fluid”"
+    }
+  ]
 }

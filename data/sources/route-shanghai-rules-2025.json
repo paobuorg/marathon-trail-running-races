@@ -19,5 +19,86 @@
     "The 2025 field is 23,000 marathon runners, 15,000 fitness-run runners and about 20 wheelchair athletes.",
     "The start uses a split-gun (multi-wave) format."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl 抓取 static.shang-ma.com 页面（SPA 壳）+ 站内 API /app/web/newsPosts/eventsNews/224 的 newsContent → .agent/berlin-shanghai35/sh-api-news-224.json",
+    "note": "页面本体为 SPA，规程正文由官方 API 新闻内容取得，含 2025 规程、报名须知与领物须知。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "规程：轮椅 11 月 30 日 6:45；马拉松、健身跑 7:00。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第七条：起点外滩金牛广场；马拉松终点徐家汇体育公园；健身跑终点上海展览中心。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第七条列外滩、南京路步行街、静安寺、淮海路、新天地、龙腾大道、龙华路，详细路线赛前公布。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "补给表：5 km 起饮料每 5 km；7.5 km 起饮水每 5 km 至 40 km。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "关门表：10 km 8:30、15 km 9:10、20 km 9:50、25 km 10:30、30 km 11:15、35 km 12:05、40 km 12:50、终点 13:15；规程落款 2025 年 6 月。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第十条：5:30 起集结；6:45 前存衣；14:30 前取衣。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "奖励办法：6 小时 15 分内完赛发奖牌。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "计时：起点、每 5 km、21.0975 km、折返点、终点设地毯。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "医疗：起终点及沿途固定医疗点，急救车跟随。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "技术认证中国田协；采用世界田联竞赛与技术规则。"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第六条：马拉松 23000、健身跑 15000、竞速轮椅约 20。"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第十条：采用分枪发令。"
+    }
+  ]
 }

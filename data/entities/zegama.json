@@ -1,0 +1,59 @@
+{
+  "entityId": "route:zegama",
+  "slug": "zegama",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-zegama-race",
+    "route-zegama-regulation",
+    "route-zegama-2027",
+    "route-zegama-enrolment",
+    "route-zegama-supporters",
+    "route-zegama-gtws",
+    "route-zegama-gttv",
+    "route-zegama-place-osm",
+    "route-zegama-weather",
+    "photo-zegama-finish-2024"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "tool:track-view"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-20",
+  "reviewedAt": "2026-11-20",
+  "reviewDueAt": "2027-05-31",
+  "details": {
+    "raceType": "trail-mountain",
+    "countryCodes": [
+      "ES"
+    ],
+    "placeName": {
+      "zh-CN": "西班牙巴斯克自治区吉普斯夸省泽加马（Zegama），起终点均在镇内",
+      "en": "Zegama, Gipuzkoa, Basque Autonomous Community, Spain; the start and finish are both in the town"
+    },
+    "mapAnchor": {
+      "longitude": -2.290301,
+      "latitude": 42.9758111,
+      "kind": "start",
+      "sourceRef": "route-zegama-place-osm"
+    },
+    "courseVersion": "2027-zegama42",
+    "courseEdition": "2027",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "Loop from the town of Zegama over the Aratz massif and the Sierra of Aizkorri, returning to Zegama",
+    "distanceMeters": 42195,
+    "distanceMethod": "The organiser's course page and regulation both give 42.195 km, and the regulation says the measurement was confirmed by technicians of the Basque Mountain Federation. The Golden Trail World Series page gives 42 km and its embedded Strava route gives 42.3 km. This card uses the official 42.195 km and keeps the other figures in the body.",
+    "elevationGainMeters": 5472,
+    "elevationMethod": "The organiser's course page and regulation give an 'accumulated height gain' of 5,472 m, with the measurement confirmed by technicians of the Basque Mountain Federation. Neither official page lists ascent and descent separately. The Golden Trail World Series page gives 2,745 m in its data block and 2,736 m of positive elevation in its prose. 5,472 is exactly twice 2,736; that relation reads like an ascent-plus-descent total, but the organiser does not explain the figure, so this card records the observation and does not call the official number an error.",
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "Zegama-Aizkorri Mendi Maratoia. The organiser publishes no downloadable GPX for the race course on the pages checked on 2026-11-08: the course page links a YouTube '3D ROUTE' video and names Wikiloc as mapping sponsor, and the spectator guide links Wikiloc routes for walking to Sancti Spiritu, not for the race line. This site therefore draws no track and stores no geometry for this route."
+  }
+}

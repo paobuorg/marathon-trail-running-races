@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-gpt100-taipan-wall",
+  "title": "File:Taipan Wall (26068994254).jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Taipan_Wall_(26068994254).jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2016-04-22",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "The photograph shows the orange-red sandstone wall of Taipan Wall in late-afternoon light, with horizontal ledges, dark vertical streaks, sparse trees at its base and a clear blue sky above; the file page gives the camera location as 36.895448 S, 142.378396 E.",
+    "Commons titles the photograph Taipan Wall (26068994254).jpg and describes it as Taipan Wall; it is a rock-wall view, not the GPT100 Miler start line, a course marking, an aid station, a timing mat, a runner or a race-day crowd.",
+    "The author is Ed Dunens; the file is licensed CC BY 2.0; the photograph was taken on 2016-04-22 at 17:31; the original is 5,757 x 3,838 pixels and 22,838,490 bytes.",
+    "The route page uses a 960 x 640 copy of 293,590 bytes without cropping or colour change and credits Ed Dunens, CC BY 2.0, Wikimedia Commons; the resized copy keeps the same licence."
+  ],
+  "license": "CC-BY-2.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons file page, imageinfo API and downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons 文件页与 API 核对作者、许可、日期、原图尺寸和拍摄坐标，并下载 960 px 副本目视确认：画面是 Taipan Wall 岩壁，不是 GPT100 起点、赛道标记或赛日现场。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地副本可见橙红砂岩壁、横向岩层、深色水痕、壁脚树木与蓝天；文件页 Camera location 为 36.895448 S, 142.378396 E。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons 标题与 ImageDescription 均为 Taipan Wall；画面无号码布、拱门、补给桌、计时毯、旗标或人群。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "imageinfo：Artist Ed Dunens；LicenseShortName CC BY 2.0；DateTimeOriginal 2016-04-22 17:31；5,757 x 3,838、22,838,490 字节。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 x 640、293,590 字节；未裁剪、未改色；页面署名 Ed Dunens、CC BY 2.0、Wikimedia Commons。"
+    }
+  ]
+}

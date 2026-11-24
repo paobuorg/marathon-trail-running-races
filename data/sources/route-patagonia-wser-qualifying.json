@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-patagonia-wser-qualifying",
+  "title": "Western States 官方资格赛名单：2028 抽签段列出 Patagonia Run 100M（2027）",
+  "url": "https://www.wser.org/qualifying-races/",
+  "publisher": "Western States Endurance Run",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "页面“2028 Race Lottery”段写明：2028 年 Western States 的资格完赛窗口为 2026 年 11 月 9 日（周一）至 2027 年 11 月 7 日（周日）。",
+    "该段名单列有“Patagonia Run 100M | Argentina | 4 | 2027 | 42 hours”，表格列为 Run Name / Distance / State-Country / Month / Year / Time。",
+    "同一 2028 名单还列有“Patagonia Run 110km | Argentina | 4 | 2027 | 27 hours”。",
+    "页面写明不在名单上的赛事不能作为资格赛，虚拟赛事也不被接受。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接读取官方 qualifying-races 页全文，按 2028 Race Lottery 段逐行核对。",
+    "checkedVia": "https://www.wser.org/qualifying-races/"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：The 2028 qualifying run must be run from Monday November 9, 2026 through Sunday November 7, 2027。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "名单行原文：Patagonia Run 100M Argentina 4 2027 42 hours。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "名单行原文：Patagonia Run 110km Argentina 4 2027 27 hours。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：An event that is not on the list cannot be used as a qualifier. We do not allow virtual events to be used as qualifiers。" }
+  ]
+}

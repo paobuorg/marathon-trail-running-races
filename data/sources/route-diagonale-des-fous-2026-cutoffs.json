@@ -4,7 +4,7 @@
   "url": "https://www.grandraid-reunion.com/IMG/pdf/diag_2026_av_barrieres_horaires.pdf",
   "publisher": "Grand Raid de La Réunion",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The 2026 cut-off table lists 33 points (1 start, 16 CP, 13 PR, 2 BV and 1 finish) and totals 180.8 km with +10,191 m and −10,154 m.",
     "The 33 points in table order are: DEP Saint-Pierre Ravine Blanche 0.0; CP1 Domaine Vidot 14.0; CP2 Notre-Dame de la Paix–École 33.4; CP3 Parking aire Nez de Bœuf 45.4; CP4 Mare à Boue 55.6; CP5 Coteau Kerveguen 65.1; CP6 Croisée Coteau Kerveguen 67.6; PR1 Intersection Cap Anglais 70.5; CP7 Gîte de Bélouve 76.4; BV1 Hell-Bourg 80.6; PR2 Parking Bras Marrons 84.3; PR3 Ilet Mare d'Affouches 85.9; PR4 Plaine des Merles 87.2; PR5 Intersection Col de Fourche/Plaine des Merles 93.1; CP8 Plaine des Merles 93.8; CP9 Départ Sentier Scout 96.0; PR6 La Plaque 102.4; PR7 Ilet à Bourse 104.4; CP10 Grand Place les Bas–École 107.8; PR8 Roche Ancrée 111.3; CP11 Roche Plate–Plateau Cerf 116.4; PR9 La Brèche 118.9; PR10 Ti Col Maïdo 122.4; CP12 Maïdo–Tête Dure 123.9; BV2 Ilet Savannah 140.5; CP13 Chemin Ratinaud–Kalla 147.9; PR11 Lot. La Résidence Grande Montagne 153.9; CP14 La Possession–Place Festival 155.1; CP15 Grande Chaloupe 164.5; PR12 Saint-Bernard–Les Bambous 169.0; CP16 Colorado 173.8; PR13 Belvédère de la Vigie 177.8; ARR La Redoute 180.8.",
@@ -22,5 +22,103 @@
     "Personal assistance (Assistance personnelle) is marked O at 15 points: DEP, CP1, CP2, CP3, CP4, BV1, CP9, CP10, CP11, PR10, BV2, CP14, CP15, CP16 and ARR; every other point is marked X.",
     "The finish is at La Redoute, km 180.8, 49 m, with a Sunday 16:00 cut-off."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官方关门表 PDF，并用 PyMuPDF 逐行核对文字与图标"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PDF 共 33 行；末行 ARR 180,8 / 10191 / 10154"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "33 个点位名称、编号与公里逐行与 PDF 一致"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "抽查 CP4/BV1/CP9/CP11/BV2/CP14/ARR 累计值与 PDF 一致"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CP6 2 475 m 为全表最高计时点；CP5 2 187 m"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "19 个关门时刻逐项与 PDF 一致"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "BV1 行：热餐、医生、护士、理疗、足疗、换装包图标齐全"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "BV2 行服务图标与 BV1 同级"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "仅 BV1、BV2、ARR 行有换装包图标"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CP7 行仅计时钟+水瓶图标；CP9 行计时钟+个人协助 O，无补给图标"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CP5 无时间栏、仅有水瓶图标；其余 15 个 CP 与 2 个 BV 均有时间"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "热餐图标仅 CP4、BV1、BV2、ARR"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "医生 10 点、护士 15 点与 PDF 图标逐列一致"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Kiné/Podologue 仅 BV1、BV2、ARR；Ostéopathe 仅 ARR；Secouriste 仅 DEP、ARR"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Assistance personnelle 列 15 个 O，其余 X"
+    },
+    {
+      "index": 14,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "ARR 行 180,8 km / 49 m / 周日 16h00"
+    }
+  ]
 }

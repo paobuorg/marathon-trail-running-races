@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-qmt-place-geocoding",
+  "title": "Open-Meteo geocoding — Baie-Saint-Paul",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=Baie-Saint-Paul&count=3&language=en&format=json",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Open-Meteo geocoding returns Baie-Saint-Paul, Quebec, Canada at latitude 47.44109 and longitude -70.49858.",
+    "The result is a town-level populated place (feature code PPL) with a population of 7,146, not a start-line coordinate."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接请求 Open-Meteo geocoding API。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "返回 JSON：name Baie-Saint-Paul；latitude 47.44109；longitude -70.49858；country Canada；admin1 Quebec" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "feature_code PPL；population 7146；elevation 7.0" }
+  ]
+}

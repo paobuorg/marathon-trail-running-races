@@ -1,0 +1,55 @@
+{
+  "sourceId": "route-spartathlon-rules-2022",
+  "title": "Spartathlon Race Rules (official PDF dated 2022)",
+  "url": "https://www.spartathlon.gr/wp-content/uploads/2023/01/race-rules-en-2022.pdf",
+  "publisher": "International Spartathlon Association",
+  "publishedAt": "2022-01-01",
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "The official rules PDF states that runners may receive physical help from supporters only at the listed checkpoints and that supporting bicycles or motorcycles are forbidden.",
+    "The rules state that a runner who abandons must hand in bib and chip, sign a withdrawal form at the spot or nearest checkpoint, and will be transported by an official car to Sparta and the hotel designated by the organising committee.",
+    "The rules define the finish as touching the base of the statue of King Leonidas within the time limit.",
+    "The rules forbid runners from entering a supporting vehicle to receive help and forbid support vehicles from stopping between checkpoints to assist.",
+    "The PDF is dated 2022; the official site still links it as the race-rules document, but the 2026 road book is the current checkpoint and service source for this page."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "Downloaded PDF, extracted text",
+    "note": "Official rules PDF read; publication year visible in filename and document."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Articles 11, 20 and 28."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Article 14."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Article 38."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Articles 21 and 28."
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Filename race-rules-en-2022; document dated 2022."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "sourceId": "route-uta11-2027",
+  "title": "HOKA Ultra-Trail Australia by UTMB 2027 — UTA11",
+  "url": "https://uta.utmb.world/races/UTA11",
+  "publisher": "USM Events Pty Ltd / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2027 UTA11 is 11.4 km with 731 m of positive gain, starts at Scenic World, Katoomba at 13:00 on Thursday 13 May 2027, and has a 4 h 30 min limit.",
+    "The UTA11 page prints a price of $140 and marks the race SOLD OUT, while the 2027 entry page lists $160."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://uta.utmb.world/races/UTA11，读取页头 stat block"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页头 stat block：Distance 11.4 KM；Elevation Gain 731 M+；Start Date Thursday 13th May 2027；Race Start Scenic World, Katoomba - 13:00；Max Allowed 04 Hours 30 Minutes"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页头 Price $140 - SOLD OUT；与 entry-info 的 UTA11 $160 不一致，两处均照录"
+    }
+  ]
+}

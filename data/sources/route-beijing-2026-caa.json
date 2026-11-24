@@ -22,5 +22,29 @@
     "A 10 km companion event was held on 11 October 2026 in Longtan Zhonghu Park with 1,780 runners.",
     "The race expo ran from 15 to 17 October 2026 at the China International Exhibition Center, Chaoyang hall."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取中国田径协会赛后通稿 → .agent/chicago-beijing35/beijing-caa.html",
+    "note": "赛后通稿正文可读；成绩、纪录、医疗、厕位、志愿者与配套活动逐条核对"
+  },
+  "claimVerification": [
+    {"index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "7:30、10月18日、天安门广场起跑、32,000人、42.195公里"},
+    {"index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "北京马拉松与全国马拉松锦标赛合一；140余名专业选手与大众同枪同赛道"},
+    {"index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "锦标赛名单为104名男子、44名女子"},
+    {"index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Tola 2:03:10；原纪录2:07:06；提高近4分钟；刷新境内男子最好成绩"},
+    {"index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "Edris 2:04:34；Gebre 2:05:10"},
+    {"index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "Genaneh 2:20:36；次仁措姆2:23:48；路颖2:24:24"},
+    {"index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "李大林2:08:30，国内男子第一、全场第四"},
+    {"index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "赛前大范围降雨，比赛日晴、能见度>10公里、14-19℃、偏北风3级"},
+    {"index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "8个补给站、7个饮水/用水站、7个食品供应站"},
+    {"index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "26个固定医疗点、35辆救护车、100台AED、610名观察员、160名急救跑者1:200、200㎡医疗中心"},
+    {"index": 10, "status": "supported", "checkedAt": "2026-11-08", "note": "志愿者7,341人"},
+    {"index": 11, "status": "supported", "checkedAt": "2026-11-08", "note": "起点1,199个、赛道240个、终点191个厕位"},
+    {"index": 12, "status": "supported", "checkedAt": "2026-11-08", "note": "本届创新研发环保水杯、多龙头自助补给水桶与背包式供水设备"},
+    {"index": 13, "status": "supported", "checkedAt": "2026-11-08", "note": "10公里活动10月11日在龙潭中湖公园举行，1,780人"},
+    {"index": 14, "status": "supported", "checkedAt": "2026-11-08", "note": "博览会10月15至17日在中国国际展览中心（朝阳馆）举办"}
+  ]
 }

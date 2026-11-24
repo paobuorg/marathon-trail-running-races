@@ -1,0 +1,37 @@
+{
+  "sourceId": "route-black-canyon-guide-2026",
+  "title": "Black Canyon Ultras presented by HOKA — 2026 Runner Info Guide (updated 1 February 2026)",
+  "url": "https://www.aravaiparunning.com/avr/wp-content/uploads/Black-Canyon-2026-1.pdf",
+  "publisher": "Aravaipa Running / Black Canyon Ultras",
+  "publishedAt": "2026-02-01",
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2026 runner info guide, updated 1 February 2026, dates the 100K to Saturday 14 February 2026 and the 50K to Sunday 15 February 2026.",
+    "The guide gives a 20-hour limit for the 100K, 11 hours for the 50K and a 17-hour Western States qualifying cut-off for the 100K.",
+    "The guide states sunset at 6:12 PM and warns of race-morning temperatures likely in the 30s Fahrenheit, with possible afternoon heat, thunderstorms or snow.",
+    "The guide's course description matches the 2027 page: three miles of road from Spring Valley, the Black Canyon Trail via Antelope Creek Road, a short out-and-back at Black Canyon City, creek crossings with the largest at mile 34, and most climbing in the final miles.",
+    "The guide's two DOWNLOAD GPX labels link to CalTopo maps UVSJ5 for the 100K and HPSHM2N for the 50K, not to GPX files.",
+    "The guide says there is no race-day bib pickup and lists the 50K aid stations as Antelope Mesa, Hidden Treasure, Bumble Bee Ranch, Gloriana Mine and Deep Canyon Ranch.",
+    "The guide lists the 100K aid stations as Antelope Mesa, Hidden Treasure, Bumble Bee Ranch, Gloriana Mine, Deep Canyon Ranch, Black Canyon City, Cottonwood Gulch, Table Mesa, Doe Spring and Emery Henderson.",
+    "The guide describes the closed course, permits trekking poles, bans pets and littering, limits drop-bag size, enforces cut-offs on gun time and awards buckles by chip time.",
+    "The guide's CalTopo card for the 100K gives a range of 1,749–4,199 ft, gain 6,965 ft and loss 9,094 ft at 53.6x exaggeration; these figures differ from the 2027 key stats of +5,219 / -7,337 ft."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 下载官方 PDF（14 页），用 pypdf 提取全文与链接注解；PDF 首页标 UPDATED 2/01/2026。该指南对应 2026 届，仅用于版本对照，不作为 2027 届数据。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "p2：100K starts Saturday, February 14 followed by the 50K on Sunday, February 15；p3 RACE DATE 同" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "p3 CUTOFF TIMES：100K Cutoff 20 Hours、50K Cutoff 11 Hours、WSER Q Cutoff 17 Hours (100K only)" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "p7 RUNNING IN THE DARK 写 Sunset is at 6:12 PM；WEATHER 段写 30s、afternoon heat、thunderstorm or snow" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "p6 THE COURSE 全段与 2027 页面同源；Mile 34 最大过溪、final miles 爬升集中照录" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "p8/p9 链接注解分别指向 caltopo.com/m/UVSJ5 与 caltopo.com/m/HPSHM2N，无 .gpx 链接" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "p3 写 no race-day bib pick-up；p4 AID STATIONS 列 50K 五个站（Antelope Mesa 至 Deep Canyon Ranch）" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "p4 AID STATIONS 列 100K 十个站名，顺序与 2027 表格一致" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "p4 RACE RULES 与 p2 drop bag 段：closed course、poles permitted、no pets/littering、尺寸限制、gun time 关门与 chip time 带扣" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-20", "note": "p6 CALTOPO：range 1749' to 4199'、gain 6965'、loss 9094'、exaggeration 53.6x；与 2027 Key Stats +5,219/-7,337 差 1,746/1,757 ft" }
+  ]
+}

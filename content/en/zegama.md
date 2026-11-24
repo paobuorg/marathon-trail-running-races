@@ -1,0 +1,240 @@
+---
+entityId: route:zegama
+locale: en
+title: "Zegama-Aizkorri: 42.195 km and 5,472 m, a mountain race that counts the crowd as part of the course"
+summary: "A complete file on the 26th Zegama-Aizkorri in 2027: the official 42.195 km and 5,472 m, the eight-hour limit, three compulsory items, a 500-runner cap and 225 lottery bibs, plus two official conflicts (5,472 against 2,736, and 14 against 13 checkpoints). Written as a mountain race — short, steep, elite-dense, with a crowd and a live channel — not as an ultra with aid stations and cut-off tables."
+aliases: ["Zegama", "Zegama-Aizkorri", "Zegama Aizkorri Mendi Maratoia", "Basque Fever"]
+authors:
+  - runmap-editorial
+reviewers:
+  - runmap-editorial
+translationStatus: reviewed
+---
+
+## Verification status
+
+- Version: `2027-zegama42`, for the 26th edition in 2027, race day 6 June 2027.
+- Checked on 2026-11-08. Every distance, climb, place allocation and time below carries its source; where official pages disagree, both figures are shown and neither is averaged away.
+- Edition: the official homepage currently labels the marathon XXIV; the 2026 course page labels that year XXV, the 25th; an organiser news item dated 2026-10-09 calls 2027 the 26th edition. The three official pages are one edition apart and are listed side by side, not averaged.
+- Distance and climb: the organiser's course page and regulation both give 42.195 km and 5,472 m of accumulated height gain, and the regulation says the measurement was confirmed by technicians of the Basque Mountain Federation.
+- Geometry: on the check date the organiser published no downloadable GPX of the race course. This page draws no line, hosts no track and only links the official pages.
+- This page has not been run on the ground and offers no "tested" conclusions. What official pages can establish and what only a runner on the day can confirm are separated in the verified/unverified section.
+- Course-change check: no past-edition handbook was obtained, so the course-change history is unverified. This page has no official evidence of a reroute, date change or rule change that qualifies for the log; `courseChanges` is an empty array and is not presented as "no changes".
+
+## What this is: a mountain race, not a shortened ultra
+
+The organiser calls the 2027 edition "the most iconic mountain marathon".
+
+The course page describes a medium mountain route over the Aratz massif and the Sierra of Aizkorri, containing the four highest peaks in the Basque Autonomous Community and naming three of them in brackets: Aratz, Aizkorri and Aketegi.
+
+The same page calls the course "very technical and with a high level of difficulty", made of beech forest, steep rocky slopes and high grazing land.
+
+The official length is 42.195 km, the limit is eight hours, the start in Zegama sits at 296 m, the high point at Aketegi is 1,551 m, and technical ground is about 50% of the course.
+
+This is not a long-distance course strung together by aid stations and cut-off points. Its logic is one 42 km technical route, run inside a day, starting and finishing in the same town.
+
+The race is a qualifier for the Golden Trail World Series; the regulation says the 2026 edition scored for the series and that every classified runner earns series points.
+
+The 2027 marathon has 225 bibs, allocated by public lottery.
+
+The 500-runner cap for 2026 is split three ways: 150 places reserved for event commitments, 125 for runners who have done every edition and for the fastest times of the last two editions, and 225 drawn by lottery.
+
+Compulsory kit is three items: a windproof jacket, a cup and a thermal blanket.
+
+Poles are allowed; if the organiser issues a double bib or a GPS device, the runner must use it.
+
+This page therefore covers the race on four axes — short, steep, elite density, crowd and broadcast — and does not build its structure around aid-station counts or a cut-off table.
+
+## Official figures do not all agree
+
+The official pages disagree on several numbers. The table shows them side by side without averaging.
+
+| Source | Distance | Climb | Runners |
+|---|---:|---:|---:|
+| Organiser course page | 42.195 km | 5,472 m | 500 |
+| Organiser regulation | 42.195 km | 5,472 m | 500 |
+| Golden Trail World Series page | 42 km | 2,745 m | 500 |
+| Strava route embedded in that page | 42.3 km | 2,745 m | — |
+
+The prose on the Golden Trail World Series page separately gives "2,736 meters of positive elevation", which does not match the 2,745 m in its own data block.
+
+The organiser's 5,472 m is exactly twice 2,736 m.
+
+The organiser labels 5,472 m as "accumulated height gain" without listing ascent and descent separately; the factor of two reads like an ascent-plus-descent total, but the organiser does not explain the figure, and this page records that observation rather than calling the official number wrong.
+
+Checkpoint counts also differ: the course page gives 14 control points, the regulation gives 13 mandatory checkpoints.
+
+The course page's own cut-off table lists 11 rows, from Ulzama at km 8.5 to the finish at km 42.20.
+
+The organiser does not explain the gap between 14, 13 and 11.
+
+Refreshment points are 13 in both places, with the regulation adding one more at the finish.
+
+The 500-runner cap and the 225 lottery bibs are not a contradiction: the 2026 enrolment page splits 500 into 150, 125 and 225, and the three add up to 500.
+
+The 2027 entry fee has not been published; the 2026 fee was 75 euros.
+
+## The course: short, steep, technical
+
+The start is inside Zegama at 296 m; the high point is Aketegi at 1,551 m.
+
+The difference between the two is 1,255 m, which is this page's subtraction of the official altitudes; the organiser does not publish that figure on its own.
+
+The terrain is beech forest, steep rocky slopes and high grazing land, and the official technical share is about 50%.
+
+The race has a "flying sprint" point at Aizkorri, at km 22.58.
+
+That is a timing feature of this event, not an ultra-style intermediate aid station.
+
+Eight hours for 42.195 km works out to roughly 11 minutes 23 seconds per kilometre, which is this page's division of 480 minutes by 42.195 km.
+
+That is an average, though: technical ground and steep climbs spread pacing out, and the organiser publishes no per-section pace targets.
+
+The 2026 men's winner ran 3:45:07 and the women's winner 4:08:09.
+
+The course page's records section still shows the 2022 marks of 3:36:40 (Kilian Jornet) and 4:16:43 (Nienke Brinkman).
+
+The 2027 news item says the women's winner "shattered the course record", while the records section still stops at 2022 — the section has not been updated with the 2026 result.
+
+Both are official, so this page shows both and does not decide which is the "current" record.
+
+## Elite density
+
+The 2026 25th-edition Golden Trail World Series ranking gives times and points for the top ten.
+
+First, Elhousine Elazzaoui, 3:45:07 and 212 points; second, Daniel Pattis, 3:45:27 and 200 points; third, Taylor Stack, 3:52:19 and 176 points.
+
+Tenth, Antonio Martínez, ran 3:58:21 for 139 points.
+
+The 2026 25th-edition top ten therefore sit between 3:45 and 3:58, a spread of under 14 minutes.
+
+The 2027 news says Elazzaoui is the first man after Kilian Jornet to defend a win in Zegama's town square.
+
+The place structure filters too: only 225 of the 500 places are open to the public lottery, while 125 go to runners who have done every edition and to the fastest times of the last two editions.
+
+That leaves runners without a history competing for 225 places, on a course where the top ten are separated by under 14 minutes.
+
+The full 2027 start list was not published on the check date, so this page gives no "number of elites" figure.
+
+The organiser also publishes no 2027 elite list or points-seeded list.
+
+## The crowd is part of the course
+
+The Golden Trail World Series page says thousands of passionate fans create a festive atmosphere along the 42 km course.
+
+The organiser's 2027 news says spectators will carry runners "on a wave of passion" at world-renowned spots such as Sancti-Spiritu.
+
+The spectator point is at Sancti Spiritu, which the organiser calls "the mythical point of the race".
+
+That point is at km 19.6, and the organiser gives three ways up, each with a walk at the end.
+
+The first is a bus from Zegama square between 06:30 and 08:00 to the train station, then a 6.3 km walk with 450 m of ascent; the bus needs no reservation.
+
+The second is a 6.9 km walk from Zegama square along the Camino de Santiago, with 661 m of ascent.
+
+The third is a shuttle from the Suazarreta car park from 06:00 to the Otzaurte pass, then a 5 km climb with 460 m of ascent.
+
+In other words, spectators climb 450 to 661 m themselves to stand at km 19.6.
+
+The organiser publishes no 2027 spectator numbers or capacity for the spectator point.
+
+![Sylvia Nordskar breaking the finish tape at the 2024 Zegama-Aizkorri](/media/routes/zegama/zegama-finish-2024.jpg)
+
+## Broadcast
+
+The official Golden Trail World Series GT TV page has a "Live Races" tab and lists the 2026 season race by race.
+
+That list includes Zegama-Aizkorri, dated 17/05/2026.
+
+On the check date the page said "There is no live event happening at the moment", so the list is a schedule of sessions, not a permanent stream.
+
+The video embedded on the organiser's course page is a YouTube "3D ROUTE" preview, not race coverage.
+
+The 2027 platforms, languages and session times had not been published on the check date.
+
+So "where the 2027 race will be streamed, and whether there is Chinese commentary" is unknown on this page.
+
+## Entry and lottery (2027)
+
+The 2027 marathon is on 6 June, with pre-registration open from 11 to 22 January 2027.
+
+The draw for all three races takes place on 12 February 2027.
+
+The marathon has 225 bibs through the public lottery, plus direct places by qualifying time and for local residents.
+
+The Vertical Kilometre is the 13th edition, on 4 June 2027.
+
+The Junior Trail is the 16th edition, on 6 June 2027, for ages 16 to 18.
+
+The 2026 regulation required runners to be over 18, set the fee at 75 euros, ran pre-registration from 12 to 23 January and held the draw on 20 February.
+
+The 2027 regulation had not been published on the check date, so the 2027 age limit, fee and compulsory kit are unknown here.
+
+## Compulsory kit and race rules
+
+The regulation requires a windproof jacket throughout and a cup and thermal blanket carried at all times.
+
+Poles are allowed; a double bib and GPS device issued by the organiser are compulsory.
+
+The regulation gives 13 mandatory checkpoints and 13 refreshment points, plus one at the finish.
+
+The course page gives 14 control points and a cut-off table from km 8.5 to the finish.
+
+The organiser has not said whether the 2027 compulsory kit will change.
+
+Set against long-distance events, the list is short: no head torch, no spare batteries, no itemised long-distance insulation, no drop bags.
+
+That comparison is this page's editorial judgement, not an official statement.
+
+## Getting there and weather
+
+The organiser's spectator guide gives race-day shuttles: a bus from Zegama square to the train station between 06:30 and 08:00 with no reservation, and a shuttle from the Suazarreta car park to the Otzaurte pass from 06:00.
+
+Both are arrangements for spectators going up the mountain, not transport for runners arriving from an airport or another region.
+
+The organiser published no regular rail, long-distance bus or airport transfer information for Zegama on the check date, and this page found no operator page it could cite directly, so that is unknown.
+
+For driving, the organiser names only the Suazarreta car park and publishes no road-closure timetable or last-service time; those are also unknown here.
+
+The weather section gives regional climate only, not a race-day forecast.
+
+Open-Meteo ERA5 reanalysis for the Zegama town-centre grid cell (42.9758 N, 2.2903 W, 296 m) over the 300 June days from 2016 to 2025: mean daily maximum 23.6 °C, mean daily minimum 14.2 °C, mean precipitation 3.4 mm per day, with 51.7% of June days recording at least 1 mm.
+
+The course high point is 1,551 m, so the town-centre figures cannot be read as the temperature and wind on the Aizkorri ridge.
+
+These are regional climate statistics, not organiser data and not measurements or a forecast for 6 June 2027.
+
+This page uses one CC BY-SA 4.0 race photograph from Wikimedia Commons; the official images carry no reuse licence, so none are reproduced or embedded. The author, licence and caption check are in "Images and rights".
+
+## Withdrawal and risk
+
+- **Bail-out points:** the course starts and finishes in Zegama; the official cut-off table starts at Ulzama, 8.5 km. The rules list 13 mandatory checkpoints and 13 aid points plus one at the finish. Otzaurte pass has a spectator shuttle from Suazarreta car park from 06:00 and is the main road access on the mountain; per-checkpoint road access and sweep times are not published, so they remain unknown.
+- **Risk:** 42.195 km, official 5,472 m of climb (another page says 2,736 m; the conflict is unresolved), steep technical up-and-down, an 8-hour limit, and June wind, rain and low cloud. This is not an ultra that can be walked in; there is no mandatory clothing list beyond a windproof jacket, cup and space blanket, and the judgement is the runner's.
+- **Withdrawal:** report to the checkpoint judge and hand in bib/GPS; Otzaurte and Zegama have shuttle/road access, but do not cut down alone elsewhere. The 2027 sweep details are not published, and this page does not treat the 2026 spectator shuttle as runner evacuation.
+
+## Images and rights
+
+**One photograph from Wikimedia Commons; author, licence and date checked.**
+
+Sylvia Nordskar breaking the finish tape as the 2024 Zegama-Aizkorri winner; author: Mathis Decroux (mathisdecroux.com); licence: CC BY-SA 4.0; taken 26 May 2024 (rechecked via the Commons file page and API on 20 November 2026). The frame shows the finish tape and clock; it is not the 2027 course map and is not used to infer the 2027 route, gradients or cut-offs.
+
+Official images carry no reuse licence and are not used; this page links only to the official pages and GTWS pages. The photograph was resized and recompressed without changing its content; the text's CC BY 4.0 licence does not apply to it.
+
+## Verified and unverified
+
+Verified: the 2027 date and edition number, 42.195 km and 5,472 m, the eight-hour limit, start and high-point altitudes, technical share, checkpoint and refreshment counts, compulsory kit, the 2026 entry structure and fee, 2026 winning times, GTWS points, the spectator point and its three access routes, race-day spectator shuttle times, the Zegama June climate statistics, and the GTWS live channel.
+
+Unverified: the 2027 elite start list, the 2027 fee and age rule, whether the 2027 compulsory kit changes, the 2027 broadcast platform and languages, whether 5,472 m includes descent, why 14 and 13 checkpoints differ, whether the 2026 women's record has formally replaced the course page's records entry, regular rail and airport access for runners, and race-day road closures and last services.
+
+## Sources
+
+1. Organiser course page (42.195 km, 5,472 m, altitudes, technical share, limit, records): https://www.zegama-aizkorri.com/en/mendi-maratoia-zegama
+2. Organiser regulation (measurement, scoring, field size, checkpoints, refreshments, cut-off table, compulsory kit, fee): https://www.zegama-aizkorri.com/en/mendi-maratoia-zegama/regulation
+3. Organiser 2027 date news (26th edition, 225 lottery bibs, pre-registration and draw dates, 2026 winners): https://www.zegama-aizkorri.com/en/news/368-date-2027
+4. Organiser enrolment page (500 split, 75 euros, draw venue): https://www.zegama-aizkorri.com/en/zegama-aizkorri-race/enrolement
+5. Organiser spectator guide (three routes to Sancti Spiritu, bus times): https://www.zegama-aizkorri.com/en/news/356-supporters-options-2026
+6. Golden Trail World Series race page (42 km, 2,745 m, 2026 ranking and points, schedule): https://goldentrailseries.com/race/zegama-aizkorri/
+7. Golden Trail World Series GT TV page (Live Races tab and 2026 sessions): https://goldentrailseries.com/gttv/?race_id=762&race_year=2026&tab=tab_races
+8. OpenStreetMap (Zegama town coordinates, map anchor only, ODbL): https://www.openstreetmap.org/relation/347124
+9. Open-Meteo ERA5 reanalysis (Zegama town centre, 300 June days 2016–2025, mean daily max/min and precipitation, CC BY 4.0): https://archive-api.open-meteo.com/v1/archive?latitude=42.9758111&longitude=-2.290301&elevation=296&start_date=2016-06-01&end_date=2025-06-30&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Europe%2FMadrid
+10. Wikimedia Commons photograph `photo-zegama-finish-2024` (2024 Sylvia Nordskar finish; author Mathis Decroux; CC BY-SA 4.0; taken 2024-05-26; rechecked via API and thumbnail on 2026-11-20): https://commons.wikimedia.org/wiki/File:Sylvia_Nordskar_at_Zegama-Aizkorri_2024.jpg

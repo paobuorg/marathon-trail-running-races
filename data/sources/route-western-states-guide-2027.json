@@ -9,5 +9,25 @@
     "The 54th Western States 100-Mile Endurance Run is scheduled for June 26-27, 2027.",
     "The participant guide repeats the course description: start at Olympic Valley, finish at Auburn, 100.2 miles, 6,200 ft at the start, Emigrant Pass at 8,750 ft, 2,550 ft of climb in the first 4.5 miles, another 15,540 ft of climb and 22,970 ft of descent."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 复核：本次直接读取 2027 Participant Guide 并核对日期与 Course Description。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Participant Guide 开头称呼段"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course Description 段"
+    }
+  ]
 }

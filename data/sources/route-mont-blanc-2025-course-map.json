@@ -1,0 +1,40 @@
+{
+  "sourceId": "route-mont-blanc-2025-course-map",
+  "title": "Parcours 42km du Mont-Blanc — carte PDF (édition 2025)",
+  "url": "https://www.marathonmontblanc.fr/sites/default/files/2025-06/parcours%2042km%202025%20public%20copie.pdf",
+  "publisher": "Club des Sports de Chamonix (organiser)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-21",
+  "claims": [
+    "The PDF titled 'Parcours 42km du Mont-Blanc' is linked from the official French 42 km page as 'Carte PDF'.",
+    "It maps the 42 km route on an IGN topographic base from the Chamonix start/finish through Les Bois, Lavancher, Argentière, Le Tour, Vallorcine and La Flégère, with the normal route in green and a yellow bypass itinerary.",
+    "The file sits in the organiser's 2025-06 upload path, is a one-page static PDF rather than a GPX file, and carries no stated reuse licence."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-21",
+    "note": "2026-11-21 从官方法文 42 km 页 'Carte PDF' 链接下载并读取全文（1 页，1,862,445 字节）：IGN 地形底图，绿色 normal route、黄色 itinéraire de contournement，标出 Chamonix 起点/终点、Les Bois、Lavancher、Argentière、Le Tour、Vallorcine、La Flégère、Col des Montets 与时间障碍/补给/停车/厕所。文件路径为 2025-06，属 2025 届图件，不是 GPX。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "官方法文 42 km 页在 'Carte PDF' 按钮后链接该 URL；页面同时提供 'Carte intéractive'、'Profil de course' 与 'Temps de passages estimés'。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "PDF 标题 'Parcours 42km du Mont-Blanc'；legend 'Parcours normal' 绿色、'Itinéraire de contournement' 黄色；图上标出 Chamonix、Les Bois、Lavancher、Argentière、Le Tour、Vallorcine、La Flégère、Col des Montets。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "URL 路径 '/2025-06/'；HTTP Content-Type application/pdf、单页；PDF 无许可文字；页面无 GPX 下载。"
+    }
+  ]
+}

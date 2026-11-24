@@ -1,0 +1,62 @@
+{
+  "sourceId": "route-utct-2026-100m-final",
+  "title": "Sportraxs — RMB | UTCT 2026, UTCT 100M official final leaderboard",
+  "url": "https://sportraxs.com/events/589/races/1477",
+  "publisher": "Sportraxs (official timing platform linked from RMB Ultra-trail Cape Town)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "At 14:25 SAST on 22 November 2026 the official Sportraxs UTCT 100M leaderboard was headed 'Official results' and 'Finished · official', listing 127 runners: 91 finished, 36 withdrawn and 0 on course.",
+    "The final overall top five were Aleksei Tolstenko in 21:32:48, Pieter de Wortelaer in 23:05:12, Careth Arnold in 23:53:08, and a tie for fourth at 24:06:46 between Mark Winter and Matthew Thomson.",
+    "The final women's top three were Careth Arnold in 23:53:08 (also third overall), Magdalena Kraszpulska in 25:11:23 and Kerry-Ann Marshall in 25:36:36.",
+    "The final field was 101 men (72 finished, 29 withdrawn) and 26 women (19 finished, 7 withdrawn), all 127 settled with none on course.",
+    "The Sportraxs UTCT 100M event card displays 161 km and 9,004 m of gain, 91 finishers and 36 withdrawals; this is a fifth distance-and-gain pair and is not averaged with the official page's 163 km / 7,187 m or 7,516 m.",
+    "The 11:19 SAST provisional count of 127 runners, 75 finished, 36 withdrawn and 16 on course resolved to 91 finished, 36 withdrawn and 0 on course: all 16 on-course runners were settled, withdrawals did not change."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "checkedVia": "Browser Use (aha_browser_use) on the official Sportraxs 2026 UTCT 100M leaderboard, with event page and gender filters",
+    "note": "2026-11-22 14:25 SAST 读取 Sportraxs 事件 589、100 英里组别 1477；14:33 SAST 复读仍为 'Official results' / 'Finished · official'。总名单 127，状态筛选 Finished (91)、Withdrawn (36)、On course (0)。男子筛选 101 / 72 / 29 / 0；女子筛选 26 / 19 / 7 / 0。总榜前五与女子前三从同页排行读取；161 km / 9,004 m 从事件页 100 英里卡片读取。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Page text: 'UTCT 100M · Official results'; 'Finished · official'; 127 runners; Finished (91), Withdrawn (36), On course (0)。14:33 SAST 复读状态未变。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Leaderboard: 1 Aleksei Tolstenko 21:32:48; 2 Pieter de Wortelaer 23:05:12; 3 Careth Arnold 23:53:08; =4 Mark Winter and Matthew Thomson both 24:06:46。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Careth Arnold is Open female, 23:53:08 and overall place 3; Magdalena Kraszpulska 25:11:23; Kerry-Ann Marshall 25:36:36。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Show=Men: 101 runners, Finished 72, Withdrawn 29; Show=Women: 26 runners, Finished 19, Withdrawn 7; both On course 0。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Event 589 100M card: 161 km, 9,004 m, 91 finishers, 36 withdrawn。Official 100-mile page separately gives 163 km and 7,187 m / 7,516 m。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "11:19 provisional: 127 / 75 / 36 / 16; 14:25 official: 127 / 91 / 36 / 0; 91-75=16, withdrawals unchanged。"
+    }
+  ]
+}

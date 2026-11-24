@@ -1,16 +1,55 @@
 {
   "sourceId": "photo-utmb-checkpoint-2005",
-  "title": "File:UTMB 2005 check point.jpg (2026-11-07 check: host unreachable from this network; not re-verified)",
+  "title": "File:UTMB 2005 check point.jpg",
   "url": "https://commons.wikimedia.org/wiki/File:UTMB_2005_check_point.jpg",
   "publisher": "Wikimedia Commons",
   "publishedAt": "2005-09-27",
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The file description states that the photo shows a checkpoint on the Ultra Trail Tour du Mont Blanc 2005.",
-    "The photo shows a mountain checkpoint with a yellow medical trailer and red-and-white course tape.",
+    "The photo shows a mountain checkpoint with a yellow trailer and red-and-white course tape.",
     "The author is Thierry Braun.",
     "The file is licensed CC BY 2.5 and credited as own work by the original uploader.",
     "The file page does not name the pass or kilometre where the checkpoint sits."
   ],
-  "license": "CC-BY-2.5"
+  "license": "CC-BY-2.5",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe --proxy local 7890 proxy；Commons action=query imageinfo + w/thumb.php 缩略图",
+    "note": "2026-11-20 经本地 7890 代理读取 Commons 文件页、imageinfo API 与缩略图，确认作者、许可、拍摄日期和画面。此前 blocked 是本机直连不可达，不是文件不存在或没有许可。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    }
+  ]
 }

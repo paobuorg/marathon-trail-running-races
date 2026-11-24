@@ -1,0 +1,21 @@
+{
+  "sourceId": "route-wildstrubel-results-2025",
+  "title": "Results — Wildstrubel by UTMB (official)",
+  "url": "https://wildstrubel.utmb.world/races-runners/runners/results",
+  "publisher": "UTMB World Series / Wildstrubel by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "At access on 2026-11-09 the official results page shows '2025 Race Results' for the 4th edition and does not publish a 2026 or 2027 results table."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取官方 results 页，正文只有 2025 第四届成绩入口。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页面原文：'# 2025 Race Results' 与 'Find out here all the results of this 4th edition'" }
+  ]
+}

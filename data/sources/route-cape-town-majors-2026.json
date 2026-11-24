@@ -16,5 +16,68 @@
     "Eliud Kipchoge chose Cape Town for his first official marathon on African soil.",
     "The event is projected to contribute in the region of R800 million through local travel, accommodation and meals."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "本地静态抓取 .agent/capetown/raw",
+    "note": "Major 官宣稿全文已读；核对日期、第八成员、2027 届日期、抽签与参赛资格承诺"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'10 June 2026 ... first Abbott World Marathon Major to be held on African soil'"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'passed the second and final stage ... became the eighth member of the series'"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文列 Tokyo、Boston、London、Sydney、Berlin、Chicago、New York；'will formally enter ... at its next edition on 23 May 2027'"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'The 2026 race was staged on 24 May 2026'"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'approximately 80% of the world's top 50 ... come from Africa'；'two-thirds of entries ... African participants'"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：general ballot 10–24 June 2026，通知 26 June；Peace/Trail entries 3 July 2026"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'even when the 2025 race could not go ahead'"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：Kipchoge 'chose Cape Town for his first official marathon on African soil'"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'projected to contribute in the region of R800 million through local travel, accommodation and meals'"
+    }
+  ]
 }

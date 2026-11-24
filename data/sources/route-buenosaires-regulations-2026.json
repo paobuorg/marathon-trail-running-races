@@ -1,0 +1,44 @@
+{
+  "sourceId": "route-buenosaires-regulations-2026",
+  "title": "Maratón de Buenos Aires 2026 — Reglamento / bases",
+  "url": "https://ticketear.com.ar/uploads/bases/bases_17_1766422083.pdf",
+  "publisher": "Maratón de Buenos Aires",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2026 regulations describe 42.195 km on an urban asphalt circuit homologated by World Athletics and distinguished with the World Athletics Label Race label.",
+    "Runners must be at least 18 years old on race day; minors may not take part even in a pushchair or assisted device.",
+    "The start is at 07:00 and the official finish closes at 13:00, with an official maximum time of 6:00:00 that may not be exceeded.",
+    "The 2026 start is staged by corral: 06:57 for athletes with disabilities, 07:00 elite, 07:02 sub-3:00, 07:03 3:01–3:30, 07:04 3:31–3:45, 07:06 3:46–4:00, 07:08 4:01–4:15, 07:09 4:16–4:30, 07:10 4:31–5:00 and 07:11 over 5:00.",
+    "Aid and food stations begin at km 5 and continue at 2.5 km intervals: 5, 7.5, 10, 12.5, 15, 17.5, 20, 22.5, 25, 27.5, 30, 32.5, 35, 37.5, 40 and 42.195 km.",
+    "The regulations promise hydration and food including fruit from km 5 but do not assign products station by station; Infobae's 2026 preview specifies water and isotonic drink every 2.5 km and banana at km 20 and km 30.",
+    "Race-kit collection is only at Expo Running 42K in Parque Sarmiento on Friday 18 September 2026 (12:00–20:00) and Saturday 19 September 2026 (10:00–18:00); there is no general race-day pickup or kit delivery, but a third party may collect with the runner's QR and both identity documents.",
+    "The paid VIP package includes race-day kit collection up to 30 minutes before the start; lockers are a separate paid service, and the bag check accepts clothing only and not valuables.",
+    "The regulations provide wheelchair, visually impaired B1, B2/B3, assisted-athletics and other disability categories, with one free guide; handbike is excluded because it belongs to para-cycling.",
+    "The event has no parking service and parking is prohibited on the streets used by the race; unauthorised vehicles, bicycles, skates and other wheeled followers are prohibited.",
+    "Runners must leave the finish chute promptly, may not warm up in front of the start line, and face disqualification for either breach.",
+    "Awards are trophies for the top three in the conventional, wheelchair and visually impaired categories, with a minimum of five entrants in a category; the regulations list no prize money."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "Downloaded PDF, full text extraction",
+    "note": "官方 2026 规程 PDF 全文复核；分批出发、VIP 领物、残障组别与终点通道条款为新增。补给品类官方未逐站列明，Infobae 赛前稿作为二级证据。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "Art.2：42.195 metros、urbano y sobre asfalto、homologado por World Athletics、Label Race" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "Art.2：18 años cumplidos；menores no，ni siquiera en carritos" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "Art.3：salida 7:00、finalización 13:00、tiempo máximo 6h00:00" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "Art.3 列表逐项：06:57、07:00、07:02、07:03、07:04、07:06、07:08、07:09、07:10、07:11" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "Art.26 PUESTOS：Km5 到 Km42,195，间隔 2.5 km" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-20", "note": "Art.26 只写 puestos de hidratación y aprovisionamiento (incluyendo frutas) desde km5；Infobae 9/19 写 agua/isotónica 每 2.5 km、banana 20/30" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-20", "note": "Art.8：Expo 日期地点；no se entregarán el día de la carrera；第三方凭 QR + 双方证件" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-20", "note": "Art.12：PASE VIP incluye retiro de kits en carrera (hasta 30 minutos antes)；LOCKERS 另购；Art.26 只存衣物、禁贵重物品" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-20", "note": "Art.6.2：Silla de Ruedas、B1、B2/3、Atletismo Asistido、Otras；guía gratis；Handbike 不属于 Para-Atletismo" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-20", "note": "ESTACIONAMIENTO 与 Art.20：无停车服务、赛道禁停、禁止摩托/自行车/滑板等跟随" },
+    { "index": 10, "status": "supported", "checkedAt": "2026-11-20", "note": "Art.26：LLEGADA 必须快速离开 manga；ENTRADA EN CALOR 不得在起跑线前，违规取消资格" },
+    { "index": 11, "status": "supported", "checkedAt": "2026-11-20", "note": "Art.13–15：常规/轮椅/B1/B2-B3 前三名奖杯；Art.14 至少 5 人；无奖金条款" }
+  ]
+}

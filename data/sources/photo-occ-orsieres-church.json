@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-occ-orsieres-church",
+  "title": "File:Orsières. Campanile della chiesa di San Nicola.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Orsi%C3%A8res._Campanile_della_chiesa_di_San_Nicola.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "1991-07-23",
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The image shows the stone bell tower of the Church of San Nicola in Orsières, part of the church facade at left and a pale mountain slope at right under a clear blue sky.",
+    "The Commons file title identifies the bell tower in Orsières; it contains no OCC, UTMB or race-day context and is a location photograph.",
+    "The author is André Corboz (1928–2012); the file is licensed CC BY-SA 4.0; the original is 3,000 x 2,053 pixels and 515 KB; the date is 1991-07-23; the source is the Iconoteca dell'Accademia di architettura, Fondo André Corboz.",
+    "The route page uses a 960 x 657 thumbnail of 125,270 bytes without cropping or colour change and credits the author, licence and source; attribution and share-alike are required."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons file page and downloaded 960 px thumbnail inspection",
+    "note": "2026-11-23 通过 Commons 文件页读取作者、日期、许可、原图尺寸与来源，下载 960 px 副本并目视核对石砌钟楼、教堂立面与山体。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地缩略图可见石砌方形钟楼、左侧教堂立面和右侧浅色山坡；画面不是赛日起点。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Commons 文件名明确为 Orsières 的 San Nicola 教堂钟楼；文件页没有 OCC 或 UTMB 赛事信息。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "文件页作者 André Corboz（1928–2012）；许可 CC BY-SA 4.0；原图 3,000 x 2,053、515 KB；日期 1991-07-23；来源 Iconoteca dell’Accademia di architettura / Fondo André Corboz。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地文件 960 x 657、125,270 字节；未裁剪、未改色；页面署名 André Corboz / CC BY-SA 4.0 / Wikimedia Commons。"
+    }
+  ]
+}

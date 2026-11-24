@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-wildstrubel-official-110-fr",
+  "title": "Wild 110 Crans-Montana — Wildstrubel by UTMB 2027 (French)",
+  "url": "https://wildstrubel.utmb.world/fr/races/wild-110",
+  "publisher": "UTMB World Series / Wildstrubel by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The French race page gives 113 KM, 6,600 m of gain, a Friday 10 September 2027 start at 23:00 from Crans-Montana and a 30-hour limit.",
+    "The French page says runners collect 4 Running Stones, matching the main event page but not the 8 shown in the English race header.",
+    "The French route text names the Gemmi pass at 2,268 m, the Rawyl pass at 2,427 m and Cabane du Wildstrubel at 2,800 m as the highest point."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取并读取法文 Wild 110 赛事页。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "法文页头：Distance 113 KM、Dénivelé positif 6600 M+、vendredi 10 septembre 2027、Départ Crans-Montana 23:00、Temps maximum 30 heures" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "法文页底 Running Stones 段写 4" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "路线段原文：Gemmi 2'268m、Rawyl 2'427m、cabane du Wildstrubel 2 800m" }
+  ]
+}

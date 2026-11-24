@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-torrencial-oncol-rain",
+  "title": "File:Cerro Oncol-lluvia.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Cerro_Oncol-lluvia.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2007-11-11",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "A rain-and-fog view from Cerro Oncol: only the near shrub layer and a faint ridge are visible, with the upper slope swallowed by white cloud; no trail, flag or runner appears. It is a location photograph, not a 2026 race-day photograph, and it does not show a start arch, finish gantry, bib, timing mat, aid table, course marking or race crowd.",
+    "Commons titles the file Cerro Oncol-lluvia.jpg. The route page uses it as Cerro Oncol rain-and-fog context for the exposed and slippery section described by the organiser; it is not a photograph of the 2027 course or of race-day weather.",
+    "The Commons author field reads Lin linao; the file is marked CC-BY-SA-3.0 (https://creativecommons.org/licenses/by-sa/3.0/); the relevant date is 2007-11-11; the file page gives no camera coordinates; the original is 1,036 × 776 px; 249,384 bytes.",
+    "The route page uses a 960 × 719 px; 92,609 bytes copy without cropping or colour change and credits Lin linao, CC-BY-SA-3.0 (https://creativecommons.org/licenses/by-sa/3.0/), Wikimedia Commons; the resized copy keeps the same licence."
+  ],
+  "license": "CC-BY-SA-3.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons API metadata plus downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons API 与文件页核对作者、许可、日期、原图尺寸和（如有）坐标，并下载 960 px 副本目视确认：A rain-and-fog view from Cerro Oncol: only the near shrub layer and a faint ridge are visible, with the upper slope swallowed by white cloud; no trail, flag or runner appears. 不是赛日现场，也不是赛道测绘照片。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地 960 px 副本可见：A rain-and-fog view from Cerro Oncol: only the near shrub layer and a faint ridge are visible, with the upper slope swallowed by white cloud; no trail, flag or runner appears. 画面中没有号码布、拱门、计时毯、补给桌、赛道旗标或赛日人群。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons 标题为 Cerro Oncol-lluvia.jpg；文件描述与分类支持这一地点用途；正文只把它当环境照，不当赛道证据。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "文件页记录：作者 Lin linao；许可 CC-BY-SA-3.0 (https://creativecommons.org/licenses/by-sa/3.0/)；日期 2007-11-11; the file page gives no camera coordinates；原图 1,036 × 776 px; 249,384 bytes。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 × 719 px; 92,609 bytes；未裁剪、未改色；页面署名 Lin linao、CC-BY-SA-3.0、Wikimedia Commons。"
+    }
+  ]
+}

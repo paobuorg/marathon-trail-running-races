@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-miut-home-2027",
+  "title": "MIUT official home page — 18th edition, 24–25 April 2027",
+  "url": "https://miutmadeira.com/",
+  "publisher": "MIUT – Madeira Island Ultra-Trail / Clube de Montanha do Funchal",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The official home page announces the 18th edition on 24 and 25 April 2027.",
+    "The home page describes MIUT as a mountain race on Madeira through rugged trails, steep ascents and coastal landscapes, from coast to coast.",
+    "The latest posts on the home page are the 2027 second registration phase (lottery) on 19 October 2026 and the publication of the 2027 regulations on 17 September 2026."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 miutmadeira.com 首页，读取届次、日期与置顶文章"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页头：18th Edition – 24th & 25th April 2027" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "首页导语：An iconic mountain race held on Madeira... from coast to coast" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "置顶文章日期 2026-10-19 与 2026-09-17，标题照录" }
+  ]
+}

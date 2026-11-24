@@ -1,0 +1,61 @@
+{
+  "sourceId": "route-utct-enter-2026",
+  "title": "Enter the Event — RMB UTCT 2026 entry page",
+  "url": "https://www.ultratrailcapetown.com/copy-of-enter",
+  "publisher": "RMB Ultra-trail Cape Town",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The RMB UTCT entry page lists 2026 fees of R6,195 for the 100 miler, R5,195 for UT100, R3,755 for the 55 km, R2,655 for the 35 km, R955 for the 23 km and R1,595 for the 16 km.",
+    "The entry page's cancellation table offers a 60% refund before 1 July, 50% from 2 July to 1 September, 40% from 2 September to 1 October, 30% from 2 October to 31 October and 0% from 1 November.",
+    "Substitutions are allowed from 1 October to 1 November with a R250 admin fee; no deferrals are accepted except for pregnancy with a doctor's certificate, valid for one year and submitted by 2 November.",
+    "Downgrades are allowed before 3 November with no partial refund; upgrades are allowed before 3 November if the race is not sold out, paying the difference.",
+    "International elites with an ITRA performance index above 800 for men or above 690 for women can request a free entry; South African elites are handled case by case.",
+    "Race categories are solo Open 18-39, Vets 40-49, Masters 50+ and Grand Masters 60+."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "Official entry page read directly. The top says ENTRIES OPEN 26 FEBRUARY 2026 but the embedded terms paragraph still names 17–23 November 2025, so the fee table is treated as the current 2026 page while the refund/substitution clauses are recorded as page text needing confirmation in the 2026 entry email."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Page fee blocks: 100 MILE R6,195; 100KM R5,195; 55KM R3,755; 35KM R2,655; 23KM R955; 16KM R1,595."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Page: 60% before 01 July; 50% 02 July–01 September; 40% 02 September–01 October; 30% 02 October–31 October; 0% from 01 November."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Page: substitution window 01 October–01 November; R250 admin fee; no deferrals except pregnancy; deferral valid one year; certificate by 02 November."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Page: downgrade before 03 November, no partial refund; upgrade before 03 November if not sold out, pay the difference."
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Page: ITRA performance index men above 800, women above 690, free entry on request; SA elites reserved places on a case-by-case basis."
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Page: Solo; Open 18-39; Vets 40-49; Masters 50+; Grand Masters 60+."
+    }
+  ]
+}

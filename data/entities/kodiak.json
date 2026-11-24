@@ -1,0 +1,146 @@
+{
+  "entityId": "route:kodiak",
+  "slug": "kodiak",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-kodiak-official-100m",
+    "route-kodiak-official-100m-aid-chart",
+    "route-kodiak-official-100k",
+    "route-kodiak-official-100k-aid-chart",
+    "route-kodiak-rd-course-notes-2026",
+    "route-kodiak-official-50k",
+    "route-kodiak-official-21k",
+    "route-kodiak-official-10k",
+    "route-kodiak-official-races",
+    "route-kodiak-official-register",
+    "route-kodiak-utmb-majors",
+    "route-kodiak-utmb-news-2026",
+    "route-kodiak-utmb-index-2025-100k",
+    "route-kodiak-results-2026",
+    "route-kodiak-results-2026-itra",
+    "route-kodiak-2026-recap",
+    "route-kodiak-2026-release",
+    "route-kodiak-history-records",
+    "route-kodiak-prize-majors",
+    "route-kodiak-calendar-2027",
+    "route-kodiak-place-geocoding",
+    "route-kodiak-openmeteo",
+    "route-kodiak-transport",
+    "photo-kodiak-big-bear-valley",
+    "photo-kodiak-snow-summit",
+    "photo-kodiak-sugarloaf-trail"
+  ],
+  "relatedRefs": [
+    "route:canyons",
+    "route:western-states",
+    "route:utmb",
+    "knowledge:altitude-and-running",
+    "knowledge:long-run-fueling",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-09",
+  "updatedAt": "2026-11-24",
+  "reviewedAt": "2026-11-24",
+  "reviewDueAt": "2027-10-31",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "US"
+    ],
+    "placeName": {
+      "zh-CN": "美国加利福尼亚州 Big Bear Lake；100M 从 Rim Nordic Ski Area 出发，其余距离在 Big Bear Lake 村起终点",
+      "en": "Big Bear Lake, California, United States — the 100M starts at Rim Nordic Ski Area, while the other distances start and finish in The Village of Big Bear Lake"
+    },
+    "mapAnchor": {
+      "longitude": -116.91142,
+      "latitude": 34.2439,
+      "kind": "overview",
+      "sourceRef": "route-kodiak-place-geocoding"
+    },
+    "courseVersion": "2026-kodiak-100m",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [
+      {
+        "edition": "2026",
+        "observedAt": "2026-11-09",
+        "field": "finish",
+        "change": "route-refined",
+        "from": "最后下降自 Snow Summit 顶部沿 Knickerbocker（2N08）下山",
+        "to": "自 Snow Summit 顶部沿 Going Green 步道下山",
+        "sourceRef": "route-kodiak-rd-course-notes-2026",
+        "note": {
+          "zh-CN": "改线。官方 RD Course Notes 点名两条步道，属终点段改线，不是关门或服务变化。",
+          "en": "Course change. The RD course notes name both trails; this is a finish-segment reroute, not a cut-off or service change."
+        }
+      },
+      {
+        "edition": "2026",
+        "observedAt": "2026-11-09",
+        "field": "field-checkpoints",
+        "change": "route-refined",
+        "from": "Sugarloaf 补给站设于原址（100M 与 100K）",
+        "to": "因当地敏感物种，迁至原址外 0.5 英里",
+        "sourceRef": "route-kodiak-rd-course-notes-2026",
+        "note": {
+          "zh-CN": "改线（补给站位置）。官方给出迁移距离与原因；不涉及关门时间。",
+          "en": "Course change (aid-station location). The organiser gives the distance and the reason; no cut-off change is attached."
+        }
+      },
+      {
+        "edition": "2026",
+        "observedAt": "2026-11-09",
+        "field": "field-checkpoints",
+        "change": "route-refined",
+        "from": "无 Grandview 饮水站",
+        "to": "新增 Grandview 饮水站",
+        "sourceRef": "route-kodiak-rd-course-notes-2026",
+        "note": {
+          "zh-CN": "改线（补给站数量）。官方列为 2026 新增；只记点位，不推断服务内容。",
+          "en": "Course change (aid-station count). The organiser lists it as new for 2026; only the point is recorded, not the services."
+        }
+      },
+      {
+        "edition": "2026",
+        "observedAt": "2026-11-09",
+        "field": "course",
+        "change": "distance-revised",
+        "from": "100K 99.00 km（UTMB Index 2025）",
+        "to": "100K 101.1 km（官方 2026 100K 页）",
+        "sourceRef": "route-kodiak-official-100k",
+        "note": {
+          "zh-CN": "规则/距离口径修订。RD notes 写里程增加约 1 英里；官方 100K 页给 101.1 km；不是整条赛道重画。",
+          "en": "Rule and distance revision. The RD notes cite an increase of about one mile; the official 100K page gives 101.1 km; this is not a full course redesign."
+        }
+      },
+      {
+        "edition": "2026",
+        "observedAt": "2026-11-09",
+        "field": "cut-off",
+        "change": "timing-revised",
+        "from": "100K 原总关门（官方未公布具体时刻）",
+        "to": "2026-10-11 周日 02:15",
+        "sourceRef": "route-kodiak-rd-course-notes-2026",
+        "note": {
+          "zh-CN": "改规则（关门）。官方明示因里程增加而延长；与距离条目分开记录，不混成一条改线。",
+          "en": "Rule change (cut-off). The organiser states the extension was caused by the mileage increase; logged separately from the distance entry, not merged into one course change."
+        }
+      }
+    ],
+    "direction": "A full circuit of the Big Bear Valley from Rim Nordic Ski Area, including a few miles on the Pacific Crest Trail and the Sugarloaf Mountain summit, then returning through the valley to the finish in The Village of Big Bear Lake.",
+    "distanceMeters": 161100,
+    "distanceMethod": "The organiser's 2026 100M page gives 161 KM; the 2026 imperial aid chart ends at 100.1 miles (about 161.1 km), and a third-party report citing UTMB results gives 161.1 km. The 100K is given as 101.1 KM by the organiser and its chart ends at 62.8 miles (about 101.07 km). The card uses 161.1 km, the converted 100.1-mile chart/UTMB figure; the organiser's 161 KM page header is reported as a rounded official value in the body.",
+    "elevationGainMeters": 4876,
+    "elevationMethod": "The organiser's 2026 100M header gives 4,876 m+; the 2026 imperial aid chart's cumulative gain is 15,735 ft (about 4,796 m), and a third-party report citing UTMB results gives 4,877 m. The 100K header and chart agree at 3,143 m. This card uses the header's 4,876 m and reports the chart and third-party figures in the body.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://pdf.utmb.world/raw/upload/v1791089380/kodiak/GPX%20FILES/2026/2026_Kodiak_100_M_Official_Final_Course_Map_fce94a53e2.gpx",
+    "attribution": "HOKA Kodiak Ultra Marathons by UTMB, held in Big Bear Lake, California, and listed by UTMB as a 2027 Americas Major. Distance, gain, start times, limits, cut-offs, aid stations, age limits, deferral terms and qualification come from the organiser's 2026 100M, 100K, 50K, 21K and 10K pages, races page, registration page and the 2026 imperial aid-station charts, which are level A evidence. UTMB's Majors page is level A for the 2027 Major identity and the Finals range; UTMB's 2026 preview is level A for the 13th-edition and 210-places facts. The 2027 course and race dates have not been published, so this card carries the held 2026 course and marks it latest-held. The organiser offers a final 2026 100M GPX; this site links to it and does not download, mirror or draw it. The 2026 100M men's top 10 and women's top three come from the ITRA 2026 result table and are level A; the 100K/50K/21K/10K placings come from the organiser's 14 October 2026 race release. Historic records come from a level-B event-history article and UltraRunning calendar. The map anchor is an Open-Meteo geocode for the town of Big Bear Lake, not the Rim Nordic start line. Three Wikimedia Commons location photographs (Big Bear Valley, Snow Summit and the Sugarloaf National Recreation Trail) are separately credited in the page's Images and rights table; none is a race-day photograph or proof of an exact course position."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-mtfuji-shojiko",
+  "title": "File:Mount Fuji from Lake Shoji (15443819010).jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Mount_Fuji_from_Lake_Shoji_(15443819010).jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2014-10-25",
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The image shows Lake Shoji in the foreground, a wooded shoreline and an autumn hillside at left, with the snow-capped cone of Mount Fuji filling the background under a blue sky.",
+    "The Commons file identifies Mount Fuji as seen from Lake Shoji; the FUJI100mi timing table names F3 Shojiko at 74.0 km, but the file has no camera coordinates, so the photograph is a lake landmark rather than a located aid-station scene.",
+    "The author is hoge asdf; the file is licensed CC BY 2.0; the original is 6,000 x 4,000 pixels and 17,184,147 bytes; the photograph was taken on 2014-10-25 at 15:12, uploaded to Commons on 2018-03-25, and sourced from Flickr; the file has no camera coordinates.",
+    "The route page uses a 960 x 640 copy of 192,179 bytes without cropping or colour change and credits the author, licence and source; attribution is required."
+  ],
+  "license": "CC-BY-2.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons file page, imageinfo API and downloaded 960 px copy inspection",
+    "note": "2026-11-23 通过 Commons 文件页与 imageinfo API 读取作者、许可、原图尺寸、拍摄时间与 Flickr 来源，下载 960 px 副本并目视核对湖面、岸线、秋色山坡与富士山；画面没有补给站或赛事元素，按 F3 精进湖地点照使用。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地副本可见前景湖面、左岸树林与秋色坡地、背景雪顶富士山和蓝天。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Commons 标题与描述为 Mount Fuji seen from Lake Shoji；文件页无 GPS；官方表 F3 精进湖距起点 74.0 km，但照片不能定位到该公里点。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "imageinfo：Artist hoge asdf；LicenseShortName CC BY 2.0；6,000 x 4,000、17,184,147 字节；DateTimeOriginal 2014-10-25 15:12；上传 2018-03-25；Credit 指向 Flickr 原图。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地文件 960 x 640、192,179 字节；未裁剪、未改色；页面署名 hoge asdf / CC BY 2.0 / Wikimedia Commons。"
+    }
+  ]
+}

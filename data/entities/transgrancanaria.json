@@ -1,0 +1,59 @@
+{
+  "entityId": "route:transgrancanaria",
+  "slug": "transgrancanaria",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-transgrancanaria-classic-2027",
+    "route-transgrancanaria-home-2027",
+    "route-transgrancanaria-schedule-2027",
+    "route-transgrancanaria-regulations-2027",
+    "route-transgrancanaria-gpx-2026",
+    "route-transgrancanaria-openmeteo",
+    "route-transgrancanaria-aena",
+    "photo-transgrancanaria-osorio-2013"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:recovery-day",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-20",
+  "reviewedAt": "2026-11-20",
+  "reviewDueAt": "2027-01-31",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "ES"
+    ],
+    "placeName": {
+      "zh-CN": "西班牙大加那利岛 Las Palmas de Gran Canaria 至 Maspalomas",
+      "en": "Las Palmas de Gran Canaria to Maspalomas, Gran Canaria, Spain"
+    },
+    "mapAnchor": {
+      "longitude": -15.431114,
+      "latitude": 28.148057,
+      "kind": "start",
+      "sourceRef": "route-transgrancanaria-gpx-2026"
+    },
+    "courseVersion": "2027-tgc-classic-126k",
+    "courseEdition": "2027",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "Point-to-point from Las Canteras Beach, Las Palmas de Gran Canaria, to Parque Sur, Maspalomas",
+    "distanceMeters": 126000,
+    "distanceMethod": "The official 2027 Classic page gives 126 km. The GPX linked from that same page measures 126.092 km, but the file itself is named and labelled 2026, so this card uses the official 126 km figure and reports the file measurement separately. The 2026 home-page card still says 125 km; this page states that difference and does not average it. The event has ten formats; this page is about the Classic only and keeps the other distances out of the course and cut-off sections.",
+    "elevationGainMeters": 6764,
+    "elevationMethod": "The official 2027 Classic page gives 6,764 m of positive gain and describes the race as having 'nearly 7,000 metres'. The linked GPX, which is labelled 2026, yields 7,568 m of raw positive change and 6,552 m with a 3 m noise threshold. This card uses the official 6,764 m; the file-based figures are shown in the body and are not averaged with it.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": "https://transgrancanaria.net/wp-content/uploads/TGCC-2026-28052025-1-1.gpx",
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://transgrancanaria.net/en/classic-126km/",
+    "attribution": "The North Face Transgrancanaria / Arista Eventos S.L. The 2027 Classic page links a GPX named TGCC-2026-28052025-1-1.gpx; the file's own track name is 'TGCC 2026 28052025', its creator is 'Garmin Desktop App', its metadata time is 2025-06-30 and its first track point is timestamped 2021-07-26. The file carries no licence or copyright terms. This site therefore links to the official race page, does not host the file, does not draw the track and does not treat the file as a verified 2027 geometry."
+  }
+}

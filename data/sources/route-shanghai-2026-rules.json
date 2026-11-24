@@ -1,10 +1,10 @@
 {
   "sourceId": "route-shanghai-2026-rules",
   "title": "2026上海马拉松竞赛规程",
-  "url": "https://static.shang-ma.com/web/matchDetail/index.html?eventId=232",
+  "url": "https://static.shang-ma.com/web/matchDetail/index.html?eventId=232&eventTtype=2",
   "publisher": "上海马拉松组委会",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-21",
   "claims": [
     "The 2026 Shanghai Marathon is scheduled for Sunday 6 December 2026; the wheelchair marathon starts at 06:45 and the marathon at 07:00.",
     "The 2026 field is 30,000 marathon runners and 20 wheelchair athletes; the wheelchair race is not open to public entry.",
@@ -14,7 +14,91 @@
     "The 2026 rules list drink stations every 5 km from 5 km and water stations every 5 km from 7.5 km through 40 km.",
     "The 2026 registration window runs from 29 April to 29 May 2026, with the ballot result on 30 June.",
     "The 2026 race pack collection runs 3-5 December 2026, 09:30-19:30, at the Shanghai World Expo Exhibition & Convention Center, 850 Bocheng Road.",
-    "The 2026 event page provides competition rules, entry information, route map, start diagram and finish diagram."
+    "The 2026 event page provides competition rules, entry information, a course map, a start diagram and a finish diagram.",
+    "The 2026 rules award a finisher medal to marathon runners who finish within 6 hours.",
+    "The 2026 rules say bag drop closes at 06:45 and finish-area bag collection runs until 14:30.",
+    "The 2026 rules state that fixed medical points are set at the start, finish and along the course, with ambulances following the runners."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-21",
+    "checkedVia": "Playwright 打开 static.shang-ma.com eventId=232，点击“竞赛规程/赛事路线图/起点示意图/终点示意图”标签读取正文与图件",
+    "note": "2026-11-21 规程正文可读；路线图、起点图、终点图已从“敬请期待”变为实际图件。此前的 API 读取记录保留在历史来源中，本轮以渲染页面为准。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "规程“五、竞赛时间”：wheelchair 6:45；marathon 7:00。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "规程“六、竞赛项目”：竞速轮椅 20 人、马拉松 30000 人。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "规程“七、比赛路线”：起点中山东一路（外滩金牛广场），终点中山南二路（徐家汇体育公园）。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "规程列出外滩、南京路步行街、静安寺、淮海路、新天地、中共一大会址、黄浦滨江、龙腾大道、龙华寺、龙华烈士陵园，并写“详细路线以赛前公布的为准”。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "规程“（十二）关门距离和时间”：10 km 8:50、15 km 9:35、20 km 10:20、25 km 11:00、30 km 11:45、35 km 12:30、40 km 13:15、终点 13:30。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "规程“（十一）补给站”表：5/10/15/20/25/30/35/40 km 饮料饮水；7.5/12.5/17.5/22.5/27.5/32.5/37.5 km 饮水用水。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "规程“八、报名时间”：4月29日15:00至5月29日12:00，6月30日下午公布抽签结果，付款至7月20日12:00。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "规程“十二、装备领取”：12月3–5日 09:30–19:30，上海世博展览馆（博成路850号）。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "页面顶部有竞赛规程、报名须知、参赛声明、领物须知、赛事路线图、起点示意图、终点示意图七个标签；后三者已有图件。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "规程“十三、奖励办法（一）5”：在6小时内完成马拉松者发放完赛奖牌。"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "规程“（十）”：比赛当天6:45前存入起点存衣车；赛后凭大号码布于14:30前到终点区领取。"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "规程“十五、参赛保险与医疗救护”：起终点及沿途设固定医疗点，沿跑进路线有急救车跟随。"
+    }
+  ]
 }

@@ -4,7 +4,7 @@
   "url": "https://pdf.utmb.world/raw/upload/v1786442971/montblanc/Races/GPX/2026/UTMB_2026_25e2a492e6.gpx",
   "publisher": "UTMB World Series / LiveTrail",
   "publishedAt": null,
-  "accessedAt": "2026-11-07",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The official 2026 UTMB GPX file contains 14,084 track points.",
     "A local raw parse of the official GPX measures 173.83 km.",
@@ -13,5 +13,48 @@
     "The GPX metadata declares copyright to LiveTrail® and links to livetrail.run.",
     "The GPX carries no licence statement that would allow redistribution, so this site links to it instead of copying it."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "下载文件含 14,084 个带高程 trkpt"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "本地解析：trkpt 14,084；距离 173.83 km"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "高程累计 +10,253 / −10,252 m"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "高程范围 805–2,571 m"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "metadata 中版权归 LiveTrail®，链接 livetrail.run"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "全文检索无 licence / redistribution 字样"
+    }
+  ]
 }

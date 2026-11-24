@@ -13,5 +13,50 @@
     "Express bus X7 runs every 5 to 10 minutes between U Rudow and BER Airport.",
     "The BER Airport railway station is directly under Terminal 1 on level U2."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 https://ber.berlin-airport.de/en/orientierung/getting-here/public-transport.html → .agent/berlin-shanghai35/berlin-airport.html",
+    "note": "机场交通页正文可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 FEX 连接 Hauptbahnhof、Potsdamer Platz、Südkreuz 与 BER。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 15 分钟一班、4:00–1:00；约 23/19/14 分钟。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文列 RE20、RB22、RB24、RB32。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 S9、S85 每 20 分钟。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 X7 每 5–10 分钟，往 U Rudow。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文车站位于 Terminal 1 地下 U2 层。"
+    }
+  ]
 }

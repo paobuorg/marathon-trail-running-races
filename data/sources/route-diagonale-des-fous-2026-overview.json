@@ -4,11 +4,37 @@
   "url": "https://www.grandraid-reunion.com/en/our-races/",
   "publisher": "Grand Raid de La Réunion",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The English race overview lists the Diagonale des Fous route as 170 km with 10,500 m of positive gain.",
     "The same overview lists five Grand Raid races: Diagonale des Fous, Trail de Bourbon, Mascareignes, Métis Trail and Zembrocal Trail.",
     "The overview distances for the other races are 100 km, 70 km, 50 km and 151 km respectively."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官方英文 Our races 页"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“The Diagonale des Fous route / 170 km / 10500 m of E+”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "列出 Diagonale、Trail de Bourbon、Mascareignes、Metis trail、Zembrocal trail"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“100 km / 70 km / 50 km / 151 km”"
+    }
+  ]
 }

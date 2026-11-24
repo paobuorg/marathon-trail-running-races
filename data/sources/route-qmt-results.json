@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-qmt-results",
+  "title": "Québec Mega Trail — results",
+  "url": "https://ultratrailcanada.com/en/infos/results/",
+  "publisher": "Québec Mega Trail / Ultra-Trail Canada",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The official results page lists the QMT135 course records as Kamil Lesniak (POL) 16:40:30 (2026) and Valérie Arsenault (CAN) 18:12:06 (2026).",
+    "The page's top results link goes to my.raceresult.com/407575/ without a year label, followed by links labelled 2025, 2024, 2023, 2022, 2021, 2019, 2018, 2017, 2016, 2015, 2014, 2013 and 2012.",
+    "The page still lists course records for the retired QMT100 Miles (160 km) and QMT110 distances."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接读取官方成绩页。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Course record 段 QMT135：Man Kamil Lesniak – POL – 16:40:30 (2026)；Woman Valérie Arsenault – CAN – 18:12:06 (2026)" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "页首 See the results 指向 my.raceresult.com/407575/，未标年份；下方 Previous editions results 从 2025 列到 2012" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Course record 段仍保留 QMT100 MILES（Jean-François Cauchon 19:01:28, 2024）与 QMT110（Max Leboeuf 11:21:32, 2019）" }
+  ]
+}

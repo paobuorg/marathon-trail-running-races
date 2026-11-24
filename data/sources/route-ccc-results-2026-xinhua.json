@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-ccc-results-2026-xinhua",
+  "title": "姚妙获环勃朗峰超级越野赛 100 公里组别女子季军 — 新华体育",
+  "url": "http://www.shturl.cc/f9b2a323315c062fdfa7d9c9d4577c3b",
+  "publisher": "新华体育",
+  "publishedAt": "2026-08-29",
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "Xinhua reports that the 2026 CCC route was adjusted because of thunderstorms, increasing the race from the planned 101 km to 108 km with 6,200 m of gain.",
+    "Xinhua reports the women's 2026 CCC podium as Yngvild Kaspersen 12:01:14, Toni McCann 12:06:14 and Yao Miao 12:15:41.",
+    "Xinhua reports that five Chinese men finished in the top 30, led by Silang Duoji."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "search result snippet",
+    "note": "Media report; used only for the route-adjustment context and women's podium, not as the primary distance source."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Article: 部分路线临时调整，赛程由原计划 101 公里增至 108 公里，累计爬升 6200 米."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Article lists 12:01:14, 12:06:14, 12:15:41."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Article: 四郎多吉领衔 5 名中国男子选手进入前 30."
+    }
+  ]
+}

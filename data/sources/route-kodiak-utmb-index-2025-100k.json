@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-kodiak-utmb-index-2025-100k",
+  "title": "Kodiak Ultra Marathons by UTMB 2025 — 100K (UTMB Index)",
+  "url": "https://dashboard.utmb.world/races/29667.kodiakultramarathonsbyutmb100k.2025",
+  "publisher": "UTMB Index",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The 2025 100K is listed at 99.00 km with 3,120 m of gain, held on 11 October 2025 in The Village of Big Bear Lake.",
+    "The 2025 100K men's winner is listed as Kellen Blumberg in 08:30:06."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 读取 UTMB Index 2025 100K 成绩页，作为 B 层对照。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页头：Date Oct 11, 2025、Distance 99.00 km、Elevation Gain 3120 m、City The Village of Big Bear Lake" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "成绩表第 1 行：08:30:06、Kellen BLUMBERG" }
+  ]
+}

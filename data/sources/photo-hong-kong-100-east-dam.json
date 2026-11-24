@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-hong-kong-100-east-dam",
+  "title": "File:High Island Reservoir East Dam 18.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:High_Island_Reservoir_East_Dam_18.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": null,
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The image shows High Island Reservoir's East Dam: the reservoir cove, the dam face and reddish-brown slopes, with a sliver of coast visible beyond.",
+    "The Commons file title identifies the High Island Reservoir East Dam; it contains no Hong Kong 100, HK100 or race-day context and is a location photograph.",
+    "The author is Underwaterbuffalo; the file is licensed CC BY-SA 4.0; the original is 4,608 x 3,456 pixels; the metadata date is 2015; the Commons file page supplies the image.",
+    "The route page uses a 960 x 720 thumbnail of 200,689 bytes without cropping or colour change and credits the author, licence and source; attribution and share-alike are required."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons API imageinfo and downloaded thumbnail inspection",
+    "note": "2026-11-23 通过 Commons API 读取文件页 imageinfo，下载 960 px 副本并目视核对水坝、水库与海岸画面。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地缩略图可见水库水面、坝面与红褐色山坡，远处少量海岸；画面不是赛日检查站。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Commons 文件名为 High Island Reservoir East Dam 18；文件页没有 HK100 或赛事信息。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Commons imageinfo：作者 Underwaterbuffalo；许可 CC BY-SA 4.0；原图 4,608 x 3,456；日期 2015。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地文件 960 x 720、200,689 字节；未裁剪、未改色；页面署名 Underwaterbuffalo / CC BY-SA 4.0。"
+    }
+  ]
+}

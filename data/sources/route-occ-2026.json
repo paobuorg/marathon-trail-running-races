@@ -1,0 +1,116 @@
+{
+  "sourceId": "route-occ-2026",
+  "title": "OCC — 2026 course page",
+  "url": "https://montblanc.utmb.world/races/occ",
+  "publisher": "UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The OCC race page labels OCC as the '50K Final of the UTMB World Series' and states that entry is open to runners with at least one Running Stone and to elites qualified directly via UTMB World Series races.",
+    "The 2026 stat block gives 60 km, 3,500 m of positive gain, a start on Thursday 27 August 2026 at 08:15 from Orsières and a maximum allowed race time of 14 hours 30 minutes.",
+    "The course-profile block gives 61.4 km with 3,342 m of positive gain and 3,222 m of negative gain.",
+    "The timing table lists seven checkpoints at cumulative distances 0, 7.3, 12.2, 23.9, 33.5, 50.5 and 61.4 km; the section distances are 7.3, 4.9, 11.7, 9.6, 17.0 and 10.8 km.",
+    "Cumulative gain and loss in the timing table rise to +3,342 m and -3,222 m, with section values of +654/-98, +72/-205, +805/-841, +1,080/-177, +544/-1,494 and +187/-407 m.",
+    "Checkpoint altitudes in the timing table are 915, 1,472, 1,341, 1,303, 2,206, 1,255 and 1,035 m.",
+    "Cut-off times are published for five checkpoints: Plan de l'Au 11:30, Trient 14:30, Col de Balme 17:45, Argentière 21:15 and Chamonix 23:30; Orsières and Champex-Lac have no cut-off.",
+    "The fastest and slowest columns run from 08:15/09:00 at Orsières to 14:19/Friday 00:35 at Chamonix; at Plan de l'Au, Trient, Col de Balme, Argentière and Chamonix the slowest time is later than the published cut-off.",
+    "The offered-services legend lists hot meal, solid refreshments, liquid refreshments, Näak, medical post, shuttle bus, toilets, showers and rest area.",
+    "The per-checkpoint Services column is empty throughout the captured timing table, so the legend cannot be assigned to individual checkpoints.",
+    "The course description says the route starts in Orsières, passes Champex-Lac and Trient, crosses the Franco-Swiss border at Col de Balme, reaches Tête de Balme (2,321 m, described as the new high point), descends onto the Swiss side, crosses back into France through Vallorcine, then climbs Col des Posettes and continues via Le Tour to Chamonix.",
+    "The page states that the 2027 edition is in the works and that event dates and registration opening dates will be announced later.",
+    "The page presents OCC as 'THE LITTLE SWISS SISTER'.",
+    "The captured page contains a Download control but exposes no GPX file URL and no licence or copyright terms for the course geometry."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页底原文：50K Final of the UTMB World Series；报名条件同段"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页头 stat block：60 KM / 3,500 M+ / Thursday 27th August 2026 / Orsières 08:15 / 14 Hours 30 Minutes"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course profile 合计：61.4 km，3,342 m+ · 3,222 m-"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "计时表逐行读取；段距离为相邻累计值相减，合计 61.4 km"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "计时表累计升降与逐段升降逐行读取；最后一行 +3,342/-3,222"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Altitude 列逐行读取"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Cut-off time 列：11:30 / 14:30 / 17:45 / 21:15 / 23:30；前两点为空"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Fastest/Slowest 列逐行读取；五个有开门点的 Slowest 均晚于 cutoff"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Offered services 图例逐项读取"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Services 列在抓取到的计时表中为空"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "赛道介绍段：Orsières、Champex-Lac、Trient、Col de Balme、Tête de Balme 2,321 m 为新最高点、descend onto the Swiss side、Vallorcine、Col des Posettes、Le Tour、Chamonix；原文明确两次跨境。"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：The 2027 Edition Is in the Works；日期与报名日期稍后公布"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面副标题原文：THE LITTLE SWISS SISTER"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面只有 Download 控件；抓取内容未出现 .gpx 地址、许可或版权条款"
+    }
+  ]
+}

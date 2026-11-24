@@ -6,7 +6,7 @@
   "publishedAt": null,
   "accessedAt": "2026-11-06",
   "claims": [
-    "The 130th Boston Marathon is scheduled for Monday, 20 April 2026 on Patriots' Day.",
+    "The 130th Boston Marathon is scheduled for Monday, 20 April 2026.",
     "All athletes will be across the starting line by 11:30 a.m.",
     "The guide publishes Athletes' Village exit times by wave.",
     "Buses from Boston drop runners at the Athletes' Village at Hopkinton Middle/High School.",
@@ -20,5 +20,92 @@
     "Portable toilets are located at aid stations, and 26 medical stations are staffed along the course.",
     "The B.A.A. asks athletes to complete the medical and emergency-contact information on the back of their bib."
   ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "指南第 4 页赛程写 Monday, April 20, 2026；封面写 130th；不再声称指南出现 Patriots' Day。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 4 页与第 10 页均写“All athletes will be across the starting line by 11:30 a.m.”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 10 页按 Wave 1–6 列出 corral loading 时间。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 10 页：巴士把选手送到 Hopkinton Middle/High School 旁的 Athletes' Village。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 10 页：Poland Spring Water、Gatorade、portable toilets 在 Village 提供。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 10 页：进入 Village 须出示 bib number。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 10 页：“The start is a 0.7-mile walk from the Athletes' Village.”"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 9 页：选手停车限 52 与 80 South Street，凭 bib 乘穿梭车。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 9 页：观众停车在 Hopkinton State Park，赛晨有穿梭车。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 9 页：免费赛后巴士 12:00–7:00 p.m.，从 Columbus Ave（Berkeley 与 Clarendon 之间）发车。"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 12 页赛道图黄色说明条给出同样的 every mile mark 与终点供应措辞。"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 12 页图面标“Portable toilets located at aid stations”，并有“26 medical stations will be located along the course staffed with a variety of medical professionals.”"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第 4 页：要求选手在号码布背面填写 medical and emergency contact information。"
+    }
+  ],
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe 下载 PDF + PyMuPDF 逐页渲染为图像后阅读",
+    "note": "PDF 19 页，专有字体无 ToUnicode 导致文本层乱码；逐页渲染图像读取赛程、Village、交通、存包与赛道图说明。"
+  },
   "license": null
 }

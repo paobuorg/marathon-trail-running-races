@@ -13,5 +13,50 @@
     "11 of the 30 days had at least 1 mm of precipitation, 5 had at least 5 mm, and the maximum daily total was 14 mm.",
     "These are gridded historical values, not on-course measurements."
   ],
-  "license": "CC-BY-4.0"
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "官方 API 响应复算",
+    "note": "按同一参数逐年取 10-12 July 2016-2025 共 30 天"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "请求 URL：start_date=2025-07-10&end_date=2025-07-12，作为代表请求保留"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "API 响应：latitude 37.785587, longitude -107.71083, elevation 2838, timezone America/Denver"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "daily.temperature_2m_max 30 个值：min 18.3, max 26.4, median 22.05"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "daily.temperature_2m_min 30 个值：min 1.8, max 11.4, median 6.25"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "daily.precipitation_sum：≥1mm 11 天，≥5mm 5 天，max 14"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "API 响应为网格点再分析值（latitude/longitude/elevation 字段），非赛道实测"
+    }
+  ]
 }

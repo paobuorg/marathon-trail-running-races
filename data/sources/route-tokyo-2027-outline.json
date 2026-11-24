@@ -1,0 +1,74 @@
+{
+  "sourceId": "route-tokyo-2027-outline",
+  "title": "Tokyo Marathon 2027 — race information and course page",
+  "url": "https://www.marathon.tokyo/en/about/outline/",
+  "publisher": "Tokyo Marathon Foundation",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The official outline page is now headed 'Tokyo Marathon 2027 Race Information' and names the event Tokyo Marathon 2027.",
+    "The 2027 race date is Sunday, 7 March 2027; the marathon starts at 09:10 with a 7-hour limit and the wheelchair marathon starts at 09:05 with a 2-hour 30-minute limit.",
+    "The 2027 course runs from the Tokyo Metropolitan Government Building via Suidobashi, Ueno-hirokoji, Kanda, Nihombashi, Asakusa Kaminarimon Gate, Ryogoku, Monzen-nakacho, Ginza, Tamachi and Hibiya to Tokyo Station/Gyoko-dori Ave., and is certified by JAAF, AIMS and World Athletics.",
+    "The 2027 field size is 40,000.",
+    "The 2027 entry fee is JPY 19,800 for domestic participants and USD 230 for international participants; registration opens on 31 July 2026 and donation/charity entry opened on 24 June 2026.",
+    "Packet pick-up for 2027 runs on 4–6 March 2027 at Tokyo Big Sight South Exhibition Halls; there is no race-day pick-up.",
+    "The 2027 Events field lists only the Marathon and Wheelchair Marathon; the 10.7 km event shown on the 2026 page is not listed.",
+    "The 2027 course page's expected-passing-time table starts at 09:10 and ends at 16:10 at 42.195 km, and its 'Download the Course Map' link still points to a PDF named illustmap_2026en.pdf."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页头：Tokyo Marathon 2027 Race Information；表头 Race Name: Tokyo Marathon 2027"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Date: Sunday, March 7, 2027；Cut-off Times & Start Times: Marathon 7 hours (Start 9:10 / Finish 16:10)，Wheelchair 2 h 30 (9:05 / 11:35)"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course 行逐段读取；(This course is certified by the JAAF, AIMS and World Athletics.)"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Field Size: 40,000"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Event Fee: Domestic JPY 19,800 / International USD 230；Entry Period: registration opens July 31, 2026；donation and charity from June 24, 2026"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Packet Pick-up: March 4–6, 2027, Tokyo Big Sight South Exhibition Halls；packet pick-up is not available on the race day"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Events: Marathon (Marathon, Wheelchair Marathon)；2026 页另有 10.7 km"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Expected passing time 表 0.0 9:10:00 → 42.195 16:10:00（Rearmost Runner）；Download 按钮 href 指向 /about/course/pdf/illustmap_2026en.pdf"
+    }
+  ]
+}

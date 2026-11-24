@@ -14,5 +14,56 @@
     "The values are modelled historical data for a grid point, not measurements on the course, and are not a forecast.",
     "Open-Meteo data are published under CC BY 4.0 and require attribution."
   ],
-  "license": "CC-BY-4.0"
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl 抓取 archive-api JSON，另抓 open-meteo.com/en/licence",
+    "note": "读取 9 天 JSON 并复算极值与中位数；许可条款从 Open-Meteo Licence 页核对"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "JSON 返回 latitude -33.848858、longitude 151.19551、elevation 86.0，daily.time 为 2026-08-23 至 2026-08-31 共 9 天"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "tmax 16.7–20.5；排序后中位数为 18.6"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "tmin 8.7–14.1；排序后中位数为 10.7"
+    },
+    {
+      "index": 3,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "降水 ≥1 mm 只有 3 天（8/25 11.4、8/26 5.1、8/27 1.8），非 4 天；≥5 mm 为 2 天，这部分正确"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2026-08-30：tmax 19.1、tmin 8.9、precip 0.0"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Historical Weather API 文档写明基于 reanalysis datasets，'using mathematical models to estimate the values'，模型空间分辨率 9 km；返回的是网格点而非赛道实测"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Open-Meteo Licence 页：'API data are offered under Attribution 4.0 International (CC BY 4.0)'，并要求署名与链接"
+    }
+  ]
 }

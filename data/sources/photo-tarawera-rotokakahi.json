@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-tarawera-rotokakahi",
+  "title": "File:Lake Rotokakahi, New Zealand.JPG",
+  "url": "https://commons.wikimedia.org/wiki/File:Lake_Rotokakahi,_New_Zealand.JPG",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2014-09-21",
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The image shows Lake Rotokakahi / Green Lake, with the lake surface, a forested ridge across the water and ferns in the foreground.",
+    "The file title identifies Lake Rotokakahi, New Zealand; it contains no Tarawera race, UTMB or race-day context and is a location photograph, not timing equipment or race coverage.",
+    "The author is Michal Klajban, credited under CC BY-SA 4.0; the original is 3,824 x 2,610 pixels and 4,825,463 bytes, dated 2014-09-21.",
+    "The route page uses a 960 x 655 re-encoded Commons thumbnail of 217,054 bytes and credits the author and licence; attribution and share-alike are required."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons action=query imageinfo + thumbnail visual check",
+    "note": "2026-11-23 读取 Commons 文件页与 imageinfo，核对标题、作者、日期、许可、尺寸和画面；缩略图与文件描述一致。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Thumbnail shows the lake, the opposite forested ridge and foreground ferns."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "The title identifies Lake Rotokakahi, New Zealand; no Tarawera, UTMB or race-day metadata appears."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "imageinfo: 3,824 x 2,610; 4,825,463 bytes; Artist Michal Klajban; CC BY-SA 4.0; DateTimeOriginal 2014-09-21."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Local file is 960 x 655 and 217,054 bytes after resizing; the Commons licence requires attribution and share-alike."
+    }
+  ]
+}

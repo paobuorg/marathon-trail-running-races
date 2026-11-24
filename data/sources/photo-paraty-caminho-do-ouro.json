@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-paraty-caminho-do-ouro",
+  "title": "File:Trecho do Caminho do Ouro em Parati-RJ (1519027780).jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Trecho_do_Caminho_do_Ouro_em_Parati-RJ_(1519027780).jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2007-07-26",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "The photograph shows a section of the Caminho do Ouro near Paraty as a broad old stone road: irregular, moss-covered blocks run through dense Atlantic Forest, with fallen leaves and branches across the stones and no people or race furniture in the frame.",
+    "Commons titles the file Trecho do Caminho do Ouro em Parati-RJ (1519027780).jpg and describes it as a section of the Caminho do Ouro in Parati, Rio de Janeiro; the categories include Atlantic Forest and Nature of Paraty. It shows the old road environment, not a confirmed 2027 race segment, start/finish arch, aid station, course marking, timing mat or race-day crowd.",
+    "The author is Glauco Umbelino; the file is licensed CC BY 2.0; the photograph was taken on 2007-07-26 at 13:06; the original is 2,048 x 1,536 pixels and 1,597,101 bytes, and the file page gives no camera coordinates.",
+    "The route page uses a 960 x 720 copy of 410,432 bytes without cropping or colour change and credits Glauco Umbelino, CC BY 2.0, Wikimedia Commons; the resized copy keeps the same licence."
+  ],
+  "license": "CC-BY-2.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons file page, imageinfo API and downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons 文件页与 API 核对作者、许可、日期、原图尺寸和分类，并下载 960 px 副本目视确认：画面是 Paraty 附近 Caminho do Ouro 的苔藓石道，不是 2027 赛日或补给站；文件页没有可核机位。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地副本可见大块苔藓石面、落叶与两侧密集大西洋森林，画面中没有人物、拱门、号码布、补给桌或计时设备。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons 标题与描述写明 Trecho do Caminho do Ouro em Parati-RJ；分类为 Atlantic Forest、Nature of Paraty；页面只在官方路线概述点名 Caminho do Ouro，不把它写成 2027 已确认的同一段。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "imageinfo：Artist Glauco Umbelino from Diamantina, Brasil；LicenseShortName CC BY 2.0；DateTimeOriginal 2007-07-26 13:06；2,048 x 1,536、1,597,101 字节；extmetadata 无 GPS 字段。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 x 720、410,432 字节；未裁剪、未改色；页面署名 Glauco Umbelino、CC BY 2.0、Wikimedia Commons。"
+    }
+  ]
+}

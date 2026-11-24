@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-lavaredo-home",
+  "title": "La Sportiva Lavaredo Ultra Trail by UTMB — official homepage",
+  "url": "https://lavaredo.utmb.world/",
+  "publisher": "La Sportiva Lavaredo Ultra Trail by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The homepage's About the race section states: 'Born in 2007, La Sportiva Lavaredo Ultra Trail by UTMB® is the dream of all trail runners.'",
+    "The same section says the event takes place 'in one of the most evocative landscapes of the UNESCO World Heritage Dolomites, Cortina d'Ampezzo', and that it offers 5 race distances led by the Lavaredo 120K with 5,800 m of elevation gain."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直取 https://lavaredo.utmb.world/ 首页 About the race 段。首页页头日期仍写 24-28 June 2026，与 2027 赛事页不一致；本来源只引定位原句，不把首页日期当作 2027 届信息。页面无发布日，accessedAt 为读取日。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：'Born in 2007, La Sportiva Lavaredo Ultra Trail by UTMB® is the dream of all trail runners.'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：'It takes place in one of the most evocative landscapes of the UNESCO World Heritage Dolomites, Cortina d’Ampezzo, which in 2026 will host the Winter Olympics. The event offers 5 race distances, the most important of which is the Lavaredo 120K, with an elevation gain of 5,800 metres.'" }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "sourceId": "route-torrencial-chile-regulations-2027",
+  "title": "REGLAMENTO — Reglamento de carrera 2027 (Torrencial Chile by UTMB)",
+  "url": "https://torrencial.utmb.world/es/runners/regulations",
+  "publisher": "UTMB World Series / Torrencial Chile by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The page is the 2027 race regulations.",
+    "Semi-autonomy is the rule: runners must carry their own liquids, food and equipment between aid stations.",
+    "Aid stations provide drink and food to consume on site; the organisation only supplies water or energy drink to refill containers.",
+    "No disposable tableware is provided at any aid station, and runners who want hot food must bring their own utensils.",
+    "Poles, if carried, must be carried for the whole race and cannot be placed in the drop bag.",
+    "Listening to music with headphones is not allowed.",
+    "Hour barriers at the main checkpoints are defined and communicated in the runner guide and on the event website.",
+    "Drop bags must be collected at the finish no later than two hours after race closure, and only organiser bags are transported.",
+    "The mandatory equipment list is published on the event website, and the organiser may modify it according to weather before bib distribution opens."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "工具抓取（桌面 UA）读取西文规程页正文",
+    "note": "2026-11-08 读取，页面自称「REGLAMENTO DE CARRERA 2027」。规程把逐点关门时刻交给选手手册与官网，因此本页不引用该来源给 2027 逐点关门数值。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "标题与其下正文均为 2027 规程。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "SEMI-AUTONOMIA：Deben estar preparados para llevar sus propios líquidos, comida y equipo... entre los avituallamientos。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Los puntos de avituallamiento disponen de bebida y comida para consumir in situ... sólo suministra para llenar los bidones o bolsas de líquido。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "no se distribuirán vajillas desechables... Te invitamos a traer tus propios utensilios si deseas comer comida caliente。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "Todo participante que decida llevar bastones deberá transportarlos durante toda la carrera... No se admitirán bastones en la bolsa de vida。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "Música: NO se permite escuchar música utilizando auriculares。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "Las horas límite de salida (barreras horarias) de los principales puntos de control serán definidas y comunicadas en la guía del corredor y en la página web del evento。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "Deben ser recuperadas en meta como muy tarde 2 horas tras el cierre de la carrera；Solo las bolsas facilitadas por la organización serán transportadas。" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "La lista de material obligatorio está disponible en la página web del evento；el organizador puede realizar modificaciones del presente listado..." }
+  ]
+}

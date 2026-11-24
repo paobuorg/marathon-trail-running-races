@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-diagonale-des-fous-2025-course",
+  "title": "Descriptif Diagonale des Fous 2025 — official course description",
+  "url": "https://www.grandraid-reunion.com/IMG/pdf/descriptif_diagonale_des_fous_25.pdf",
+  "publisher": "Grand Raid de La Réunion",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The official 2025 course description tells runners to keep the Colorado trail on their right because it has been closed since cyclone Garance passed.",
+    "The description routes runners through Piton Trésor, the Rampes de la Montagne, the Chemin des Perles and on to the Belvédère de la Vigie.",
+    "The same document places CP20 Colorado at km 171.6 and the finish at La Redoute at km 178.6."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接读取官方 2025 赛道说明 PDF。文件为 2025 届版本，与 2026 届关门表的点位里程不同，引用时按届次区分。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：laissez le sentier du Colorado sur votre droite (fermé depuis le passage du cyclone Garance)" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：prenez à gauche et suivez-le jusqu'au Belvédère de la Vigie；正文依次列 Piton Trésor、Rampes de la Montagne、Chemin des Perles" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：CP20 Colorado 171.6 km；ARR La Redoute 178.6 km" }
+  ]
+}

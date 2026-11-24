@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-antarctic-union-glacier-hq",
+  "title": "File:Union Glacier Headquarters.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Union_Glacier_Headquarters.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2022-12-31",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "Blue and white camp buildings on flat snow at Union Glacier, with tracked-vehicle trails leading away and low mountains on the horizon; no start arch, finish tape or race furniture appears. It is a location photograph, not a 2026 race-day photograph, and it does not show a start arch, finish gantry, bib, timing mat, aid table, course marking or race crowd.",
+    "Commons titles the file Union Glacier Headquarters.jpg. The route page uses it as Union Glacier camp logistics context for the marathon venue; it does not show the 2026 course, start line or race-day activity.",
+    "The Commons author field reads Christopher Michel; the file is marked CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/); the relevant date is 2022-12-31 19:24:21; the file page gives a camera or subject position of 79.760528 S, 82.859506 W; the original is 4,733 × 3,155 px; 14,890,545 bytes.",
+    "The route page uses a 960 × 640 px; 171,279 bytes copy without cropping or colour change and credits Christopher Michel, CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/), Wikimedia Commons; the resized copy keeps the same licence."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons API metadata plus downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons API 与文件页核对作者、许可、日期、原图尺寸和（如有）坐标，并下载 960 px 副本目视确认：Blue and white camp buildings on flat snow at Union Glacier, with tracked-vehicle trails leading away and low mountains on the horizon; no start arch, finish tape or race furniture appears. 不是赛日现场，也不是赛道测绘照片。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地 960 px 副本可见：Blue and white camp buildings on flat snow at Union Glacier, with tracked-vehicle trails leading away and low mountains on the horizon; no start arch, finish tape or race furniture appears. 画面中没有号码布、拱门、计时毯、补给桌、赛道旗标或赛日人群。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons 标题为 Union Glacier Headquarters.jpg；文件描述与分类支持这一地点用途；正文只把它当环境照，不当赛道证据。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "文件页记录：作者 Christopher Michel；许可 CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/)；日期 2022-12-31 19:24:21; the file page gives a camera or subject position of 79.760528 S, 82.859506 W；原图 4,733 × 3,155 px; 14,890,545 bytes。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 × 640 px; 171,279 bytes；未裁剪、未改色；页面署名 Christopher Michel、CC-BY-4.0、Wikimedia Commons。"
+    }
+  ]
+}

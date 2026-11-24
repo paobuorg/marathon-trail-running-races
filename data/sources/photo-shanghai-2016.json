@@ -1,14 +1,41 @@
 {
   "sourceId": "photo-shanghai-2016",
-  "title": "File:Shanghai International Marathon 2016.jpg (2026-11-07 check: host unreachable from this network; not re-verified)",
+  "title": "File:Shanghai International Marathon 2016.jpg",
   "url": "https://commons.wikimedia.org/wiki/File:Shanghai_International_Marathon_2016.jpg",
   "publisher": "Wikimedia Commons",
-  "publishedAt": "2022-05-23",
+  "publishedAt": "2016-10-30",
   "accessedAt": "2026-11-06",
   "claims": [
     "The file shows runners at the 2016 Shanghai International Marathon, photographed on Wanping South Road.",
     "The uploader and author is the Commons user 中日韩越的汉字, credited as own work.",
     "The file is licensed CC BY-SA 4.0 (Creative Commons Attribution-Share Alike 4.0)."
   ],
-  "license": "CC-BY-SA-4.0"
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe --proxy local 7890 proxy；Commons action=query imageinfo + w/thumb.php 缩略图",
+    "note": "2026-11-20 经本地 7890 代理读取 Commons 文件页、imageinfo API 与缩略图，确认作者、许可、拍摄日期和画面。此前 blocked 是本机直连不可达，不是文件不存在或没有许可。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    }
+  ]
 }

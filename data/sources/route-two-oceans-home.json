@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-two-oceans-home",
+  "title": "Totalsports Two Oceans Marathon — official homepage",
+  "url": "https://www.twooceansmarathon.org.za/",
+  "publisher": "Two Oceans Marathon NPC",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The homepage presents the event under the line 'The World's Most Beautiful Marathon'.",
+    "The homepage says the Two Oceans Marathon is 'globally lauded as the world's most beautiful marathon' thanks to the natural splendour of its ultra marathon route, and that it 'boasts South Africa's biggest Half Marathon'.",
+    "The homepage's history section says the race 'started off as the Celtic 35 Mile Road Race in 1970 – born of an initiative by Celtic Harriers – became the Two Oceans Marathon'."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直取 https://www.twooceansmarathon.org.za/ 首页，读取页头标语、HISTORY / About 段与 History 段；页面无发布日，accessedAt 为读取日。首页标语与 ultra-marathon 页的 'Africa's biggest running event' 是两处不同页面，未混用。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页头原文：'The World's Most Beautiful Marathon'（页面分行排版为 The World's / Most Beautiful / Marathon）。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：'The Two Oceans Marathon is globally lauded as ‘the world’s most beautiful marathon’ thanks to the natural splendour of its ultra marathon route. It also boasts South Africa’s biggest Half Marathon.'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：'What started off as the Celtic 35 Mile Road Race in 1970 – born of an initiative by Celtic Harriers – became the Two Oceans Marathon…'；同段写 'the inaugural edition in 1970'。" }
+  ]
+}

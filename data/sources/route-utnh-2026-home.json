@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-utnh-2026-home",
+  "title": "可隆宁海越野挑战赛 2026 官方首页",
+  "url": "https://ninghai100.com/",
+  "publisher": "可隆宁海越野挑战赛 / 上海穹景体育文化发展有限公司",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "首页列出 2026 届三个组别：CNH-60 58.8 km、爬升 2,400 m、关门 14 小时，11 月 13 日；UTNH-100 100.6 km、爬升 4,986 m、关门 24 小时，11 月 14 日；YNH-25 24.8 km、爬升 618 m、关门 6 小时，11 月 15 日。",
+    "首页三个组别均标注“报名关闭”，没有出现 2027 届的日期或报名信息。",
+    "首页赛事介绍写明赛道位于宁海西部山区的登山步道上，经过原始森林、溪流、山峦与竹林。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 通过 WebFetch 读取首页，组别数字与竞赛规程一致；首页未见下一届信息。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "首页组别卡片：58.8 公里/2400 米/14 小时；100.6 公里/4986 米/24 小时；24.8 公里/618 米/6 小时，并标注 11 月 13/14/15 日。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "三个组别卡片均显示“报名关闭”；页面未出现 2027 字样。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：赛道在宁海西部山区的登山步道上，途径原始森林、溪流、山峦、竹林。" }
+  ]
+}

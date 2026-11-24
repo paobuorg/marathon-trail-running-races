@@ -1,0 +1,32 @@
+{
+  "sourceId": "route-torrencial-chile-entry-2027",
+  "title": "INSCRIPCIONES — Torrencial Chile by UTMB 2027 general conditions",
+  "url": "https://torrencial.utmb.world/es/registrations",
+  "publisher": "UTMB World Series / Torrencial Chile by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The event runs from 24 to 27 June 2027 in Valdivia, Chile, with distances of 100k, 65k, 45k, 20k, 12k and 6k.",
+    "Runner check-in runs on 24, 25 and 26 June 2027.",
+    "Pilolcura 100K entry costs USD 254 for international runners and USD 216 for Chilean runners in period 1, subject to change.",
+    "The top three female and top three male runners in the 100K and 50K categories obtain automatic qualification for the CCC and OCC races respectively.",
+    "Finishers in the corresponding categories obtain Running Stones that can be used in the UTMB Mont-Blanc lottery.",
+    "Registration transfers are allowed until Monday 31 May 2027 for a USD 15 fee, and distance changes until Monday 11 June 2027 for a USD 15 fee."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "工具抓取（桌面 UA）读取西文报名页正文",
+    "note": "2026-11-08 读取。价格表标注「Valores sujetos a cambios」，本页只作为 2026-11-08 观察值引用，不当作最终价格。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Fechas: 24 al 27 de Junio 2027；Lugar: Valdivia, Chile；Distancias: 100k, 65k, 45k, 20k, 12k y 6k。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Check-in de corredores: 24, 25 y 26 de junio 2027。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "价格表 PILOLCURA 100K Periodo 1：Internacionales USD 254，Chilenos USD 216；表下注明 valores sujetos a cambios。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "los corredores Top 3 femenino y Top 3 masculino de las categorías 100K y 50K... clasificación automática para las carreras CCC® y OCC® respectivamente。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "Todos los finishers... obtienen Running Stones que pueden ser aplicados al sorteo del UTMB Mont-Blanc。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "转移截止 lunes 31 de mayo del 2027，手续费 USD 15；改距离截止 lunes 11 de junio del 2027，手续费 USD 15。" }
+  ]
+}

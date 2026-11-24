@@ -1,0 +1,65 @@
+{
+  "entityId": "route:mt-fuji-100",
+  "slug": "mt-fuji-100",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-mtfuji100-2027",
+    "route-mtfuji100-entries",
+    "route-mtfuji100-rules",
+    "route-mtfuji100-racerinfo-2026",
+    "route-mtfuji100-history",
+    "route-mtfuji100-course",
+    "route-mtfuji100-gpx",
+    "route-mtfuji100-access",
+    "route-mtfuji100-volunteers",
+    "route-mtfuji100-wtm",
+    "route-mtfuji100-2024-outline",
+    "photo-mtfuji-childrens-world",
+    "photo-mtfuji-shojiko",
+    "photo-mtfuji-hokuroku-stadium"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:trail-navigation",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-23",
+  "reviewedAt": "2026-11-23",
+  "reviewDueAt": "2027-04-30",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "JP"
+    ],
+    "placeName": {
+      "zh-CN": "日本静冈县富士市富士山儿童国（起点）与山梨县富士吉田市富士北麓公园（终点），绕富士山脚一周",
+      "en": "Mount Fuji Children's World in Fuji City, Shizuoka (start), and Fuji Hokuroku Park in Fujiyoshida City, Yamanashi (finish), around the foot of Mount Fuji"
+    },
+    "mapAnchor": {
+      "longitude": 138.769272,
+      "latitude": 35.249981,
+      "kind": "start",
+      "sourceRef": "route-mtfuji100-gpx"
+    },
+    "courseVersion": "2026-fuji100mi",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [],
+    "direction": "Point-to-point: start at Mount Fuji Children's World in Fuji City, Shizuoka Prefecture, run around the foot of Mount Fuji through Fujinomiya, Shojiko, Oshino, Yamanakako and Fujiyoshida, and finish at Fuji Hokuroku Park in Fujiyoshida City, Yamanashi Prefecture",
+    "distanceMeters": 165300,
+    "distanceMethod": "The official 2026 winners table gives 165.3 km, and the 2027 race information gives the same 165.3 km. The 2026 racer information aid-station table instead gives a finish distance of 167.0 km, and its per-station distances add up to that figure. The linked GPX measures 163.482 km in two dimensions and 165.364 km in three dimensions, and its projected station distances run 0.10 to 3.58 km behind the 2026 table. This card uses the official edition record of 165.3 km; the 167.0 km table, the GPX figures and the gap between them are all kept in the body and are not averaged.",
+    "elevationGainMeters": 6461,
+    "elevationMethod": "The official 2026 winners table gives 6,461 m of accumulated gain, and the 2027 race information gives 6,463 m. The linked GPX yields 8,122 m of raw positive change and 7,777 m with a 3 m threshold over 4,311 points, with elevations from 486 m to 1,636 m. This card uses the official 2026 figure of 6,461 m; the 6,463 m and the GPX figures are shown in the body and are not averaged. A trackpoint-only recomputation on 2026-11-20 gives a raw cumulative negative change of 7,953 m over the same 4,311 trkpt elevations (the ten waypoint elevations are excluded); this is a measured value, not an official published descent figure.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": "https://www.mtfuji100.com/wp-content/themes/utmf/img/course/26FUJI100mi_ver.1.5.gpx",
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://www.mtfuji100.com/racers/course/",
+    "attribution": "Mt.FUJI 100 Executive Committee. The course page dated 2026-09-01 links the GPX 26FUJI100mi_ver.1.5.gpx and states that the file is being corrected because of a course change on 9 April; the same page publishes a detailed map PDF named 26FUJI100MAALL_ver.1.5_.20260416.pdf. The GPX declares GPX 1.1 and creator TrailNote, has no metadata block, no timestamps and no copyright or reuse licence, and its projected aid-station distances run up to 3.58 km behind the 2026 official table. This site links to the official course page, does not host the file, does not draw the track and does not treat the file as verified geometry for any edition."
+  }
+}

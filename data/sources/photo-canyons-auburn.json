@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-canyons-auburn",
+  "title": "File:Downtown Auburn California - panoramio.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Downtown_Auburn_California_-_panoramio.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2015-08-22",
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The image shows a large gold-miner statue on a stone base, a street corner, trees, low buildings, parked vehicles and a blue sky in downtown Auburn, California.",
+    "The file title identifies downtown Auburn, California; it contains no Canyons race or UTMB event context and is a location photograph, not the finish line or race-day coverage.",
+    "The author is Noah_Loverbear, credited under CC BY-SA 3.0; the original file is 4,716 x 3,160 pixels and 5,281,554 bytes, dated 2015-08-22.",
+    "The route page uses a 960 x 643 re-encoded Commons thumbnail of 184,652 bytes and credits the author and licence; attribution and share-alike are required."
+  ],
+  "license": "CC-BY-SA-3.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons action=query imageinfo + thumbnail visual check",
+    "note": "2026-11-23 读取 Commons 文件页与 imageinfo，核对标题、作者、日期、许可、尺寸和画面；缩略图与文件描述一致。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Thumbnail shows the gold-miner statue, street corner, trees, low buildings, vehicles and blue sky."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "The title identifies downtown Auburn, California; no Canyons, UTMB or race-day metadata appears."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "imageinfo: 4,716 x 3,160; 5,281,554 bytes; Artist Noah_Loverbear; CC BY-SA 3.0; DateTimeOriginal 2015-08-22."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Local file is 960 x 643 and 184,652 bytes after re-encoding; the Commons licence requires attribution and share-alike."
+    }
+  ]
+}

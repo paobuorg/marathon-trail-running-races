@@ -1,0 +1,47 @@
+{
+  "sourceId": "route-qmt-2026-elevation",
+  "title": "QMT135 2026 — official elevation chart and station kilometre table",
+  "url": "https://ultratrailcanada.com/wp-content/uploads/2025/12/135-scaled.jpg",
+  "publisher": "Québec Mega Trail / Ultra-Trail Canada (organiser)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "The QMT135 page's ELEVATION CHART accordion displays a 2,560 × 853 static JPG at https://ultratrailcanada.com/wp-content/uploads/2025/12/135-scaled.jpg; the chart itself prints no edition year.",
+    "The chart marks Baie-Saint-Paul at km 0, Halte de l'Arche at km 19.8, Le Massif at km 39.1, Cap du Salut at km 51.3, Cap Gribane at km 64.9, Saint-Tite-des-Caps at km 79.5, Mestachibo at km 90.4, MSA at km 101.5, Sommet 1 at km 105.7, Sommet 2 at km 110.3, Auberge du Fondeur at km 124.9 and the Mont-Sainte-Anne finish after a final 9.1 km segment.",
+    "The chart's segment gains are +922 m, +921 m, +407 m, +669 m, +591 m, +485 m, +465 m, +633 m (4.2 km), +393 m (4.6 km), +348 m (14.6 km) and +110 m (9.1 km); their sum is 5,944 m against the organiser's published +6,000 m, a 56 m difference left unallocated rather than averaged into any segment.",
+    "The chart's station kilometres differ from kilometre values on the text page: Saint-Tite-des-Caps 79.5 vs 80, MSA 101.5 vs 104.2, Auberge du Fondeur 124.9 vs 125, and the finish 134.0 (124.9 + 9.1) vs the French page's KM 135; both official versions are kept."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "note": "2026-11-22 在官方 QMT135 页打开 ELEVATION CHART 折叠块，读取其静态 JPG（2,560 × 853、246,996 字节）并下载逐项核对。图上标出 11 个分段的公里与 D+；逐段 D+ 相加为 5,944 m，与官方总数 6,000 m 相差 56 m。图件版权归组委会，未给出再分发许可。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "官方页 ELEVATION CHART 折叠块加载该 JPG；本地下载尺寸 2,560 × 853、246,996 字节，图上没有届次年份。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "逐项读图：19.8 / 39.1 / 51.3 / 64.9 / 79.5 / 90.4 / 101.5 / 105.7 / 110.3 / 124.9 km，终点前最后一段 9.1 km。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "图上逐段 D+ 为 922、921、407、669、591、485、465、633、393、348、110 m，相加 5,944 m；官方总爬升写 +6,000 m。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "剖面 km 与文字页原值并列：79.5/80、101.5/104.2、124.9/125、134.0/135；不取平均、不互相覆盖。"
+    }
+  ]
+}

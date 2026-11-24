@@ -18,5 +18,80 @@
     "Toilets are located next to the start chutes, at all route hydration stations and on the finishers field.",
     "The event describes itself in the 2024 document as Africa's only Abbott World Marathon Majors candidate."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "本地静态抓取 .agent/capetown/raw",
+    "note": "本地 4 页 PDF 抽出的文字（raw/route-cape-town-final-instructions-2024.txt），逐节核对补水、食物站、医疗、关门表、停车与厕所"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'There are 15 hydration stations along the route, approximately 3km apart. Water, Coke, Coke no sugar and Powerade will be served. Water will be served in cups and not in plastic sachets.'"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'Woolworths will have a food station before the 24km after Hydration Station 8 and before 9.'"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'Mediclinic and ER24 are the event's official medical partners. There are three medical and physio points and three first aid stations ... as well as a fully manned hospital at the finish.'"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'The medical emergency number is 021 023 2720. The general emergency number 021 300 1286.'"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "关门表 10 行：8:20/7.0、8:55/11.0、9:25/14.0、10:20/20.0、11:05/25.3、11:55/30.5、12:15/32.6、12:50/36.0、13:15/38.7、13:39/41.7；页脚 'TEN CUT-OFF POINTS AT AND AVERAGE PACE OF 09:32'"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "10 个 LOCATION 列逐行一致：Searle Str / Victoria Rd、Main Rd / Rhodes Avenue、Claremont Blvd / Hemlock Blvd、Milner / Park Rd、Liesbeek Parkway / Link Rd、Darling Str / Adderley Str、Long Str / Wale Str、Main Road at RS 14、Queens Rd Circle at MyCiti Station、Helen Suzman / Bill Peters Rd"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'There will be mini sweep buses roaming the route, as well as mega sweep buses collecting runners from all the cut-off points.'"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'there will be no parking - or access to parking - close to or at the Race Village. Your vehicle will be towed if you park illegally or on the marathon route'"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'free parking at Battery Park (V&A Waterfront) on a first come, first served basis ... paid parking ticket ... park at Silos ... sold at Expo. All cars need to be parked by 05:00.'"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'There will be toilets next to the Start Chutes, at all Route Hydration Stations and on the Finishers Field.'"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'take on Africa's only Abbott World Marathon Majors candidate'"
+    }
+  ]
 }

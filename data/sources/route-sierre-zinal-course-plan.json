@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-sierre-zinal-course-plan",
+  "title": "Plan général du parcours — Sierre-Zinal",
+  "url": "https://www.sierre-zinal.com/fr/plan-general-parcours-384.html",
+  "publisher": "Sierre-Zinal Association (organiser)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The official course plan gives the full Sierre–Zinal route as 31 km, split into 11 km between Sierre and Chandolin and 20 km between Chandolin and Zinal.",
+    "The same page gives 'plus de 2 000 m de dénivelé positif' (more than 2,000 m of positive elevation gain) across forests, alpine pastures and alpine ridges.",
+    "The same page lists 9 refreshment points (food and drink), the zones accessible to the public, the fan zones, the altitudes of the main crossing points and the road closures for the route.",
+    "The same page notes that the Junior course (Chandolin–Zinal, 20 km) and the alternative tourist itineraries (St-Antoine / Niouc) are also shown on the map.",
+    "The same page carries a disclaimer that the information is subject to change and that the race rules, the authorities' orders and the on-site signage take precedence."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取赛事官网法文版赛道总览页全文，抄录 31 km 的两段拆分、2,000 m 以上正爬升、地形描述、9 个补给点、公众区与 fan zone，以及页面自带的免责声明。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'le tracé s'étend sur 31 km, dont 11 km entre Sierre et Chandolin et 20 km entre Chandolin et Zinal'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'avec plus de 2 000 m de dénivelé positif, à travers forêts, alpages et crêtes alpines'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'Les 9 points de ravitaillement (nourriture & boissons)'；'Les zones accessibles au public'；'Les fans zones'；'L'altitudes des principaux points de passage'；'Les fermetures de route'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'Le parcours \"Junior\" (Chandolin – Zinal, 20 km) et les itinéraires touristiques alternatifs (St-Antoine / Niouc) sont également indiqués'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "'Informations communiquées sous réserve de modifications. Le règlement de course, les dispositions des autorités et la signalisation en place font foi.'" }
+  ]
+}

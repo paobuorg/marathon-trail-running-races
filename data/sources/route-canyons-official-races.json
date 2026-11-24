@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-canyons-official-races",
+  "title": "List of races — Canyons Endurance Runs by UTMB 2027",
+  "url": "https://canyons.utmb.world/races",
+  "publisher": "UTMB World Series / Canyons Endurance Runs by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The 2027 races page lists the event on 23–26 April 2027 with the 100M and 25K on 23 April, and the 100K and 50K on 24 April.",
+    "The 100M and 100K start at China Wall Trailhead, while the 50K and 25K start and finish in Downtown Auburn.",
+    "The page shows 4 Running Stones for the 100M, 3 for the 100K, 2 for the 50K and 1 for the 25K."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取并读取 2027 races 列表。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "列表：23rd April 2027 100M 与 25K；24th April 2027 100K 与 50K；页头日期 23 - 26 April 2027" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "起点列：100M/100K China Wall Trailhead；50K/25K Downtown Auburn" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "Running Stones 列逐项照录：4 / 3 / 2 / 1" }
+  ]
+}

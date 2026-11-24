@@ -10,10 +10,67 @@
     "The map marks kilometre points at 5, 10, 15, 20, 25, 30, 35 and 40 km.",
     "The map prints CUT-OFF 1 at 7 km and 10:30, CUT-OFF 2 at 11 km and 11:05, CUT-OFF 3 at 14 km and 11:30, and CUT-OFF 4 at 20 km and 12:30.",
     "The map prints CUT-OFF 6 at 30.5 km and 14:10, CUT-OFF 7 at 32.6 km and 14:30, CUT-OFF 8 at 36.0 km and 15:00, CUT-OFF 9 at 38.7 km and 15:20, and CUT-OFF 10 at 41.4 km and 15:45.",
-    "The CUT-OFF 5 label is at 25.3 km, but its time is hidden by the route map index box in the published image.",
-    "The map shows 15 numbered hydration-station icons and medical icons along the route.",
-    "The map labels Sea Point, Green Point, the CBD, Woodstock, Salt River, Rondebosch Common, Claremont, Newlands, Observatory, Table Mountain, Signal Hill and Lion's Head.",
+    "The map prints CUT-OFF 5 at 25.5 km with a time of 13:20.",
+    "The map shows hydration-station, medical and nutrition icons along the route.",
+    "The map labels Sea Point, Green Point, the Cape Town city centre, Woodstock, Salt River, Rondebosch Common, Claremont, Newlands, Observatory, Table Mountain, Signal Hill and Lion's Head.",
     "The published route map is a raster image; no GPX, KML or GeoJSON download is offered on the marathon page."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "本地静态抓取 .agent/capetown/raw",
+    "note": "本地 JPG 2400×1411，逐块放大读取标签；CUT-OFF 5 框内三行为 CUT-OFF 5 / 13:20 / 25.5km，图例框位于图下方中部，与标签不重叠"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "图上印有蓝点 Beach Rd Start、Stadium Start、黄点 Finish Line，三者均在 GREEN POINT 标注范围内"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "图例写 Km Markers；可见黄色水滴牌 5、10、15、20、25、30、35、40"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "逐块放大：CUT-OFF 1 10:30/7km；CUT-OFF 2 11:05/11km；CUT-OFF 3 11:30/14km；CUT-OFF 4 12:30/20km"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CUT-OFF 6 14:10/30.5km；7 14:30/32.6km；8 15:00/36.0km；9 15:20/38.7km；10 15:45/41.4km"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "4 倍放大后标签清楚印着 'CUT-OFF 5'、'13:20'、'25.5km'；旁边没有 ROUTE MAP INDEX 框遮挡。原 claim 的 25.3 km 与“时间被遮住”均与图不符，已改写"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "图例列出黄色水滴=Km Markers、红十字符=Medical Services、蓝色水杯=Hydration Stations、白点=Nutrition / Treats；沿线可见这三类图标"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "图上逐个可见 SEA POINT、GREEN POINT、CAPE TOWN（市中心，非 CBD）、WOODSTOCK、SALT RIVER、RONDEBOSCH COMMON、CLAREMONT、NEWLANDS、OBSERVATORY、TABLE MOUNTAIN、SIGNAL HILL、LION'S HEAD"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "JPG 确为位图（2400×1411）；2026-11-08 抓取官方 /marathon/ 页面（路由锚点 #route-map，站内 /route/ 返回 404），页面 HTML 中 gpx/kml/geojson 出现次数均为 0，赛道资料只有本 JPG 与 2026-Cape-Town-Marathon-Route-Landmarks-11-Feb.pdf"
+    }
+  ]
 }

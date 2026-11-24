@@ -30,5 +30,152 @@
     "Official pacing advice warns that tall buildings and narrow streets in Canary Wharf and the Westferry Underpass can cause GPS issues and wind tunnels.",
     "Official pacing advice describes the final section from Tower Hill to Victoria Embankment as favourable for tired legs, with a right turn by Westminster Bridge about one mile to go and Birdcage Walk about one kilometre to go."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 londonmarathonevents.co.uk/london-marathon/course → .agent/london35/course.html；内嵌 Strava route 3477685973392799106 → .agent/london35/strava-embed-route.html",
+    "note": "页面正文可读；内嵌 Strava 路线为动态 iframe，另抓嵌入页确认 26.1 mi / 278 ft"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文首段：“From Greenwich to The Mall … the 26.2-mile route”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“there are now three Start Lines”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“meet for the first time just before Mile Three, in Woolwich”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“through Charlton, Greenwich and Deptford, looping around Cutty Sark between Miles Six and Seven”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“through Rotherhithe and onto Jamaica Road in Bermondsey … towards … Tower Bridge”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“Once you’re north of the river, and have clocked 13 miles”"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“head east along The Highway to Westferry then circle through Mudchute, Docklands and Canary Wharf”"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“250-metre stretch of road in Limehouse … just past Mile 21”"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“final five miles … The Highway, Tower Hill and Victoria Embankment … Parliament Square, Birdcage Walk and the final corner”"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“Finish Line on The Mall”"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文 Toilets 段：“Start, every mile from Mile 1 to Mile 24, and at the Finish”"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“Start, the Finish, Miles 1 and 2 and then every even mile … until Mile 24”"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“every three miles from Mile 3 to 12, then every two miles from Mile 12 to 24”"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“Lucozade Sport at Mile 7, 15, 21 and 23”"
+    },
+    {
+      "index": 14,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“Lucozade Sport Gels at Mile 13 and 19”"
+    },
+    {
+      "index": 15,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“water refill points at Mile 5, 10, 14, 17 and 20”"
+    },
+    {
+      "index": 16,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：“Drinks Stations are accessible for wheelchair users and volunteers will hand you your drink … open the bottle”"
+    },
+    {
+      "index": 17,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面内嵌 Strava route 3477685973392799106；抓取 strava-embeds.com/route/3477685973392799106 显示 Distance 26.1 mi、Elevation 278 ft"
+    },
+    {
+      "index": 18,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Pacing Advice：“Wide roads and net downhill but fairly crowded”"
+    },
+    {
+      "index": 19,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Relatively flat section (still with a small net negative elevation)”"
+    },
+    {
+      "index": 20,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“slightly uncomfortable incline just before Tower Bridge”"
+    },
+    {
+      "index": 21,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“tall buildings and narrow streets in Canary Wharf, and the Westferry Underpass, can cause GPS issues … act as tunnels”"
+    },
+    {
+      "index": 22,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“favourable section for your tired legs … Tower Hill to Victoria Embankment … right by Westminster Bridge with about one mile to go … one kilometre (0.6 miles) to go”"
+    }
+  ]
 }

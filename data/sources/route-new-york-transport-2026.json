@@ -24,5 +24,116 @@
     "International Tour Operators may use official NYRR transport, including the ITO Westside Midtown Ferry, or charter coaches from hotels to Fort Wadsworth.",
     "The organiser recommends checking mta.info for planned service changes on the subway, bus, Long Island Railroad and Metro-North."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 prod.nyrr.org/tcsnycmarathon/transportation-to-the-start",
+    "note": "交通页全文可读，含渡轮/巴士/自驾、桥梁关闭、选择窗口与特殊通道"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Staten Island Ferry 段：Whitehall Terminal 出发，estimated 90 minutes。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：1 train South Ferry、R/W Whitehall Street–South Ferry、M15/M20/M55。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：ferry free；St. George Terminal 有 free buses 到 Fort Wadsworth。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Midtown bus 段：NYPL, Fifth Avenue and 40th Street；90 minutes；arrive 15 minutes before；direct。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "New Jersey bus 段：MetLife Stadium Lot K；60 minutes；arrive 15 minutes early；direct。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Ferry 段：预计 4 小时以上者建议选 ferry，因到起点时间更接近 wave。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Drop-off 段：car/taxi/rideshare 仅 McClean Ave & Ocean Ave；private bus 近 McClean & Lily Pond。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：no parking at the start；walk about half a mile。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Bridge 段：Verrazzano 7:00 a.m. 关闭；private vehicles 必须提前到。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：7:00 前 Exit 14（Narrows Road North/Hylan Blvd）；7:00 后 Clove Road。"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Selection 段：opened 25 August，closed 8 September 11:59 p.m. ET。"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：“New in 2026”，select mode，NYRR assigns departure time based on registered/best pace。"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：必须按 assigned slot 与 selected mode；违规可能 warning、DQ、取消名额、suspension。"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Team for Climate 段：自动 6:15 ferry，与 wave/corral 对齐，可在窗口内更改。"
+    },
+    {
+      "index": 14,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Charity 段：Fred’s Team 5:45 West 48th & Broadway；Silver 5:45 59th/Central Park South & Seventh Ave。"
+    },
+    {
+      "index": 15,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "ITO 段：可用 ITO Westside Midtown Ferry 或 hotel charter coaches 到 Fort Wadsworth。"
+    },
+    {
+      "index": 16,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "文末：建议查 mta.info 的地铁、巴士、LIRR、Metro-North 变更。"
+    }
+  ]
 }

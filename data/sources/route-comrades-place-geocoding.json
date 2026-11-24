@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-comrades-place-geocoding",
+  "title": "Open-Meteo Geocoding API — Pietermaritzburg and Durban",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=Pietermaritzburg&count=3&language=en&format=json",
+  "publisher": "Open-Meteo Geocoding (GeoNames data)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The Open-Meteo geocoding result for Pietermaritzburg, South Africa, gives latitude -29.61679, longitude 30.39278 and elevation 636 m.",
+    "The Open-Meteo geocoding result for Durban, South Africa, gives latitude -29.8579, longitude 31.0292 and elevation 21 m.",
+    "The geocoding service states that its data comes from GeoNames."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 查询 Open-Meteo geocoding API；Pietermaritzburg 与 Durban 均返回 country_code ZA、经纬度与 elevation。仅用于 mapAnchor 与天气查询坐标，不用于赛道几何。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "JSON：name Pietermaritzburg、latitude -29.61679、longitude 30.39278、elevation 636.0、country_code ZA。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "JSON：name Durban、latitude -29.8579、longitude 31.0292、elevation 21.0、country_code ZA。" },
+    { "index": 2, "status": "partial", "checkedAt": "2026-11-08", "note": "API 响应本身未在结果字段内重复许可声明；Open-Meteo 文档将 geocoding 数据归于 GeoNames。本条按文档写，未把 API 返回当作许可文本。" }
+  ]
+}

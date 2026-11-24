@@ -10,5 +10,32 @@
     "The GPX file is reachable and its metadata names the track 'Hardrock 100 2026 Clockwise-Sydney Basin detour'.",
     "The GPX metadata contains only a name, with no licence or copyright statement, and the course page states no redistribution licence."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "官方 GPX 全文读取",
+    "note": "GPX 返回 200，XML 可解析"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "课程页文件列表：GPX File - Clockwise 2026"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "GPX metadata <name>：Hardrock 100 2026 Clockwise-Sydney Basin detour"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "GPX 全文仅 metadata/name 与 trk/name，无 copyright/license/author/desc 节点：课程页亦无再分发许可说明"
+    }
+  ]
 }

@@ -1,0 +1,43 @@
+{
+  "sourceId": "route-qmt-official-135",
+  "title": "QMT135 — official race page",
+  "url": "https://ultratrailcanada.com/en/ultra-trail-races/qmt-135/",
+  "publisher": "Québec Mega Trail / Ultra-Trail Canada",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The QMT135 starts in Baie-Saint-Paul from the Hôtel & Spa Le Germain Charlevoix and is listed at 134 km with +6,000 m of gain, −5,859 m of loss, 10 aid stations, technical level 5/5, an average finish time of 26:00:00 and a cut-off of 37:00:00.",
+    "The course follows the St. Lawrence on the La Baie, Gabrielle Roy Est, Louise-Gasnier and Gabrielle Roy Ouest trails to Mont à Liguori (Le Massif de Charlevoix), then almost entirely on the Sentier des Caps de Charlevoix to Saint-Tite-des-Caps, through the Dalle Humide, the Sainte-Anne river canyon and the Mestachibo trail to Jean-Larose falls, climbs Mont-Sainte-Anne almost twice and finishes on its south side.",
+    "The page lists course records of 16:40:30 by Kamil Lesniak (POL) and 18:12:06 by Valérie Arsenault (CAN), both set in 2026.",
+    "The page carries a '2026 Ranking — All finishers' label, its Register button points to runreg.com/qmt2026, and the page footer shows '223 remaining places'.",
+    "Entry requires a previous ultra trail race worth at least 75 points, calculated as 1 km = 1 point and 100 m of gain = 1 point; road and backyard ultras are not accepted.",
+    "The page badges the race as an ITRA 5-point race, an Athlétisme Québec sanctioned trail, and a qualifying race for a finish in 32:00:00 or less.",
+    "Mandatory gear is 1.5 L of water capacity, energy food, a waterproof windbreaker, a 1.4 × 2 m survival blanket, a cap or scarf, a headlamp, a spare headlamp battery, a mobile phone, a 3 × 48 inch self-adhesive compression bandage and an Epipen for runners with allergies.",
+    "One accredited crew member is allowed, at Le Massif, Saint-Tite-des-Caps, Mont-Sainte-Anne, Summit 1 & 2 and Auberge du Fondeur only; crew are not allowed at Halte de l'Arche, Cap du Salut, Cap Gribane or Mestachibo.",
+    "Pacers may run the last 32 km from either Mont-Sainte-Anne or Auberge du Fondeur, must be registered at bib pickup, pay CAD 10 in cash for a special bib, and one pacer per segment is allowed.",
+    "Three 20-litre drop bags are issued and collected at the start, going to Le Massif (#1), Saint-Tite-des-Caps (#2) and Mont-Sainte-Anne (#3).",
+    "Runners cross a stream under a culvert before the Saint-Tite-des-Caps aid station at KM 80 and one small stream at KM 125.",
+    "A free shuttle for runners only runs from the Mont-Sainte-Anne finish to the Baie-Saint-Paul start, takes about one hour and leaves from the Mont-Sainte-Anne main parking lot."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 通过 WebFetch 直接读取英文 QMT135 页全文，并与法文版 /courses-ultra-trail/qmt-135/ 对照。页面未标届次，仅在纪录与排名处出现 2026。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页首 Venue of departure Hôtel & Spa Le Germain Charlevoix；Distance 134 KM；Total elevation gain +6000 m；loss -5859 m；Aid stations 10；Technical level 5/5；Average time 26:00:00；Cut off time 37:00:00" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "正文首段逐段照录；法文版同段另写 Mont à Liguori (Le Massif de Charlevoix) 与 Cap Brûlé 新路段" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Men's course record Kamil Lesniak (POL) 16:40:30 - 2026；Women's course record Valérie Arsenault (CAN) 18:12:06 - 2026" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "徽标文字 2026 Ranking All finishers；Register 按钮 href=https://www.runreg.com/qmt2026；页尾 223 remaining places" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "Qualifier 段：minimum of 75 points；1 km = 1 point | 100 meters of elevation gain = 1 point；backyard ultra on a dirt road is not a trail race" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "徽标三处：ITRA 5 points；Athlétisme Québec Sanction Trail；Qualifying race Race time in 32:00:00 or less。页面未写明该 qualifier 指向哪场比赛，官方新闻页写明是 Western States 100" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "Mandatory gear 十条逐项照录" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "Support crew 段：Only one crew member；允许站 Le Massif / Saint-Tite des Caps / Mont-Sainte-Anne / Summit 1 & 2 / Auberge du Fondeur；No supporters at Halte de l’Arche / Cap du Salut / Cap Gribane / Mestachibo" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "Pacer 段：last 32 km；MSA 或 Auberge du Fondeur 起；$10 cash only；Only one pacer is allowed per segment" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "Drop bags 段：three drop bags of 20 liters；#1 Massif #2 Saint-Tite-des-Caps #3 MSA" },
+    { "index": 10, "status": "supported", "checkedAt": "2026-11-08", "note": "RIVER CROSSINGS 段：before Saint-Tite-des-Caps (KM 80) cross a stream under a culvert；At KM 125 one small stream crossings。法文版此处不同，已并列记录" },
+    { "index": 11, "status": "supported", "checkedAt": "2026-11-08", "note": "Shuttle 段：Free and exclusive for runners；From finish (Mont-Sainte-Anne) to start (Germain Hotel)；About 1 hour；Mont-Sainte-Anne main parking lot" }
+  ]
+}

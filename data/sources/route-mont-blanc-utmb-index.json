@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-mont-blanc-utmb-index",
+  "title": "Kilian Jornet Burgada — UTMB Index race history",
+  "url": "https://utmb.world/runner/2704.kilian.jornetburgada",
+  "publisher": "UTMB Group",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The UTMB Index profile records Kilian Jornet's 30 June 2013 Marathon du Mont-Blanc as 42.2 km with 2,515 m of ascent, a time of 3:30:41 and first place out of 1,921 finishers.",
+    "The same profile records his 25 June 2017 Marathon du Mont-Blanc as 42.5 km with 2,780 m of ascent and a time of 3:45:45.",
+    "The same profile records his 1 July 2018 Marathon du Mont-Blanc as 42.7 km with 2,780 m of ascent and a time of 3:54:54."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 UTMB Index 运动员公开档案，抄录 2013、2017、2018 三届 42 km 的距离、爬升与成绩。该档案是 UTMB 的赛事数据库，不是赛事官网的纪录页。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'June 30 ... Marathon du Mont-Blanc ... 42.2 KM ... 2515 M+ ... 03:30:41 ... Rank 1 ... 1921'；链接年份为 2013。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'June 25 ... 42.5 KM ... 2780 M+ ... 03:45:45'；链接年份为 2017。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'July 1 ... 42.7 KM ... 2780 M+ ... 03:54:54'；链接年份为 2018。" }
+  ]
+}

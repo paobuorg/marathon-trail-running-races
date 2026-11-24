@@ -6,11 +6,50 @@
   "publishedAt": null,
   "accessedAt": "2026-11-06",
   "claims": [
-    "For the grid point 52.5200 N / 13.4050 E over 20–28 September 2026, daily maximum temperature ranged from 15.3 C to 24.6 C with a median of 19.2 C.",
+    "For the returned grid point 52.5483 N / 13.4078 E over 20–28 September 2026, daily maximum temperature ranged from 15.3 C to 24.6 C with a median of 19.2 C.",
     "Daily minimum temperature ranged from 6.3 C to 13.0 C with a median of 11.2 C.",
     "Four of the nine days recorded at least 1 mm of precipitation and none recorded at least 5 mm.",
     "On 27 September 2026 the grid point recorded a maximum of 22.9 C, a minimum of 12.0 C and 0.0 mm precipitation.",
     "These values are modelled reanalysis data for a grid point, not measurements taken on the course."
   ],
-  "license": "CC-BY-4.0"
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 请求 archive-api.open-meteo.com → .agent/berlin-shanghai35/berlin-openmeteo.json",
+    "note": "JSON 可读；注意返回网格与请求坐标不同。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "API 实际返回网格 52.54833/13.407822；数值范围与中位数正确，claim 已改用返回网格坐标。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "最高温 15.3–24.6，排序中位 19.2（同一返回网格）。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "最低温 6.3–13.0，中位 11.2。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "9 日中有 4 日≥1 mm（1.2/2.2/2.7/1.1），无≥5 mm。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "27 日 22.9/12.0/0.0 mm；再分析模型值，非赛道实测。"
+    }
+  ]
 }

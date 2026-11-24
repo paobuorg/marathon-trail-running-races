@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-uta-jamison-valley",
+  "title": "File:(1)Jamison Valley 032.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:(1)Jamison_Valley_032.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2017-07-09",
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The image shows a broad view of the Jamison Valley from Echo Point: layered forested ridges, sandstone cliff walls catching warm light and a blue sky with scattered cloud.",
+    "The Commons file identifies Jamison Valley seen from Echo Point in the Blue Mountains National Park; it contains no UTA race context. The official UTA100 course description names Narrow Neck, Ironpot Ridge, Leura Forest, Wentworth Falls, Kedumba Pass and Furber Steps, but this photograph is a general valley view, not those points or the race track.",
+    "The author is Sardaka; the file is licensed CC BY-SA 4.0; the original is 6,535 x 4,612 pixels and 18.4 MB; the photograph was taken on 2017-07-09; the file has no camera coordinates.",
+    "The route page uses a 960 x 678 thumbnail of 168,730 bytes without cropping or colour change and credits the author, licence and source; attribution is required and adaptations must be shared alike."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons file page, imageinfo API and downloaded 960 px thumbnail inspection",
+    "note": "2026-11-23 通过 Commons 文件页与 imageinfo API 读取作者、许可、原图尺寸与拍摄日期，下载 960 px 副本并目视核对谷地、森林山脊、砂岩崖壁与天空；文件无 GPS，按 Echo Point 视角的地点照使用。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地缩略图可见宽阔谷地、层叠森林山脊、受光的砂岩崖壁与带散云的蓝天。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Commons 描述为 Jamison Valley seen from Echo Point, Blue Mts NP；文件页无 UTA 赛事信息，也无 GPS；UTA 官方赛道描述含 Narrow Neck 等名称，但照片不定位到这些点。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "imageinfo：Artist User:Sardaka；CC BY-SA 4.0；6,535 x 4,612、18.4 MB；DateTimeOriginal 2017-07-09；无 GPS。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地文件 960 x 678、168,730 字节；未裁剪、未改色；页面署名 Sardaka / CC BY-SA 4.0 / Wikimedia Commons。"
+    }
+  ]
+}

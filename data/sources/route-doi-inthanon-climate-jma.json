@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-doi-inthanon-climate-jma",
+  "title": "ClimatView 地点別データ・グラフ — Chiang Mai (station 48327), Thailand",
+  "url": "https://www.data.jma.go.jp/gmd/cpd/monitor/climatview/graph_mkhtml.php?n=48327&y=2022&m=10&e=0&r=1&s=5&k=0",
+  "publisher": "Japan Meteorological Agency (JMA), ClimatView monthly statistics",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The ClimatView station page identifies Chiang Mai, Thailand (station 48327) at 18.77 degrees north, 98.97 degrees east and 313 m elevation.",
+    "The same page states that its normal values are calculated from the 30-year average of 1991-2020 data.",
+    "For November the page gives a normal monthly mean temperature of 24.7 degrees Celsius.",
+    "For November the page gives a normal monthly precipitation of 29.8 millimetres.",
+    "For December the page gives a normal monthly mean temperature of 22.5 degrees Celsius and a normal monthly precipitation of 10.0 millimetres; for January, 22.3 degrees Celsius and 11.3 millimetres."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 JMA ClimatView 站点页；页内标注「平年値は1991-2020年の30年間のデータの平均をもとに算出しています」。11 月平年值为月平均气温 24.7 °C、月降水量 29.8 mm。该页不提供相对湿度。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'チェンマイ -タイ 緯度: 18.77 °N / 経度: 98.97°E 高度: 313(m)'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'平年値は1991-2020年の30年間のデータの平均をもとに算出しています。'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "11 月行「平年値」列：月平均気温 24.7" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "11 月行「平年値」列：月降水量 29.8" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "12 月平年値 22.5 °C / 10.0 mm；1 月平年値 22.3 °C / 11.3 mm" }
+  ]
+}

@@ -22,5 +22,103 @@
     "The organisers may cancel or cut short the event for adverse weather, landslides, rockfalls or hill fires along the course, protests or blockage, or force majeure.",
     "The organisers reserve the right to make changes to the rules, requirements, route and other arrangements."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://hk100ultra.com/rules/ 正文"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "General：“Participants must complete the marked course on foot under their own power”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "General：“semi self-sufficient… mandatory equipment with you at all times”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "General：“Outside assistance is only permitted at the checkpoints… except in an emergency”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "General：“no restriction on buying drinks/food from the shops, restaurants, hawkers and vending machines”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "General：“Pacers and support runners are strictly prohibited”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "General：“Refreshments at the checkpoints are reserved for runners only”"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "General：“Race numbers must be visible at all times on the outside of clothing (at the front)”"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Withdrawal 段：“inform event officials and sign the withdrawal form at the closest checkpoint”"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "First aid 段：“use the phone numbers printed on your race bib”"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Rules 段：“Stay on the marked course. Short cuts are strictly prohibited”"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Penalties 段：“random gear checks… time penalty to disqualification”"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Rules 段：“If you miss any cut-off times you must withdraw from the race as instructed”"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Rules 段：“Damaging or disturbing any flora or fauna is strictly prohibited. Doping… strictly prohibited”"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Force Majeure 段：“adverse weather conditions… landslides, rockfalls or hill fires… protests or blockage… force majeure”"
+    },
+    {
+      "index": 14,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "结尾：“The organisers reserve the right to make changes to the event rules and requirements, route and/or other arrangements”"
+    }
+  ]
 }

@@ -1,0 +1,21 @@
+{
+  "sourceId": "route-mgu-place-geocoding",
+  "title": "Open-Meteo Geocoding API — Tengyue (Tengchong)",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=Tengyue&count=5&language=en&format=json",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "Open-Meteo 地理编码将腾越（Tengyue，腾冲市区）定位在纬度 24.99492、经度 98.51276。"
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接调用 Open-Meteo 地理编码接口。该坐标是腾冲市区点位，不是砚湖公园起跑线坐标。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "接口返回 name=Tengyue, latitude=24.99492, longitude=98.51276, country=China, admin1=Yunnan。" }
+  ]
+}

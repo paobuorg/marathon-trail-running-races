@@ -1,0 +1,21 @@
+{
+  "sourceId": "route-vmm-results-2026",
+  "title": "RESULTS VMM 2026 — official results page",
+  "url": "https://vietnamtrailseries.com/mountain-marathon/results-vmm-2026/",
+  "publisher": "Vietnam Trail Series / Topas",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The official Results VMM 2026 page, as fetched on 2026-11-08, displayed only the heading and the notice that any dispute about results must be lodged within 48 hours of the finish cut-off; no result table or timing link appeared in the fetched text."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "页面可能通过脚本或嵌入表格加载；本次 WebFetch 只取到标题与争议说明，因此官方成绩表未核实。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "抓取文本仅 'RESULTS VMM 2026' 与 'Any dispute about results must be lodged with the organiser within 48 hours of the finish cut off time.'" }
+  ]
+}

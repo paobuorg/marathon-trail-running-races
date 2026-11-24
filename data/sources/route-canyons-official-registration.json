@@ -1,0 +1,33 @@
+{
+  "sourceId": "route-canyons-official-registration",
+  "title": "Registration — Canyons Endurance Runs by UTMB 2027",
+  "url": "https://canyons.utmb.world/runners/registration",
+  "publisher": "UTMB World Series / Canyons Endurance Runs by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The registration page gives 2027 race dates of 22–25 April 2027, while the races page gives 23–26 April 2027.",
+    "The 2027 all-in prices are $437.37 for the 100K, $568.76 for the 100M, $311.76 for the 50K and $177.67 for the 25K.",
+    "Registration is non-refundable and non-transferable, with a one-time for-any-reason deferral to the next year available until 24 March 2027; there is no waiting list and no race-day registration.",
+    "The minimum age is 18 for the 100M, 100K and 50K and 16 for the 25K.",
+    "The 100M and 100K are Western States qualifiers for 2028, requiring finishes under 35 hours and 20 hours respectively.",
+    "The 100K Super Golden Ticket gives the top three female and male finishers entry to the 2027 Western States, passing down if a recipient is already qualified or declines, with no runner below fifth offered the ticket.",
+    "All finishers collect Running Stones, and the Finals lottery requires at least one stone and a valid UTMB Index."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取并读取 2027 报名页。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "报名页 'Race Date: April 22-25, 2027'；races 页 '23 April 2027' 至 '26 April 2027'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "All-In price 表逐项照录" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "Withdrawal Information 与 REGISTRATION NOTES 段照录" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "REGISTRATION NOTES 原文：18 for 100M/100K/50K，16 for 25K" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-09", "note": "Your Ticket to Western States 段：100M under 35 hours，100K in 20 hours，qualifiers for 2028" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-09", "note": "SUPER GOLDEN TICKET 段：top 3 female and top 3 male，pass down，no runner below fifth" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-09", "note": "The Road to UTMB 段原文照录" }
+  ]
+}

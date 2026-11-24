@@ -1,0 +1,36 @@
+{
+  "sourceId": "route-paraty-2027-faq",
+  "title": "Paraty Brazil by UTMB 2027 官方 FAQ：赛期、七个组别、资格、报名与领物",
+  "url": "https://paraty.utmb.world/races-runners/other-information/faq",
+  "publisher": "Paraty Brazil by UTMB / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "2027 届赛期为 9 月 23–26 日，地点在巴西里约热内卢州 Paraty。",
+    "七个组别的距离、爬升与起跑时刻：PTR 100 101 km / 4,850 m+ / 9-24 19:00；PTR 55 53 km / 3,200 m+ / 9-25 05:00；PTR 34 34 km / 1,100 m+ / 9-25 07:00；PTR 25 25 km / 750 m+ / 9-25 06:00；PTR 17 17 km / 550 m+ / 9-25 15:00；NIGHT 10 10 km / 270 m+ / 9-25 19:00；RUN 7 7 km / 50 m+ / 9-26 07:00（巴西利亚时间 UTC−3）。",
+    "PTR 100 需要有效的 50K 组 UTMB Index；PTR 55 需要 20K 组 UTMB Index；其余组别不设指数门槛。",
+    "2026-10-26 与 10-27 的早鸟仅限持有 UTMB Index 的跑者；2026-10-28 10:00 起公开报名，截止 2027-08-10 或额满。",
+    "领物在 EXPO：9-23 10:00–20:00 全组别；9-24 10:00–21:00（PTR 100 至 18:00）；9-25 08:00–16:00 仅 PTR 17、NIGHT 10 与 RUN 7（PTR 17 至 12:00）。须先在 Athlete Dashboard 预约时段；可由他人凭手写签名授权代领。",
+    "GPX 文件在各距离的赛道页提供；部分赛道穿过私人土地，非赛日不可进入。",
+    "如赛道与 GPX 有出入，以现场路标为准；赛前技术会可能公布小幅调整。",
+    "医疗证明须在 2027-08-31 前提交。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 读取官方 FAQ 全文，逐条摘录赛期、七个组别、报名窗口、领物时段与 GPX 说明。",
+    "checkedVia": "https://paraty.utmb.world/races-runners/other-information/faq"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "FAQ：『September 23 to 26, 2027』；地点『Paraty, Rio de Janeiro, Brazil』。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "FAQ 的七行组别表逐项列出距离、爬升与起跑时间；该表与各组别赛道页的 Distance / Elevation Gain / Race Start 字段一致。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "FAQ：PTR 100『valid UTMB Index on the 50K category』；PTR 55『20K category』；其他组别未设门槛。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "FAQ 写明早鸟 10-26/10-27 仅限有 UTMB Index 者，10-28 10:00 公开报名；截止 2027-08-10 或额满。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-09", "note": "FAQ 的 Bib Retrieval 段：9-23 10:00–20:00、9-24 10:00–21:00（PTR 100 until 18:00）、9-25 08:00–16:00（仅 PTR 17 / NIGHT 10 / RUN 7，PTR 17 until 12:00）；需预约；可代领。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-09", "note": "FAQ：『GPX files can be found on each course page』；并说明部分赛道穿过私人土地、非赛日不可进入。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-09", "note": "FAQ：『In case of discrepancy, follow the official markings... minor adjustments may be made and communicated at the technical briefing.』" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-09", "note": "FAQ：医疗证明『by August 31, 2027』，与葡语规程一致。" }
+  ]
+}

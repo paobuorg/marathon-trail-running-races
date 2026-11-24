@@ -1,0 +1,151 @@
+{
+  "entityId": "route:marathon-des-sables",
+  "slug": "marathon-des-sables",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "guidance",
+  "sourceRefs": [
+    "route-mds-legendary-2026-live",
+    "route-mds-2026-results",
+    "route-mds-2026-stage6",
+    "route-mds-legendary-2026-regulations",
+    "route-mds-legendary-2027-event",
+    "route-mds-legendary-2027-access",
+    "route-mds-openmeteo",
+    "route-anchor-editorial",
+    "photo-mds-2010-rocky-climb",
+    "photo-mds-2004-salt-flat"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:hydration",
+    "knowledge:heat-and-humidity",
+    "knowledge:trail-gear",
+    "tool:fueling-planner",
+    "tool:sweat-rate",
+    "tool:race-checklist",
+    "tool:run-walk"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-22",
+  "reviewedAt": "2026-11-22",
+  "reviewDueAt": "2027-03-31",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "MA"
+    ],
+    "placeName": {
+      "zh-CN": "摩洛哥撒哈拉（Ouarzazate 集散）",
+      "en": "Moroccan Sahara (gateway Ouarzazate)"
+    },
+    "mapAnchor": {
+      "longitude": -6.937,
+      "latitude": 30.9335,
+      "kind": "overview",
+      "sourceRef": "route-anchor-editorial"
+    },
+    "courseVersion": "2026-mds-legendary-40th",
+    "courseEdition": "2026",
+    "courseStatus": "superseded",
+    "courseChanges": [],
+    "direction": "Six stages through the Moroccan Sahara, returning to a bivouac after each stage; the exact route stays secret until the roadbook is issued.",
+    "distanceMeters": 270000,
+    "distanceMethod": "Official 2026 live page stage distances: 35 + 40.5 + 29.1 + 100 + 42.2 + 23.2 = 270.0 km. The generic event description says approximately 250 km. This card uses the stage sum because the stages array must reconcile exactly; both official figures are shown side by side in the article and neither is averaged.",
+    "elevationGainMeters": 2567,
+    "elevationMethod": "Official 2026 live page stage gains: 285 + 486 + 413 + 721 + 424 + 238 = 2,567 m. No official total is printed; this card uses the sum of the six official stage figures.",
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "Marathon des Sables. The official 2026 pages publish no GPX and keep the exact route secret until the roadbook is handed over, so this site draws no track and bundles no file.",
+    "stages": [
+      {
+        "index": 1,
+        "date": "2026-04-05",
+        "distanceMeters": 35000,
+        "elevationGainMeters": 285,
+        "startName": "Stage 1 start (Sahara, not named by the organiser)",
+        "finishName": "Stage 1 finish (Sahara bivouac)",
+        "cutoffHours": 10,
+        "cumulativeCutoffHours": 10,
+        "selfSupported": true,
+        "isRestDay": false
+      },
+      {
+        "index": 2,
+        "date": "2026-04-06",
+        "distanceMeters": 40500,
+        "elevationGainMeters": 486,
+        "startName": "Stage 2 start (Sahara, not named by the organiser)",
+        "finishName": "Stage 2 finish (Sahara bivouac)",
+        "cutoffHours": 10,
+        "cumulativeCutoffHours": 20,
+        "selfSupported": true,
+        "isRestDay": false
+      },
+      {
+        "index": 3,
+        "date": "2026-04-07",
+        "distanceMeters": 29100,
+        "elevationGainMeters": 413,
+        "startName": "Stage 3 start (Sahara, not named by the organiser)",
+        "finishName": "Stage 3 finish (Sahara bivouac)",
+        "cutoffHours": 10,
+        "cumulativeCutoffHours": 30,
+        "selfSupported": true,
+        "isRestDay": false
+      },
+      {
+        "index": 4,
+        "date": "2026-04-08",
+        "distanceMeters": 100000,
+        "elevationGainMeters": 721,
+        "startName": "Stage 4 start (long stage, Sahara)",
+        "finishName": "Stage 4 bivouac (Sahara)",
+        "cutoffHours": 32,
+        "cumulativeCutoffHours": 62,
+        "selfSupported": true,
+        "isRestDay": false
+      },
+      {
+        "index": 5,
+        "date": "2026-04-09",
+        "distanceMeters": 0,
+        "elevationGainMeters": null,
+        "startName": "Rest day (Sahara bivouac)",
+        "finishName": "Rest day (Sahara bivouac)",
+        "cutoffHours": null,
+        "cumulativeCutoffHours": 62,
+        "selfSupported": false,
+        "isRestDay": true
+      },
+      {
+        "index": 6,
+        "date": "2026-04-10",
+        "distanceMeters": 42200,
+        "elevationGainMeters": 424,
+        "startName": "Stage 5 start (Sahara, not named by the organiser)",
+        "finishName": "Stage 5 finish (Sahara bivouac)",
+        "cutoffHours": 10,
+        "cumulativeCutoffHours": 72,
+        "selfSupported": true,
+        "isRestDay": false
+      },
+      {
+        "index": 7,
+        "date": "2026-04-11",
+        "distanceMeters": 23200,
+        "elevationGainMeters": 238,
+        "startName": "Stage 6 start (Sahara, not named by the organiser)",
+        "finishName": "Stage 6 finish (Sahara)",
+        "cutoffHours": 10,
+        "cumulativeCutoffHours": 82,
+        "selfSupported": true,
+        "isRestDay": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-kodiak-official-50k",
+  "title": "Kodiak 50K — HOKA Kodiak Ultra Marathons by UTMB 2026",
+  "url": "https://kodiak.utmb.world/races/50K",
+  "publisher": "UTMB World Series / HOKA Kodiak Ultra Marathons by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The 50K is 49 KM with 1,364 m of gain, starts at The Village of Big Bear Lake on Saturday 10 October 2026 at 07:30 and has a 10-hour limit; it carries 4 Running Stones.",
+    "The course starts and finishes at Basecamp in Big Bear Village, climbs the face of Snow Summit early and then follows Skyline Trail through granite boulders and a ridge above Big Bear Lake.",
+    "The page says the 2026 routes are final and offers a final 2026 GPX file."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取并读取 2026 50K 赛事页。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页头：49 KM、Elevation Gain 1364 M+、Saturday 10th October 2026、The Village of Big Bear Lake - 07:30、10 Hours、Running Stones 4" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "Course Description 段照录 Snow Summit 与 Skyline Trail" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "GPX 与补给表段均写 '2026 ROUTES ARE NOW FINAL'" }
+  ]
+}

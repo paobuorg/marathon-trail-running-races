@@ -1,0 +1,26 @@
+{
+  "sourceId": "photo-zegama-finish-2024",
+  "title": "File:Sylvia Nordskar at Zegama-Aizkorri 2024.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Sylvia_Nordskar_at_Zegama-Aizkorri_2024.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2024-05-26",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The file shows Sylvia Nordskar breaking the finish tape as the 2024 Zegama-Aizkorri winner.",
+    "The author is Mathis Decroux, credited to mathisdecroux.com.",
+    "The file is licensed CC BY-SA 4.0."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe + local 7890 proxy; Commons action=query imageinfo and w/thumb.php",
+    "note": "2026-11-20 经代理读取 Commons 文件页、imageinfo API 与 1400 px 缩略图，逐项核对作者、许可、日期、画面。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "画面为 Nordskar 举终点带；文件描述 'Sylvia Nordskar winning at the Zegama-Aizkorri Maratoia in 2024'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "Commons Artist：Mathis Decroux；Credit：https://mathisdecroux.com/。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "Commons LicenseShortName：CC BY-SA 4.0。" }
+  ]
+}

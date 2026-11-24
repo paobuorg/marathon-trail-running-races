@@ -1,0 +1,33 @@
+{
+  "sourceId": "route-vmm-official-100km-vi",
+  "title": "VMM 100km Ultra Marathon — 越南文距离页（2024 版）",
+  "url": "https://vietnamtrailseries.com/vi/mountain-marathon/gioi-thieu-ve-vmm-2/100km-ultra-marathon/",
+  "publisher": "Vietnam Trail Series / Topas",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The Vietnamese 100km page lists the course at 99.5 km with 5,200 m of gain and notes that the 2024 course has some small adjustments.",
+    "The Vietnamese page gives a start time of 21:00 on Friday 20-09-2024 from the Sapa park square next to Sapa Square, with a Google Maps link pointing to approximately 22.3356 N, 103.8418 E.",
+    "The Vietnamese page gives cut-off times of 04:30 at CP Topas Ecolodge, 12:00 at CP3, 15:00 at CP4, 17:00 at CP5, 20:30 at CP6, 22:00 at CP7 and 23:59 at the finish.",
+    "The Vietnamese page allows two drop bags: one to CP Topas Ecolodge and the finish (usable at km 28.6), and one to CP4.",
+    "The Vietnamese page badges the 100km as a 4-point ITRA race, an ITRA National League race, a 100K UTMB Index race and a qualifier for Western States 2025.",
+    "The Vietnamese course description runs over Ham Rong Mountain to CP6 at Hau Chu Ngai, a new 100km-only trail, CP7 at Su Pan, Mount Silverstone, the Red Dao village of Ban Moi, CP Topas Ecolodge, a water station across a stream, Giang Ta Chai, CP1 at Lao Chai, CP3 at O Quy Ho, Cow Mountain, CP4 at Ta Phin, CP5 at 31 Bridge, Sau Chua and the final Mount Silverstone climb.",
+    "The Vietnamese page requires entrants to be at least 18 on race day and to have finished at least one official 50km+ mountain ultra; virtual and club races are not accepted."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "该页仍写 2024 届起跑时间与 2024 版距离/爬升，明显落后于英文旧页（2025）与当前英文页；作为英越两版差异的 A 层证据保留。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Chiều dài cung đường: 99.5km | Độ cao đạt được 5.200m；Chú thích: Đường chạy 2024 sẽ có một số điều chỉnh nhỏ" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Giờ xuất phát: 21:00, thứ Sáu, 20-09-2024；Google maps 链接坐标 22.3356028,103.8418272" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "COT: 04:30 CP Topas Ecolodge – 12:00 CP3 – 15:00 CP4 – 17:00 CP5 – 20:30 CP6 – 22:00 CP7 – 23:59 ĐÍCH" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Túi đồ ký gửi 段：2 túi；01 túi tới CP Topas Ecolodge/Đích (km28,6)；01 túi tới CP4" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "页尾：4 điểm ITRA；ITRA National League；100K UTMB Index；Western States 2025" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "Mô tả đường chạy 逐段照录" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "Độ tuổi quy định 与 Điều kiện tham gia 两段照录" }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-elephant-mae-sa-valley",
+  "title": "File:View of Mae Sa Valley, Chiang Mai, Thailand.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:View_of_Mae_Sa_Valley%2C_Chiang_Mai%2C_Thailand.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2025-12-20",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "A hazy view over the Mae Sa valley in Mae Rim district: broad-leaved tropical trees and banana leaves fill the foreground, a steep forested ridge rises across the middle ground, and the sky is pale blue with thin cloud. It is a location photograph, not a 2026 race-day photograph, and it does not show a start arch, finish gantry, bib, timing mat, aid table, course marking or race crowd.",
+    "Commons titles the file View of Mae Sa Valley, Chiang Mai, Thailand.jpg. The route page uses it as Mae Sa valley context for the A13 Maesa Elephant Camp section of ELEPHANT 100; it does not show the camp, the aid station, the 2026 course line or race-day conditions.",
+    "The Commons author field reads VN.NguyenDucDuy; the file is marked CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/); the relevant date is 2025-12-20 10:35:26; the file page gives a camera or subject position of 18.933675 N, 98.811775 E; the original is 5,712 × 4,284 px; 5,507,335 bytes.",
+    "The route page uses a 960 × 720 px; 233,689 bytes copy without cropping or colour change and credits VN.NguyenDucDuy, CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/), Wikimedia Commons; the resized copy keeps the same licence."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons API metadata plus downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons API 与文件页核对作者、许可、日期、原图尺寸和（如有）坐标，并下载 960 px 副本目视确认：A hazy view over the Mae Sa valley in Mae Rim district: broad-leaved tropical trees and banana leaves fill the foreground, a steep forested ridge rises across the middle ground, and the sky is pale blue with thin cloud. 不是赛日现场，也不是赛道测绘照片。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地 960 px 副本可见：A hazy view over the Mae Sa valley in Mae Rim district: broad-leaved tropical trees and banana leaves fill the foreground, a steep forested ridge rises across the middle ground, and the sky is pale blue with thin cloud. 画面中没有号码布、拱门、计时毯、补给桌、赛道旗标或赛日人群。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons 标题为 View of Mae Sa Valley, Chiang Mai, Thailand.jpg；文件描述与分类支持这一地点用途；正文只把它当环境照，不当赛道证据。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "文件页记录：作者 VN.NguyenDucDuy；许可 CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/)；日期 2025-12-20 10:35:26; the file page gives a camera or subject position of 18.933675 N, 98.811775 E；原图 5,712 × 4,284 px; 5,507,335 bytes。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 × 720 px; 233,689 bytes；未裁剪、未改色；页面署名 VN.NguyenDucDuy、CC-BY-SA-4.0、Wikimedia Commons。"
+    }
+  ]
+}

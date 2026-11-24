@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-kodiak-official-100m",
+  "title": "Kodiak 100M — HOKA Kodiak Ultra Marathons by UTMB 2026",
+  "url": "https://kodiak.utmb.world/races/100M",
+  "publisher": "UTMB World Series / HOKA Kodiak Ultra Marathons by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The 100M is 161 KM with 4,876 m of gain, starts at Rim Nordic Ski Area on Friday 9 October 2026 at 13:00 and has a 36-hour limit; it carries 8 Running Stones.",
+    "The course circumnavigates the Big Bear Valley, includes a few miles on the Pacific Crest Trail and visits the Sugarloaf Mountain summit at 9,995 ft, with a lot of running above 7,000 ft.",
+    "The page says the 2026 routes are final and offers a final 2026 GPX file; its aid chart was updated on 10/6/2026 to note there is no parking at Doble Camp 1 or 2.",
+    "The page warns that minor data differences may exist between the aid-station chart and the profile, map and time-chart graphics."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取并读取 2026 100M 赛事页，包括页头、路线描述、GPX 段与补给表说明。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页头：161 KM、Elevation Gain 4876 M+、Start Date Friday 9th October 2026、Race Start Rim Nordic Ski Area - 13:00、Max Allowed Race Time 36 Hours、Running Stones 8" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "Course Description 段照录：circumnavigates the entire Big Bear Valley、Pacific Crest Trail、Sugarloaf Mountain (9,995 ft)、above 7,000 feet" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "GPX 段 '2026 ROUTES ARE NOW FINAL'；补给表段 '10/6/2026: Updated chart to fix typo (there is NO PARKING at DOBLE CAMP 1 or 2)'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "Aid Station Chart 段原文 'There may be minor data differences between these Aid Station Charts and the Profile, Map & Time Charts graphics above.'" }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-paraty-2027-registration",
+  "title": "Paraty Brazil by UTMB 2027 报名页：七个组别的现价与终价",
+  "url": "https://paraty.utmb.world/registrations",
+  "publisher": "Paraty Brazil by UTMB / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "赛事日期为 2027-09-23 至 09-26。",
+    "报名费分现价与终价两档，可按巴西雷亚尔或美元支付。",
+    "BRL 现价/终价：PTR 100 R$1,488 / R$1,600；PTR 55 R$1,144 / R$1,300；PTR 34 R$792 / R$900；PTR 25 R$660 / R$750；PTR 17 R$528 / R$600；NIGHT 10 R$396 / R$450；RUN 7 R$264 / R$300。",
+    "USD 现价/终价：PTR 100 US$298 / US$338；PTR 55 US$242 / US$275；PTR 34 US$168 / US$190；PTR 25 US$140 / US$159；PTR 17 US$112 / US$127；NIGHT 10 US$84 / US$95；RUN 7 US$56 / US$63。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接读取报名页的两张价格表（BRL 与 USD）。",
+    "checkedVia": "https://paraty.utmb.world/registrations"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页面日期字段为 2027-09-23 至 09-26，与 FAQ 一致。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "页面标题为『Compare the current entry fee with the final pricing phase』，并分 BRL 与 USD 两张表。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "BRL 表逐行核对：1,488/1,600；1,144/1,300；792/900；660/750；528/600；396/450；264/300。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "USD 表逐行核对：298/338；242/275；168/190；140/159；112/127；84/95；56/63。" }
+  ]
+}

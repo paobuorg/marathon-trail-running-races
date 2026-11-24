@@ -6,9 +6,22 @@
   "publishedAt": null,
   "accessedAt": "2026-11-07",
   "claims": [
-    "The New York City Marathon starts at Fort Wadsworth on Staten Island.",
-    "The course crosses all five boroughs and finishes in Central Park.",
     "The official site provides race and course information; public access may use a queue."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe -sSL 抓取 prod.nyrr.org/tcsnycmarathon（www 主机返回含 queueittoken 的等待页）",
+    "note": "首页为 2026 赛后落地页；起点 Fort Wadsworth 与五区/中央公园终点不在本页，已删除，保留“站内提供赛事与赛道页面”一条。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "www.nyrr.org/tcsnycmarathon 请求被 302 到含 queueittoken 的等待页，prod 主机可读正文；站内确有 race/course 页面。"
+    }
+  ]
 }

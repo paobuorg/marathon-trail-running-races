@@ -21,5 +21,97 @@
     "There is a 31-hour live broadcast on the event's YouTube channel.",
     "Training runs are offered in late May during Memorial Day weekend."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 复核：本次直接读取 FAQ 全文并逐条比对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Runners → What airport should I use and where should I stay?"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Runners → What airport should I use and where should I stay?"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Runners → If I need to get back to the start after I finish the race how would I do that?"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Entry → Do I need a qualifier to enter the lottery?"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Lottery → Who can attend the lottery and where is it?"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Volunteers and Spectators → Where can I go to view the race as a spectator?"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Volunteers and Spectators → Olympic Valley Start 条"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Volunteers and Spectators → Robinson Flat Checkpoint 条"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Volunteers and Spectators → Robinson Flat Checkpoint 条：FAQ 写 1:50 PM cutoff；Aid Stations 页 Checkpoint 表 Robinson Flat 行为 2:10pm。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Volunteers and Spectators → Foresthill Checkpoint 条"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Volunteers and Spectators → Placer HS Stadium Finish 条"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Volunteers and Spectators → As a spectator, can I walk out on the trail during the race?"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Volunteers and Spectators → Is there a live broadcast of the race?"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Runners → Are there training runs offered?"
+    }
+  ]
 }

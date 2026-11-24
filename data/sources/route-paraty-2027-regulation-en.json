@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-paraty-2027-regulation-en",
+  "title": "Paraty Brazil by UTMB 2027 竞赛规程（英文版）",
+  "url": "https://paraty.utmb.world/newreg",
+  "publisher": "Paraty Brazil by UTMB / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "英文版把医疗证明截止日期写成 2027-08-30，与葡语原文的 2027-08-31 相差一天。",
+    "英文版同样写明原文为葡萄牙语，出现不一致时以葡语版为准。",
+    "英文版的时间限制、外部支援点与存包规则与葡语原文一致。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "英文版用于与葡语原文逐条对照，不作为冲突时的口径。",
+    "checkedVia": "https://paraty.utmb.world/newreg"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "英文原文：『...upload... by August 30, 2027』；葡语原文为 31 de agosto de 2027。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "英文原文保留『The original version of these rules is written in Portuguese... the Portuguese version shall prevail』。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "英文版的 30h / 16h30 / 9h / 6h / 4h30 / 2h30 / 2h、Taquari 与 Trutaria Rio Manso 外部支援点、两个存包与终点 2027-09-26 12:00 截止均与葡语版一致。" }
+  ]
+}

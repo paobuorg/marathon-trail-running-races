@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-vmm-official-home",
+  "title": "Vietnam Mountain Marathon — official home page (English)",
+  "url": "https://vietnamtrailseries.com/mountain-marathon/",
+  "publisher": "Vietnam Trail Series / Topas",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The English home page says '2027 race dates: to be updated' and lists six distances: 10km, 21km, 50km, 70km, 100km and 100 miles.",
+    "The page states that VMM is part of World Trail Majors, described as a non-profit alliance of 10 emblematic events.",
+    "The event has been organised since 2013, welcomes over 4,000 runners from up to 50 countries and finishes at Topas Ecolodge.",
+    "The page says the Vietnam Trail Series has raised over USD 570,000 for good causes.",
+    "The 100 miles distance is described as 161 km with 8,800 m of gain and as Vietnam's oldest miler."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "英文主页本次读取显示 2027 dates TBD；旧域名 vietnammountainmarathon.com 同日仍显示 2026 年 9 月 17–20 日，两处并列。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页面首行日期 '2027 race dates: to be updated'；DISTANCES 段列 10km/21km/50km/70km/100km/100 miles" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "PART OF WORLD TRAIL MAJORS 段：non-profit alliance of 10 emblematic events" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Organised since 2013；over 4,000 runners from up to 50 countries；FINISH LINE 段 Topas Ecolodge" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "GIVING BACK 段：raised over USD570,000" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "100 miles 段：161km and 8,800m；Vietnam's oldest miler" }
+  ]
+}

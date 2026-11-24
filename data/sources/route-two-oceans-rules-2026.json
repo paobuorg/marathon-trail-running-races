@@ -1,0 +1,31 @@
+{
+  "sourceId": "route-two-oceans-rules-2026",
+  "title": "Rules & Regulations of the Totalsports Two Oceans Marathon 2026 — rule 6.13 seconding",
+  "url": "https://media.twooceansmarathon.org.za/wp-content/uploads/2025/09/11165437/RULES-2026.pdf",
+  "publisher": "Two Oceans Marathon NPC",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Rule 6.13 states that the no mobile seconding rule will be strictly enforced, and that no seconds may drive, cycle or run alongside any athlete on the route.",
+    "The same rule applies a stand-and-hand rule: an athlete's seconds may stand at any refreshment station on the route and hand refreshments to their athlete while they remain stationary.",
+    "The rule adds that no seconds may travel on the race route, and that seconding may not be conducted directly from a vehicle, whether moving or stationary.",
+    "The official FAQ says the well-stocked refreshment stations should be adequate, but supporter points will be allowed, and asks supporters not to leave a mess.",
+    "The official FAQ states that non-entrants are not permitted to run on the route.",
+    "Rule 6.4 says ultra marathon athletes are seeded into starting batches based on their submitted qualifying times, and that gun-to-mat or mat-to-mat qualifying times may be submitted if they appear in the official results of the qualifying event."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 读取官网 2026 规则 PDF 的 6.4 与 6.13 条（经搜索缓存补全 PDF 后半段），并直取官网 FAQ 的 seconding 与陪跑问答；2027 规则尚未发布，正文按 2026 版引用并标注届次。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'The no mobile seconding rule will be strictly enforced.No seconds may drive, cycle or run alongside any athlete on the route.'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'The stand and hand rule, whereby an athlete's seconds may stand at any refreshment station on the route and hand refreshments to their athlete while they remain stationary, will apply.'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'No seconds may travel on the race route.Seconding may not be conducted directly from a vehicle, whether moving or stationary.'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "FAQ：'The well stocked refreshment stations should be adequate; however, supporter points will be allowed. Please do not leave a mess!'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "FAQ：'No. Non-entrants are not permitted to run on the route.'" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "规则 6.4：'Ultra Marathon athletes will be seeded... based on their qualifying times submitted'；'Gun to Mat (gross), or Mat to Mat (net) qualifying times may be submitted, provided such times are included in the official results'。" }
+  ]
+}

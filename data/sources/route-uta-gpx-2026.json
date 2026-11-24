@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-uta-gpx-2026",
+  "title": "UTA100 GPX linked from the 2027 race page — file header and measurements",
+  "url": "https://pdf.utmb.world/raw/upload/v1776334050/uta/Races/2026%20RACE%20ALIGNMENTS/uta_100k_cleaned_livetrail_f81c7a5085.gpx",
+  "publisher": "UTMB World Series / LiveTrail",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The GPX URL sits in a folder named '2026 RACE ALIGNMENTS' and the file is named uta_100k_cleaned_livetrail_f81c7a5085.gpx, while the page that links it is the 2027 UTA100 page.",
+    "The GPX creator is 'LiveTrail' and the version is 1.1; the metadata name is 'LiveTrail Race', the metadata copyright author is 'LiveTrail®' with a link to https://livetrail.run, and there is no metadata time element.",
+    "The file contains 5,984 track points in one track segment, no waypoints and no track name.",
+    "The first point is at -33.72879, 150.30047 at 960 m and the last point is at -33.72878, 150.30045 at 956.5 m, so the route starts and finishes at the same place.",
+    "Measured locally from the track points, the horizontal distance is 100.108 km and the three-dimensional distance including elevation is 101.446 km.",
+    "Raw positive and negative elevation change are 4,497 m and 4,500 m; applying a 3 m threshold gives 6,082 m of positive gain because the elevation series is noisy.",
+    "The highest point in the file is 1,071.5 m at about 10.53 km and the lowest is 220 m.",
+    "The last value of the per-point <extensions><distance> field is 101,106 m, which is the file's own cumulative distance."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 gpxUrl（页面嵌入 JSON 的 track.gpxUrl），读文件头并逐点计算 2D/3D 距离与升降；文件 992,983 字节"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "gpxUrl 路径含 /2026%20RACE%20ALIGNMENTS/；同名文件；来源页面为 /races/UTA100（2027）" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "文件头：creator=\"LiveTrail\" version=\"1.1\"；<metadata><name>LiveTrail Race</name>；<copyright author=\"LiveTrail®\"></copyright>；<link href=\"https://livetrail.run\">；无 <time>" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "统计 <trkpt> 5,984 个、<trkseg> 1 个、<wpt> 0 个；<trk> 下无 <name>" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "首末点读取；两点间直线距离不足 2 m" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "本地脚本 haversine 累加：2D 100.108 km；逐段叠加高程差 101.446 km" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "原始正负变化 4,497 / 4,500 m；3 m 滞回阈值正爬升 6,082 m（高程序列存在逐点抖动）" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "逐点排序：ele 最大 1071.5，累计距离约 10.53 km；最小 220" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "最后一个 trkpt 的 <distance> 101106；首点 0；共 5,984 个 distance 值" }
+  ]
+}

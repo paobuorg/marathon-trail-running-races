@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-mds-legendary-2027-access",
+  "title": "MDS Legendary 2027 — flights, Marrakech–Ouarzazate transfers and return",
+  "url": "https://marathondessables.com/en/event/mds-legendary-2027",
+  "publisher": "Marathon des Sables",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "Transfers to Ouarzazate are organised from Marrakech on 31 March and 1 April; participants can also fly directly to Ouarzazate and reach their hotel on their own.",
+    "The return bus from Ouarzazate to Marrakech leaves at 06:00 on 12 April; a return flight from Marrakech should be booked after 14:00.",
+    "Participants book their own Ouarzazate hotel nights according to arrival date; the event's local travel partner can assist."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web search result + official Legendary 2027 page",
+    "note": "Official Legendary 2027 page read; this is the April event, not the October MDS 120."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Transfers on 31 March and 1 April; direct Ouarzazate arrival own transfer."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Return bus 06:00 on 12 April; book flight after 14:00."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Hotel nights at participant's expense; local travel partner."
+    }
+  ]
+}

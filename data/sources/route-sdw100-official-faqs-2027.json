@@ -1,0 +1,39 @@
+{
+  "sourceId": "route-sdw100-official-faqs-2027",
+  "title": "SDW100 2027 FAQs — official",
+  "url": "https://centurionrunning.com/races/south-downs-way-100-2027/section/faqs",
+  "publisher": "Centurion Running",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The FAQ describes a 100 mile course with 12,700 feet of gain, ascents and descents of no more than 800 feet in any one climb, and a surface split of about 85% trail and 15% road.",
+    "The qualification answer says a minimum 50 mile race within 15 hours between 1 January 2021 and race day.",
+    "The entry answer says general entries open on Sunday 19 July 2026 at 1900 and 'There will be no waiting list for this event.'",
+    "The aid station answer says 'There will be 13 aid stations including the finish.'",
+    "Runners need a different drop bag for each of Washington, Housedean Farm and the finish, and each bag must not exceed 50 cm x 30 cm x 30 cm.",
+    "Pacers are permitted from the Kithurst Hill crew point at mile 50, the first checkpoint from which runners may be paced is Washington, multiple pacers may be used over the last 50 miles but only one may travel with the runner at a time, and the finishing track lap is the exception.",
+    "The mandatory kit answer lists a charged mobile phone, at least 1 litre of water capacity, a 1.4 m x 2 m survival blanket, a waterproof jacket of 10000 mm or more with sealed seams, a whistle, a 100 lumen headtorch and backup from Washington, a dry long-sleeved base layer and a cup, with a one hour penalty for any missing item.",
+    "There are 95 gates or stiles on the route, road crossings are not marshalled, and gates must be closed after passing.",
+    "The FAQ repeats the instruction not to recce the first 5 miles around Matterley Estate because it is entirely private land.",
+    "The awards answer gives a '100 miles - One Day' buckle for finishes under 24 hours, a '100 miles - Finisher' buckle for 24 to 30 hours, a 500 Mile buckle for five finishes and a 1000 mile buckle for ten finishes."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接抓取并读取该页全文。FAQ 与主页在资格起算年份、waiting list 和补给站数量上不一致，逐条照录。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "How tough is the course 段：'100 miles... 12,700 feet of gain'；'ascents and descents do not exceed 800 feet in any one climb'；'85% of each course is on trail and around 15% on the road'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Qualification 段：'within 15hrs, between 1st January 2021 and race day'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Entries 段：'General Entries open on Sunday July 19th 2026 at 1900'；'There will be no waiting list for this event.'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "How many aid stations 段：'There will be 13 aid stations including the finish.'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "Drop bag 段：'different drop bag for each aid station (Washington, Housedean Farm, Finish)'；'must NOT exceed 50cm x 30cm x 30cm'" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "Pacers 段：'from Kithurst Hill Crew Point (mile 50)'；'first check point... is Washington'；'multiple pacers... only one may travel with the runner at any one time'；'finishing lap of the track' exception" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "Mandatory gear 段逐项照录；'A time penalty of one hour will be imposed for any item found to be missing'" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "Road crossings 段：'There are a total of 95 gates or stiles on the route.'；'road crossing will NOT be marshalled'；'All gates must be closed properly'" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "How do I get to the start 段：'do not... recce the first 5 miles around Matterley Estate, it is entirely on private land'" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "Prizes/awards 段：under 24 hours '100 miles - One Day' buckle；24–30 hours '100 miles - Finisher'；five editions 500 Mile；ten editions 1000 mile" }
+  ]
+}

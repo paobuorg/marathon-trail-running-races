@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-kodiak-prize-majors",
+  "title": "UTMB World Series Majors — prize money and Finals places",
+  "url": "https://chiangmai.utmb.world/majors",
+  "publisher": "UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "UTMB World Series Majors pay equal men's and women's prize money at 50K, 100K and 100M: €5,000 for first, €3,000 for second, €2,000 for third, €1,250 for fourth and €1,000 for fifth.",
+    "Each Major grants automatic UTMB World Series Finals places to the top 10 men and women in the 100M, 100K and 50K plus age-group winners; the four Majors allocate 210 places in total.",
+    "Kodiak is listed as the Americas Major alongside the European, Asia-Pacific and Oceania Majors."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 直读 UTMB Majors 页的 Prize Money 与 Finals places 两节；只取奖金结构与名额，不把页面中的赛事年份当 2027 日期。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "Prize Money 表：50K/100K/100M 均为 5,000 / 3,000 / 2,000 / 1,250 / 1,000 欧元" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "What is a Major 段：top 10 male/female in 100M/100K/50K、年龄组冠军、四个 Major 合计 210" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "Discover the four Majors 段：Americas Major 为 HOKA Kodiak" }
+  ]
+}

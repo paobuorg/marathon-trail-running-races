@@ -4,11 +4,65 @@
   "url": "https://www.wser.org/gps-info/",
   "publisher": "Western States Endurance Run Foundation",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-20",
   "claims": [
     "The GPS Info page links a GPX file for the 2027 course, including aid station waypoints, at https://www.wser.org/wp-content/uploads/gpx/WSER2027.gpx.",
     "The GPS Info page does not link a GPX file for the 2026 course.",
-    "The page lists crew-accessible coordinates for Duncan Canyon, Robinson Flat, Dusty Corners, Michigan Bluff, Foresthill, Rucky Chucky parking at Driver's Flat, Green Gate and Pointed Rocks."
+    "The page lists crew-accessible coordinates for Duncan Canyon, Robinson Flat, Dusty Corners, Michigan Bluff, Foresthill, Rucky Chucky parking at Driver's Flat, Green Gate and Pointed Rocks.",
+    "A HEAD request on 2026-11-20 returned HTTP 200, text/xml, 538,087 bytes; the GPX names the track 2027 WSER, credits GPS Visualizer as creator, and contains 22 waypoints and 6,000 trackpoints.",
+    "A local planar measurement of the 6,000 trackpoints gives 161.23 km against 100.2 mi = 161.256 km, a 0.03 km difference; at a 1 m elevation threshold the same points give +5,537 / −7,012 m, against the official 18,090 / 22,970 ft = 5,513.8 / 7,001.3 m, and a maximum of 2,651 m.",
+    "At a 3 m threshold the same file gives only +3,609 / −4,324 m, showing that the threshold choice, not the official text, explains most of the apparent climbing gap.",
+    "The file's own desc lists five changes from 2026: Shirley lift top by road, a new five-mile trail in Granite Chief, a Duncan Canyon exit change, Little Bald instead of N43, and an adjustment before Cal-1; the file is a 2027 course, not the 2026 raced geometry, and carries no copyright line or redistribution licence."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-08 直接读取 GPS Info 页面并核对链接与坐标列表；2026-11-20 HEAD 与下载一次 WSER2027.gpx，验证文件头、22 个航点、6,000 个轨迹点，做逐点平面距离与 1 m / 3 m 阈值升降测量后删除临时文件。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "GPS Info 第 1 段：href=/wp-content/uploads/gpx/WSER2027.gpx。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "GPS Info 第 1 段：页面只链接 WSER2027.gpx，未出现 2026 GPX 链接。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "GPS Coordinates for crew accessible aid stations 列表。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "HEAD https://www.wser.org/wp-content/uploads/gpx/WSER2027.gpx：200, text/xml, content-length 538,087；文件 <name>2027 WSER</name>，creator GPS Visualizer；wpt 22、trkpt 6,000。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "本地解析 6,000 个 trkpt；haversine 平面和 161.23 km；1 m 阈值 +5,537 / −7,012 m；最高 2,651 m；与官方 100.2 mi、18,090 / 22,970 ft 的换算值比较。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "同一文件的 3 m 阈值结果：+3,609 / −4,324 m；与 1 m 阈值并列，说明平滑假设的影响。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "GPX <desc> 原文五项：Top of Shirley lift take road instead of steep trail；New five mile trail in GC；Change the exit at Duncan Canyon AS to avoid steep shit；Little Bald instead of N43；Adjustment before Cal-1。文件无 copyright 行，无再分发许可。"
+    }
+  ]
 }

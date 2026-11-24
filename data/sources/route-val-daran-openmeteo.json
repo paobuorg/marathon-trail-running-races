@@ -1,0 +1,47 @@
+{
+  "sourceId": "route-val-daran-openmeteo",
+  "title": "Open-Meteo historical archive — Vielha grid point, 5–13 July 2015–2026",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=42.7012&longitude=0.7986&start_date=2015-07-05&end_date=2026-07-13&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Europe%2FMadrid",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The archive returned the grid point 42.7768 N, 0.7988 E at 967 m elevation for the 5–13 July window in each year from 2015 to 2026, a total of 108 days.",
+    "Daily maximum temperature over those 108 days ranged from 13.0 to 35.4 °C with a median of 24.3 °C; daily minimum ranged from 7.8 to 18.8 °C with a median of 14.5 °C.",
+    "Precipitation reached at least 1 mm on 53 of the 108 days and at least 5 mm on 19 days, with a maximum daily total of 25.1 mm.",
+    "The grid point is at 967 m, while the VDA track reaches 2,551 m, so the archive values do not represent conditions at the highest parts of the course."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 用 Open-Meteo archive API 实查并本地统计；原始响应见 .agent/valdaran/weather.json"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "API 返回 latitude 42.7768、longitude 0.79881656、elevation 967；2015–2026 共 12 年 × 9 天 = 108 行"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "本地统计：max 13.0–35.4，median 24.3；min 7.8–18.8，median 14.5"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "本地统计：≥1 mm 53 天，≥5 mm 19 天，最大 25.1 mm"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "网格点 967 m；track maxElevation 2551 m"
+    }
+  ]
+}

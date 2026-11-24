@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-canyons-2026-gpx",
+  "title": "2026 Canyons 100K official GPX — 100k Course Alternate",
+  "url": "https://pdf.utmb.world/raw/upload/v1776808248/canyons/2026/GPX%20Files/2026_Canyons_Endurance_Runs_by_UTMB_100k_Course_Alternate_877686b0ca.gpx",
+  "publisher": "UTMB World Series / Canyons Endurance Runs by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The official 2026 100K alternate GPX file is 333,185 bytes and contains 4,205 trkpt points.",
+    "Local haversine measurement over 3,904 unique points gives 98.427 km, from 1,529 m at China Wall to 387 m at Auburn, with a low point of 164 m.",
+    "Raw per-point elevation change totals +4,160 / -5,302 m; a 1 m threshold gives +3,973 / -5,077 m, while the official segmented CalTopo chart gives +3,698 / -4,746 m over 99.1 km.",
+    "The file carries no licence or redistribution statement."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 下载官方 GPX 做本地逐点测量，仅用于核验，不托管、不重绘、不再分发。",
+    "checkedVia": "https://canyons.utmb.world/races/100K"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "文件大小 333,185 bytes；正则匹配 <trkpt> 4,205 个。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "去重后 3,904 点；haversine 累计 98,427 m；首点 ele 1529，末点 387，最低 164。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "原始逐点 +4,159.9/-5,301.9 m；1 m 阈值 +3,972.7/-5,076.8 m；PDF 终点累计 +3,698/-4,746 m。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "XML 全文无 copyright/licence 字段。" }
+  ]
+}

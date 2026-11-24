@@ -1,0 +1,75 @@
+{
+  "sourceId": "route-chiang-mai-elephant100-gpx",
+  "title": "Elephant 100+Stations GPX (2026)",
+  "url": "https://pdf.utmb.world/raw/upload/v1790325225/thailand/GPX/2026/Elephant_100_Stations_ddf2a67ffb.gpx",
+  "publisher": "UTMB World Series / HOKA Chiang Mai Thailand by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The GPX file is a GPX 1.1 file created by 'GPS Track Editor' with track name 'Elephant 100+Stations' and description '25-9-2026'; it declares no copyright entry and no reuse licence.",
+    "The track contains 13,410 points, starting at 19.05267, 98.86267 and ending at 18.83102, 98.9675, 27.000 km apart, so the course is point to point.",
+    "The track measures 99.586 km in 2D and 101.065 km in 3D, against the 100 km published on the race page and the 101 km shown at the finish of the official time chart.",
+    "Elevation tags range from 319 m to 1,600 m, and raw positive elevation gain is 5,693 m, or 5,480 m with a 3 m threshold, against the published 5,500 m.",
+    "The file carries time stamps on its track points, from 2026-06-25T21:15:00Z at the first point, and these are not race times.",
+    "The file contains 9 waypoints matching the nine aid stations, each within 60 m of the track, whose projections fall between 0.11 km and 1.38 km behind the cumulative distances on the published time chart.",
+    "The waypoints A9 to A16 use the same coordinates as the corresponding waypoints in the Chiang Dao 160 GPX, and the two tracks share the same final point, so the courses overlap without the race pages stating how much.",
+    "Subtracting consecutive elevation tags gives a raw cumulative descent of 5,737 m over 13,410 points; the highest point is 1,600 m and the lowest is 319 m."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 从 ELEPHANT100 页的 DOWNLOAD GPX 链接下载原文件并用 .agent/chiangmai/parse2.py 解析；Haversine 半径 6371.0088 km；未做平滑或地图匹配"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "文件头 creator='GPS Track Editor' version='1.1'；trk/name='Elephant 100+Stations'；metadata/desc='25-9-2026'；无 copyright 节点"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "解析计数 13410 个 trkpt；首末点坐标；Haversine 首末距离 27.000 km"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2D 99.586 km；3D 101.065 km；竞速页 100 KM；时间图终点 101 km"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "ele 最小 319、最大 1600；raw gain 5693 m；3 m 阈值 5480 m"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首点 time='2026-06-25T21:15:00Z'；末点 time='2026-08-25T23:53:35.78Z'"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "9 个 wpt 偏移 2-60 m；投影 8.54/19.89/27.58/37.19/42.77/56.82/65.91/75.62/88.76 km，与时间图差值 -1.38 至 -0.11 km"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "A9-A16 两文件 wpt 坐标逐一比对相同；末点同为 (18.83102, 98.9675)；两个赛事页均未说明重叠区间"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 用官方 GPX 逐点相减复算：负向变化合计 5,737 m；ele 最小 319、最大 1,600。这是测量值，不是官方公布数字。"
+    }
+  ]
+}

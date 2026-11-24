@@ -10,5 +10,31 @@
     "Public buses from Hong Kong International Airport serve all of Hong Kong.",
     "Taxis are listed as a way to reach destinations from Hong Kong International Airport."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取香港国际机场 To & From Airport 概览页"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "概览：“Airport Express — The quickest way to and from the city”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "概览：“Public Buses — Bus routes servicing all of Hong Kong”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "概览：“Taxis — A flexible way to reach your destination”"
+    }
+  ]
 }

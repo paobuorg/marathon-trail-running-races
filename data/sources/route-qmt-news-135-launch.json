@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-qmt-news-135-launch",
+  "title": "A new race of 135 km, merging the QMT-100 miles and the QMT-110",
+  "url": "https://ultratrailcanada.com/en/a-new-race-of-135km-merging-the-qmt-100-miles-and-the-qmt-110/",
+  "publisher": "Québec Mega Trail / Ultra-Trail Canada",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The organiser announced that from 2025 a new 135 km race would merge the QMT100 Miles (160 km) and QMT110, start in Baie-Saint-Paul and finish at Mont-Sainte-Anne with a new section on the Sentier des Caps through Cap Brûlé.",
+    "The announcement gives 6,000 m of gain, a cut-off set at 32 hours and 10 aid stations for the new race.",
+    "The announcement says the new race would join the World Trail Majors in place of the 100 miles, be a Western States 100 qualifier and earn finishers 5 ITRA points."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接读取官方新闻页。页面未标发布日期，正文写 2025 届起实施。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "正文：will appear from the 2025 edition；QMT-100 MILES (160 km) and the QMT-110 will thus be merged；start Baie-Saint-Paul；finish Mont-Sainte-Anne；new section in the Sentier des Caps passing through Cap Brûlé" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "正文：6,000 meters of elevation gain；The cut off time will be set at 32 hours；10 aid stations" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "正文：part of the World Trail Majors, taking the place of the 100 miles；a qualifier for the Western States 100；5 ITRA points" }
+  ]
+}

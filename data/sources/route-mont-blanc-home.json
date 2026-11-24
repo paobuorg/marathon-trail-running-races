@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-mont-blanc-home",
+  "title": "Mont-Blanc Marathon — official homepage",
+  "url": "https://www.marathondumontblanc.com/en/",
+  "publisher": "Club des Sports de Chamonix (organiser)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2027 event runs from 24 to 27 June 2027 in Chamonix.",
+    "The Mont Blanc Marathon is organised by the Club des Sports de Chamonix, a non-profit organisation founded in 1905.",
+    "Under the name 'Marathon du Mont-Blanc', eight races open to participants aged 7 and over are held on the trails around Chamonix in the Mont-Blanc massif.",
+    "Registration for the 2027 Mont Blanc Marathon is scheduled to open in November 2026 in several phases; the detailed schedule and procedures were still to be published.",
+    "The Sunday 27 June 2027 programme gives the women's elite 42 km start at 06:45, the men's elite 42 km start at 07:15 followed by non-elite runners, first 42 km finishers at 10:45 and the 42 km awards at 17:00."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取赛事官网英文首页全文，抄录 2027 日期、组织方、八项赛事、2027 报名开放时间与周日 42 km 出发程序。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'From June 24 to June 27, 2027'；'See you in Chamonix from June 24 to 27, 2027'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'organized by the Chamonix Sports Club, a nonprofit organization founded in 1905'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'Under the name \"Marathon du Mont-Blanc\" eight races open to participants ages 7 and up'。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'Registration for the 2027 Mont Blanc Marathon is scheduled to open in November 2026... several phases'。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "'6:45 a.m.: Start of the women's elite race for the 42 km Mont-Blanc'；'7:15 a.m.: Start of the men's elite race... followed by non-elite runners'；'10:45 a.m.: First runners to finish'；'5:00 p.m.: Awards ceremony... 42km'。" }
+  ]
+}

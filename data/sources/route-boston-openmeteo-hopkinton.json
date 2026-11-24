@@ -12,5 +12,13 @@
     "Six of the nine days recorded at least 1 mm of precipitation and two recorded at least 5 mm.",
     "On 20 April 2026 the grid shows a maximum of 9.8°C, a minimum of 0.3°C, 0.1 mm precipitation and maximum wind of 17.6 km/h."
   ],
+  "claimVerification": [
+    {"index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "JSON 返回 latitude 42.21441、longitude -71.57895、elevation 134，日期 2026-04-13 至 2026-04-21。"},
+    {"index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "逐日 temperature_2m_max 排序后最小 9.8、最大 28.5，中位 19.2。"},
+    {"index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "逐日 temperature_2m_min 排序后最小 -1.6、最大 14.0，中位 6.9。"},
+    {"index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "precipitation_sum ≥1 mm 的有 6 天（13、14、15、16、17、19 日），≥5 mm 的有 2 天（17、19 日）。"},
+    {"index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "2026-04-20：max 9.8、min 0.3、precipitation 0.1、wind_speed_10m_max 17.6。"}
+  ],
+  "verification": {"access": "direct", "bodyRead": true, "checkedAt": "2026-11-08", "checkedVia": "curl.exe 调用 archive-api.open-meteo.com 并读取 JSON", "note": "HTTP 200，返回 9 天逐日数据，可复算极值与中位数。"},
   "license": "CC-BY-4.0"
 }

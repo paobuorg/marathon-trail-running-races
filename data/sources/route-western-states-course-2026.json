@@ -23,5 +23,109 @@
     "Much of the territory is accessible only by foot, horse or helicopter.",
     "Approximately 1,500 volunteers help at each Western States Endurance Run."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 复核：本次直接读取 Course Description 正文并逐条比对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course Description 第 1 段：原文：starting at Olympic Valley, California, and ending in Auburn, California."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course Description 第 1 段：原文为 on Saturday of the last full weekend in June；claim 多一个 the，语义一致。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course Description 第 1 段：原文：no later than 10:59:59 a.m. on the following day。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course Description 第 2 段：原文为 first 4½ miles，4.5 miles 为同一数值。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course Description 第 2 段：原文：climbing another 15,540 feet and descending 22,970 feet。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course Description 第 1 条 Course Route"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course Description 第 2 段：原文：stretches from Salt Lake City, Utah, to Sacramento, California。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course Description 第 4 条 Weather"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course Description 第 5 条 River Crossing"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course Description 第 6 条 Wilderness"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course Description 第 3 条 After Dark"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course Description 第 8 条 Drops"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course Description 第 8 条 Drops"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course Description 第 7 条 Trail Markings"
+    },
+    {
+      "index": 14,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course Description 第 2 段：原文：MUCH OF THIS TERRITORY IS ACCESSIBLE ONLY BY FOOT, HORSE OR HELICOPTER。"
+    },
+    {
+      "index": 15,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course Description 第 10 条 Volunteers"
+    }
+  ]
 }

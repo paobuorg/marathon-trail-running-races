@@ -1,0 +1,82 @@
+{
+  "sourceId": "route-val-daran-event-2026",
+  "title": "HOKA Val d'Aran by UTMB 2026 — sixth-edition race report and race cards",
+  "url": "https://valdaran.utmb.world/news/CierreHOKAValDaranByUTMB26",
+  "publisher": "HOKA Val d'Aran by UTMB / UTMB World Series",
+  "publishedAt": "2026-07-05",
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2026 edition was the sixth edition, with 6,935 participants from 91 nationalities across eight race formats.",
+    "The 2026 VDA marked the return of the original 163 km / 10,000 m+ course after three years in which weather conditions prevented it from taking place; Santos Gabriel Rueda won in 21:32:05.",
+    "The 2026 CDH was 110 km, started in Les at 06:00 with 1,301 runners, and was won by Gautier Bonnecarrere in 12:08:55.",
+    "The 2026 PDA was 55 km / 3,300 m+, started in Salardú at 07:00 with 1,737 runners, and was won by Luca del Pero in 5:23:25.",
+    "The 2026 TDL debuted as a 75 km race with 733 runners; Adrien Jacques and Gemma Arenas were its first winners.",
+    "The 2026 EXP was 32 km, started in Vielha at 08:00 with 1,151 participants, and was won by Joel Santamaría in 2:58:43.",
+    "The 2026 SKY was 18 km / 900 m+ on a new course, started at Pla de Beret at 10:00 with 969 runners, and was won by Jan Torrella in 1:20:16.",
+    "The 2026 Vielha 10K had 600 participants; the race report gives 600 m of gain while the event home page gives 500 m.",
+    "The 2026 event home page race cards give VDA 163 km / 10,000 m+, CDH 110 km / 6,400 m+, TDL 75 km / 5,100 m+, PDA 55 km / 3,300 m+, EXP 32 km / 2,100 m+, SKY 18 km / 900 m+ and Vielha 10K 10 km / 500 m+."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取赛事 2026 赛报全文与首页赛事卡"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "赛报开头：sixth edition；With eight race formats and 6,935 participants；91 nationalities"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "赛报：return of the original VDA course, which had been unable to take place over the previous three years due to weather；163 kilometres / 10,000 metres；21:32:05"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "赛报：CDH started 6:00 a.m. in Les；110 kilometres；1,301 runners；12:08:55"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "赛报：PDA 7:00 a.m. from Salardú；1,737 runners；55 kilometres and 3,300 metres；5:23:25"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "赛报：TDL debut；75-kilometre；733 runners；Adrien Jacques and Gemma Arenas first-ever winners"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "赛报：EXP started 8:00 a.m. from Vielha；1,151 participants；2:58:43"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "赛报：SKY at Pla de Beret 10:00 a.m.；969 runners；18 km / 900 m；new course；1:20:16"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "赛报：Vielha 10K 600 participants；600 metres of elevation gain；首页赛事卡写 500 M+"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首页 Discover the races 赛事卡逐项读取：VDA 163/10000、CDH 110/6400、TDL 75/5100、PDA 55/3300、EXP 32/2100、SKY 18/900、10K 10/500"
+    }
+  ]
+}

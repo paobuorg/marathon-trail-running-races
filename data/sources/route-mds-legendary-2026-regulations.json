@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-mds-legendary-2026-regulations",
+  "title": "MARATHON DES SABLES LEGENDARY 40e édition — règlement 2026",
+  "url": "https://registration.marathondessables.com/fr/regulations-and-terms-legendary-2026",
+  "publisher": "Atlantide Organisation Internationale / Marathon des Sables",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 40th edition runs from 3 to 13 April 2026 in the Sahara, covers about 250 km, is run in food self-sufficiency, and requires every competitor to carry their food and mandatory equipment.",
+    "Stages 1, 2, 3, 5 and 6 have a maximum allowed time of about 10 hours; stage 4 is the long stage, 65 to 90 km, partly at night, with a maximum allowed time of 32 hours.",
+    "At each stage finish every competitor receives 5 litres of water; the next water supply is at the first checkpoint of the following stage.",
+    "Checkpoints vary from two to eight per stage, are compulsory, supply water and have medical support.",
+    "Competitors must carry at least 12,000 kcal in total, or 2,000 kcal per race day; there is no calorie minimum on the last race day.",
+    "Mandatory equipment and personal effects must weigh between 6.5 kg and 15 kg excluding daily water; the list includes a 20 L backpack, sleeping bag, 400-lumen headlamp with spare batteries, at least 1.5 L of water-carrying capacity, compass, whistle, metal knife, survival blanket, signal mirror, sunscreen and two bouillon cubes per day.",
+    "Gas stoves are forbidden.",
+    "During the race the organisation takes charge of no item contained in a competitor's backpack.",
+    "The medical team is specialised in sports and tropical medicine, works on the course, at checkpoints and at stage finishes, and can withdraw the bib of any competitor unfit to continue.",
+    "In a sandstorm that leaves no visibility, competitors must stop on the course axis and wait for instructions from the race marshals.",
+    "April temperatures are given as an average of 30°C by day and 14°C at night, described as indicative only.",
+    "Any outside assistance is prohibited; food or water assistance can lead to a penalty of at least three hours or exclusion.",
+    "The exact route remains secret until the roadbook and route map are handed over on 3 April 2026.",
+    "Registration packages include transfers between Marrakech airport and Ouarzazate and then between Ouarzazate and the bivouac, plus two hotel nights in Ouarzazate after the race."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "桌面 UA 直连抓取 https://registration.marathondessables.com/fr/regulations-and-terms-legendary-2026，HTML 转纯文本后逐条核对 ART. 2、6、7、11、12、13、16、17、19、21、24",
+    "note": "2026-11-08 读取。这是 2026 年第 40 届规程，不是 2027 规程。规程写「10 heures (environ)」，与官方 2026 live 页的精确最晚到达时间并不完全一致（例如 Stage 2 为 06:00→17:35，即 11 h 35 m）；本页把两套官方数字并列，不平均、不互相覆盖。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "ART. 1：03 au 13 avril 2026, Sahara；ART. 2：par étapes, en autosuffisance alimentaire, 250 kilomètres environ, obligation de porter son équipement。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "ART. 11：Étape 1, 2, 3, 5 et 6 à parcourir en un temps maximum autorisé de 10 heures (environ)。ART. 12：Étape 4, dite étape longue - entre 65 et 90km, à parcourir en partie de nuit et en un temps maximum autorisé de 32 heures。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "ART. 16：À l'arrivée de l'étape, chaque concurrent se voit remettre 5 litres d'eau；le prochain approvisionnement en eau se fera sur le premier CP de l'étape du lendemain。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "ART. 13：postes de contrôles ... varient de deux à huit suivant la distance de l'étape ... approvisionnement en eau ... assistance médicale présente à chaque poste。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "ART. 24：12 000 k/calories minimum soit 2 000 k/calories par jour de course；Il n'y a pas de minimum calorique imposé le dernier jour de course。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "ART. 24：poids global minimum de 6,5 kg et maximum de 15 kg，不含每日用水；清单含 sac à dos WAA ULTRA BAG 20L、sac de couchage、lampe frontale 400 lumens、1.5 litres d'eau minimum、boussole、sifflet、couteau lame métal、couverture de survie、miroir、crème solaire、2 cubes bouillon/jour。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "ART. 24：Les réchauds à gaz sont formellement interdits。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "ART. 7：Pendant la course, aucun objet de votre sac à dos ne sera pris en charge par l'organisation。" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "ART. 17：équipe médicale spécialisée en médecine sportive et tropicale；véhicules d'assistance；fixe aux postes de contrôles et à l'arrivée；habilités à retirer les dossards et à mettre hors course。" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "ART. 21：En cas de vent de sable ne permettant aucune visibilité, chaque concurrent devra stopper sur l'axe du parcours et devra attendre les instructions des commissaires de course。" },
+    { "index": 10, "status": "supported", "checkedAt": "2026-11-08", "note": "ART. 21：Température AVRIL moyenne jour 30°, moyenne nuit 14°；Les températures sont indiquées à titre indicatif。" },
+    { "index": 11, "status": "supported", "checkedAt": "2026-11-08", "note": "ART. 19：toute assistance extérieure est rigoureusement interdite ... pénalité de 3 heures voire l'exclusion。" },
+    { "index": 12, "status": "supported", "checkedAt": "2026-11-08", "note": "ART. 23：Le parcours exact restera secret et ne sera dévoilé qu'au moment de la remise du roadbook et de la carte du parcours, le 03 avril 2026。" },
+    { "index": 13, "status": "supported", "checkedAt": "2026-11-08", "note": "报名套餐页：Transferts entre l'aéroport de Marrakech et Ouarzazate puis entre Ouarzazate et le bivouac；2 nuits d'hôtel en chambre double demi-pension à Ouarzazate après la course (hôtel classique ou supérieur)。" }
+  ]
+}

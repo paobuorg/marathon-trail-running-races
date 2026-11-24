@@ -12,5 +12,43 @@
     "No disposable utensils will be provided, so runners need their own utensils to use the food and drink at checkpoints.",
     "Recommended items include spare clothing, spare batteries, a power bank, sunscreen, a cap, spare socks, a first aid kit and an Octopus card for public transport and vending machines."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://hk100ultra.com/gear/ 正文"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Mandatory Gear 列表：mobile phone / headlamp / whistle / emergency space blanket / 1 litre water / 2 energy bars / ziploc bag / race bib / some cash"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Mandatory Gear 脚注：“applicable to The Half and HK100 (100 km). For The Third a light is optional”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Mandatory Gear 脚注：“random gear checks… time penalty to disqualification”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Recommended items：“Utensils… No disposable utensils will be provided”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Recommended items 列表：spare clothing / spare batteries / power bank / sunscreen / cap / spare socks / first aid kit / Octopus card"
+    }
+  ]
 }

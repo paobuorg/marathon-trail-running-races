@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-miut-results",
+  "title": "MIUT official results archive",
+  "url": "https://miutmadeira.com/results/",
+  "publisher": "MIUT – Madeira Island Ultra-Trail / Clube de Montanha do Funchal",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2026 edition is labelled the 17th edition and its Legend winners are Vincent Esmiol in 12:48:03 and Katharina Hartmuth in 14:54:59.",
+    "The 2026 results list five races named Legend, Advanced, Discover, Marathon and Starter.",
+    "The 2025 edition is labelled the 16th edition and its flagship is still named MIUT 115 over Porto Moniz–Machico, with winners Paul Cornut-Chauvic in 12:54:52 and Katie Schide in 14:20:56; the other races are MIUT 85, MIUT 60, MIUT 42 and MIUT 16.",
+    "The 2024 edition is labelled the 15th edition and uses the same MIUT 115, MIUT 85, MIUT 60, MIUT 42 and MIUT 16 names.",
+    "The date line under the 2026 heading reads 26/04/2025, so the results page itself carries a year inconsistency."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官方 results 页，读取 2026 / 2025 / 2024 三个届次的组别名、冠军与成绩；只用于组别名与距离口径的跨届对照，不把冠军成绩当作赛道数据"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "2026 – 17th Edition 段：MIUT Legend，Vincent Esmiol 12:48:03，Katharina Hartmuth 14:54:59" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "同段依次列 MIUT Legend、MIUT Advanced、MIUT Discover、MIUT Marathon、MIUT Starter" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "2025 – 16th Edition 段：MIUT 115 (Porto Moniz-Machico)；MIUT 115 / 85 / 60 / 42 / 16；冠军与成绩照录" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "2024 – 15th Edition 段组别名与 2025 相同" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "2026 标题下的日期行为 26/04/2025，与 17th Edition 标题不一致" }
+  ]
+}

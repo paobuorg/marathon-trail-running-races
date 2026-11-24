@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-wildstrubel-official-110",
+  "title": "Wild 110 Crans-Montana — Wildstrubel by UTMB 2027",
+  "url": "https://wildstrubel.utmb.world/races/wild-110",
+  "publisher": "UTMB World Series / Wildstrubel by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "Wild 110 is 113 km with 6,600 m of gain, starts at Crans-Montana on Friday 10 September 2027 at 23:00 and has a 30-hour limit.",
+    "The course table gives cumulative distances to Varneralp 12.9, Leukerbad 22.8, Gemmipass 27.5, Kandersteg 43.6, Ueschine 49.4, Adelboden 60.0, Sillerebüel 69.3, Lenk 78.0, Iffigenalp 86.4, Cabane Wildstrubel 92.1, Tseuzier 102.7 and Crans-Montana 113.7 km, while the page header gives 113 km.",
+    "The page publishes cut-offs at Leukerbad Sat 04:15, Kandersteg Sat 09:00, Adelboden Sat 14:15, Lenk Sat 19:30, Iffigenalp Sat 22:00 and Tseuzier Sun 04:00, and gives no separate finish cut-off beyond the 30-hour limit.",
+    "The race header shows 8 Running Stones while the explanatory text at the bottom of the same page says 4 Running Stones.",
+    "The page labels Finals Access as '100m-direct-entry-major' and describes the route over the Gemmi (2,268 m) and Rawyl (2,427 m) passes, with Cabane Wildstrubel at 2,800 m as the highest point."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取并读取英文 Wild 110 赛事页，包括页头数据、路线描述与时间表。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页头：Distance 113 KM、Elevation Gain 6600 M+、Start Date Friday 10th September 2027、Race Start Crans-Montana 23:00、Max Allowed Race Time 30 Hours" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "时间表累计里程逐项照录；终点一行为 113.7 km，页头为 113 KM，官方页内不一致" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "时间表只对 Leukerbad、Kandersteg、Adelboden、Lenk、Iffigenalp、Tseuzier 给出时刻；终点未单列关门，页头只给 30 小时" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "页头 Running Stones 8；页底段落写 'collect 4 Running Stones'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-09", "note": "页头 Finals Access 标为 100m-direct-entry-major；正文写 Gemmi 2,268 m、Rawyl 2,427 m、Cabane Wildstrubel 2,800 m" }
+  ]
+}

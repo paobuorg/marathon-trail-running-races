@@ -13,5 +13,50 @@
     "The first GENERALI BERLIN-MARATHON will take place on 26 September 2027, after Generali becomes title partner on 1 October 2026.",
     "The homepage links to the 2026 results at berlin.r.mikatiming.com/2026."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 https://www.generali-berlin-marathon.com/en/ → .agent/berlin-shanghai35/berlin-event.html",
+    "note": "首页正文可读，含 2026 成绩摘要与 2027 公告。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首页文案“One starting line. 42.195 kilometers.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Adola 2:02:50；Assefa 2:11:04。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Welday 2:08:25；Langerwisch 2:27:31。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Hug 1:23:28；Debrunner 1:35:01。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "新闻写 Generali 自 2026-10-01 成为冠名伙伴，首届 GENERALI 赛事 2027-09-26。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首页“See all results”链接 https://berlin.r.mikatiming.com/2026/。"
+    }
+  ]
 }

@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-patagonia-san-martin-lacar",
+  "title": "File:SAN MARTIN DE LOS ANDES LACAR.JPG",
+  "url": "https://commons.wikimedia.org/wiki/File:SAN_MARTIN_DE_LOS_ANDES_LACAR.JPG",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2006-03-15",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "A snow-capped conical peak across a lake, with a pebble beach and dark green trees in the foreground; the Commons description places the photograph in San Martín de los Andes, Lácar department, Neuquén. It is a location photograph, not a 2026 race-day photograph, and it does not show a start arch, finish gantry, bib, timing mat, aid table, course marking or race crowd.",
+    "Commons titles the file SAN MARTIN DE LOS ANDES LACAR.JPG. The route page uses it as San Martín de los Andes and Lácar lake context for the start/finish town; it does not show RCM4, the 2027 start line, Plaza San Martín or race-day conditions.",
+    "The Commons author field reads Alasmalko (Commons gives no machine-readable author; assumed from copyright claims); the file is marked public domain; the relevant date is 2006-03-15; the file page gives no camera coordinates; the original is 2,048 × 1,536 px; 463,037 bytes.",
+    "The route page uses a 960 × 720 px; 250,228 bytes copy without cropping or colour change and credits Alasmalko (Commons gives no machine-readable author; assumed from copyright claims), public domain, Wikimedia Commons; the resized copy keeps the same licence."
+  ],
+  "license": "Public-Domain",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons API metadata plus downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons API 与文件页核对作者、许可、日期、原图尺寸和（如有）坐标，并下载 960 px 副本目视确认：A snow-capped conical peak across a lake, with a pebble beach and dark green trees in the foreground; the Commons description places the photograph in San Martín de los Andes, Lácar department, Neuquén. 不是赛日现场，也不是赛道测绘照片。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地 960 px 副本可见：A snow-capped conical peak across a lake, with a pebble beach and dark green trees in the foreground; the Commons description places the photograph in San Martín de los Andes, Lácar department, Neuquén. 画面中没有号码布、拱门、计时毯、补给桌、赛道旗标或赛日人群。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons 标题为 SAN MARTIN DE LOS ANDES LACAR.JPG；文件描述与分类支持这一地点用途；正文只把它当环境照，不当赛道证据。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "文件页记录：作者 Alasmalko (Commons gives no machine-readable author; assumed from copyright claims)；许可 public domain；日期 2006-03-15; the file page gives no camera coordinates；原图 2,048 × 1,536 px; 463,037 bytes。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 × 720 px; 250,228 bytes；未裁剪、未改色；页面署名 Alasmalko (Commons gives no machine-readable author; assumed from copyright claims)、public domain、Wikimedia Commons。"
+    }
+  ]
+}

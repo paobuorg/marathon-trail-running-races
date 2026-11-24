@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-wildstrubel-place-geocoding",
+  "title": "Open-Meteo geocoding — Crans-Montana, Valais, Switzerland",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=Crans-Montana&count=3&language=en&format=json",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "Open-Meteo geocoding returns Crans-Montana, Valais, Switzerland at latitude 46.31316, longitude 7.47914, elevation 1,547 m.",
+    "The result is a town centroid, not the race start line or the finish area."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 调用 Open-Meteo geocoding API，取 Crans-Montana 的镇中心坐标作地图锚点。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "API 返回 latitude 46.31316、longitude 7.47914、elevation 1547.0、feature_code PPL" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "feature_code 为 PPL（populated place），不是赛道起终点测量点" }
+  ]
+}

@@ -1,14 +1,41 @@
 {
   "sourceId": "photo-london-2017",
-  "title": "File:London Marathon 2017 DSC06381 (33837861030).jpg (2026-11-07 check: host unreachable from this network; not re-verified)",
+  "title": "File:London Marathon 2017 DSC06381 (33837861030).jpg",
   "url": "https://commons.wikimedia.org/wiki/File:London_Marathon_2017_DSC06381_(33837861030).jpg",
   "publisher": "Wikimedia Commons",
-  "publishedAt": "2019-02-13",
+  "publishedAt": "2017-04-23",
   "accessedAt": "2026-11-06",
   "claims": [
-    "The file shows the leading men at the 2017 London Marathon.",
+    "The file shows a men's group, including a pacer, during the 2017 London Marathon.",
     "The uploader and author is Julian Mason, credited under CC BY 2.0.",
     "The file is licensed CC BY 2.0 (Creative Commons Attribution 2.0)."
   ],
-  "license": "CC-BY-2.0"
+  "license": "CC-BY-2.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe --proxy local 7890 proxy；Commons action=query imageinfo + w/thumb.php 缩略图",
+    "note": "2026-11-20 经本地 7890 代理读取 Commons 文件页、imageinfo API 与缩略图，确认作者、许可、拍摄日期和画面。此前 blocked 是本机直连不可达，不是文件不存在或没有许可。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    }
+  ]
 }

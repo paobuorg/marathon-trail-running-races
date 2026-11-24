@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-canyons-no-hands",
+  "title": "File:Mountain Quarries Bridge near Auburn, California, USA on 1 April 2017, ENE view.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Mountain_Quarries_Bridge_near_Auburn,_California,_USA_on_1_April_2017,_ENE_view.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2018-09-01",
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The image shows the Mountain Quarries Bridge, commonly known as No Hands Bridge, spanning a green river between rocky banks and wooded slopes near Auburn, California; two people are walking on the bridge deck.",
+    "The file title identifies the bridge as Mountain Quarries Bridge near Auburn, California; it contains no Canyons race or UTMB event context and is a location photograph, not race-day coverage.",
+    "The author is T71024, credited under CC BY-SA 4.0; the original file is 4,096 x 3,072 pixels and 4,633,389 bytes; the Commons date field is 2018-09-01.",
+    "The route page uses a 960 x 720 re-encoded Commons thumbnail of 336,358 bytes and credits the author and licence; attribution and share-alike are required."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons action=query imageinfo + thumbnail visual check",
+    "note": "2026-11-23 读取 Commons 文件页与 imageinfo，核对标题、作者、日期、许可、尺寸和画面；缩略图与文件描述一致。文件名字写 2017-04-01，Commons DateTimeOriginal 记 2018-09-01，本页以后者为准并注明差异。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Thumbnail shows the concrete arch bridge over a green river, rocky banks, wooded slopes and two people on the deck; the file title names Mountain Quarries Bridge near Auburn."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "The title and description place the bridge near Auburn, California; no Canyons, UTMB or race-day metadata appears."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "imageinfo: 4,096 x 3,072; 4,633,389 bytes; Artist T71024; CC BY-SA 4.0; DateTimeOriginal 2018-09-01."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Local file is 960 x 720 and 336,358 bytes after re-encoding; the Commons licence requires attribution and share-alike."
+    }
+  ]
+}

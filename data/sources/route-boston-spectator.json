@@ -21,5 +21,22 @@
     "The B.A.A. states that, for public safety, the route may be changed and the race may be paused or cancelled before or during the event.",
     "Hynes Convention Center station is noted as not suitable for accessible use."
   ],
+  "claimVerification": [
+    {"index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：“Hopkinton has been home to the start line since 1924.”"},
+    {"index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原文说明赛道 point to point，并提醒想在多个位置看同一位跑者要提前规划。"},
+    {"index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "城镇段落逐项给出相同英里边界；Boston 分 21.35–22.45 与 24.70–26.20 两段。"},
+    {"index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "道路关闭总表数值与 claim 完全一致（Hopkinton 7:00–1:30 … Boston 9:00–7:00）。"},
+    {"index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "城镇段落确实给出 Framingham 7:30–2:15、Wellesley 8:00–3:35、Brookline 8:00–6:00，与总表不同。"},
+    {"index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "页面按城镇列出全部七个通勤铁路站，并点名 Green Line 的 Woodland、Boston College、Cleveland Circle。"},
+    {"index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：“Newton Hills at miles 17.5 through 21”。"},
+    {"index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "原文把 Wellesley College 附近 Scream Tunnel 描述为 just before the halfway point。"},
+    {"index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：Family Meeting Area 在 Stuart Street，Berkeley 与 Clarendon 之间。"},
+    {"index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "四个车库与 Marathon Monday 上午关闭的说明均在页面。"},
+    {"index": 10, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：Tolles Parsons Center, 500 Washington Street, Wellesley, around mile 13.5。"},
+    {"index": 11, "status": "supported", "checkedAt": "2026-11-08", "note": "页面写明 No-Drone Zone，观众不得进入赛道或陪跑。"},
+    {"index": 12, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：出于公共安全，赛前或赛中可能改线、暂停或取消。"},
+    {"index": 13, "status": "supported", "checkedAt": "2026-11-08", "note": "原文注明 Hynes Convention Center 站不适合无障碍使用。"}
+  ],
+  "verification": {"access": "direct", "bodyRead": true, "checkedAt": "2026-11-08", "checkedVia": "curl.exe + HTML 转文本", "note": "HTTP 200；城镇分段、封路总表、交通与观赛规则均可读。"},
   "license": null
 }

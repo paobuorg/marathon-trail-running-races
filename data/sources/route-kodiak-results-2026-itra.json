@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-kodiak-results-2026-itra",
+  "title": "HOKA Kodiak Ultra Marathons by UTMB 2026 — 100M results",
+  "url": "https://itra.run/Races/RaceResults/Kodiak.100.Mile/2026/125357",
+  "publisher": "ITRA",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2026 Kodiak 100M was held on 9–10 October 2026 at Big Bear Lake, United States.",
+    "The ITRA 100M result table lists Cody Poskin 16:46:21, Alex Proctor 17:23:05, Max Jolliffe 18:15:45, Cornelio Ciprian 18:24:44, Matthieu Saliou 18:40:09, Cody Priest 18:43:02, Cory Fleming 19:37:55, Tony Rodriguez Cruz 19:39:21, Jose Nunez 20:01:54 and Christopher Harrington 20:30:51.",
+    "The first three women in the ITRA 100M table are Nichole Abma 20:43:40, Madeline Wighardt 22:05:50 and Charlotte Saunders 22:39:31; Abma is 11th overall.",
+    "The result table gives a finisher level of 430 for the 2026 100M."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 直接读取 ITRA 2026 Kodiak 100M 成绩表前两页；只取名次、姓名、时间、性别与总排名，不把 ITRA 的 finisher level 当成完赛人数。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "页头 Event Information：09 October 2026 to 10 October 2026，Big Bear Lake, United States" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "成绩表第 1–10 行逐条照录；姓名顺序与时间一致" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "第 11、16、20 行分别为 Abma、Wighardt、Saunders；女子前三按性别列读取" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "页头 Finisher level 430；不作为完赛人数引用" }
+  ]
+}

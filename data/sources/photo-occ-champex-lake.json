@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-occ-champex-lake",
+  "title": "File:Lac de Champex, Valais.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Lac_de_Champex,_Valais.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2026-10-31",
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The image shows Lake Champex in autumn, with reflections of larches and buildings on the water and the Dents du Midi in the background.",
+    "The Commons file title identifies Lake Champex in Valais; it contains no OCC, UTMB or race-day context and is a location photograph.",
+    "The author is Christian David (User:Espandero); the file is licensed CC BY-SA 4.0; the original is 7,398 x 4,932 pixels and 22.97 MB; the date is 2026-10-31; the file is a Commons Quality image.",
+    "The route page uses a 960 x 640 thumbnail of 172,348 bytes without cropping or colour change and credits the author, licence and source; attribution and share-alike are required."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons file page and downloaded 960 px thumbnail inspection",
+    "note": "2026-11-23 通过 Commons 文件页读取作者、日期、许可、原图尺寸与 Quality image 标记，下载 960 px 副本并目视核对湖面、落叶松倒影与背景山脊。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地缩略图可见湖面、秋季黄色落叶松、岸边建筑倒影与远处雪峰；画面不是赛日计时点。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Commons 文件名为 Lac de Champex, Valais；文件页没有 OCC 或 UTMB 赛事信息。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "文件页作者 Christian David（User:Espandero）；许可 CC BY-SA 4.0；原图 7,398 x 4,932、22.97 MB；日期 2026-10-31；Commons Quality image。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地文件 960 x 640、172,348 字节；未裁剪、未改色；页面署名 Christian David / CC BY-SA 4.0 / Wikimedia Commons。"
+    }
+  ]
+}

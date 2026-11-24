@@ -11,5 +11,18 @@
     "The official route notice gives the 42.195 km course and city road sequence.",
     "The 2026 official route notice follows Chang’an Avenue, Fuxing Road and Olympic West Road."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取官网首页HTML，并调用 homeIndex API(appKey=BJCN) → .agent/chicago-beijing35/beijing-home.html、beijing-home-api.json",
+    "note": "首页为SPA，正文由homeIndex接口返回；比赛地址与起跑时间可读，起终点细节需查官网赛事公告"
+  },
+  "claimVerification": [
+    {"index": 0, "status": "partial", "checkedAt": "2026-11-08", "note": "首页仅写matchaddress“北京天安门”、runStartTime 2026-10-18 07:30，无“东侧”；报名须知写起点天安门广场，路线经广场东侧路，起点示意图显示起点在广场东侧"},
+    {"index": 1, "status": "partial", "checkedAt": "2026-11-08", "note": "首页未写终点；官网报名须知与交通通告写明终点为“奥林匹克公园中心区景观大道”"},
+    {"index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "官网报名须知明确42.195公里，并列出完整城市道路顺序"},
+    {"index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "报名须知路线含东、西长安街，复兴门外大街/复兴路，以及奥林匹克西路"}
+  ]
 }

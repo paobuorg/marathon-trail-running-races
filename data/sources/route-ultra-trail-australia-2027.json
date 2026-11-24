@@ -1,0 +1,39 @@
+{
+  "sourceId": "route-ultra-trail-australia-2027",
+  "title": "HOKA Ultra-Trail Australia by UTMB 2027 — Entry Info",
+  "url": "https://uta.utmb.world/runners/entry-info",
+  "publisher": "USM Events Pty Ltd / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2027 event runs 13-16 May 2027, with distances listed as 100 miles, 100 km, 50 km, 22 km and 11 km, and the event hub at Scenic World, Katoomba NSW.",
+    "Start times are listed as UTA11 Thursday 13 May 1:00pm, UTAMiler Friday 14 May 5:00am, UTA22 Friday 6:40am, UTA100 Saturday 15 May 5:00am and UTA50 Saturday 5:05am, all marked subject to change.",
+    "Entry prices are UTAMiler $1170, UTA100 $620, UTA50 $420, UTA22 $260 and UTA11 $160, inclusive of processing fees and GST; general entries are sold out and charity bibs are available.",
+    "Key dates include 15 September 2026 for UTMB Index priority entries, 17 September 2026 for general entries, 28 March 2027 for the UTAMiler qualification cut-off and 13 May 2027 for entry transfers.",
+    "UTAMiler entrants must upload an official 50 km or longer trail result completed between 28 March 2025 and 28 March 2027 by 28 March 2027; a backyard ultra of 50 km or more (8 yards or more) is accepted, and entrants who do not meet the criteria are moved into UTA100.",
+    "UTA100, UTA50, UTA22 and UTA11 have no prerequisite of finishing another trail event, although the UTA100 page describes the course as fire trail, narrow walking tracks, steep staircases and ladders, creek crossings, rock and rough ground.",
+    "Race check-in requires photo ID and the mandatory gear or pre-inspection certificate before the race pack is issued.",
+    "Entry includes a race number with timing chip, drop bag service, event app, on-course medical support, stocked checkpoints, athlete t-shirt for UTAMiler/UTA100/UTA50/UTA22, tote bag, finisher medal, a UTA belt buckle for 'the chosen few', finisher gifts for UTAMiler and UTA100, a recovery area, and on-course photography purchased at registration or after the event.",
+    "Bibs may not be given to another person under the terms of entry, and the athlete withdrawal policy lists refund deadlines but no refunds after the final date.",
+    "UTMB Index holders get 48 hours of priority access from 11am AEST on 15 September 2026, with general entries from 11am AEST on 17 September 2026."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://uta.utmb.world/runners/entry-info，读取 RACE DATE / START TIMES / ENTRY PRICES / Key Dates / qualification 与 terms 段"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Entry Overview：RACE DATE: 13-16 May 2027；DISTANCES: 100 Miles, 100km, 50km, 22km, 11km；EVENT HUB: Scenic World, Katoomba NSW" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "START TIMES 段逐行读取，段首标 (subject to change)" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "ENTRY PRICES 表逐行；下方写 General entries are now sold out / Charity bib entries are now available" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "2027 Key Dates 表逐行读取" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "UTAMILER QUALIFICATION 段：50 km or longer between 28 March 2025 and 28 March 2027；Backyard Ultra 8 yards；otherwise automatically moved into the UTA 100" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "UTA100/50/22/11 段：no pre-requisite；course 描述逐项读取" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "ATHLETE CHECK-IN 段：photo ID 与 mandatory gear/pre-inspection certificate" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "ENTRY PRICES INCLUDE 列表逐项读取" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "Bib transfer 段 under no circumstance are you permitted to give your bib to another person；withdrawal 表列出各截止日" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "UTMB INDEX PRIORITY REGISTRATION 段：48-hour priority，11 AM AEST 15 September 2026；general 17 September 2026" }
+  ]
+}

@@ -43,5 +43,229 @@
     "Drop bags are collected on the Friday before the Run between 9:00 a.m. and 1:00 p.m. near the corner of Squaw Peak and Squaw Valley Road.",
     "Drop bags are returned to the Placer High School track and must be claimed by 3:00 p.m. Sunday."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 复核：本次直接读取 Aid Stations 正文与 Checkpoint 表并逐行比对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Aid Stations 首段"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Aid Stations 首段"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Aid Stations 第 4 段"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Aid Stations 第 2 段"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Aid Stations 第 2 段：原文列 GU ROCTANE Energy Gels 与 GU Liquid Energy Gels；claim 概括为 GU gels。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Aid Stations 第 3 段"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Aid Stations 第 5 段"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Aid Stations 第 6 段"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：Olympic Valley 行"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：Lyon Ridge 行：Cutoff 列为 10:30am*。"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：Red Star Ridge 行"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：Duncan Canyon 行"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：Robinson Flat 行"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：Miller's Defeat 行"
+    },
+    {
+      "index": 14,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：Dusty Corners 行"
+    },
+    {
+      "index": 15,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：Last Chance 行"
+    },
+    {
+      "index": 16,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：Devil's Thumb 行"
+    },
+    {
+      "index": 17,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：El Dorado Creek 行"
+    },
+    {
+      "index": 18,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：Michigan Bluff 行：Pacer Change 列为 After 8pm。"
+    },
+    {
+      "index": 19,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：Foresthill 行"
+    },
+    {
+      "index": 20,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：Dardanelles (Cal-1) 行：Cutoff 列为 2:40am*。"
+    },
+    {
+      "index": 21,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：Peachstone (Cal-2) 行"
+    },
+    {
+      "index": 22,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：Ford's Bar (Cal-3) 行：Cutoff 列为 5:00am*。"
+    },
+    {
+      "index": 23,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：Rucky Chucky 行"
+    },
+    {
+      "index": 24,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：Green Gate 行"
+    },
+    {
+      "index": 25,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：Auburn Lake Trails 行"
+    },
+    {
+      "index": 26,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：Quarry Rd 行"
+    },
+    {
+      "index": 27,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：Pointed Rocks 行"
+    },
+    {
+      "index": 28,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：Robie Point 行：Cutoff 列为 11:00am*。"
+    },
+    {
+      "index": 29,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Checkpoint 表：Placer High School 行"
+    },
+    {
+      "index": 30,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Notes 第 2 条"
+    },
+    {
+      "index": 31,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Notes 第 3 条：原文：*Cutoffs denoted with an asterisk are default cutoffs."
+    },
+    {
+      "index": 32,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Notes 第 4 条"
+    },
+    {
+      "index": 33,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Drop Bags 段"
+    },
+    {
+      "index": 34,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Drop Bags 段"
+    },
+    {
+      "index": 35,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Drop Bags 段"
+    }
+  ]
 }

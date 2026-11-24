@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-uta-weather",
+  "title": "Open-Meteo historical archive — Katoomba, 13-16 May, 2015-2026",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=-33.7288&longitude=150.3005&start_date=2015-05-13&end_date=2026-05-16&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Australia%2FSydney",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "For the Scenic World grid point at -33.7288, 150.3005 (model elevation 954 m), the 48 days of 13-16 May across 2015-2026 give daily maximum temperatures from 8.0 to 21.4 C with a median of 14.75 C.",
+    "The same 48 days give daily minimum temperatures from -3.4 to 10.8 C with a median of 3.9 C.",
+    "Precipitation reaches 1 mm on 10 of 48 days and 5 mm on 2 of 48 days, with a maximum daily total of 15.0 mm.",
+    "For a course high-point grid cell at -33.745, 150.315 with elevation set to 1,030 m, the same 48 days give daily maxima from 7.5 to 20.9 C (median 13.9 C) and minima from -2.7 to 10.6 C (median 4.15 C).",
+    "At that high-point cell, precipitation reaches 1 mm on 13 of 48 days and 5 mm on 4 of 48 days, with a maximum daily total of 14.9 mm."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 调用 Open-Meteo archive API，取 2015-05-13 至 2026-05-16 的 daily 数据，筛选每年 5 月 13-16 日共 48 天；高程点用 elevation=1030 参数做降尺度"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "返回 48 天；tmax 排序后 8.0 / 21.4，中位 14.75；grid elevation 954" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "48 天 tmin 排序后 -3.4 / 10.8，中位 3.9" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "precipitation_sum ≥1 mm 10 天；≥5 mm 2 天；最大 15.0 mm" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "elevation=1030 请求返回 tmax 7.5-20.9（中位 13.9）、tmin -2.7-10.6（中位 4.15）" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "同点 ≥1 mm 13 天；≥5 mm 4 天；最大 14.9 mm" }
+  ]
+}

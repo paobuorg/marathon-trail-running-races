@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-canyons-official-main-2026",
+  "title": "Canyons Endurance Runs by UTMB — main page (2026 edition)",
+  "url": "https://canyons.utmb.world/",
+  "publisher": "UTMB World Series / Canyons Endurance Runs by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The main page at access is the 2026 edition (23–26 April 2026) and lists the 100M as 100 miles/18,208 ft+, the 100K as 62.1 miles/12,303 ft+, the 50K as 31 miles/5,577 ft+ and the 25K as 15.5 miles/2,788 ft+.",
+    "The page says the 2026 Canyons 100K is a Western States Endurance Run Super Golden Ticket race in which the top three female and male finishers earn direct entry to the 2026 Western States.",
+    "The page says the event is a qualifier for the UTMB World Series Finals and the Western States Endurance Run.",
+    "The page says runners cover up to 17,000 ft on the Western States Trail, passing Rucky Chucky, Devil's Thumb and Swinging Bridge."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取主页；主页仍是 2026 届内容，作为身份与旧口径来源，不作为 2027 数据来源。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页头 23 - 26 April 2026；各距离卡逐项照录" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "页内 'The 2026 Canyons Endurance Runs ... Super Golden Ticket race ... Top 3 Female and Male winners ... for the 2026 Western States'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "页内 'This race is a qualifier for the iconic UTMB World Series Finals and the Western States Endurance Run'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "页内 'cover up to 17,000’ ... Rucky Chucky ... Devil’s Thumb and Swinging Bridge'" }
+  ]
+}

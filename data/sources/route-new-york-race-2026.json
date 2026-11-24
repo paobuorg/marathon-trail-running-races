@@ -1,23 +1,104 @@
 {
   "sourceId": "route-new-york-race-2026",
-  "title": "2026 TCS New York City Marathon — race page",
+  "title": "2026 TCS New York City Marathon event page",
   "url": "https://prod.nyrr.org/races-and-events/2026/2026-tcs-new-york-city-marathon",
-  "publisher": "NYRR",
+  "publisher": "New York Road Runners",
   "publishedAt": null,
   "accessedAt": "2026-11-06",
   "claims": [
-    "The 2026 TCS New York City Marathon is scheduled for Sunday, 1 November 2026, at 8:00 AM in New York City.",
-    "There are five start waves, three start colours (blue, orange and pink) and six corrals per wave; wave and corral assignments cannot be changed.",
-    "The corral timeline gives corral opening times of 8:10, 9:05, 9:45, 10:25 and 11:00 a.m. and wave start times of 9:10, 9:45, 10:20, 10:55 and 11:30 a.m. for waves 1 to 5.",
-    "Only registered entrants and guides are allowed in Fort Wadsworth and the start area.",
-    "The only bag allowed into Fort Wadsworth is the clear official start village bag received at the Expo, and no bag may be checked at the start for transport to the finish.",
-    "There are more than 1,600 toilets in the start villages and corrals.",
-    "The race page publishes course, start and finish map PDFs and links an interactive Google map.",
-    "Live unofficial results and runner tracking are available in the NYRR App during the event, and official results are posted at results.nyrr.org after the race.",
-    "The TCS New York City Marathon is a World Athletics Elite Platinum Label race operating under World Athletics Rules.",
-    "To be eligible for prize money in any category, a runner must complete the course in 3 hours 10 minutes or faster.",
-    "The NYRR Pace Team leads groups between 6:40 per mile and 14:18 per mile, corresponding to finish times between 2:55 and 6:15.",
-    "The existing event records listed on the page are 2:04:58 for the Open Division men (Tamirat Tola, 2023) and 2:19:51 for the Open Division women (Hellen Obiri, 2025)."
+    "The 2026 TCS New York City Marathon is listed for Sunday 1 November 2026 at 8:00 AM in New York City, with the Distance field reading \"Marathon\" rather than a numeric 26.2 miles.",
+    "The page links to an \"Official Race Results\" section with a View Results link.",
+    "Runners cannot request a wave change at the Expo, and corral changes will not be considered.",
+    "A faster marathon result for wave placement must be submitted by 8 September 2026 at 5:00 p.m. ET, from an in-person certified marathon run between 26 February and 7 September 2026.",
+    "The race is a 9+1 program qualifier.",
+    "Entry fees are non-refundable; a 2026 entrant may cancel and earn non-complimentary guaranteed entry to the 2027 race, but must claim it and pay the 2027 fees.",
+    "Entry fees may not be deferred or transferred.",
+    "Marathon Monday at the Pavilion presented by Mastercard offers medal engraving, recovery, shopping and a return to the finish area.",
+    "The page says the TCS New York City Marathon has broken the world record for the largest marathon for the second consecutive year.",
+    "The page lists prize money, wave starts, charity spots and Team for Climate among the event categories.",
+    "The page says all event information is subject to change and directs readers to nyrr.org/tcsnycmarathon.",
+    "The page describes the event as inclusive and accessible, with athletes from the first to the final finisher running the same course on the same day."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch 读取 2026 赛事页全文",
+    "note": "页面可读：日期/地点/Distance 字段、官方成绩链接、wave/corral 变更规则、9+1、取消与退款、Marathon Monday、世界最大马拉松表述均在正文。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026 赛事页正文逐条核对；页面可读。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026 赛事页正文逐条核对；页面可读。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026 赛事页正文逐条核对；页面可读。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026 赛事页正文逐条核对；页面可读。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026 赛事页正文逐条核对；页面可读。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026 赛事页正文逐条核对；页面可读。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026 赛事页正文逐条核对；页面可读。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026 赛事页正文逐条核对；页面可读。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026 赛事页正文逐条核对；页面可读。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026 赛事页正文逐条核对；页面可读。"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026 赛事页正文逐条核对；页面可读。"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026 赛事页正文逐条核对；页面可读。"
+    }
+  ]
 }

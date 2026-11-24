@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-doi-inthanon-announcement",
+  "title": "HOKA Chiang Mai Thailand by UTMB 2026",
+  "url": "https://chiangmai.utmb.world/news/HOKA-Chiang-Mai-Thailand-by-UTMB-2026",
+  "publisher": "UTMB World Series / HOKA Chiang Mai Thailand by UTMB",
+  "publishedAt": "2026-06-29",
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The announcement lists Week 1 at Doi Inthanon National Park Office on 27-29 November 2026 with PAGODA 50 DAY, PAGODA 50 NIGHT, INTHANON 20 and a warm-up run, and Week 2 at Chiang Mai PAO Park on 3-6 December 2026.",
+    "The announcement states that PAGODA 50 DAY and PAGODA 50 NIGHT each carry 4 Running Stones.",
+    "The same announcement describes the event as '2 full weeks / 12 race formats / 4 iconic Chiang Mai mountains / 38 Stones', but later in the same article says '34 Stones, 11 Races, 1 Chiang Mai'.",
+    "The announcement states that the event is a UTMB World Series Major where runners earn double Stones in every race."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取英文新闻页；38 Stones 与 34 Stones 两处在同一页内并存，按原文并列记录，不做裁决"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Week 1 / Week 2 小标题与日期、项目列表" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Week 1 列表 'PAGODA 50 DAY – 4 Stones'、'PAGODA 50 NIGHT – 4 Stones'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'2 full weeks / 12 race formats / 4 iconic Chiang Mai mountains / 38 Stones!' 与 '34 Stones, 11 Races, 1 Chiang Mai.'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'All in a UTMB® Major where you earn double Stones in every race.'" }
+  ]
+}

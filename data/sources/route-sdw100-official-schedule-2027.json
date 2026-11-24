@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-sdw100-official-schedule-2027",
+  "title": "SDW100 2027 Schedule — official",
+  "url": "https://centurionrunning.com/races/south-downs-way-100-2027/section/schedule",
+  "publisher": "Centurion Running",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "On Friday 11 June 2027 the Matterley Bowl campsite and parking open at 1400, SDW100 registration runs from 1600 to 1930, the junior races start at 1730 and the 5km and 10km races start at 1900.",
+    "On Saturday 12 June 2027 registration reopens at 0415 together with drop bag and finish bag deposit, the Wave 1 briefing is at 0515 with the Wave 1 start at 0530, and the Wave 2 briefing is at 0615 with the Wave 2 start at 0630.",
+    "On Sunday 13 June 2027 shuttle bus 1 leaves the finish for Matterley Bowl at 0630, drop bags are available at the finish from 0800 to 1230, the Wave 1 30 hour cut-off is at 1130 and the Wave 2 cut-off at 1230, with shuttle bus 2 at 1245."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接抓取并读取该页。日程与 2027 主页及 infopack 的日期、波次一致。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Friday 11th June 段：1400 campsite/parking；1600-1930 registration；1730 junior races；1900 5km and 10km start" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Saturday 12th June 段：0415 registration and drop bag deposit；0515 Wave 1 briefing；0530 Wave 1 start；0615 Wave 2 briefing；0630 Wave 2 start" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Sunday 13th June 段：0630 Shuttle Bus 1；0800-1230 Drop Bags；1130 Wave 1 30 hour cut off；1230 Wave 2 cut off；1245 Shuttle Bus 2" }
+  ]
+}

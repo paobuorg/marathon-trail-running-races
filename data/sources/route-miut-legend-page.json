@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-miut-legend-page",
+  "title": "MIUT Legend 110 km — official race page",
+  "url": "https://miutmadeira.com/miut-legend-ultra-trail-madeira/",
+  "publisher": "MIUT – Madeira Island Ultra-Trail / Clube de Montanha do Funchal",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The Legend page header states 110 km, 7,200 m of positive gain and 7,200 m of loss, a start on 24 April at 00:01 from Porto Moniz and a maximum race time of 32 hours.",
+    "The detailed course description runs from Porto Moniz through Fanal, Chão da Ribeira, Estanquinhos on the Paul da Serra plateau, Chão dos Louros, Curral das Freiras, Pico Ruivo, Pico do Areeiro, Chão da Lagoa, Portela, Larano and Boca do Risco to Fórum Machico.",
+    "The official checkpoint table gives 11 rows from Porto Moniz at km 0 to Machico at km 108.9, with cumulative distance 108.9 km and segment sums of +7,165 m and -7,175 m.",
+    "The checkpoint table gives expected fast and slow times and cut-offs: Fanal 1:35 / 3:25 / 03:30; Chão da Ribeira 2:20 / 5:10 / 05:15; Estanquinhos 3:50 / 9:10 / 09:15; Chão dos Louros 5:30 / 12:20 / 12:30; Curral das Freiras 7:30 / 16:20 / 16:30; Pico Ruivo 9:15 / 20:20 / 20:30; Chão da Lagoa 10:25 / 23:20 / 23:30; Portela 11:25 / 2:25+1 / 02:30+1; Larano 11:55 / 4:55+1 / 05:00+1; Machico 13:00 / 7:55+1 / 08:00+1.",
+    "The checkpoint table marks personal assistance at Estanquinhos, Curral das Freiras and Chão da Lagoa, and a drop bag at Curral das Freiras; Fanal, Chão da Ribeira, Chão dos Louros, Pico Ruivo and Portela carry a nurse.",
+    "Pico Ruivo is given as Madeira's highest peak at 1,862 m, while the checkpoint itself is at 1,760 m; the Laurissilva forest crossed by the course is described as a UNESCO World Natural Heritage site.",
+    "The page lists five ITRA points for all finishers, a Western States 100 qualifier for finishes under 29 hours, World Trail Majors membership, a UTMB World Series 100M qualifier that does not award Running Stones, ATRP Series 150 points and the ITRA National League 2025.",
+    "The page publishes a GPX download hosted on Dropbox and states that the section between Encumeada and Pico do Areeiro is closed to the public because of trail works and is accessible to runners only on race day."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 重读官方 Legend 页，重点核对 2027 检查点表、页头 110 km/7,200 m/00:01 与表内 108.9 km/7,165 m 的差异。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "页头：110 km、+7,200 m、-7,200 m、00:01、32 hours；页头时间与正文 00:00 不一致" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "Course 描述段的地名顺序照录" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "检查点表 11 行；Machico 累计 108.9；逐段 + 列合计 7,165、− 列合计 7,175" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "Faster/Slower/Time Limit 三列逐行照录；+1 表示次日" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "Service 列：Estanquinhos/Curral/Chão da Lagoa 有 AP；Curral 有 BAG；Fanal/Chão da Ribeira/Chão dos Louros/Pico Ruivo/Portela 有 +" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-20", "note": "Course 段：Pico Ruivo 1,862 m；检查点表 Pico Ruivo 海拔 1,760 m；Laurissilva UNESCO" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-20", "note": "Qualifications 段：5 ITRA points、WS100 sub-29h、WTM、UTMB 100M qualifier no stones、ATRP 150" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-20", "note": "GPX 段与 Encumeada–Pico do Areeiro 施工关闭说明" }
+  ]
+}

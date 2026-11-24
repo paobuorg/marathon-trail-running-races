@@ -1,0 +1,55 @@
+{
+  "sourceId": "route-antarctic-gear",
+  "title": "Antarctic Ice Marathon — Running gear",
+  "url": "https://www.icemarathon.com/running-gear",
+  "publisher": "Antarctic Ice Marathon / Runbuk",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "The official gear page recommends a three-layer upper body: a base layer to wick sweat, a mid fleece for insulation and an outer windproof shell.",
+    "Legs need only a base layer and an outer shell, or the runner will overheat.",
+    "Runners should bring two sets of base layers for legs and torso plus an extra fleece, and change into dry layers during the race if cold and wet.",
+    "The page recommends one pair of glove liners, gloves, mittens, hand warmers, two pairs of wool socks, ski goggles or sports sunglasses, two base layers for the legs and one wind shell.",
+    "Keeping dry is emphasised as important in cold conditions; an extra pair of gloves and socks is recommended."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch",
+    "note": "Official running-gear page read."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Summary section: base, mid fleece, outer shell."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Summary: only two layers necessary on the legs."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Please Note paragraph."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Hands, eyewear and legs lists."
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Keeping dry paragraph."
+    }
+  ]
+}

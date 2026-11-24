@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-sierre-zinal-2026",
+  "title": "Florea and Kiriago claim Sierre-Zinal victories",
+  "url": "https://worldathletics.org/news/report/florea-kiriago-2026-sierre-zinal-wmra-world-cup",
+  "publisher": "World Athletics",
+  "publishedAt": "2026-08-08",
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "World Athletics reports that the 2026 Sierre-Zinal was held on Saturday 8 August over 31 km as a stage of the WMRA World Cup.",
+    "The same report states that the course climbs from 560 m in Sierre to a high point of 2,424 m over the opening 24 km, then descends 7 km to the finish in Zinal.",
+    "The same report gives the 2026 men's result as Philemon Kiriago 2:26:24, Patrick Kipngeno 2:26:56 and Michael Saoli 2:29:36, an all-Kenyan podium, with Jacob Adkin fourth in 2:30:49 and Kevin Kibett fifth in 2:30:58.",
+    "The same report gives the 2026 women's result as Madalina Florea 2:55:44, Caroline Kimutai 2:56:30 and Morven Goodrum 2:57:12, with Oria Liaci fourth in 2:58:36 and Nienke Brinkman fifth in 2:58:53.",
+    "The same report states that Kiriago's 2026 win was his third Sierre-Zinal victory, after 2023 and 2025."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取世界田联 2026-08-08 赛后报道全文。报道署名含 'With assistance from WMRA'。女子冠军成绩与 GTWS 报道相差 2 秒，本页并列保留。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'the renowned 31km race, the latest stage of the World Mountain Running Association (WMRA) World Cup, in Switzerland on Saturday (8)'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'climbs from 560 metres in Sierre to a high point of 2424 metres over the opening 24km before a 7km descent to the finish in Zinal'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'Kiriago ... 2:26:24, 32 seconds ahead of Kipngeno'；'Michael Selelo Saoli ... 2:29:36'；'Adkin ... fourth in 2:30:49, with Kevin Kibett fifth in 2:30:58'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'Florea ... 2:55:44'；'Kimutai ... 2:56:30'；'Goodrum ... 2:57:12'；'Liaci was fourth in 2:58:36 and Brinkman fifth in 2:58:53'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "'his third Sierre-Zinal victory after his previous wins in 2023 and 2025'" }
+  ]
+}

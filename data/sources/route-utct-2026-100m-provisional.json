@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-utct-2026-100m-provisional",
+  "title": "Sportraxs — RMB | UTCT 2026, UTCT 100M provisional leaderboard",
+  "url": "https://sportraxs.com/events/589/races/1477?grid=true",
+  "publisher": "Sportraxs (official timing platform linked from RMB Ultra-trail Cape Town)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "At 11:19 SAST on 22 November 2026 the official Sportraxs UTCT 100M page still carried the heading 'Provisional standings' and listed 127 runners: 75 finished, 36 withdrawn and 16 still on course.",
+    "The provisional overall top three on the official UTCT 100M leaderboard were Aleksei Tolstenko in 21:32:48, Pieter de Wortelaer in 23:05:12 and Careth Arnold in 23:53:08.",
+    "Careth Arnold's 23:53:08 was the fastest women's time on the provisional leaderboard; Magdalena Kraszpulska was second in 25:11:23 and Kerry-Ann Marshall third in 25:36:36.",
+    "The 2026 UTCT 100M page was still provisional at 11:19 SAST, before the 45-hour cut-off at 14:00, so these places were not a final result."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "checkedVia": "Browser Use (aha_browser_use) on the official Sportraxs 2026 UTCT 100M leaderboard",
+    "note": "2026-11-22 11:19 SAST 浏览器读取 Sportraxs 事件 589、100 英里组别 1477；页面标 'UTCT 100M · Provisional standings'，状态筛选 Finished (75)、Withdrawn (36)、On course (16)，总名单 127。总榜前三与女子前三从同页排行读取；100 英里 45 小时关门在 14:00，尚未结算。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Page text: '127 runners'; status filter: On course (16), Finished (75), Withdrawn (36)。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Leaderboard rows: 1 Aleksei Tolstenko 21:32:48; 2 Pieter de Wortelaer 23:05:12; 3 Careth Arnold 23:53:08。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Careth Arnold is Open female, 23:53:08; Magdalena Kraszpulska 25:11:23; Kerry-Ann Marshall 25:36:36。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Page heading 'Provisional standings'; page clock 42:19:03, before the 45-hour cut-off at 14:00 on 22 November。"
+    }
+  ]
+}

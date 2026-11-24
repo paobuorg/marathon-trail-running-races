@@ -1,7 +1,7 @@
 {
   "sourceId": "route-baa-course",
-  "title": "The Course",
-  "url": "https://www.baa.org/races/boston-marathon/the-course/",
+  "title": "2026 Boston Marathon Official Course Map",
+  "url": "https://www.baa.org/wp-content/uploads/2026/03/2026-Course-Map.pdf",
   "publisher": "Boston Athletic Association",
   "publishedAt": null,
   "accessedAt": "2026-10-26",
@@ -9,8 +9,40 @@
     "The Boston Marathon starts in Hopkinton, Massachusetts.",
     "The Boston Marathon finishes on Boylston Street in Boston.",
     "The official course map may not be reproduced.",
-    "The 2026 BAA course page links an official course map.",
-    "The map anchor used on this page is an editorial overview coordinate, not an official start or finish point."
+    "The 2026 BAA course page links an official course map."
   ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "PDF 顶部：starts on Main Street in Hopkinton。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "PDF：finishing near the Boston Public Library in Copley Square。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "PDF 版权行：no portion may be reproduced without permission of the B.A.A.。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "PDF 标注 26.2 M / 42.2 K。"
+    }
+  ],
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch 读取 2026 官方赛道图 PDF",
+    "note": "PDF 顶部与版权行可读；起点 Main Street, Hopkinton、终点近 Copley Square 的 Boston Public Library、不得复制均在 PDF 正文。"
+  },
   "license": null
 }

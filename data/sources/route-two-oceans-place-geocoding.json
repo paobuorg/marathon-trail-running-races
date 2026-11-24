@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-two-oceans-place-geocoding",
+  "title": "Open-Meteo geocoding — Newlands, City of Cape Town",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=Newlands&count=10&language=en&format=json",
+  "publisher": "Open-Meteo (GeoNames)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Open-Meteo geocoding returns Newlands, City of Cape Town, Western Cape, South Africa at 33.97846 S, 18.4481 E, elevation 70 m.",
+    "The same record gives the time zone Africa/Johannesburg and the postcode 7700."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接查询 Open-Meteo geocoding，取南非 Western Cape、City of Cape Town 的 Newlands 记录；仅用于 mapAnchor，不用于赛道几何。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "返回 latitude -33.97846、longitude 18.4481、elevation 70、country_code ZA。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "返回 timezone Africa/Johannesburg、postcodes ['7700']。" }
+  ]
+}

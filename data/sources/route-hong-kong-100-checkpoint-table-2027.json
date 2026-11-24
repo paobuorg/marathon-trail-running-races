@@ -1,0 +1,69 @@
+{
+  "sourceId": "route-hong-kong-100-checkpoint-table-2027",
+  "title": "HK100 2027 official checkpoint table (image)",
+  "url": "https://hk100ultra.com/wp-content/uploads/2026/11/hk100-cp.jpg",
+  "publisher": "Hong Kong 100 Ultra Marathon",
+  "publishedAt": null,
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The 2027 official checkpoint-table image has 11 rows from SP-East Dam at 10 km to Finish at 96 km; the cumulative distance at the finish is 96 km.",
+    "The table's per-stage gain and per-stage loss each total +5,142 m and −5,142 m, and the cumulative gain column reaches +5,142 m at the finish.",
+    "The table prints opening and closing clock times: East Dam 07:15/09:15, Sai Wan Pavilion 07:45/11:00, Pak Tam Au 08:30/13:45, Pak Sha O 09:00/16:00, Yung Shue O 09:30/18:30, Kei Ling Ha 10:30/21:15, Gilwell Camp 11:30/02:15, Beacon Hill 12:30/05:00, Shing Mun 13:30/07:15, Leadmine Pass 14:30/10:15, Finish 15:30/13:00.",
+    "The table labels its first row SP-East Dam, then numbers CP1 Sai Wan Pavilion through CP9 Leadmine Pass; from Sai Wan Pavilion onward these CP numbers are one lower than the course text's CP2 through CP10 numbering.",
+    "The table gives CP10 Leadmine Pass to Finish as 9 km (96 − 87), while the course text says 'just 10km to go' and the race card's 100 km minus 87 km gives 13 km.",
+    "The image is hosted on the organiser's own site under a 2026/11 upload path; this page links to the image, does not host, crop or redraw it, and uses only transcribed facts.",
+    "The course page's Food & Beverages section still says 'To be announced'; the checkpoint table lists no food or drink items."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Official image downloaded and read visually",
+    "note": "2026-11-23 下载 https://hk100ultra.com/wp-content/uploads/2026/11/hk100-cp.jpg，目视逐行核对 11 行距离、分段升降、累计爬升与开关门时刻；与课程页文字中的 CP1–CP10 编号并列核对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "原图第 1 行 SP-East Dam 累计 10 km，最后一行 Finish 累计 96 km。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "逐行相加：分段爬升 312+456+495+356+172+609+794+479+298+582+589 = 5,142；分段下降同样合计 5,142；末行 Total Elevation Gain = +5,142。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "原图 Opening Times / Closing Times 两列逐行照录。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "原图首行标 SP-East Dam，第二行起为 CP1 Sai Wan Pavilion，末个 CP 为 CP9 Leadmine Pass；课程页文字把 East Dam 称 CP1、Sai Wan Pavilion 称 CP2，至 CP10 Lead Mine Pass。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "原图 CP9 Leadmine Pass 87 km → Finish 96 km，Distance between CPs = 9 km；课程页文字写 'just 10km to go'；100 − 87 = 13。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "图片 URL 属于 hk100ultra.com 的 2026/11 上传目录；页面只外链原图，不复制图。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "课程页 Food & Beverages 段仍为 'To be announced'；checkpoint table 只有检查点、距离、升降、累计爬升与开关门列。"
+    }
+  ]
+}

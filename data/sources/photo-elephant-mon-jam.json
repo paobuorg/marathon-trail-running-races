@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-elephant-mon-jam",
+  "title": "File:ดอยม่อนแจ่ม ตำบล แม่แรม จังหวัด เชียงใหม่ ประเทศไทย - panoramio.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%88%E0%B9%88%E0%B8%A1_%E0%B8%95%E0%B8%B3%E0%B8%9A%E0%B8%A5_%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%A3%E0%B8%A1_%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2_-_panoramio.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2014-08-21",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "A field of purple asters in the foreground, with a green ridge of crop plots, farm buildings and scattered trees behind, under a dark blue storm sky; the frame is square and shows no runners or race furniture. It is a location photograph, not a 2026 race-day photograph, and it does not show a start arch, finish gantry, bib, timing mat, aid table, course marking or race crowd.",
+    "Commons titles the file ดอยม่อนแจ่ม ตำบล แม่แรม จังหวัด เชียงใหม่ ประเทศไทย - panoramio.jpg. The route page uses it as Mon Jam ridge context near A12 Monjam; it does not show the aid station, the exact 2026 course or race-day weather.",
+    "The Commons author field reads ::::=UT=::::; the file is marked CC-BY-SA-3.0 (https://creativecommons.org/licenses/by-sa/3.0/); the relevant date is 2014-08-21; the file page gives a camera or subject position of 18.936154 N, 98.822186 E; the original is 1,841 × 1,841 px; 2,056,873 bytes.",
+    "The route page uses a 960 × 960 px; 484,140 bytes copy without cropping or colour change and credits ::::=UT=::::, CC-BY-SA-3.0 (https://creativecommons.org/licenses/by-sa/3.0/), Wikimedia Commons; the resized copy keeps the same licence."
+  ],
+  "license": "CC-BY-SA-3.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons API metadata plus downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons API 与文件页核对作者、许可、日期、原图尺寸和（如有）坐标，并下载 960 px 副本目视确认：A field of purple asters in the foreground, with a green ridge of crop plots, farm buildings and scattered trees behind, under a dark blue storm sky; the frame is square and shows no runners or race furniture. 不是赛日现场，也不是赛道测绘照片。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地 960 px 副本可见：A field of purple asters in the foreground, with a green ridge of crop plots, farm buildings and scattered trees behind, under a dark blue storm sky; the frame is square and shows no runners or race furniture. 画面中没有号码布、拱门、计时毯、补给桌、赛道旗标或赛日人群。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons 标题为 ดอยม่อนแจ่ม ตำบล แม่แรม จังหวัด เชียงใหม่ ประเทศไทย - panoramio.jpg；文件描述与分类支持这一地点用途；正文只把它当环境照，不当赛道证据。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "文件页记录：作者 ::::=UT=::::；许可 CC-BY-SA-3.0 (https://creativecommons.org/licenses/by-sa/3.0/)；日期 2014-08-21; the file page gives a camera or subject position of 18.936154 N, 98.822186 E；原图 1,841 × 1,841 px; 2,056,873 bytes。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 × 960 px; 484,140 bytes；未裁剪、未改色；页面署名 ::::=UT=::::、CC-BY-SA-3.0、Wikimedia Commons。"
+    }
+  ]
+}

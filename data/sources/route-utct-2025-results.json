@@ -1,0 +1,47 @@
+{
+  "sourceId": "route-utct-2025-results",
+  "title": "RMB | Ultra-trail Cape Town 2025 — ITRA results",
+  "url": "https://itra.run/Races/RaceResults/RMB...Ultra.trail.Cape.Town.UTCT.100.MILE/2025/102584",
+  "publisher": "ITRA (International Trail Running Association)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "At the 2025 ULTRA-TRAIL 100 KM the first three men were Jeff Mogavero in 11:04:53, Dmitry Mityaev in 11:05:24 and Matthew Healy in 11:11:26.",
+    "At the 2025 UTCT 100 MILE the winner was Douglas Pickard in 21:49:11.",
+    "The 2025 ULTRA-TRAIL 100 KM used the same 99.85 km, +5,085 m, 26-hour listing as 2026.",
+    "At the 2025 ULTRA-TRAIL 100 KM the first woman was Sunmaya Budha (Nepal) in 12:25:55, eighth overall."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-20 复读 ITRA 2025 届 100K 结果页（102584）与 100M 结果页（102583）；100K 页码用于男子前三与女子第一，100M 完整前三另存 route-utct-2025-100m-results。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "100K 结果页前三行：Mogavero 11:04:53、Mityaev 11:05:24、Healy 11:11:26"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "100M 结果页首行：Douglas Pickard 21:49:11"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "102584 Course details 与 2026 届一致：99.85、+5085、26:00:00"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "102584 结果表：Sunmaya Budha 12:25:55，F，总排名第 8。"
+    }
+  ]
+}

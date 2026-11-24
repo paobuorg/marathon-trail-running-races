@@ -1,0 +1,37 @@
+{
+  "sourceId": "route-gpt100-official-miler",
+  "title": "GPT100 Miler — official race page",
+  "url": "https://www.gpt100.com.au/miler",
+  "publisher": "SingleTrack Events / Grampians Peaks Trail 100 Miler",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2026 GPT100 Miler starts at Mount Zero Picnic Area at 8:00 AM on Friday 6 November 2026, covers 163 km with about 7,700 m of elevation gain along the entire Grampians Peaks Trail, and closes at 10:00 AM on Sunday 8 November 2026 in Dunkeld, a 50-hour limit.",
+    "The Miler starts at Mount Zero in the north and finishes at Dunkeld in the south, following 99% single hiking trail over sandstone slabs, stairs and technical rocky outcrops.",
+    "Runners may enter the Miler solo or as a pair; a pair may not separate by more than two minutes at an aid station, a runner whose partner drops out continues in the solo race, and pair finishers also receive Hardrock and Western States qualification.",
+    "The organiser describes the Miler as a World Trail Major, a Hardrock 100 and Western States 100 qualifying race, and the AUTRA Australian 100 Mile Championships in 2026.",
+    "Finishers of the 2026 Miler can enter the Hardrock lottery for the 2027 and 2028 editions; finishers of the 2026 Miler can enter the Western States lottery for 2027, and finishers of the 2027 Miler for 2028.",
+    "Prize money is A$1,620 for the female and male solo winners, described by the organiser as A$10 per kilometre.",
+    "The Miler is registered with ITRA and is a UTMB World Series Qualifier Event, with finishers gaining UTMB Index points.",
+    "The official page offers a course GPX through a Google Drive folder and TERRAiNAV offline maps; the embedded Strava route shows 161.9 km and 7,588 m of elevation gain.",
+    "The organiser's course description runs in order from the Flat Rock climb below Taipan Wall and GAR Trailhead, past the GAR/Mt Difficult climb and Mt Difficult Road, through Halls Gap, the Wonderland and Grand Canyon trails to the Pinnacles and Rosea Carpark, over Mount Rosea to Borough Huts, across the Seven Dials and Redman's Bluff to Mount William Road, up the paved Mount William road, over Boundary Gap and Durd Durd at 1,167 m, down to Jimmy Creek Camp, through Yarram Campground and Yarram Gap Road, past Wannon Camp and Griffin Fireline to Cassidys Gap, over Signal Peak and Mt Abrupt (Mud-Dadjug) to Bainggug Carpark, and over Mount Sturgeon (Wurgarri) to the finish in Dunkeld."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接抓取 gpt100.com.au/miler，读取页面全部正文、Strava 嵌入与地图下载链接。该页为 2026 届页面，未提供 publishedAt。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页首：Start Mount Zero, 8:00AM, Friday November 6, 2026；Distance 163km；Elevation Gain 7700m+-；Cut off 10:00AM Sunday, Dunkeld (50 Hours)" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "正文：the entire Grampians mountain range from Mt Zero in the north to Dunkeld in the south；99% single hiking trail；sandstone slabs, gradual smooth trail, stairs and technical rocky outcrops" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "MILER PAIRS 段：Solo or a Pair；more than 2 minutes apart 转 Solo；DNF 后另一人可继续并转入 Solo；pair finishers 同样获得 Hardrock 与 Western States 资格" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "加粗段：is a WORLD TRAIL MAJOR, a HARDROCK 100 and WESTERN STATES 100 Qualifying race and also the AUTRA Australian 100 Mile Championships in 2026" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "Hardrock 段：2026 finishers 可抽 2027 + 2028；Western States 段：2026 finishers 抽 2027、2027 finishers 抽 2028" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "页首 Prize Money：$1620 for the Female and Male Solo Winners ($10/km)。163 km × $10 = $1,630，与 $1,620 不一致，属官方页内数字出入" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "页尾：registered with ITRA；is a UTMB World Series Qualifier Event；finishers gain qualifier points for the UTMB Index" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "DIGITAL OFFLINE MAPS 段：DOWNLOAD THE COURSE GPX FILE 指向 drive.google.com 文件夹；Strava 嵌入显示 161.9 km、7,588 m" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "course description 段逐段照录：Flat Rock、Taipan Wall、GAR Trailhead、GAR/Mt Difficult、Mt Difficult Rd、Halls Gap、Chatauqua Peak、Wonderland/Grand Canyon/Pinnacles、Rosea Carpark、Mount Rosea、Borough Huts、Seven Dials、Redman's Bluff、Mount William Road、Mount William summit、Boundary Gap、Durd Durd 1167m、Jimmy Creek Camp、Yarram、Yarram Gap Rd、Wannon Camp、Griffin Fireline、Cassidy Gap、Signal Peak、Mt Abrupt (Mud-Dadjug)、Bainggug Carpark、Mount Sturgeon/Wurgarri、Dunkeld" }
+  ]
+}

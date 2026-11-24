@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-wildstrubel-gpx-2027",
+  "title": "Wildstrubel by UTMB — official Wild 110 GPX (WILD110K_officiel)",
+  "url": "https://pdf.utmb.world/raw/upload/v1793351881/wildstrubel/Races/Wild%20100M/GPX/WILD_110_K_officiel_fe0298a533.gpx",
+  "publisher": "Wildstrubel by UTMB / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The Wild 110 race page exposes a direct official GPX download at pdf.utmb.world under the Wild 100M/GPX path; a HEAD request on 2026-11-20 returned HTTP 200 with 1,054,122 bytes.",
+    "The GPX metadata names the track WILD110K_officiel and the creator field credits MySchweizMobil (https://map.schweizmobil.ch/).",
+    "The file contains 11,677 track points; a local planar calculation gives 111.93 km, with a 3 m elevation threshold giving +6,433 m and −6,430 m between 1,064.5 m and 2,790 m.",
+    "The GPX has no licence or copyright grant; the official page provides the file for navigation but does not permit redistribution, so this site only links to it."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "official race page HTML + direct GPX download",
+    "note": "Direct URL extracted from the Wild 110 page; file downloaded to a temporary directory, measured locally, then deleted. No track is hosted or mirrored."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "HEAD https://pdf.utmb.world/.../WILD_110_K_officiel_fe0298a533.gpx: 200, application/octet-stream, content-length 1,054,122."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "GPX header: <metadata><name>WILD110K_officiel</name>; creator MySchweizMobil."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Local parse of 11,677 trkpt; haversine planar sum 111.93 km; 3 m threshold ascent 6,433 m, descent 6,430 m; elevation range 1,064.5–2,790 m."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "No licence, copyright or terms field in the GPX; the race page has no reuse grant."
+    }
+  ]
+}

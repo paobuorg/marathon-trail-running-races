@@ -15,5 +15,62 @@
     "The start area adds 10 additional men's toilets to reduce pre-race queues.",
     "The race is broadcast by Dragon TV and Great Sports and streamed on multiple platforms."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 tyj.sh.gov.cn 赛事稿 → .agent/berlin-shanghai35/sh-press-2025.html",
+    "note": "市体育局稿件正文可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "三个波次 7:00 起跑，轮椅 6:45。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "因三枪起跑，整体关门延长 15 分钟至 13:30。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "预报名 356,589 人，马拉松中签率 7.2%。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "43 名精英（含 18 名国际精英）；轮椅扩至 19 人。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "5 km 起饮料；7.5 km 起饮水；12.5 km 起 9 个能量站（香蕉、巧克力、小蛋糕、SiS 胶）；6 个冰站、8 个喷淋站。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "领物 11 月 27–29 日 9:30–19:30，世博展览馆（博成路 850 号）。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "起点增设 10 个男厕位。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "东方卫视、五星体育播出，多平台直播。"
+    }
+  ]
 }

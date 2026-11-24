@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-comrades-race-information",
+  "title": "Comrades Marathon Race Information — entry fees, medals, records",
+  "url": "https://www.comrades.com/race-information",
+  "publisher": "Comrades Marathon Association (CMA)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2027 entry fee is R1,200 for South African citizens, R2,000 for entrants from the rest of Africa and R4,500 for international entrants.",
+    "Badges and medals are awarded to all official finishers who complete the full distance within the 12-hour cut-off.",
+    "The Best Down Run times listed by the organiser are 5:13:58 by Tete Dijana in 2023 and 5:44:54 by Gerda Steyn in 2023.",
+    "2027 Start Group Seedings will be announced at the start of 2027.",
+    "All athletes must complete the medical questionnaire, available after login to the online entry profile.",
+    "The official substitution period will be announced at the start of 2027.",
+    "An entry is only confirmed once payment has been successfully processed, by card or online instant EFT.",
+    "Failure to meet the stipulated qualifying criteria results in the entry being rejected, removal from the entry database, and no race T-shirt or goodie bag."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取赛事 Race Information 页，抄录报名费、12 小时奖牌、Best Down Run、2027 起跑分组、医疗问卷与替换期。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Entry Fee 表：South Africa Citizens R1,200；Rest of Africa Entrants R2,000；International Entrants R4,500。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Badges and Medals will be awarded to all official finishers who complete the full distance within the 12-hour cut-off.'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Best \"Down Run\" Time 表：5:13:58 Tete Dijana in 2023；5:44:54 Gerda Steyn in 2023。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'2027 Start Group Seedings will be announced at the start of 2027.'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'All athletes must complete the medical questionnaire...'" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'The official substitution period will be announced at the start of 2027.'" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'An entry is only confirmed once payment has been successfully processed.'" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Failure to meet the stipulated qualifying criteria will result in the athlete’s entry being rejected... they will NOT receive a race t-shirt or goodie bag.'" }
+  ]
+}

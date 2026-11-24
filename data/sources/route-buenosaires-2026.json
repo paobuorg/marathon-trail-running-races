@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-buenosaires-2026",
+  "title": "Maratón de Buenos Aires 42K — official 2026 page",
+  "url": "https://www.maratondebuenosaires.com/",
+  "publisher": "Maratón de Buenos Aires",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The official page says the marathon has been held since 1984 and calls itself the fastest marathon in Latin America.",
+    "The page presents Sunday 20 September 2026, 07:00, at Avenida Figueroa Alcorta and Dorrego as the next edition, and still calls 21 September 2025 the last edition.",
+    "The page reports 15,000 entries, 44 countries, a best time of 2:09:04 and 4,923 foreign runners for the 2025 edition.",
+    "The page gives Expo Running 42K at Parque Sarmiento, entry by Avenida Triunvirato, on Friday 18 September 12:00–20:00 and Saturday 19 September 10:00–18:00.",
+    "The page lists entry at 120 Argentine pesos for residents and US$120 for foreigners; because the page is not updated for 2027, this is not treated as a current price.",
+    "The page states that the 42K start and finish are both at Figueroa Alcorta and Dorrego in Palermo and displays a course map whose file is named Recorrido-42K-2024.jpg.",
+    "As checked on 20 November 2026, the page had not been updated after the 20 September 2026 race and published no 2027 date or entry information."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "web_fetch + saved HTML",
+    "note": "官方首页 2026-11-20 复核：仍把 2026-09-20 写成 Próxima edición，Última edición 仍是 2025-09-21；无 2027 日期。报名价 120 比索/120 美元明显是旧页面文本，不进入 2027 判断。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：Desde 1984... la carrera más rápida de Latinoamérica" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "Hero：Próxima edición 20 de Septiembre 2026、Horario 7.00；Última edición 21 de Setiembre 2025" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "尾部数据块：15000 Inscripciones、44 Países、02:09:04 Mejor tiempo、4923 Extranjeros" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "EXPO RUNNING：Parque Sarmiento、Ingreso por Av. Triunvirato、Viernes 12–20、Sábado 10–18" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "Valor：Residentes $120.00 pesos；Extranjeros u$s 120" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-20", "note": "Largada/Llegada Av. Figueroa Alcorta y Dorrego；课程图为 Recorrido-42K-2024.jpg" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-20", "note": "2026-11-20 抓取：页面没有 2027 区块，仍以 2026 为下一届" }
+  ]
+}

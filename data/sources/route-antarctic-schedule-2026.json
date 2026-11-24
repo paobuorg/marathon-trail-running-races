@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-antarctic-schedule-2026",
+  "title": "Antarctic Ice Marathon — 2026 provisional schedule and prices",
+  "url": "https://www.icemarathon.com/schedule-and-prices",
+  "publisher": "Antarctic Ice Marathon / Runbuk",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "The 2026 provisional schedule is: 9 December latest arrival at Punta Arenas; 10 December pre-departure briefings; 11 December Punta Arenas; 12 December flight to Union Glacier; 13 December Antarctic Ice Marathon / Half Marathon; 14 December return flight to Punta Arenas; 15 December departure.",
+    "All flights are subject to weather, aircraft serviceability and local conditions, and the schedule may shift.",
+    "The 2026 entry fee is USD 22,500, including race entry, briefing, round-trip flights from Punta Arenas to Antarctica, airport transfers for the Antarctic flight, meals and tented accommodation in Antarctica, a 25 kg baggage allowance and race souvenirs.",
+    "The payment schedule is USD 7,500 at registration, USD 7,500 by 1 December 2025 and the remaining USD 7,500 by 1 June 2026; later entries pay the full USD 22,500 if places remain."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch",
+    "note": "Official schedule and prices page read."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "DEC 9–15 list."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Asterisk note under the schedule."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Entry fee bullets, including 55 lbs / 25 kg."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Payment Schedule section."
+    }
+  ]
+}

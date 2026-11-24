@@ -4,7 +4,7 @@
   "url": "https://www.grandraid-reunion.com/fr/informations-pratiques/sacs-de-rechange/",
   "publisher": "Grand Raid de La Réunion",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-08",
   "claims": [
     "Diagonale des Fous runners get three drop bags, all handed in at Ravine Blanche in Saint-Pierre at the start.",
     "The three collection points are Hell-Bourg at PK 81, Ilet Savannah at PK 140 and the finish at La Redoute.",
@@ -13,5 +13,49 @@
     "Dirty clothes can be handed back at an assistance point and are transported to the finish at La Redoute.",
     "Uncollected bags are destroyed 24 hours after the races close for hygiene reasons."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官方换装包页正文"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Dépôt au départ : Ravine Blanche, Saint-Pierre / 3 sacs”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Hell-Bourg PK 81 / Ilet Savannah PK 140 / La Redoute Arrivée”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“5 kg maximum”；“Ni argent, ni appareil photo, ni téléphone portable”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“nom, n° de dossard, destination… étiquette à code-barre fournie”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“vous pouvez remettre le sac contenant vos affaires sales. Il sera acheminé à l’arrivée, à La Redoute”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“24 h après la fermeture des courses, les sacs non récupérés seront détruits”"
+    }
+  ]
 }

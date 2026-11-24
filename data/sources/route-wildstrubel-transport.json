@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-wildstrubel-transport",
+  "title": "Crans-Montana access — air, rail, funicular and resort shuttle",
+  "url": "http://www.shturl.cc/626d67c872703d4a1e0ba166314c71ea",
+  "publisher": "Crans-Montana Tourism & Congress",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "Crans-Montana Tourism gives Sion regional airport as about 30 km away, Geneva 180 km, Milan Malpensa 220 km and Zurich 300 km.",
+    "By train, direct connections run to Sierre station from Geneva airport, Zurich airport, Basel, Bern and Lausanne; from Sierre the funicular reaches Crans-Montana in 12 minutes non-stop or 20 minutes with stops.",
+    "A free shuttle bus runs throughout the resort; Sion station is about 45 minutes and Sierre station about 35 minutes by bus.",
+    "Crans-Montana Tourism does not publish a Wildstrubel race-day shuttle in this access page; the official race page also says only the shorter distances have a paid shuttle from Crans-Montana."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web search result + tourism access text",
+    "note": "Tourism access page read via search result; distances and transport modes are in the text."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "BY PLANE: Geneva 180 km, Zurich 300 km, Milan 220 km, Sion 30 km."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "BY TRAIN and BY FUNICULAR sections."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "BY BUS: Sion ~45 min, Sierre ~35 min; free resort shuttle."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "No race-day Wild 110 shuttle in either the access page or the race page."
+    }
+  ]
+}

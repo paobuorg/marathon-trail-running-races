@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-uta-six-foot-track",
+  "title": "File:Six foot track megalong valley.JPG",
+  "url": "https://commons.wikimedia.org/wiki/File:Six_foot_track_megalong_valley.JPG",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2010-04-25",
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The image shows a narrow walking track running through golden grass on a hillside, with green trees, a forested ridge and a blue sky beyond.",
+    "The Commons file identifies the Six Foot Track in Megalong Valley; it contains no UTA race context. The UTA100 timing chart names Six Foot Track Outbound at 37.3 km and a Six Foot Track Water Point at 45.7 km, but the file has no GPS coordinates, so the photograph cannot be placed at either kilometre.",
+    "The author is Schomynv; the work is released into the public domain; the original is 2,560 x 1,920 pixels and 3.15 MB; the photograph was taken in April 2010 and uploaded on 2010-05-03; the file has no camera coordinates.",
+    "The route page uses a 960 x 720 thumbnail of 235,390 bytes without cropping or colour change and credits the author and source; attribution is not legally required but is given."
+  ],
+  "license": "Public-Domain",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons file page, imageinfo API and downloaded 960 px thumbnail inspection",
+    "note": "2026-11-23 通过 Commons 文件页与 imageinfo API 读取作者、公共领域声明、原图尺寸与拍摄时间，下载 960 px 副本并目视核对步道、草坡、树线与山脊；文件无 GPS，不能定位到 UTA 计时表的 37.3/45.7 km。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地缩略图可见穿过金色草坡的窄步道、绿色树木、背景森林山脊与蓝天。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Commons 标题为 Six foot track megalong valley；文件页无 UTA 赛事信息，也无 GPS。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "imageinfo：Artist User:Schomynv；Public domain；2,560 x 1,920、3.15 MB；DateTimeOriginal 2010-04；上传 2010-05-03；无 GPS。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地文件 960 x 720、235,390 字节；未裁剪、未改色；页面署名 Schomynv / Public domain / Wikimedia Commons。"
+    }
+  ]
+}

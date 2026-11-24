@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-gpt100-place-geocoding",
+  "title": "Open-Meteo geocoding — Halls Gap, Victoria",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=Halls%20Gap&count=3&language=en&format=json",
+  "publisher": "Open-Meteo (GeoNames)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Open-Meteo geocoding returns Halls Gap, Victoria, Australia at 37.14646 S, 142.52345 E, elevation 234 m.",
+    "The same record gives the time zone Australia/Melbourne and postcode 3381."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 查询 Open-Meteo geocoding；只用于赛事活动村 Halls Gap 的 overview 地图锚点，不是起跑线坐标。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "返回 name Halls Gap、latitude -37.14646、longitude 142.52345、elevation 234.0、country_code AU、admin1 Victoria、admin2 Northern Grampians" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "返回 timezone Australia/Melbourne、postcodes [\"3381\"]、population 495" }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "sourceId": "route-vmm-2026-map",
+  "title": "VMM 2026 100km Course Map (official static map)",
+  "url": "https://vietnamtrailseries.com/wp-content/uploads/2026/08/VMM2026_100km_Map.jpg",
+  "publisher": "Vietnam Mountain Marathon / Topas (organiser)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "The current official 100km page displays VMM2026_100km_Map.jpg in its Course Map section; it is a 2,302 × 1,295 static JPG, not a GPX file.",
+    "The map marks START at Sapa KM 0, CP M2 Háng Đá at KM 6.7, CP M4 Bản Mới at KM 23.1, CP Topas at KM 28.6, CP1 Cầu Lao Chải at KM 40.2, CP2 at KM 52.7, CP3 Ô Quy Hồ at KM 60.9, CP4 Tả Phìn at KM 70.3, CP5 Cầu 31 at KM 78.1, CP6 Hầu Chu Ngài at KM 87.4, CP7 Sử Pán at KM 93.1 and FINISH at Topas Ecolodge KM 101.",
+    "The map also places water stations at KM 31.0, 48.8, 62.9 and 89.7; its CP Topas distance of 28.6 km conflicts with the 25.9 km on the official 2026 elevation profile, so both values are kept rather than averaged."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "note": "2026-11-22 从当前官方 100km 页 Course Map 段落取得直链并下载读取：2,302 × 1,295、855,773 字节。图上逐点标注 START Sapa KM0、CP M2 Háng Đá 6.7、CP M4 Bản Mới 23.1、CP Topas 28.6、CP1 Cầu Lao Chải 40.2、CP2 52.7、CP3 Ô Quy Hồ 60.9、CP4 Tả Phìn 70.3、CP5 Cầu 31 78.1、CP6 Hầu Chu Ngài 87.4、CP7 Sử Pán 93.1、FINISH Topas Ecolodge 101；另有 WS 31.0/48.8/62.9/89.7。官方 2026 剖面把 CP Topas 标为 25.9 km，与地图 28.6 km 冲突，两个数字并列保留。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "当前官方 100km 页的 Course Map 段落加载该 JPG；尺寸和字节数由本地下载文件核验。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "逐点读图：起点 KM0、CP M2 6.7、CP M4 23.1、CP Topas 28.6、CP1 40.2、CP2 52.7、CP3 60.9、CP4 70.3、CP5 78.1、CP6 87.4、CP7 93.1、终点 101。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "图中 WS 标在 31.0、48.8、62.9、89.7；官方 2026 profile 标 CP Topas 25.9 km，与地图 28.6 km 不一致。"
+    }
+  ]
+}

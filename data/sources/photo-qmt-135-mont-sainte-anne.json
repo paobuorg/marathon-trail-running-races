@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-qmt-135-mont-sainte-anne",
+  "title": "File:Mont Sainte-Anne.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Mont_Sainte-Anne.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2012-02-05",
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "The file shows the Mont-Sainte-Anne massif in Quebec, with its ski runs visible on the mountain face.",
+    "The photograph was taken on 2012-02-05 and shows winter conditions; it is a mountain photograph, not a QMT135 race photograph.",
+    "The author is Cephas, credited under CC BY-SA 3.0; the original file is 3,840 x 2,152 pixels.",
+    "The file page requires attribution and share-alike; the route page uses a 960 x 538 Commons thumbnail and credits the author and licence."
+  ],
+  "license": "CC-BY-SA-3.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "checkedVia": "Commons action=query imageinfo + thumbnail visual check",
+    "note": "2026-11-22 读取 Commons 文件页与 imageinfo，核对 Mont-Sainte-Anne 山体、作者、日期、许可、尺寸和画面。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "File title and thumbnail show Mont-Sainte-Anne with ski runs."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "DateTimeOriginal 2012-02-05; thumbnail shows snow; no race context in metadata."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "imageinfo: 3,840 x 2,152; Artist Cephas; CC BY-SA 3.0."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Local file is the 960 x 538 Commons thumbnail; source page states attribution and share-alike."
+    }
+  ]
+}

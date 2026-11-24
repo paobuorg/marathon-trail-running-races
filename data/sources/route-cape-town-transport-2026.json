@@ -15,7 +15,83 @@
     "Green Point P9 is available only on Thursday and Friday, while P12 and P13 are available Thursday to Saturday but not Sunday.",
     "Beach Road and Portswood Road are closed to crossing after 07:30 on Sunday because the wheelchair race starts at 07:50; pedestrian marshals are in place from 05:00.",
     "The free bicycle park is at P4 near the Stadium start.",
-    "The MyCiTi Myconnect card costs R40 at kiosks, and road closures affect MyCiTi services on the race weekend."
+    "The MyCiTi Myconnect card costs R40 at kiosks, and road closures affect MyCiTi services on the race weekend.",
+    "The transport page includes e-hailing points for the CBD and Green Point and names Uber as an e-hailing service."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "本地静态抓取 .agent/capetown/raw",
+    "note": "交通指南全文与 PRASA 链接已核对；逐项对照班次、停车、封路与 MyCiTi 信息"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面分组：Expo / Start / Finish，来源 V&A Waterfront、CTICC、Civic Centre & Thibault；周日 start 05:30–06:45、return 11:00–17:30"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表格明确 'Sun Start - No Shuttle'，并写 'No V&A Waterfront Shuttle on Sunday morning to the Marathon Start'"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'a 10-minute walk to the Thibault MyCiTi Station'；'Train Schedule' 链接指向 prasa.com 的官方 PDF"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Canal Walk / UCT 付费穿梭车 'R10'，'Sunday 24 May only'，首班 05:30、末班 06:30、返程 11:00–17:30"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'more than 7,500 open-air and underground parking bays'；站点 Waterfront、Aquarium、Marina、Silo"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：CTICC P1 从 Buitengracht / Lower Long / FW de Klerk 进入；Civic Centre 周日免费，入口 Hertzog Blvd 与 Civic Ave"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：P9 仅周四、周五；P12/P13 周四至周六，周日不可用"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：Beach Rd 与 Portswood 周日 07:30 后禁止穿越，因轮椅赛 07:50 出发；'Marshals will be in place from 05h00'"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'free bicycle park ... at P4, near the Stadium start'"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：Myconnect 卡 'R40'；'Road closures will affect MyCiTi services'"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面有 'e-Hailing CBD'、'e-Hailing Green Point' 与 'e-Hailing Point' 段落，原文 'Uber is the most widely used e-hailing service in Cape Town'"
+    }
+  ]
 }

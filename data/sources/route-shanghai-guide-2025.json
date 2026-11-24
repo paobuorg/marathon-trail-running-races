@@ -16,5 +16,68 @@
     "The organiser will notify runners of race-day weather in advance.",
     "The course map is published by the Shanghai Marathon official site, and the detailed course is subject to publication shortly before the race."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 japanese.shanghai.gov.cn 日文指南 → .agent/berlin-shanghai35/sh-guide-2025.html",
+    "note": "日文页面正文可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "指南列轮椅 6:45；特邀与预达级选手、A/B 区 7:00；C 区 7:10；D/E 区 7:20。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "指南 11 月 23 日更新，关门 5 km 8:05、10 km 8:50、15 km 9:35、20 km 10:20、25 km 11:00、30 km 11:45、35 km 12:30、40 km 13:15、终点 13:30。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "文末标注“出典：上海马拉松官方网站”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "领物 11 月 27–29 日 9:30–19:30，世博展览馆北广场（博成路 850 号）。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "地铁 8 号线中华艺术宫 3 号口约 430 m；13 号线世博大道 1 号口约 690 m；7 号线耀华路 4 号口约 1.1 km。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "公交 83/1049 约 64 m；1118/浦东 98 约 258 m；旅游 3 线约 377 m。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "停车：周家渡路 E2 门进 P2；另列世博天地、世博源地下停车场（英文译名）。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "指南称组委会将提前通知比赛日天气。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "指南称路线图由官网发布，详细路线赛前公布。"
+    }
+  ]
 }

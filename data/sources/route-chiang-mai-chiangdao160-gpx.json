@@ -1,0 +1,75 @@
+{
+  "sourceId": "route-chiang-mai-chiangdao160-gpx",
+  "title": "Chiang Dao 160+Stations GPX (2026)",
+  "url": "https://pdf.utmb.world/raw/upload/v1790325226/thailand/GPX/2026/Chiang_Dao_160_Stations_af5020d931.gpx",
+  "publisher": "UTMB World Series / HOKA Chiang Mai Thailand by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The GPX file is a GPX 1.1 file created by 'GPS Track Editor' with track name 'Chiang Dao 160+Stations' and description '25-9-2026'; it declares no copyright entry and no reuse licence.",
+    "The track contains 23,331 points, starting at 19.39306, 98.92913 and ending at 18.83102, 98.9675, 62.626 km apart, so the course is point to point.",
+    "The track measures 170.865 km in 2D and 173.601 km in 3D, against the 173 km published on the race page.",
+    "Elevation tags range from 319 m to 1,730 m, and raw positive elevation gain is 10,227 m, or 9,853 m with a 3 m threshold, against the published 9,800 m.",
+    "The file carries time stamps on its track points, from 2026-06-25T21:14:00Z at the first point, and these are not race times.",
+    "The file contains 16 waypoints, A1 to A16, each within 60 m of the track, whose projections fall between 0.30 km ahead of and 2.10 km behind the cumulative distances on the published time chart.",
+    "The track's final point 18.83102, 98.9675 is identical to the final point of the Elephant 100 GPX, which is consistent with both races finishing at Chiang Mai PAO Park.",
+    "Subtracting consecutive elevation tags gives a raw cumulative descent of 10,338 m over 23,331 points; the highest point is 1,730 m and the lowest is 319 m."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 从 CHIANGDAO160 页的 DOWNLOAD GPX 链接下载原文件并用 .agent/chiangmai/parse2.py 解析；Haversine 半径 6371.0088 km；未做平滑或地图匹配"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "文件头 creator='GPS Track Editor' version='1.1'；trk/name='Chiang Dao 160+Stations'；metadata/desc='25-9-2026'；无 copyright 节点"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "解析计数 23331 个 trkpt；首末点坐标；Haversine 首末距离 62.626 km"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2D 170.865 km；3D 173.601 km；竞速页 173 KM"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "ele 最小 319、最大 1730；raw gain 10227 m；3 m 阈值 9853 m"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首点 time='2026-06-25T21:14:00Z'；末点 time='2026-08-25T23:53:35.78Z'"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "16 个 wpt 偏移 1-60 m；投影 9.30/22.33/32.40/41.97/50.32/63.57/70.50/81.39/91.11/98.79/108.47/114.05/128.10/137.19/146.90/160.04 km，与时间图差值 -2.10 至 +0.30 km"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "两个 GPX 末点均为 (18.83102, 98.9675)"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 用官方 GPX 逐点相减复算：负向变化合计 10,338 m；ele 最小 319、最大 1,730。这是测量值，不是官方公布数字。"
+    }
+  ]
+}

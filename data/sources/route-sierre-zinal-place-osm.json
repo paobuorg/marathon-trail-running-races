@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-sierre-zinal-place-osm",
+  "title": "OpenStreetMap relation 1685375 — Sierre",
+  "url": "https://www.openstreetmap.org/relation/1685375",
+  "publisher": "OpenStreetMap contributors",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "OpenStreetMap relation 1685375 is the administrative boundary of Sierre in Valais, Switzerland, with a centroid of 7.5323195 E and 46.2922522 N."
+  ],
+  "license": "ODbL-1.0",
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-08",
+    "note": "通过 Nominatim 兼容查询读取 relation 1685375 的 centroid；未下载边界几何。该坐标只用于地图概览锚点，不是起跑线坐标，也不用于绘制赛道。 R53 回扫：2026-11-08 用桌面 UA 直连重试 3 次（12 秒超时），并试 Wikimedia REST API 与 WebFetch，仍不可达；同网络访问 google.com、en.wikipedia.org 同样失败，属本机网络不可达，不是文件被删除，也不是许可不存在。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "返回 'osm_type':'R','osm_id':1685375,'localname':'Sierre','centroid':{'coordinates':[7.5323195,46.2922522]}；licence 'ODbL 1.0'。"
+    }
+  ]
+}

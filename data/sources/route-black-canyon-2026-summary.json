@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-black-canyon-2026-summary",
+  "title": "Aravaipa Running — Results 2026: Black Canyon",
+  "url": "https://www.aravaiparunning.com/results-2026/",
+  "publisher": "Aravaipa Running",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "Aravaipa's 2026 results summary lists 1,626 finishers for the Black Canyon weekend of 14 February 2026.",
+    "The summary gives the 100K winners as Hans Troyer 7:20:00, Jennifer Lichter 7:57:04 and nonbinary runner Sunny Tellwright 15:56:33.",
+    "The summary gives the 50K winners as Seth Ruhling 3:16:28, Jane Maus 3:47:03 and nonbinary runner Cal Calamia 4:18:57.",
+    "Aravaipa's 100K time for Lichter is one second faster than the 7:57:05 on UltraSignup and in RUN247."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "Search result full text",
+    "note": "Aravaipa 官方 results-2026 页 Black Canyon 段：1,626 finishers、100K/50K winners；100K 765 + 50K 850 = 1,615，与 1,626 差 11，正文并列不强行闭合。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "Black Canyon February 14, 2026 1,626 finishers" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "100K M Hans Troyer 7:20:00；F Jennifer Lichter 7:57:04；NB Sunny Tellwright 15:56:33" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "50K M Seth Ruhling 3:16:28；F Jane Maus 3:47:03；NB Cal Calamia 4:18:57" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "Aravaipa 7:57:04；UltraSignup/RUN247 7:57:05，差 1 秒" }
+  ]
+}

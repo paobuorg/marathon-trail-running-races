@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-sierre-zinal-course-page",
+  "title": "Parcours Coureurs — Sierre-Zinal",
+  "url": "https://www.sierre-zinal.com/fr/parcours-coureurs-2189.html",
+  "publisher": "Sierre-Zinal Association (organiser)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The official runners' course page states that GPX coordinates are available by clicking 'envoyer vers l'appareil' (send to device).",
+    "The same page embeds a course map with a Strava route but publishes no direct GPX file download and no reuse licence for the track."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官网法文版 Parcours Coureurs 页。页面原句为 'Les coordonnées GPX sont disponibles en cliquant sur \"envoyer vers l'appareil\".'；同页嵌入赛道地图，页面未给出直接 GPX 文件或许可声明。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'Les coordonnées GPX sont disponibles en cliquant sur \"envoyer vers l'appareil\".'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "页面只有嵌入地图与 'calcul tes temps de passage' 链接，无 .gpx 直链，无许可条款。" }
+  ]
+}

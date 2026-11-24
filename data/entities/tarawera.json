@@ -1,0 +1,65 @@
+{
+  "entityId": "route:tarawera",
+  "slug": "tarawera",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-tarawera-2027",
+    "route-tarawera-home",
+    "route-tarawera-t102-2027",
+    "route-tarawera-gear",
+    "route-tarawera-entries",
+    "route-tarawera-transport",
+    "route-tarawera-on-course",
+    "route-tarawera-spectators",
+    "route-tarawera-gpx-2026",
+    "route-tarawera-weather",
+    "route-utmb-world-series-2027",
+    "photo-tarawera-pohutu",
+    "photo-tarawera-rotokakahi",
+    "photo-tarawera-tikitapu"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:recovery-day",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-23",
+  "reviewedAt": "2026-11-23",
+  "reviewDueAt": "2027-01-31",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "NZ"
+    ],
+    "placeName": {
+      "zh-CN": "新西兰丰盛湾大区罗托鲁瓦（Rotorua），Te Puia 出发、Village Green 终点",
+      "en": "Rotorua, Bay of Plenty, New Zealand; start at Te Puia and finish at the Village Green"
+    },
+    "mapAnchor": {
+      "longitude": 176.251135,
+      "latitude": -38.163829,
+      "kind": "start",
+      "sourceRef": "route-tarawera-gpx-2026"
+    },
+    "courseVersion": "2027-tmiler",
+    "courseEdition": "2027",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "Loop from Te Puia in Rotorua around Mount Tarawera and back to the Village Green in Rotorua",
+    "distanceMeters": 163000,
+    "distanceMethod": "The 2027 TMiler page gives 163 km. The GPX linked from that page measures 161.122 km horizontally and 162.806 km in three dimensions, and its own metadata name says 160km. This card uses the official 163 km; the file-based figures and the 2026 naming are kept in the body. The event has five races and this page is about the TMiler only.",
+    "elevationGainMeters": 3800,
+    "elevationMethod": "The 2027 page gives 3,800 m of positive gain. The linked GPX yields 5,500 m of raw positive change and 4,555 m with a 3 m elevation threshold, over 19,757 points. This card uses the official 3,800 m; file-based figures are shown in the body and are not averaged with it.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": "https://pdf.utmb.world/raw/upload/v1769550545/tarawera/Races/2026_Tarawera_Ultra_Trail_160km_V5_52f24e574e.gpx",
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://tarawera.utmb.world/races/t-miler",
+    "attribution": "Tarawera Ultra-Trail by UTMB. The GPX linked from the 2027 TMiler page has the metadata and track name '2026 Tarawera Ultra-Trail 160km_V5', was created by Garmin Desktop App, carries a metadata time of 2019-12-18T14:58:00Z, has 19,757 points, and contains no copyright or reuse licence. This site links to the official race page, does not host the file, does not draw the track and does not treat the file as verified 2027 geometry. Location photos: Pohutu Geyser by Pseudopanax at English Wikipedia (public domain); Lake Rotokakahi and Lake Tikitapu by Michal Klajban (CC BY-SA 4.0), resized only. Two self-made diagrams are published with the page under CC BY 4.0."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-comrades-big-five",
+  "title": "Everything You Need To Know About Comrades Marathon",
+  "url": "https://marathonhandbook.com/everything-you-need-to-know-about-comrades-marathon/",
+  "publisher": "Marathon Handbook",
+  "publishedAt": "2026-06-13",
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The article says the Comrades course is famous for its \"Big Five\" hills, climbed in order on the Up Run: Cowies Hill, Field's Hill, Botha's Hill, Inchanga and Polly Shortts.",
+    "It says Polly Shortts sits at about the 80 km mark on the Up Run and is the last climb of the day in that direction.",
+    "It describes the route as following the N3 corridor through Westville, Pinetown, Kloof, Hillcrest, Drummond, Cato Ridge and Camperdown.",
+    "It states that the race alternates direction each year, so the Down Run reverses the Up Run order."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 Marathon Handbook 2026-06-13 文章。该文不是赛事官方页面，只用于五大坡名称与顺序；正文明确标注“官网未单列 Big Five 页面”。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'famous for its \"Big Five\" hills, climbed in order on the up run: Cowies Hill, Field’s Hill, Botha’s Hill, Inchanga, and Polly Shortts'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Polly Shortts... sits at the 80-kilometre mark'；'The last climb of the day'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'The route follows the N3 corridor... Westville, Pinetown, Kloof, Hillcrest, Drummond... Cato Ridge and Camperdown'。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'The Comrades alternates direction each year'；Down Run 反向为赛事方向规则的直接推论。" }
+  ]
+}

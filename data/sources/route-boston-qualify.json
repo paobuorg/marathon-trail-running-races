@@ -9,14 +9,89 @@
     "The 2027 Boston Marathon is scheduled for 19 April 2027 and the 2028 Boston Marathon for 17 April 2028.",
     "Qualifying standards for 2027 and 2028 include 2:55:00 for men aged 18–34 and 3:25:00 for women and non-binary athletes aged 18–34.",
     "Qualifying standards for 2027 and 2028 include 4:50:00 for men aged 80 and over and 5:20:00 for women and non-binary athletes aged 80 and over.",
-    "Standards become more lenient by five-year age group.",
+    "The qualifying standards table uses five-year age bands from 18–34 through 80 and over.",
     "Qualifying times are based on official submitted net time (chip time) and must be run on a certified full marathon course.",
     "The qualifier registration cut-off for acceptance into the 2027 Boston Marathon was 5 minutes 17 seconds.",
     "The qualifying window for the 2027 Boston Marathon began on 13 September 2025.",
     "Qualifier registration for the 2027 Boston Marathon ran from 14 September to 18 September 2026 and was not first-come, first-served.",
     "Verified qualifying times from courses with a net downhill of 1,500–2,999 ft receive a 5:00 adjustment, 3,000–5,999 ft a 10:00 adjustment, and 6,000 ft or more is not accepted.",
-    "From 2027, about 1,000 qualifiers who are not faster than the cut-off are randomly selected through the Boston Qualifier Selection.",
+    "About 1,000 qualifiers who are not faster than the cut-off are randomly selected through the Boston Qualifier Selection.",
     "Athletes must be at least 18 years old on race day."
   ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面日期表列出 2027 年 4 月 19 日、2028 年 4 月 17 日。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "18–34 岁行：男子 2:55:00、女子与非二元 3:25:00。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "80 岁以上行：男子 4:50:00、女子与非二元 5:20:00。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "表格按 5 岁年龄组列到 80+；不再声称页面原文有“变宽”表述。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文写明用 official submitted net time（chip time），且成绩须在 certified full marathon course 上跑出。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：“5 minutes, 17 seconds”为 2027 年录取线。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文写明 2027 年资格窗口自 2025 年 9 月 13 日开始。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文写明报名 2026 年 9 月 14–18 日，且“not first-come, first-served”。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文按 1,500–2,999 ft 加 5:00、3,000–5,999 ft 加 10:00、≥6,000 ft 不接受列出。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "页面写约 1,000 名未达录取线者通过 Boston Qualifier Selection 随机抽取；删除无原文的 From 2027。"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文要求比赛日年满 18 岁。"
+    }
+  ],
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe + HTML 转文本",
+    "note": "HTTP 200，资格标准表、录取线与净下降规则均可读。"
+  },
   "license": null
 }

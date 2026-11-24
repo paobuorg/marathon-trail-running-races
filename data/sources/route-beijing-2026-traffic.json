@@ -20,5 +20,27 @@
     "Reopening times are decided by the traffic management department according to how the race progresses.",
     "Alternative routes named in the notice include Taijichang Street, Qianmen East/West Street, Lianshi Road, Fushi Road, the Third Ring Road, Zizhuyuan Road, Fucheng Road, the Fourth Ring Road, Haidian South Road, Zhichun Road, the Badaling expressway, Tsinghua East Road, Zhanchunyuan West Road, Wangzhuang Road, Shuangqing Road and Datun Road."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取北京市交管局通告 → .agent/chicago-beijing35/beijing-traffic.html",
+    "note": "通告正文可读；路线顺序、分时封闭与绕行路线逐段核对；绕行清单中“京藏高速”按常用名译作Badaling expressway"
+  },
+  "claimVerification": [
+    {"index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "18日星期日；天安门广场起点；奥林匹克公园中心区景观大道终点"},
+    {"index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "路线顺序与通告一致：广场东侧路—东西长安街—复兴门外大街—复兴路—新兴桥—西三环中路辅路—…—北中轴景观大道—大屯北路—湖景东路—大屯路—终点"},
+    {"index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "全程42.195公里；比赛时间约6小时"},
+    {"index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "10月17日22:00起封闭天安门广场东、西侧路"},
+    {"index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "07:20起东、西长安街南池子南口至复兴门桥"},
+    {"index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "07:30复兴门外大街/复兴路；07:35西三环中路辅路；07:45玲珑路；07:50蓝靛厂"},
+    {"index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "07:55北四环辅路；08:05志新东路；08:10志新路；08:15学院路/学清路；08:20石板房南路/科荟路；08:25林萃路/速滑馆"},
+    {"index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "08:30北五环南辅；08:35奥林西路；08:40科荟路双向；08:45北五环南辅；08:50奥林东路/北辰东路；08:55科荟南路"},
+    {"index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "09:00北中轴景观大道至终点段禁行人；09:05大屯北路/湖景东路/大屯路"},
+    {"index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "封闭道路禁止各种车辆停放"},
+    {"index": 10, "status": "supported", "checkedAt": "2026-11-08", "note": "车辆行人须服从民警指挥，赛事车辆/运动员通过时禁止横穿"},
+    {"index": 11, "status": "supported", "checkedAt": "2026-11-08", "note": "恢复时间由交管部门按比赛进程决定"},
+    {"index": 12, "status": "supported", "checkedAt": "2026-11-08", "note": "绕行含台基厂大街、前门东西大街、莲石路、阜石路、三环、紫竹院路、阜成路、四环、海淀南路、知春路、京藏高速（Badaling）、清华东路、展春园西路、王庄路、双清路、大屯路；通告另列北五环"}
+  ]
 }

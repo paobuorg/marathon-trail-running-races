@@ -14,5 +14,56 @@
     "On 2026-03-01 the daily maximum is 16.7C, the minimum is 6.9C and precipitation is 0.0 mm.",
     "These are modelled grid values, not measurements taken on the course."
   ],
-  "license": "CC-BY-4.0"
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 Open-Meteo archive API → .agent/tokyo35/weather.json",
+    "note": "JSON 返回 9 天日值；网格点 35.676624/139.69112，timezone Asia/Tokyo。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "返回 latitude 35.676624 / longitude 139.69112，timezone Asia/Tokyo"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "daily.time 2026-02-22…2026-03-02 共9天"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "max 12.1–22.8，排序后中位 16.7"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "min 2.2–11.8，排序后中位 7.8"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2/25 49.5mm 为最大；≥1mm 仅1天，≥5mm 仅1天"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2026-03-01 max 16.7 / min 6.9 / precip 0.0"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "JSON 为 modelled archive grid 值，非赛道实测"
+    }
+  ]
 }

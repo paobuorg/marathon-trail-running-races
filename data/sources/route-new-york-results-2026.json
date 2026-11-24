@@ -16,5 +16,68 @@
     "There were 32,047 men's finishers, 28,942 women's finishers and 157 nonbinary finishers.",
     "All finisher numbers and results are as of 1 November and subject to change after final race scoring verification."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 prod.nyrr.org/media-center/news/2026/11/02/…exceed-60000-finisher-mark",
+    "note": "赛后公告全文可读，含出发/完赛、国家、冠军、轮椅与非二元组数据"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "公告首段：“held on Sunday, 1 November 2026”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首段：61,529 starters、61,146 finishers，“third consecutive year… world record for the largest marathon”。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：153 countries、15,745 international finishers；“Italy… highest number… followed by France”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：“celebrated 50 years of the five-borough course”。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "冠军段：Almgren 2:06:01、Chepkirui 2:24:36。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "轮椅段：Marcel Hug 1:28:14、Catherine Debrunner 1:40:02。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "非二元段：Ryan Montgomery 2:23:39，“new course record”。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "分项完赛数：32,047 men、28,942 women、157 nonbinary。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "文末：“All finisher numbers and results are as of 1 November and subject to change after final race scoring verification.”"
+    }
+  ]
 }

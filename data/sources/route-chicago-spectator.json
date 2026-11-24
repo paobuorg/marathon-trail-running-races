@@ -11,5 +11,18 @@
     "Spectators are encouraged to move along the course throughout the event.",
     "The page does not describe a runner drop-out procedure or state that runners may leave the course at CTA stations."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取Transportation & Parking页 → .agent/chicago-beijing35/chicago-spectator.html",
+    "note": "观赛交通页正文可读；CTA站点里程表逐条核对"
+  },
+  "claimVerification": [
+    {"index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "SPECTATOR INFORMATION；原文“All participants and spectators are strongly encouraged to use public transportation”，并列CTA directions"},
+    {"index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "站点与里程逐一对应：Grand 1/3/12.5、Jackson 2、Clark/Division 4/12、Sheridan 8、Addison 8.5、Sedgwick 11、Washington/Wells 13.5、UIC-Halsted 14/17、18th 19.25、Cermak-Chinatown 21.5、Sox-35th 23/23.25/23.5、35th-Bronzeville-IIT同、Cermak-McCormick 25、Roosevelt终点"},
+    {"index": 2, "status": "partial", "checkedAt": "2026-11-08", "note": "页面鼓励公共交通并逐站列观赛点，但没有“spectators are encouraged to move along the course”的原文表述"},
+    {"index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "全文无runner drop-out流程，也无“可在CTA站退赛”的表述"}
+  ]
 }

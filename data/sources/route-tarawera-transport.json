@@ -1,0 +1,31 @@
+{
+  "sourceId": "route-tarawera-transport",
+  "title": "Tarawera Ultra-Trail by UTMB — Transport & Parking",
+  "url": "https://tarawera.utmb.world/destination/transport-parking",
+  "publisher": "Tarawera Ultra-Trail by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Athlete shuttle buses run from Village Green on Tutanekai St: TMiler 3:00-3:30am for NZ$10, T102 5:00-5:30am for NZ$20, T50 5:45-6:30am for NZ$10, T21 8:30-9:15am for NZ$10, and T14 from the Novotel front entrance 6:30-7:00am for NZ$10.",
+    "A spectator shuttle to the Puarenga aid station leaves the Waipa MTB Carpark in a constant loop from 7:15am to 10:30am, takes 5 minutes one way and costs NZ$8 return.",
+    "A spectator shuttle to the Okataina aid station leaves the Rotoiti Rugby Club every 30 minutes from 9:30am Saturday to 5:00am Sunday, with the final bus departing Okataina at 6:00am, taking 20 minutes one way and costing NZ$20 return.",
+    "Lake Okataina Road is closed to event traffic for the duration of the event and spectators are told not to drive directly to the aid station.",
+    "Limited free parking is available at all start lines, there is no dedicated event parking at the Village Green, and not all aid stations are accessible by car.",
+    "Bus tickets can be purchased via the registration account."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://tarawera.utmb.world/destination/transport-parking，读取 ATHLETE BUSES、SPECTATOR BUSES 两表与 PARKING 段"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "ATHLETE BUSES 表五行" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "SPECTATOR BUSES 表第一行，脚注写 TMiler 观众可自驾停在 Planet Bike" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "SPECTATOR BUSES 表第二行与双星脚注" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'Lake Okataina Road will be closed to event traffic for the duration of the event. Please do not attempt to drive directly to the aid station.'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "PARKING 段：Limited (free) parking at all start lines；no dedicated event parking for the Village Green；Not all aid stations are accessible by car" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "'Bus tickets can be purchased via your registration account.'" }
+  ]
+}

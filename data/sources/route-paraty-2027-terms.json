@@ -1,0 +1,24 @@
+{
+  "sourceId": "route-paraty-2027-terms",
+  "title": "Paraty Brazil by UTMB 网站使用条款（知识产权条款）",
+  "url": "https://paraty.utmb.world/terms-and-conditions",
+  "publisher": "Paraty Brazil by UTMB / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "条款声明网站的文本、版式、设计、照片、影片、视频、图形等全部组成部分属于 SAS UTMB Group 或其合作方的知识产权。",
+    "未经事先明确授权，禁止以任何方式部分或全部复制、展示、使用或修改上述内容。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 读取条款页正文中的 intellectual property 段。",
+    "checkedVia": "https://paraty.utmb.world/terms-and-conditions"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "原文列举『texts, layouts, designs, photographs, films, videos, graphics...』等组成部分。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：『...is prohibited without the prior express authorisation of SAS UTMB Group...』。" }
+  ]
+}

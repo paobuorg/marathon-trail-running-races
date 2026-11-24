@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-uta-mandatory-gear-2027",
+  "title": "HOKA Ultra-Trail Australia by UTMB 2027 — Mandatory Gear",
+  "url": "https://uta.utmb.world/runners/mandatory-gear",
+  "publisher": "USM Events Pty Ltd / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "UTA is a cupless event and athletes are advised to carry their own cup, bottle or hydration vest for drinks at aid stations, and to carry water between checkpoints.",
+    "Common mandatory items across UTAMiler, UTA100, UTA50, UTA22 and UTA11 are a long-sleeve thermal top, a waterproof and breathable jacket, a beanie/balaclava/buff, a mobile phone, an A5 emergency instruction card, a whistle, an emergency space blanket or light bivvy, a compression bandage of at least 7.5 cm by 2.3 m unstretched, 2 litres of water capacity (1 litre for UTA11), two food bars or portions per leg, a rubbish ziplock bag, a race number and a timing tag for the backpack.",
+    "UTAMiler, UTA100 and UTA50 additionally require a high-visibility safety vest complying with AS/NZS 4602 and worn between 8:00pm and 6:00am, a headlamp, a small backup light and a dry sack or zip-lock bags.",
+    "UTAMiler and UTA100 additionally require long leg thermal pants and full-fingered lightweight thermal gloves, plus weather-dependent long waterproof pants and a 100-weight long-sleeve synthetic fleece top.",
+    "For UTA22 and UTA11 the thermal top and waterproof jacket are weather-dependent items, and only UTA22 and UTA11 runners are exempt from the headlamp and high-visibility vest.",
+    "Weather-dependent rulings are announced at 10:00am on Wednesday 13 May for UTA11, 9:00am on Thursday 14 May for UTA22 and UTAMiler, and 10:00am on Friday 15 May for UTA100.",
+    "UTA100 and UTAMiler runners must complete a mandatory gear check before collecting the race pack, either at a partner store until 12 May or at race check-in; no gear means no start, random checks apply and missing items can bring a time penalty.",
+    "The waterproof jacket must have fully taped rather than critically taped seams and a hood, and the phone must be charged with a working SIM card."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://uta.utmb.world/runners/mandatory-gear，读取 gear 表五列与 WEATHER DEPENDENT RULINGS、MANDATORY GEAR CHECK、物品描述段"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页首：In order to reduce waste, we are a cupless event；Athletes are strongly advised to carry their own drinking cup, bottle or hydration vest" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "gear 表逐行读取五列勾选；水容量写 2 litres（1 litre for UTA11）" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "high visibility safety vest 与 headlamp / small backup light / dry sack 仅 Miler、100、50 三列为勾；vest 描述写 worn 8:00pm-6:00am" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "long leg thermal pants、thermal gloves 仅 Miler 与 100 勾选；waterproof pants 与 fleece 标 *（weather dependent）" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "UTA22 与 UTA11 的 thermal top、jacket 标 *；两列 headlamp 与 vest 为叉" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "WEATHER DEPENDENT RULINGS 段逐行：UTA11 10:00am Wed 13 May；UTA22 and UTAMiler 9:00am Thu 14 May；UTA100 10:00am Fri 15 May" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "MANDATORY GEAR CHECK FOR UTA100 & UTAMILER 段：early check until 12 May；No mandatory gear = No start；random gear checks；time penalty" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "物品描述段：fully taped (not critically taped) waterproof seams and hood；fully charged battery and working SIM card" }
+  ]
+}

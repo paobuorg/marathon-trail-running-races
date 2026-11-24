@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-sierre-zinal-weather",
+  "title": "Open-Meteo ERA5 archive — June 2016–2025, Sierre (46.2923 N, 7.5323 E)",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=46.2922522&longitude=7.5323195&elevation=533&start_date=2016-06-01&end_date=2025-06-30&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Europe%2FZurich",
+  "publisher": "Open-Meteo (ERA5 reanalysis)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Open-Meteo ERA5 archive for the grid cell at 46.2923 N, 7.5323 E, elevation 533 m, over the 300 June days from 2016 to 2025: mean daily maximum 25.0 °C and mean daily minimum 14.3 °C.",
+    "The same query gives mean precipitation of 3.2 mm per day; 152 of the 300 June days (50.7%) had at least 1 mm.",
+    "These are reanalysis statistics for a grid cell at Sierre, not official race data and not measurements from Zinal or the course high point."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接查询 Open-Meteo archive API，取 2016–2025 年 6 月共 300 天，按 daily time 过滤 06 月后计算均值；坐标与海拔采用 Sierre 镇中心，不代表 Zinal 或 Weisshorn 高海拔。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "API 返回 300 个 6 月日值；temperature_2m_max 均值 25.0，temperature_2m_min 均值 14.3。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "precipitation_sum 均值 3.2 mm/day；≥1 mm 的日数 152/300 = 50.7%。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Sierre 与 Zinal 海拔差约 1,100 m；本页明确不把 Sierre 数据外推到终点或山口。" }
+  ]
+}

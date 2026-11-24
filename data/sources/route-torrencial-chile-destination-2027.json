@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-torrencial-chile-destination-2027",
+  "title": "VALDIVIA, LA PERLA DEL SUR DE CHILE — official destination page",
+  "url": "https://torrencial.utmb.world/es/discover/valdivia",
+  "publisher": "UTMB World Series / Torrencial Chile by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Valdivia was founded in 1552 on the banks of the Calle-Calle river.",
+    "The city's river network includes the Valdivia, Calle-Calle, Cau-Cau and Cruces rivers.",
+    "The event describes the Valdivian rainforest (Selva Valdiviana) as one of the region's defining landscapes.",
+    "The page quotes Parque Oncol as a coastal forest remnant with annual rainfall above 3,500 mm, strong winds and high atmospheric humidity.",
+    "The event states that in southern Chile winter and rain add a distinct dimension to trail running, including persistent rain and swollen rivers."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "工具抓取（桌面 UA）读取西文目的地页正文",
+    "note": "2026-11-08 读取。3,500 mm 是页面转述 Parque Oncol 的降水描述，不是赛事期间降水量，也不是本站实测。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Fundada en 1552 a orillas del río Calle-Calle。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "su red fluvial, que incluye los ríos Valdivia, Calle-Calle, Cau-Cau y Cruces。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "caminar por senderos milenarios en la Selva Valdiviana；SELVA VALDIVIANA PARQUE ONCOL。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "intensas lluvias (que superan los 3.500 mm anuales) fuertes vientos y una alta humedad atmosférica。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "en el sur de Chile, el invierno y la lluvia añaden una dimensión única... Correr bajo la persistente lluvia valdiviana, con el sonido de los ríos crecidos。" }
+  ]
+}

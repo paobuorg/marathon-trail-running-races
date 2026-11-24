@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-shanghai-wmm-assessment",
+  "title": "Shanghai Marathon passes stage one of candidate assessment",
+  "url": "https://www.worldmarathonmajors.com/content-hub/shanghai-marathon-passes-2025-abbottwmm-candidate-assessment",
+  "publisher": "Abbott World Marathon Majors",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Abbott World Marathon Majors states that the Shanghai Marathon will proceed to the second stage of the candidacy process in its attempt to join the series.",
+    "The marathon was assessed for the second time in November 2025 and met all the criteria set by Abbott World Marathon Majors to pass stage one.",
+    "Shanghai must meet the criteria for a second consecutive year when it stages its next marathon on 6 December 2026, and if successful would join the Majors in 2027.",
+    "The page names Shanghai as one of two races still requiring one more pass of the AbbottWMM criteria, alongside the Sanlam Cape Town Marathon, and says the series would comprise nine races in 2027 if both are successful.",
+    "The page does not describe Shanghai as a Major at the time of publication; it describes the race as a candidate in the evaluation process."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 worldmarathonmajors.com 该文全文；同页含 AbbottWMM CEO Dawna Stone 与上海方表态，本页只取评估状态与日期，不引用表态性内容"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'the Shanghai Marathon will now proceed to the second stage of the candidacy process'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'assessed for the second time in November 2025 and met all the criteria... in order to pass stage one'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'meet the criteria for a second consecutive year when it stages its next marathon on December 6, 2026'；'would join the Majors in 2027'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'the series will comprise a total of nine races in 2027'；Cape Town 同段并列" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "全文称 Shanghai 为 candidate / 评估流程中的赛事，未称其为 Major" }
+  ]
+}

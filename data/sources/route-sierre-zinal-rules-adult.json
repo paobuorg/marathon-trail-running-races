@@ -1,0 +1,33 @@
+{
+  "sourceId": "route-sierre-zinal-rules-adult",
+  "title": "Sierre-Zinal rules — race, date and route (art. 1–8)",
+  "url": "https://www.sierre-zinal.com/en/sierre-zinal-race-date-route-341.html",
+  "publisher": "Sierre-Zinal Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Article 3 defines an adult race from Sierre to Zinal 'also called the \"Race of the Five Four Thousand Meter Peaks\"'.",
+    "Article 4 states that the adult race and the Chandolin–Zinal junior race are in principle held each year on the eve of the second Sunday in August.",
+    "Article 7 gives the adult race as a 31 km mountain trail with 2,200 m of elevation gain and 1,100 m of vertical drop.",
+    "Article 7 states that the Runner category must use the route via Niouc, while the Tourist category may choose between Niouc and the Chapelle Saint-Antoine.",
+    "Article 5 defines the Tourist category as runners doing more than 4:30 and the Runner category as those doing less than 4:30; Tourist runners receive an official time but no ranking and no qualifying points for other competitions, and cannot include Sierre-Zinal in ITRA or UTMB indexes.",
+    "Article 8 gives the Chandolin–Zinal junior race as 19 km with 800 m of gain and 1,100 m of drop.",
+    "The rules state that figures in brackets may vary from one edition to another and become final when registration opens for that edition."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官网英文规则分页 Art. 1–8。规则开篇说明方括号内数字可逐年调整，并在当年报名开放时视为最终值；法文版为解释基准。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'an adult race from Sierre to Zinal also called the \"Race of the Five Four Thousand Meter Peaks\"'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'are, in principle, held each year on the eve of the second Sunday in August'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'a [31] km mountain trail involving a [2200] meter elevation gain and a [1100] meter vertical drop'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'For athletes in the \"Runner\" category, only the route via Niouc applies'；'Athletes in the \"Tourist\" category can choose between two departure options: either via Niouc or via the Chapelle Saint-Antoine'。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "'Tourist' category does more than [4:30]；'Runner' does less than [4:30]；'no ranking'；'cannot include Sierre-Zinal in the calculation of their ITRA or UTMB indexes'。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "'The Chandolin-Zinal Junior Race is a [19] km trail involving a [800] meter elevation gain and a [1100] meter vertical drop.'" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "'All figures or amounts appearing in brackets ... may vary from one edition to another. However, such figures ... shall be deemed final as of the opening of registrations'。" }
+  ]
+}

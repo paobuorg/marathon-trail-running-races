@@ -6,6 +6,8 @@
   "riskLevel": "general",
   "sourceRefs": [
     "route-diagonale-des-fous-2026-course",
+    "route-diagonale-des-fous-2025-course",
+    "route-diagonale-results-2021",
     "route-diagonale-des-fous-2026-cutoffs",
     "route-diagonale-des-fous-2026-overview",
     "route-diagonale-des-fous-2026-rules-archive",
@@ -30,9 +32,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-11-06",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-11-06",
+  "updatedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewDueAt": "2027-07-17",
   "details": {
     "raceType": "trail-ultra",
     "countryCodes": [
@@ -49,6 +51,23 @@
       "sourceRef": "route-anchor-editorial"
     },
     "courseVersion": "2026-diagonale-des-fous-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [
+      {
+        "edition": "2025",
+        "observedAt": "2026-11-09",
+        "field": "course",
+        "change": "route-refined",
+        "from": "Colorado 下降段按原线下行",
+        "to": "该段因气旋 Garance 后封闭，改经 Piton Trésor–Rampes de la Montagne–Chemin des Perles–Vigie；CP20 Colorado 171.6 km，终点 La Redoute 178.6 km",
+        "sourceRef": "route-diagonale-des-fous-2025-course",
+        "note": {
+          "zh-CN": "改线。官方 2025 赛道说明明示 Colorado 段自气旋 Garance 后封闭，并逐段点名替代路径；属赛道变化，不是关门或组别规则调整。",
+          "en": "Course change. The official 2025 course description states the Colorado section has been closed since cyclone Garance and names the replacement route; this is a course change, not a cut-off or group rule change."
+        }
+      }
+    ],
     "direction": "Point-to-point from Saint-Pierre to Saint-Denis",
     "distanceMeters": 180000,
     "distanceMethod": "Multiple official bases: the 2026 race page lists 180 km; the 2026 official cut-off table totals 180.8 km; the English race overview lists 170 km; the archived 2013 rules give about 165 km. Figures are shown side by side and not averaged.",

@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-qmt-aid-menu",
+  "title": "Québec Mega Trail — aid stations and menu",
+  "url": "https://ultratrailcanada.com/en/infos/aid-station-and-menu/",
+  "publisher": "Québec Mega Trail / Ultra-Trail Canada",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The aid-station page lists nine stations open to QMT135: Halte de l'Arche, Massif, Cap Salut, Cap Gribane, St-Tite-des-Caps, Mestachibo, MSA, Summit and Fondeur.",
+    "Crew are flagged as allowed at Massif, St-Tite-des-Caps, MSA, Summit and Fondeur, and not flagged at Halte de l'Arche, Cap Salut, Cap Gribane or Mestachibo.",
+    "XACT products are served at all aid stations; the listed food includes salted potatoes, chips, hard-boiled eggs, fruit, soup, grilled cheese, pickles and maple syrup, with some items reserved for 135 km runners.",
+    "The page still lists QMT-110 among the distances at the Fondeur station, although the 110 km race was merged into the 135 km from 2025.",
+    "La Coulée is listed for QMT-25 only."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接读取官方补给站与菜单页。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "逐个站点 Distances 字段照录：QMT-135 出现在 Halte de l'arche、Massif、Cap Salut、Cap Gribane、St-tite-des-Caps、Mestachibo、MSA、Summit、Fondeur，共 9 个；页面顶部仍称 135 km 有 10 个补给站" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Massif / St-tite / MSA / Summit / Fondeur 标 Support crew allowed；Halte de l'arche / Cap Salut / Cap Gribane / Mestachibo 无此标记" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "开篇 XACT at all QMT aid stations；菜单逐项照录；Fondeur 的 minestrone 与 grilled cheese 标 Only for 135km runners" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Fondeur 的 Distances 列 QMT-135 / QMT-110 / QMT-50 / QMT-32 / QMT-30；官方新闻页写明 QMT-110 自 2025 起并入 135 km" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "La Coulée 仅列 QMT-25" }
+  ]
+}

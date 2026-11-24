@@ -1,0 +1,33 @@
+{
+  "sourceId": "route-sierre-zinal-access",
+  "title": "Participants : accès et transports — Sierre-Zinal (2026 edition)",
+  "url": "https://www.sierre-zinal.com/fr/participants-acces-transports-2870.html",
+  "publisher": "Sierre-Zinal Association (organiser)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The organiser's participants page requires every participant to reach the welcome zone at least 45 minutes before their start time, and lists a free shuttle from the bus stop in front of Restaurant Le Bourgeois to the start welcome zone; the tourist shuttle runs every 10 minutes from 03:30 to 05:45 and the runner shuttle every 10 minutes from 09:30 to 10:45.",
+    "A special Geneva–Sierre night train departs Geneva at 01:54 and arrives in Sierre at 04:10, calling at Nyon 02:21, Morges 02:41, Renens 02:48, Lausanne 02:54, Vevey 03:08, Montreux 03:14, Aigle 03:28, St-Maurice 03:37, Martigny 03:48 and Sion 04:01; discounted CFF tickets of up to 50% are available in limited quantities.",
+    "Regular rail service to Sierre includes one IR90 and one IR95 train per hour per direction on the Brig–Genève-Aéroport corridor, one to two regional trains per hour per direction, and up to four Geneva–Sierre trains per hour during the day.",
+    "The return from Zinal to Sierre starts at 12:00, the supporters' bus reaches Zinal no later than 08:50, and regular train and bus lines serve the Val d'Anniviers.",
+    "On the 2026 race day the Anniviers road from Sierre was interrupted in both directions from 04:40 to 05:25, 05:40 to 06:25, 10:25 to 10:35 and 10:55 to 11:30; the descent from Vissoie to Sierre was closed from 10:25 to 12:30 with a detour via Vercorin, Zinal to Vissoie was closed from 11:45 to 13:30 with a detour via Grimentz, and Ayer to Chandolin was closed from 06:00 to 14:00 with access via Vissoie.",
+    "Parking is available in Sierre and the Val d'Anniviers but places are limited, so the organiser recommends public transport; vans and campervans use Parking Cremo – Îles Falcon in Sierre for CHF 5, open from Friday 17:00 to Sunday evening, with no reservation and first-come, first-served access.",
+    "These timetables, road closures and parking arrangements are published for the 2026 edition; the 2027 edition (Saturday 7 August) had not published its own arrangements on the check date."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 用桌面 UA 直接请求官网参与者交通专页及其子页（accès départ Sierre、parking、adaptation circulation、train spécial、train & bus、parking vans），HTTP 200，正文可读；抄录接驳、夜车时刻、常规铁路、返程、2026 届封路与房车停车规则。所有班次与封路均为 2026 届，2027 届未发布。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'au moins 45 minutes avant leur heure de départ'；'Une navette gratuite vous attend à l'arrêt de bus devant le Restaurant le Bourgeois'；'toutes les 10 minutes de 03h30 à 05h45'（Touristes）、'09h30 à 10h45'（Coureurs）。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "专列时刻表：GENÈVE 01H54、NYON 02H21、MORGES 02H41、RENENS 02H48、LAUSANNE 02H54、VEVEY 03H08、MONTREUX 03H14、AIGLE 03H28、ST-MAURICE 03H37、MARTIGNY 03H48、SION 04H01、SIERRE 04H10；'réductions allant jusqu'à 50%'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'1 train par heure et par direction sur la ligne IR90'；'IR95'；'1 à 2 trains régionaux par heure'；'Jusqu'à 4 trains par heure entre Genève et Sierre en journée'。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Retour Zinal → Sierre dès 12h'；'Bus supporters... arrivée à Zinal au plus tard à 08h50'；'lignes de trains et bus réguliers desservant le Val d'Anniviers'。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：04h40–05h25、05h40–06h25、10h25–10h35、10h55–11h30；Vissoie→Sierre 10h25–12h30 déviation par Vercorin；Zinal→Vissoie 11h45–13h30 déviation par Grimentz；Ayer→Chandolin 06h00–14h00 via Vissoie。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Les places étant limitées, nous te recommandons de privilégier les transports publics'；'Parking Cremo – Îles Falcon'；'CHF 5.-'；'Du vendredi 7 août à 17h00 au dimanche 9 août au soir'；'Aucun système de réservation... premier arrivé, premier servi'。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "页面标注 Sierre-Zinal 2027 为 'Samedi 7 août'，但交通子页仍写 2026 届日期（7–9 août 2026）；因此正文把班次与封路标为 2026 届。" }
+  ]
+}

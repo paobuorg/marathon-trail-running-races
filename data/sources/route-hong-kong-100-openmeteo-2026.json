@@ -13,5 +13,49 @@
     "On 24 January 2026 the modelled daily maximum was 18.0°C and the minimum 7.2°C, with no precipitation.",
     "These values are grid-point modelled historical data, not on-course measurements."
   ],
-  "license": "CC-BY-4.0"
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 重跑 same Open-Meteo archive API 请求，逐日复算"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "API 返回 latitude 22.390158 / longitude 114.2236 / elevation 380 / timezone Asia/Hong_Kong"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "daily temperature_2m_max 13.9–23.4，中位数 18.2"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "daily temperature_2m_min 6.5–12.8，中位数 10.3"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "daily precipitation_sum 仅 1 月 23 日 0.1 mm，其余为 0"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "1 月 24 日 max 18.0 / min 7.2 / precipitation 0"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "全部数值为 archive API 在 22.40N 114.25E 网格点的模式值，非站点实测"
+    }
+  ]
 }

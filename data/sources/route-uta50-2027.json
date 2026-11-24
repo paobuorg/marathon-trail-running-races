@@ -1,0 +1,33 @@
+{
+  "sourceId": "route-uta50-2027",
+  "title": "HOKA Ultra-Trail Australia by UTMB 2027 — UTA50",
+  "url": "https://uta.utmb.world/races/UTA50",
+  "publisher": "USM Events Pty Ltd / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2027 UTA50 is 51 km with 2,400 m of positive gain, starts at Scenic World, Katoomba at 05:05 on Saturday 15 May 2027, and has a 14 h 30 min limit.",
+    "The UTA50 page shows 4 Running Stones and Finals Access 'SOLD OUT'."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://uta.utmb.world/races/UTA50，读取页头 stat block"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页头 stat block：Distance 51 KM；Elevation Gain 2400 M+；Start Date Saturday 15th May 2027；Race Start Scenic World, Katoomba - 05:05；Max Allowed 14 Hours 30 Minutes"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页头 Running Stones 4；Finals Access SOLD OUT"
+    }
+  ]
+}

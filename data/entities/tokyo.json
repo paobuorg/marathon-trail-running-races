@@ -15,6 +15,7 @@
     "route-tokyo-station-access",
     "route-tokyo-traffic",
     "route-tokyo-weather",
+    "route-tokyo-2027-outline",
     "photo-tokyo-2019",
     "route-anchor-editorial"
   ],
@@ -25,9 +26,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-11-06",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-11-06",
+  "updatedAt": "2026-11-08",
+  "reviewedAt": "2026-11-08",
+  "reviewDueAt": "2027-01-31",
   "details": {
     "raceType": "road-marathon",
     "countryCodes": [
@@ -44,6 +45,9 @@
       "sourceRef": "route-anchor-editorial"
     },
     "courseVersion": "2026-tokyo-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [],
     "direction": "Point-to-point from the Tokyo Metropolitan Government Building in Shinjuku to Tokyo Station/Gyoko-dori Avenue",
     "distanceMeters": 42195,
     "distanceMethod": "Official 42.195 km, JAAF-certified and World Athletics/AIMS-recognised",

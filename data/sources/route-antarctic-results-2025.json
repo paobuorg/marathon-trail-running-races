@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-antarctic-results-2025",
+  "title": "Antarctic Ice Marathon — 2025 race results",
+  "url": "https://www.icemarathon.com/years/2025",
+  "publisher": "Antarctic Ice Marathon / Runbuk",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "The 2025 men's marathon podium is Denis Nazarov 3:54:49, Rune Buyl 4:18:25 and Charles Brown 4:27:14.",
+    "The 2025 women's marathon podium is Catherine Drysdale 3:48:43, Joanna Drewnicka-Ogrodnik 4:18:05 and Victoria Grahn 4:25:22.",
+    "The 2025 results page also lists a half marathon, 50 km and other distances; this page uses only the marathon podium."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch",
+    "note": "Official 2025 results page read."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Men's Marathon table ranks 01–03."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Women's Marathon table ranks 01–03."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Page includes half marathon, 50 km and other result tables."
+    }
+  ]
+}

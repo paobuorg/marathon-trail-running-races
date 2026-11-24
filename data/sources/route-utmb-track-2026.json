@@ -1,14 +1,69 @@
 {
   "sourceId": "route-utmb-track-2026",
-  "title": "UTMB 2026 — Race Profile / Map / Table (2026-11-07 recheck: 173.6 km / +9,700 m / 17 service points)",
+  "title": "UTMB 2026 — Race Profile / Map / Timing Table (2026-11-08 recheck: 17 rows, 173.6 km / +9,700 m)",
   "url": "https://track.utmb.world/en/utmb/2026/utmb/track",
   "publisher": "UTMB World Series",
   "publishedAt": null,
-  "accessedAt": "2026-11-07",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The official interactive track view is the public source for the 2026 UTMB profile, map and timing table.",
     "The profile covers the full 2026 course from Chamonix back to Chamonix.",
-    "The page is a standalone single-page app, not an iframe. On 2026-11-07 it rendered 17 service-point rows covering 173.6 km with +9,700 m / -9,699 m, and did not show the 32-point timing table or Col des Pyramides Calcaires cited elsewhere on this page."
+    "The 2026 timing table has 17 rows and totals 173.6 km with +9,700 m and −9,699 m. Row by row it gives: Chamonix start 0 km, 1,035 m, +0/−0; Saint-Gervais 22.9 km, 809 m, +1,040/−1,267; Les Contamines Montjoie 32.4 km, 1,147 m, +1,535/−158; La Balme 41.1 km, 1,706 m, +2,130/−34; Les Chapieux 52.2 km, 1,546 m, +2,924/−954; Lac Combal 67.8 km, 1,965 m, +3,977/−634; Checrouit–Maison Vieille 76.4 km, 1,961 m, +4,455/−482; Courmayeur Sport Center Sortie 81.3 km, 1,194 m, +4,475/−785; Refuge Bertone 86.6 km, 1,979 m, +5,288/−31; Arnouvaz 99.4 km, 1,779 m, +5,727/−636; La Fouly 114.0 km, 1,604 m, +6,574/−1,024; Champex-Lac sortie 127.5 km, 1,472 m, +7,086/−645; Plan de l'Au 132.4 km, 1,340 m, +7,165/−210; Trient 144.0 km, 1,303 m, +7,943/−817; Vallorcine Sortie 155.3 km, 1,260 m, +8,734/−834; La Flégère 166.6 km, 1,883 m, +9,687/−327; Chamonix finish 173.6 km, 1,036 m, +9,700/−861.",
+    "Cut-off times in the 2026 table are: Saint-Gervais Sat 00:00, Les Contamines Sat 02:00, La Balme Sat 04:00, Les Chapieux Sat 07:15, Lac Combal Sat 11:00, Courmayeur Sat 14:15, Arnouvaz Sat 19:15, La Fouly Sat 23:45, Champex-Lac Sun 03:30, Plan de l'Au Sun 04:45, Trient Sun 09:00, Vallorcine Sun 12:15, La Flégère Sun 15:45 and Chamonix finish Sun 17:30; Checrouit–Maison Vieille and Refuge Bertone have no cut-off listed, and the Chamonix start row is the 19:45 start.",
+    "The services column is icon-only with no text labels or alt text. The icons on each row are: Chamonix start medical + bus; Saint-Gervais food + Näak + medical + bus + WC; Les Contamines two-hands + food + Näak + medical + bus + WC; La Balme medical + WC; Les Chapieux hot food + Näak + medical + bus + WC + bed; Lac Combal food + Näak + medical + bus + WC; Checrouit–Maison Vieille water + WC; Courmayeur two-hands + hot food + Näak + medical + bus + drop bag + WC + bed; Refuge Bertone water + Näak + WC + charging; Arnouvaz food + Näak + medical + bus + WC; La Fouly food + Näak + medical + bus + WC; Champex-Lac two-hands + hot food + Näak + medical + bus + drop bag + WC + bed; Plan de l'Au no icons; Trient food + Näak + medical + bus + WC; Vallorcine two-hands + food + Näak + medical + bus + WC; La Flégère water + Näak + medical + WC; Chamonix finish hot food + medical + bus + WC + shower + bed.",
+    "The 'slowest' column is later than the cut-off at Arnouvaz (19:36 vs 19:15) and La Fouly (23:54 vs 23:45), so the two columns use different bases.",
+    "On 2026-11-08 the rendered page did not include a 32-point table or any text naming Col des Pyramides Calcaires."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "browser",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "浏览器渲染",
+    "note": "表格由官方页面渲染后逐格读取；服务列为 SVG 图标，无 title/aria-label，文中服务名是按图形判读"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2026-11-08 用浏览器渲染 track SPA，约 50 秒后出内容：course profile、表格与地图入口"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "profile 从 0 KM Chamonix 到 173.6 KM Chamonix"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "逐行读取 17 行：累计距离、海拔、累计 +/− 与页面合计一致（173.6 / +9,700 / −9,699）"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "逐行读取 CUT-OFF TIME 列；Checrouit–Maison Vieille 与 Refuge Bertone 为空"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "服务列只有 12 种不同 SVG 图标；按图形判读为医疗、饼干、餐盖、水滴、巴士、包、WC、床、淋浴、闪电、nääk 标识与双手"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Arnouvaz SLOWEST 19:36 / CUT-OFF 19:15；La Fouly 23:54 / 23:45"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "渲染结果中没有 32 行表，也没有 “Col des Pyramides Calcaires” 文本"
+    }
+  ]
 }

@@ -7,6 +7,7 @@
   "sourceRefs": [
     "route-berlin-course-2026",
     "route-berlin-course-map-2026",
+    "route-berlin-gpx-2025",
     "route-berlin-race-day-2026",
     "route-berlin-race-day-2027",
     "route-berlin-briefing-2026",
@@ -27,9 +28,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-11-06",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-11-06",
+  "updatedAt": "2026-11-21",
+  "reviewedAt": "2026-11-21",
+  "reviewDueAt": "2027-06-29",
   "details": {
     "raceType": "road-marathon",
     "countryCodes": [
@@ -46,16 +47,19 @@
       "sourceRef": "route-anchor-editorial"
     },
     "courseVersion": "2026-berlin-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "superseded",
+    "courseChanges": [],
     "direction": "Start on Straße des 17. Juni between the Brandenburg Gate and Kleiner Stern; finish behind the Brandenburg Gate; city course through Berlin",
     "distanceMeters": 42195,
     "distanceMethod": "Official course page: 42.195 km. The official runners' course map numbers the route 1–42, while the event homepage also uses 42.195 km. No second distance figure is published.",
     "elevationGainMeters": 73,
     "elevationMethod": "Abbott World Marathon Majors official magazine: around 73 m of climbing and 79 m of descent across the route. SCC Events' own course page lists elevation as 'tba' and publishes no climb figure, so this card uses the Majors figure and labels it as such; it is not an SCC Events number.",
-    "geometryAccess": "unavailable",
+    "geometryAccess": "official-link",
     "geometryRef": null,
     "geometrySourceUrl": null,
     "geometryLicense": null,
-    "officialGeometryUrl": null,
-    "attribution": null
+    "officialGeometryUrl": "https://www.bmw-berlin-marathon.com/fileadmin/media/events/berlinmarathon/gpx/BM25_Marathon-Strecke.gpx",
+    "attribution": "SCC Events. The only official GPX file found is BM25_Marathon-Strecke.gpx at https://www.bmw-berlin-marathon.com/fileadmin/media/events/berlinmarathon/gpx/BM25_Marathon-Strecke.gpx; HEAD 2026-11-21: HTTP 200, application/octet-stream, 24,110 bytes; GPX 1.1, creator SCC KML/KMZ/GPX Tools, 508 trackpoints, 0 waypoints, 0 elevation values, no name/desc/time. Planar distance 42.1836 km, 11.4 m short of 42.195; start 52.515214/13.360200, end 52.516013/13.372547. It is a 2025-labelled file, not a 2026 track; no copyright line and no redistribution licence. Linked only; not hosted, bundled, redrawn or used for elevation."
   }
 }

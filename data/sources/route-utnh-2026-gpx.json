@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-utnh-2026-gpx",
+  "title": "UTNH-100 2026 official GPX",
+  "url": "https://qiongjing.oss-cn-shanghai.aliyuncs.com/20261111/UTNH-100_2026%E5%8F%AF%E9%9A%86%E5%AE%81%E6%B5%B7%E8%B6%8A%E9%87%8E%E6%8C%91%E6%88%98%E8%B5%9B_1792643541919_1794370870868.gpx",
+  "publisher": "可隆宁海越野挑战赛 / 上海穹景体育文化发展有限公司",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The official UTNH-100 2026 GPX is published on the organiser's OSS bucket as a direct .gpx file, without a licence or copyright statement.",
+    "The file contains 61,666 track points and, measured point to point with the haversine formula, 100.85 km of planar distance.",
+    "Track elevations range from 18 m to 909 m; raw point-to-point ascent and descent are +5,135 / −5,125 m without smoothing.",
+    "These figures are measurements of the file, not the official race-card values of 100.6 km and 4,986 m ascent/descent."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe via local 7890 proxy; downloaded once to the agent workspace and measured locally, not hosted or redistributed",
+    "note": "2026-11-20 下载后只读统计：61,666 个 trkpt，逐点 haversine 100.85 km，ele 18–909 m，原始逐点 +5,135 / −5,125 m。文件无许可声明，本站不转存；这些是测量值，正文与实体均与官方 100.6 km / 4,986 m 分开写。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "HTTP 200，Content-Type application/octet-stream，Content-Length 4,741,825；文件内无 licence/copyright 字段。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "本地解析 61,666 个 trkpt；逐点 haversine 累计 100.85 km。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "ele 最小 18 m、最大 909 m；逐点原始高程累计 +5,135 / −5,125 m。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "官方组别页卡片仍为 100.6 km、爬升 4,986 m、下降 4,986 m；测量值只作对照。" }
+  ]
+}

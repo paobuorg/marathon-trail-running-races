@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-val-daran-colomers",
+  "title": "File:Circ de Colomèrs des de Bergús.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Circ_de_Colom%C3%A8rs_des_de_Berg%C3%BAs.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2013-08-15",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "The photograph is a clear-summer view into the Colomèrs cirque: several dark blue lakes, granite slabs, scree fields, residual snow patches and bare rocky ridges, with more distant Pyrenean ridges on the horizon.",
+    "Commons titles the photograph Circ de Colomèrs des de Bergús.jpg and its description names Estanys de Cap de Colomèrs, Ratera de Colomèrs and Estany Obago; it shows the high-mountain environment, not the VDA aid station, course marking, timing mat, start arch, finish line or race-day runner.",
+    "The author is Contraix; the file is licensed CC BY-SA 4.0; the photograph was taken on 2013-08-15 at 13:20:04; the original is 5,184 x 2,915 pixels and 3,760,048 bytes.",
+    "The route page uses a 960 x 540 copy of 191,521 bytes without cropping or colour change and credits Contraix, CC BY-SA 4.0, Wikimedia Commons; the resized copy keeps the same licence."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons file page, imageinfo API and downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons 文件页与 API 核对作者、许可、日期和原图尺寸，并下载 960 px 副本目视确认：画面是 Colomèrs 冰斗湖群，不是 VDA 补给站、路标、计时毯或赛日跑者。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地副本可见多个深蓝湖泊、花岗岩板、碎石坡、残雪和裸岩山脊，远处还有层叠山脊。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons 文件名写 Circ de Colomèrs des de Bergús；描述列出 Estanys de Cap de Colomèrs、Ratera de Colomèrs、Estany Obago；画面无号码布、旗标、补给桌、拱门或计时毯。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "imageinfo：Artist Contraix；LicenseShortName CC BY-SA 4.0；DateTimeOriginal 2013-08-15 13:20:04；5,184 x 2,915、3,760,048 字节。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 x 540、191,521 字节；未裁剪、未改色；页面署名 Contraix、CC BY-SA 4.0、Wikimedia Commons。"
+    }
+  ]
+}

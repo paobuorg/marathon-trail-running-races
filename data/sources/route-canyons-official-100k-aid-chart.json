@@ -1,0 +1,31 @@
+{
+  "sourceId": "route-canyons-official-100k-aid-chart",
+  "title": "Canyons 100K aid-station chart (metric, 2026 revision)",
+  "url": "https://pdf.utmb.world/image/upload/v1776881999/canyons/2026/Aid%20Station%20Charts/2026_The_Canyons_Endurance_Runs_by_UTMB_100k_Aid_Station_Chart_Metric_20cde448b1.pdf.pdf",
+  "publisher": "UTMB World Series / Canyons Endurance Runs by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2026 100K metric chart places Start at 0.0 km, Deadwood-1 at 18.0, Swinging Bridge at 21.7, Deadwood-2 at 25.4, Michigan Bluff at 36.4, Foresthill at 45.9, Cal 2 at 59.1, Drivers Flat at 74.0, Mammoth Bar at 86.7, Confluence at 92.7 and the finish at 99.1 km.",
+    "The chart gives cut-offs of 11:30 at Deadwood-2, 12:45 at Michigan Bluff, 14:30 at Foresthill, 19:45 at Drivers Flat, 22:15 at Mammoth Bar and 01:00 Sunday at the finish.",
+    "The chart's cumulative figures are 3,698 m of gain and 4,746 m of loss, versus the race page header's 3,750 m+.",
+    "The chart marks drop bags at Foresthill and Drivers Flat and crew access at Deadwood-2, Michigan Bluff and Foresthill; Swinging Bridge is an N/A point with no aid.",
+    "The cumulative gain/loss at the named points is 671/-883 at Deadwood-1, 1,248/-1,367 at Swinging Bridge, 1,795/-2,171 at Deadwood-2, 2,153/-2,588 at Michigan Bluff, 2,374/-3,292 at Foresthill, 2,899/-3,819 at Cal 2, 3,199/-4,443 at Drivers Flat, 3,406/-4,662 at Mammoth Bar and 3,698/-4,746 at Confluence.",
+    "The chart is marked revision 4/22/26 and says the course is subject to change due to permitting."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 重新读取 100K 公制补给站 PDF，核对累计爬升、下降、Drop Bags 与 Crew 列；为 2026 版，2027 页明确说会变。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "PDF 表内 AS KMs 列逐项照录；终点 Downtown Auburn 99.1" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "PDF Cut-Off Time 列逐项照录" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "PDF 累计 Elev. Gain / Loss 列终点为 3,698 / 4,746 m；赛事页页头为 3,750 M+" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "PDF Drop Bags 列 Foresthill、Drivers Flat 为 X；Crew 列 Deadwood-2、Michigan Bluff、Foresthill 为 X；Swinging Bridge 行 AS Label 为 N/A。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "PDF Cumulative Elev. Gain/Loss 列逐行照录；Confluence 行累计已等于终点总爬升 3,698 / 4,746 m，终点行不再单列累计。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-20", "note": "PDF 页脚 Revision 4/22/26 与 permitting 说明照录" }
+  ]
+}

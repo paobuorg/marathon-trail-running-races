@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-qmt-utmb-2025",
+  "title": "UTMB World — QMT135 2025 race dashboard",
+  "url": "https://dashboard.utmb.world/races/51160.qmt-quebecmegatrailqmt135.2025",
+  "publisher": "UTMB Group",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "UTMB's dashboard holds a 2025 QMT135 race page dated 5 July 2025 with 137.00 km, 6,000 m of gain, 5 points and a 2025 result list whose winner is Xavier St-Cyr in 17:18:05.",
+    "The UTMB race page carries no label marking the race as a UTMB World Series event or as a Major."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接读取 UTMB 赛事 dashboard。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页首 Date Jul 5, 2025；Distance 137.00 km；Elevation Gain 6000 m；5 points；results 第 1 名 Xavier ST-CYR 17:18:05" },
+    { "index": 1, "status": "partial", "checkedAt": "2026-11-08", "note": "页面只呈现赛事与成绩，未见 World Series 或 Major 标识；这是对页面缺省的观察，不等于 UTMB 官方声明该赛不属于其系列" }
+  ]
+}

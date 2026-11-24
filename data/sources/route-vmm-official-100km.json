@@ -1,0 +1,43 @@
+{
+  "sourceId": "route-vmm-official-100km",
+  "title": "VMM 100KM — World Trail Majors — official race page",
+  "url": "https://vietnamtrailseries.com/mountain-marathon/100km-ultra-trail/",
+  "publisher": "Vietnam Trail Series / Topas",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The page titles the race 'VMM 100KM - WORLD TRAIL MAJORS' and states that the 100km is one of the two World Trail Majors series distances at VMM, together with the 50km.",
+    "The 100km is listed at 101 km with 5,500 m of elevation gain.",
+    "Cut-off times are 12:00 at CP Topas Ecolodge, 21:00 at CP3, 00:00 on Sunday at CP4, 02:00 at CP5, 05:00 at CP6, 06:30 at CP7 and 09:00 at the finish.",
+    "The page says '2027 race dates: to be updated' and gives no start time for the 100km.",
+    "The start is Sapa Square, the finish is Topas Ecolodge, bib collection is at Sapa Square and runners must pick up their own bib.",
+    "Runners may hand in three bags at the start — one finish bag, one for CP2 and one for CP4 — and the CP2 and CP4 bags are returned to the Sapa Expo area on Sunday morning.",
+    "The course description names a new route after CP M2 along the mountainside above the Muong Hoa valley, a single-track alternative climb to Mount Silverstone, and an updated CP1-CP2 climb that extends higher up the mountainside.",
+    "The race is badged as a World Trail Majors race, a 4-point ITRA qualifying race, an ITRA National League race, a 100K UTMB Index race and a Western States 2027 qualifying race.",
+    "Entry requires at least one previously completed chip-timed 50km+ ultra mountain race with significant elevation, excluding loop and virtual races, and the qualifying result must be submitted by 30 days before race day.",
+    "Outside assistance is permitted for the 100km and 100 miles only, from one supporter carrying a supporter card, at the designated checkpoints.",
+    "The age limit is 18 on race day.",
+    "The course runs from Sapa town over Ham Rong Mountain, Mount Silverstone, the Ban Moi valley, Topas Ecolodge, Lao Chai, O Quy Ho, Cow Mountain and Ta Phin to the Topas Ecolodge finish."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 通过 WebFetch 读取该页全文。这是当前 100km 页面，与 about-vmm/100km-ultra-marathon/ 旧页并存，两页数值与起跑时间不同。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页首 H1 'VMM 100KM - WORLD TRAIL MAJORS'；正文首句 'The 100km is one of the two World Trail Majors series distances at VMM, together with the 50km.'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Distance: 101km | Elevation gain: 5500m" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "CUT-OFF 行逐项照录：12:00 CP Topas Ecolodge / 21:00 CP3 / 00:00 (Sunday) CP4 / 2:00 CP5 / 5:00 CP6 / 6:30 CP7 / 9:00 FINISH" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "页面日期行写 '2027 race dates: to be updated'；页面没有 Start time 行" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "Start location: Sapa Square；Finish location: Topas Ecolodge；Bib collection at Sapa Square；must pick up your own bib" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "FINISH AND DROP BAGS 段：3 bags = Finish / CP2 / CP4；CP2 and CP4 bags moved back to Sapa Expo area, collect Sunday morning 07:00-12:00" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "Course description: 'After CP M2 a new route will bring you along the mountain side'; 'a single track route toward Mount Silverstone. This is an alternative to the usual VMM route'; 'The climb from CP1 - CP2 is updated, extending it higher up the mountainside.'" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "页尾徽标段：World Trail Majors race；4-point qualifying race for ITRA；ITRA National League；100K UTMB Index；Western States 2027 Qualifying Race" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "Qualification 段：至少一场 chip timed 50km+ ultra mountain race with significant elevation；loop runs / virtual races do not qualify；by 30 days prior" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "Outside assistance 段：permitted for 100km and 100 miles only；1 individual with supporter card；designated checkpoints" },
+    { "index": 10, "status": "supported", "checkedAt": "2026-11-08", "note": "Age restriction: Entrants to 100km must be at least 18 years old on race day." },
+    { "index": 11, "status": "supported", "checkedAt": "2026-11-08", "note": "Course description 逐段照录：Ham Rong Mountain / Mount Silverstone / Ban Moi (CP M4) / Topas Ecolodge / Lao Chai (CP1) / O Quy Ho (CP3) / Cow Mountain / Ta Phin (CP4) / finish" }
+  ]
+}

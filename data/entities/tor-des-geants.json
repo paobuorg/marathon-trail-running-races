@@ -8,13 +8,15 @@
     "route-tor-des-geants-2026",
     "route-tor-des-geants-timetable-2026",
     "route-tor-des-geants-regulation-2026",
+    "route-tor-changed-route-2018",
+    "route-tor-mag-2015-shortened",
+    "route-tor-reglement",
     "route-tor-des-geants-gpx-2026",
     "route-tor-des-geants-event-schedule-2026",
     "route-tor-des-geants-transport",
     "route-tor-des-geants-tunnel",
     "route-tor-des-geants-weather-service",
     "route-tor-des-geants-openmeteo",
-    "route-tor-des-geants",
     "photo-tor-des-geants-2017",
     "route-anchor-editorial"
   ],
@@ -25,9 +27,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-11-06",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-11-06",
+  "updatedAt": "2026-11-09",
+  "reviewedAt": "2026-11-09",
+  "reviewDueAt": "2027-06-13",
   "details": {
     "raceType": "trail-ultra",
     "countryCodes": [
@@ -44,6 +46,49 @@
       "sourceRef": "route-anchor-editorial"
     },
     "courseVersion": "2026-tor-des-geants-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [
+      {
+        "edition": "2026",
+        "observedAt": "2026-11-08",
+        "field": "course",
+        "change": "edition-roll",
+        "from": "2026 course page",
+        "to": "2027 page (course not yet confirmed)",
+        "sourceRef": "route-tor-des-geants-2026",
+        "note": {
+          "zh-CN": "官网已切至 2027 届展示，但 2027 赛道规程尚未官宣；本页仍按 2026 届数据。",
+          "en": "The official site now presents 2027, but the 2027 course rules are not yet published; this page still uses 2026 data."
+        }
+      },
+      {
+        "edition": "2018",
+        "observedAt": "2026-11-09",
+        "field": "course",
+        "change": "route-refined",
+        "from": "Valgrisenche 基地设在 Bonne；Finestra d'Ersaz 至 Rifugio Magià 走原线",
+        "to": "基地移至 Valgrisenche 镇中心；两村之间改道，TOR 与 Tot Dret 同时受影响",
+        "sourceRef": "route-tor-changed-route-2018",
+        "note": {
+          "zh-CN": "改线。官方 2018 公告点名两处；原页现已 404，通过搜索索引片段取证，source 标 bodyRead:false。",
+          "en": "Course change. The official 2018 announcement names both points; the page now returns 404, so the source is recorded as bodyRead:false and was captured from a search-index snippet."
+        }
+      },
+      {
+        "edition": "2015",
+        "observedAt": "2026-11-09",
+        "field": "finish",
+        "change": "route-refined",
+        "from": "原定全程至 Courmayeur",
+        "to": "官方杂志写缩短版终点 Ollomont；官方规程写 Gressoney OUT 后中止（两处官方口径并列）",
+        "sourceRef": "route-tor-mag-2015-shortened",
+        "note": {
+          "zh-CN": "改线（缩短）。两处官方口径不一致，按规则并列，不取其一；天气原因只有媒体提及，不入日志。",
+          "en": "Course change (shortened edition). Two official sources disagree, so both are shown side by side; the weather explanation appears only in media reports and is not logged."
+        }
+      }
+    ],
     "direction": "Courmayeur loop, start and finish in the same town",
     "distanceMeters": 330000,
     "distanceMethod": "Official 2026 TOR330 race page stat block: 330 km. The 2026 regulations describe approximately 350 km (ITRA evaluation), and the official 2026 timetable totals 336.5 km from start to finish. This card uses the race page figure that gives the race its name; the page tables use the timetable figures.",

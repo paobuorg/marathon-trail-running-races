@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-doi-inthanon-raceinfo",
+  "title": "RACE INFORMATION — Chiang Mai Thailand by UTMB",
+  "url": "https://chiangmai.utmb.world/news/race-information",
+  "publisher": "UTMB World Series / HOKA Chiang Mai Thailand by UTMB",
+  "publishedAt": "2026-06-30",
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2026 event is split into two weeks: Week 1 at Doi Inthanon National Park Office on 27-29 November 2026 with PAGODA 50 DAY/NIGHT, INTHANON 20 and a warm-up run, and Week 2 at Chiang Mai PAO Park on 3-6 December 2026.",
+    "The listed early-bird fees are THB 4,300 for PAGODA 50 DAY/NIGHT, THB 2,600 for INTHANON 20, THB 8,500 for CHIANG DAO 160, THB 6,500 for ELEPHANT 100, and THB 1,500 for CHEDI 20.",
+    "The page states that the fees are early-bird prices and will increase automatically when registrations reach a predetermined level."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取英文 race information 页；页首日期 30 June 2026"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'Week 1' (Doi Inthanon National Park Office) Dates: November 27-29, 2026；'Week 2' (Chiang Mai PAO Park) Dates: December 3-6, 2026" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "费用行逐项抄录" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'The fees shown are Early Bird prices. They will be automatically increased...'" }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-qmt-135-baie-saint-paul",
+  "title": "File:Baie Saint-Paul vu du nord.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Baie_Saint-Paul_vu_du_nord.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2017-02-10",
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "The Commons file is a view of Baie-Saint-Paul, Quebec, from the north, showing the town and the Saint Lawrence River.",
+    "The image is a general location photograph of the town, not a photograph of the QMT135 race.",
+    "The author is OnionneRing, credited under CC BY-SA 4.0; the original file is 1,400 x 1,050 pixels.",
+    "The file page requires attribution and share-alike; the route page uses a 960 x 720 Commons thumbnail and credits the author and licence."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "checkedVia": "Commons action=query imageinfo + thumbnail visual check",
+    "note": "2026-11-22 读取 Commons 文件页与 imageinfo，核对标题、作者、日期、许可、尺寸和画面；缩略图与文件描述一致。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "File title, description and thumbnail show Baie-Saint-Paul and the Saint Lawrence River."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "No race or QMT category in the file metadata; caption treats it as a location photograph."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "imageinfo: 1,400 x 1,050; 336,052 bytes; Artist OnionneRing; CC BY-SA 4.0."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Local file is the 960 x 720 Commons thumbnail; source page states attribution and share-alike."
+    }
+  ]
+}

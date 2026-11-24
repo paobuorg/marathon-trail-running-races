@@ -1,0 +1,31 @@
+{
+  "sourceId": "route-comrades-hyponatremia-review",
+  "title": "The Comrades Marathon: a narrative review of physiological responses and health implications in the world's oldest ultra-marathon",
+  "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1811456/pdf",
+  "publisher": "Frontiers in Physiology (Knechtle et al., 2026)",
+  "publishedAt": "2026-05-18",
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The review estimates about 1,800–1,900 m of total ascent and about 1,200 m of descent on the Up Run, and about 1,200 m of ascent and 1,800–1,900 m of descent on the Down Run.",
+    "Route lengths vary from 86 to 92 km depending on the finish venue.",
+    "Exercise-associated hyponatremia was uncommon at Comrades, below 2%, while hypernatremia was substantially more prevalent; dehydration was the most common diagnosis at 7.5% and exercise-associated muscle cramping at 3.2%.",
+    "Medical encounters occurred at rates up to 20 per 1,000 starters, with the fluid/electrolyte system the most affected at 8.8%.",
+    "The review synthesises 42 publications specifically focused on the Comrades Marathon, published up to December 2025.",
+    "The time limit for the approximately 90 km course is 12 hours."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 Frontiers in Physiology 2026 综述 PDF，抄录 Up/Down Run 升降估计、86–92 km 区间、EAH <2%、脱水 7.5%、医疗接触率与 42 篇文献范围。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'The Up Run includes ~1,800–1,900 m of total ascent and ~1,200 m of descent... the Down Run features ~1,200 m of ascent and 1,800–1,900 m of descent'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'route lengths ranging from 86 to 92 km'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Exercise-associated hyponatremia was uncommon (<2%), whereas hypernatremia was substantially more prevalent'；'Dehydration (7.5%...)... exercise-associated muscle cramping (3.2%...)'。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Medical encounters occurred at rates up to 20 per 1000 starters'；'fluid/electrolyte (8.8%; 8.3–9.4)'。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Of 116 records retrieved, 42 publications... focused specifically on the Comrades Marathon'；检索截至 December 2025。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'The time limit for the ~90 km course is twelve hours'。" }
+  ]
+}

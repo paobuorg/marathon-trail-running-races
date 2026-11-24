@@ -18,5 +18,80 @@
     "Weir said early-morning humidity affected his breathing for the first couple of miles.",
     "The article describes the 2026 field as the fastest ever assembled for an African marathon and notes that Major status requires a field including World Athletics Platinum and Gold Label athletes."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "本地静态抓取 .agent/capetown/raw",
+    "note": "赛后成绩稿全文已读；逐条核对四个项目纪录、名次成绩与引语"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'Three of the four course records ... were shattered'"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'Esa ... 2:04:55 ... previous course record of 2:08:16 set by Ethiopia's Abdisa Tola in 2024'"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'first 10 men ... faster than the previous course record'；'fastest marathon ever run on African soil ... new South African All-comers record'"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：Dida 2:23:18，'just under a minute outside Glenrose Xaba's course record of 2:22:22 set in 2024'"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'Mestawut Fikir ... second in 2:23:46 ... Waganesh Amare third in 2:23:57'"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'David Weir ... 1:30:20 ... inside Gert Schipper's 1:32:09 from 2023'"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'Manuela Schär ... 1:43:25 ... Eden Rainbow-Cooper's 1:52:58 from 2023'"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'Kipchoge ... 16th in 2:13:29'"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "引语原文：'The wind and the curves made it difficult ... I wanted to break the record'"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "引语原文：'I struggled a bit for the first couple of miles – with my breathing ... the humidity'"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'the fastest field ever assembled for an African marathon'；'Major status ... requires ... World Athletics Platinum and Gold Label athletes'"
+    }
+  ]
 }

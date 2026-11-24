@@ -13,5 +13,50 @@
     "The men's lead group passed 10 km in 29:27 and 30 km in 1:30:14.",
     "Kosgei becomes only the second woman in the history of the race to win in Shanghai."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 worldathletics.org 上海马拉松报道 → .agent/berlin-shanghai35/sh-worldathletics-2025.html",
+    "note": "World Athletics 报道正文可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Platinum Label，2025 年 11 月 30 日（周日）。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Kosgei 2:16:36 中国境内最快；Cheptai 2:18:51；Mesfin 2:20:38。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Mengesha 2:06:25，Wolde 2:06:27，Geleta 2:06:36，埃塞俄比亚包揽。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Kosgei 10 km 32:25、30 km 1:37:08。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "男子领先集团 10 km 29:27、30 km 1:30:14。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文称其为赛史第二位在上海夺冠的女子选手。"
+    }
+  ]
 }

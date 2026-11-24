@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-buenosaires-city-2026",
+  "title": "Una gran fiesta deportiva: más de 16 mil corredores de 64 países disputaron la Maratón — InfoBaires",
+  "url": "https://infobaires.com.ar/2026/09/21/una-gran-fiesta-deportiva-mas-de-16-mil-corredores-de-64-paises-disputaron-la-maraton-en-las-calles-de-la-ciudad/",
+  "publisher": "InfoBaires",
+  "publishedAt": "2026-09-21",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "InfoBaires reports that more than 16,000 runners from 64 countries ran the 2026 Buenos Aires Marathon, including 10,615 Argentines from all 24 jurisdictions and 5,769 foreign runners.",
+    "The 2026 field included 5,246 women.",
+    "Brazil supplied the largest foreign delegation with 2,769 runners; Chile had 499, Colombia 468, Uruguay 455 and Peru 378, and the top ten foreign countries supplied 5,261 of the 5,769 foreign runners.",
+    "The leading Argentine men were Ignacio Erario 2:16:42, Ignacio Reyes 2:21:46 and Esteban Angulo 2:23:01.",
+    "InfoBaires lists the leading Argentine women as Chiara Mainetti 2:38:25, Anahi Castaño 2:44:21 and Mercedes Piredda 2:48:11; World Athletics lists Piredda at 2:49:15.",
+    "InfoBaires reports the winning times as 2:08:22 for Bethwel Kibet and 2:23:31 for Rebecca Chesir; World Athletics lists 2:08:28 and 2:23:36.",
+    "The course passed Palermo, Recoleta, Retiro, Puerto Madero and La Boca, with the Obelisco, Teatro Colón, Casa Rosada, Metropolitan Cathedral and Puente de la Mujer among the landmarks."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "Search result full text",
+    "note": "InfoBaires 2026-09-21 赛后稿，正文含参赛结构、阿根廷前三与地标列表；成绩与 World Athletics 官方页相差 5–6 秒，Piredda 相差 64 秒，逐条记录不合并。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：convocó a 5.769 representantes de 64 países... 10.615 argentinos de las 24 provincias；标题 más de 16 mil" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：5.246 inscriptas" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：Brasil 2.769；Chile 499、Colombia 468、Uruguay 455、Perú 378；十大客源国合计 5.261" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：Erario 2:16:42、Reyes 2:21:46、Angulo 2:23:01" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：Mainetti 2:38:25、Castaño 2:44:21、Piredda 2:48:11；WA 官方页 Piredda 2:49:15，差 64 秒" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：Kibet 2h08m22s、Chesir 2h23m31s；WA 官方 2:08:28 / 2:23:36" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：Palermo、Recoleta、Retiro、Puerto Madero、La Boca；Obelisco、Teatro Colón、Casa Rosada、Catedral、Puente de la Mujer" }
+  ]
+}

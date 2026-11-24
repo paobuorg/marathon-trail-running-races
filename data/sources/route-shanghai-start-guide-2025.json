@@ -14,5 +14,56 @@
     "The start uses three waves: 07:00 for invited athletes and corrals A and B, 07:10 for corral C, and 07:20 for corrals D and E.",
     "Runners should bring the bib with timing chip, bag, pins and original identity document."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 news.qq.com 上马参赛指南 → .agent/berlin-shanghai35/sh-start-guide.html",
+    "note": "腾讯新闻转载正文可读；属媒体稿，关键数字另有官方来源。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "标题与正文写 42.195 公里；属媒体转载，距离另有官方规程佐证。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：11 月 30 日天气晴好，10–22℃，温差较明显。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "A–D 区乘 2/10 号线至南京东路约 15 分钟；E 区乘 10/12 号线至天潼路约 25 分钟。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：起点区域 5:30 开始交通管制。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：存衣车 6:45 准时关闭。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第一枪 7:00 特邀与预达级+A/B；第二枪 7:10 C；第三枪 7:20 D/E。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文列号码布（含芯片）、存衣袋、别针、身份证件原件。"
+    }
+  ]
 }

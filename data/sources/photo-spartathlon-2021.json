@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-spartathlon-2021",
+  "title": "File:2021-es Spartathlon MAgyar Csapat rajtfotó.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:2021-es_Spartathlon_MAgyar_Csapat_rajtfot%C3%B3.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2021-09-24",
+  "accessedAt": "2026-11-21",
+  "claims": [
+    "The file shows the Hungarian Spartathlon team posing before the 2021 race start.",
+    "The file was taken on 24 September 2021.",
+    "Because of the pandemic, the 2021 race did not start at the Odeon of Herodes Atticus but a few hundred metres below it.",
+    "The author and uploader is Czajamatyas, credited as own work, and the file is licensed CC BY-SA 4.0."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-21",
+    "checkedVia": "Commons action=query imageinfo API + Special:Redirect/file 缩略图，经本地 7890 代理",
+    "note": "2026-11-21 读取 Commons 文件页与 imageinfo，确认作者、许可、拍摄日期和画面；图片为 960×720 JPEG。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "文件描述：A 2021-es magyar Spartathlon-csapat a rajt előtt；画面为队员与匈牙利国旗队旗合影。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "DateTimeOriginal 2021-09-24。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "文件描述：A pandémia miatt nem a Herodes Atticus színháztól indult a verseny, hanem onnan pár száz méterrel lejjebb."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "Artist Czajamatyas；Credit Own work；LicenseShortName CC BY-SA 4.0；LicenseUrl creativecommons.org/licenses/by-sa/4.0。"
+    }
+  ]
+}

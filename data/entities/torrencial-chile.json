@@ -1,0 +1,64 @@
+{
+  "entityId": "route:torrencial-chile",
+  "slug": "torrencial-chile",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-torrencial-chile-2027",
+    "route-torrencial-chile-regulations-2027",
+    "route-torrencial-chile-entry-2027",
+    "route-torrencial-chile-gpx-2027",
+    "route-torrencial-chile-transport-2027",
+    "route-torrencial-chile-equipment-2027",
+    "route-torrencial-chile-series-2027",
+    "route-torrencial-chile-destination-2027",
+    "route-torrencial-chile-openmeteo-2027",
+    "route-anchor-editorial",
+    "photo-torrencial-oncol-forest",
+    "photo-torrencial-oncol-rain",
+    "photo-torrencial-valdivia-river"
+  ],
+  "relatedRefs": [
+    "knowledge:cold-weather-running",
+    "knowledge:night-running-and-traffic",
+    "knowledge:long-run-fueling",
+    "tool:track-view"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-24",
+  "reviewedAt": "2026-11-24",
+  "reviewDueAt": "2027-03-04",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "CL"
+    ],
+    "placeName": {
+      "zh-CN": "智利瓦尔迪维亚（Punucapa 出发）",
+      "en": "Valdivia, Chile (start at Punucapa)"
+    },
+    "mapAnchor": {
+      "longitude": -73.26669,
+      "latitude": -39.7555,
+      "kind": "start",
+      "sourceRef": "route-torrencial-chile-gpx-2027"
+    },
+    "courseVersion": "2027-torrencial-pilolcura-100k",
+    "courseEdition": "2027",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "Punucapa → Cerro Oncol → Pacific coast → Valdivia",
+    "distanceMeters": 101000,
+    "distanceMethod": "Official 2027 page header: 101 KM. The same page's official profile table ends at 101,492 m, and the official 2027 GPX ends at 101,285 m. This card uses the header figure the organiser states; all three official numbers are shown side by side in the article and none is averaged.",
+    "elevationGainMeters": 4100,
+    "elevationMethod": "Official 2027 page header: 4,100 m+. The same page's official profile table totals +4,091 m / −4,088 m. This card uses the header figure; both official figures are shown side by side in the article.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://pdf.utmb.world/raw/upload/v1788471557/torrencial/Races/GPX%20Files/Torrencial%202027/Tor_101k_4100_1808_b492400379.gpx",
+    "attribution": "Torrencial Chile by UTMB / LiveTrail. The 2027 GPX metadata names LiveTrail® as copyright holder and carries no licence or year field, so this site links to the official file and neither hosts a copy nor draws the track."
+  }
+}

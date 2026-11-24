@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-sierre-zinal-gtws",
+  "title": "Sierre-Zinal crowns Florea and Kiriago in a fast and furious Golden Trail World Series battle",
+  "url": "https://goldentrailseries.com/sierre-zinal-crowns-florea-and-kiriago-in-a-fast-and-furious-golden-trail-world-series-battle/",
+  "publisher": "Golden Trail World Series",
+  "publishedAt": "2026-08-08",
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The series report calls Sierre-Zinal a race 'widely regarded as the \"Cathedral of Trail Running\"' and describes the 2026 running as the 53rd edition, a 31 km race with 2,200 m of elevation gain beneath five Alpine peaks rising above 4,000 m.",
+    "The same report gives the 2026 women's result as Madalina Florea 2:55:46, Caroline Kimutai second and Morven Goodrum third.",
+    "The same report gives the 2026 men's result as Philemon Kiriago 2:26:24, Patrick Kipngeno second and Michael Saoli third, a Run2Gether On Trail podium sweep.",
+    "The same report states that Maude Mathys set the women's course record of 2:49:20 in 2019 and Kilian Jornet set the men's course record of 2:25:34 in 2024.",
+    "The same report describes Sierre-Zinal as the fifth stop of the 2026 Golden Trail World Series."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 GTWS 赛后报道全文。女子冠军成绩写作 2:55:46，与世界田联的 2:55:44 相差 2 秒；本页并列保留，不裁决。'Cathedral of Trail Running' 是系列赛报道用语，不是赛事规则定义。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'widely regarded as the \"Cathedral of Trail Running\"'；'The 53rd edition of the iconic 31km race, featuring 2,200m of elevation gain beneath five Alpine peaks rising above 4,000m'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'Madalina Florea ... 2:55:46'；'Caroline Kimutai ... second'；'Morven Goodrum ... third'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'Philemon Kiriago ... 2:26:24'；'Patrick Kipngeno ... second'；'Michael Saoli ... third'；'Run2Gether On Trail podium sweep'。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'Maude Mathys ... set the women's course record in 2019 with a time of 2:49:20'；'Kilian Jornet ... established the men's course record in 2024 ... 2:25:34'。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "'the fifth stop of the Golden Trail World Series'" }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "sourceId": "route-beijing-2026-course-map",
+  "title": "2026 北京马拉松 比赛路线 — official static course map and elevation panel",
+  "url": "https://www.beijing-marathon.com/subject.html?detailId=7992140408205034",
+  "publisher": "北京马拉松组织委员会 (Beijing Marathon Organising Committee)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "The organiser's 比赛路线 page displays a 1,683 × 2,381 JPG headed 2026中国银行北京马拉松暨全国马拉松锦标赛 / BANK OF CHINA BEIJING MARATHON & NATIONAL MARATHON CHAMPIONSHIPS; its link 点击查看下载高清路线 points to https://pub.mararun.com/cms/pic/BJCN/28c34fc407162d6aafa06ce2a015384c.jpg.",
+    "The map marks START at Tiananmen Square and FINISH on Landscape Avenue at the Olympic Park, includes a 21.0975 km half-marathon marker, and carries a 路线海拔 Course Elevation panel whose y-axis runs 0–100 m and x-axis runs 0–42.195 km.",
+    "The elevation panel's footer reads 此海拔数据仅供参考; the image prints no cumulative ascent, cumulative descent, maximum/minimum elevation or percentage gradient, so those figures remain unpublished. The header identifies the 2026 edition, and no 2027 course map is linked from that page."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "note": "2026-11-22 读取官方“比赛路线”页并下载“点击查看下载高清路线”直链：JPG 为 1,683 × 2,381、449,101 字节。图上标 2026 届标题、天安门广场 START、奥林匹克公园景观大道 FINISH、21.0975 km 半程点；底部“路线海拔 Course Elevation”纵轴 0–100 m、横轴 0–42.195 km，页脚“此海拔数据仅供参考”。图件版权归组委会，未给出再分发许可。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "页面标题、JPG 显示尺寸与“点击查看下载高清路线”的 href 均已读取；直链下载尺寸与字节数一致。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "逐项读图：起点天安门广场、终点景观大道、21.0975 km 标记与 0–100 m / 0–42.195 km 剖面坐标均可辨认。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "图上只有剖面曲线与“此海拔数据仅供参考”，没有累计爬升/下降、最高/最低点或坡度数字；标题明确写 2026。"
+    }
+  ]
+}

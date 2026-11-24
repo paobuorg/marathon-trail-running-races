@@ -1,0 +1,33 @@
+{
+  "sourceId": "route-utamiler-2027",
+  "title": "HOKA Ultra-Trail Australia by UTMB 2027 — UTAMiler",
+  "url": "https://uta.utmb.world/races/UTAMiler",
+  "publisher": "USM Events Pty Ltd / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2027 UTAMiler is 161.1 km with 7,200 m of positive gain, starts at Govetts Leap Carpark, Blackheath at 05:00 on Friday 14 May 2027, and has a 44 h 30 min limit.",
+    "The UTAMiler page shows 8 Running Stones and Finals Access 'Open Now'."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://uta.utmb.world/races/UTAMiler，读取页头 stat block"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页头 stat block：Distance 161.1 KM；Elevation Gain 7200 M+；Start Date Friday 14th May 2027；Race Start Govetts Leap Carpark, Blackheath - 05:00；Max Allowed 44 Hours 30 Minutes"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页头 Running Stones 8；Finals Access Open Now"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-comrades-2026-medical",
+  "title": "Stay safe on Comrades Day: Tips for runners and spectators",
+  "url": "https://www.comrades.com/blogs/stay-safe-on-comrades-day-tips-for-runners-and-spectators",
+  "publisher": "Comrades Marathon Association (CMA)",
+  "publishedAt": "2026-06-08",
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2026 Comrades Marathon had 21,633 runners, a 12-hour cut-off and about 1.8 km of elevation gain over the Up Run.",
+    "Race doctor Dr Jeremy Boulter advised runners to keep replacing fluids and electrolytes throughout the full distance, eat lightly and regularly, and not take painkillers or anti-inflammatories during the race.",
+    "The medical red flags listed for runners were dizziness, confusion, nausea, muscle cramps, disorientation, chest pain and sudden chills.",
+    "Dr Boulter noted that temperatures often drop steeply after 4pm.",
+    "Medical support included medical stations along the route and a finish medical tent, staffed by Netcare 911 paramedics, nurses and doctors."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 CMA 官方赛前医疗安全博客，抄录 21,633 人、1.8 km 爬升、补液/电解质、避免止痛药、红旗症状与 16:00 后降温。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'As 21 633 runners...'；'85.777 kilometre ultramarathon... with a 12-hour cut off time'；'elevation gain of some 1.8km'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Keep replacing fluids and electrolytes throughout the full distance'；'Fuel your body; eat lightly and regularly'；'Don’t take painkillers or anti-inflammatories during the race'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Medical red flags 列表：Dizziness、Confusion、Nausea、Muscle cramps、Disorientation、Chest pain、Sudden chills。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'temperatures often drop steeply after 4pm'。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'medical stations along the route and at the Comrades Marathon Finish Medical Tent'；Netcare 团队名单。" }
+  ]
+}

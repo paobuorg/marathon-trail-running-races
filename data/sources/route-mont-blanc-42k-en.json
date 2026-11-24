@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-mont-blanc-42k-en",
+  "title": "42km: the mythical race — Mont-Blanc Marathon (English page)",
+  "url": "https://www.marathonmontblanc.fr/en/races/42km-du-mont-blanc",
+  "publisher": "Club des Sports de Chamonix (organiser)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The English 42 km page gives the date as Sunday 28 June 2026, the start as 06:45, the distance as 42 km and the elevation as 2,540 m D+/-.",
+    "The same page describes a fast rolling opening section, then the steep and technical slopes of the Aiguillette des Posettes as the main difficulty, before a panoramic finish facing the Mont-Blanc massif.",
+    "The same page describes the 42 km as a semi-autonomous trail, limited to 2,300 runners, with 6 starting waves, a 10-hour maximum time and 3 full feed stations plus 1 finish feed station.",
+    "The same page recommends that entrants have significant mountain-running experience and notes that a runner with a UTMB performance index below 350 points has very little chance of finishing.",
+    "The same page lists the mandatory equipment: a working mobile phone, at least 1 litre of water, a waterproof jacket with a hood, a 140 x 200 cm survival blanket, a cup, a whistle and cash.",
+    "The same page lists cut-offs calculated from the last wave start: Tour aid station at km 13.5 plus 2:45, Vallorcine at km 23.5 plus 5:30, La Flegere at km 34.2 plus 8:30, and the Chamonix finish at km 42 plus 10:00.",
+    "The same page warns that GPX tracks may give different distance and elevation results depending on the system and settings used.",
+    "The same page offers a PDF map, estimated passage times and a race profile, but no GPX download link."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取英文 42 km 页面全文。该页日期仍写 Sunday, June 28, 2026，与法文页的 2027-06-27 不一致；页面只有 PDF 地图/剖面，无 GPX 直链。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'Date Sunday, June 28, 2026'；'Start 6:45am'；'Distance 42 km'；'Elevation 2540m D+/-'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'First along the fast, rolling trails... then up the steep and technical slopes of the Aiguillette des Posettes—the course's main challenge—before finishing with an incredible panoramic view'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'42km semi-autonomous trail'；'Limited to 2,300 runners'；'6 starting waves'；'Maximum time: 10 hours'；'3 full feed stations + 1 finish feed station'。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'it is recommended that you have significant mountain running experience'；'a runner with a UTMB performance index below 350 points has very little chance of finishing'。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "Mandatory equipment 七项与原页一致。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "四条 cut-off 原文：km 13.5 +2h45；km 23.5 +5h30；km 34.2 +8h30；km 42 +10:00。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "'GPX tracks may yield different results regarding race distances and elevation gain'。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "页面仅列 PDF map、estimated passage times、race profile 三个链接，无 .gpx。" }
+  ]
+}

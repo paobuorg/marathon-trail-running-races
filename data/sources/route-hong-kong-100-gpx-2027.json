@@ -12,5 +12,43 @@
     "The GPX metadata contains no licence, copyright or redistribution statement.",
     "The first track point is at 22.398233 N, 114.320899 E."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直连下载 GPX（523,010 字节）后读取根元素与 metadata"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "URL 直连 200，523,010 字节，Content-Type application/gpx+xml"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "根元素 <trk><name>HK100 - Full 2027</name>"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "metadata <author><name>www.plotaroute.com</name></author>，<desc>… route created on plotaroute.com</desc>"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "全文检索 licen[cs]e / copyright 均为 0 命中"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首个 <trkpt lat=\"22.398233\" lon=\"114.320899\">"
+    }
+  ]
 }

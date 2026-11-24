@@ -1,0 +1,55 @@
+{
+  "sourceId": "route-tds-regulation-2027",
+  "title": "2027 Regulations — HOKA UTMB Mont-Blanc",
+  "url": "https://montblanc.utmb.world/races-runners/other-information/regulation",
+  "publisher": "UTMB Mont-Blanc",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "The current regulation page is labelled 2027 Regulations and covers TDS as one of the UTMB, CCC and TDS 100M races.",
+    "For TDS, one personal assistant is allowed at designated aid stations, in the reserved area and with a bag of no more than 30 litres; medical help from a crew member is forbidden except small care such as massage or blister treatment while the runner stays seated.",
+    "Runners must carry all mandatory equipment for the whole race; missing key safety equipment can lead to disqualification, and random or organised gear checks can occur.",
+    "Poles, if used, must be carried from the start and may not be collected during the race or placed in drop bags.",
+    "A runner must leave a checkpoint before its cut-off time; dropping out or being stopped requires following the organisation's instructions."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch",
+    "note": "Official regulation page read. It is the 2027 edition; the page does not provide a 2026 archive, so the text is used as a rule reference with this caveat."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Page title: 2027 REGULATIONS; section refers to UTMB, CCC and TDS."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "SEMI-AUTONOMY section, paragraphs 3–4."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "EQUIPMENT section and penalty table."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "EQUIPMENT section, poles paragraph."
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "TIME LIMIT AND CUT-OFF TIMES section."
+    }
+  ]
+}

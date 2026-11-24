@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-tor-reglement",
+  "title": "TORX — règlement (French regulations page)",
+  "url": "https://torxtrail.com/fr/reglement/",
+  "publisher": "TORX / VDA Trailers",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The French regulations page states 120 hours for the 2012 edition.",
+    "The same page says the 2015 edition stopped after Gressoney OUT."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接读取官方法文规程页。该页对 2015 届中止点的写法与官方杂志的 Ollomont 说法不一致，两者并列。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：120 heures pour l'édition 2012" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：arrêt après Gressoney OUT pour 2015" }
+  ]
+}

@@ -19,5 +19,20 @@
     "The B.A.A. fields a team of cyclists at the rear of the pack to assist runners at or slower than 13:44 per mile.",
     "The page links the official 2026 course map PDF at https://www.baa.org/wp-content/uploads/2026/03/2026-Course-Map.pdf."
   ],
+  "claimVerification": [
+    {"index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页面主标题即“The 130th Boston Marathon Presented by Bank of America”，届次与冠名一致。"},
+    {"index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：“Poland Spring Water and Lemon Lime Gatorade Endurance Formula will be available to runners at every mile mark beginning at Mile Two.”"},
+    {"index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "原文列出三个 Maurten Hydrogel 站：Mile 11.8 Wellesley 镇界、Mile 17 Newton、Mile 21.5 Boston College 之后。"},
+    {"index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "原文写明 Maurten Gel 100（无咖啡因）与 Gel 100 CAF 100（含咖啡因）。"},
+    {"index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：“Digital clocks at every 5K mark and key mile locations ... from the 9:00 a.m. start”; 另写明英里与 5K 均有标识。"},
+    {"index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：“26 medical stations along the course”; “sweep buses pick up runners at every medical station and drop them at the Finish Area medical tent”。"},
+    {"index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：“Aid stations will close at staggered times during the day.”"},
+    {"index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：“Finish area facilities officially close at approximately 5:30 p.m.”"},
+    {"index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "原文给出道路重开由官员判断、约 13:44/英里，并要求仍在赛道的跑者靠右。"},
+    {"index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：“Timing systems, course clocks, medical stations and water stations will all begin to close”; 跑者此后自行负责。"},
+    {"index": 10, "status": "supported", "checkedAt": "2026-11-08", "note": "原文写明 B.A.A. 在队尾安排 cyclists，协助 13:44/英里或更慢的跑者。"},
+    {"index": 11, "status": "supported", "checkedAt": "2026-11-08", "note": "页面下载链接 href 指向 https://www.baa.org/wp-content/uploads/2026/03/2026-Course-Map.pdf。"}
+  ],
+  "verification": {"access": "direct", "bodyRead": true, "checkedAt": "2026-11-08", "checkedVia": "curl.exe + HTML 转文本", "note": "HTTP 200，正文完整读取；页面当前仍以 130th 赛道内容为主。"},
   "license": null
 }

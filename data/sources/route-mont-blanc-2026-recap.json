@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-mont-blanc-2026-recap",
+  "title": "2026 Mont Blanc Marathon: A Weekend That Ended on a High Note",
+  "url": "https://www.marathonmontblanc.fr/en/node/123",
+  "publisher": "Club des Sports de Chamonix (organiser)",
+  "publishedAt": "2026-07-03",
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2026 42 km men's race was won by Remi Bonnet after a duel with Frederic Tranchand; the organiser notes that Bonnet had previously won the event in 2023.",
+    "The same recap says Tove Alexandersson won the 2026 42 km in 3:55:07, becoming the first woman to break four hours at the Mont-Blanc Marathon and to finish before the men's winner.",
+    "The same recap gives the 2026 90 km winners as Louison Coiffet and Candice Fertin-Baccon.",
+    "The same recap gives the 2026 23 km winners as Benjamin Polin and Oria Liaci, and the 10 km winners as Lukas Ehrle and Madalina Florea."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官网 2026 赛后回顾全文。页面没有给出男子冠军成绩，男子 3:33:14 另取官方成绩 PDF。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'Remi Bonnet prevailed after an intense duel with Frederic Tranchand, returning to the top step of the podium in an event he had previously won in 2023.'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'completing the course in 3 h 55 min 07 s, becoming the first woman in history to break the four-hour mark... and to cross the finish line before the men's winner'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'victories for Louison Coiffet and Candice Fertin-Baccon in the 90 km race'。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'The 23 km race was won by France's Benjamin Polin... and Switzerland's Oria Liaci, while the 10 km race was won by Lukas Ehrle and Madalina Florea.'" }
+  ]
+}

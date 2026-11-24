@@ -16,5 +16,68 @@
     "The briefing says there is no parking at the expo and visitors should use public transport.",
     "The briefing says medical teams, cycle doctors, medical aid organisations and Berlin Fire Brigade patrols are present in the start/finish area and along the route."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 下载 BM-26_Race_Briefing_EN.pdf → .agent/berlin-shanghai35/berlin-briefing-2026.pdf；pypdf 提取文本",
+    "note": "PDF 正文可解析。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PDF 写 52nd BMW BERLIN-MARATHON，Sunday 27 September 2026。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "起点 Straße des 17. Juni，终点在 Brandenburg Gate 后。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "8:45 起六波。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "交通票 24 日 0 时至 28 日 3 时，ABC 区。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "补水系统总容量≤3 L，各补给与食品站可加水。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "自备补给 5/9/15/20/25/30/36/40 km；6:30–7:30 交至 Annemarie-Renger-Straße 与 Otto-von-Bismarck-Allee 转角；禁玻璃容器。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Expo 在 Tempelhof，Platz der Luftbrücke 5；U6 加约 10 分钟步行，或公交 M43/248。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PDF 明写 expo 无停车，建议公共交通。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "医疗队、骑行医生、医疗救援组织与柏林消防队沿起终点及赛道巡逻。"
+    }
+  ]
 }

@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-sierre-zinal-broadcast",
+  "title": "Revivez Sierre-Zinal 2026 — le replay",
+  "url": "https://www.sierre-zinal.com/fr/revivez-sierre-zinal-2026-replay-127.html",
+  "publisher": "Sierre-Zinal Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The official replay page states that the 2026 race took place on Saturday 8 August and was broadcast live around the world.",
+    "The same page lists Eurosport, TNT Sports, Max/HBO Max, discovery+, SSR and Canal 9 as international broadcasters, big screens in Sierre, Chandolin, Tignousa and Zinal, and a replay on YouTube.",
+    "The same page states that the race is followed in more than 100 countries, on 5 continents and in nearly 40 languages.",
+    "The same page states that in 2025 the circuit's broadcast reached 13.7 million television viewers, 90 million video views and 102 million online impressions.",
+    "The same page states that Sierre-Zinal is part of the Golden Trail World Series and the WMRA."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官网法文直播回顾页。2025 年的三项观众数字被页面写作整个系列赛的传播数据，不是 Sierre-Zinal 单场数据，正文按此口径引用。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'Le samedi 8 août 2026 ... la course sera diffusée en direct à travers le monde.'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'Eurosport / TNT Sports / Max / HBO Max / discovery+ / SSR / Canal 9'；'écrans géants à Sierre, Chandolin, Tignousa et Zinal'；'rediffusion sur YouTube'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'diffusée dans plus de 100 pays, sur 5 continents, et commentée en près de 40 langues'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'En 2025, la diffusion du circuit a atteint ... 13,7 millions de téléspectateurs / 90 millions de visionnages vidéo / 102 millions d'affichages en ligne'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "'Intégrée aux circuits internationaux Golden Trail World Series et WMRA'" }
+  ]
+}

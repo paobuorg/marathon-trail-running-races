@@ -13,5 +13,50 @@
     "Aid: drinks every 5 km from 5 km; water every 5 km from 7.5 km; nine energy stations from 12.5 km offering bananas, chocolate, small cakes and SiS gels; six ice stations; eight spray stations.",
     "Race pack collection runs 27-29 November, 09:30-19:30, at the Shanghai World Expo Exhibition & Convention Center, 850 Bocheng Road."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 shanghai.gov.cn 赛事稿 → .agent/berlin-shanghai35/sh-citygov-2025.html",
+    "note": "市政府页面正文可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "三个波次 7:00 起跑，轮椅 6:45。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "称上马为中国唯一世界马拉松大满贯候选赛事。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "预报名 356,589 人，马拉松中签率 7.2%。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "43 名精英、19 名轮椅（含 12 名国际轮椅）。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "5 km 起饮料；7.5 km 起饮水；12.5 km 起 9 个能量站；6 个冰站、8 个喷淋站。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "领物 11 月 27–29 日 9:30–19:30，世博展览馆（博成路 850 号）。"
+    }
+  ]
 }

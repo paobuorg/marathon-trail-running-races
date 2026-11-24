@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-canyons-transport",
+  "title": "Getting to Auburn, California — Visit Auburn",
+  "url": "https://www.visit-auburn.com/plan/getting-here",
+  "publisher": "Visit Auburn",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "Sacramento International Airport (SMF) is the closest major airport to Auburn, about 35 miles and 45 minutes via I-80 East.",
+    "San Francisco International (SFO) is about 140 miles and 2.5 hours; Oakland (OAK) is about 120 miles and 2 hours.",
+    "Visit Auburn recommends a car for trailheads and attractions outside the walkable downtown; all listed airports have rental car services."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web search result + official tourism page",
+    "note": "Official Auburn visitor site read."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "SMF: 35 miles, 45 min, I-80 East."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "SFO 140 miles / 2.5 hrs; OAK 120 miles / 2 hrs."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Car recommendation paragraph."
+    }
+  ]
+}

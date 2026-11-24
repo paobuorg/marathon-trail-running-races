@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-sdw100-official-aidstations-2024",
+  "title": "SDW100 2024 Aid Stations — official archive",
+  "url": "https://centurionrunning.com/races/south-downs-way-100-2024/aidstations",
+  "publisher": "Centurion Running",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The 2024 chart places QECP at mile 22.6 in 'Bottom Field | The Meadow, Queen Elizabeth Country Park, Gravel Hill, Horndean, PO8 0QE', with the checkpoint in the Bottom Field, crews parking in The Meadow and meeting runners on foot; the row carries no relocation note.",
+    "The 2024 chart gives Beacon Hill Beeches 9.85, QECP 22.6, South Harting 26, Cocking 35.1, Houghton Farm 45, Washington 54 and Botolphs 61.2 miles, while Saddlescombe Farm 66.6, Housedean Farm 76.6, Southease 84, Alfriston 91.6, Jevington 95.7 and the finish at 100 match the 2025–2027 chart."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取并读取 2024 届补给站表，用于确认 QECP 的旧位置与 2024 届里程。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "表内 No. 2 QECP：Mile 22.6；Address 列原文 'Bottom Field | The Meadow, Queen Elizabeth Country Park, Gravel Hill, Horndean, PO8 0QE'，并写 'The check point is in the BOTTOM FIELD'、crew 停在 THE MEADOW 后步行；该行没有 moved 说明" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "表内 Mile 列逐项照录：9.85 / 22.6 / 26 / 35.1 / 45 / 54 / 61.2 / 66.6 / 76.6 / 84 / 91.6 / 95.7 / 100" }
+  ]
+}

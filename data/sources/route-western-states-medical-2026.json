@@ -13,5 +13,49 @@
     "Runners may develop hypothermia, hyperthermia, dehydration, hypoglycemia, hyponatremia, disorientation and mental and physical exhaustion.",
     "In the event that a runner requires emergency evacuation by ground or helicopter-ambulance, the runner assumes all financial obligations connected with the service, and Run Management is not responsible for any debts incurred."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 复核：本次直接读取 Medical and Other Risks 正文并逐段比对。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 1 段"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 2 段"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 2 段"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 3 段"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 4 段"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 5 段"
+    }
+  ]
 }

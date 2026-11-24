@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-hong-kong-100-tai-mo-shan",
+  "title": "File:TaiMoShan1.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:TaiMoShan1.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2015-04-25",
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The image shows Tai Mo Shan Road: repeated hairpin bends across a grassy ridge, with Hong Kong's urban skyline visible in the distance.",
+    "The Commons file title identifies Tai Mo Shan; it contains no Hong Kong 100, HK100 or race-day context and is a location photograph.",
+    "The author is 山民主義; the file is licensed CC BY-SA 4.0; the original is 1,600 x 900 pixels; the metadata date is 2015-04-25 14:41:34; the Commons file page supplies the image.",
+    "The route page uses a 960 x 540 thumbnail of 180,131 bytes without cropping or colour change and credits the author, licence and source; attribution and share-alike are required."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons API imageinfo and downloaded thumbnail inspection",
+    "note": "2026-11-23 通过 Commons API 读取文件页 imageinfo，下载 960 px 副本并目视核对盘山公路、草坡与远景城市。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地缩略图可见连续发卡弯、草坡与远处楼群。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Commons 文件名为 TaiMoShan1；文件页没有 HK100 或赛事信息。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Commons imageinfo：作者 山民主義；CC BY-SA 4.0；原图 1,600 x 900；日期 2015-04-25 14:41:34。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地文件 960 x 540、180,131 字节；未裁剪、未改色；页面署名 山民主義 / CC BY-SA 4.0。"
+    }
+  ]
+}

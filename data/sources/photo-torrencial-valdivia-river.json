@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-torrencial-valdivia-river",
+  "title": "File:Vista de Valdivia (Puente PdeV, 01).jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Vista_de_Valdivia_(Puente_PdeV%2C_01).jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2019-01-24",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "A waterfront view of Valdivia along the Calle-Calle river: excursion boats and a promenade on the right, white buildings and a church spire behind, a green lawn in the foreground and a cloudy blue sky. It is a location photograph, not a 2026 race-day photograph, and it does not show a start arch, finish gantry, bib, timing mat, aid table, course marking or race crowd.",
+    "Commons titles the file Vista de Valdivia (Puente PdeV, 01).jpg. The route page uses it as Valdivia riverfront context near the finish; it does not show the finish gantry, the exact 2027 finish line or race-day conditions.",
+    "The Commons author field reads Draceane; the file is marked CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/); the relevant date is 2019-01-24 23:00; the file page gives a camera or subject position of 39.811650 S, 73.248230 W; the original is 4,272 × 2,848 px; 4,940,138 bytes.",
+    "The route page uses a 960 × 640 px; 172,346 bytes copy without cropping or colour change and credits Draceane, CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/), Wikimedia Commons; the resized copy keeps the same licence."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons API metadata plus downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons API 与文件页核对作者、许可、日期、原图尺寸和（如有）坐标，并下载 960 px 副本目视确认：A waterfront view of Valdivia along the Calle-Calle river: excursion boats and a promenade on the right, white buildings and a church spire behind, a green lawn in the foreground and a cloudy blue sky. 不是赛日现场，也不是赛道测绘照片。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地 960 px 副本可见：A waterfront view of Valdivia along the Calle-Calle river: excursion boats and a promenade on the right, white buildings and a church spire behind, a green lawn in the foreground and a cloudy blue sky. 画面中没有号码布、拱门、计时毯、补给桌、赛道旗标或赛日人群。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons 标题为 Vista de Valdivia (Puente PdeV, 01).jpg；文件描述与分类支持这一地点用途；正文只把它当环境照，不当赛道证据。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "文件页记录：作者 Draceane；许可 CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/)；日期 2019-01-24 23:00; the file page gives a camera or subject position of 39.811650 S, 73.248230 W；原图 4,272 × 2,848 px; 4,940,138 bytes。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 × 640 px; 172,346 bytes；未裁剪、未改色；页面署名 Draceane、CC-BY-SA-4.0、Wikimedia Commons。"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-ccc-results-2026",
+  "title": "HOKA UTMB Mont-Blanc 2026 — CCC UTMB Index results",
+  "url": "https://utmb.world/fr/utmb-index/races/141.hokautmbmont-blancccc.2026",
+  "publisher": "UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The 2026 CCC is listed as 107 km with 6,200 m positive gain, held on 28 August 2026, with 1,974 results; the page's gender filters return 1,486 men's results and 488 women's results.",
+    "The men's 2026 CCC top five are Cristian Minoggio (ITA) 10:21:48, Miguel Arsenio (POR) 10:27:25, Hans Troyer (USA) 10:33:29, Luke Grenfell-Shaw (GBR) 10:47:23 and Simon Paccard (FRA) 10:50:59.",
+    "The women's 2026 CCC top five are Yngvild Kaspersen (NOR) 12:01:14, Toni McCann (RSA) 12:06:14, Miao Yao (CHN) 12:15:41, Jennifer Lichter (USA) 12:24:01 and Caitlin Fielder (NZL) 12:25:17.",
+    "In the overall 2026 CCC ranking the leading women are placed 29th, 33rd, 37th, 40th and 43rd; the page's default ranking is not a women-only ranking."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "official UTMB Index page, default list plus gender=F and gender=H filters",
+    "note": "2026-11-23 读取官方 UTMB Index 结果页；默认列表 1,974 条、女子筛选 488 条、男子筛选 1,486 条。前三名与既有记录一致，新增第 4–5 名与总榜位次。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Page header: 107 KM, 6200 M+, 28 August 2026; default 1974 Résultats; ?gender=H 1486 Résultats; ?gender=F 488 Résultats."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Men's filtered ranking rows 1–5: Minoggio, Arsenio, Troyer, Grenfell-Shaw, Paccard with the listed times."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Women's filtered ranking rows 1–5: Kaspersen, McCann, Yao, Lichter, Fielder with the listed times."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Women's filter shows overall places 29, 33, 37, 40 and 43 for the first five women."
+    }
+  ]
+}

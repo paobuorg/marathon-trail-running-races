@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-sdw100-official-infopack-2027",
+  "title": "SDW100 2027 Infopack — official",
+  "url": "https://centurionrunning.com/races/south-downs-way-100-2027/section/infopack",
+  "publisher": "Centurion Running",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The SDW100 is a 100 mile continuous point to point trail race along the South Downs Way, from Matterley Bowl near Winchester to Eastbourne, held over the weekend of 12–13 June 2027, with a 30 hour limit and cut-offs at every aid station.",
+    "Runners begin with a loop of the Matterley Estate and must not recce the first 5 miles, which is entirely private land.",
+    "The infopack sets a minimum age of 20 on race day and publishes the mandatory kit list, including a charged mobile phone, at least 1 litre of water capacity, a 1.4 m x 2 m survival blanket, a waterproof jacket with sealed seams, a whistle, a 100 lumen headtorch and backup from Washington, a dry long-sleeved base layer, and a cup.",
+    "Pacers may accompany runners at any stage after the Kithurst Hill crew point, but not more than one pacer at a time.",
+    "Drop bag locations are given as Washington at mile 54, Housedean Farm at mile 76 and the finish at Eastbourne at mile 100; drop bags are transported to the finish for 0630 on Sunday and uncollected bags are disposed of after 1230 on Sunday.",
+    "Cut-off times on the aid station chart are deadlines for leaving the aid station, not for arriving.",
+    "The page tells runners that a downloadable GPX of the route can be found at the bottom of the page.",
+    "The page embeds checkpoint map points as location attributes; the Matterley Bowl point is 51.051114, -1.246487."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接抓取并读取该页正文与地图 location 属性。该页是 2027 届 infopack，含路线、年龄、强制装备、pacer、存包与关门规则。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Introduction 段：'100 mile continuous point to point trail race along the South Downs Way, from Matterley Bowl near Winchester, to Eastbourne'；'weekend of 12th-13th June 2027'；'within 30 hours'；'further cut offs at every aid station'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Course and Trail Conditions 段：'making a loop of the estate'；'do not under any circumstances try to recce the first 5 miles around Matterley Estate, it is entirely on private land'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Rules 表第 12 条：'Minimum age on race day is 20'；Mandatory Gear 段逐项列出手机、1 litre、1.4m x 2m survival blanket、waterproof jacket 10000mm+ sealed seams、whistle、100 lumens headtorch、backup light、long sleeved base layer、cup" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Rules 表第 13 条：'Pacers are welcome to accompany runners at any stage after Kithurst Hill crew point BUT not more than one pacer can accompany a runner at any time.'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "Drop Bag 段：'1. Mile 54: Washington 2. Mile 76: Housedean Farm 3. Mile 100: Finish at Eastbourne'；'transported to the finish line for 0630 on Sunday'；'not collected at the finish by 1230 on Sunday, will be disposed of'" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "Cut Offs 段：'Cut-off times reflect the deadlines for LEAVING the aid station.'" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "正文：'A downloadable GPX of the route can be found at the bottom of this page.'" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "页面 HTML 的地图 div：location=\"51.051114, -1.246487\" name=\"Matterley Bowl\"；同页另有各检查站 location 属性" }
+  ]
+}

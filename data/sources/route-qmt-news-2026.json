@@ -1,0 +1,47 @@
+{
+  "sourceId": "route-qmt-news-2026",
+  "title": "Kamil Lesniak et Valérie Arsenault remportent le QMT135 — TVA CIMT-CHAU",
+  "url": "https://cimtchau.ca/nouvelles/kamil-lesniak-et-valerie-arsenault-remportent-le-qmt135/",
+  "publisher": "TVA CIMT-CHAU",
+  "publishedAt": "2026-07-05",
+  "accessedAt": "2026-11-21",
+  "claims": [
+    "The 2026 QMT135 was the 14th edition of the Québec Mega Trail; 315 athletes took part and the race started at 20:00 on Friday 3 July at the Hôtel & Spa Le Germain Charlevoix.",
+    "Kamil Lesniak won the men's QMT135 in about 16:40 and Valérie Arsenault won the women's race in about 18:12.",
+    "About 3,900 runners took part across the weekend, with 11 races from 1 km to 135 km.",
+    "The 2026 QMT135 course had close to 6,000 m of positive gain."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-21",
+    "note": "2026-11-21 直接读取 TVA CIMT-CHAU 2026-07-05 赛后新闻。新闻把冠军时间取整到 16:40 与 18:12；精确值以官方成绩页 16:40:30 与 18:12:06 为准，正文并列不覆盖。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "原文：315 athlètes ont pris part au QMT135 lors de la 14e édition；départ vendredi 3 juillet à 20 h à Hôtel & Spa Le Germain Charlevoix"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "原文：Kamil Lesniak premier avec un temps de 16 h 40；Valérie Arsenault championne avec un chrono de 18 h 12"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "原文：près de 3 900 coureurs et coureuses；11 épreuves，de 1 km à 135 km"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "原文：un parcours de près de 6 000 m de dénivelé positif。只作为新闻表述，不覆盖官方 6,000 m 卡值。"
+    }
+  ]
+}

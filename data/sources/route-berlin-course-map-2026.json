@@ -13,5 +13,50 @@
     "The map names streets and places including Reichstag, Brandenburger Tor, Großer Stern, Ernst-Reuter-Platz, Zoologischer Garten, Olivaer Platz, Turmstraße, Rosenthaler Platz, Alexanderplatz, Strausberger Platz, Moritzplatz, Kottbusser Tor, Hermannplatz, Hasenheide, Mehringdamm, Platz der Luftbrücke, Kleistpark, Innsbrucker Platz, Breitenbachplatz, Roseneck Platz, Fehrbelliner Platz, Wittenberg Platz, Nollendorfplatz and Potsdamer Platz.",
     "The map's extracted text contains no elevation figures; it lists kilometre numbers, landmarks, streets and aid points but no profile data."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 下载 Course.pdf → .agent/berlin-shanghai35/berlin-course-map.pdf；pypdf 提取文本",
+    "note": "PDF 文本可解析，含编号、图例与地名，无爬升数据。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PDF 文本含 1–42 编号及 Start/Finish 字样；未从图形读取数据。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "图例文本含 Water、Refreshment（含 fruit、tea、Maurten DRINK MIX 160）与 Maurten Gel 100。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PDF 文本逐一出现 Siegessäule、Bundeskanzleramt、Berliner Dom、Fernsehturm、Konzerthaus am Gendarmenmarkt、Südstern、Rathaus Schöneberg、Kaiser Wilhelm Gedächtnis-Kirche、Potsdamer Platz。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "文本出现 Mitte、Moabit、Tiergarten、Charlottenburg、Steglitz、Wilmersdorf、Schöneberg、Kreuzberg、Neukölln。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "所列 Reichstag、Brandenburger Tor 至 Potsdamer Platz 等街道/地点均见 PDF 文本。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PDF 提取文本无海拔或爬升数字，仅公里数、地名与补给点。"
+    }
+  ]
 }

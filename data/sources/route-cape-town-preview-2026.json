@@ -17,5 +17,74 @@
     "The event sets up five emergency misting zones if high temperatures are expected.",
     "The 2026 infrastructure includes 205 toilets on the route, 600 marshals, 13.5 km of fencing and 7,200 traffic cones."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "本地静态抓取 .agent/capetown/raw",
+    "note": "赛前公告全文（2026-05-22）已读；逐段核对人数、起跑时刻、关门与基础设施清单"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'Sunday 24 May ... 27,000 marathon runners lining up ... Around 32% of the marathon entrants will be running the event for the first time.'"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'8,500 international participants from 145 countries ... United States (1571) ... United Kingdom (712) and Germany (358) ... Zimbabwe (263), Botswana (177) and Kenya (133)'"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'1,800 of the world's best age group marathon runners racing for global honours'（AbbottWMM MTT Age Group World Champs）"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'A further 17,500 participants ... 10km and 5km Peace Runs ... Cape Town Trail Marathon, 22km and 11km trail runs ... Saturday, 23 May'；'total of 44,500 athletes'"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "引语原文：'an elite field for 2026 with seven World Athletics Platinum Label and 13 Gold Label athletes'"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：Peace Flame 7:20am、Wheelchair 7:50am、Elite 8am，均在 Fritz Sonnenberg Road；AGWC 'Beach Road ... at 8:05am'"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'five waves – three in Fritz Sonnenberg Road and two in Beach Road – from 8:10am until 9:06am'"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'The final cut-off for the marathon will be at 3:50pm.'"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "清单原文：'5 emergency misting zones (if high temperatures are expected on event day)'"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "清单原文：'13.5km of fencing'、'7200 traffic cones'、'600 marshals on marathon route'、'205 toilets on route'"
+    }
+  ]
 }

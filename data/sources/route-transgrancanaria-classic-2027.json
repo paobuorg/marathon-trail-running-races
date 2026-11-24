@@ -1,0 +1,117 @@
+{
+  "sourceId": "route-transgrancanaria-classic-2027",
+  "title": "The North Face Transgrancanaria 2027 — Classic 126 km race page",
+  "url": "https://transgrancanaria.net/en/classic-126km/",
+  "publisher": "The North Face Transgrancanaria / Arista Eventos S.L.",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2027 Classic starts on Friday 26 February 2027 at 23:59 from Las Canteras Beach, Las Palmas de Gran Canaria, and finishes in Maspalomas; the page gives a 30-hour cut-off.",
+    "The 2027 Classic stat block gives 126 km and 6,764 m of positive gain, while the intro text describes the race as 126 km with 'nearly 7,000 metres' of elevation gain.",
+    "The page lists ten aid stations plus start and finish: Tenoya 10.7, Arucas (Barreto) 19.3, Teror 31.6, Moya (Fontanales) 43.1, El Hornillo 52.7, Artenara 66.8, Tejeda 79.2, El Garañón 90.8, Tunte 98.4 and Ayagaures 112 km, with the finish at 126 km.",
+    "Cut-off times are Tenoya Saturday 02:00, Arucas 03:40, Teror 06:10, Fontanales 08:50, El Hornillo 11:30, Artenara 15:10, Tejeda 18:00, El Garañón 20:45, Tunte 23:25, Ayagaures Sunday 02:25 and Maspalomas Sunday 06:00.",
+    "First-runner passage times are 00:44, 01:30, 02:45, 04:03, 05:10, 06:44, 08:01, 09:31, 10:35, 11:35 and 12:35 at the same points.",
+    "Tenoya is a liquid-only aid station (water, cola and salts) and, like El Hornillo, is closed to spectators and assistance teams.",
+    "External assistance is allowed at Arucas (Barreto), Teror, Fontanales (Moya), Artenara, Tejeda, El Garañón and Tunte, and not allowed at Tenoya, El Hornillo and Ayagaures.",
+    "Classic runners have two life-bag points, Fontanales and El Garañón; items must fit one 35 x 50 cm bag and are returned to Expomeloneras for collection on Sunday between 09:00 and 14:00.",
+    "The mandatory equipment list includes a cold kit (hot gloves, windproof trousers, thermal T-shirt and long thermal pants) that may be removed two days before the race depending on the forecast, a 100 x 200 cm emergency blanket, a phone that works in Spain, 1.5 litres of water capacity, a headlamp of at least 200 lumens with spare batteries, a red tail light, a breathable waterproof jacket, a cap, ID and at least 50 euros in cash.",
+    "Classic runners must upload a medical certificate before 14 January 2027; a paid registration without a valid certificate is not accepted.",
+    "The page offers a KMZ and a GPX download and warns that Google Earth may change distance and elevation, while the GPX is the more reliable format for reading them.",
+    "The page is a 2027 edition page: it shows 'Registration 2027', a 2027 medical certificate PDF, the 2027 race date and the 2027 cut-off table.",
+    "The technical specification table gives only two checkpoint altitudes: CP1 Tenoya at 163 m with 296 m of climb and 211 m of descent from the start, and CP2 Arucas at 223 m with 747 m of cumulative climb, 526 m of cumulative descent and an 8.6 km segment gaining 451 m and losing 315 m.",
+    "The race stat block lists 'Points 5' without naming the ranking or points system the figure belongs to."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://transgrancanaria.net/en/classic-126km/，读取页头 stat block、technical specifications 表与 aid stations 表"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页头：Friday, February 26, 11.59 PM；Las Palmas de Gran Canaria – Maspalomas；Cut-off time 30 Hours；elevation profile 表 Start Las Canteras / Finish Maspalomas"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页头 Distance 126 Kilometers；Positive Elevation 6.764 M；正文 126 kilometres and nearly 7,000 metres"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Aid stations and locations 表逐行读取；编号 1–10 加 Start 与 Finish"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同表 Cut-off time 列逐行读取；Ayagaures 与 Finish 标 D（星期日），其余标 S（星期六）"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同表 First runner passage 列逐行读取"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Tenoya 备注 Liquid-only aid station；Tenoya 与 El Hornillo 备注 strictly prohibited for spectators and assistance teams；星号脚注列出 water, cola and salts"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "External assistance and drop-bags 段逐点列出允许与不允许的点"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "LIFE BAGS 段：two life bag points: Fontanales、El Garañón；35 cm x 50 cm；Sunday 09:00–14:00 于 Expomeloneras"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Mandatory equipment 列表逐项读取；COLD KIT 脚注写 2 days before the race 由组织方决定是否保留"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "医疗证明段：before 14 January 2027；A paid registration without a valid medical certificate will not be accepted"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Tracks download 段：TRACK KMZ、TRACK GPX；提示 Google Earth may seriously change the distance and elevation"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面出现 Registration 2027、REGISTER 2027、MEDICAL-CERTIFICATE-TGC-2027-ENG-1.pdf 链接与 2027 年 2 月 26 日日期"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Technical specifications 表：CP1 163 / 10,7 / 296 / 211；CP2 223 / 19,3 / 747 / 526 / 8,6 / 451 / 315；表内只有 CP1 与 CP2 两行"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页头 stat block：Points 5；同页与规则页均未说明积分体系名称"
+    }
+  ]
+}

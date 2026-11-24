@@ -10,5 +10,31 @@
     "The HK100 is described as one of Asia's premier trail races, taking runners across Hong Kong's mountains, beaches, ridgelines and country parks.",
     "The home page presents the 2027 edition as the upcoming edition."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://hk100ultra.com/ 首页 2027 Events 卡片"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2027 Events 卡片：The Third 34 km / 1,558 m / 10 h；The Half 53 km / 2,263 m / 14 h；HK100 100 km / 5,142 m / 30 h；The Grand Sam 183 km / 8,963 m / 54 h。三项距离相加为 187 km，与卡片的 183 km 不一致，卡片未解释"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首页 HK100 描述：“one of Asia’s premier trail races… mountains, beaches, ridgelines and country parks”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首页标题与倒计时：“2027 Edition”"
+    }
+  ]
 }

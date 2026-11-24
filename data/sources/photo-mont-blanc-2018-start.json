@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-mont-blanc-2018-start",
+  "title": "File:20180701 (c)DavidGonthier 0095.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:20180701_(c)DavidGonthier_0095.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2018-07-01",
+  "accessedAt": "2026-11-21",
+  "claims": [
+    "The file is described as the start of the Marathon du Mont-Blanc in Chamonix and classified under the Marathon du Mont-Blanc category.",
+    "The photograph was taken at 07:00:55 on 1 July 2018 in Chamonix.",
+    "The author is David Gonthier; the file was uploaded by Club Chamonix as own work under CC BY-SA 4.0.",
+    "The original is 5,201×3,467 pixels and 11.95 MB; the 960×640 preview used here is 270,851 bytes."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-21",
+    "checkedVia": "Commons file page and Special:Redirect/file?width=960 preview, via local 7890 proxy",
+    "note": "2026-11-21 read the file page, structured data and EXIF: Description 'Départ Marathon', date 1 July 2018 07:00:55, author David Gonthier / uploader Club Chamonix, CC BY-SA 4.0. The 960×640 preview is 270,851 bytes and was visually checked against the described start scene."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "File description: 'Départ Marathon'. Category: Marathon du Mont-Blanc."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "EXIF DateTimeOriginal 2018-07-01 07:00:55; camera location 45.923312 N, 6.868977 E."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "Summary author line: 'am the photographer of Chamonix Club'; metadata author and copyright holder David Gonthier; uploader Club Chamonix; licence CC BY-SA 4.0."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "File page: 5,201×3,467 pixels, 11.95 MB. Downloaded 960×640 preview is 270,851 bytes."
+    }
+  ]
+}

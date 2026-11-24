@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-lavaredo-travel",
+  "title": "How to get there — La Sportiva Lavaredo Ultra Trail by UTMB",
+  "url": "https://lavaredo.utmb.world/discover/transportation/how-to-get-there",
+  "publisher": "La Sportiva Lavaredo Ultra Trail by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Cortina d'Ampezzo is in the north-east of the Veneto region, province of Belluno, about 72 km from the city of Belluno and only 44 km from the Austrian border; the page calls it one of the most famous mountain tourist destinations in Italy.",
+    "A daily bus service and private shuttle buses travel from Venice airport to Cortina in a little less than two hours; Venice is the closest airport.",
+    "From Venice airport the operators named by the event are Flixbus, Cortina Express and ATVO; summer bus schedules connecting Venice Airport to Cortina are published at the end of April.",
+    "By car from the south: A13 Bologna-Padova, A4 Milano-Venezia, A27 to Belluno, exit Pian di Vedoia, then SS 51 Alemagna towards Dobbiaco and Cortina; from the north: A22 Brennero south, exit Bressanone, then towards Dobbiaco and Cortina.",
+    "The page says it covers car, train and plane, but it contains no train section, station name, timetable or journey time."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://lavaredo.utmb.world/discover/transportation/how-to-get-there，读取 By plane / By bus / By car 三段"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "首段：Veneto / Belluno / about 72 kms / 44 kms from the Austrian border" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "首段：daily bus service and private shuttle bus... a little less than two hours；By plane：Venice is the closest airport" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "By bus 段三个运营方；summer schedules at the end of April" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "By car 段；原文把 Pian di Vedoia 写成 'Pian di Vedoao'，此处按正确拼写记录" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "导语列 car, train, or plane；正文只有 By plane / By bus / By car 三节" }
+  ]
+}

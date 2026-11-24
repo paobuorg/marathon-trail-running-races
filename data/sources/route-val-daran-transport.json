@@ -1,0 +1,61 @@
+{
+  "sourceId": "route-val-daran-transport",
+  "title": "HOKA Val d'Aran by UTMB — transport page",
+  "url": "https://valdaran.utmb.world/en/transports",
+  "publisher": "HOKA Val d'Aran by UTMB / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The UTMB-Bus connects almost all villages in the valley, from Les to Beret, with frequencies of 30 minutes to 1 hour and up to every 15 minutes at peak times.",
+    "VDA and EXP runners have free bus access without reservation; CDH, TDL and PDA runners must reserve a stop and time before 14 June; SKY runners must buy a ticket before 14 June.",
+    "The transport page is still the 2026 version: it says 'Looking ahead to 2026', gives 1–5 July dates and lists TDL on Wednesday 1 July, PDA on Thursday 2 July and SKY on Saturday 4 July.",
+    "For the VDA, a mountain shuttle to Artiga de Lin runs on Friday from 18:00 to 23:00, departing hourly from Vielha, in the 2026 timetable.",
+    "Runners who withdraw are evacuated to the finish in Vielha or to a point served by the UTMB-Bus or urban bus, free on presentation of the race bib and wristband.",
+    "After finishing, runners can use the UTMB-Bus free to return to the point where they started their journey."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取英文运输页；页面仍为 2026 版"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：from Les to Beret，frequencies of 1 hour or 30 minutes，peak 15 minutes"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "TRANSPORTATION FOR RUNNERS：VDA/EXP free no reservation；CDH/TDL/PDA mandatory reserve before June 14；SKY must purchase"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文：Looking ahead to 2026；UTMB-Pass July 1 to 5；TDL Wednesday July 1；PDA Thursday July 2；SKY Saturday July 4"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "SERVICES BY RACE — VDA：Artiga de Lin Friday 6:00 p.m. to 11:00 p.m.，every hour from Vielha"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Q&A：All runners who withdraw will be evacuated to the finish line in Vielha or to a point served by UTMB-Bus"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Q&A：free upon presentation of race bib and wristband"
+    }
+  ]
+}

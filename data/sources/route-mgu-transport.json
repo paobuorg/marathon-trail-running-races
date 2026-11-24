@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-mgu-transport",
+  "title": "芒市机场至腾冲定制客运班车正式开通 — 瑞丽市人民政府",
+  "url": "https://www.rl.gov.cn/ggqsyxx/Web/_F0_0_6LJ25DAV994D7334334B47EBBD.htm",
+  "publisher": "瑞丽市人民政府",
+  "publishedAt": "2026-05-21",
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "A direct custom coach service runs from Mangshi Airport to Tengchong Tourist Bus Station.",
+    "The one-way fare is CNY 57 per person and the journey takes about 1.5 hours on the expressway.",
+    "Fixed departures are 09:20, 10:20, 11:20 and 13:40, with extra services added according to demand.",
+    "Tickets can be bought through the Dehong Transport Group's official WeChat account."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web search result + government page",
+    "note": "Official local-government page announcing the airport coach."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Page title and first paragraph."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "票价 57 元/人；全程约 1.5 小时."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "固定发车时段 listed."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "购票渠道 paragraph."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "sourceId": "route-utmb-series-2026",
+  "title": "HOKA UTMB Mont-Blanc — race pages (UTMB, CCC, OCC, TDS, PTL) and UTMB World Series events page",
+  "url": "https://montblanc.utmb.world/races/utmb",
+  "publisher": "UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The UTMB race page labels the UTMB as the '100M Final of the UTMB World Series' in the 100M category.",
+    "The OCC race page labels OCC as the '50K Final of the UTMB World Series'.",
+    "The TDS race page lists 4 Running Stones and does not label TDS as a distance-category Final, while the UTMB, CCC and OCC pages each explicitly name their category Final.",
+    "The PTL race page states the PTL is run in teams of 2 or 3 'without any official ranking' and describes the PTL as setting itself apart from other races.",
+    "The UTMB, CCC, OCC and TDS race pages all sit inside the 24–30 August 2026 HOKA UTMB Mont-Blanc week, and each race page publishes its own timing table and cut-off times.",
+    "The UTMB World Series events page states that Running Stones are collected by finishing a UTMB World Series Event or Major."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "UTMB 页底部标题原文：100M Final of the UTMB World Series"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "OCC 页底部原文：50K Final of the UTMB World Series"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "TDS 页头列 Running Stones 4；页面未自称任何距离组 Final。UTMB/CCC/OCC 页均明写各自 Final"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "PTL 页原文：run in teams of 2 or 3 athletes, without any official ranking"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "四页均标注 24–30 August 2026，起跑日分别为 24/27/28 日；各自计时表独立"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Series 页原文：You can only collect Running Stones by finishing a UTMB World Series Event or Major"
+    }
+  ]
+}

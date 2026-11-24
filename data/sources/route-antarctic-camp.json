@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-antarctic-camp",
+  "title": "Union Glacier Camp services — Antarctic Logistics & Expeditions",
+  "url": "https://antarctic-logistics.com/service/camp-services/",
+  "publisher": "Antarctic Logistics & Expeditions (ALE)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "Union Glacier Camp is at 79°46′S 82°52′W, elevation 2,297 ft (700 m), in the southern Ellsworth Mountains on Union Glacier.",
+    "The camp is accessible only by air and operates during the Antarctic summer from November to January; it is dismantled at the end of each season.",
+    "Union Glacier camp time is the same as Punta Arenas, Chile, GMT-3, even though the camp has 24-hour daylight.",
+    "The camp is about 2,991 km from the southern tip of Chile and just over 1,000 km from the South Pole."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch",
+    "note": "Official ALE camp-services page read."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Coordinates, elevation and location."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Camp description and season."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Time section."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Distance from Chile and South Pole."
+    }
+  ]
+}

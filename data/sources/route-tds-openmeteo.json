@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-tds-openmeteo",
+  "title": "Open-Meteo ERA5 archive — Courmayeur, Beaufort and Chamonix, 24–26 August, 2015–2025",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=45.7929&longitude=6.9716&start_date=2015-08-24&end_date=2025-08-26&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=auto",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "For Courmayeur, the 24–26 August window in 2015–2025 contains 33 daily records: daily maximum 17.1–32.1 °C (median 24.4 °C), daily minimum 6.0–16.8 °C (median 10.6 °C), 10 days with at least 1 mm precipitation and 5 days with at least 5 mm.",
+    "For Beaufort, the same window contains 33 daily records: daily maximum 15.3–34.7 °C (median 25.0 °C), daily minimum 9.0–18.6 °C (median 13.4 °C), 10 days with at least 1 mm precipitation and 6 days with at least 5 mm.",
+    "For Chamonix, the same window contains 33 daily records: daily maximum 12.8–33.5 °C (median 23.8 °C), daily minimum 7.1–18.9 °C (median 11.7 °C), 12 days with at least 1 mm precipitation and 5 days with at least 5 mm.",
+    "The three locations are valley stations at roughly 1,000–1,220 m; the figures do not represent conditions at the 2,589 m high point."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "Open-Meteo archive API",
+    "note": "Daily values were retrieved for each coordinate and filtered to 24–26 August; medians and wet-day counts were calculated locally."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "33 rows, computed from downloaded CSV."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "33 rows, computed from downloaded CSV."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "33 rows, computed from downloaded CSV."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Coordinates and station elevations from the API; high point 2,589 m from the official course JSON."
+    }
+  ]
+}

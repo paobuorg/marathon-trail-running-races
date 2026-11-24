@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-sdw100-official-rules-2027",
+  "title": "SDW100 2027 Rules — official",
+  "url": "https://centurionrunning.com/races/south-downs-way-100-2027/section/rules",
+  "publisher": "Centurion Running",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The minimum age on race day is 20, and giving false age information on the registration form carries a lifetime ban.",
+    "Runners must carry the mandatory kit at all times, with a minimum one hour penalty per missing item, and mandatory gear checks may take place at the start, on route or at the finish; refusing a check leads to disqualification.",
+    "Runners must follow the course at all times according to the course markings and the GPX supplied in the pre-race notes; cutting the course carries a time penalty or disqualification, storing supplies along the trail carries a two hour penalty, and leaving an aid station after a cut-off without handing in bib and tracker carries disqualification and a lifetime ban."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接抓取并读取该页规则表与强制装备段。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "规则表第 12 条：'Minimum age on race day is 20'；'Lifetime Ban'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "规则表第 13 条：'Minimum of One Hour penalty per missing item'；第 14 条：'mandatory gear checks at the start, on route, or at the finish'；'Refusal... DQ & Lifetime Ban'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "规则表第 3 条：'per the course markings and GPX supplied in the pre-race notes'；第 5 条：'Two Hour Penalty'；第 6 条：'DQ & Lifetime Ban'" }
+  ]
+}

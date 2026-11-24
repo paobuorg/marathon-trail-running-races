@@ -12,5 +12,44 @@
     "The 2027 Hardrock will be held 9-11 July 2027 in the counter-clockwise direction.",
     "The 2027 run starts at 6:00a on 9 July 2027 in Silverton, Colorado."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "官方页面直读",
+    "note": "首页正文可读"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "At a Glance 段：100-mile run…33,441…66,882…average elevation of 11,186 feet"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "At a Glance 段：low point 7,680 feet (Ouray)，high point 14,048 feet (Handies Peak)"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面顶部 2027 Lottery 段：Sat. Dec 5 2026 Hardrock Hundred lottery"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面顶部：July 9-July 11 2027 Hardrock (counter clockwise direction)"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Hardrock 100 Quick Facts：Start 6:00a, July 9, 2027；Where Silverton, Colorado"
+    }
+  ]
 }

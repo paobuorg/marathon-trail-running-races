@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-mtfuji100-access",
+  "title": "Mt.FUJI 100 — ACCESS (access and official tour pages)",
+  "url": "https://www.mtfuji100.com/access/access/",
+  "publisher": "Mt.FUJI100 Executive Committee",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "For 2027 the event loop bus runs Fujisan Station to Fuji Resort Hotel, the Fujikyu Highland express bus stop and Fuji Hokuroku Park second parking lot, passing Kawaguchiko Station only during the 00:00-07:00 loop on 25 April.",
+    "The 2027 loop bus fares are 3,800 yen for a three-day ticket, 2,700 yen for a two-day ticket and 2,200 yen for a one-day ticket, all tax included, with sales starting on 29 January 2027.",
+    "The 2027 loop bus runs on 23 April from 7:30 to 19:45, on 24 April from 02:00 to 24:00 and on 25 April from 00:00 to 16:00, roughly hourly with a bus every 30 minutes at peak times.",
+    "There is no parking for athletes at the finish venue, Fuji Hokuroku Park, and parking is reservation-only with tickets sold in advance.",
+    "The official access tour for the 2026 race is sold by Fujikyu Travel as a package tour, and all plans require advance reservation.",
+    "The 2026 official tour includes a stay at PICA Fujiyoshida, about seven minutes on foot from the finish venue, with check-in from 10:00 to 19:00 and check-out by 11:00.",
+    "The 2026 official tour also includes a plan to stay in Fuji City the night before, with race check-in and gear check at a special venue in Fuji City from 18:00 to 22:30 and a bus to the start venue the next day.",
+    "The 2026 official tour sells buses from Shinjuku and Yokohama that stop at the check-in venue and then continue to the start at Fujisan Kodomo no Kuni, leaving Shinjuku at 9:00 and Yokohama at 8:30, arriving at Fuji Hokuroku Park around 11:00 and at the start venue around 15:30.",
+    "The 2026 official tour sells shuttle buses from Fuji Hokuroku Park and from the athlete parking lots to the start venue between 13:00 and 14:00, arriving between 14:30 and 15:30.",
+    "The 2026 official tour includes a supported tour for runners who cannot arrange their own support crew, with dedicated staff at four aid stations and the official support bag.",
+    "The 2026 tour page states that some plans go on sale on 3 December at 12:00 and that the loop bus, athlete parking tickets and the Fuji Hokuroku Park to Kodomo no Kuni shuttle go on sale on 29 January at 12:00."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取日文 ACCESS 与 TOUR 页；ACCESS 页为 2027 票价与班次，TOUR 页标题写明 'Mt.FUJI100 2026大会オフィシャルアクセスツアー'，两者届次不同，正文分别标注"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "ACCESS 页 ◆ルート：富士山駅 →（※）→ 富士山リゾートホテル前 → 富士急ハイランド高速バスステーション → 富士北麓公園第2駐車場；※4/25 00:00-07:00 経由河口湖駅" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "ACCESS 页 ◆料金：3日券 3,800円／2日券 2,700円／1日券 2,200円（税込）；申し込み 2027年1月29日より" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "ACCESS 页 ◆運行スケジュール三行" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "ACCESS 页停车段与 ENTRY 页 'no parking available for athletes at the finish line venue'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "TOUR 页：'富士急トラベル募集型企画旅行'；'全て要事前予約です'" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "TOUR 页 'NEW!! 会場徒歩圏内 前後泊プラン'：PICA富士吉田 徒歩約7分，チェックイン10-19時、チェックアウト11時" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "TOUR 页 '事前受付 富士市前泊プラン'：4/23 18:00-22:30 受付・装備品チェック，富士市内宿泊" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "TOUR 页 '新宿/横浜発 受付会場経由スタート会場行きバス' 行程：新宿9:00／横浜8:30 → 富士北麓公園11:00頃 → 14:00発 → こどもの国15:30頃" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "TOUR 页 '富士北麓公園発 スタート会場行きバス' 与 '選手駐車場発'：13:00-14:00発、14:30-15:30着" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "TOUR 页 'FUJI100mi サポート付きオフィシャルツアー'：4箇所のエイドで専属スタッフ、公式サポートバッグ" },
+    { "index": 10, "status": "supported", "checkedAt": "2026-11-08", "note": "TOUR 页注：一部プラン 12月3日12:00販売開始；循環バス・駐車券・シャトル 1月29日12:00販売開始" }
+  ]
+}

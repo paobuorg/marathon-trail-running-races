@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-torrencial-chile-openmeteo-2027",
+  "title": "Open-Meteo historical archive — Punucapa grid point, 24–27 June 2015–2025",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=-39.7555&longitude=-73.2667&start_date=2015-06-01&end_date=2025-06-30&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=America%2FSantiago",
+  "publisher": "Open-Meteo (gridded reanalysis archive)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The archive request for the Punucapa coordinates returned a grid point at latitude -39.753956, longitude -73.226715, elevation 15 m.",
+    "Across 24–27 June in 2015–2025 (44 days), daily maximum temperature ranged from 7.7 °C to 14.3 °C with a median of 10.75 °C.",
+    "Across the same 44 days, daily minimum temperature ranged from -1.9 °C to 11.5 °C with a median of 5.25 °C.",
+    "32 of the 44 days had at least 1 mm of precipitation and 23 had at least 5 mm, with the largest single day at 43.6 mm on 2024-06-26.",
+    "The values are gridded reanalysis for one point, not measurements taken on the race course."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "Open-Meteo archive API JSON，每日 tmax/tmin/precipitation_sum，America/Santiago 时区",
+    "note": "2026-11-08 查询。请求坐标 -39.7555 / -73.2667，API 返回网格点 -39.753956 / -73.226715、海拔 15 m。这是区域再分析网格，不是赛事数据，也不是赛道实测；同一网格点不能代表 Oncol 山顶。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "响应字段 latitude/longitude/elevation 原值。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "44 个日期样本；min 7.7、p75 12.1、max 14.3、median 10.75。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "min -1.9、p25 3.6、median 5.25、p75 6.8、max 11.5。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "precip median 5.7 mm、p75 22.2 mm；≥1 mm 32 天、≥5 mm 23 天；最大单日 2024-06-26 的 43.6 mm。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "数据来自 archive-api.open-meteo.com 的网格再分析，响应中 elevation=15 m，无赛道测站。" }
+  ]
+}

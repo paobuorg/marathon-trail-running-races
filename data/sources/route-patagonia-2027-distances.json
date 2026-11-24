@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-patagonia-2027-distances",
+  "title": "其余五个组别官方页：110k、70k、42k、21k、12k 的距离、爬升、时限与发枪日",
+  "url": "https://patagoniarun.com/110k/",
+  "publisher": "Patagonia Run",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "110k：107.3 km、5,730 m、35 小时、2027-04-09（周五）、RCM4 出发、Hora: A definir、难度 Alta。",
+    "70k：71 km、4,128 m、23 小时 30 分、2027-04-10（周六）、RCM4 出发、Hora: A definir、难度 Media–Alta。",
+    "42k：42 km、2,403 m、10 小时 30 分、2027-04-08（周四）、RCM4 出发、Hora: A definir、难度 Media。",
+    "21k：21.2 km、1,234 m、8 小时、2027-04-07（周三）、RCM4 出发、Hora: A definir、难度 Media-baja。",
+    "12k：组别名 12k，官方距离写 13 km、爬升 693 m、时限 5 小时、2027-04-08（周四）、RCM4 出发、Hora: A definir、难度 Baja。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 分别读取五个距离页的 LARGADA 与数值区块，逐页摘录；各组别发枪时刻均写 Hora: A definir。",
+    "checkedVia": "https://patagoniarun.com/110k/、/70k/、/42k/、/21k/、/12k/"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "/110k/ 页：LARGADA: VIERNES 9 de Abril de 2027；107,3 kms；35 Horas；5730 mts；Alta。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "/70k/ 页：LARGADA: SÁBADO 10 de Abril de 2027；71 kms；23:30 Horas；4128 mts；Media – Alta。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "/42k/ 页：LARGADA: JUEVES 8 de Abril de 2027；42 kms；10:30 Horas；2403 mts；Media。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "/21k/ 页：LARGADA: MIÉRCOLES 7 de Abril de 2027；21,2 kms；8:00 Horas；1234 mts；Media-baja。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-09", "note": "/12k/ 页：LARGADA: JUEVES 8 de Abril de 2027；13 kms；5:00 Horas；693 mts；Baja。" }
+  ]
+}

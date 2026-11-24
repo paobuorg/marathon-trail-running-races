@@ -1,0 +1,75 @@
+{
+  "entityId": "route:utnh",
+  "slug": "utnh",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-utnh-2026-rules",
+    "route-utnh-2026-faq",
+    "route-utnh-2026-home",
+    "route-utnh-2026-course-page",
+    "route-utnh-2026-gpx",
+    "route-utnh-2026-schedule",
+    "route-utnh-2026-transport",
+    "route-utnh-place-geocoding",
+    "photo-utnh-ninghai-trailhead",
+    "photo-utnh-ninghai-mountains",
+    "photo-utnh-ninghai-fields"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-09",
+  "updatedAt": "2026-11-24",
+  "reviewedAt": "2026-11-24",
+  "reviewDueAt": "2027-03-04",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "CN"
+    ],
+    "placeName": {
+      "zh-CN": "中国浙江省宁波市宁海县西门城楼",
+      "en": "West Gate, Ninghai County, Ningbo, Zhejiang, China"
+    },
+    "mapAnchor": {
+      "longitude": 121.42472,
+      "latitude": 29.28917,
+      "kind": "start",
+      "sourceRef": "route-utnh-place-geocoding"
+    },
+    "courseVersion": "2026-utnh-100",
+    "courseEdition": "2026",
+    "courseStatus": "current",
+    "courseChanges": [
+      {
+        "edition": "2026",
+        "observedAt": "2026-11-09",
+        "field": "CP2 location and cut-off",
+        "change": "route-refined",
+        "from": "CP2 外辽，16.4 km",
+        "to": "CP2 里辽，18.6 km；关门时间顺延 30 分钟",
+        "sourceRef": "route-utnh-2026-course-page",
+        "note": {
+          "zh-CN": "官方 UTNH-100 路线页在 2026-09-14 的更新图旁写明：CP2 由 16.4 km 的外辽调整至 18.6 km 的里辽，关门时间延长 30 分钟。这是同一届内的赛道调整，官方点名了站点与公里数，因此记入变更日志。",
+          "en": "The official UTNH-100 course page, in an update dated 14 September 2026, states that CP2 moved from Wailiao at 16.4 km to Liliao at 18.6 km and that its cut-off was extended by 30 minutes. The organiser names the checkpoint and the kilometre, so the adjustment is recorded here; it is a within-edition change, not a change between editions."
+        }
+      }
+    ],
+    "direction": "Loop from Ninghai West Gate through the western mountains of Ninghai County and back to the same gate",
+    "distanceMeters": 100600,
+    "distanceMethod": "The 2026 official regulations, the official home page and the UTNH-100 course page all give 100.6 km for UTNH-100. The official FAQ table gives 100.5 km; that discrepancy is reported in the body rather than averaged away. A read-only measurement of the official GPX on 2026-11-20 gives 100.85 km of planar point-to-point distance; that is a measurement, not the official distance.",
+    "elevationGainMeters": 4986,
+    "elevationMethod": "The official UTNH-100 course page publishes a checkpoint table whose cumulative gain reaches 4,986 m at the finish, and the official home page gives the same figure. The same course page gives 4,986 m of cumulative descent. A read-only measurement of the official GPX on 2026-11-20 gives +5,135 / −5,125 m raw and a file maximum of 909 m; those are measurements and do not replace the official 4,986 m card value.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": "https://qiongjing.oss-cn-shanghai.aliyuncs.com/20261111/UTNH-100_2026%E5%8F%AF%E9%9A%86%E5%AE%81%E6%B5%B7%E8%B6%8A%E9%87%8E%E6%8C%91%E6%88%98%E8%B5%9B_1792643541919_1794370870868.gpx",
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://qiongjing.oss-cn-shanghai.aliyuncs.com/20261111/UTNH-100_2026%E5%8F%AF%E9%9A%86%E5%AE%81%E6%B5%B7%E8%B6%8A%E9%87%8E%E6%8C%91%E6%88%98%E8%B5%9B_1792643541919_1794370870868.gpx",
+    "attribution": "2026 KOLON SPORT Ultra-Trail Ninghai / 上海穹景体育文化发展有限公司 (Skyview Sport). The organiser publishes a UTNH-100 GPX download on its own OSS bucket, but the file carries no licence or copyright statement, so this site links to the official GPX, does not host or redistribute it, and draws no track. The GPX was downloaded once on 2026-11-20 for a local distance/elevation measurement; that measurement is labelled separately from the official card values. The map anchor is a town-level point for Ninghai, not the official start line."
+  }
+}

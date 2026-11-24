@@ -1,14 +1,41 @@
 {
   "sourceId": "photo-tor-des-geants-2017",
-  "title": "File:Miserin Tor des Géants 2017.png (2026-11-07 check: host unreachable from this network; not re-verified)",
+  "title": "File:Miserin Tor des Géants 2017.png",
   "url": "https://commons.wikimedia.org/wiki/File:Miserin_Tor_des_G%C3%A9ants_2017.png",
   "publisher": "Wikimedia Commons",
-  "publishedAt": "2018-06-07",
-  "accessedAt": "2026-11-06",
+  "publishedAt": "2017-09-12",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The file shows a runner on the Miserin section of the 2017 Tor des Géants, with Mont Avic and Mont Emilius in the background.",
     "The uploader and author is Pampuco, credited as own work.",
     "The file is licensed CC BY-SA 4.0 (Creative Commons Attribution-Share Alike 4.0)."
   ],
-  "license": "CC-BY-SA-4.0"
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe --proxy local 7890 proxy；Commons action=query imageinfo + w/thumb.php 缩略图",
+    "note": "2026-11-20 经本地 7890 代理读取 Commons 文件页、imageinfo API 与缩略图，确认作者、许可、拍摄日期和画面。此前 blocked 是本机直连不可达，不是文件不存在或没有许可。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    }
+  ]
 }

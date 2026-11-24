@@ -1,0 +1,40 @@
+{
+  "sourceId": "route-mont-blanc-2025-profile",
+  "title": "Profil de course — 42km du Mont-Blanc (édition 2025)",
+  "url": "https://www.marathonmontblanc.fr/sites/default/files/2025-05/profil%2042Km.pdf",
+  "publisher": "Club des Sports de Chamonix (organiser)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-21",
+  "claims": [
+    "The one-page profile PDF is linked from the official French 42 km page as 'Profil de course'.",
+    "The profile plots altitude in metres against distance in kilometres and names the main points, including Le Tour at 1,465 m, Aiguillette des Posettes at 2,200 m, Col des Posettes at 1,999 m, Vallorcine at 1,276 m, Le Béchar at 1,700 m, La Flégère at 1,894 m and Le Châtelard at 1,810 m.",
+    "The sheet marks time barriers, full refreshment stations and the hot dog plus beer point, is a 2025-05 static PDF rather than a GPX file, and carries no stated reuse licence."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-21",
+    "note": "2026-11-21 从官方法文 42 km 页 'Profil de course' 链接下载并读取全文（1 页，465,278 字节）：海拔纵轴 1,000–2,200 m，距离横轴到 42 km，标注 Chamonix、Les Bois、Lavancher、Argentière、Le Tour、Aiguillette des Posettes、Col des Posettes、Vallorcine、Col des Montets、Le Béchar、Bas du Plagnolet、La Flégère、Les Prés、Le Châtelard、Chamonix；图例含 Barrière Horaire、Ravitaillement Complet、Hot dog + bière。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "官方法文 42 km 页 'Profil de course' 链接该 URL。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "PDF 图上标注：Le Tour 1465m、Aiguillette des Posettes 2200m、Col des Posettes 1999m、Vallorcine 1276m、Le Béchar 1700m、Bas du Plagnolet 1448m、La Flégère 1894m、Les Prés 1856m、Le Châtelard 1810m；起点 Chamonix 约 1000m，终点 42km。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "图例：Barrière Horaire / Time restriction、Ravitaillement Complet / Full Refreshment、Hot dog + bière；URL 路径 '/2025-05/'；单页 PDF，无 GPX，无许可文字。"
+    }
+  ]
+}

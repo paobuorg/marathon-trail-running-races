@@ -1,0 +1,33 @@
+{
+  "sourceId": "route-kodiak-official-register",
+  "title": "Registration — HOKA Kodiak Ultra Marathons by UTMB 2027",
+  "url": "https://kodiak.utmb.world/register",
+  "publisher": "UTMB World Series / HOKA Kodiak Ultra Marathons by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The page says 2027 registration will open soon and gives no 2027 race dates.",
+    "Registration is non-refundable and non-transferable, with a one-time for-any-reason deferral to next year's event honoured until 7 September 2027.",
+    "Online registration closes on Sunday 3 October 2027 at 23:59 PT or when races sell out; there is no waiting list and no race-day registration, though on-site expo registration is available for open distances.",
+    "The minimum age is 18 for the 100M, 100K and 50K, 16 for the 21K and 12 for the 10K.",
+    "As a UTMB World Series Major, the event grants 60 automatic Finals places per Major — the top 10 women and men in the 100M, 100K and 50K — and all finishers collect double Running Stones; the Finals lottery needs at least one stone and a valid UTMB Index.",
+    "The event is a dual qualifier: a 2026 100M finish under 36 hours or a 100K finish under 18 hours earns a 2027 Western States qualifier.",
+    "The distance-change deadline is written as Thursday 3 September 2026 on this 2027 page."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取并读取 2027 报名页。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页面原文 '2027 HOKA Kodiak Ultra Marathons by UTMB Registration will be open soon.'；页面无 2027 比赛日期字段" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "Withdrawal Information 段照录：non-refundable and non-transferable、one-time deferral、honored until September 7, 2027" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "Registration Notes 段照录：Online Registration Closes Sunday, October 3, 2027；no waiting list；NO RACE DAY REGISTRATION；expo onsite registration" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "Registration Notes 原文：18 for 100M/100K/50K、16 for 21K、12 for 10K" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-09", "note": "THE ROAD TO UTMB 段：60 runners automatic qualification、top 10 female and male in 100M/100K/50K、double Running Stones、at least one stone and valid UTMB Index" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-09", "note": "Dual Qualifier 段原文：100M under 36 hours、100K under 18 hours、2027 Western States Qualifier" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-09", "note": "Distance Changes 段原文 'completed by Thursday, September 3rd, 2026'，与页面标题的 2027 报名不一致" }
+  ]
+}

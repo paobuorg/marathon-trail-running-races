@@ -4,7 +4,7 @@
   "url": "https://torxtrail.com/torx-2026-event-schedule/",
   "publisher": "TORX / VDA Trailers",
   "publishedAt": null,
-  "accessedAt": "2026-11-07",
+  "accessedAt": "2026-11-08",
   "claims": [
     "Bib distribution, TOR bag deposit, the pasta party and the briefing for TOR330 take place at the Courmayeur Forum Sport Center on 11–13 September 2026.",
     "Both TOR330 starts are on Viale Monte Bianco in Courmayeur, at 10:00 and 12:00 on 13 September 2026.",
@@ -12,5 +12,43 @@
     "The TOR330, TOR450 and TOR30 last finishers are expected at 18:00 on 19 September 2026.",
     "The awards ceremony is at 11:00 on 20 September 2026 at Parco Bollino."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "browser",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026 届日程页仍在线；2026-11-08 读取全文"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：9/11–13 于 Courmayeur Forum Sport Center 发放号码布、9/12 18:00–20:00 寄存 TOR 包、9/12 20:00 pasta party & briefing"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：9/13 于 Viale Monte Bianco，1st group 10:00、2nd group 12:00"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：9/16 04:00 TOR330 first runners arrival，地点 Courmayeur – Jardin de l'Ange"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：9/19 18:00 TOR330、TOR450、TOR30 last finishers arrival"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：9/20 11:00 Awards Ceremony，Courmayeur – Parco Bollino"
+    }
+  ]
 }

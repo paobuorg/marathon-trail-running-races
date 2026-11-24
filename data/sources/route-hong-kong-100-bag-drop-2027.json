@@ -14,5 +14,55 @@
     "Runners must collect their drop bags at the finish themselves or through a representative.",
     "Extra luggage beyond the drop bags costs HK$200 per item and is transported directly to the Finish, not to CP6."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://hk100ultra.com/bag-drop/ 正文"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "开头：“one drop/support bag for CP6 (Kei Ling Ha) and the Finish”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "开头：“Two drawstring bags… (Size: 45cm (W) x 50cm (H))”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "开头：“Only one bag per person is permitted to be dropped at each of CP6 (Kei Ling Ha) and the Finish”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "开头：“support bags must be dropped with the organisers on the morning of the race”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "中段：“After a participant passes through CP6 (Kei Ling Ha), his or her bag will be transported to the Finish”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "中段：“collect their drop bags at the finish either by themselves or by a representative”"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Extra luggage 段：“charged HK$200 for each item… transported directly to the Finish (and not CP6 Kei Ling Ha)”"
+    }
+  ]
 }

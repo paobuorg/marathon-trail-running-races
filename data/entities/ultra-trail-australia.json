@@ -1,0 +1,67 @@
+{
+  "entityId": "route:ultra-trail-australia",
+  "slug": "ultra-trail-australia",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-ultra-trail-australia-2027",
+    "route-uta100-2027",
+    "route-utamiler-2027",
+    "route-uta50-2027",
+    "route-uta22-2027",
+    "route-uta11-2027",
+    "route-uta-schedule-2027",
+    "route-uta-mandatory-gear-2027",
+    "route-uta-oncourse-2027",
+    "route-uta-transport-2027",
+    "route-uta-gpx-2026",
+    "route-uta-weather",
+    "route-utmb-world-series-2027",
+    "photo-uta-scenic-world",
+    "photo-uta-six-foot-track",
+    "photo-uta-jamison-valley"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:recovery-day",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-23",
+  "reviewedAt": "2026-11-23",
+  "reviewDueAt": "2027-04-30",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "AU"
+    ],
+    "placeName": {
+      "zh-CN": "澳大利亚新南威尔士州蓝山 Katoomba，Scenic World 起终点",
+      "en": "Scenic World, Katoomba, Blue Mountains, New South Wales, Australia"
+    },
+    "mapAnchor": {
+      "longitude": 150.30047,
+      "latitude": -33.72879,
+      "kind": "start",
+      "sourceRef": "route-uta-gpx-2026"
+    },
+    "courseVersion": "2027-uta100-101k",
+    "courseEdition": "2027",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "Loop from Scenic World, Katoomba, through the Blue Mountains and back to Scenic World",
+    "distanceMeters": 101000,
+    "distanceMethod": "The 2027 UTA100 page gives 101 km, its time chart gives 101.3 km, and the track embedded in the same page gives 101,395 m. The linked GPX, whose URL sits in a folder named '2026 RACE ALIGNMENTS', measures 100.108 km horizontally, 101.446 km in three dimensions and 101,106 m by its own per-point cumulative distance. This card uses the official 101 km card figure and keeps the other figures in the body; the event has five adult races plus a 1 km kids race, and this page is about UTA100 only.",
+    "elevationGainMeters": 4400,
+    "elevationMethod": "The 2027 UTA100 page gives 4,400 m of positive gain and the embedded track gives 4,399 m. The linked GPX, labelled 2026, yields 4,497 m of raw positive change, and 6,082 m if a 3 m threshold is applied to the noisy elevation series. This card uses the official 4,400 m; the file-based figures are shown in the body and are not averaged with it.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": "https://pdf.utmb.world/raw/upload/v1776334050/uta/Races/2026%20RACE%20ALIGNMENTS/uta_100k_cleaned_livetrail_f81c7a5085.gpx",
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://uta.utmb.world/races/UTA100",
+    "attribution": "USM Events Pty Ltd / UTMB World Series. The GPX linked from the 2027 UTA100 page sits in a folder named '2026 RACE ALIGNMENTS' and is named uta_100k_cleaned_livetrail_f81c7a5085.gpx. Its creator is 'LiveTrail', its metadata name is 'LiveTrail Race', its copyright author is 'LiveTrail®', it has no metadata time and no track name, and it states no reuse licence. This site links to the official race page, does not host the file, does not draw the track and does not treat the file as verified 2027 geometry."
+  }
+}

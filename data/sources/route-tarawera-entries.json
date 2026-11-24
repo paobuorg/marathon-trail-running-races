@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-tarawera-entries",
+  "title": "Tarawera Ultra-Trail by UTMB — Entry Info (2027)",
+  "url": "https://tarawera.utmb.world/runners/entry-info",
+  "publisher": "Tarawera Ultra-Trail by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The race date is 13-14 February 2027; start times are TMiler Saturday 04:00, T102 07:00, T50 07:00-07:20, T21 10:00 and T14 Sunday 07:30; the event hub is Village Green, Lakefront Drive, Rotorua.",
+    "TMiler qualification requires an official 50 km or longer trail race completed between 3 January 2025 and 3 January 2027, submitted by 3 January 2027; a backyard ultra of 8 yards or more is accepted, and the Blue Lake 24hr Miler Qualifier requires 10 laps (about 60 km) within 11 hours.",
+    "Athletes who do not meet the TMiler qualification by the cutoff date are moved into the T102.",
+    "The T102 has no pre-requisite of competing or finishing any trail running event, although ultra-trail experience assists with start group seeding.",
+    "Withdrawal refunds are 45% before 22 November 2026, 22% before 3 January 2027 and none after 3 January 2027.",
+    "The event is not suitable to be completed using wheelchairs or with prams across all distances because of course conditions.",
+    "Entry prices are TMiler NZ$1,090, T102 NZ$625, T50 NZ$445, T21 NZ$195 and T14 NZ$160, in New Zealand dollars including GST.",
+    "The TMiler deferral programme requires registration before 16 May 2026 and a request before 3 January 2027, with a NZ$55 deferral fee payable when entering the 2028 event."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://tarawera.utmb.world/runners/entry-info，读取 Entry Overview、ENTRY PRICES、2027 Key Dates、TMILER QUALIFICATION、T102 段、ATHLETE WITHDRAWALS、WHEELCHAIRS AND PRAMS、DEFERRAL PROGRAM"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Entry Overview：RACE DATE 13-14 February 2027；START TIMES 五行；EVENT HUB Village Green" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "TMILER QUALIFICATION 三条要点，含 Backyard Ultra 8 yards+ 与 Blue Lake 24hr 10 laps ~60km/11h" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'you will be notified and automatically moved into the T102'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "T102 段：'There is no pre-requisite of competing or finishing any trail running event'；seeding 句" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "ATHLETE WITHDRAWALS 三档比例与日期" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "WHEELCHAIRS AND PRAMS ON COURSE 段原文" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "ENTRY PRICES 表五行；'in New Zealand dollars. Prices are inclusive of GST.'" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "DEFERRAL PROGRAM (TMiler Athletes Only) 三条" }
+  ]
+}

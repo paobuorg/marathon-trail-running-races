@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-sdw100-official-2026-infopack",
+  "title": "SDW100 2026 Infopack — official archive",
+  "url": "https://centurionrunning.com/races/south-downs-way-100-2026/section/infopack",
+  "publisher": "Centurion Running",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2026 edition was held over the weekend of 13–14 June 2026, with a 30 hour limit and cut-offs at every aid station.",
+    "The 2026 infopack tells runners not to recce the first 5 miles around Matterley Estate and lists course records of Mark Darbyshire (M) 13:42:54 in 2025 and Lucy Gossage (F) 16:30:35 in 2025."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接抓取并读取 2026 届 infopack。该页仍保留 2025 年的赛道纪录，属于赛前版本，不是 2026 届后的更新。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Introduction 段：'weekend of 13th-14th June 2026'；'within 30 hours'；'further cut offs at every aid station'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Course and Trail Conditions 段：'first 5 miles around Matterley Estate'；页首：Mark Darbyshire (M) 13:42:54 2025；Lucy Gossage (F) 16:30:35 2025" }
+  ]
+}

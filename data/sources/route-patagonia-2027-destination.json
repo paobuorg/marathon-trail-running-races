@@ -1,0 +1,55 @@
+{
+  "sourceId": "route-patagonia-2027-destination",
+  "title": "Patagonia Run 2027 — The destination: San Martín de los Andes (official)",
+  "url": "https://patagoniarun.com/en/el-destino/",
+  "publisher": "Patagonia Run",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "Aviador Carlos Campos Airport (Chapelco, CPC) is 22 km from the centre of San Martín de los Andes, about 35 minutes by paved road.",
+    "Teniente Luis Candelaria International Airport (Bariloche, BRC) is 190 km from San Martín de los Andes, about three hours via National Route 40 and the Seven Lakes Route.",
+    "San Martín de los Andes is connected by National Route 40 and National Route 234, and the Seven Lakes Route links it with Villa La Angostura over about 110 km.",
+    "The main road border crossings from Chile are the Mamuil Malal Pass and the Hua Hum Pass.",
+    "The official destination page gives an autumn average temperature range of 3 °C to 18 °C."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch 读取 https://patagoniarun.com/en/el-destino/ 全文",
+    "note": "2026-11-19 直接读取官方 destination 页；交通与气温为页面原文，未把邻近机场的班次写成固定时刻。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "原文 By Air：'Aviador Carlos Campos Airport (Chapelco – CPC) Located 22 km from the city center (approximately 35 minutes by paved road).'"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "原文：'Teniente Luis Candelaria International Airport (Bariloche – BRC) Located 190 km ... approximately 3 hours via ... National Route 40 and the Seven Lakes Route.'"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "原文 By Road 段：National Route 40 与 National Route 234；'Seven Lakes Route ... approximately 110 km connecting San Martín de los Andes with Villa La Angostura'。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "原文：'The main border crossings from Chile to San Martín de los Andes are the Mamuil Malal Pass and Hua Hum Pass.'"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "页面 Season 栏：'Autumn Average temperature 3°C to 18°C'。"
+    }
+  ]
+}

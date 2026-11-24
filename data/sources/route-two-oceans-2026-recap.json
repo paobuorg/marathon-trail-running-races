@@ -1,0 +1,54 @@
+{
+  "sourceId": "route-two-oceans-2026-recap",
+  "title": "This Week In Running: April 13, 2026 — iRunFar",
+  "url": "https://www.irunfar.com/this-week-in-running-april-13-2026",
+  "publisher": "iRunFar",
+  "publishedAt": "2026-04-13",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2026 Two Oceans men's top five were Arthur Jantjies 3:09:25, Onalenna Khonkhobe 3:10:00, Blessing Waison 3:11:13, Dennis Kipkosgei 3:11:29 and Tumelo Moja 3:12:07.",
+    "The 2026 Two Oceans women's top five were Gerda Steyn 3:27:43, Margaret Jepchumba 3:33:31, Nobuhle Nobukhosi Tshuma 3:38:34, Shelmith Muriuki 3:39:14 and Rholex Jelimo 3:40:38.",
+    "Steyn won her seventh Two Oceans title in 3:27:43, almost six minutes ahead of second and just outside her own 3:26:54 course record from 2024.",
+    "iRunFar describes the 56 km course as backloaded, with the second-half climbs over Chapman's Peak Drive and Constantia Nek totaling about 700 m of elevation gain.",
+    "iRunFar reports a 2026 prize purse of USD 158,300 (ZAR 2.6 million), with ZAR 380,000 paid to each winner."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "iRunFar's 13 April 2026 weekly results column was read directly. It lists the top five men and women, Steyn's seventh title and 3:26:54 course record, the backloaded course and the 2026 prize purse. It is a specialist running publication, not the race organiser."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Article lists the men's top five with the same times."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Article lists the women's top five with the same times."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Article: seventh title, 3:27:43, almost six minutes better than anyone else, just back of her 3:26:54 course record from 2024."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Article: backloaded course, Chapman's Peak Drive and Constantia Nek, totaling about 700 m elevation gain."
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Article: USD 158,300 (ZAR 2.6 million) prize purse; ZAR 380,000 to the winners."
+    }
+  ]
+}

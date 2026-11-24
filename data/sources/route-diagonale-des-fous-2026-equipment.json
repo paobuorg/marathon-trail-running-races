@@ -4,7 +4,7 @@
   "url": "https://www.grandraid-reunion.com/fr/informations-pratiques/equipement-obligatoire/",
   "publisher": "Grand Raid de La Réunion",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The 2026 mandatory equipment list requires a head torch with spare batteries, at least 1.5 litres of water, a whistle and a charged mobile phone with the Sara Event app.",
     "For the Diagonale des Fous the list requires two elastic adhesive bandages at least 2.5 m long and 6 to 8 cm wide.",
@@ -12,5 +12,43 @@
     "The list requires an original or certified digital identity document and a survival blanket of at least 1.4 m by 2 m.",
     "All listed items apply to the Diagonale des Fous as mandatory, not optional."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官方强制装备页，逐项对照 Diagonale 列"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“1 lampe frontale… piles ou batteries de rechange / 1 réserve d’eau minimum 1,5 L / 1 sifflet / 1 téléphone portable chargé avec l’application Sara Event téléchargée”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Diagonale des Fous : 2”；“2.5m longueur et 6 à 8cm largeur minimum”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“1 réserve alimentaire constante…”；“imperméable avec capuche, coutures thermo-soudées. (Coupe-vent proscrit)”；“seconde peau… manches longues”；“gobelet réutilisable”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“1 pièce d’identité originale ou la version numérique certifiée France Identité”；“1 couverture de survie… 1,4m X 2m”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面逐项标 “Diagonale des Fous : obligatoire”"
+    }
+  ]
 }

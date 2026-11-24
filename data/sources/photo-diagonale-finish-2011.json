@@ -1,16 +1,55 @@
 {
   "sourceId": "photo-diagonale-finish-2011",
-  "title": "File:L'Arrivée du Grand Raid 2011.jpg (2026-11-07 check: host unreachable from this network; not re-verified)",
+  "title": "File:L'Arrivée du Grand Raid 2011.jpg",
   "url": "https://commons.wikimedia.org/wiki/File:L'Arriv%C3%A9e_du_Grand_Raid_2011.jpg",
   "publisher": "Wikimedia Commons",
   "publishedAt": "2012-03-23",
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-08",
   "claims": [
-    "The file shows a runner arriving at the 2011 Grand Raid on a stadium track, with spectators and a finish backdrop.",
+    "The file shows a runner arriving at the 2011 Grand Raid finish chute, with spectators and a sponsor backdrop.",
     "The file description says the runner was third overall and the first Réunion finisher of the Grand Raid.",
     "The uploader and author is Henijai, credited as own work.",
     "The file is licensed CC BY-SA 3.0 (Creative Commons Attribution-Share Alike 3.0).",
-    "The file page does not name the stadium or give a more precise location."
+    "The file description names the result but does not give a venue."
   ],
-  "license": "CC-BY-SA-3.0"
+  "license": "CC-BY-SA-3.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe --proxy local 7890 proxy；Commons action=query imageinfo + w/thumb.php 缩略图",
+    "note": "2026-11-20 经本地 7890 代理读取 Commons 文件页、imageinfo API 与缩略图，确认作者、许可、拍摄日期和画面。此前 blocked 是本机直连不可达，不是文件不存在或没有许可。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    }
+  ]
 }

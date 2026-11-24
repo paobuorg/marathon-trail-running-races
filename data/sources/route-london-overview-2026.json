@@ -6,12 +6,9 @@
   "publishedAt": null,
   "accessedAt": "2026-11-06",
   "claims": [
-    "The 2026 TCS London Marathon is scheduled for Sunday 26 April 2026.",
     "The start line is Greenwich/Blackheath.",
     "The event overview describes the terrain as road, fast and flat.",
     "The event overview lists an elevation gain of 246 feet.",
-    "Participants have eight hours to finish the marathon.",
-    "The St James's Park Finish Line closes at 23:59:59 on Sunday 26 April.",
     "Participants will be emailed their start wave time approximately three weeks before Marathon Day.",
     "The event provides drinks stations serving BUXTON Natural Mineral Water, Lucozade Sport and Lucozade Sport Energy Gels.",
     "The course has mile and kilometre distance markers.",
@@ -19,5 +16,68 @@
     "The event offers free bag drop and toilets, including accessible toilets and female urinals.",
     "If runners fall behind eight-hour pace, the event team may carry out occasional manual bib scans."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe -sSL 抓取 tcslondonmarathon.com/the-event/participant-information → .agent/london35/overview.html",
+    "note": "页面已切到 2027 届：Date 24–25 April 2027，终点为 Green Park。已删除 2026 日期、八小时时限与 St James's Park 23:59:59 三条；2026 日期与成绩改由 route-london-world-athletics-2026 支撑。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Start Line: Greenwich/Blackheath”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Terrain: Road - fast and flat”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Elevation gain: 246 feet”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“emailed their start wave time approximately three weeks before Marathon Day”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Drinks Stations on the course, serving BUXTON® Natural Mineral Water, Lucozade Sport and Lucozade Sport Energy Gels”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Course distance markers - mile and kilometre”"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Pacers, setting a pace from 03:00 to 07:30”"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Free bag drop”“Toilets, including accessible toilets and female urinals”"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“If you fall behind eight‑hour pace on Sunday 25 April 2027, our team may carry out occasional manual bib scans”"
+    }
+  ]
 }

@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-buenosaires-record-2019",
+  "title": "Weekend road round-up: Chebet breaks South American all-comers' record in Buenos Aires — World Athletics",
+  "url": "https://worldathletics.org/news/report/2019-hengshui-marathon-dam-tot-damloop?__nextLocale=en",
+  "publisher": "World Athletics",
+  "publishedAt": "2019-09-22",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "World Athletics' 2019 race report says Evans Chebet won the Buenos Aires Marathon in 2:05:02, breaking the South American all-comers' record at the IAAF Bronze Label race.",
+    "The same report says the previous course record was 2:05:21 and that Chebet's time took 28 seconds off his personal best.",
+    "World Athletics' 2019 season top list and the event's course-record table give Chebet's mark as 2:05:00, two seconds faster than the race report; both values are preserved here.",
+    "Rodah Tanui won the 2019 women's race in 2:25:46, taking almost five minutes off the women's course record.",
+    "Evans Chebet's 2:05:00 remains the men's course record; Rebecca Chesir's 2:23:36 in 2026 is the women's course record."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "Search result full text plus World Athletics 2019 top list",
+    "note": "World Athletics 2019-09-22 周末综述含 Buenos Aires 段；同一机构 2019 年男子马拉松 top list 与赛事记录表均写 2:05:00，与报道 2:05:02 相差 2 秒。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：Chebet stopped the clock at 2:05:02... breaking the South American all-comers' record" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：course record of 2:05:21 set last year；taking 28 seconds off his PB" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "WA 2019 top list：Evans CHEBET 2:05:00 Buenos Aires 22 SEP 2019；赛事记录表同；报道 2:05:02" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "正文：Rodah Tanui 2:25:46，almost five minutes off the women's course record" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "WA 2019 top list 与 2026 官方成绩/记录表：男子 2:05:00 Chebet；女子 2:23:36 Chesir" }
+  ]
+}

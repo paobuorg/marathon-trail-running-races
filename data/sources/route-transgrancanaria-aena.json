@@ -1,0 +1,40 @@
+{
+  "sourceId": "route-transgrancanaria-aena",
+  "title": "Aena — Gran Canaria Airport (LPA) airport page",
+  "url": "https://www.aena.es/en/gran-canaria.html",
+  "publisher": "Aena",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Aena lists Gran Canaria Airport under the IATA code LPA.",
+    "The airport page states that the terminal is closed to the public at night, that only boarding-pass holders and employees are allowed access during that time, and that passengers are allowed access two hours before flight departure.",
+    "The airport page lists bus and taxi among the ground transport options at the airport."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://www.aena.es/en/gran-canaria.html，读取页面标题、机场代码列表与机场夜间开放说明"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面 title：Home page | Gran Canaria Airport | Aena；机场选择列表：Gran Canaria (LPA)"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面原文：The airport terminal is closed to the public at night. During this time, only boarding pass holders and employees are allowed access. Passengers are allowed access two hours prior to flight departure."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面 Transport 区域列出 Bus 与 Taxi"
+    }
+  ]
+}

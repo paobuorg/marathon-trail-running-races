@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-sdw100-official-aidstations-2026",
+  "title": "SDW100 2026 Aid Stations — official archive",
+  "url": "https://centurionrunning.com/races/south-downs-way-100-2026/aidstations",
+  "publisher": "Centurion Running",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The 2026 chart keeps QECP at mile 23.4 in 'The Event Field, Queen Elizabeth Country Park' and no longer carries the 'moved from its 2024 location' note.",
+    "The 2026 chart's 12 aid-station mileages match the 2025 and 2027 charts: 11.4, 23.4, 28, 36.6, 45, 55, 60.9, 66.6, 76.6, 84, 91.6 and 95.7, with the finish at 100."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取并读取 2026 届补给站表，用于确认 2025 之后的位置与里程沿用。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "表内 No. 2 QECP：Mile 23.4；Address 列原文 'The Event Field, Queen Elizabeth Country Park, Gravel Hill, Horndean, PO8 0QE'；该行没有 moved 说明" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "表内 Mile 列逐项照录；与 route-sdw100-official-aidstations-2025、-2027 的里程逐项一致" }
+  ]
+}

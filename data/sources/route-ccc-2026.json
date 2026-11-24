@@ -1,0 +1,117 @@
+{
+  "sourceId": "route-ccc-2026",
+  "title": "CCC — 100K final of the UTMB World Series (2026 race page)",
+  "url": "https://montblanc.utmb.world/races/ccc",
+  "publisher": "UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "CCC is the 100K final of the UTMB World Series.",
+    "The 2026 CCC starts in Courmayeur on Friday 28 August 2026 at 09:00.",
+    "The maximum allowed race time is 28 hours.",
+    "The race page header states 108 km and 6,200 m of positive gain.",
+    "The official timing table totals 107.8 km with +6,198 m and -6,382 m.",
+    "The official timing table lists ten points: Courmayeur 0 km, Refuge Bertone 13.6 km, Arnouvaz 26.3 km, La Fouly 40.7 km, Champex-Lac sortie 54.2 km, Plan de l'Au 59.1 km, Martigny 69.2 km, Trient 79.1 km, Vallorcine Sortie 90.1 km and Chamonix 107.8 km.",
+    "Official altitudes are Courmayeur 1,221 m, Refuge Bertone 1,982 m, Arnouvaz 1,777 m, La Fouly 1,604 m, Champex-Lac 1,472 m, Plan de l'Au 1,340 m, Martigny 507 m, Trient 1,304 m, Vallorcine 1,260 m and Chamonix 1,035 m.",
+    "Official cumulative gain is +1,436 m at Refuge Bertone, +1,908 m at Arnouvaz, +2,774 m at La Fouly, +3,287 m at Champex-Lac, +3,361 m at Plan de l'Au, +3,526 m at Martigny, +4,603 m at Trient, +5,411 m at Vallorcine and +6,198 m at Chamonix.",
+    "The official 2026 loss column reads 677, 673, 1,042, 644, 208, 996, 281, 852 and 1,009 m; these nine values sum to 6,382 m, so the column is read as per-segment loss, while cumulative loss is 677, 1,350, 2,392, 3,036, 3,244, 4,240, 4,521, 5,373 and 6,382 m.",
+    "Official cut-off times are Friday 13:45 at Refuge Bertone, 16:30 at Arnouvaz, 20:15 at La Fouly, 23:15 at Champex-Lac, Saturday 00:15 at Plan de l'Au, 02:15 at Martigny, 05:15 at Trient, 08:30 at Vallorcine and 13:30 at Chamonix.",
+    "The official table also lists fastest and slowest reference times; at Trient, Vallorcine and Chamonix the slowest time is later than the cut-off time.",
+    "The course climbs to about 2,500 m facing Mont Blanc and the Grandes Jorasses, crosses the Grand Col Ferret into Switzerland, passes La Fouly, Champex and Trient, re-enters France at Vallorcine, climbs Vallons des Chezerys and finishes in Chamonix.",
+    "The 2027 edition is in preparation; event dates and registration opening dates will be announced.",
+    "The official services legend lists assistance, hot meal, solid refreshments, liquid refreshments, Näak, medical post, drop bag, shuttle bus, toilets, showers and rest area.",
+    "The organiser describes CCC as having grown from the 'little sister of the UTMB' into one of the most prestigious races in the world.",
+    "The CCC page states that entry is open to runners with Running Stones or by direct entry from winning a UTMB World Series race."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "Official race page rendered and read in a browser on 2026-11-08. The page states the 2027 edition is in preparation, so this record describes the 2026 edition."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2026 timing table loss column: 677, 673, 1,042, 644, 208, 996, 281, 852, 1,009; these sum to 6,382. Running sum gives cumulative loss 677, 1,350, 2,392, 3,036, 3,244, 4,240, 4,521, 5,373, 6,382."
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "index": 14,
+      "status": "supported",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "index": 15,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "页底原文：only accessible after collecting Running Stones or by gaining direct entry by winning on the UTMB World Series races。"
+    }
+  ]
+}

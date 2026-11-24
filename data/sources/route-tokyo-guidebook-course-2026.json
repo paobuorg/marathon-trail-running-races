@@ -13,5 +13,50 @@
     "The 10.7 km race finishes at Nihombashi and the marathon finishes at Tokyo Station/Gyoko-dori Avenue at 42.195 km.",
     "The map legend marks medical stations, aid stations, toilets, turnarounds and cut-off points."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取官方翻页器 index26.html → .agent/tokyo35/guidebook-course.html",
+    "note": "翻页器正文以 searchText 内嵌，页码 26/271，可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文「The course features nine cut-off checkpoints」"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文列出 9 个 cut-off point 与 10:25/11:10/11:55/12:45/13:20/14:00/14:35/15:15/16:10"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文列 13 个 Medical Station，另有 Start、Finish Area（Marunouchi/Babasaki Gate/Gyoko-dori）与 10.7km Finish Medical Station；终点医疗站实际为 3 处"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文 13 个公里点：5.1/11.3/15.5/20.9/23.2/24.7/27.0/29.2/31.4/33.5/35.9/37.9/40.5"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文 10.7km FINISH Nihombashi；42.195km Tokyo Station/Gyoko-dori Ave."
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "图例含 Medical Station / Aid Station / Toilet / Turning Point / Cut-Off Point"
+    }
+  ]
 }

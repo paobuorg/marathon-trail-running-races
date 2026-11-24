@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-kodiak-official-races",
+  "title": "List of races — HOKA Kodiak Ultra Marathons by UTMB",
+  "url": "https://kodiak.utmb.world/races",
+  "publisher": "UTMB World Series / HOKA Kodiak Ultra Marathons by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The races page lists the 100M on 9 October 2026 from Rim Nordic Ski Area, and the 100K, 50K, 21K and 10K on 10 October 2026 from The Village of Big Bear Lake.",
+    "The page shows 8 Running Stones for the 100M, 6 for the 100K, 4 for the 50K and 2 for the 21K, with no stone count for the 10K.",
+    "The page is still showing the 2026 edition, with 2027 registration described as opening soon rather than a 2027 race list."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取并读取 races 列表。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "列表：9th October 2026 100M Rim Nordic Ski Area；10th October 2026 100K/50K/21K/10K The Village of Big Bear Lake" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "列表数字列逐项照录：8 / 6 / 4 / 2 / 无" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "所有行日期均为 2026；报名页另写 '2027 Registration will be open soon'" }
+  ]
+}

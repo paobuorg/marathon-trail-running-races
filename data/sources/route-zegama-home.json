@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-zegama-home",
+  "title": "Zegama-Aizkorri Mendi Maratoia — official homepage",
+  "url": "https://www.zegama-aizkorri.com/en/",
+  "publisher": "Zegama-Aizkorri Mendi Maratoia (organiser)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The homepage's Modalities block labels the marathon 'XXIV Zegama Aizkorri Mendi Maratoia', alongside 'XI Zegama Aizkorri VK' and 'XIV Zegama Aizkorri Junior Trail'.",
+    "The homepage's latest news items are dated May 2026 and the page does not show a next-edition date."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直取 https://www.zegama-aizkorri.com/en/ 首页，读取 Modalities 三个入口标题与 News 列表。首页写 XXIV；2026 赛道页写 XXV（route-zegama-race）；2026-10-09 官方新闻写 2027 为 26th（route-zegama-2027）。三处并列，不做平均。页面无发布日，accessedAt 为读取日。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "首页 Modalities 原文：'XXIV Zegama Aizkorri Mendi Maratoia'；'XI Zegama Aizkorri VK'；'XIV Zegama Aizkorri Junior Trail'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "News 列表最近三条日期为 19 May 2026、13 May 2026、08 May 2026；首页未出现 2027 日期。" }
+  ]
+}

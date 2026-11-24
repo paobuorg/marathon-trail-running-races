@@ -1,0 +1,62 @@
+{
+  "entityId": "route:spartathlon",
+  "slug": "spartathlon",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-spartathlon-2026",
+    "route-spartathlon-roadbook-2026",
+    "route-spartathlon-route-2026",
+    "route-spartathlon-rules-2022",
+    "route-spartathlon-faq",
+    "route-spartathlon-openmeteo",
+    "route-spartathlon-gpx-2026",
+    "route-spartathlon-results-2026",
+    "route-spartathlon-transport-athens",
+    "route-spartathlon-transport-sparta",
+    "photo-spartathlon-2021"
+  ],
+  "relatedRefs": [
+    "knowledge:heat-and-humidity",
+    "knowledge:long-run-fueling",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-19",
+  "updatedAt": "2026-11-21",
+  "reviewedAt": "2026-11-21",
+  "reviewDueAt": "2027-05-31",
+  "details": {
+    "raceType": "road-ultra",
+    "countryCodes": [
+      "GR"
+    ],
+    "placeName": {
+      "zh-CN": "希腊雅典至斯巴达",
+      "en": "Athens to Sparta, Greece"
+    },
+    "mapAnchor": {
+      "longitude": 23.7227698,
+      "latitude": 37.9701939,
+      "kind": "start",
+      "sourceRef": "route-spartathlon-gpx-2026"
+    },
+    "courseVersion": "2026-spartathlon",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [],
+    "direction": "Athens → Sparta (point-to-point)",
+    "distanceMeters": 244740,
+    "distanceMethod": "Official 2026 road book: checkpoint 75 at km 244.74. The official route page narrates a 245.3 km finish, and the official 2026 GPX measures 244.045 km by haversine. This card uses the road book figure; the page presents all three and uses the road book for checkpoints.",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": "https://spartathlon.gr/gpx/spartathlon-2026.gpx",
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://spartathlon.gr/gpx/spartathlon-2026.gpx",
+    "attribution": "International Spartathlon Association. The official GPX creator field is 'AspasiaGPT'; the file has no metadata block and no copyright or redistribution licence, so this site links to it and does not host a copy."
+  }
+}

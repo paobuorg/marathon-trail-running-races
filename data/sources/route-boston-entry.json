@@ -11,7 +11,7 @@
     "Official buses are for registered participants only and a bib must be shown.",
     "Bus loading begins at 6:45 a.m. for Wave 1, 7:30 for Waves 2 and 3, 8:00 for Waves 4 and 5, and 9:00 for Wave 6.",
     "Wave bib ranges are red 201–8199 (Wave 1), white 8200–11999 (Wave 2), blue 12000–15999 (Wave 3), yellow 16000–21299 (Wave 4), green 21300–26699 (Wave 5) and orange 26700–33699 (Wave 6).",
-    "The B.A.A. asks runners not to arrive at Boston Common before their wave and states that early arrivals will be asked to return.",
+    "Bus loading begins at 6:45 a.m. for Wave 1, 7:30 for Waves 2 and 3, 8:00 for Waves 4 and 5 and 9:00 for Wave 6, with a final bus at 9:30.",
     "Gear check is on Boylston and Berkeley Streets beyond the finish line.",
     "Gear check drop-off is 5:45 a.m. to 9:15 a.m. and pick-up is 11:30 a.m. to 6:00 p.m.",
     "Only the clear plastic B.A.A. gear bag is accepted, and no bags are transported from Hopkinton to Boston.",
@@ -20,5 +20,92 @@
     "Bib pick-up requires a government-issued photo ID and the digital pick-up pass, and each runner must collect their own bib.",
     "Entries are non-refundable, non-transferable and non-deferable except for deferrals under the pregnancy and postpartum policy."
   ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面起跑表逐项列出 9:06、9:09、9:30、9:37、9:47、9:50，以及 10:00/10:15/10:28/10:41/11:01/11:21 六波。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：官方巴士在 Charles Street，位于 Public Garden 与 Boston Common 之间。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文写明仅限 registered participants，且须出示 bib。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面按波次列出 6:45、7:30、8:00、9:00 的上车开始时间。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "entry 页列出红 201–8199、白 8200–11999、蓝 12000–15999、黄 16000–21299、绿 21300–26699、橙 26700–33699。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "entry 页按波次列出上车时间与最后一班 9:30。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：Gear check 在 Boylston 与 Berkeley Streets，位于终点线之外。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文给出 drop-off 5:45–9:15 a.m.、pick-up 11:30 a.m.–6:00 p.m.。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：只接受透明塑料 B.A.A. gear bag，且 no bags are transported from Hopkinton to Boston。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：留在 Hopkinton 的衣物捐给本地机构。"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文列出 Hynes Convention Center, 900 Boylston Street 及周五/周六/周日三段时间。"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文要求 government-issued photo ID 与 digital pick-up pass，且本人领取。"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文写明不可退款、不可转让、不可延期，孕产政策除外。"
+    }
+  ],
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe + HTML 转文本",
+    "note": "HTTP 200，起跑表、交通、存包、Expo 与报名条款均可读。"
+  },
   "license": null
 }

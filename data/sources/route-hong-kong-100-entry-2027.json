@@ -13,5 +13,49 @@
     "Unclaimed places will be reallocated from Monday 31 August 2026.",
     "Runners may register solo or as a pair, and each person may register for one distance only and only once for that distance."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://hk100ultra.com/entry/ 正文"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Entry 段：“1,800 for HK100, 500 for The Half and 500 for The Third”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Entry 段：“except for past winners, 2026 volunteers, runners that joined all 16 years of the race (2011 to 2026) and sponsor nominees”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Ballot & Results 段：“Ballot results will be released on Monday 17th August 2026”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Ballot & Results 段：“complete full registration by Sunday 23rd August 2026”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Ballot & Results 段：“Unclaimed places will be reallocated from Monday 31st August 2026”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "How to Enter the Ballot 段：“register solo or as a pair… same race… one distance only… once”"
+    }
+  ]
 }

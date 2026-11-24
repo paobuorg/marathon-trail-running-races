@@ -1,0 +1,61 @@
+{
+  "entityId": "route:val-daran",
+  "slug": "val-daran",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-val-daran-2027",
+    "route-val-daran-event-2026",
+    "route-val-daran-history-2021",
+    "route-val-daran-transport",
+    "route-val-daran-visit",
+    "route-val-daran-openmeteo",
+    "route-utmb-series-2026",
+    "photo-val-daran-vielha",
+    "photo-val-daran-bossost",
+    "photo-val-daran-colomers"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:recovery-day",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-24",
+  "reviewedAt": "2026-11-24",
+  "reviewDueAt": "2027-06-09",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "ES"
+    ],
+    "placeName": {
+      "zh-CN": "西班牙加泰罗尼亚 Val d'Aran（Vielha 起终点）",
+      "en": "Val d'Aran, Catalonia, Spain (start and finish in Vielha)"
+    },
+    "mapAnchor": {
+      "longitude": 0.79856152,
+      "latitude": 42.70124336,
+      "kind": "start",
+      "sourceRef": "route-val-daran-2027"
+    },
+    "courseVersion": "2027-val-daran-vda-163k",
+    "courseEdition": "2027",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "Loop from Vielha back to Vielha",
+    "distanceMeters": 163011,
+    "distanceMethod": "The official 2027 race card gives 163 km; the embedded official track gives 163.011 km. This page uses the track figure and states the card figure separately. The event has eight formats; this page is about the VDA only and does not mix in the CDH, TDL, PDA, EXP, SKY or 10K distances.",
+    "elevationGainMeters": 10053,
+    "elevationMethod": "The official 2027 race card gives 10,000 m of positive gain; the embedded official track gives +10,053 m and -10,049 m. This page uses the track figure and states the card figure separately. The track also gives a maximum elevation of 2,551 m and a minimum of 609 m.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": "https://valdaran.utmb.world/race/tracks",
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://valdaran.utmb.world/race/tracks",
+    "attribution": "HOKA Val d'Aran by UTMB / UTMB World Series. The official tracks page links a file named VDA_2027_COLOMERS, but the downloaded file's own metadata names it 'VDA 2026_COLOMERS', gives gpx.studio as author, a creation time of 2024-05-30 and Strava route links, and carries no licence or copyright terms. This site therefore links to the official tracks page, does not host the file, does not draw the track, and does not treat the file as a verified 2027 geometry."
+  }
+}

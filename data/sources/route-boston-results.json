@@ -1,15 +1,41 @@
 {
   "sourceId": "route-boston-results",
-  "title": "Results — Boston Marathon",
-  "url": "https://www.baa.org/races/boston-marathon/results/",
-  "publisher": "Boston Athletic Association",
-  "publishedAt": null,
+  "title": "Boston Marathon 2026 results",
+  "url": "https://worldathletics.org/competition/calendar-results/results/7235561",
+  "publisher": "World Athletics",
+  "publishedAt": "2026-04-20",
   "accessedAt": "2026-11-06",
   "claims": [
-    "The 2026 Boston Marathon results page reports 28,506 total results.",
-    "The 2026 results include runner, wheelchair, handcycle and duo categories.",
-    "John Korir of Kenya is listed first with a half split of 1:01:54 and a finish net time of 2:04:45.",
-    "The page links 2026 live tracking and the 2026 results book."
+    "World Athletics lists the Boston Marathon in Boston, MA (USA) on 20 April 2026.",
+    "John Korir of Kenya won the men's marathon in 2:01:52.",
+    "Sharon Lokedi of Kenya won the women's marathon in 2:18:51."
   ],
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "页面：“Boston, MA (USA)”“20 APR 2026”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Men's Marathon Final：John KORIR (KEN) 2:01:52。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Women's Marathon Final：Sharon LOKEDI (KEN) 2:18:51。"
+    }
+  ],
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch https://worldathletics.org/competition/calendar-results/results/7235561",
+    "note": "BAA 成绩入口页已改为 JS 应用，改用 World Athletics 2026 官方成绩页；原 28,506 总人数、分组与 2:04:45 均无当前页面支撑，已删除。"
+  },
   "license": null
 }

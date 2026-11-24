@@ -1,0 +1,53 @@
+{
+  "sourceId": "route-tarawera-2027",
+  "title": "Tarawera Ultra-Trail by UTMB — TMiler race page (13-14 February 2027)",
+  "url": "https://tarawera.utmb.world/races/t-miler",
+  "publisher": "Tarawera Ultra-Trail by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2027 Tarawera Ultra-Trail by UTMB runs on 13-14 February 2027; the TMiler starts from Te Puia, Rotorua at 04:00 on Saturday 13 February, covers 163 km with 3,800 m of positive gain, has a maximum allowed time of 36 hours and an entry price of NZ$1,090.",
+    "The TMiler is described as a loop course that starts and finishes in Rotorua, takes in 8 lakes and runs beneath the maunga of Tarawera, Ruawahia and Wahanga.",
+    "The listed highlights are running along eight different lakes, the solitude of the Tarawera Forest, a boat ride across Lake Rotomahana, the waterfall on the Tarawera Falls track, the archaeological site of Buried Village, the towering redwoods, steam alongside the trail at Sulphur Point and a finish at the Village Green in downtown Rotorua.",
+    "The terrain consists of mostly single track trails, wide trails, forestry and sealed roads, and the page states that the courses are subject to change.",
+    "The aid-station table lists 16 rows from Te Puia (0 km) to Village Green (163.0 km), with distance from start, distance from the last aid station, distance to the next aid station, distance to the finish, cut-off time, spectator access, drop bags, timing point and available services.",
+    "The TMiler has 13 aid stations and 1 water point along its route.",
+    "Support crews can assist only at the aid stations indicated with spectator access, including 200 m either side of the aid station on course.",
+    "Pacers may join from Okataina onwards, must register online no later than 10 February 2027, may be two in number but only one at a time, and there are no pacers for T14, T21, T50 or T102.",
+    "TMiler drop bags are available at Buried Village 29.9 km, Rerewhakaaitu 56.0 km, Outlet 88.8 km, Okataina 118.5 km, Tikitapu (Blue Lake) 145.7 km and Village Green 162.7 km, and must be dropped at Athlete Check-In before 8:00pm Friday.",
+    "The page states: 'The TMiler is a UTMB Worlds Series 100M Event. Finishers of TMiler will receive 4 running stones.'",
+    "The page lists the first finisher at 14 hr 53 min (6:53pm), the final finisher at 36 hr 00 min (4:07pm Sunday) and a required cut-off pace of 13:17 min/km.",
+    "Some sections of the course are publicly accessible for training, but the entire Tarawera Forest is private land and out of bounds to all athletes outside race day.",
+    "TMiler athletes must have their mandatory gear checked before they can collect their race pack.",
+    "Cut-off times are calculated from the departure time of the last athlete crossing the start timing point, athletes must leave the designated checkpoint before the advertised cut-off time, and if a runner cannot reach a checkpoint cut-off or finish within the total allowable time the organiser may classify the runner as a DNF and ask them to leave the course.",
+    "The minimum age for the race is 18 years on race day.",
+    "The event homepage states: 'Tarawera Ultra-Trail by UTMB is New Zealand's Premier trail running event held in Rotorua, New Zealand's birthplace of tourism.'",
+    "The TMiler race page states: 'The TMiler is one of the most scenic 100 mile runs in the world.'"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://tarawera.utmb.world/races/t-miler，读取页头数据卡、RACE DETAILS 表、COURSE DESCRIPTION、16 行计时/补给表、SUPPORT CREW、PACERS、DROP BAGS 各节；页面无发布日，accessedAt 为读取日"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页头：Distance 163 KM / Elevation Gain 3800 M+ / Start Date Saturday 13th February 2027 / Race Start Te Puia, Rotorua - 04:00 / Max Allowed Race Time 36 Hours / Price $1090；首页写 13-14 February 2027" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "COURSE DESCRIPTION：'A loop course that starts and finishes in Rotorua, taking in 8 stunning lakes, and running beneath the mighty maunga of Tarawera, Ruawahia and Wahanga.'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "同节 highlights 句：eight different lakes / Tarawera Forest / boat ride across Lake Rotomahana / Tarawera Falls track / Buried Village / redwoods / Sulphur Point / Village Green" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'The terrain consists of mostly single track trails, wide trails, forestry and sealed roads.'；'These courses are subject to change.'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "计时表共 16 行，列头与行内容逐项抄录；Te Puia 0km、Village Green 163.0km" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "KEY INFO：'The TMiler has 13 Aid Stations and 1 Water Point along its route'；表内 14 个中间站中 Te Ariki Isthmus 只写 Water, Näak drink，无食物" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "SUPPORT CREW：'at the Aid Stations indicated with spectator access ... This includes 200m either side of the Aid Station on course.'" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "PACERS：'from Okataina onwards'；'no later than 10 February 2027'；'two Pacers – but only one at a time'；'There are no Pacers for T14, T21, T50 or T102 athletes.'" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "DROP BAGS 表 6 行；'must be dropped at the designated area at Athlete Check-In before 8:00pm Friday'；表内 Village Green 162.7km" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "RACE DETAILS 表 UTMB World Series 行原文" },
+    { "index": 10, "status": "supported", "checkedAt": "2026-11-08", "note": "RACE DETAILS：FIRST FINISHER 14hr 53min (6:53pm)；FINAL FINISHER 36hr 00min (4:07pm, Sunday)；CUTOFF PACE REQUIRED 13:17 mins/km" },
+    { "index": 11, "status": "supported", "checkedAt": "2026-11-08", "note": "TRAINING ON COURSE：'some sections ... are publically accessible'；'including the entire Tarawera Forest, are private land and out of bounds to all athletes outside of race-day'" },
+    { "index": 12, "status": "supported", "checkedAt": "2026-11-08", "note": "MANDATORY GEAR 段：'your gear will need to be checked pre-race'；装备页写赛前检查后才能领包" },
+    { "index": 13, "status": "supported", "checkedAt": "2026-11-08", "note": "RACE RULES：'Cut-Off Times are calculated based on the departure time of the last athlete ... Athletes must LEAVE the designated checkpoint before the advertised checkpoint cut-off time.'；DNF 段：'may notify the athlete that they will be classified as a DNF ... and request that the athlete remove themselves from the Race course'" },
+    { "index": 14, "status": "supported", "checkedAt": "2026-11-08", "note": "RACE DETAILS 表：'MINIMUM AGE ... 18 years on race day'" },
+    { "index": 15, "status": "supported", "checkedAt": "2026-11-09", "note": "2026-11-09 复核首页 https://tarawera.utmb.world/：'Tarawera Ultra-Trail by UTMB is New Zealand’s Premier trail running event held in Rotorua, New Zealand’s birthplace of tourism.'" },
+    { "index": 16, "status": "supported", "checkedAt": "2026-11-09", "note": "2026-11-09 复核 TMiler 页：'The TMiler is one of the most scenic 100 mile runs in the world.'" }
+  ]
+}

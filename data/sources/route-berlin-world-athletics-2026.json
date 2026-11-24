@@ -13,5 +13,50 @@
     "Adola passed 10 km in 28:58, halfway in 1:01:01 and 30 km in 1:26:57.",
     "The women's podium was completed by Bedatu Hirpa in 2:16:53 and Dera Dida in 2:16:55."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 https://worldathletics.org/news/report/assefa-adola-berlin-marathon-2026 → .agent/berlin-shanghai35/berlin-wa.html",
+    "note": "World Athletics 报道正文可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文 Platinum Label，Sunday (27) September 2026。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2:11:04 历史第三快，比 2023 年 2:11:53 快 49 秒。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Adola 2:02:50；Dida 2:03:19；Geay 2:03:59。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文列 5/10/20/半程/25/30/35/40 km 分段 15:30/30:48/1:01:34/1:04:57/1:17:00/1:32:15/1:47:32/2:03:00。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Adola 10 km 28:58、半程 1:01:01、30 km 1:26:57。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Hirpa 2:16:53；Dida 2:16:55。"
+    }
+  ]
 }

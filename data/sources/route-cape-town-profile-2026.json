@@ -14,5 +14,56 @@
     "The profile labels Rondebosch Common at the highest point of the curve.",
     "The profile labels V&A Waterfront view, CTICC and Westin Grand, Table Mountain view, Groote Schuur, Baxter Theatre, Presidential Estate, Red Cross Children's Hospital, Old Biscuit Mill, Castle Street, Castle of Good Hope, City Hall, St George's Cathedral, South African Museum, Sea Point Pavilion Pools and Mouille Point Lighthouse view."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "本地静态抓取 .agent/capetown/raw",
+    "note": "本地 WEBP 1920×708，分五段放大读取数字与竖排地名"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "横轴 0 与 42.2 两端均标 DHL STADIUM"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "图左上角印 'Start: 11m'、'Highest: 41m'、'Lowest: 8m'"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "图右上角印 'Total Descent 209 m' 与 'Total Ascent 215 m'"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "印 'Total Uphill Running 21 km'、'Total Downhill Running 20 km'、'Total Flat Running 1 km'"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "四个分区标注：Gentle Opening Rollers 3–10km、Long Steady Middle 13km–30km、Primary Climb 31–32km、Gradual 10km Descent to Finish"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "RONDEBOSCH COMMON 竖排标签落在约 21 km 曲线最高段，与 Highest 41m 对应"
+    },
+    {
+      "index": 6,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "其余地名均可见，但图上没有 'Castle Street'，对应位置印的是 'CASTLE BREWERIES'；另多出 WINCHESTER HOUSE 未列入 claim"
+    }
+  ]
 }

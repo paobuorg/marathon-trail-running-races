@@ -4,13 +4,51 @@
   "url": "https://www.grandraid-reunion.com/fr/resultats/tous-les-classements-2026/",
   "publisher": "Grand Raid de La Réunion",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The 2026 Diagonale des Fous results list 2,126 finishers and 640 DNFs.",
-    "The 2026 results list the race as 180 km with 10,200 m of positive gain, starting Thursday 15 October at 22:00 in Saint-Pierre.",
+    "The 2026 results list the race as 180 km with 10,200 m of positive gain on 15 October 2026.",
     "Hugo Deck is listed as the 2026 men's winner in 22:54:19.",
-    "R. Croft is listed as the 2026 women's winner in 27:13:22.",
+    "Ruth Croft is listed as the 2026 women's winner in 27:13:23.",
     "The results platform is the official Grand Raid timing and results service linked from the organiser's site."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官方结果页；静态 HTML 内含 Next.js dehydrated stats 与 headRanking"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面 stats：“dnf”:640，“finisher”:2126，“starter”:2766"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "distance 180000、elevationGain 10200、startDate 2026-10-15 均可在结果页数据读出；起跑时刻与地点改由 route-diagonale-des-fous-2026-course 的 claim 0 支撑"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "headRanking scratch：Hugo DECK raceTime 82459 s = 22:54:19"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 复核 LiveTrail 结果页 Femmes：Ruth CROFT 27:13:23；此前 27:13:22 为旧快照误差。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面标题与 “Powered by LiveTrail”；官方结果入口指向该平台"
+    }
+  ]
 }

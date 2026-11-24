@@ -1,0 +1,36 @@
+{
+  "sourceId": "route-mds-legendary-2026-live",
+  "title": "MDS Legendary 40th edition — official live page (stage data)",
+  "url": "https://marathondessables.com/en/live/live-mds-legendary-40th-edition",
+  "publisher": "Marathon des Sables",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 40th MDS Legendary ran from 3 to 13 April 2026.",
+    "Stage 1 on 5 April 2026: 35 km, 285 m of gain, start 07:00, maximum arrival time 17:00.",
+    "Stage 2 on 6 April 2026: 40.5 km, 486 m of gain, start 06:00, maximum arrival time 17:35.",
+    "Stage 3 on 7 April 2026: 29.1 km, 413 m of gain, maximum arrival time 15:20; the page does not print a start time.",
+    "Stage 4 on 8 and 9 April 2026: 100 km, 721 m of gain, start 05:00 or 07:00, maximum arrival time 21:00 on the following day.",
+    "Stage 5 on 10 April 2026: 42.2 km, 424 m of gain, start 06:30, maximum arrival time 18:35.",
+    "Stage 6 on 11 April 2026: 23.2 km, 238 m of gain, maximum arrival time 13:10; the page does not print a start time.",
+    "The six official stage distances sum to 270.0 km and the six official stage gains sum to 2,567 m."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "桌面 UA 直连抓取 https://marathondessables.com/en/live/live-mds-legendary-40th-edition，并解析页面内嵌的 Nuxt 数据块（STAGE 1–6 的日期、距离、爬升、出发与最晚到达）",
+    "note": "2026-11-08 读取。页面默认展示 Stage 1，其余赛段数据在同一页面的内嵌数据中。Stage 3 与 Stage 6 的出发时间字段为空，只给最晚到达时间；本页不推算缺失的出发时间。Stage 4 的出发时间原文为「5:00 or 7:00 AM」，最晚到达为「9:00 PM (D+1)」。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页面标题「Live MDS Legendary 40th edition」与日期「From April 3 to 13, 2026」。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "STAGE 1：april 5, 2026；7:00 AM；5:00 PM；35 KM；285 M+。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "STAGE 2：april 6, 2026；6:00 AM；5:35 PM；40,5 KM；486 M+。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "STAGE 3：april 7, 2026；3:20 PM；29,1 KM；413 M+。start 字段没有时间值。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "STAGE 4：april 8 and 9, 2026；5:00 or 7:00 AM；9:00 PM (D+1)；100 KM；721 M+。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "STAGE 5：april 10, 2026；6:30 AM；6:35 PM；42,2 KM；424 M+。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "STAGE 6：april 11, 2026；1:10 PM；23,2 KM；238 M+。start 字段没有时间值。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "35 + 40.5 + 29.1 + 100 + 42.2 + 23.2 = 270.0 km；285 + 486 + 413 + 721 + 424 + 238 = 2,567 m。" }
+  ]
+}

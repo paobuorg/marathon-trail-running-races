@@ -8,6 +8,7 @@
     "route-utmb-2026",
     "route-utmb-track-2026",
     "route-utmb-regulation",
+    "route-utmb-series-2026",
     "route-utmb-transport",
     "route-utmb-gpx-2026",
     "route-chamonix-openmeteo",
@@ -23,9 +24,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-26",
-  "updatedAt": "2026-11-06",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-11-06",
+  "updatedAt": "2026-11-08",
+  "reviewedAt": "2026-11-08",
+  "reviewDueAt": "2027-05-30",
   "details": {
     "raceType": "trail-ultra",
     "countryCodes": [
@@ -44,11 +45,28 @@
       "sourceRef": "route-utmb-2026"
     },
     "courseVersion": "2026-utmb-mont-blanc",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [
+      {
+        "edition": "2026",
+        "observedAt": "2026-11-08",
+        "field": "timing-table",
+        "change": "timing-revised",
+        "from": "32 点官方计时表（176.865 km，14 个中途补给点）",
+        "to": "17 点官方计时表（173.6 km，+9,700 / −9,699 m）",
+        "sourceRef": "route-utmb-track-2026",
+        "note": {
+          "zh-CN": "2026-11-08 复核时旧 32 点表已不显示；本页分段与补给均改用 17 点表，旧表只作历史口径保留。",
+          "en": "On 2026-11-08 the earlier 32-point table was no longer displayed; segments and services here now use the 17-point table, and the old table is kept only as a historical basis."
+        }
+      }
+    ],
     "direction": "Chamonix → Italy → Switzerland → Chamonix (loop)",
     "distanceMeters": 174000,
-    "distanceMethod": "Official 2026 UTMB stat block: 174 km. The same official page also says approximately 170 km in its introduction and totals 176.865 km in its timing table; a raw parse of the official GPX measures 173.83 km. This card uses the stat block.",
+    "distanceMethod": "Official 2026 UTMB stat block: 174 km. The same official page also says approximately 170 km in its introduction and its current 17-row timing table totals 173.6 km; a raw parse of the official GPX measures 173.83 km. The 32-point table totalling 176.865 km that this page previously cited is no longer displayed and is kept only as a historical basis. This card uses the stat block; the page tables use the 17-row table.",
     "elevationGainMeters": 9700,
-    "elevationMethod": "Official 2026 UTMB stat block: 9,700 m positive gain. The official timing table totals +10,000 m and the introduction says about 10,000 m; a raw GPX parse sums to +10,253 m. This card uses the stat block.",
+    "elevationMethod": "Official 2026 UTMB stat block: 9,700 m positive gain. The current 17-row official timing table totals +9,700 / −9,699 m and the introduction says about 10,000 m; a raw GPX parse sums to +10,253 m. This card uses the stat block; the page tables use the 17-row table.",
     "geometryAccess": "official-link",
     "geometryRef": null,
     "geometrySourceUrl": "https://pdf.utmb.world/raw/upload/v1786442971/montblanc/Races/GPX/2026/UTMB_2026_25e2a492e6.gpx",

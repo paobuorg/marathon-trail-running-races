@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-patagonia-lanin-huenfuica",
+  "title": "File:Laguna Huenfuica y Volcán Lanín.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Laguna_Huenfuica_y_Volc%C3%A1n_Lan%C3%ADn.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2019-01-31",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "A snow-capped Lanín volcano across Laguna Huenfuica, with araucaria trees, fallen logs and a sandy shore in the foreground; the Commons description places the photograph in Villarrica National Park. It is a location photograph, not a 2026 race-day photograph, and it does not show a start arch, finish gantry, bib, timing mat, aid table, course marking or race crowd.",
+    "Commons titles the file Laguna Huenfuica y Volcán Lanín.jpg. The route page uses it as a Lanín volcano regional landmark near the Patagonia Run theatre; it was taken in Villarrica National Park, not on the Patagonia Run course, and does not show the 2027 route.",
+    "The Commons author field reads Rodrigo Yuraszeck; the file is marked CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/); the relevant date is 2019-01-31 12:45:56; the file page gives no camera coordinates; the original is 5,312 × 2,988 px; 7,246,076 bytes.",
+    "The route page uses a 960 × 540 px; 204,016 bytes copy without cropping or colour change and credits Rodrigo Yuraszeck, CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/), Wikimedia Commons; the resized copy keeps the same licence."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons API metadata plus downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons API 与文件页核对作者、许可、日期、原图尺寸和（如有）坐标，并下载 960 px 副本目视确认：A snow-capped Lanín volcano across Laguna Huenfuica, with araucaria trees, fallen logs and a sandy shore in the foreground; the Commons description places the photograph in Villarrica National Park. 不是赛日现场，也不是赛道测绘照片。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地 960 px 副本可见：A snow-capped Lanín volcano across Laguna Huenfuica, with araucaria trees, fallen logs and a sandy shore in the foreground; the Commons description places the photograph in Villarrica National Park. 画面中没有号码布、拱门、计时毯、补给桌、赛道旗标或赛日人群。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons 标题为 Laguna Huenfuica y Volcán Lanín.jpg；文件描述与分类支持这一地点用途；正文只把它当环境照，不当赛道证据。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "文件页记录：作者 Rodrigo Yuraszeck；许可 CC-BY-SA-4.0 (https://creativecommons.org/licenses/by-sa/4.0/)；日期 2019-01-31 12:45:56; the file page gives no camera coordinates；原图 5,312 × 2,988 px; 7,246,076 bytes。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 × 540 px; 204,016 bytes；未裁剪、未改色；页面署名 Rodrigo Yuraszeck、CC-BY-SA-4.0、Wikimedia Commons。"
+    }
+  ]
+}

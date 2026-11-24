@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-mont-blanc-place-osm",
+  "title": "OpenStreetMap — Chamonix-Mont-Blanc administrative boundary (relation 104836)",
+  "url": "https://www.openstreetmap.org/relation/104836",
+  "publisher": "OpenStreetMap contributors",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "OpenStreetMap relation 104836 is the administrative boundary of Chamonix-Mont-Blanc, with a centroid at approximately 6.8700009 E, 45.9230969 N."
+  ],
+  "license": "ODbL-1.0",
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 通过 Nominatim 兼容接口读取 relation 104836 的边界与 centroid；仅用于 mapAnchor，不用于赛道几何。 R53 回扫：2026-11-08 用桌面 UA 直连重试 3 次（12 秒超时），并试 Wikimedia REST API 与 WebFetch，仍不可达；同网络访问 google.com、en.wikipedia.org 同样失败，属本机网络不可达，不是文件被删除，也不是许可不存在。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "接口返回 osm_type relation、osm_id 104836、lat 45.9230969、lon 6.8700009、display_name 'Chamonix-Mont-Blanc, Bonneville, Haute-Savoie...'。"
+    }
+  ]
+}

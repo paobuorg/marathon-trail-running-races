@@ -1,0 +1,75 @@
+{
+  "sourceId": "route-transgrancanaria-gpx-2026",
+  "title": "GPX file linked from the 2027 Classic page — TGCC-2026-28052025-1-1.gpx",
+  "url": "https://transgrancanaria.net/wp-content/uploads/TGCC-2026-28052025-1-1.gpx",
+  "publisher": "The North Face Transgrancanaria / Arista Eventos S.L.",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The file linked as the Classic track on the 2027 race page is named TGCC-2026-28052025-1-1.gpx.",
+    "The GPX header names 'Garmin Desktop App' as creator, gives a metadata time of 2025-06-30T13:40:23Z and a track name of 'TGCC 2026 28052025'.",
+    "The file contains 13,682 track points in a single segment, no waypoints, and no copyright, licence or author element.",
+    "The first track point is at 28.148057 N, 15.431114 W at 1.7 m; the last is at 27.763602 N, 15.596859 W at 31.0 m.",
+    "The track measures 126.092 km; the raw sums of positive and negative elevation change are 7,568 m and 7,539 m.",
+    "Applying a 3 m threshold to suppress GPS noise, the same track gives 6,552 m of positive gain and 6,523 m of negative loss.",
+    "The highest point on the track is 1,731 m at about 71.9 km; the lowest is 0 m.",
+    "The first track point carries a timestamp of 2021-07-26T00:00:00Z, while the last point carries no timestamp."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 下载 2,582,821 字节的 GPX，读取 gpx/metadata/trk 头，并用本地脚本按 haversine 逐点累加距离与升降（原始与 3 m 阈值两种算法）"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Classic 页 TRACK GPX 链接指向 /wp-content/uploads/TGCC-2026-28052025-1-1.gpx"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "文件头：creator=\"Garmin Desktop App\"；<metadata><time>2025-06-30T13:40:23Z</time>；<trk><name>TGCC 2026 28052025</name>"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "统计脚本：trkpt 13,682；trkseg 1；wpt 0；全文无 <copyright>、无 licence 字样"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首尾 trkpt 经纬度与 ele 直接读取"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "本地脚本：distance 126.092 km；原始 gain 7,568 m、loss 7,539 m"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同一脚本改用 3 m 阈值：gain 6,552 m、loss 6,523 m"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "逐点扫描：最高 1,730.6 m，累计距离 71.9 km；最低 0.0 m"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首个 trkpt 的 <time> 为 2021-07-26T00:00:00Z；末个 trkpt 无 <time>"
+    }
+  ]
+}

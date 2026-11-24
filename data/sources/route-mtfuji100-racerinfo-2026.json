@@ -1,0 +1,43 @@
+{
+  "sourceId": "route-mtfuji100-racerinfo-2026",
+  "title": "The 14th Mt.FUJI 100 2026 — RACER INFORMATION (English edition)",
+  "url": "https://mtfuji100.com/wp-content/uploads/2026/04/2026mtfuji100_information_en_0402.pdf",
+  "publisher": "Mt.FUJI100 Executive Committee",
+  "publishedAt": "2026-04-02",
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2026 Mt.FUJI100 is the 14th edition and runs from Friday 24 to Sunday 26 April 2026 in the Mt. Fuji area across Fuji City and Fujinomiya City in Shizuoka Prefecture and Narusawa Village, Fujikawaguchiko Town, Fujiyoshida City, Oshino Village and Yamanakako Village in Yamanashi Prefecture.",
+    "The FUJI100mi aid-station table has ten rows: start Kodomo-no-Kuni at 0 km, F1 Fujinomiya at 25.8 km, F2 Fumoto at 52.4 km, F3 Shojiko at 74.0 km, F4 Hanamaruki / The North Face Aid at 96.9 km, F5 Oshino at 113.2 km, F6 Yamanakako Kirara at 122.5 km, F7 Niju-Magari at 136.9 km, F8 Fujiyoshida at 148.4 km and the finish at Fujisan GX Stadium at 167.0 km.",
+    "The FUJI100mi cut-off times in the 2026 table are: F1 24 April entrance 22:30; F2 25 April entrance 5:50 and exit 6:00; F3 25 April entrance 14:00 and exit 14:10; F4 25 April entrance 17:20 and exit 17:30; F5 25 April entrance 21:30 and exit 21:40; F6 26 April entrance 2:30 and exit 2:40; F7 26 April exit 6:00 with no entrance time; F8 26 April entrance 10:00 and exit 10:10; finish 26 April entrance 14:30.",
+    "The 2026 FUJI100mi starts in four waves at 17:00, 17:15, 17:30 and 17:45 on 24 April, with the race cut-off at 14:30 on 26 April.",
+    "In 2026 the start venue was Fujisan Kodomo no Kuni in Fuji City and the finish venue was Fujisan GX Stadium in Fuji Hokuroku Park, Fujiyoshida City.",
+    "The official aid/service column uses icons without a text legend, and the manual does not spell out which items each station serves in words.",
+    "The 2026 manual advises runners to book accommodation for the entire race period in case they cannot finish and have to withdraw early through illness or injury, notes a temporary rest area in the gymnasium at Fuji Hokuroku Park but no designated napping area, and states that camping and tents outside designated campsites are prohibited.",
+    "The 2026 manual states that sleeping in cars is not permitted in the parking lot and that the main parking lot of Fuji Hokuroku Park is closed, with parking by advance reservation and a free shuttle bus from the designated lot.",
+    "The 2026 manual states that there is no parking for racers or supporters at Fuji Hokuroku Park, that only vehicles with a parking permit may enter the lot during race hours, and that drop bags cannot be left at Fuji Hokuroku Park.",
+    "The 2026 manual states that there is a railroad crossing next to Fujikyu Line's Fuji-Q Highland Station and that the waiting time for a train to pass is added to the runner's race time.",
+    "The 2026 manual states that there is no all-night bus service on the night of Friday 24 April.",
+    "The 2026 manual states that a runner cannot exit or return to an aid station after its cut-off time."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 下载官方 PDF（28 页）并以 PyMuPDF 抽取；PDF 正文字体映射损坏，关键表页（第 18 页补给/关门表）以 450-500 dpi 渲染后逐行目读；页码为 PDF 内序"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "PDF 首页：'The 14th Mt.FUJI 100 2026'、'RACE DATES: Fri. April 24 - Sun. April 26, 2026'、RACE LOCATION 列 5 个山梨町村" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "第 18 页表逐行目读：0 / 25.8 / 52.4 / 74.0 / 96.9 / 113.2 / 122.5 / 136.9 / 148.4 / 167.0 km" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "同表 Cutoff 列放大目读：Apr.24 IN 22:30；Apr.25 IN 5:50 OUT 6:00；IN 14:00 OUT 14:10；IN 17:20 OUT 17:30；IN 21:30 OUT 21:40；Apr.26 IN 2:30 OUT 2:40；OUT 6:00（无 IN）；IN 10:00 OUT 10:10；FINISH IN 14:30" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "首页 TIME SCHEDULE：17:00 / 17:15 / 17:30 / 17:45 四波；Sun.Apr.26 14:30 Race Cutoff Time" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "首页：Start Fujisan Kodomo no Kuni (Fuji City)；Finish FUJISAN GX Stadium of Fuji Hokuroku Park (Fujiyoshida City)" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "第 18 页表头仅 'Official aid / Service'，单元格为图标，无文字图例" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "PDF 住宿段：'we strongly advise booking accommodations for the entire race period...'；'no designated napping area'；'camping and tents are prohibited outside of campsites'" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "停车段：'Sleeping in cars is not permitted in the parking lot'；'The main parking lot of Fuji Hokuroku Park will be closed'；'free shuttle bus service from the parking lot'" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "支持者停车段：'There is no parking lot for racers and supporters at Fuji Hokuroku Park'；'DropBags cannot be left at Fuji Hokuroku Park'" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "线路提示：'There will be a railroad crossing on the course next to Fuji-Q Highland Station of the Fujikyu Line'；'waiting time ... will be added to your race time'" },
+    { "index": 10, "status": "supported", "checkedAt": "2026-11-08", "note": "接驳段：'There is no all-night bus service (…) Fri Apr 24'" },
+    { "index": 11, "status": "supported", "checkedAt": "2026-11-08", "note": "关门段：'You will not be able to exit or return to the aid station after the cut-off time.'" }
+  ]
+}

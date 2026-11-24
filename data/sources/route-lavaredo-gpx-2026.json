@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-lavaredo-gpx-2026",
+  "title": "GPX linked from the 2027 Lavaredo 120K page (files/2026, metadata 2025, trackpoint times 2023)",
+  "url": "https://pdf.utmb.world/raw/upload/v1782387012/lavaredo/files/2026/LUT_20_Madre_2026_6_2025_2065s_20pul_89a81f913b.gpx",
+  "publisher": "La Sportiva Lavaredo Ultra Trail by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The GPX URL linked from the 2027 Lavaredo 120K page sits under /files/2026/ and the file is named LUT_Madre_2026_6_2025_65s_pul_89a81f913b.gpx.",
+    "The file creator is 'Garmin Desktop App' version 1.1, the metadata time is 2025-06-25T22:12:43Z, the track name is 'LUT (Madre) 26-6-2025 65s pul.', and the file contains no waypoint, no licence statement and no copyright statement.",
+    "The file has 12,316 track points; the first point is at 46.537417, 12.137101 at 1,217.38 m and the last at 46.537378, 12.136981 at 1,233.8 m.",
+    "The trackpoint times run from 2023-08-21T04:41:17Z to 2023-08-22T16:20:41Z.",
+    "Measured locally, the horizontal distance is 119.479 km and the three-dimensional distance is 120.484 km.",
+    "Raw positive and negative elevation change are 5,977 m and 5,961 m; applying a 3 m threshold to the elevation series yields only 829 m of positive gain, so that method is not applicable to this file.",
+    "The highest point is 2,451.05 m at about 51.66 km and the lowest is 1,217.38 m.",
+    "The bounds are 46.468593-46.636540 N and 12.016975-12.315179 E."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直下 GPX（1,846,687 字节），用 .agent/uta/gpx-audit.mjs 读取文件头并逐点计算；文件无 licen[cs]e、无 copyright、无 wpt"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页面 gpx 字段与 URL 路径" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "gpx creator/version、metadata/time、trk/name；全文检索无 licence/copyright" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "points=12316；first/last 坐标与高程" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "首个与末个 trkpt/time" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "km2d=119.479、km3d=120.484" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "gainRaw=5977、lossRaw=5961、gain3m=829" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "maxEle=2451.05、maxAtKm=51.66、minEle=1217.38" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "metadata/bounds" }
+  ]
+}

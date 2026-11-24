@@ -12,5 +12,44 @@
     "A runner is not disqualified if the transmitter is lost, broken or accidentally left with crew.",
     "Instructions for initiating a rescue are provided with the device, and initiating a rescue means the runner has dropped and cannot re-enter the run."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "官方页面直读",
+    "note": "Runner Tracking 页可读"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Rules of use 第 1 条：carry the transmitter…Your pacer cannot carry it for you"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 4 段：issued on Wednesday or Thursday…return it after you have finished or withdrawn"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文末段：Spot Gen3 tracker and MAProgress tracking system"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Rules of use 第 2-3 条：lost or broken；accidentally left with your crew"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Rules of use 第 5-6 条：Instructions on how to initiate a rescue…cannot re-enter the run"
+    }
+  ]
 }

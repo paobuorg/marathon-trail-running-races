@@ -1,0 +1,31 @@
+{
+  "sourceId": "route-kodiak-2026-release",
+  "title": "Big Bear Roars Again: Runners Take On the HOKA Kodiak Ultra Marathons by UTMB Americas Major",
+  "url": "https://en.media-sport.com/news-1/big-bear-roars-again-runners-take-on-the-hoka-kodiak-ultra-marathons-by-utmb%C2%AE-americas-major",
+  "publisher": "UTMB World Series / Media Sport",
+  "publishedAt": "2026-10-14",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "Cody Poskin won the 2026 100M in 16:46:21 by more than 36 minutes; Alex Proctor was second in 17:23:05 and Max Jolliffe third in 18:15:45.",
+    "Nichole Abma won the women's 100M in 20:43:40, Madeline Wighardt was second in 22:05:50 and Charlotte Saunders third in 22:39:31.",
+    "The 100K men's podium was Jose Angel Fernandez Jimenez 8:33:09, Gavin Prior 8:35:40 and Stephen Kersh 8:59:04; the women's podium was Lotti Brinks 10:15:44, Becca Bramley 10:25:04 and Lindsay Allison 10:28:08.",
+    "The 50K men's podium was Cole Campbell 3:20:42, Miquel Corbera Rubio 3:23:15 and Cade Michael 3:27:02; the women's podium was Anna Gibson 3:59:13, Carmen Graves 4:04:12 and Elizabeth O'Connor 4:06:30.",
+    "Joachim Cassel (1:38:24) and Tabor Scholl-Hemming (1:46:09) won the 21K; Juan Pablo Aguilar Fontalvo (50:02) and Charlotte Berrington (1:00:11) won the 10K.",
+    "The event supported 31 women runners from underrepresented groups in their preparation for the weekend."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 直读组委会赛后新闻稿；100K/50K/21K/10K 名次以此为一级来源。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "首段与 100-mile 段：Poskin 16:46:21、'more than 36 minutes'；Proctor/Jolliffe 时间一致" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "100-mile 女子段：Abma 20:43:40、Wighardt 22:05:50、Saunders 22:39:31" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "100km 段：男子三人与女子三人成绩逐条照录" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "50km 段：Campbell 3:20:42；Corbera Rubio 3:23:15；Michael 3:27:02；Gibson 3:59:13；Graves 4:04:12；O'Connor 4:06:30" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "21km / 10km 段：冠军与时间照录" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-20", "note": "第二段：'supported 31 women runners from underrepresented groups'" }
+  ]
+}

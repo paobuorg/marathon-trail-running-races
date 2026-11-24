@@ -15,5 +15,62 @@
     "The women's lead group passed halfway in 1:12:33, with six athletes still in contention at 35 km.",
     "The event was live-streamed on World Athletics+."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "本地静态抓取 .agent/capetown/raw",
+    "note": "World Athletics 赛报全文已读；逐项核对冠军成绩、领先差距、半程与 35 公里分段"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'World Athletics Elite Label road race'"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'Sunday (24)'，稿件日期 24 MAY 2026"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：Esa 2:04:55，'victory by four seconds ahead of Adane'，Lomwai 2:05:06；2:04:59 由 2:04:55 + 4 秒推出，文中未直印 Adane 的完整时间"
+    },
+    {
+      "index": 3,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "WA 只印 Dida 2:23:18 与 'won by 27 seconds ahead of Fikir'（推算 2:23:45），Amare 2:23:57；claim 的 2:23:46 来自赛事方稿，和 WA 的 27 秒口径差 1 秒"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'Kipchoge ... 2:13:29 ... at the start of his seven-continent World Tour'"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'the lead group went through halfway in 1:02:49'；'made his decisive move at the 40km mark'"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'the women's lead group went through halfway in 1:12:33'；'six athletes ... still in contention at 35km'"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'live-streamed on World Athletics+'"
+    }
+  ]
 }

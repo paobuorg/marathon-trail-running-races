@@ -1,0 +1,37 @@
+{
+  "sourceId": "route-chiang-mai-gear-160-100",
+  "title": "Mandatory Gear, CHIANG DAO 160 and ELEPHANT 100 — Chiang Mai Thailand by UTMB",
+  "url": "https://chiangmai.utmb.world/races-runners/runners/mandatory-gears",
+  "publisher": "UTMB World Series / HOKA Chiang Mai Thailand by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "CHIANG DAO 160 and ELEPHANT 100 share one mandatory equipment table, separate from the PAGODA 50, HMONG 50, SUTHEP 20 and CHEDI 20 tables.",
+    "The shared mandatory list contains 14 items: running pack, mobile phone, personal collapsible cup of at least 150 ml, at least 1 litre of water, one working headlamp with spare cells, survival blanket of at least 1.40 m x 2 m, food, waterproof jacket with hood and DWR protection, LED/flashing light or reflective vest/belt, first-aid kit, whistle, cap/bandana/buff, reusable bowl with spoon or spork, and passport or ID card.",
+    "The mandatory shell for these two races is a waterproof jacket with hood and DWR protection, whereas the PAGODA 50 table lists a windproof jacket.",
+    "Bottles or flasks with lids are not accepted in place of the collapsible cup, and water may not be carried in plastic bags or ziplock bags.",
+    "The mandatory water minimum is 1 litre, and food is listed with a recommendation of 800 kcal rather than a fixed requirement.",
+    "The mandatory first-aid kit should include wound care and pain relievers, with NSAIDs prohibited.",
+    "The phone must stay on for the whole race with airplane mode forbidden, an external battery is highly recommended, and a LiveTrail or LiveRun application is required.",
+    "The recommended gear list for these two races adds trekking poles, a GPS watch, sunglasses, arm sleeves, warm gloves, spare warm clothing, long trousers or socks, Vaseline or anti-heat cream and THB 500 in cash.",
+    "The page states that the organiser may add items to the mandatory list according to the weather forecast, with the final list confirmed one or two days before the race."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取英文 mandatory-gears 页；页内按组别分表，'CHIANG DAO 160 and ELEPHANT 100' 为同一张表，与 PAGODA 50 DAY 表逐项比对"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页内小节标题依次为 CHIANG DAO 160 and ELEPHANT 100 / HMONG 50 DAY / ... / PAGODA 50 DAY 等；160 与 100 无独立表" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "表内 14 行逐项抄录；ID 一栏写 'photocopy accepted'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "本表 'Waterproof jacket with hood with DWR protection'；PAGODA 50 DAY 表为 'Windproof jacket...'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'bottles or flasks with lids are not accepted'；'not permitted to pack water in plastic bags or ziplock bags'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "'minimum 1 liter'；'Recommendation of 800 kcal (ex : 2 gels + 2 power bars)'" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "'pain relievers (NSAIDs prhibited)' 原文拼写如此" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "'Keep the phone ON at all times, airplane mode is forbidden'；'An external battery is highly recommended'；'LiveTrail application installed and activated'" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "Recommended Gear 表逐行；'Cash 500 Baht'" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "'the organizer may add some more items... confirmed 1 or 2 days before the race.'" }
+  ]
+}

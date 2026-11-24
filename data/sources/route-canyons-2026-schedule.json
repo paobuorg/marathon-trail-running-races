@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-canyons-2026-schedule",
+  "title": "Canyons Endurance Runs by UTMB — 2026 schedule of events",
+  "url": "https://canyons.utmb.world/destination/schedule",
+  "publisher": "UTMB World Series / Canyons Endurance Runs by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2026 schedule listed the first 100K shuttle to China Wall at 02:45 and the last at 03:45, both from Gold Country Fairgrounds Parking.",
+    "The 2026 schedule stated that there was no 100K race-morning bib pick-up and no drop-bag drop-off at China Wall; bib pick-up was at the corner of E. Placer and High Street.",
+    "The page labels the schedule as 2026 and says it will be updated for 2027; no 2027 shuttle times are published."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 直接读取官方 2026 日程页，核对 100K 接驳、领物与弃包限制。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "SATURDAY, APRIL 25, 2026：2:45 AM FIRST SHUTTLE TO CHINA WALL FOR 100K；3:45 AM LAST SHUTTLE；地点 Gold Country Fairgrounds Parking。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "100K Race Start 行注：'NO 100K RACE MORNING BIB PICK-UP OR DROP BAG DROP OFF!'；领物地点 Corner of E. Placer and High St。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "页首：'This is the 2026 schedule and will be updated for 2027 closer to race weekend'。" }
+  ]
+}

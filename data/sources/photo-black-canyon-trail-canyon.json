@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-black-canyon-trail-canyon",
+  "title": "File:Black Canyon National Recreation Trail (52633877433).jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Black_Canyon_National_Recreation_Trail_(52633877433).jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2023-01-14",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "The image looks down a broad desert canyon with a pale wash, dense green scrub, saguaro-covered slopes and layered ridges under a partly cloudy sky.",
+    "The Commons description places the photograph along the Black Canyon National Recreation Trail near Black Canyon City, Arizona, and credits Chris Wonderly / Bureau of Land Management Arizona; it is a canyon-corridor landscape, not a race-day photograph, and shows no course marking, runner or aid station.",
+    "The author is BLMArizona; the file is public domain; the photograph was taken on 2023-01-14 at 11:43:49; the original is 4,032 x 3,024 pixels and 7,222,301 bytes.",
+    "The route page uses a 960 x 720 copy of 325,804 bytes without cropping or colour change and credits BLM Arizona / Chris Wonderly, public domain, Wikimedia Commons."
+  ],
+  "license": "Public-Domain",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons file page, imageinfo API and downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons 文件页与 imageinfo API 读取作者、许可、原图尺寸与描述，下载 960 px 副本并目视核对：画面是 Black Canyon City 附近的 Black Canyon National Recreation Trail 峡谷走廊，不是赛事现场，也不能定位到某个补给站。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地副本可见浅色干河谷、绿色灌丛、saguaro 山坡与层叠山脊。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons ImageDescription 写 along the trail near Black Canyon City, Arizona. Credit: Chris Wonderly, BLM；画面无号码布、赛道标记、跑者或补给桌。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "imageinfo：Artist BLMArizona；LicenseShortName Public domain；DateTimeOriginal 2023-01-14 11:43:49；4,032 x 3,024、7,222,301 字节。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 x 720、325,804 字节；未裁剪、未改色；页面署名 BLM Arizona / Chris Wonderly、Public domain、Wikimedia Commons。"
+    }
+  ]
+}

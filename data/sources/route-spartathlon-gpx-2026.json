@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-spartathlon-gpx-2026",
+  "title": "Spartathlon 2026 official GPX",
+  "url": "https://spartathlon.gr/gpx/spartathlon-2026.gpx",
+  "publisher": "International Spartathlon Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "The 2026 GPX contains 4,830 track points and measures 244.045 km by haversine distance between consecutive points.",
+    "The GPX starts at 37.9701939, 23.7227698 at the Acropolis and ends at 37.0791005, 22.428455 at Sparta.",
+    "The GPX creator field is 'AspasiaGPT'; the file has no metadata block and no copyright or licence declaration.",
+    "The GPX is 246,320 bytes and contains no elevation values, so it cannot be used to verify a total climb."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "Downloaded GPX and parsed locally",
+    "note": "Official GPX downloaded from the route page and measured with a local haversine script."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Point count and distance computed from XML."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "First and last trkpt coordinates."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Root creator attribute; no metadata element."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "HTTP download 246,320 bytes; no ele tags found."
+    }
+  ]
+}

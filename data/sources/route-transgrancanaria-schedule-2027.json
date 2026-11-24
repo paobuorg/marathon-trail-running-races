@@ -1,0 +1,75 @@
+{
+  "sourceId": "route-transgrancanaria-schedule-2027",
+  "title": "The North Face Transgrancanaria 2027 — official schedule",
+  "url": "https://transgrancanaria.net/en/schedule/",
+  "publisher": "The North Face Transgrancanaria / Arista Eventos S.L.",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The published schedule is headed 2027 and runs from Monday 22 February to Sunday 28 February 2027.",
+    "Open Agáldar starts on Tuesday 23 February at 09:00 in San José de Caideros, Gáldar, and its awards ceremony is at 13:00 in Plaza de Santiago, Gáldar.",
+    "KV El Gigante starts on Wednesday 24 February at 15:00 in Valle de Agaete.",
+    "The Half starts on Thursday 25 February at 09:00 in Santa Lucía de Tirajana with three wave starts; the Promo starts the same day at 10:30 in Artenara.",
+    "The Marathon starts on Friday 26 February at 09:30 in Tejeda; the Classic starts that day at 23:59 at Saulo Torón Square, Las Canteras Beach, Las Palmas de Gran Canaria.",
+    "The Advanced starts on Saturday 27 February at 09:00 in Teror, and the Short and Family Trail start at 10:00 in Teror.",
+    "The Classic and Advanced finish line closes on Sunday 28 February at 06:00 at Parque Sur, Maspalomas; life bags are returned at Expomeloneras between 09:00 and 14:00 and the awards ceremony is at 12:00.",
+    "Bib collection opens on Monday 22 February from 16:00 to 19:00 for KV, Half, Open Agáldar, Stages and Promo only; from Tuesday 23 to Thursday 25 February it runs 10:00–14:00 and 16:00–19:00, and on Friday 26 February 10:00–14:00 and 16:00–18:00."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://transgrancanaria.net/en/schedule/，按 MONDAY 22 至 SUNDAY 28 逐日读取"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "标题 SCHEDULE 2027；日期从 MONDAY, FEBRUARY 22 到 SUNDAY, FEBRUARY 28"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "TUESDAY 段：09:00 Start of the Open Agáldar race (San José de Caideros, Gáldar)；13:00 awards (Plaza de Santiago, Gáldar)"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "WEDNESDAY 段：15:00 Start of KV El Gigante (Valle de Agaete)"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "THURSDAY 段：09:00 TGC Half start (Santa Lucía de Tirajana). 3 wave starts；10:30 TGC Promo start (Artenara)"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "FRIDAY 段：09:30 TGC Marathon start (Tejeda)；23:59 TGC Classic start (Saulo Torón Square, Las Canteras Beach)"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "SATURDAY 段：09:00 TGC Advanced Start (Teror). Plaza Nuestra Señora del Pino；10:00 TGC Short and TGC Family Trail Start"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "SUNDAY 段：06:00 Classic and Advanced Finish Line Closure (Parque Sur, Maspalomas)；09:00–14:00 Return of life bags；12:00 Awards"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "MONDAY 段 16:00–19:00 Bib collection and Expo，注明 exclusively for KV, Half, Open, Stages and Promo；TUESDAY–THURSDAY 10:00–14:00 与 16:00–19:00；FRIDAY 16:00–18:00"
+    }
+  ]
+}

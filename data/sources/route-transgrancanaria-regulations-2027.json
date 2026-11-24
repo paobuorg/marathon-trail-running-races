@@ -1,0 +1,82 @@
+{
+  "sourceId": "route-transgrancanaria-regulations-2027",
+  "title": "The North Face Transgrancanaria 2027 — regulations",
+  "url": "https://transgrancanaria.net/en/regulations/",
+  "publisher": "The North Face Transgrancanaria / Arista Eventos S.L.",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Article 2 lists the 2027 race dates: Open 23 February 09:00, KV El Gigante 24 February 15:00, Promo 25 February 10:30, Half 25 February 09:00, Marathon 26 February 09:30, Classic 26 February 23:59, Advanced and Short/Family Trail 27 February at 09:00 and 10:00.",
+    "The Stages format combines four races over four days: Open Agáldar as stage 1, KV El Gigante as stage 2, Promo as stage 3 and Advanced as stage 4.",
+    "Article 5.3 requires a medical certificate for Classic, Advanced and Stages runners and sets the upload deadline at 21 January 2027, while the Classic race page gives 14 January 2027.",
+    "Article 8.2 allows external assistance only within 100 metres before and after an aid station and never inside it, and lists the permitted points per race; Open Agáldar, Promo, Short, Family Trail and KV El Gigante do not allow external assistance.",
+    "Article 8.3 prohibits poles during the first 2 kilometres of every race except KV El Gigante, and requires runners to carry poles so they cannot injure other runners.",
+    "Article 10 states that aid stations provide no cups and that every runner must carry their own container.",
+    "Article 11 requires withdrawals to be made at aid stations with the bib handed in, and says the organisation may evacuate a runner to the finish area after the aid-station control closes.",
+    "The regulations reproduce Article 8.2 twice, with slightly different wording, in the same document.",
+    "Article 1 states that The North Face Transgrancanaria is organised by Arista Eventos S.L.U. in collaboration with the Cabildo de Gran Canaria, the town halls of the island and the Government of the Canary Islands."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://transgrancanaria.net/en/regulations/，读取 ARTICLE 1–14"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "ARTICLE 2 逐行读取；STAGES STAGE 1–4 与各赛同日列出"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "ARTICLE 2：OPEN and STAGES STAGE 1；KV and STAGES STAGE 2；PROMO and STAGES STAGE 3；ADVANCED and STAGES STAGE 4"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "ARTICLE 5.3：before January 21, 2027；Classic 页医疗证明段：before 14 January 2027"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "ARTICLE 8.2 按赛事列出允许点；OPEN AGÁLDAR / PROMO / SHORT / FAMILY 与 KV 均写 Not permitted"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "ARTICLE 8.3：prohibited during the first 2 kilometres of all race categories, except for KV El Gigante"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "ARTICLE 10：There will be no cups, so each runner must carry their own container"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "ARTICLE 11：Withdrawals must be made at the Aid Stations；hand in the bib；facilitate evacuation to the finish area"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "抓取文本中 ARTICLE 8 出现两组 8.2 EXTERNAL ASSISTANCE 与 8.3 USE OF POLES，措辞略有差异"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "ARTICLE 1：organized by Arista Eventos S.L.U. in collaboration with the Cabildo de Gran Canaria, the Town Halls ... and the Government of the Canary Islands"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "sourceId": "photo-mds-2010-rocky-climb",
+  "title": "File:Marathon des Sables (2010).jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Marathon_des_Sables_(2010).jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2010-04-05",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The file shows runners climbing a rocky slope during the 2010 Marathon des Sables.",
+    "The author is Achim Knacksterdt (U.S. Army Corps of Engineers Europe District), credited through Flickr.",
+    "The file is released under CC BY 2.0 and requires attribution."
+  ],
+  "license": "CC-BY-2.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "PowerShell Invoke-WebRequest + local 7890 proxy; Commons action=query imageinfo and w/thumb.php",
+    "note": "2026-11-20 经代理读取 Commons 文件页、imageinfo API 与 1400 px 缩略图，逐项核对作者、许可、日期、画面。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "画面为荒漠石坡上的参赛者队列，文件描述与分类均指向 Marathon des Sables 2010。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "Commons Artist 字段为 Achim Knacksterdt (U.S. Army Corps of Engineers Europe District)，Credit 指向 Flickr。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "Commons LicenseShortName 为 CC BY 2.0，LicenseUrl 指向 creativecommons.org/licenses/by/2.0。" }
+  ]
+}

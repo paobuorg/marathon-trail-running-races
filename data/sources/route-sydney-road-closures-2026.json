@@ -1,0 +1,111 @@
+{
+  "sourceId": "route-sydney-road-closures-2026",
+  "title": "Local access by area – North Sydney, Sydney CBD and Eastern Suburbs (TCS Sydney Marathon)",
+  "url": "https://www.tcssydneymarathon.com/traffic-and-transport",
+  "publisher": "TCS Sydney Marathon",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "North Sydney: sections of Pacific Hwy southbound, Berry St, Walker St, McLaren St, Angelo St and surrounding local streets are closed from 3am to 11am.",
+    "The Sydney Harbour Bridge, Cahill Expressway and Western Distributor are closed in both directions from 3am to 11am.",
+    "Southbound traffic approaching the Harbour Bridge is diverted via the Harbour Tunnel, with no direct vehicle access to the CBD during the closure.",
+    "Sydney CBD: Macquarie St is closed from the Opera House to Hyde Park from 4am to 4:30pm, including College St, St Mary's Rd, Art Gallery Rd and Mrs Macquarie Rd.",
+    "Sydney CBD: roads between George St and Macquarie St in the city centre and Circular Quay are closed from 4am to 12pm.",
+    "Sydney CBD: Park St and William St are closed between Elizabeth St and Crown St from 5am to 3:30pm.",
+    "Sydney CBD: managed exit is permitted from most properties until 5:30am in the CBD, The Rocks and Circular Quay, with no entry from 4am.",
+    "Eastern Suburbs: Oxford St is closed from Liverpool St to Flinders St from 4am to 4pm.",
+    "Eastern Suburbs: Anzac Pde is fully closed between Dacey Ave, Moore Park and Gardeners Rd, Kingsford from 5am to 2pm.",
+    "Eastern Suburbs: Anzac Pde southbound is closed from Moore Park Rd to Lang Rd, with Moore Park Rd, Driver Ave, Lang Rd and Robertson Rd closed and Centennial Parklands closed, from 5am to 3:30pm.",
+    "The Cross City Tunnel is toll-free from 5am to 4:30pm.",
+    "There is no access from east of Anzac Pde to west of Anzac Pde until 1:30pm, when Dacey Ave and Alison Rd reopen.",
+    "The closure pages cover three areas: North Sydney – St Leonards & Crows Nest, Sydney CBD/Circular Quay/The Rocks/Barangaroo, and the Eastern Suburbs."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl 静态抓取 .agent/lavaredo/rc-north.txt、rc-cbd.txt、rc-east.txt（由 north-sydney、sydney-cbd、eastern-suburbs 三个分区页转文本）",
+    "note": "三个分区封路页 2026-11-08 可读。页面正文仍按“Sunday 30 August / Saturday 29 August”列时刻，与 2026 年 8 月 29–30 日（周六/周日）对应；站点页头已挂 2027 报名入口，但封路正文未换成 2027，故本来源按 2026 届封路记录使用。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "North Sydney 页：'3am to 11am – sections of Pacific Hwy southbound, Berry St, Walker St, McLaren St, Angelo St, and surrounding local streets.'"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "North Sydney 页：'The Sydney Harbour Bridge, Cahill Expressway and Western Distributor will be closed in both directions from 3am to 11am.'"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "North Sydney 页：'Southbound traffic ... diverted via the Harbour Tunnel. During this time there is no direct vehicle access to the CBD.'"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CBD 页：'4am to 4:30pm: Macquarie St closed from the Opera House to Hyde Park, including ... College St, St Mary’s Rd, Art Gallery Rd and Mrs Macquarie Rd.'"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CBD 页：'4am to 12pm: roads between George St and Macquarie St in the city centre and Circular Quay ...'"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CBD 页与 Eastern Suburbs 页均列：Park St / William St between Elizabeth St and Crown St from 5am to 3:30pm。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "CBD 页：'Managed EXIT permitted from most properties until 5:30am in the CBD, The Rocks and Circular Quay. No entry from 4am.'"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Eastern Suburbs 页：'Oxford St from Liverpool St to Flinders St from 4am to 4pm.'"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Eastern Suburbs 页：'5am to 2pm: full closure of Anzac Pde between Dacey Ave, Moore Park and Gardeners Rd, Kingsford ...'"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Eastern Suburbs 页：'Moore Park - 5am to 3:30pm: Anzac Pde closed southbound from Moore Park Rd to Lang Rd, Moore Park Rd closed ... Driver Ave closed and Lang Rd closed ... Robertson Rd ... Centennial Parklands closed.'"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Eastern Suburbs 页：'The tunnel will be toll-free from 5am to 4.30pm.'"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Eastern Suburbs 页：'No access from east of Anzac Pde to west of Anzac Pde until 1:30pm when Dacey Ave/Alison Rd reopens ...'"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "三个分区页标题：'North Sydney - St Leonards & Crows Nest'、'Sydney CBD, Circular Quay, The Rocks & Barangaroo'、'Eastern Suburbs'；Traffic 页目录同列三区。"
+    }
+  ]
+}

@@ -29,5 +29,146 @@
     "To claim a checked bag, runners enter Central Park West at 62nd Street; after 19:00 unclaimed bags move to the NYRR RUNCENTER and are available on Marathon Monday, 2 November, from 09:00 to 20:00.",
     "On race day, 1 November 2026, the NYPD closes streets along the course, and unsanctioned bicycles or unauthorised activities are not allowed on the closed course."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 prod.nyrr.org/tcsnycmarathon/the-course → .agent/ny/prod-course.html",
+    "note": "赛道页全文可读，含 Bronx 改线、补给、医疗、计时、关门与存包段落"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "开头段：“The 26.2-mile course runs through all five boroughs of NYC.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Bronx Course Adjustments 段：Willis Avenue Bridge 后 left onto East 135th Street、right onto Alexander Avenue、left onto East 141st Street（instead of East 138th）、left onto Third Avenue、right onto East 138th Street、Madison Avenue Bridge。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：“the first time in 15 years that the course has changed”与“50th anniversary of the five-borough course, first run on October 24, 1976”。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Water Stations 段：purified water every mile from mile 3 to mile 25，except miles 5, 7 and 9。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：Gatorade Endurance Formula Lemon-Lime at the same official fluid stations。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：“In warmer weather, misting stations are available at every fluid station.”"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：“Fluids are dispensed in compostable cups”，tables on both sides of the course。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：Culligan filtered self-serve refill stations，one per borough，miles 8, 14, 17, 20 and 23。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Maurten Gel Depots 段：miles 12 and 18，limited and not guaranteed，建议 carry your own fuel、one gel per depot。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：“Bananas are available at mile 21.”"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Toilets 段：portable toilets every mile beginning at mile 3，including wheelchair-accessible units。"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：lactation spaces at miles 8, 17 and 22。"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Medical 段：stations approximately every mile from mile 3 and at the finish；AEDs in start/course tents、ambulances、post-finish tents。"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：emergency 866-705-6626；Medical Information Hotline 855-697-7786。"
+    },
+    {
+      "index": 14,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Course Markings/Timing 段：mile markers every mile、kilometre signs every 5 km、all clocks set to wave 1。"
+    },
+    {
+      "index": 15,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：timing at start、every mile from 3M、every 5K from 5K、halfway 13.1M、25.2M、finish。"
+    },
+    {
+      "index": 16,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Cut-off 段：schedule designed for 16-minute-per-mile pace based on the wave 5 start to complete on the streets。"
+    },
+    {
+      "index": 17,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：sweep buses at approximately 16-minute-per-mile based on final wave start，carry runners to post-finish area。"
+    },
+    {
+      "index": 18,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：finish through 10:00 p.m. ET → medal、results.nyrr.org、9+1 credit、Abbott WMM star；after 10 p.m. 只有 medal、无 official result。"
+    },
+    {
+      "index": 19,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：“Participants who have not completed the course must not go through the finish line”，否则 DQ 并 barred from future races。"
+    },
+    {
+      "index": 20,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Bag Check 段：enter Central Park West at 62nd Street；after 7:00 p.m. 转 NYRR RUNCENTER；Marathon Monday, November 2, 9:00 a.m.–8:00 p.m. 领取。"
+    },
+    {
+      "index": 21,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "NYPD 段：race day closes streets；prohibits unsanctioned bicycles and unauthorised activity on the closed course。"
+    }
+  ]
 }

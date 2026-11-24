@@ -4,14 +4,57 @@
   "url": "https://archive-api.open-meteo.com/v1/archive?latitude=45.9237&longitude=6.8694&start_date=2015-08-28&end_date=2025-08-30&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Europe%2FParis",
   "publisher": "Open-Meteo",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-08",
   "claims": [
-    "The query returns 33 daily records for 28–30 August in each year from 2015 to 2025 at Chamonix valley coordinates.",
+    "The archive query covers 2015-08-28 to 2025-08-30 and returns 3,656 daily records; filtered to 28–30 August it yields 33 days at Chamonix valley coordinates.",
     "Daily maximum temperature across those 33 days ranges from 11.8°C to 27.4°C, with a median of 23°C.",
     "Daily minimum temperature across those 33 days ranges from 5.2°C to 16.7°C, with a median of 13°C.",
     "15 of 33 days record at least 1 mm of precipitation and 10 of 33 record at least 5 mm.",
     "The values are modelled historical data for a valley grid point, not measurements at the passes, so they cannot be used as high-altitude race-day temperatures.",
     "Open-Meteo data are published under CC BY 4.0 and require attribution."
   ],
-  "license": "CC-BY-4.0"
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2026-11-08 复核：API 实际返回 2015-08-28 至 2025-08-30 共 3,656 条日记录；筛出 28–30 August 得 33 天。旧 claim 写“返回 33 条”，已改写"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "筛选 33 天后：最高温 11.8–27.4°C，中位数 23°C"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "筛选 33 天后：最低温 5.2–16.7°C，中位数 13°C"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "筛选 33 天后：≥1 mm 15 天，≥5 mm 10 天"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "API 返回的是模型网格点（46.0105N / 6.7143E，网格海拔 1,041 m），非垭口实测"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Open-Meteo 许可页：API 数据 CC BY 4.0，需署名"
+    }
+  ]
 }

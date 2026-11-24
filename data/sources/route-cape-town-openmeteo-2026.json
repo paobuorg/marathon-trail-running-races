@@ -15,5 +15,62 @@
     "On 24 May 2026 the values were 20.6 °C maximum, 14.1 °C minimum, 0.0 mm precipitation and 11.6 km/h maximum wind.",
     "The values are modelled grid-point data returned for the requested coordinates, not measurements taken on the race course."
   ],
-  "license": "CC BY 4.0"
+  "license": "CC BY 4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "本地静态抓取 .agent/capetown/raw",
+    "note": "读取本地保存的 Open-Meteo API JSON，逐日核对 2026-05-17 至 2026-05-25 的 tmax/tmin/precip/wind 与坐标"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "JSON 字段：latitude -33.848858、longitude 18.49315、elevation 12.0、timezone Africa/Johannesburg（请求坐标 -33.906/18.41 被网格吸附）"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "daily.time 从 2026-05-17 到 2026-05-25，共 9 天"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "tmax：20.6、22.4、24.0、23.7、18.4、17.2、20.9、20.6、20.0；最低 17.2、最高 24.0、中位数 20.6"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "tmin：10.8、14.4、15.5、14.5、12.7、12.4、11.3、14.1、10.6；最低 10.6、最高 15.5、中位数 12.7"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "precipitation_sum：0、0、1.9、0、1.2、0、0、0、0；仅 5-19 与 5-22 ≥1mm，最大 1.9，无 ≥5mm"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "wind_speed_10m_max：20.9、19.1、14.8、12.8、13.5、9.1、8.6、11.6、8.5；最低 8.5、最高 20.9、中位数 12.8"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2026-05-24 行：tmax 20.6、tmin 14.1、precip 0.0、wind 11.6"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "响应为 Open-Meteo forecast API 的网格点值，非赛道气象站实测"
+    }
+  ]
 }

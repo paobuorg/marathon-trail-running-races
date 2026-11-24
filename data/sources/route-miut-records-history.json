@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-miut-records-history",
+  "title": "Ultra Trail de l'île de Madère — palmarès et records",
+  "url": "https://fr.wikipedia.org/wiki/Ultra_Trail_de_l%27%C3%AEle_de_Mad%C3%A8re",
+  "publisher": "Wikipédia",
+  "publishedAt": "2026-08-31",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "MIUT was first held in 2008 and its original 115 km course was fixed in 2013.",
+    "Jim Walmsley's 12:58:14 and Courtney Dauwalter's 14:40:35 are the fastest recorded Legend times on the 115 km course.",
+    "The 2025 winners were Paul Cornut-Chauvinc in 12:54:52 and Katie Schide in 14:20:56.",
+    "The 2026 winners were Vincent Esmiol in 12:48:03 and Katharina Hartmuth in 14:54:59."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 直读公开历届表，作为 B 层纪录来源；2026 冠军与官方成绩页交叉核对。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "History 段：2008 创办；2013 固定 115 km / 6,850 m" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "Records 段：Hommes 12 h 58 min 14 s, Jim Walmsley；Femmes 14 h 40 min 35 s, Courtney Dauwalter" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "2025 表：Paul Cornut-Chauvinc 12:54:52；Katie Schide 14:20:56" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "2026 表：Vincent Esmiol 12:48:03；Katharina Hartmuth 14:54:59；与官方成绩页一致" }
+  ]
+}

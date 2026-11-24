@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-tds-chamonix",
+  "title": "File:Chamonix valley from la Flégère,2010 07.JPG",
+  "url": "https://commons.wikimedia.org/wiki/File:Chamonix_valley_from_la_Fl%C3%A9g%C3%A8re,2010_07.JPG",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2010-07-31",
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "The Commons file shows the Chamonix valley and the Mont Blanc massif as seen from la Flégère, with the town in the valley below.",
+    "The file is a landscape photograph of the TDS finish valley, not a photograph of the TDS race; it contains no runners or event signage.",
+    "The author is Ximonic, Simo Räsänen, credited under CC BY-SA 3.0; the original file is 3,750 x 2,500 pixels, 9,965,263 bytes, dated 2010-07-31.",
+    "The file page requires attribution and share-alike; the route page uses a 960 x 640 Commons thumbnail of 208,724 bytes and credits the author and licence."
+  ],
+  "license": "CC-BY-SA-3.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "checkedVia": "Commons action=query imageinfo + thumbnail visual check",
+    "note": "2026-11-22 读取 Commons 文件页与 imageinfo，核对标题、作者、日期、许可、尺寸和画面；缩略图与文件描述一致。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "File description names the Chamonix valley and Mont Blanc from la Flégère; thumbnail shows the town in the valley below the massif."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "No race or TDS category in the file metadata; caption treats it as a landscape photograph."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "imageinfo: 3,750 x 2,500; 9,965,263 bytes; Artist Ximonic, Simo Räsänen; CC BY-SA 3.0; DateTimeOriginal 2010-07-31."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Local file is the 960 x 640 Commons thumbnail, 208,724 bytes; source page states attribution and share-alike."
+    }
+  ]
+}

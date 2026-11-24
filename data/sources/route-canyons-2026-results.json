@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-canyons-2026-results",
+  "title": "The Canyons Endurance Runs by UTMB 2026 — 100K official results",
+  "url": "https://dashboard.utmb.world/races/3753.thecanyonsendurancerunsbyutmb-100k.2026",
+  "publisher": "UTMB World Series / UTMB Index",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2026 Canyons 100K was held on 25 April 2026 over 100.00 km with 3,750 m of gain and lists 678 results.",
+    "The 2026 100K men's podium was Adam Peterman 08:18:47, Zach Miller 08:21:05 and Hayden Hawks 08:23:28; Canhua Luo was fourth in 08:25:17.",
+    "The 2026 100K women's podium was Riley Brady 09:41:09, Careth Arnold 09:56:36 and Sarah Allaben 10:14:58."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 直接读取 UTMB Index 结果页的 2026 Canyons 100K 成绩表，核对组别、距离、爬升与前三名。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "页面：Date Apr 25, 2026；Distance 100.00 km；Elevation Gain 3750 m；678 results。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "成绩表第 1–4 行：Peterman 08:18:47、Miller 08:21:05、Hawks 08:23:28、Canhua Luo 08:25:17。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "成绩表女子排序：Riley Brady 09:41:09；Careth Arnold 09:56:36；Sarah Allaben 10:14:58。" }
+  ]
+}

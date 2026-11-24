@@ -16,5 +16,67 @@
     "The 2026 results are dated June 27-28, 2026.",
     "The 2026 race recap headline states that course records fell in both the women's and men's races."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 复核：本次直接读取 wser.org 首页正文、赛果链接与回顾摘要。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首页首屏标题"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首页首段"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首页首段：原文为 has come to represent one of the ultimate endurance tests。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首页第 2 段"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首页第 2 段"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Granite Chief Wilderness Trail Reroute 段"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Granite Chief Wilderness Trail Reroute 段：原文为 is higher up on the ridge。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首页 2026 Results 链接：链接标题为 June 27-28, 2026 Results。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "首页 2026 Race Recap 摘要：摘要含 COURSE RECORDS FALL AT WSER 与 Course records fell in both the women’s and the men’s races。"
+    }
+  ]
 }

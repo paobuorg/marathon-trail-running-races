@@ -1,14 +1,41 @@
 {
   "sourceId": "route-shanghai",
-  "title": "上马网",
-  "url": "https://www.shang-ma.com/",
+  "title": "2025 上海马拉松竞赛规程",
+  "url": "https://static.shang-ma.com/web/matchDetail/index.html?eventId=224",
   "publisher": "上海马拉松",
   "publishedAt": null,
-  "accessedAt": "2026-10-27",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The Shanghai Marathon starts on Zhongshan East 1st Road at the Bund.",
     "The course finishes at Xujiahui Sports Park.",
     "The route passes the Bund, Nanjing Road, Jing’an Temple and Xintiandi."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://static.shang-ma.com/web/matchDetail/index.html?eventId=224",
+    "note": "原 url 为官网首页（Vue SPA，无静态正文），本轮换到同主办方 2025 竞赛规程页；竞赛规程正文可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "规程写“起点：外滩金牛广场”，未写中山东一路；街道名需警方通告佐证"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "规程写“马拉松终点：徐家汇体育公园”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "规程写途经外滩、南京路步行街、静安寺、淮海路、新天地、龙腾大道、龙华路"
+    }
+  ]
 }

@@ -11,5 +11,18 @@
     "The map states that the course is subject to change.",
     "The PDF is a map, not a GPX, KML or GeoJSON file, and it does not publish a cumulative elevation profile or ascent figure."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 下载官方赛道图PDF，PyMuPDF 提取图面文字 → .agent/chicago-beijing35/chicago-coursemap2026.txt",
+    "note": "单页PDF的图例与图面文字可读；只能核对图例标签，不能从图读取公里数或爬升"
+  },
+  "claimVerification": [
+    {"index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "官方CDN发布26-BACM-COURSE-MAP-PRINT.pdf，图面日期October 11, 2026"},
+    {"index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "图例含Mile marker、Kilometer marker、Aid station、Medical、Culligan、Maurten、Biofreeze、Bank of America Cheer Zone、Charity block party"},
+    {"index": 2, "status": "partial", "checkedAt": "2026-11-08", "note": "PDF图例与图面均无“subject to change”；该句在赛事课程页，不在图内，claim把页面声明归到地图"},
+    {"index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "PDF为单页地图，无GPX/KML/GeoJSON，也无高程剖面或爬升数字"}
+  ]
 }

@@ -4,7 +4,7 @@
   "url": "https://montblanc.utmb.world/races-runners/other-information/regulation",
   "publisher": "UTMB World Series",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-08",
   "claims": [
     "On 2026-11-06 the regulation page is headed 2027 Regulations, so its specific clauses are not treated here as 2026 rules.",
     "Runners must be capable of handling changing mountain conditions without outside assistance, including night, wind, cold, fog, rain and snow at altitude.",
@@ -14,5 +14,54 @@
     "For UTMB, CCC and TDS one personal assistant is allowed at certain aid stations, and may only hand over a bag of at most 30 litres.",
     "In a dispute between language versions of the rules, the French version prevails."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面标题为 “2027 REGULATIONS”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Runner's commitment：夜间、风、冷、雾、雨、雪与高海拔"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Semi-autonomy 第 1 条：全程携带全部强制装备；工作人员可随时检查背包"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同上：装备检查不合格可被取消资格"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Semi-autonomy 第 2 条：补给站饮料食物仅限现场食用，组织方只补充白水或运动饮料"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Semi-autonomy 第 3 条：UTMB/CCC/TDS 可在指定补给站由一名助手协助，存包上限 30 L"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页首：语言版本有争议时以法语版为准"
+    }
+  ]
 }

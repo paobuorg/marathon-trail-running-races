@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-doi-inthanon-park",
+  "title": "The Best of National Parks of Thailand — Doi Inthanon",
+  "url": "https://www.dnp.go.th/nprd/park/6/TheBestofNationalParksofThailand.pdf",
+  "publisher": "Department of National Parks, Wildlife and Plant Conservation (Thailand)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The Department of National Parks describes Doi Inthanon as Thailand's highest peak at 2,565 m above mean sea level.",
+    "The same document describes the mountain as blanketed with moisture and subject to cool weather, with hill evergreen forest around the summit enshrouded in mist and cool air all year round."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 通过检索结果读取泰国国家公园局官方 PDF 相关段落；原文 'Lying at 2,565 meters above mean sea level... cool weather... enshrouded in mist with currents of cool air all year round.'"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'Thailand's highest peak, Doi Inthanon. Lying at 2,565 meters above mean sea level'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'blanketed with moisture and is subject to cool weather... enshrouded in mist with currents of cool air all year round.'" }
+  ]
+}

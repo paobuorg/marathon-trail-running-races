@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-utct-hout-bay",
+  "title": "File:Aerial of Hout Bay Harbour, Cape Town, Western Cape Province (6253198444).jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Aerial_of_Hout_Bay_Harbour,_Cape_Town,_Western_Cape_Province_(6253198444).jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2009-04-28",
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "The Commons file is an elevated general view of Hout Bay Harbour and its surrounding mountains; it is not a photograph of the UTCT race.",
+    "The author is South African Tourism, credited under CC BY 2.0; the original file is 1,024 x 680 pixels and 138,808 bytes, with a capture date of 28 April 2009.",
+    "The downloaded 960 px thumbnail is 960 x 637 pixels and 138,290 bytes; it shows the harbour, fishing boats, beach, settlement and the mountains above Hout Bay.",
+    "The file page requires attribution and a licence notice; the route page uses the 960 px Commons thumbnail and credits South African Tourism and CC BY 2.0."
+  ],
+  "license": "CC-BY-2.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "checkedVia": "Commons action=query imageinfo + thumbnail visual check",
+    "note": "2026-11-22 读取 Commons 文件页与 imageinfo，核对标题、作者、日期、许可、原始尺寸和画面；下载的 960 px 缩略图与文件描述一致。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "File title and description identify an aerial of Hout Bay Harbour; no UTCT race category or race caption in the metadata."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "imageinfo: 1,024 x 680; 138,808 bytes; DateTimeOriginal 2009-04-28 11:35; Artist South African Tourism; CC BY 2.0."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Local thumbnail measured 960 x 637 / 138,290 bytes; visual check shows the harbour, boats, beach, buildings and mountains."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "File page states CC BY 2.0; attribution to South African Tourism is printed on the route page."
+    }
+  ]
+}

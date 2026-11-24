@@ -13,5 +13,49 @@
     "On 27 June 2026 the grid point recorded a maximum of 23.9 degrees C, a minimum of 13.6 degrees C and 0.6 mm of precipitation.",
     "These are modelled grid-point values, not measurements taken on the race course."
   ],
-  "license": "CC-BY-4.0"
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 复核：直接读取 API JSON，重算 9 天 min/max/median 与降水计数。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "API 顶层字段 latitude / longitude / elevation：实际返回 38.910366、-121.026、374.0 m。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "daily.temperature_2m_max 数组（2026-06-20 至 06-28）：重算 min 23.9 / max 32.1 / median 29.6。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "daily.temperature_2m_min 数组（2026-06-20 至 06-28）：重算 min 11.6 / max 15.1 / median 13.6。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "daily.precipitation_sum 数组（2026-06-20 至 06-28）：重算：仅 06-26 的 1.9 mm ≥1 mm；无 ≥5 mm；06-27 为 0.6 mm。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "daily 数组 2026-06-27 项"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "API 返回的网格点字段与 daily 序列"
+    }
+  ]
 }

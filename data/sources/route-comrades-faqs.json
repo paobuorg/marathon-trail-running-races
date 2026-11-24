@@ -1,0 +1,33 @@
+{
+  "sourceId": "route-comrades-faqs",
+  "title": "Comrades Marathon FAQs — qualification, prizes, race pack collection",
+  "url": "https://www.comrades.com/faqs",
+  "publisher": "Comrades Marathon Association (CMA)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The qualifying standards are 42.2 km in 4:59:59 or faster, 48 km in 5:59:59, 50 km in 6:09:59, 52–54 km in 6:29:59, 56 km in 6:59:59, 60 km in 7:39:59, 64 km in 8:14:59, 80 km in 10:34:59, 90 km in 11:59:59 and 100 km in 13:34:59.",
+    "The entry fee is waived for runners who have completed 25 or more Comrades Marathons.",
+    "Top-10 prize money is R1,000,000 for first, R575,300 for second, R413,900 for third, R208,200 for fourth, R163,700 for fifth, R94,800 for sixth, R83,100 for seventh, R72,500 for eighth, R62,000 for ninth and R49,200 for tenth.",
+    "Race pack collection for 2027 runs on 10 June 10:00–19:00, 11 June 09:00–19:00 and 12 June 09:00–16:00, at the Durban Exhibition Centre or Comrades House in Pietermaritzburg.",
+    "General ballot applications closed on 22 September 2026 at 16:30; the initial draw was on 23 September, payment processing on 25–26 September, and a redraw if required on 28 September with payment on 29–30 September.",
+    "Entries are non-transferable and non-refundable, may not be sold or transferred except through the official substitution process, and may not be deferred to a future race.",
+    "The extended 2027 prize money schedule will be published once confirmed."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取赛事 FAQ 页，抄录资格表、25 次豁免、前十奖金、2027 领物时间与地点、抽签时间表、不可转让规则。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Qualification 表逐行：42.2/4:59:59、48/5:59:59、50/6:09:59、52–54/6:29:59、56/6:59:59、60/7:39:59、64/8:14:59、80/10:34:59、90/11:59:59、100/13:34:59。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'The entry fee is waived for runners who have completed 25 or more Comrades Marathons.'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Prize Money for Top 10 Men & Women 表逐行抄录。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Race Pack Collection 表：10 June 10:00–19:00、11 June 09:00–19:00、12 June 09:00–16:00；Durban Exhibition Centre 与 Comrades House。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "General Ballot Applications 时间表逐行抄录。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Entry fees are non-transferable and non-refundable... may not be deferred to a future race.'" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'The extended 2027 prize money schedule will be published... once confirmed.'" }
+  ]
+}

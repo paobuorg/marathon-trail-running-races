@@ -1,0 +1,32 @@
+{
+  "sourceId": "route-torrencial-chile-transport-2027",
+  "title": "¿Cómo llegar a Valdivia? — official transport page",
+  "url": "https://torrencial.utmb.world/es/discover/how-to-get-there",
+  "publisher": "UTMB World Series / Torrencial Chile by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Valdivia lies 840 km from Santiago.",
+    "Direct flights from Santiago's Arturo Merino Benítez airport (SCL) to Valdivia's Pichoy airport (ZAL) take about 1 to 1.5 hours, with LATAM, Sky Airline and JetSMART named as the main airlines.",
+    "Pichoy airport is about 30 minutes by car from central Valdivia.",
+    "Driving from Santiago to Valdivia takes about 9 to 10 hours on Ruta 5 Sur.",
+    "Bus travel from Santiago to Valdivia takes about 10 to 12 hours, with Tur-Bus and ETM named, arriving at the Terminal de Buses de Valdivia.",
+    "The page covers Santiago, Pichoy airport and the Valdivia bus terminal, and gives no Punucapa start-area transfer information."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "工具抓取（桌面 UA）读取西文交通页正文",
+    "note": "2026-11-08 读取。该页三条主线是飞机、自驾、巴士；页面没有涉及起点 Punucapa 的官方接驳。这是「该页正文未包含」，不等于官方从未提供，也不排除后续更新。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Valdivia es una ciudad ubicada en el sur de Chile, a 840 km de Santiago。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "La duración del vuelo es aproximadamente de 1 a 1.5 horas；aerolíneas LATAM, Sky Airline y JetSMART。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "el centro de Valdivia, que está a unos 30 minutos en auto。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Duración: 9-10 horas；Ruta 5 Sur；Distancia: 840 km。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "Duración: 10-12 horas；Empresas de bus: Tur-Bus, ETM；Terminal de Buses de Valdivia。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "本页正文只出现 SCL/ZAL、Ruta 5 Sur 与 Terminal de Buses de Valdivia，未出现 Punucapa、largada 或 bus de salida 等字样。" }
+  ]
+}

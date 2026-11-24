@@ -18,5 +18,80 @@
     "Family and friends may join runners for the final mile from the southern end of the Nute Chute.",
     "Pacers may not leave vehicles at Grouse Gulch to be picked up after the run."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "官方页面直读",
+    "note": "Pacers 页可读，正文标注 2027"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 1 段：In 2027, pacers are allowed from Grouse Gulch on"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 1 段：(Ouray, Telluride, Chapman)…KT Aid Station if they hike in (pacer exchange ONLY)"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 2 段：Runners over 60 years old…for the whole run"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 3 段：must run at least the whole leg to the next crew access"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文第 4 段：check-in with aid station personnel and sign a waiver…wristband…worn while on course"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Crew Rules 第 9 条：generally limited to a 400-yard radius"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Crew Rules 第 11 条：single crew pass…Cunningham and Grouse Gulch"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Crew Rules 段末：No crew, spectator, media or parking or drop-offs…Ophir Pass Road"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Crew Rules 第 5 条：Pets are not allowed in the main aid station area or on course"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Crew Rules 末尾：final mile…southern end of the Nute Chute"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Crew Rules 第 13 条：Pacers are not allowed to leave vehicles at Grouse Gulch"
+    }
+  ]
 }

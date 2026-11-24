@@ -5,19 +5,15 @@
   "status": "published",
   "riskLevel": "general",
   "sourceRefs": [
-    "route-shanghai",
-    "route-shanghai-rules-2025",
-    "route-shanghai-guide-2025",
-    "route-shanghai-police-2025",
-    "route-shanghai-press-2025",
-    "route-shanghai-citygov-2025",
-    "route-shanghai-results-2025",
-    "route-shanghai-worldathletics-2025",
-    "route-shanghai-airport-transport",
-    "route-shanghai-start-guide-2025",
-    "route-shanghai-openmeteo-2025",
-    "route-shanghai-2026-preview",
     "route-shanghai-2026-rules",
+    "route-shanghai-2026-course-map",
+    "route-shanghai-2026-guide",
+    "route-shanghai-wmm-assessment",
+    "route-shanghai-airport-transport",
+    "route-shanghai-openmeteo-2026",
+    "route-shanghai-rules-2025",
+    "route-shanghai-police-2025",
+    "route-shanghai-results-2025",
     "photo-shanghai-2016",
     "route-anchor-editorial"
   ],
@@ -28,9 +24,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-11-06",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-11-06",
+  "updatedAt": "2026-11-21",
+  "reviewedAt": "2026-11-21",
+  "reviewDueAt": "2026-12-20",
   "details": {
     "raceType": "road-marathon",
     "countryCodes": [
@@ -46,10 +42,27 @@
       "kind": "overview",
       "sourceRef": "route-anchor-editorial"
     },
-    "courseVersion": "2025-shanghai-official-course",
-    "direction": "Point-to-point from the Bund Bull (外滩金牛广场) to Gate 12 of Shanghai Stadium, Xujiahui Sports Park",
+    "courseVersion": "2026-shanghai-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "current",
+    "courseChanges": [
+      {
+        "edition": "2026",
+        "observedAt": "2026-11-21",
+        "field": "course",
+        "change": "new-course",
+        "from": "2025-shanghai-official-course",
+        "to": "2026-shanghai-official-course",
+        "sourceRef": "route-shanghai-2026-course-map",
+        "note": {
+          "zh-CN": "官方 2026 路线图与起终点平面图已发布。路线描述新增中共一大会址、龙华寺、龙华烈士陵园；终点写为中山南二路（徐家汇体育公园）；完赛流线从上海体育场4号通道进场、1号通道出场，不再沿用 2025 警方通告的12号门说法。",
+          "en": "The official 2026 course map and start/finish diagrams were published. The course description adds the Site of the First CPC Congress, Longhua Temple and Longhua Martyrs' Cemetery; the finish is given as Zhongshan South 2nd Road (Xujiahui Sports Park); the finish flow enters Shanghai Stadium via Passage 4 and exits via Passage 1, rather than the Gate 12 wording in the 2025 police notice."
+        }
+      }
+    ],
+    "direction": "Point-to-point from the Bund Bull (外滩金牛广场) on Zhongshan East 1st Road to the Xujiahui Sports Park finish on Zhongshan South 2nd Road",
     "distanceMeters": 42195,
-    "distanceMethod": "Official 42.195 km: 2025 competition rules mark 21.0975 km halfway; the 2025 pre-race guide and post-race notice both state 42.195 km; no conflicting distance found.",
+    "distanceMethod": "Official 2026 competition rules and official participant guide both state 42.195 km; the rules mark the half-marathon split at 21.0975 km. No conflicting full-marathon distance found.",
     "elevationGainMeters": null,
     "elevationMethod": null,
     "geometryAccess": "unavailable",
@@ -57,6 +70,6 @@
     "geometrySourceUrl": null,
     "geometryLicense": null,
     "officialGeometryUrl": null,
-    "attribution": null
+    "attribution": "2026 官方路线图与起终点平面图为赛事方版权 JPEG 图件，正文与来源仅外链，不记作可导航轨迹"
   }
 }

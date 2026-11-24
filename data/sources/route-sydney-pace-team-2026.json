@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-sydney-pace-team-2026",
+  "title": "TCS Sydney Marathon 2026 Pace Team",
+  "url": "https://www.tcssydneymarathon.com/tcs-sydney-marathon-pace-team",
+  "publisher": "TCS Sydney Marathon",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2026 Pace Team page lists target finish times from 2:30 to 7:00 and a sweep group covering up to 7 hours.",
+    "Each pacer carries a flag displaying the target finish time.",
+    "Pacers are assigned to the red, green and orange start waves at St Leonards Park, and runners align by bib colour and chute.",
+    "The 2026 Pace Team applications have closed and 2027 applications open in January 2027.",
+    "The page presents the pace groups as an aid to runners, not as an official pace requirement."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "WebFetch 读取 2026 Pace Team 页全文",
+    "note": "页面可读：2:30–7:00 档位、Up to 7 Hrs sweep、目标时间旗、红绿橙起跑波与 2027 申请时间均在正文。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "页面列出 2:30–3:00 至 6:15–7:00 各档，另有 Up to 7 Hrs sweep。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "原文：Each one will carry a flag clearly displaying their target finish time。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "页面写 Red/Green/Orange waves，pacer 按 assembly zone 分配，跑者按 bib 颜色与 chute 对齐。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "原文：2026 applications have closed；2027 will open in January 2027。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "页面称 pace team 用于帮助跑者达到目标，不构成官方配速要求。" }
+  ]
+}

@@ -4,7 +4,7 @@
   "url": "https://www.grandraid-reunion.com/fr/les-courses/la-diagonale-des-fous/",
   "publisher": "Grand Raid de La Réunion",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The 2026 Diagonale des Fous starts on Thursday 15 October 2026 at 22:00 from Ravine Blanche in Saint-Pierre and finishes in Saint-Denis.",
     "The race characteristics block lists Trail XXL, 180 km and 10,200 m of positive gain.",
@@ -14,7 +14,83 @@
     "Pre-race reconnaissance between Bassin Plat and Piton Sec is formally forbidden because the land is private.",
     "Some passages cross private land and are accessible only during the race, and the route may be modified for administrative, practical or path-condition reasons.",
     "The organiser lists ambulance, Croix Blanche, doctor, nurse, physiotherapist, podiatrist, osteopath and rescuer cover.",
-    "The use of any type of trekking pole is formally forbidden under penalty."
+    "The use of any type of trekking pole is formally forbidden under penalty.",
+    "The page introduction describes the race as a challenge not only of distance but of changing weather, difficult terrain and variable altitude, with runners navigating narrow paths, crossing ravines and rivers and climbing peaks, while climate variations can make the route even harder.",
+    "The page introduction states: 'La Diagonale des Fous, une course de trail extrême qui se déroule à La Réunion, incarne l'esprit d'aventure, d'endurance et de défi', and says 'des coureurs du monde entier se rassemblent' each year, 'faisant de cette épreuve un événement emblématique'."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官方路线页正文与 Caractéristiques 栏"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“15/10/26 Ravine Blanche Saint-Pierre / Départ à 22h”；正文写终点 Saint-Denis"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Trail XXL / 180 km / 10200 m D+”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Avec une distance d’environ 180 kilomètres”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Barrière horaire : 66h max / Prix inscription : 260€ / 3000 participants maximum”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Parc National de La Réunion classé au patrimoine mondial de l’UNESCO Pitons, Cirques et Remparts”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“LES RECONNAISSANCES ENTRE BASSIN PLAT ET PITON SEC SONT FORMELLEMENT INTERDITES (terrains privés)”"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Le parcours peut faire l’objet de modifications…”；“Certains passages empruntent des terrains privés et ne sont accessibles qu’au moment de la course”"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Ambulance / Croix Blanche / Médecin, Infirmier, Kiné, Podo, Ostéo, Secouriste”"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“Tout usage d’un bâton, de quelque type que ce soit est formellement interdit sous peine de sanctions”"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "“La Diagonale des Fous n’est pas seulement un défi contre la distance, mais aussi contre les conditions météorologiques changeantes, les terrains difficiles et l’altitude variable. Les coureurs doivent naviguer à travers des sentiers étroits, franchir des ravins, traverser des rivières, et gravir des sommets…”（.agent/diag-course.txt 第 20 行）"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-09",
+      "note": "原文：'La Diagonale des Fous, une course de trail extrême qui se déroule à La Réunion, incarne l’esprit d’aventure, d’endurance et de défi. Chaque année, des coureurs du monde entier se rassemblent pour affronter ce défi audacieux, faisant de cette épreuve un événement emblématique.'（.agent/diag-course.txt 第 18 行）"
+    }
+  ]
 }

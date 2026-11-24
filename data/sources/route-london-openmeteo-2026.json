@@ -12,5 +12,44 @@
     "On 26 April 2026 the grid point records a maximum of 19.5 °C, a minimum of 7.5 °C and 0.0 mm precipitation.",
     "The values are modelled/reanalysis grid data, not measurements at the course."
   ],
-  "license": "CC-BY-4.0"
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL archive-api.open-meteo.com/v1/archive?...19–27 April 2026 → .agent/london35/openmeteo.json",
+    "note": "JSON 返回 9 天网格数据；网格点 51.493847, -0.163025，海拔 16.0 m"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "daily.temperature_2m_max：15.7/13.4/14.2/16.5/18.1/19.2/21.6/19.5/21.7，最小 13.4、最大 21.7、中位 18.1"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "daily.temperature_2m_min：6.4/5.7/5.9/6.6/6.9/4.6/4.6/7.5/7.9，最小 4.6、最大 7.9、中位 6.4"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "daily.precipitation_sum 仅 2026-04-27 为 0.60，其余为 0.00；9 天合计 0.6 mm"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2026-04-26：max 19.5、min 7.5、precip 0.0"
+    },
+    {
+      "index": 4,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "JSON 返回 latitude 51.493847、longitude -0.163025、elevation 16.0，可证网格点；“modelled/reanalysis”与“非赛道实测”未在 JSON 文字中写出，属接口产品定义"
+    }
+  ]
 }

@@ -1,0 +1,31 @@
+{
+  "sourceId": "route-tarawera-gpx-2026",
+  "title": "Tarawera TMiler GPX linked from the 2027 race page — file header and measurement",
+  "url": "https://pdf.utmb.world/raw/upload/v1769550545/tarawera/Races/2026_Tarawera_Ultra_Trail_160km_V5_52f24e574e.gpx",
+  "publisher": "Tarawera Ultra-Trail by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The GPX linked from the 2027 TMiler page has the metadata name and track name '2026 Tarawera Ultra-Trail 160km_V5', was created by Garmin Desktop App, carries a metadata time of 2019-12-18T14:58:00Z, links to gpx.studio, and contains no copyright or licence element.",
+    "The file contains 19,757 track points; the first point carries the time 2019-12-18T14:58:00Z and the last point carries 2025-10-09T07:37:34Z.",
+    "Measured on the same file, the horizontal path is 161.122 km and the three-dimensional path is 162.806 km.",
+    "Raw cumulative positive change is 5,500 m and negative change 5,525 m; applying a 3 m elevation threshold gives 4,555 m and 4,581 m.",
+    "Elevations in the file range from 138.25 m to 730.4 m, within a bounding box of latitude -38.2738 to -38.0787 and longitude 176.2457 to 176.5819.",
+    "The first point is -38.163829, 176.251135 at 310.2 m and the last point is -38.131939, 176.252814 at 285.2 m."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 从 2027 TMiler 页面 HTML 提取 .gpx 链接并下载 3,015,899 字节原始文件；用 .agent/tarawera/gpx.mjs 解析 metadata、trkpt 时间、点数、Haversine 平面与三维长度、原始与 3 m 阈值累计升降、海拔极值与外包框"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "gpx.mjs 输出：creator Garmin Desktop App；metadata 与 trk name 均为 2026 Tarawera Ultra-Trail 160km_V5；time 2019-12-18T14:58:00.000Z；link gpx.studio；无 copyright" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "points 19757；first 与 last 的 time 字段" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "planar_km 161.122；three_km 162.806" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "raw_up 5500 / raw_down 5525；threshold3_up 4555 / threshold3_down 4581" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "ele_min 138.25 / ele_max 730.4；lat 与 lon 极值" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "first 与 last 点坐标与海拔" }
+  ]
+}

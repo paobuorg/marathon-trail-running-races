@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-kodiak-official-100k",
+  "title": "Kodiak 100K — HOKA Kodiak Ultra Marathons by UTMB 2026",
+  "url": "https://kodiak.utmb.world/races/100K",
+  "publisher": "UTMB World Series / HOKA Kodiak Ultra Marathons by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The 100K is 101.1 KM with 3,143 m of gain, starts at The Village of Big Bear Lake on Saturday 10 October 2026 at 06:00 and has a 20-hour-15-minute limit; it carries 6 Running Stones.",
+    "The course uses Big Bear's South Shore trails including Sugarloaf Mountain (9,995 ft) and Skyline Trail.",
+    "The page says the 2026 routes are final and offers a final 2026 GPX file."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取并读取 2026 100K 赛事页。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页头：101.1 KM、Elevation Gain 3143 M+、Saturday 10th October 2026、The Village of Big Bear Lake - 06:00、20 Hours 15 Minutes、Running Stones 6" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "Course Description 段照录 Sugarloaf Mountain and Skyline Trail" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "GPX 段 '2026 ROUTES ARE NOW FINAL' 并给出 Final Course Map GPX" }
+  ]
+}

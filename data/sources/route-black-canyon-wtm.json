@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-black-canyon-wtm",
+  "title": "World Trail Majors — All Races (2026 series)",
+  "url": "https://worldtrailmajors.com/all-races/",
+  "publisher": "World Trail Majors",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "World Trail Majors lists Black Canyon Ultras presented by HOKA as one of its 10 races for the 2026 season, dated 14-15 February 2026.",
+    "The WTM listing describes Black Canyon as two races of 60 and 100 km run simultaneously along trails, tracks and old settler and stagecoach routes across Arizona to Phoenix."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接读取 WTM All Races 页，确认 Black Canyon 在 2026 十站名单内；其 60 km 表述与组委会 50K 口径不一致，正文并列。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页面列出 BLACK CANYON ULTRAS PRESENTED BY HOKA，日期 2026/02/14-15，为十站之一" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：two online tests of 60 and 100 km that are carried out simultaneously...；\"online\" 为页面原文用词，照录" }
+  ]
+}

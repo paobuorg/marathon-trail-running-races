@@ -13,5 +13,50 @@
     "Tokyo Station is served by JR conventional lines and Shinkansen, the Tokyo Metro Marunouchi Line, and the Tozai Line at Otemachi.",
     "Tokyo Station can be reached by car via the Inner Circular Route Yaesu Exit or Gofukubashi Exit."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 https://www.tokyostationcity.com/en/access.html → .agent/tokyo35/station.html",
+    "note": "Tokyo Station City 官方 access 页正文可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Narita Express 约60分；Express Airport Narita 约90分"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Limousine Bus 东京/日本桥方向 约80–110分"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Tokyo Monorail 到 Hamamatsu-cho，换京滨东北线或山手线 约35分"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Limousine Bus 到东京站八重洲南口 约40分"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "JR conventional/Shinkansen、Tokyo Metro Marunouchi Line、Tozai Line at Otemachi"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面另列 car via Inner Circular Route Yaesu Exit / Gofukubashi Exit"
+    }
+  ]
 }

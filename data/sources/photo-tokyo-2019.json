@@ -1,6 +1,6 @@
 {
   "sourceId": "photo-tokyo-2019",
-  "title": "File:Tokyo Marathon 2019 Runner (32321717927).jpg (2026-11-07 check: host unreachable from this network; not re-verified)",
+  "title": "File:Tokyo Marathon 2019 Runner (32321717927).jpg",
   "url": "https://commons.wikimedia.org/wiki/File:Tokyo_Marathon_2019_Runner_(32321717927).jpg",
   "publisher": "Wikimedia Commons",
   "publishedAt": "2019-03-03",
@@ -10,5 +10,32 @@
     "The uploader and author is nakashi from Chofu, Tokyo, credited under CC BY-SA 2.0.",
     "The file is licensed CC BY-SA 2.0 (Creative Commons Attribution-Share Alike 2.0)."
   ],
-  "license": "CC-BY-SA-2.0"
+  "license": "CC-BY-SA-2.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe --proxy local 7890 proxy；Commons action=query imageinfo + w/thumb.php 缩略图",
+    "note": "2026-11-20 经本地 7890 代理读取 Commons 文件页、imageinfo API 与缩略图，确认作者、许可、拍摄日期和画面。此前 blocked 是本机直连不可达，不是文件不存在或没有许可。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    }
+  ]
 }

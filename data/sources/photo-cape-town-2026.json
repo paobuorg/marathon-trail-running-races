@@ -1,6 +1,6 @@
 {
   "sourceId": "photo-cape-town-2026",
-  "title": "File:2026 Cape Town Marathon - Victoria Road 4165.JPG (2026-11-07 check: host unreachable from this network; not re-verified)",
+  "title": "File:2026 Cape Town Marathon - Victoria Road 4165.JPG",
   "url": "https://commons.wikimedia.org/wiki/File:2026_Cape_Town_Marathon_-_Victoria_Road_4165.JPG",
   "publisher": "Wikimedia Commons",
   "publishedAt": "2026-05-24",
@@ -11,5 +11,38 @@
     "The uploader and author is Axxter99, credited as own work.",
     "The file is licensed CC BY-SA 4.0 (Creative Commons Attribution-Share Alike 4.0)."
   ],
-  "license": "CC-BY-SA-4.0"
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe --proxy local 7890 proxy；Commons action=query imageinfo + w/thumb.php 缩略图",
+    "note": "2026-11-20 经本地 7890 代理读取 Commons 文件页、imageinfo API 与缩略图，确认作者、许可、拍摄日期和画面。此前 blocked 是本机直连不可达，不是文件不存在或没有许可。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "2026-11-20 经 7890 代理读取 Commons imageinfo 与缩略图，逐条核对画面、作者或许可。"
+    }
+  ]
 }

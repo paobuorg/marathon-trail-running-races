@@ -1,0 +1,82 @@
+{
+  "sourceId": "route-mtfuji100-gpx",
+  "title": "Mt.FUJI 100 — official FUJI100mi GPX file 26FUJI100mi_ver.1.5.gpx",
+  "url": "https://www.mtfuji100.com/wp-content/themes/utmf/img/course/26FUJI100mi_ver.1.5.gpx",
+  "publisher": "Mt.FUJI100 Executive Committee",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The GPX file is named 26FUJI100mi_ver.1.5.gpx in both the Japanese and English course pages, and the same course page also publishes a detailed map PDF named 26FUJI100MAALL_ver.1.5_.20260416.pdf dated 16 April 2026.",
+    "The file declares GPX 1.1, creator TrailNote, contains no metadata block, no timestamps and no copyright, licence or attribution text, and its single track is named trk1.",
+    "The track has 4,311 points; the first is 35.249981, 138.769272 and the last is 35.455105, 138.768829.",
+    "The file contains ten waypoints named S:KODOMONO KUNI, F1 FUJINOMIYA, F2 FUMOTO, F3 SHOJIKO, F4 FUJIKYU HI-LAND, F5 OSHINO, F6 YAMANAKAO, F7 NIJYUMAGARI, F8 FUJIYOSHIDA and F:FUJISAN MEISUI STADIUM.",
+    "The track measures 163.482 km in two dimensions and 165.364 km in three dimensions by Haversine summation over consecutive points.",
+    "Raw positive elevation change is 8,122 m and becomes 7,777 m when a 3 m threshold is applied; elevation ranges from 486 m to 1,636 m.",
+    "Projecting the ten waypoints onto the track gives cumulative distances of 0.00 km at the start, 25.90 km at F1, 51.73 km at F2, 73.20 km at F3, 96.04 km at F4, 112.17 km at F5, 121.47 km at F6, 133.83 km at F7, 145.11 km at F8 and 163.42 km at the finish.",
+    "The projected gap to the 2026 official aid-station table grows from 0.10 km at F1 to 3.58 km at the finish, and the largest single increase is between F6 and F7, where the projected distance is 2.03 km shorter than the official 136.9 km.",
+    "Trackpoint-only elevation differences give a raw cumulative negative change of 7,953 m over the 4,311 trkpt points; the ten waypoint elevations are excluded, and the high point is 1,636 m. This is a measured value, not an official published descent figure."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 下载文件到 .agent/utmf/，用 Python 正则解析全部 4,311 个 trkpt 与 10 个 wpt；距离为 Haversine 逐点累加，阈值为 3 m；投影距离取轨迹上距 waypoint 最近点；文件无任何许可文本"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "两个语言页面链接的文件名一致；PDF 链接文件名含 20260416"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "文件头 'gpx version=\"1.1\" creator=\"TrailNote\"'；无 <metadata>、无 <time>、无 copyright/licence 字样；trk/name 为 trk1"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "解析结果：points=4311，first=(35.249981, 138.769272)，last=(35.455105, 138.768829)"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "10 个 wpt 的 name 字段逐条抄录"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2D km 163.482；3D km 165.364（Haversine + 高程差）"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "raw gain 8122；thr3 gain 7777；ele min/max 486/1636"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "最近点投影：0.00 / 25.90 / 51.73 / 73.20 / 96.04 / 112.17 / 121.47 / 133.83 / 145.11 / 163.42，距轨迹 3-24 m"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "与 2026 官方表 25.8/52.4/74.0/96.9/113.2/122.5/136.9/148.4/167.0 相减：+0.10/-0.67/-0.80/-0.86/-1.03/-1.03/-3.07/-3.29/-3.58 km；F6→F7 官方 14.4 km、投影 12.36 km"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "仅解析 4,311 个 trkpt 的 ele，排除 10 个 wpt；逐点相减 rawNeg=-7953，max=1636；与 rawPos=8122 同一轨迹序列"
+    }
+  ]
+}

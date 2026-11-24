@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-sdw100-wser-2027",
+  "title": "Qualifying Races — 2027 Race Lottery — Western States Endurance Run",
+  "url": "https://www.wser.org/qualifying-races/",
+  "publisher": "Western States Endurance Run",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The WSER official qualifying-races page states that the events listed are official qualifiers for the 2027 Western States Endurance Run, and that the qualifying run must be run from Monday 3 November 2025 through Sunday 8 November 2026.",
+    "The 2027 lottery table lists 'South Downs Way 100M England 6 2026 30 hours' as an official qualifier."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接抓取并读取该页。表格列为 Run / Distance / State-Country / Month / Year / Time / Notes；South Downs 行的月份为 6、年份 2026、时限 30 hours。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "正文：'Events below are official qualifiers for the 2027 Western States Endurance Run. The 2027 qualifying run must be run from Monday November 3, 2025 through Sunday November 8, 2026.'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "表格行原文：'South Downs Way 100M England 6 2026 30 hours'" }
+  ]
+}

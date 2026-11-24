@@ -1,0 +1,55 @@
+{
+  "sourceId": "route-tds-transport-courmayeur",
+  "title": "How to get to Courmayeur?",
+  "url": "https://montblanc.utmb.world/discover/transportation/courmayeur",
+  "publisher": "UTMB Mont-Blanc",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "A public bus connects Chamonix and Courmayeur in both directions, operated by Flixbus and Arriva; the page recommends public transport over driving into Courmayeur.",
+    "Turin Caselle airport is about 150 km from Courmayeur, Geneva about 115 km and Milan Malpensa about 212 km.",
+    "From Geneva airport, a Flixbus service runs directly to Courmayeur; from Turin or Milan, the suggested route is train to Aosta and then bus to Courmayeur.",
+    "Aosta is connected directly to Turin Porta Nuova and Turin Porta Susa in under 120 minutes; Milan to Aosta takes about 180 minutes with a change at Chivasso.",
+    "Until 13 December 2026, the rail service between Ivrea and Aosta is suspended and replaced by buses due to electrification works."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch",
+    "note": "Official UTMB transport page for Courmayeur read."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Train and Bus section: Chamonix public bus; 'strongly advise against using a car'."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Plane section: Turin ~150 km, Geneva ~115 km, Milan Malpensa ~212 km."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Airport connections section."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Train and Bus section: Turin under 120 minutes; Milan approximately 180 minutes via Chivasso."
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Explicit note: railway electrification works until 13 December 2026, Ivrea–Aosta replaced by buses."
+    }
+  ]
+}

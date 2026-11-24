@@ -14,5 +14,56 @@
     "The Run Director may select six additional runners for 2026, evenly split between men and women.",
     "The lottery is normally conducted at the beginning of December."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "官方页面直读",
+    "note": "Lottery 页可读"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Lottery Process 第 1 段：about 3000 applicants"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Lottery Process 第 1 段：December 6, 2025 lottery…147 entrants, split 64/83"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Gender Policy 段：For 2026, this is 22.2%…not be less than the percentage of applicants"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Never Finished 段：2^N tickets…previous DNSs since the applicant last started Hardrock"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Finished 段：one ticket just for applying；additional for each finish；one for each DNS"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Conduct of the Lottery 段：In 2026, six such runners…evenly split between men and women"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Conduct of the Lottery 段首：normally conducted at the beginning of December"
+    }
+  ]
 }

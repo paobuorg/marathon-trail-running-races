@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-qmt-faq",
+  "title": "Québec Mega Trail — FAQ",
+  "url": "https://ultratrailcanada.com/en/infos/faq/",
+  "publisher": "Québec Mega Trail / Ultra-Trail Canada",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The FAQ states that the information displayed refers to the 2027 edition.",
+    "Only QMT135 entrants must undergo a mandatory gear check before the start; other races face random checks on course.",
+    "Poles are allowed except in the Mestachibo section of the 135 km, 80 km and 50 km races, must be carried for the whole race and may not be placed in drop bags.",
+    "There is no waiting list; places freed by cancellations and refunds are released in batches after the 16 December, 16 March and 16 May refund deadlines.",
+    "Bib transfers are no longer allowed.",
+    "Pacers are accepted only on QMT135; a pacer bib costs CAD 10 in cash, can be bought online at runreg.com/qmt2026 or on site, and pacers must carry the same mandatory gear as the runner.",
+    "The FAQ directs runners looking for KML or GPS files to the bottom of the Course Map section on the race page.",
+    "The FAQ links the 2027 registration page to raceroster.com/events/2027/130223/quebec-mega-trail."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接读取英文 FAQ 全文。法文版本次抓取被站点自动验证拦截，未读。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页首：The information displayed refers to the 2027 edition and is updated periodically" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Will there be a mandatory equipment check-up? Yes, but only for the QMT135" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Are poles allowed during the race? 除 Mestachibo 段（135/80/50 km）外允许；不得中途取放或放入 drop bag" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "No waitlist；released in batches following each refund deadline: December 16, March 16, and May 16" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "we no longer allow bib transfers" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "pacer 段：CAD 10 cash only；Online on our registration platform（链接 runreg.com/qmt2026）；same mandatory gear as the runner" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "I'm looking for the GPS coordinates of your tracks：See the bottom of the “Course Map” section on your race page" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "check the registration page，链接 raceroster.com/events/2027/130223/quebec-mega-trail?locale=en_CA" }
+  ]
+}

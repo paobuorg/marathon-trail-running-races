@@ -12,5 +12,44 @@
     "Road closures and traffic restrictions apply on race day.",
     "The page was updated on 2 March 2026 and states that the 2026 edition has already taken place."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 https://www.gotokyo.org/en/spot/ev161/index.html → .agent/tokyo35/access.html",
+    "note": "GO TOKYO 页面正文可读，更新日 2026-03-02，注明 2026 届已举行。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文「Tochomae Station｜Exit A4｜1 min on foot」＋Toei Oedo Line"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文 Area from Tokyo Metropolitan Government Building to Gyoko-dori Avenue"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文 2026-3-1、39,000 runners、full marathon and 10.7 km"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文「road closures and traffic restrictions in place」"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文 Updated: March 2, 2026 与「The 2026 installment…has already taken place」"
+    }
+  ]
 }

@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-wildstrubel-official-registration",
+  "title": "Registration conditions — Wildstrubel by UTMB 2027",
+  "url": "https://wildstrubel.utmb.world/races-runners/other-information/registration-conditions",
+  "publisher": "UTMB World Series / Wildstrubel by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "Registration for 2027 opens on 17 November 2026 at 10:00 Swiss time for runners with a valid UTMB Index and on 19 November 2026 at 10:00 for everyone, first come first served, with no lottery and no waiting list.",
+    "The Wild 110 entry fee is CHF 220–275 plus an 8% administration fee; the minimum age is 18 (born in 2008 or earlier).",
+    "The fee includes the bib, timing, participant gifts, aid-station access, drop-bag transport for Wild 110, medical assistance and after-race services.",
+    "The page header says '09–12 September 2027', while the race page gives a Friday 10 September 2027 start and the races page lists 10–12 September.",
+    "The page calls the 55 km race 'Wild 50', while the races page and race page call it 'Wild 55'."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取并读取 2027 报名条件页。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页面原文：November 17, 2026, 10:00 AM priority；November 19, 2026, 10:00 AM general；without pre-registration and lottery；no waiting list" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "ENTRY FEES 段：Wild 110 from CHF 220 to CHF 275；'additional 8% administration fee'；MINIMUM AGE 段：born in 2008 (18 years old) or before" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "WHAT IS INCLUDED 段逐项照录" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "页头 '09 - 12 September 2027'；Wild 110 页 Start Date Friday 10th September 2027；races 页 10–12" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-09", "note": "报名页年龄表与费用表均写 Wild 50；races 页与赛事页写 Wild 55" }
+  ]
+}

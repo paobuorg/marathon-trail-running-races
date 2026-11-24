@@ -1,0 +1,55 @@
+{
+  "sourceId": "route-buenosaires-participation-2026",
+  "title": "Maratón de Buenos Aires 2026: 16,384 runners from 64 countries — Infobae",
+  "url": "https://www.infobae.com/tendencias/2026/09/20/maraton-de-buenos-aires-2026-a-que-hora-larga-el-recorrido-y-los-favoritos-de-la-carrera/",
+  "publisher": "Infobae",
+  "publishedAt": "2026-09-20",
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "Infobae reports 16,384 runners from 64 countries in the 2026 Maratón de Buenos Aires.",
+    "The race started at 07:00 at the intersection of Avenida Presidente Figueroa Alcorta and Dorrego in Palermo.",
+    "The course passed Recoleta, the Obelisco, Casa Rosada and Puerto Madero, among other landmarks.",
+    "Infobae reports Bethwel Kibet Chumba as men's winner in 2:08:28 and Rebecca Kangogo Chesir as women's winner in 2:23:36, a new course record.",
+    "Infobae is a media report, not the official result system; its times are cross-checked against World Athletics where possible."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch",
+    "note": "Media article read; participation and course description are used as media-reported context."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Article text: 16.384 corredores de 64 países."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Largada 7 en Figueroa Alcorta y Dorrego."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Article names Recoleta, Obelisco, Casa Rosada, Puerto Madero."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Winner times in article; cross-checked with World Athletics result page."
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Site identity and caveat added by this site."
+    }
+  ]
+}

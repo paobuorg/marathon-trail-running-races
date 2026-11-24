@@ -1,0 +1,61 @@
+{
+  "entityId": "route:gaoligong-mgu",
+  "slug": "gaoligong-mgu",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-mgu-2026-rules",
+    "route-mgu-tengchong-gov-2026",
+    "route-mgu-place-geocoding",
+    "route-mgu-openmeteo",
+    "route-mgu-transport",
+    "route-mgu-results-2026",
+    "photo-gaoligong-range",
+    "photo-gaoligong-tengchong-dawn",
+    "photo-gaoligong-heshun-town"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:recovery-day",
+    "tool:track-view",
+    "tool:splits",
+    "route:utnh"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-09",
+  "updatedAt": "2026-11-24",
+  "reviewedAt": "2026-11-24",
+  "reviewDueAt": "2027-03-04",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "CN"
+    ],
+    "placeName": {
+      "zh-CN": "中国云南省腾冲市（砚湖公园至和顺古镇双虹桥）",
+      "en": "Tengchong, Yunnan, China (Yanhu Park to Shuanghong Bridge, Heshun Ancient Town)"
+    },
+    "mapAnchor": {
+      "longitude": 98.51276,
+      "latitude": 24.99492,
+      "kind": "start",
+      "sourceRef": "route-mgu-place-geocoding"
+    },
+    "courseVersion": "2026-mgu-168k",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [],
+    "direction": "Point-to-point from Yanhu Park in Tengchong to Shuanghong Bridge in Heshun Ancient Town, crossing the Gaoligong foothills",
+    "distanceMeters": 168000,
+    "distanceMethod": "The 2026 official regulations give 168 km (approx.), 8,540 m of cumulative ascent and 8,550 m of cumulative descent. The distance is an official approximation, not a survey measurement.",
+    "elevationGainMeters": 8540,
+    "elevationMethod": "The 2026 official regulations give 8,540 m cumulative ascent and 8,550 m cumulative descent for MGU. No per-checkpoint elevation table was obtained.",
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": "http://mgu.saihuitong.com/m/text?mid=32223",
+    "attribution": "2026 ANTA GUANJUN Tengchong Gaoligong Ultra / 腾冲市教育体育局、高黎贡山国家级自然保护区保山管护局等主办，北京行知探索文化发展集团运营。The regulations require every MGU runner to download the GPX track onto a phone, but no public GPX download link, licence or copyright statement was found. This site therefore draws no track, hosts no file, and uses a town-level map anchor rather than an official start-line coordinate."
+  }
+}

@@ -19,5 +19,86 @@
     "Runners may not take a vehicle ride that advances their progress; they may rest in a stationary vehicle after checking into an aid station.",
     "Runners who drop must inform the nearest Aid Station Captain, have their ID bracelet cut and return the GPS tracker."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "官方页面直读",
+    "note": "规则摘要页可读"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "规则 1 No Muling"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "规则 2：leave each aid station by the posted Cut-Off time"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "规则 3：no stashing…within 400 yards of a designated aid station"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "规则 4：agree to be pulled for medical and safety reasons"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "规则 5：Aid Station Captains have the authority to act on behalf of run management"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "规则 6：only one pacer…Pacers may meet their runners at crew access aid stations only"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "规则 7：course closed…no cutting of switchbacks…must backtrack"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "规则 8：Service Requirement prior to the run’s start"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "规则 9：run-provided GPS Tracking device"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "规则 10：responsible and accountable for the actions of their crews/pacers"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "规则 11：not allowed to take a ride…rest in a stationary vehicle"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "规则 12：inform the nearest Aid Station Captain…cut off the ID bracelet…turn in GPS tracker"
+    }
+  ]
 }

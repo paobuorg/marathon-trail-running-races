@@ -1,0 +1,55 @@
+{
+  "sourceId": "route-tds-2026",
+  "title": "TDS — official race page (2026 edition)",
+  "url": "https://montblanc.utmb.world/en/races/tds",
+  "publisher": "UTMB Mont-Blanc / UTMB World Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "The 2026 TDS starts in Courmayeur on Monday 24 August 2026 at 23:50 and finishes in Chamonix.",
+    "The official TDS stat block lists 145 km, 9,500 m of positive gain and 4 Running Stones.",
+    "The maximum allowed race time is 44 hours 55 minutes.",
+    "The official page describes a route through the Beaufortain massif and Hauteluce, including Fort de la Platte, Cormet de Roselend, Passeur de Pralognan and Col Chavannes.",
+    "The official page says the 2027 edition is in preparation at the time of access."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch + saved HTML",
+    "note": "Official English page read; stat block, date, start time, time limit and 2027 notice are in the page body."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Start Date: Monday 24 August 2026; Race Start: Courmayeur - 23:50; finish: Chamonix."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Stat block: 145 KM / 9,500 M+ / 4 Running Stones."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Max Allowed Race Time: 44 Hours 55 Minutes."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Course description names Beaufortain, Hauteluce, Fort de la Platte, Cormet de Roselend, Passeur de Pralognan and Col Chavannes."
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Page banner says the 2027 edition is being prepared."
+    }
+  ]
+}

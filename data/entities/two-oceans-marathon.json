@@ -1,0 +1,63 @@
+{
+  "entityId": "route:two-oceans-marathon",
+  "slug": "two-oceans-marathon",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-two-oceans-ultra-page",
+    "route-two-oceans-faqs",
+    "route-two-oceans-rules-2026",
+    "route-two-oceans-weather",
+    "route-two-oceans-place-geocoding",
+    "route-two-oceans-results-2026",
+    "photo-two-oceans-finish-2007",
+    "route-two-oceans-history",
+    "route-two-oceans-2026-recap",
+    "route-two-oceans-2026-route-map"
+  ],
+  "relatedRefs": [
+    "knowledge:heat-and-humidity",
+    "knowledge:hydration",
+    "knowledge:long-run-fueling",
+    "knowledge:race-day-pacing",
+    "tool:pace",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-21",
+  "reviewedAt": "2026-11-21",
+  "reviewDueAt": "2027-04-30",
+  "details": {
+    "raceType": "road-ultra",
+    "countryCodes": [
+      "ZA"
+    ],
+    "placeName": {
+      "zh-CN": "南非西开普省开普敦，纽兰兹至龙德博斯",
+      "en": "Newlands to Rondebosch, Cape Town, Western Cape, South Africa"
+    },
+    "mapAnchor": {
+      "longitude": 18.4481,
+      "latitude": -33.97846,
+      "kind": "start",
+      "sourceRef": "route-two-oceans-place-geocoding"
+    },
+    "courseVersion": "2027-two-oceans-56k",
+    "courseEdition": "2027",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "Newlands Main Road → UCT Rugby Fields; 05:15 batch start",
+    "distanceMeters": 56000,
+    "distanceMethod": "The official 2027 Ultra Marathon page states the distance as 56 km. No separately measured distance to the metre is published.",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "Two Oceans Marathon NPC. The 2027 Ultra Marathon page publishes the start, finish, distance, entry fees, prize money and named route areas but no GPX file and no track-reuse licence, and says a detailed 2027 route map will be made available before the race. The same page also links a static 2026 56 km route-map PDF with an elevation profile; this site links that prior-edition sheet as a reference and does not treat it as 2027 geometry. This site does not draw the course, does not host a track and leaves elevation unknown; a third-party race recap estimates about 700 m of gain in the second half and is labelled as third-party in the body."
+  }
+}

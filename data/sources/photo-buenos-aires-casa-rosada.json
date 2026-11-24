@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-buenos-aires-casa-rosada",
+  "title": "File:Casa Rosada, Buenos Aires 2012-05-22 01.JPG",
+  "url": "https://commons.wikimedia.org/wiki/File:Casa_Rosada,_Buenos_Aires_2012-05-22_01.JPG",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2012-05-22",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "The photograph shows the full pink facade of the Casa Rosada across the Plaza de Mayo side, with its central arch, balconies, fence, street furniture and pedestrians; it is a city landmark view, not a race arch, timing mat, aid station, closed course or race-day crowd.",
+    "The file page identifies the subject as the Casa Rosada in Buenos Aires; it gives no camera coordinate, so the route page records only the landmark named by the file page and does not infer a precise shooting point on the race course.",
+    "The author is Anastasiya Lvova; the file is licensed CC BY 3.0; the photograph was taken on 2012-05-22 at 20:20:40; the original is 3,456 x 2,304 pixels and 3,640,849 bytes.",
+    "The route page uses a 960 x 640 copy of 173,274 bytes without cropping or colour change and credits Anastasiya Lvova, CC BY 3.0, Wikimedia Commons; the resized copy keeps the same licence."
+  ],
+  "license": "CC-BY-3.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons file page, imageinfo API and downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons 文件页与 API 核对作者、许可、日期和原图尺寸，并下载 960 px 副本目视确认：画面是 Casa Rosada 与五月广场侧的城市环境，不是 2026 赛日现场；文件页未给相机坐标。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地副本可见粉色总统府立面、中央拱、阳台、铁栏、铺砖地面与行人；没有号码布、拱门、补给桌、计时毯、封路或赛日人群。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons 标题与描述写明 Casa Rosada, Buenos Aires；文件页没有坐标，正文不推断具体拍摄点，只把它作为路线经过的地标。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "imageinfo：Artist Anastasiya Lvova；LicenseShortName CC BY 3.0；DateTimeOriginal 2012-05-22 20:20:40；3,456 x 2,304、3,640,849 字节。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 x 640、173,274 字节；未裁剪、未改色；页面署名 Anastasiya Lvova、CC BY 3.0、Wikimedia Commons。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "sourceId": "photo-sierre-zinal-2022",
+  "title": "File:Kílian Jornet - Sierre-Zinal 2022.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:K%C3%ADlian_Jornet_-_Sierre-Zinal_2022.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2022-08-13",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The file shows Kílian Jornet running on the course at Sierre-Zinal 2022.",
+    "The author and uploader is Christian David, credited as own work.",
+    "The file is licensed CC BY-SA 4.0."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe + local 7890 proxy; Commons action=query imageinfo and w/thumb.php",
+    "note": "2026-11-20 经代理读取 Commons 文件页、imageinfo API 与 1400 px 缩略图，逐项核对作者、许可、日期、画面。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "画面为砾石路上的 Jornet 奔跑；文件描述 'Kílian Jornet lors de Sierre-Zinal 2022'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "Commons Artist：Christian David；Credit：Own work。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "Commons LicenseShortName：CC BY-SA 4.0。" }
+  ]
+}

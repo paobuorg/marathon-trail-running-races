@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-canyons-official-100k",
+  "title": "Canyons 100K — Canyons Endurance Runs by UTMB 2027",
+  "url": "https://canyons.utmb.world/races/100K",
+  "publisher": "UTMB World Series / Canyons Endurance Runs by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 100K is 100 KM with 3,750 m of gain, starts at China Wall Trailhead on Saturday 24 April 2027 at 05:00 and has a 20-hour limit; it carries 6 Running Stones and lists Finals Access 100k-direct-entry-major. The English locale displays 62.1 miles and 12,303 ft+.",
+    "The course description says the route has approximately 13,000 ft of gain and 17,000 ft of descent, while the header gives 3,750 m+ (about 12,303 ft).",
+    "The 2027 page states that its GPX file and aid-station chart are the 2026 versions and are subject to change for 2027; the GPX link returned HTTP 200 and 333,185 bytes and was downloaded on 2026-11-20 for local measurement, not redistribution.",
+    "The route runs from China Wall via Mitchell Mine Rd and Eldorado Canyon to Deadwood, Swinging Bridge, Devil's Thumb, Michigan Bluff, Volcano Canyon, Foresthill, Cal Street, the American River, Drivers Flat, Mammoth Bar, Confluence, No Hands Bridge and Robie Point to downtown Auburn.",
+    "The 2026 100K aid chart lists drop bags at Foresthill and Drivers Flat and crew access at Deadwood-2, Michigan Bluff and Foresthill; Swinging Bridge is marked N/A with no aid."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 重新读取 2027 100K 赛事页，核对英/法/西语页头的单位本地化、Running Stones、GPX 与补给表说明。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "法语/西语页头：Distance 100 KM、Elevation Gain 3750 M+、Running Stones 6、Finals Access 100k-direct-entry-major；英文页头显示 62.1 Miles / 12303 ft+；Start Date Saturday 24th April 2027、China Wall Trailhead 05:00、Max Allowed Race Time 20 Hours。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "路线段原文 'Approximately 13,000 feet of vert, 17,000 feet of descent'；页头 +3,750 m 约合 12,303 ft。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "GPX 段与 Aid Station Chart 段均写 '2026 ... subject to change for 2027'；GPX 直链 HEAD 返回 HTTP 200、Content-Length 333185；2026-11-20 下载用于本地测量。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "Course Description 段逐段照录。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "2026 公制补给表 Drop Bags 列在 Foresthill、Drivers Flat 标 X；Crew 列在 Deadwood-2、Michigan Bluff、Foresthill 标 X；Swinging Bridge 行 AS Label 为 N/A。" }
+  ]
+}

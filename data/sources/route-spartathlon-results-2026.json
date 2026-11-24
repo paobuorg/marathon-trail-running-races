@@ -1,0 +1,55 @@
+{
+  "sourceId": "route-spartathlon-results-2026",
+  "title": "Spartathlon 2026 — Race View results",
+  "url": "https://www.spartathlon.gr/en/spartathlon/race/view/2026",
+  "publisher": "International Spartathlon Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "The official 2026 results page ends with finisher number 279, confirming 279 official finishers.",
+    "The top three men are Tamás Bódis (HUN) in 19:40:51, Fotis Zisimopoulos (GRE) in 20:32:41 and Tomi Ronkainen (FIN) in 21:26:36.",
+    "The top three women are Despoina Simantrakou (GRE) in 24:45:43, Radka Churaňová (CZE) in 26:05:56 and Lemonia Panagiotou (GRE) in 26:58:04.",
+    "The results page lists Simantrakou's finishing clock time as 27/09/2026 07:45:43, i.e. 24:45:43 after the 07:00 start.",
+    "The results page does not label Bódis's 19:40:51 as an official course record; media reports describe it as a record, but that is not an official page claim."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch",
+    "note": "Official race result page read."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Final listed finisher row: 279."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Cards table ranks 1–3."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Women's rows: rank 13 Simantrakou 24:45:43; rank 18 Churaňová 26:05:56; rank 31 Panagiotou 26:58:04."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Finish time 27/09/2026 07:45:43; start 07:00:03/07:00."
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Results page shows time only; no 'course record' label."
+    }
+  ]
+}

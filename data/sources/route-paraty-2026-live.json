@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-paraty-2026-live",
+  "title": "UTMB Live — Paraty Brazil by UTMB 2026, PTR 108",
+  "url": "https://live.utmb.world/en/paraty/2026",
+  "publisher": "UTMB World Series / UTMB Live",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2026 Paraty Brazil by UTMB was held on 17–20 September 2026; the PTR 108 started on 18 September at 19:00 and recorded 285 starters, 61 DNF and 224 finishers.",
+    "The 2026 PTR 108 live header listed 67.1 miles (108 km nominal), 15,912 ft+ and 3 Running Stones.",
+    "The 2026 PTR 108 top three men were Rogério Silvestrin, Rodrigo Machado Oliveira and Paulo Galvao; the top three women were Juliana Stolarski Uavnizack, Mariana Scarpelli and Lilian Schiffer."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 直接读取 UTMB Live 2026 Paraty 页面，核对赛期、PTR 108 起跑、距离、爬升、人数与前三名。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "页面：Paraty, Brazil 17–20 September 2026；PTR 108 September 18, 26 06:59 PM；Starters 285 / DNF 61 / Finishers 224。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "PTR 108 模块：Distance 67.1 Miles；Elevation 15,912 ft+；Running Stones 3。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "TOP 3 Men：Rogério SILVESTRIN、Rodrigo MACHADO OLIVEIRA、Paulo GALVAO；TOP 3 Women：Juliana STOLARSKI UAVNIZACK、Mariana SCARPELLI、Lilian SCHIFFER。" }
+  ]
+}

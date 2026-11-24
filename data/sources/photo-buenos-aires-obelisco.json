@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-buenos-aires-obelisco",
+  "title": "File:ObeliscoBA2015.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:ObeliscoBA2015.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2015-10-13",
+  "accessedAt": "2026-11-24",
+  "claims": [
+    "The photograph shows the Obelisco de Buenos Aires as a tall white obelisk in a landscaped plaza, with the Avenida 9 de Julio traffic, buildings, a flag and pedestrians around it; it is a city landmark view, not a race arch, timing mat, aid station, closed course or race-day crowd.",
+    "The file page identifies the subject as the Obelisco de Buenos Aires and places the camera at 34.604866 S, 58.381538 W; the route page uses the photograph only as the landmark that the 2026 route passes near, not as proof of the race route or race-day conditions.",
+    "The author is Sebastianalmaraz; the file is licensed CC BY-SA 4.0; the photograph was taken on 2015-10-13 at 18:21:05; the original is 3,264 x 2,448 pixels and 2,447,250 bytes; the camera location is 34.604866 S, 58.381538 W.",
+    "The route page uses a 960 x 720 copy of 201,085 bytes without cropping or colour change and credits Sebastianalmaraz, CC BY-SA 4.0, Wikimedia Commons; the resized copy keeps the same licence."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-24",
+    "checkedVia": "Commons file page, imageinfo API and downloaded 960 px copy inspection",
+    "note": "2026-11-24 通过 Commons 文件页与 API 核对作者、许可、日期、原图尺寸与相机坐标，并下载 960 px 副本目视确认：画面是方尖碑与 9 de Julio 周边城市环境，不是 2026 赛日现场。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地副本可见白色方尖碑、绿化带、车道、周边建筑、旗杆与行人；没有号码布、拱门、补给桌、计时毯、封路或赛日人群。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "Commons 文件页描述为 Obelisco de Buenos Aires，并给出相机位置 34.604866 S, 58.381538 W；正文只把照片当路线经过的地标。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "imageinfo：Artist Sebastianalmaraz；LicenseShortName CC BY-SA 4.0；DateTimeOriginal 2015-10-13 18:21:05；3,264 x 2,448、2,447,250 字节；GPS -34.604866 / -58.381538。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-24",
+      "note": "本地文件 960 x 720、201,085 字节；未裁剪、未改色；页面署名 Sebastianalmaraz、CC BY-SA 4.0、Wikimedia Commons。"
+    }
+  ]
+}

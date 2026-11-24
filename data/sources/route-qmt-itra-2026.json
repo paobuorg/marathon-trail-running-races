@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-qmt-itra-2026",
+  "title": "ITRA — Quebec Mega Trail 135 km, 2026",
+  "url": "https://itra.run/Races/RaceDetails/Quebec.Mega.Trail.135.km/2026/117504",
+  "publisher": "International Trail Running Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "ITRA's 2026 QMT135 entry gives a race date of 2026/07/03, a 20:00 start, 133.74 km, +5,530 m, −5,359 m, a 30-hour time limit, 10 aid stations and 300 participants.",
+    "The same ITRA page's About the Race text describes a 160 km race, 39 hours and up to three pacers, contradicting its own course details.",
+    "ITRA gives the 135 km race mountain level 5 and finisher level 450."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接读取 ITRA 赛事页。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Course details：Race Date 2026/07/03；Start Time 20:00:00；Distance 133.74；Elevation Gain +5530；Loss -5359；Time Limit 30:0:0；Aid Stations 10；Participants 300" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "About the Race：160 km；trente-neuf heures / 39 hours；up to three pacers，与同一页 Course details 冲突" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Mountain Level 5；Finisher Level 450" }
+  ]
+}

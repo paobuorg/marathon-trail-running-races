@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-kodiak-rd-course-notes-2026",
+  "title": "Kodiak 2026 — RD course notes",
+  "url": "https://kodiak.utmb.world/rd-course-notes",
+  "publisher": "HOKA Kodiak Ultra Marathons by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The race director's course notes say the Sugarloaf Aid Station for the 100M and 100K will be relocated 0.5 miles from its original location because of a sensitive species in the area.",
+    "The notes say the 100K overall cut-off has been extended to 02:15 on Sunday, 11 October, because of an increase in mileage of about one mile.",
+    "The notes say the Cactus Flats crew location has been removed, with no crew or pacers allowed at Cactus Flats.",
+    "The notes say the final descent now comes down the Going Green trail after the top of Snow Summit, where it previously came down Knickerbocker (2N08).",
+    "The notes say a new hydration station called Grandview has been added."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 通过 WebFetch 直接读取官方 RD Course Notes 页全文。页面未标发布日期，内容以 2026 届（10 月 11 日为周日）为准。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：Due to a sensitive species in the area, the Sugarloaf Aid Station (100M & 100K) will be relocated 0.5 miles from the original location." },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：The 100K overall race cutoff time has been extended to 2:15AM Sunday, Oct 11 due to an increase in mileage (approx. 1 mile)." },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：Cactus Flats crew location has been removed. No crew or pacers at Cactus Flats." },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：Finish: the final descent now comes down Going Green trail after the top of Snow Summit (previously Knickerbocker, 2N08 if you ran the race before)." },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-09", "note": "原文：New this year: we've added a hydration station (called Grandview)." }
+  ]
+}

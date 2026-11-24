@@ -19,5 +19,86 @@
     "A dedicated sensory space offers a low-stimulation environment before the race.",
     "The NYRR Pace Team has an average 96% success rate of hitting target finish times and leads groups from 6:40 to 14:18 per mile, between 2:55 and 6:15 finishes."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 prod.nyrr.org/tcsnycmarathon/the-start",
+    "note": "起点页全文可读，含时间表、波次、厕所、补给、哺乳、ASL 与 Pace Team"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Start Timeline：8:00 men’s pro wheelchair、8:02 women’s pro wheelchair、8:22 handcycles/select AWD、8:35 pro women、9:05 pro men。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：mass waves 9:10、9:45、10:20、10:55、11:30（waves 1–5）。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Wave/Corral 段：可 move to a later wave，不可 earlier/faster。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Timing 段：finish time 为 net time，从 cross the start line 起算。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Start Village 段：only registered entrants and guides；race numbers visible；bag colours indicate village。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：“more than 1,600 toilets in the start villages and corrals”。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Amenities 段：Gatorade、Dunkin’ coffee、tea、hot cocoa、bagels while supplies last。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：advises extra layers；labelled clothing-donation bins。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Accessibility 段：lactation spaces in start village；breast pumps transported from start to finish lactation tents。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：ASL interpreters in AWD tent and general start village，5:00 a.m.–11:30 a.m.。"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "同段：dedicated sensory space，low-stimulation environment。"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Pace Team 段：96% success rate；6:40–14:18 per mile；2:55–6:15 finishes。"
+    }
+  ]
 }

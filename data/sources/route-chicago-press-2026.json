@@ -15,5 +15,22 @@
     "The men's course record is given as 2:00:35, set by the late Kelvin Kiptum.",
     "The 2027 race is scheduled for Sunday 10 October 2027 and will host the 2027 USATF Marathon Championships."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 下载官方新闻稿PDF，PyMuPDF 提取全文 → .agent/chicago-beijing35/chicago-press2026.txt",
+    "note": "新闻稿PDF正文可读；成绩、纪录与2027赛期均逐句核对；轮椅赛道纪录原文前后不一致"
+  },
+  "claimVerification": [
+    {"index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "PDF：48th；Sunday, October 11, 2026；more than 54,000 participants；29 neighborhoods"},
+    {"index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Kipruto 2:01:09；Bikila 2:02:56；Mengesha 2:03:46"},
+    {"index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Feysa 2:13:33；Lokedi 2:14:07；Kosgei 2:14:55"},
+    {"index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Hurley 2:20:47为美国女子最快首马；Young 2:05:23为美国男子第一"},
+    {"index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "DeBrunner以1:33:16获女子轮椅冠军并创世界纪录"},
+    {"index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "摘要写1:21:34，正文写1:21:24，claim准确指出原文自相矛盾"},
+    {"index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "男子赛道纪录2:00:35，由已故Kelvin Kiptum保持"},
+    {"index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "2027年10月10日（星期日）举行，并承办2027 USATF马拉松锦标赛"}
+  ]
 }

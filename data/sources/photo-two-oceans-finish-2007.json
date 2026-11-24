@@ -1,0 +1,26 @@
+{
+  "sourceId": "photo-two-oceans-finish-2007",
+  "title": "File:TwoOceansFinish.JPG",
+  "url": "https://commons.wikimedia.org/wiki/File:TwoOceansFinish.JPG",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2007-04-07",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The file shows the finish of the Two Oceans Marathon at the University of Cape Town in 2007.",
+    "The author and uploader is User:Zaian, credited as own work by the original uploader.",
+    "The file is in the public domain."
+  ],
+  "license": "Public-Domain",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe + local 7890 proxy; Commons action=query imageinfo and w/thumb.php",
+    "note": "2026-11-20 经代理读取 Commons 文件页、imageinfo API 与 1400 px 缩略图，逐项核对作者、许可、日期、画面。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "画面为 UCT 草坪终点通道、终点拱门与跑者，文件描述写明 2007 年 Two Oceans 终点。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "Commons Artist：User:Zaian；Credit：own work by the original uploader。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "Commons LicenseShortName：Public domain。" }
+  ]
+}

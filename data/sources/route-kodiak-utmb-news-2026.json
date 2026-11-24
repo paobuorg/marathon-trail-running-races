@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-kodiak-utmb-news-2026",
+  "title": "HOKA Kodiak Ultra Marathons by UTMB returns for a second edition as a UTMB World Series Major",
+  "url": "https://utmb.world/news/KODIAK-2026",
+  "publisher": "UTMB World Series",
+  "publishedAt": "2026-10-07",
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The 2026 event was the 13th edition and the second as a UTMB World Series Major in the Americas, held from 8 to 11 October 2026.",
+    "The organiser expected nearly 2,700 participants and six race formats: 10K, 20K, 50K, 100K, 100M and a kids' race; 33% of participants were women.",
+    "The 2026 Major awarded 210 automatic qualification places for the 2027 UTMB World Series Finals across the 50K, 100K and 100M, gave double Running Stones and carried 20 anti-doping tests."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取 UTMB 官方赛前新闻稿。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "原文 'For its 13th edition - its 2nd as a UTMB World Series Major in the Americas - the event returns from 8-11 October 2026'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "原文 'nearly 2,700 participants and six race formats (10K, 20K, 50K, 100K, 100M and a kids' race)'；'women making up 33%'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "原文 '210 automatic qualification spots for the 2027 UTMB World Series Finals'、'double the amount of Running Stones'、'20 tests'" }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "sourceId": "route-antarctic-event",
+  "title": "Antarctic Ice Marathon — Event page",
+  "url": "https://www.icemarathon.com/event",
+  "publisher": "Antarctic Ice Marathon / Runbuk",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "The race is held in the interior of Antarctica at Union Glacier, not on King George Island outside the Antarctic Circle.",
+    "Underfoot conditions are snow and ice throughout; the average windchill is about -20 °C; katabatic winds can blow at 10–25 knots; the event is at about 700 m altitude.",
+    "No penguins live this far south and there are no crowds cheering on the route.",
+    "The event is a member of the Association of International Marathons and Distance Races and is recognised by Guinness World Records as the southernmost marathon on Earth.",
+    "The race was initially operated at Patriot Hills and moved to Union Glacier in 2010; there have been 20 Antarctic Ice Marathon races to date.",
+    "The current event page lists the men's marathon record as 2:53:33 (Sean Tobin, 2022) and the women's marathon record as 3:29:16 (Liesl Muehlhauser, 2024)."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch",
+    "note": "Official event page read."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Opening paragraph: interior of Antarctica, not King George Island."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Opening paragraph and Summary Facts."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Opening paragraph: forget about penguins or crowds."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Summary Facts bullets."
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "History bullet: Patriot Hills to Union Glacier in 2010; 20 races."
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Event record bullets, current page."
+    }
+  ]
+}

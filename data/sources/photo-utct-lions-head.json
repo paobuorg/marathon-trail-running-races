@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-utct-lions-head",
+  "title": "File:Lion's Head from Cape Town CBD (Landscape).jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Lion%27s_Head_from_Cape_Town_CBD_(Landscape).jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2026-01-19",
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "The Commons file is a general view of Lion's Head from Cape Town's central business district; it is not a photograph of the UTCT race.",
+    "The author is Husskeyy, credited under CC BY-SA 4.0; the original file is 4,096 x 1,864 pixels and 3,683,206 bytes, with a capture date of 19 January 2026.",
+    "The downloaded 960 px thumbnail is 960 x 437 pixels and 115,261 bytes; it shows Lion's Head centred above the city roofs, with Table Mountain's slopes on the left and right.",
+    "The file page requires attribution and share-alike; the route page uses the 960 px Commons thumbnail and credits Husskeyy and CC BY-SA 4.0."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "checkedVia": "Commons action=query imageinfo + thumbnail visual check",
+    "note": "2026-11-22 读取 Commons 文件页与 imageinfo，核对标题、作者、日期、许可、原始尺寸和画面；下载的 960 px 缩略图与文件描述一致。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "File title and description identify Lion's Head from Cape Town CBD; no UTCT race category or race caption in the metadata."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "imageinfo: 4,096 x 1,864; 3,683,206 bytes; DateTimeOriginal 2026-01-19; Artist Husskeyy; CC BY-SA 4.0."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Local thumbnail measured 960 x 437 / 115,261 bytes; visual check shows Lion's Head above city roofs with Table Mountain slopes around it."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "File page states CC BY-SA 4.0; attribution and share-alike are printed on the route page."
+    }
+  ]
+}

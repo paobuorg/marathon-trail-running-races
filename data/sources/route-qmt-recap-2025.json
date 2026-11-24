@@ -1,0 +1,47 @@
+{
+  "sourceId": "route-qmt-recap-2025",
+  "title": "QMT135 2025 — official race recap",
+  "url": "https://ultratrailcanada.com/en/recap-of-an-explosive-day-of-racing/",
+  "publisher": "Québec Mega Trail / Ultra-Trail Canada",
+  "publishedAt": null,
+  "accessedAt": "2026-11-21",
+  "claims": [
+    "The 2025 QMT135 was the brand-new 135 km race; Xavier St-Cyr won in 17:18:05 and Maryline Nakache in 19:11:41, both marked as new course records.",
+    "The 2025 men's podium was Xavier St-Cyr 17:18:05, Matthieu Saliou 17:43:32 and Sébastien Camus 19:00:02.",
+    "The 2025 women's podium was Maryline Nakache 19:11:41, Geneviève Nadeau 20:26:04 and Mylène Sansoucy 20:33:31; Nakache was also fourth overall.",
+    "The 2025 weekend continued on Sunday 6 July with the QMT25, QMT15, QMT6 and a 1 km kids race."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-21",
+    "note": "2026-11-21 直接读取官方赛后稿全文。页面未印发布日期；正文称 brand-new QMT135，且 2025 官方 launch 说明 135 公里自 2025 起取代 QMT100 Miles 与 QMT110，因此归为 2025 届。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "Recap: 'the brand-new QMT135'；Xavier St-Cyr 17:18:05 '*Record – New course*'；Maryline Nakache 19:11:41 '*Record – New course*'"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "QMT135 – Men’s Results 1–3 逐条照录"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "QMT135 – Women’s Results 1–3 逐条照录；正文写 Nakache 'placing an impressive 4th overall'"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "Recap 末段：Sunday, July 6, including the QMT25, QMT15, QMT6, and the one-kilometer kids’ race。未据此推断该届完整日期。"
+    }
+  ]
+}

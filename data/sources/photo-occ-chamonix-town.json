@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-occ-chamonix-town",
+  "title": "File:2025-05-23 Chamonix-Mont-Blanc.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:2025-05-23_Chamonix-Mont-Blanc.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2025-07-23",
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The image shows a central Chamonix-Mont-Blanc street scene: multi-storey alpine buildings, a small market stall, pedestrians and shopfronts, with a wooded slope under cloud behind.",
+    "The Commons file title identifies Chamonix-Mont-Blanc; it contains no OCC, UTMB or race-day context and is a location photograph of the town centre.",
+    "The author is Alexkom000 (Alexey Komarov); the file is licensed CC BY 4.0; the original is 5,255 x 3,503 pixels and 3.8 MB; the camera location is 45°55'23.65\"N 6°52'11.11\"E; the file page says the picture was taken on 2025-07-23 while the filename says 2025-05-23, and the discrepancy is unresolved.",
+    "The route page uses a 960 x 640 thumbnail of 193,948 bytes without cropping or colour change and credits the author, licence and source; attribution is required."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons file page and downloaded 960 px thumbnail inspection",
+    "note": "2026-11-23 通过 Commons 文件页读取作者、许可、原图尺寸、相机坐标与日期，下载 960 px 副本并目视核对镇中心街景、建筑、行人与背景山坡；文件页日期与文件名不一致，按文件页记录并标明。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地缩略图可见多层阿尔卑斯风格建筑、街边小摊、行人、店铺招牌与背景山坡；画面不是终点拱门或赛日现场。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Commons 文件名为 2025-05-23 Chamonix-Mont-Blanc；文件页没有 OCC 或 UTMB 赛事信息。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "文件页作者 Alexkom000（Alexey Komarov）；许可 CC BY 4.0；原图 5,255 x 3,503、3.8 MB；相机坐标 45°55'23.65\"N 6°52'11.11\"E；文件页 Date 为 2025-07-23，文件名写 2025-05-23，差异未解。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "本地文件 960 x 640、193,948 字节；未裁剪、未改色；页面署名 Alexkom000 / CC BY 4.0 / Wikimedia Commons。"
+    }
+  ]
+}

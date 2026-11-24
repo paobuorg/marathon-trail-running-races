@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-buenosaires-results-2026",
+  "title": "Maratón Ciudad de Buenos Aires — World Athletics Label Road Race results, 20 September 2026",
+  "url": "https://worldathletics.org/competitions/world-athletics-label-road-races/calendar-results/7244564/result",
+  "publisher": "World Athletics",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "World Athletics lists the 2026 men's top ten as Bethwel Kibet 2:08:28, John Hakizimana 2:08:39, Felix Kirwa 2:10:24, Kipkemoi Kiprono 2:10:49, Vincent Kibor Raimoi 2:11:50, Embay Goitom 2:12:28, Ricardo Rojas 2:14:47, David Gomez 2:15:23, Ignacio Erario 2:16:42 and Ignacio Reyes 2:21:46.",
+    "World Athletics lists the 2026 women's top nine as Rebecca Chesir 2:23:36, Rodah Tanui 2:24:49, Emmah Ndiwa 2:26:55, Sentayehu Lewetegn 2:29:53, Tamir Agere 2:30:19, Lomi Muleta 2:32:15, Chiara Mainetti 2:38:25, Anahi Castaño 2:44:21 and Mercedes Piredda 2:49:15.",
+    "The leading Argentine men were Ignacio Erario in ninth, Ignacio Reyes in tenth and Esteban Angulo in twelfth; Angulo's time was 2:23:01.",
+    "The leading Argentine women were Chiara Mainetti in seventh, Anahi Castaño in eighth and Mercedes Piredda in ninth.",
+    "World Athletics gives the winning times as 2:08:28 and 2:23:36; an EFE/InfoBaires report gives 2:08:22 and 2:23:31 and lists Piredda at 2:48:11, so the official page and the media report differ by 5–6 seconds and 64 seconds."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "Full results table",
+    "note": "WA 官方成绩页逐行读取男子前 30、女子前 32；本页只保留男子前 10 与女子前 9。与 EFE/InfoBaires 的秒级差异逐条保留，不取平均。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "男子 Final 1–10 逐行" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "女子 Final 1–9 逐行" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "男子 9 Erario、10 Reyes、12 Angulo 2:23:01" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "女子 7 Mainetti、8 Castaño、9 Piredda" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "WA 2:08:28 / 2:23:36；InfoBaires 2:08:22 / 2:23:31；Piredda 2:49:15 vs 2:48:11" }
+  ]
+}

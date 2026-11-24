@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-spartathlon-transport-athens",
+  "title": "Athens Airport to central Athens — metro and bus guide (third party)",
+  "url": "https://athens-airport.eu/en/",
+  "publisher": "athens-airport.eu",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "Athens Airport Metro Line 3 connects the airport to Syntagma Square in roughly 40–45 minutes, with a €9 one-way ticket and trains about every 36 minutes.",
+    "Express bus X95 runs from the airport to Syntagma in about 60–70 minutes for €5.50, every 15–30 minutes.",
+    "This is a third-party airport guide, not the official Athens International Airport site; fares and timetables must be rechecked before travel."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch",
+    "note": "Third-party airport transport guide read; clearly labelled as third party."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "How to Reach Central Athens table."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Same table, Bus X95 row."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Site identity and caveat added by this site."
+    }
+  ]
+}

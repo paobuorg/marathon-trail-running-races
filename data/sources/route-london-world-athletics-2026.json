@@ -12,5 +12,44 @@
     "World Athletics lists Hellen Obiri second in 2:15:53 and Joyciline Jepkosgei third in 2:15:55.",
     "World Athletics lists Eilish McColgan seventh in 2:24:51."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 worldathletics.org/competition/calendar-results/results/7235562 → .agent/london35/world-athletics.html",
+    "note": "页面含男子、女子马拉松完整成绩表"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面标题下：“London (GBR) 26 APR 2026”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Men’s Marathon 表：1 SAWE 1:59:30，Records “WR, AR”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Women’s Marathon 表：1 ASSEFA 2:15:41，“WR, AR”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表：2 OBIRI 2:15:53，3 JEPKOSGEI 2:15:55"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "表：7 MCCOLGAN 2:24:51"
+    }
+  ]
 }

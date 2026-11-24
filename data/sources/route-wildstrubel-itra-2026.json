@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-wildstrubel-itra-2026",
+  "title": "Wildstrubel by UTMB 2026 — Wild 110 results (ITRA)",
+  "url": "https://itra.run/Races/RaceResults/Wildstrubel.by.UTMB.Wild.110.Crans.Montana/2026/124313",
+  "publisher": "ITRA",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "ITRA's 2026 Wild 110 results list Gian Marchet Schicktanz first in 12:00:00 and Agnieszka Dygacz as the first woman in 14:44:43, with a finisher level of 390.",
+    "ITRA attributes the results file to the organiser and links to the official results page."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接读取 ITRA 2026 Wild 110 成绩页；作为 B 层对照，不替代官方成绩。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "成绩表第 1 行 SCHICKTANZ 12:00:00；第 26 行 DYGACZ 14:44:43（首位女子）；Finisher level 390" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "页面写 'Volunteer added file - Official Results --> https://wildstrubel.utmb.world/races-runners/runners/results'" }
+  ]
+}

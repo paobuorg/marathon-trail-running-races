@@ -1,0 +1,40 @@
+{
+  "sourceId": "route-utct-2025-100m-results",
+  "title": "RMB Ultra-trail Cape Town 2025 — UTCT 100 MILE ITRA results",
+  "url": "https://itra.run/Races/RaceResults/RMB...Ultra.trail.Cape.Town.UTCT.100.MILE/2025/102583",
+  "publisher": "ITRA (International Trail Running Association)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2025 UTCT 100 MILE men's top three were Douglas Pickard 21:49:11, Admire Muzopambwa 22:41:40 and Mark Winter 23:49:52.",
+    "The 2025 UTCT 100 MILE women's top three were Nicolette Griffioen 24:40:58, Simone Malan 26:39:35 and Kerry Ann Marshall 27:26:30.",
+    "Griffioen's 24:40:58 was fifth overall in the 2025 100-mile results."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "ITRA 2025 UTCT 100 MILE results page (102583) read directly on 2026-11-20. The table gives overall positions and gender; the top three women are Griffioen, Malan and Marshall."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Table: Pickard 21:49:11; Muzopambwa 22:41:40; Winter 23:49:52."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Table: Griffioen 24:40:58 F; Malan 26:39:35 F; Marshall 27:26:30 F."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Griffioen appears after four men in the overall table, so she is fifth overall and first woman."
+    }
+  ]
+}

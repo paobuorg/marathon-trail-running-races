@@ -1,0 +1,62 @@
+{
+  "sourceId": "route-berlin-gpx-2025",
+  "title": "Official 2025 BMW BERLIN-MARATHON GPX (BM25_Marathon-Strecke)",
+  "url": "https://www.bmw-berlin-marathon.com/fileadmin/media/events/berlinmarathon/gpx/BM25_Marathon-Strecke.gpx",
+  "publisher": "SCC Events",
+  "publishedAt": null,
+  "accessedAt": "2026-11-21",
+  "claims": [
+    "SCC Events' official domain still serves a marathon GPX named BM25_Marathon-Strecke.gpx; a HEAD request on 2026-11-21 returned HTTP 200, application/octet-stream and 24,110 bytes.",
+    "The file is GPX 1.1 with creator 'SCC KML/KMZ/GPX Tools'; it contains 508 trackpoints, no waypoints, no <ele> elements, and no track name, description or timestamp.",
+    "A local haversine measurement of the 508 trackpoints gives 42.1836 km, 0.0114 km (11.4 m, 0.027%) shorter than the official 42.195 km.",
+    "The first trackpoint is 52.515214 N / 13.360200 E and the last is 52.516013 N / 13.372547 E; the coordinate bounding box is 52.467576–52.529712 N and 13.281231–13.428996 E.",
+    "Because the file carries no elevation values, it cannot support a climb, descent or high-point calculation; the page's 73 m gain and 79 m descent remain the separate Abbott World Marathon Majors figures.",
+    "The file has no copyright line and no redistribution licence; it is linked only and is not copied into the site, bundled or redrawn."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-21",
+    "checkedVia": "PowerShell HEAD + 下载 BM25_Marathon-Strecke.gpx 到 site-www\\tmp-berlin-2025.gpx；Node 正则读取 trkpt/ele/wpt 并用 haversine 逐点求和",
+    "note": "2026-11-21 直接请求官方域名 GPX：HEAD 200、application/octet-stream、24,110 字节；文件头 GPX 1.1、creator SCC KML/KMZ/GPX Tools；508 trkpt、0 wpt、0 ele；平面距离 42.1836 km。文件名 BM25 表明是 2025 届文件，当前 2026/2027 路线页不链接它。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "HEAD https://www.bmw-berlin-marathon.com/fileadmin/media/events/berlinmarathon/gpx/BM25_Marathon-Strecke.gpx：200，application/octet-stream，content-length 24,110；文件名 BM25_Marathon-Strecke.gpx。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "文件头 <?xml version='1.0' encoding='UTF-8'?>、GPX 1.1、creator SCC KML/KMZ/GPX Tools；正则计数 trkpt 508、wpt 0、ele 0；无 name/desc/time。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "508 个 trkpt 逐点 haversine 求和 42.18358689294051 km；42.195−42.18358689294051=0.01141310705949 km=11.413 m；相对差 0.0002705=0.027%。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "首点 52.515214/13.360200，末点 52.516013/13.372547；lat 范围 52.467576–52.529712，lon 范围 13.281231–13.428996。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "文件无 <ele>；73 m / 79 m 来自 route-berlin-wmm-course 的 Majors 口径，不从此 GPX 计算。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "文件内无 copyright/licence 字段；SCC 官方文件未给再分发许可；本页只记录外链，未复制到 public/media，也未转成站点几何。"
+    }
+  ]
+}

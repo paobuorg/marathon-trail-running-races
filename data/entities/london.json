@@ -23,9 +23,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-11-06",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-11-06",
+  "updatedAt": "2026-11-08",
+  "reviewedAt": "2026-11-08",
+  "reviewDueAt": "2027-01-26",
   "details": {
     "raceType": "road-marathon",
     "countryCodes": [
@@ -42,6 +42,9 @@
       "sourceRef": "route-anchor-editorial"
     },
     "courseVersion": "2026-london-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [],
     "direction": "Point-to-point from the three Greenwich/Blackheath start lines to The Mall",
     "distanceMeters": 42195,
     "distanceMethod": "Official course page: 26.2 miles. The 2026 participant guide is used for race-day details but does not state the total mileage; the event overview gives the gain but no total mileage. The official route embedded on the course page displays 26.1 miles. This entity stores the standard marathon distance of 42,195 m; the official 26.2 miles is the rounded form of that distance, and the official pages do not state the full distance in kilometres.",

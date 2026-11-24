@@ -1,0 +1,53 @@
+{
+  "sourceId": "route-miut-regulations-2027",
+  "title": "MIUT 2027 — Official Regulations",
+  "url": "https://miutmadeira.com/miut-2027-regulations/",
+  "publisher": "MIUT – Madeira Island Ultra-Trail / Clube de Montanha do Funchal",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2027 regulations list five races: MIUT LEGEND 110 km with +7,200 m and -7,200 m and a 32-hour limit, MIUT ADVANCED 80 km with +4,760 m and -4,760 m and 25 hours, MIUT DISCOVER 56 km with +2,800 m and -3,060 m and 15 hours, MIUT MARATHON 40 km with +1,450 m and -2,000 m and 11 hours, and MIUT STARTER 17 km with +510 m and -520 m and 3 h 30 min.",
+    "The 2027 schedule gives the LEGEND start as 00:00 on 24 April at Porto Moniz, ADVANCED 07:00 at São Vicente, DISCOVER 09:00 at Boaventura, MARATHON 11:00 at Monte–Funchal and STARTER 08:00 on 25 April at Porto da Cruz; buses leave Machico and Funchal before each start.",
+    "The event has approximately 3,800 places, split 80% direct registration and 20% lottery; the place counts are LEGEND 1,000, ADVANCED 600, DISCOVER 600, MARATHON 800 and STARTER 800.",
+    "The 2027 fee table is LEGEND EUR 180 / 195, ADVANCED EUR 140 / 160, DISCOVER EUR 110 / 120, MARATHON EUR 90 / 100 and STARTER EUR 40 / 55, with the early tier ending on 30 November 2026 and the late tier running to 15 March 2027.",
+    "Direct registration opened race by race at 15:00 Madeira time on 12–16 October 2026; lottery pre-registration ran from 26 October to 9 November 2026 and the draw was on 14 November.",
+    "The refund schedule is 85% until 30 November 2026, 50% from 1 December 2026 to 31 January 2027, 30% from 1 February to 15 March 2027 and no refund from 16 March; a distance change costs EUR 15 and is allowed until 20 March 2027.",
+    "The 2027 minimum ages are LEGEND 21, ADVANCED 20, DISCOVER 20, MARATHON 20 and STARTER 18; LEGEND needs at least 4 ITRA points or 115 km-effort, ADVANCED 2 points or 45 km-effort, DISCOVER 1 point or 25 km-effort, while MARATHON and STARTER are exempt.",
+    "Every runner must upload a medical certificate and complete the medical questionnaire by 20 March 2027.",
+    "LEGEND and ADVANCED drop bags go to the Curral das Freiras checkpoint and then to the finish; DISCOVER, MARATHON and STARTER bags go directly from the start to the finish; bags not collected by 12:00 on Sunday are treated as abandoned.",
+    "Aid stations serve water, isotonic drink, soft drinks, fruit, sweet and savoury food and hot broth at the main stations; the event has a no-disposable-cups policy, so each runner must carry a cup or liquid container.",
+    "Intermediate cut-offs are set at all key checkpoints; the departure time from the checkpoint determines compliance and a runner arriving or leaving after the cut-off is disqualified.",
+    "Mandatory equipment for all five races is a visible bib, a tagged backpack, at least 1 litre of water capacity, a 100 x 200 cm thermal blanket, a 100 x 6 cm elastic band or bandage, a waterproof jacket, a working mobile phone, reserve food, a whistle, a personal cup and an identification document; LEGEND and ADVANCED also require a container for solid food with a utensil, two headlamps with spare batteries or a powerbank and a flashing red rear light; DISCOVER requires one headlamp with spare batteries or a powerbank.",
+    "Personal assistance is allowed only in LEGEND, ADVANCED and DISCOVER, within 20 m before and after official aid stations, with one assistant per runner; MARATHON and STARTER forbid it.",
+    "The organiser may activate a cold-weather kit consisting of a long-sleeved thermal top, waterproof trousers, a hat or buff covering the ears and waterproof gloves.",
+    "Check-in and the Expo run at Fórum Machico: 21 April Expo 10:00–21:00 and check-in 13:00–21:00; 22 April Expo 10:00–21:00 and check-in 13:00–21:00 with a 16:45 Legend press conference; 23 April Expo 10:00–22:00 and check-in 10:00–22:00; 24 April Expo 10:00–21:00 and check-in 09:00–12:00.",
+    "Elite entry: men with ITRA ≥825 and women ≥700 can apply for a complimentary place; men ≥775 and women ≥650 can apply for a guaranteed paid place after sell-out, by 28 February 2027.",
+    "Travel bibs: 20 places through the official travel agency with at least five nights of accommodation, deadline 28 February 2027; charity bibs require a EUR 300 donation to one of four partner institutions, confirmed by 31 January 2027."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 直读 https://miutmadeira.com/miut-2027-regulations/，核对 1.2 赛事表、1.5 费用表、1.6/1.7 取消退款、5 慈善与旅行名额、6 精英与协助、7 日程与交通、8 强制装备、9 判罚。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "1.2 Requirements by Race 表逐行读取，五组距离、爬升、下降与时限均照录" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "7.4 Race and Bus Schedule 五行照录；LEGEND 集合 21:00（23 Apr）、Machico 21:30、Funchal 21:50、00:00 Porto Moniz 起跑" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "1.5 段：approximately 3,800 places；80% direct registration and 20% by lottery；各距离 Places 列 1000/600/600/800/800" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "1.5 Fee 表逐行照录；早鸟 Until 30/11/2026，晚档 From 01/12/2026 to 15/03/2027" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "7.1 Registration Opening 五行；1.5 段 lottery dates 26 Oct–9 Nov、draw 14 Nov" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-20", "note": "1.7 Registration Cancellation Policy 四档退款与 15 March deadline；distance change EUR 15、20 March 截止" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-20", "note": "1.2 表 Minimum Age 与 Qualification Requirements 列逐行读取" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-20", "note": "1.4 段：Medical Certificate and Questionnaire by 20 March 2027" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-20", "note": "4.2 与 4.2.1 段：Legend/Advanced 送 Curral；其他直送终点；周日 12:00 未取视为放弃" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-20", "note": "6.3 Aid and Checkpoints 段：饮品与固体食物、主站热汤、no-disposable-cups、自带杯" },
+    { "index": 10, "status": "supported", "checkedAt": "2026-11-20", "note": "7.7 Operation of Time Cut-Offs 段：departure time 决定合规，晚于关门取消资格" },
+    { "index": 11, "status": "supported", "checkedAt": "2026-11-20", "note": "8.1 Mandatory Equipment List 表逐项读取，Legend/Advanced 与 Discover 的差异照录" },
+    { "index": 12, "status": "supported", "checkedAt": "2026-11-20", "note": "6.2 Personal Assistance 段：仅 Legend/Advanced/Discover，20 m、1 名助手；Marathon/Starter 禁止" },
+    { "index": 13, "status": "supported", "checkedAt": "2026-11-20", "note": "8.2 Cold Weather Kit 段四项照录" },
+    { "index": 14, "status": "supported", "checkedAt": "2026-11-20", "note": "7.3 Programme 表：21–24 April 各日 Expo 与 Secretariat 时刻；22 April 16:45 press conference" },
+    { "index": 15, "status": "supported", "checkedAt": "2026-11-20", "note": "6.1 Elite Athlete Status 表：Plan A 825/700；Plan B 775/650；deadline 28 Feb 2027" },
+    { "index": 16, "status": "supported", "checkedAt": "2026-11-20", "note": "5.1 慈善 €300、4 家机构、31 Jan 2027；5.2 旅行名额 20、至少 5 晚、28 Feb 2027" }
+  ]
+}

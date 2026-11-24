@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-lavaredo-2027",
+  "title": "La Sportiva Lavaredo Ultra Trail by UTMB 2027 — Lavaredo 120K race page",
+  "url": "https://lavaredo.utmb.world/races/lavaredo120k",
+  "publisher": "La Sportiva Lavaredo Ultra Trail by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The Lavaredo 120K page gives 120 km, 5,800 m of positive gain, a start on Friday 25 June 2027 at 23:00 from Cortina d'Ampezzo, a maximum allowed race time of 30 hours and the Corso Italia in Cortina d'Ampezzo as start and finish line.",
+    "The page describes the race as the 'queen race', says the 11pm start is spectacular and that the route passes the Tre Cime di Lavaredo at sunrise; it labels the race the 20th edition.",
+    "The page lists five races for the event — Lavaredo 120K, Lavaredo 80K, Lavaredo 50K, Lavaredo 20K and Lavaredo 10K — and the site navigation dates the event 23-27 June 2027.",
+    "The page's data fields give Race Category ws100M, 4 Running Stones and Finals Access 100m-direct-entry; the visible site navigation and the page title label the event 'A UTMB® World Series Event' and the page never uses the word Major.",
+    "Bib collection is at the Olympic Ice Stadium, via Alberto Bonacossa 1, Cortina d'Ampezzo: Thursday 24 June 17:00-19:00 for bib numbers 1 to 200 and Friday 25 June 10:00-19:00; athletes must come in person with a valid ID and may not delegate collection.",
+    "Athletes must run in semi-autonomy and carry at least one litre of liquid; assistance from family or team members is allowed only at Cimabanche and Rifugio Col Gallina, in the designated areas and with the agreement of the refreshment station head, and only one person may assist each runner.",
+    "The page lists eight refreshment stations at Ospitale (18th km), Passo Tre Croci (28th km), Misurina (43rd km), Cimabanche (66th km), Malga Ra Stua (75th km), Rifugio Col Gallina (95th km), Passo Giau (103rd km) and Rifugio Croda da Lago (110th km), with assistance prohibited at all except Cimabanche and Rifugio Col Gallina.",
+    "The page lists two additional water points at Rifugio Auronzo (48th km) and Malga Travenanzes (89th km, a fountain).",
+    "Only athletes with a visible race bib may enter refreshment stations; food and drinks are served by station personnel, rubbish must be placed in the containers provided, and there is a refreshment station at the finish plus a hot meal at the Olympic Ice Stadium.",
+    "Disposable tableware is not handed out at refreshment stations or life bases, so athletes must bring their own cutlery and containers; buying food and liquids in mountain huts is at the athlete's own expense.",
+    "Having animals accompany participating athletes is strictly prohibited and leads to immediate disqualification."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://lavaredo.utmb.world/races/lavaredo120k，读取页头 bannerStats/mainStats、Overview 段、bib collection 段、refreshment stations 段与页脚；同页嵌入的 track 数据另存为 route-lavaredo-track-2027"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "bannerStats: distance=120 km / elevationGain=5800 m / startDate=Friday 25th June 2027 / startPlaceAndTime=Cortina d'Ampezzo - 23:00 / maxTime=30:00；Overview 段同" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Overview：The queen race... start at 11pm is spectacular... passage at sunrise to the Tre Cime di Lavaredo；'20th edition'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "导航 List of all races：Lavaredo 120K / 80K / 50K / 20K / 10K；导航顶部 23 - 27 June 2027" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "mainStats: categoryWorldSeries=ws100M, runningStones=4, directEntry=100m-direct-entry；可见文字为 'A UTMB® World Series Event'；全文检索无 'Major'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "RACE BIB AND RACE PACK COLLECTION 段逐行" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "REFRESHMENT STATIONS AND ASSISTANCE 段：semi-autonomy / one litre / assistance only at Cimabanche 与 Rifugio Col Gallina / one person each" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "同段 8 行表：Ospitale 18 / Passo Tre Croci 28 / Misurina 43 / Cimabanche 66 / Malga Ra Stua 75 / Rifugio Col Gallina 95 / Passo Giau 103 / Rifugio Croda da Lago 110；ASSISTANCE 列仅 Cimabanche 与 Col Gallina 为 ALLOWED" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "同段：two water points — Rifugio Auronzo (48th km)、Malga Travenanzes (89th km - fountain)" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "同段：visible bib / served by personnel / rubbish containers / finish refreshment / hot meal at Olympic Ice Stadium" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "同段：disposable tableware not handed out；mountain shelter purchases at athletes' own expense" },
+    { "index": 10, "status": "supported", "checkedAt": "2026-11-08", "note": "Overview：Having animals accompany participating athletes is strictly prohibited and will lead to immediate disqualification" }
+  ]
+}

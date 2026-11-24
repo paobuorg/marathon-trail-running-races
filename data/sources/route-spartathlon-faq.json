@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-spartathlon-faq",
+  "title": "Spartathlon FAQ",
+  "url": "https://www.spartathlon.gr/en/faqs-eng/",
+  "publisher": "International Spartathlon Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "The FAQ says a runner who drops out or is eliminated must sign the appropriate declaration and hand in the race number; Spartathlon personnel are responsible for transport onwards to the runner's hotel in Sparta.",
+    "The FAQ says all runners may receive assistance from an officially registered support team only at specially designated checkpoints, and the support car must be registered in Athens; bicycles and motorcycles are not allowed.",
+    "The FAQ says 400 runners will be accepted and that entry costs €450; no prize money has ever been offered.",
+    "The FAQ says applications open on 25 January and close on 25 February, with payment due by 10 June."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch",
+    "note": "Official FAQ page read."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Question: What happens if I drop out before the end of the race?"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Question: Can I receive assistance from a personal support team?"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Questions on entry fee and prize money; 400 runners accepted."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Opening date, application deadline and payment deadline answers."
+    }
+  ]
+}

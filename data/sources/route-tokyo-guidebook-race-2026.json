@@ -15,5 +15,62 @@
     "Rubbish from the aid stations must go into the bins provided, and bins are only for waste produced at that station.",
     "Race officials may cut off runners outside the formal checkpoints if they judge that the runner may not reach the finish in time."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取官方翻页器 index31.html → .agent/tokyo35/guidebook-race.html",
+    "note": "翻页器正文以 searchText 内嵌，页码 31/271，可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文「The course features nine cut-off checkpoints…refer to pg.24」"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文「head to the Finish Area on the sweep bus, or return home from the nearest station」"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文「If you checked in your baggage, be sure to board the sweep bus」"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文 withdraw 流程：通知官员、取下号码布条码交官员、前往最近 checkpoint"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文「There are 15 aid stations…Personal drinks station is available only for elite athletes」"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文「The Organizer will not be held responsible for fluids or food taken outside…」"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文「trash cans…only for trash from the stations」"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "正文「Race officials may cut off the runners, even outside of the check-points…」"
+    }
+  ]
 }

@@ -1,0 +1,72 @@
+{
+  "entityId": "route:wildstrubel",
+  "slug": "wildstrubel",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-wildstrubel-official-110",
+    "route-wildstrubel-official-110-fr",
+    "route-wildstrubel-official-races",
+    "route-wildstrubel-official-registration",
+    "route-wildstrubel-official-equipment",
+    "route-wildstrubel-regulation-archive",
+    "route-wildstrubel-results-2025",
+    "route-wildstrubel-utmb-majors",
+    "route-wildstrubel-itra-2026",
+    "route-wildstrubel-trailsplits",
+    "route-wildstrubel-place-geocoding",
+    "route-wildstrubel-openmeteo",
+    "route-wildstrubel-transport",
+    "route-wildstrubel-gpx-2027",
+    "photo-wildstrubel-crans-montana",
+    "photo-wildstrubel-leukerbad",
+    "photo-wildstrubel-kandersteg"
+  ],
+  "relatedRefs": [
+    "route:val-daran",
+    "route:utmb",
+    "route:ccc",
+    "route:occ",
+    "knowledge:altitude-and-running",
+    "knowledge:long-run-fueling",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-09",
+  "updatedAt": "2026-11-24",
+  "reviewedAt": "2026-11-24",
+  "reviewDueAt": "2027-09-30",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "CH"
+    ],
+    "placeName": {
+      "zh-CN": "瑞士瓦莱州 Crans-Montana 起终点，绕 Wildstrubel 山体经 Leukerbad、Kandersteg、Adelboden 与 Lenk",
+      "en": "Crans-Montana, Valais, Switzerland — a full loop around the Wildstrubel massif through Leukerbad, Kandersteg, Adelboden and Lenk"
+    },
+    "mapAnchor": {
+      "longitude": 7.47914,
+      "latitude": 46.31316,
+      "kind": "start",
+      "sourceRef": "route-wildstrubel-place-geocoding"
+    },
+    "courseVersion": "2027-wild-110",
+    "courseEdition": "2027",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "One full loop from Crans-Montana in Valais, climbing to Varneralp, descending to Leukerbad, crossing the Gemmi pass into the Bernese Oberland through Kandersteg, Ueschine, Adelboden, Sillerebüel and Lenk, then Iffigenalp, Cabane Wildstrubel, the Rawyl pass, Tseuzier and back to Crans-Montana.",
+    "distanceMeters": 113000,
+    "distanceMethod": "The organiser's Wild 110 page gives 113 KM in the header, while its own course table ends at 113.7 km; TrailSplits also uses 113 km. This card uses 113 km and reports the 113.7 km course-table figure in the body without averaging.",
+    "elevationGainMeters": 6600,
+    "elevationMethod": "The organiser's Wild 110 page, French page and races page all give 6,600 m of gain; TrailSplits repeats 6,600 m. No second first-party figure was found, so this card uses 6,600 m and does not average it with third-party values.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://pdf.utmb.world/raw/upload/v1793351881/wildstrubel/Races/Wild%20100M/GPX/WILD_110_K_officiel_fe0298a533.gpx",
+    "attribution": "Wildstrubel by UTMB, organised by UTMB International with AMIS and the municipalities of Crans-Montana, Leukerbad, Kandersteg, Adelboden and Lenk. Distance, gain, start time, cut-offs, course points, registration, fees, age limits and mandatory equipment come from the organiser's Wild 110 page (English and French), races page, registration-conditions page and mandatory-equipment page, which are level A evidence. UTMB's Majors page is level A for the 2027 Europe Major identity and for the Finals range. The official regulation PDF is level A but describes an older WILD 106 / 50 / 23 set and is treated as an undated archive, not as the current course. The official results page only exposed 2025 results at access; the 2026 winners are reported from ITRA as level B. TrailSplits is level B and its 2026 cut-offs and GPX link are used only for comparison; its GPX URL returned HTTP 404 on 2026-11-09. The organiser's race page exposes a direct GPX link (WILD110K_officiel, 1,054,122 bytes); the file was downloaded once to a temporary directory, measured locally (11,677 points, 111.93 km planar, +6,433 / −6,430 m at a 3 m threshold, 1,064.5–2,790 m), then deleted. No track is mirrored, hosted or redrawn here; the file carries no redistribution licence. The map anchor is an Open-Meteo geocode for the town of Crans-Montana, not the start line. Three Commons location photographs (Crans-Montana by Raph75014, CC BY 4.0; Leukerbad from the Gemmi pass by Adrian Michael, CC BY-SA 3.0; Kandersteg by Trldp, CC BY-SA 4.0) are used under their own licences and are not race-day documentation."
+  }
+}

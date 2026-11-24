@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-patagonia-2027-100mi",
+  "title": "100 Millas 官方页：160.3 km、9,221 m、42 小时、资格、费用与抽签说明",
+  "url": "https://patagoniarun.com/100-millas/",
+  "publisher": "Patagonia Run",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "2027 年 100 Millas：160.3 km、累计爬升 9,221 m、时限 42 小时；4 月 9 日（周五）在 San Martín de los Andes 的 RCM4 出发，发枪时刻写“A definir”。",
+    "100 Millas 的海拔图页写明“CIRCUITO BASADO EN LA EDICIÓN 2026, PUEDE SUFRIR MODIFICACIONES EN LA EDICIÓN 2027”，所链海拔图 PDF 为 2026 版。",
+    "Etapa 7 费用：阿根廷居民 1 期付清 ARS 1,199,900、3 期合计 1,270,500、6 期合计 1,380,000；外国跑者 1 期付清 USD 782、3 期合计 USD 821.10。",
+    "该页列的 100 Millas 资格为：至少 12 ITRA 积分，最多 3 场，2024–2026 年，其中至少 1 场 ≥110 km 非停车；或 2025/2026 年 110k/100Mi 在官方关门内完赛；或 2024–2026 年完成另一场类似非停车赛事。",
+    "该页写：2025 或 2026 年 100 Millas 完赛者可参加 2027 年 Hardrock 100 抽签；2026 年 100 Millas 完赛者可参加 2027 年 Western States 100 抽签。",
+    "报名包含：参赛名额、技术服、号码布、计时芯片、线上技术会、赞助商产品、赠送照片、EXPO、补给站饮食、赛道医疗、完赛奖牌与奖杯。",
+    "100 Millas 采用申请制，需先提交资格材料，由组委会审核后决定是否允许报名。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接读取西语官方页全文；另读取同页英文版做对照。该页与 2027 规程在 ITRA 积分年份上不一致，已在页面并列。",
+    "checkedVia": "https://patagoniarun.com/100-millas/"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页面字段：LARGADA: VIERNES 9 de Abril de 2027；Lugar: RCM4；Hora: A definir；160.3 km；42 Horas；9221 m。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "页面在 ALTIMETRÍA 下明写该句；下载链接为 /wp-content/uploads/2026/03/Altimetria_100Millas_2026_15_marzo.pdf。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "页面 INSCRIPCIONES ABIERTAS – ETAPA 7 下分 CORREDORES ARGENTINOS 与 CORREDORES EXTRANJEROS 两栏，逐项核对 1/3/6 CUOTAS 金额。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "页面 REQUIREMENTS 段原文：『12 Puntos ITRA sumados en un máximo 3 carreras entre el 2024 y el 2026... por lo menos 1 carrera sea igual o superior a 110 kilómetros de distancia non-stop』。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-09", "note": "页面分列 HARDROCK 100 与 WESTERN STATES 100 两段，原文分别为 2025 或 2026 完赛者进 2027 Hardrock 抽签、2026 完赛者进 2027 Western States 抽签。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-09", "note": "页面 ¿QUÉ INCLUYE LA INSCRIPCIÓN? 列表逐项核对。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-09", "note": "页面写 100 Millas 需先 POSTULATE，资格由 Organizing Committee 评估后授权报名。" }
+  ]
+}

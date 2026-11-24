@@ -4,12 +4,43 @@
   "url": "https://cf.regione.vda.it/en/torx-weather",
   "publisher": "Regione Autonoma Valle d'Aosta – Centro Funzionale",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The Aosta Valley regional weather service publishes weather bulletins for the Tor des Géants every day by 14:00 on the Meteo VdA Telegram channel and on the TORX Weather page.",
     "Bulletins are published for each sector of the race from the day before departure until the end of the race.",
     "Each bulletin shows the evolution for the next 36 hours in six-hour blocks and indicates wind-chill at the highest point when the temperature is below 0°C.",
     "The bulletin highlights weather issues including thunderstorm, rain, snow, wind, fog, cold and heat."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "browser",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：bulletins published every day by 14:00，Meteo VdA Telegram 与 cf.regione.vda.it/en/torx-weather"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：for each sector，from the day before departure until the end of the race"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面：36 hours in blocks of six hours；wind-chill at the highest point only when temperature below 0 °C"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面图标：thunderstorm、rain、snow、wind、fog、cold、hot"
+    }
+  ]
 }

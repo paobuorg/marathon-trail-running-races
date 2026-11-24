@@ -1,0 +1,40 @@
+{
+  "sourceId": "route-qmt-2026-results",
+  "title": "Québec Méga Trail 2026 — QMT135 official results",
+  "url": "https://my.raceresult.com/407575/results",
+  "publisher": "Québec Mega Trail / RaceResult",
+  "publishedAt": null,
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "The official 2026 QMT135 results page lists the men's top five as Kamil Lesniak 16:40:30, Victor Larocque 17:07:56, Philippe Poulin 17:57:57, Matthew Farquharson 18:38:50 and Justin Bidault 19:00:52.",
+    "The same official 2026 QMT135 results page lists the women's top five as Valérie Arsenault 18:12:06, Elisabeth Cauchon 19:19:09, Julie Lesage 20:58:08, Anne Champagne 21:23:03 and Amanda Nelson 22:58:08.",
+    "The 2026 results page presents QMT135 as separate men's and women's rankings rather than one combined overall table."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "note": "2026-11-22 通过浏览器打开官方 RaceResult 2026 成绩页，页面标题 Québec Méga Trail 2026、日期 03/07/2026–06/07/2026；展开 Hommes 与 Femmes 全部名单后读取 QMT135 分组前五。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Hommes 前五行：Rang 1 Lesniak, Kamil 16:40:30；2 Larocque, Victor 17:07:56；3 Poulin, Philippe 17:57:57；4 Farquharson, Matthew 18:38:50；5 Bidault, Justin 19:00:52。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Femmes 前五行：Rang 1 Arsenault, Valérie 18:12:06；2 Cauchon, Elisabeth 19:19:09；3 Lesage, Julie 20:58:08；4 Champagne, Anne 21:23:03；5 Nelson, Amanda 22:58:08。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "页面以 Hommes 与 Femmes 两个分组表分别列 Rang，没有男女混排的全场总名次表。"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-vmm-wtm",
+  "title": "Vietnam Mountain Marathon presented by Kailas Fuga — World Trail Majors",
+  "url": "https://worldtrailmajors.com/acitivities/vietnam-mountain-marathon-2/",
+  "publisher": "World Trail Majors",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "World Trail Majors describes VMM as the oldest ultra trail race in Vietnam, established in 2013, now with up to 5,000 runners from 50 nations.",
+    "World Trail Majors says the flagship World Trail Majors distance is the VMM 100km with 5,500 m of gain, while the 70km, 50km (Short Series), 21km and 10km also run.",
+    "World Trail Majors says the race is held in Sapa, north of Hanoi, and is known for its mountaintop finish at a lodge.",
+    "The World Trail Majors 2026 race listing gives VMM dates of 2026/09/17-20."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "WTM 赛事页与 all-races 列表同日读取；WTM 把 50km 标注为 Short Series，官方 FAQ 则把 50km 与 100km 都称为 World Trail Majors race，两处并列。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "正文首段：oldest ultra trail race in Vietnam, established in 2013；up to 5000 runners from 50 nations" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "正文：'The flagship World Trail Majors distance will be the VMM100km with 5500m gain, but 70 km, 50 km (Short Series), 21 km and 10 km trails also take mountain runners...'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "正文：Held in Sapa, north of the capital, Hanoi；mountaintop finish line lodge" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "worldtrailmajors.com/all-races/ 列表 VMM 条目日期 2026/09/17-20" }
+  ]
+}

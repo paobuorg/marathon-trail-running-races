@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-gpt100-wtm",
+  "title": "World Trail Majors — all races 2026",
+  "url": "https://worldtrailmajors.com/all-races/",
+  "publisher": "World Trail Majors",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "World Trail Majors lists the Grampians Peaks Trail 100 Miler on 2026/11/05-08 as one of its ten 2026 races.",
+    "WTM describes the GPT100 Miler as a newly-established world-class Grampians Peaks Trail that is 98% single-track, traversing the Gariwerd/Grampians range from Mt Zero in the north to Dunkeld in the south.",
+    "The other nine 2026 World Trail Majors races are Hong Kong 100 (2026/01/22-25), Black Canyon Ultras (2026/02/14-15), Transgrancanaria (2026/03/04-08), Mt. FUJI 100 (2026/04/24-26), MIUT (2026/04/25-26), South Downs Way 100 (2026/06/13-14), Quebec Mega Trail (2026/07/02-05), Vietnam Mountain Marathon (2026/09/17-20) and RMB Ultra-Trail Cape Town (2026/11/20-22)."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接抓取 worldtrailmajors.com/all-races/，读取十站列表与 GPT100 简介。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "GRAMPIANS PEAKS TRAIL 100 MILER 卡片，日期 2026/11/05-08；页面标题 World Trail Majors 10" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "卡片简介：The newly-established world class Grampians Peaks Trail is 98% single-track, traversing the entirety of the Gariwerd/Grampians mountain range from Mt. Zero in the north to Dunkeld in the south" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "十张卡片日期逐项照录" }
+  ]
+}

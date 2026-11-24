@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-vmm-official-home-vi",
+  "title": "Vietnam Mountain Marathon — 官方主页（越南文）",
+  "url": "https://vietnamtrailseries.com/vi/mountain-marathon/",
+  "publisher": "Vietnam Trail Series / Topas",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The Vietnamese home page says 'Mùa giải thứ 13 | 17 – 20/09/2026 | ĐÓNG ĐĂNG KÝ', i.e. the 13th season on 17-20 September 2026 with registration closed.",
+    "The same Vietnamese page says the series has raised more than VND 14.9 billion in one passage and more than VND 14.2 billion in another passage.",
+    "The Vietnamese page lists six distances — 10km, 21km, 50km, 70km, 100km and 100 miles — and describes the 100 miles as 161 km with 8,800 m of gain."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "越南文主页仍停在 2026 届（第 13 赛季），与英文主页的 2027 dates TBD 不同步；同页慈善金额两处不一致。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页面顶部：Mùa giải thứ 13 | 17 – 20/09/2026 | ĐÓNG ĐĂNG KÝ" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "GÓC CHIA SẺ 段写 'hơn 14,9 tỷ đồng'；ĐƠN VỊ TỔ CHỨC 段写 'hơn 14,2 tỷ đồng'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "CÁC CỰ LY 段列六项；Cự ly 100 miles 段写 161km và 8.800m" }
+  ]
+}

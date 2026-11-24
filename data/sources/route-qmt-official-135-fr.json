@@ -1,0 +1,31 @@
+{
+  "sourceId": "route-qmt-official-135-fr",
+  "title": "QMT135 — page officielle (version française)",
+  "url": "https://ultratrailcanada.com/courses-ultra-trail/qmt-135/",
+  "publisher": "Québec Mega Trail / Ultra-Trail Canada",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The French QMT135 page repeats the same core figures as the English page: 134 km, +6,000 m, −5,859 m, 10 feed zones, technical level 5/5, an average time of 26:00:00 and a maximum allowed time of 37:00:00.",
+    "The French pacer section divides the 32 km of pacing into Mont-Sainte-Anne (km 104.2) to Auberge du Fondeur (km 125) and Auberge du Fondeur (km 125) to the finish (km 135).",
+    "The French river-crossing section says runners pass a stream under a culvert before Saint-Tite-des-Caps (KM 80), cross three small streams between KM 112 and KM 125, and cross the Jean-Larose stream twice in the last kilometre.",
+    "The French no-support list names only Cap du Salut, Cap Gribane and Mestachibo, omitting Halte de l'Arche, which the English page includes.",
+    "The French mandatory-gear-check section gives the time as 'À déterminer', while the English page says Friday evening and the schedule gives 5-7 p.m.",
+    "The French course description adds that a new section of the Sentier des Caps takes runners through Cap Brûlé."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接读取法文 QMT135 页。与英文页为同一赛事、同一届页面，但若干细节不一致。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页首：Distance 134 KM；Dénivelé positif +6000 m；négatif -5859 m；Nombre de feed zone 10；Niveau technique 5/5；Temps moyen estimé 26:00:00；Temps maximum alloué 37:00:00" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Pacer 段列表：MSA (km 104.2) à Auberge du Fondeur (km 125)；Auberge du Fondeur (km 125) au finish (km 135)" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "PASSAGES DANS L’EAU 段：avant Saint-Tite-des-Caps (KM 80) un ruisseau sous un ponceau；Entre le KM 112 et KM 125 trois petites traverses；1 km avant l’arrivée, deux fois le ruisseau Jean-Larose" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "法文段：Aucun supporteur n’est autorisé aux points de contrôle suivants : Cap du Salut, Cap Gribane, Mestachibo（未列 Halte de l’Arche）" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "Vérification matériels obligatoires：Quand : À déterminer" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "Parcours 段：une nouvelle section vous fera passer par le majestueux Cap Brûlé" }
+  ]
+}

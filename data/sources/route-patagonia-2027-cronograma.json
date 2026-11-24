@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-patagonia-2027-cronograma",
+  "title": "官方日程页（仍为 2026 版）：不能用于 2027 的发枪时刻与场地",
+  "url": "https://patagoniarun.com/cronograma/",
+  "publisher": "Patagonia Run",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "日程页列的是 2026 年日历：Domingo 5、Lunes 6、Martes 7、Miércoles 8（21k 与 10k）、Jueves 9（42k）、Viernes 10（100Mi 与 110k）、Sábado 11（70k）、Domingo 12。",
+    "该星期顺序与 2027 年 4 月不符：2027 年 4 月 5 日是周一、4 月 9 日是周五；页面的 4 月 5 日为周日，对应 2026 年。",
+    "页面仍写“Turnos habilitados a fines de marzo 2026”，并列出 10k 组别，而 2027 赛事页的组别是 12k。",
+    "页面把 100Mi 发枪写在 Viernes 10 de abril、14:00，与 2027 官方 100Mi 页的“Viernes 9 de abril / Hora: A definir”冲突。",
+    "页面仍列 100Mi 终点在 Plaza San Martín（Av. San Martín y Tte. Cnel. Pérez）、领物在 Hotel Le Village、PAS Total 在 Club Lácar / Gimnasio Cachi；这些均为 2026 版地点，2027 地点尚未确认。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 读取日程页全文。页面未标 2026，但星期、年份字样、10k 组别与 100Mi 发枪日都与 2027 官方信息冲突，故判定为未更新的 2026 版，不采用其 2027 时刻。",
+    "checkedVia": "https://patagoniarun.com/cronograma/"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页面逐日标题：Domingo 5 de abril… Domingo 12 de abril，含各组别。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "按日历核对：2026-04-05 为周日；2027-04-05 为周一。页面星期与 2027 不符。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "页面两处写 turnos… marzo 2026；组别写 10k，2027 各距离页写 12k。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "日程页 Viernes 10 de abril — 100Mi y 110k，14:00 LARGADA 100Mi；2027 100Mi 页为 Viernes 9 de abril、Hora: A definir。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-09", "note": "日程页列终点 Av. San Martín y Tte. Cnel. Pérez — Plaza San Martín、领物 Hotel Le Village、PAS Total Club Lácar/Gimnasio Cachi；2027 规程只写地点待确认。" }
+  ]
+}

@@ -12,5 +12,44 @@
     "Some bus routes sharing the course will be suspended, shortened or diverted.",
     "The police may advance, delay, expand or reduce traffic control according to conditions on the ground."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 gaj.sh.gov.cn 交通管制通告 → .agent/berlin-shanghai35/sh-police-2025.html",
+    "note": "公安通告正文可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "通告时间跨度为 11 月 29 日 23 时至 30 日 13:30。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第九条路线逐段与 claim 一致（花园港路、进木港路、云锦路折返，上海体育场 12 号门终点）。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第一条规定南京东路、九江路等 23:00–8:00；第三条中山东一路 4:30–8:00 禁车。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "末段：同线路公交停驶、缩线、绕道。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "末段：公安可提前或推迟、扩大或缩小管制。"
+    }
+  ]
 }

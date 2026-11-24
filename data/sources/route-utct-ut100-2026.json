@@ -1,0 +1,69 @@
+{
+  "sourceId": "route-utct-ut100-2026",
+  "title": "RMB UTCT — official UT100 2026 race page",
+  "url": "https://www.ultratrailcapetown.com/ut100",
+  "publisher": "RMB Ultra-trail Cape Town",
+  "publishedAt": null,
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2026 UT100 is listed at 99.1 km, 5,000 m D+, a 26-hour cut-off and 9 aid stations, starting and finishing at Gardens Rugby Club at 04:00 on 21 November 2026.",
+    "The UT100 course description calls the route front-loaded, with two significant climbs on Table Mountain and Karbonkelberg within the first 50 km and 4,972 m of elevation gain.",
+    "The official UT100 page publishes a downloadable GPX for the 2026 route.",
+    "The official race-information page says the event is cupless and that runners must carry their own cup; it also sets the minimum age for UT100 at 20.",
+    "The official UT100 page calls UT100 the final race of the Gran Canaria World Trail Majors and one of the event's original distances.",
+    "The 2026 UT100 open prize money is R75,000 for first, R37,500 for second and R18,750 for third.",
+    "The Nic Bornman Medal goes to the top ten men and women of UT100; The Originals medal goes to anyone finishing UT100 under 15 hours, recalling the inaugural 2014 race where only 14 people finished under a 15-hour cut-off."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "curl.exe via local 7890 proxy",
+    "note": "2026-11-20 经本机 7890 代理读取官方 UT100 页、GPX 链接与 race-info 页；页面并给出 UT100 是 WTM 最后一站、2026 奖金、Nic Bornman 与 The Originals 奖牌说明。GPX 已下载并逐点计算，页面不重新分发文件。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "官方 UT100 页：DISTANCE 99.1KM；ELEVATION 5000m D+；CUT OFF 26H；AID STATIONS 9；START/FINISH GARDENS RUGBY CLUB；21 NOVEMBER 2026 04H00"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "官方 UT100 页：front-loaded, two significant climbs within the first 50km, 4972m of elevation gain"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "官方 UT100 页 DOWNLOAD YOUR GPX，链接指向 filesusr.com 的 05 UT100 2026 V6 GPX"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "官方 race-info：cupless race, carrying your own cup is compulsory；age 20+ for UT100"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Page: 'UT100 is the final race of the Gran Canaria World Trail Majors'；'one of the original race distances of RMB UTCT'。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Prize Money block: FIRST PLACE R75,000; SECOND R37,500; THIRD R18,750。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-20",
+      "note": "Page: Nic Bornman Medal top ten men and women; The Originals sub-15; 'In 2014, only 14 people finished the inaugural UT100, with the brutal 15-hour cut-off'。"
+    }
+  ]
+}

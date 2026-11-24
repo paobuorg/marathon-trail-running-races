@@ -1,0 +1,39 @@
+{
+  "sourceId": "route-utct-itra-2026",
+  "title": "RMB | Ultra-trail Cape Town 2026 — ITRA race pages (five distances)",
+  "url": "https://itra.run/Races/RaceDetails/RMB...Ultra.trail.Cape.Town.ULTRA.TRAIL.100.KM/2026/116887",
+  "publisher": "ITRA (International Trail Running Association), data submitted by the organiser",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2026 ULTRA-TRAIL 100 KM is listed at 99.85 km with +5,085 m and -5,084 m, a 26-hour limit, 9 aid stations and 450 participants, starting at 04:00 on 21 November 2026.",
+    "The 2026 UTCT 100 MILE is listed at 163.44 km with +6,995 m and -6,991 m, a 45-hour limit, 14 aid stations and 350 participants, starting at 17:00 on 20 November 2026.",
+    "The 2026 PENINSULA TRAVERSE 55 KM is listed at 56.24 km with +2,830 m and -2,762 m, a 13-hour limit, 4 aid stations and 500 participants, starting at 07:00 on 20 November 2026.",
+    "The 2026 TABLE MOUNTAIN 35 KM is listed at 35.02 km with +2,086 m and -2,082 m, an 11-hour limit, 2 aid stations and 500 participants, starting at 06:00 on 22 November 2026.",
+    "The 2026 EXPLORER 23 KM is listed at 23.59 km with +1,204 m and -1,102 m, a 6 h 30 min limit, 1 aid station and 750 participants, starting at 09:00 on 21 November 2026.",
+    "The 2026 KICKSTARTER 16 is listed at 16.00 km with +691 m and -763 m, a 6 h 15 min limit, 1 aid station and 500 participants, starting at 08:30 on 20 November 2026.",
+    "The organiser's 100 km description calls the route front-loaded: Signal Hill and Lion's Head, then a climb up Table Mountain's north face to Platteklip Gorge with gradients over 35 degrees, 1,700 m of gain by 25 km, the tabletop ridge, a new section along the 12 Apostles, the Llandudno Ravine descent to a beach aid station, Sandy Bay, the 600 m Suther Peak and Karbonkelberg traverse to Hout Bay, East Fort, the Manganese Mines, Vlakenberg, Constantia Nek, the vineyards and Alphen Trail, Cecilia and Newlands forests, Rhodes Memorial, the University of Cape Town, the Blockhouse and a lower traverse of Devil's Peak.",
+    "The same 100 km description says the 12 Apostles and Llandudno Ravine section is new, that it was originally requested and only recently permitted because of congestion at Constantia Nek, but it gives no year for the change.",
+    "The 100 Miler description calls it the flagship 100 miler with 7,850 m of elevation and five distances in total, says the event began in 2014, that 35% of participants come from 55 countries, and that the 100-mile route runs from the northern mountains to Silvermine, Kalk Bay, Kommetjie and Simonstown.",
+    "The same 100 Miler page also lists 6,995 m of positive gain in its course details, which disagrees with the 7,850 m in the description."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 在 ITRA 逐一读取 2026 届五个距离页（100K 116887、100M 116886、55K 116884、35K 116888、23K 116885、16K 116889）。ITRA 的 About the Race 文本由组委会提交。官方站 ultratrailcapetown.com 在本环境 DNS 不可达，未能直取；2026-11-09 重试 Resolve-DnsName 与 HTTPS 请求仍解析失败，故官方站至少自 2026-11-08 起在本环境不可达。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "116887 Course details：99.85、+5085、-5084、26:00:00、9 stations、450、2026/11/21 04:00" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "116886 Course details：163.44、+6995、-6991、45:00:00、14 stations、350、2026/11/20 17:00" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "116884 Course details：56.24、+2830、-2762、13:00:00、4 stations、500、2026/11/20 07:00" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "116888 Course details：35.02、+2086、-2082、11:00:00、2 stations、500、2026/11/22 06:00" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "116885 Course details：23.59、+1204、-1102、6:30:00、1 station、750、2026/11/21 09:00" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "116889 Course details：16.00、+691、-763、6:15:00、1 station、500、2026/11/20 08:30" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "116887 About the Race 全段逐句读取；地名、35 度、25 km 前 1,700 m、Suther Peak 600 m 照录" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "116887 原文：running a new section along the magnificent 12 Apostles... permission was only granted recently due to congestion at Constantia Nek；未给年份" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "116886 About the Race：flagship 100 miler with 7 850m of elevation；since 2014；35% from 55 countries；Silvermine 到 Simonstown" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "同一 116886 页 Course details 写 Elevation Gain +6995，与 About 的 7,850 m 冲突" }
+  ]
+}

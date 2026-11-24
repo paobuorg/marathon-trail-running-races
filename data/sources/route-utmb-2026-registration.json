@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-utmb-2026-registration",
+  "title": "UTMB Mont-Blanc 2026 — UTMB Spain race guide",
+  "url": "https://www.utmb.es/fr/carreras/utmb-mont-blanc",
+  "publisher": "UTMB Spain",
+  "publishedAt": "2026-07-18",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "The 2026 HOKA UTMB Mont-Blanc week ran from 24 to 30 August 2026, with UTMB, CCC and OCC as the three World Series finals.",
+    "For the 2026 CCC lottery, the required UTMB Index race category was 50K, 100K or 100M; for OCC any UTMB Index race category was accepted; every applicant needed at least one Running Stone.",
+    "The 2026 pre-registration window was 8–19 January and the lottery was held on 22 January 2026.",
+    "The 2026 event expected about 10,000 runners across eight races."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "checkedVia": "direct HTTPS fetch of the UTMB Spain 2026 race guide",
+    "note": "UTMB Spain 是 UTMB 体系页面，但不是 HOKA UTMB Mont-Blanc 官方规则页；此文用于补充 2026 抽签与 Index 类别，关键规则仍以官方规则快照为准。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "Article header and week programme: 24–30 August 2026; UTMB/CCC/OCC finals。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "CCC section: UTMB Index 50K/100K/100M, minimum one Running Stone; OCC section: all UTMB Index categories, minimum one stone。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "Registration section: 8–19 January 2026; lottery 22 January 2026。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "Introduction: about 10,000 runners across eight races。" }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-ccc-champex",
+  "title": "File:Lac de Champex 01.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Lac_de_Champex_01.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2023-06-29",
+  "accessedAt": "2026-11-23",
+  "claims": [
+    "The file shows Lac de Champex with dark water, wooded slopes, a shoreline hotel or apartment building, conifers and small boats under a cloudy sky.",
+    "The file metadata places the lake at Orsières in Valais, Switzerland; it contains no race, CCC or UTMB event context and is a location photograph, not a race-day photograph.",
+    "The author is Rémih, credited under CC BY-SA 4.0; the original file is 4,608 x 3,456 pixels, 3,643,463 bytes, dated 2023-06-29.",
+    "The route page uses a 960 x 720 Commons thumbnail of 213,511 bytes and credits the author and licence; attribution and share-alike are required."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-23",
+    "checkedVia": "Commons action=query imageinfo + thumbnail visual check",
+    "note": "2026-11-23 读取 Commons 文件页与 imageinfo，核对标题、作者、日期、许可、尺寸和画面；缩略图与文件描述一致。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Thumbnail shows the lake, wooded slopes, shoreline buildings, conifers and small boats under cloud; the file description names the lake."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "ImageDescription: Le lac de Champex, Orsières, Valais, Suisse; no CCC or race metadata appears."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "imageinfo: 4,608 x 3,456; 3,643,463 bytes; Artist Rémih; CC BY-SA 4.0; DateTimeOriginal 2023-06-29."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-23",
+      "note": "Local file is the 960 x 720 Commons thumbnail, 213,511 bytes; source page states attribution and share-alike."
+    }
+  ]
+}

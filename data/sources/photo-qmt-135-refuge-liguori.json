@@ -1,0 +1,48 @@
+{
+  "sourceId": "photo-qmt-135-refuge-liguori",
+  "title": "File:Refuge Liguori.jpg",
+  "url": "https://commons.wikimedia.org/wiki/File:Refuge_Liguori.jpg",
+  "publisher": "Wikimedia Commons",
+  "publishedAt": "2011-03-20",
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "The file shows the Liguori lodge on the Sentier des Caps de Charlevoix, with the Saint Lawrence River and Île aux Coudres in the background.",
+    "The photograph was taken on 2011-03-20 and shows winter conditions; it documents the route environment, not the QMT135 race.",
+    "The author is Cephas, credited under CC BY-SA 3.0; the original file is 3,573 x 2,382 pixels.",
+    "The file page requires attribution and share-alike; the route page uses a 960 x 640 Commons thumbnail and credits the author and licence."
+  ],
+  "license": "CC-BY-SA-3.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "checkedVia": "Commons action=query imageinfo + thumbnail visual check",
+    "note": "2026-11-22 读取 Commons 文件页与 imageinfo，核对描述中的 Liguori lodge / Sentier des Caps、作者、日期、许可、尺寸和画面。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "ImageDescription names the Liguori lodge on the Sentier des Caps de Charlevoix, the Saint Lawrence River and Île aux Coudres."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "DateTimeOriginal 2011-03-20; thumbnail shows snow and winter light."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "imageinfo: 3,573 x 2,382; Artist Cephas; CC BY-SA 3.0."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-22",
+      "note": "Local file is the 960 x 640 Commons thumbnail; source page states attribution and share-alike."
+    }
+  ]
+}

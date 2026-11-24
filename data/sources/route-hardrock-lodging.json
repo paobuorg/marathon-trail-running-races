@@ -13,5 +13,50 @@
     "Ouray offers lodging options and does not face the same lodging pressure as Silverton during Hardrock.",
     "The page points to Silverton Chamber of Commerce listings and to Cascade Village and Purgatory Resort between Silverton and Durango."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "官方页面直读",
+    "note": "Lodging 页可读"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Camping Hardrock 段：free…Kendall Mountain Recreation Area…180 vehicles and tents…limited to 30"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Camping Hardrock 段：pre-registration required；Ski Lodge…water, bathrooms and electricity"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Camping Hardrock 段末：Registration will open in May 2027"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Anesi Park 段：7a-8p daily…$5 buys one token for 5 minutes…Cash only"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Motels 段末：Ouray…doesn’t put the same type of lodging pressure"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Motels 段：Silverton Chamber of Commerce…Cascade Village…Purgatory Resort"
+    }
+  ]
 }

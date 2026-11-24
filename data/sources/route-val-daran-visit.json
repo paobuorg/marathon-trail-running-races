@@ -1,0 +1,47 @@
+{
+  "sourceId": "route-val-daran-visit",
+  "title": "How to arrive in Val d'Aran — official tourism board",
+  "url": "https://www.visitvaldaran.com/en/discover-val-daran/how-to-arrive/",
+  "publisher": "Visit Val d'Aran",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Val d'Aran has no airport; the nearest airports are Lleida at 145 km, Pau at 157 km, Tarbes at 161 km, Toulouse at 166 km, Zaragoza at 290 km and Barcelona at 350 km, all reached by road.",
+    "Val d'Aran has no direct train line; the nearest stations are Luchon at 40 km, Montrejeau at 60 km and Lleida at 165 km, with road connections to the valley.",
+    "Road access is via the 5,173 m Vielha tunnel from Alta Ribagorça, the Bonaigua pass at 2,072 m from Pallars, the French N-618/N-230 through Pont de Rei, or the Portilhon pass from Bagnères-de-Luchon to Bossòst.",
+    "ALSA runs a daily direct bus from Barcelona and regular daily services from Barcelona and Lleida, with a stop in Vielha at Av. Alcalde Calbetó Barra."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 Visit Val d'Aran 英文交通页"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "By plane：no airport；Tarbes 161、Lleida 145、Pau 157、Toulouse 166、Zaragoza 290、Barcelona 350；only by road"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "By train：no direct line；Lleida 165、Montrejeau 60、Luchon 40；connections by road"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "By car：Vielha tunnel 5173 m；Bonaigua 2072 m；France N-618/N-230；Portilhon N-125/N-141 to Bossòst"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "By bus：ALSA daily direct from Barcelona；regular from Barcelona and Lleida；stop Av. Alcalde Calbetó Barra"
+    }
+  ]
+}

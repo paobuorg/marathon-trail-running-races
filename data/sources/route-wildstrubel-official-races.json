@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-wildstrubel-official-races",
+  "title": "Races — Wildstrubel by UTMB 2027",
+  "url": "https://wildstrubel.utmb.world/races",
+  "publisher": "UTMB World Series / Wildstrubel by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The 2027 races page lists seven formats on 10–12 September 2027: Wild 110, Wild 70, Wild 55, Wild Glacier Marathon, Wild 25, Wild 10 and Wild NextGen.",
+    "The page intro says '6 distances from 10km to 110M', while it lists seven formats and the longest race is 113 km, not 110 miles.",
+    "The page gives Wild 110 4 Running Stones, Wild 70 3, Wild 55 2, Wild Glacier Marathon 2 and Wild 25 1, with no stones shown for Wild 10 or Wild NextGen.",
+    "The page gives Wild 70 72 km/+4,600 m, Wild 55 55 km/+3,300 m, Wild Glacier Marathon 42 km/+2,700 m, Wild 25 26 km/+1,200 m and Wild 10 10 km/+500 m."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取并读取 2027 races 列表。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "列表逐项：10th September 2027（Wild 110、Wild 70、Glacier）、11th（Wild 55、Wild 10、NextGen）、12th（Wild 25）" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "页首原文 '6 distances from 10km to 110M'；实际列出 7 个格式，Wild 110 页头为 113 KM" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "Running Stones 列逐项照录" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "各格式 Distance / Elevation Gain 逐项照录" }
+  ]
+}

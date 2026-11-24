@@ -1,0 +1,37 @@
+{
+  "sourceId": "route-chiang-mai-faq-160-100",
+  "title": "FAQ answers specific to CHIANG DAO 160 and ELEPHANT 100 — Chiang Mai Thailand by UTMB",
+  "url": "https://chiangmai.utmb.world/faqs",
+  "publisher": "UTMB World Series / HOKA Chiang Mai Thailand by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The FAQ states that CHIANG DAO 160 and ELEPHANT 100 runners are required to carry two working headlamps with batteries loaded and two sets of spare batteries, one set for each headlamp.",
+    "The FAQ states that support is allowed only at designated aid stations, and lists A2, A5, A7, A9, A11 and A13 for CHIANG DAO 160 and A9, A11 and A13 for ELEPHANT 100.",
+    "The FAQ states that mid-race baggage drop is available only for CHIANG DAO 160 and ELEPHANT 100, with the Gold Bag at A5 and the Red Bag at A11 for CHIANG DAO 160 and the Green Bag at A11 for ELEPHANT 100.",
+    "The FAQ states that only official event bags may be used for the mid-race drop, that they are issued at bib collection, and that trekking poles may not be placed in them.",
+    "The FAQ states that a power bank may replace headlamp batteries if both headlamps are rechargeable and the spare battery has a capacity of at least 5,000 mAh, or if one headlamp is rechargeable and the power bank is at least 2,500 mAh alongside spare batteries.",
+    "The FAQ states that a photograph of an ID card or passport on a phone is not accepted, while the mandatory-gear table accepts a photocopy.",
+    "The FAQ states that the 800 kcal food figure is a recommendation, not a requirement.",
+    "The FAQ states that the phone must remain on with airplane mode prohibited, gives the safety number +66 062 325 4122, and names the LiveRun application for runners.",
+    "The FAQ's airport line entry still says the call centre is available from 7 December 2022 and links to the old domain inthanon.utmb.world."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取英文 FAQ 页全文（234 行有效文本）；160/100 相关条目与 PAGODA 条目并存，逐条抄录"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'For CHIANG DAO 160 and ELEPHANT 100, runners are required to carry 2 working headlamps (batteries loaded) and 2 sets of spare batteries (for each headlamp)'；与装备表 'One (1) working headlamps' 并存" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'CHIANG DAO 160 / A2, A5, A7, A9, A11, A13'；'ELEPHANT 100 / A9, A11, A13'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'CHIANG DAO 160 / A5 - Gold Bag, A11 - Red Bag'；'ELEPHANT 100 / A11 - Green Bag'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'Only the official event bags may be used... provided during bib collection'；'Trekking poles are not permitted inside these bags'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "5000 mah / 2500 mah 两条并列条件" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "'Can I carry a photo of my ID card or passport as a copy on my phone? No'；装备表写 'photocopy accepted'" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "'the amount of kcal given is a recommendation'" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "'Keep the phone on, airplane mode is prohibited'；'+66 062 325 4122'；'LiveRun application installed and activated'" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "'available from 7 December 2022 onwards'；链接 https://inthanon.utmb.world/discover/transportation/airport-line-shuttle-service" }
+  ]
+}

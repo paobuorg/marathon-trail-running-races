@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-kodiak-history-records",
+  "title": "Kodiak Ultra Marathons history: Big Bear's 100-mile loop",
+  "url": "https://www.runtimeracing.co/articles/kodiak-ultra-utmb-history",
+  "publisher": "Run Time",
+  "publishedAt": "2026-09-14",
+  "accessedAt": "2026-11-20",
+  "claims": [
+    "Kodiak started in 2013 as a locally organised 100-mile race around Big Bear Lake.",
+    "Vincent Bouillard won the 2023 100-mile in 16:22:08, taking more than three hours off the previous course record, and Claire Bannwarth won the women's race in 21:10:28.",
+    "Sam Wood won the 2024 race in 18:24:08 and Kristina Chang won the women's race in 21:15:24.",
+    "Hayden Hawks won the 2025 race in 16:40:37, the second-fastest time in race history; Lin Chen set a women's course record of 19:31:17.",
+    "The 2026 100-mile route is described as 161.4 km with 4,876 m of climbing and 15 checkpoints."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-20",
+    "note": "2026-11-20 直读 Run Time 赛事史；用于历届冠军与纪录。其 2026 距离 161.4 km 与官方 161.1 km 不同，正文不采用该距离，只把差异作为外部口径说明。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-20", "note": "开篇：'started in 2013 as a locally organized 100-mile race'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-20", "note": "Bouillard's 16:22:08 段：2023、16:22:08、Bannwarth 21:10:28" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-20", "note": "同段：Sam Wood 18:24:08；Kristina Chang 21:15:24" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-20", "note": "同段：Hayden Hawks 16:40:37 second-fastest；Lin Chen 19:31:17 women's record" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-20", "note": "The Course 段：161.4 km / 4,876 m / 15 checkpoints；正文仅用于说明第三方距离口径" }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "sourceId": "route-kodiak-official-100k-aid-chart",
+  "title": "Kodiak 100K aid-station chart (imperial, 2026 final)",
+  "url": "https://pdf.utmb.world/image/upload/v1791089450/kodiak/Aid%20Station%20Charts/2026/2026_Kodiak_Ultra_Marathons_by_UTMB_100_K_OFFICIAL_FINAL_Aid_Station_Chart_imperial_3b1f4ca8cf.pdf.pdf",
+  "publisher": "UTMB World Series / HOKA Kodiak Ultra Marathons by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The 2026 100K chart places Start at 0.0 miles, Bear Mountain 1 at 4.9, Sugarloaf 1 at 10.4, Balky Horse at 19.1, Sugarloaf 2 at 24.2, Bear Mountain 2 at 30.3, Snow Summit at 36.7, Hydration-Grandview at 40.9, Bluff Lake at 46.2, Camp Osito at 51.6, Aspen Glen at 55.3 and the finish at 62.8 miles.",
+    "The chart gives cut-offs of 09:30 Saturday at Sugarloaf 1, 14:00 Saturday at Sugarloaf 2, 16:00 Saturday at Bear Mountain 2, 21:00 Saturday at Bluff Lake, 22:45 Saturday at Camp Osito, 00:00 Sunday at Aspen Glen and 02:15 Sunday at the finish.",
+    "The chart's cumulative figures are 10,313 ft of gain and 10,312 ft of loss (about 3,143 m), matching the race page header's 3,143 m+.",
+    "The chart marks drop bags at the start, Sugarloaf 1, Sugarloaf 2, Camp Osito and the finish; crew access is at Sugarloaf 1, Sugarloaf 2, Bear Mountain 2 and Snow Summit, with a mandatory organiser shuttle for supporters at Sugarloaf 1, Sugarloaf 2, Aspen Glen and the finish.",
+    "The station numbering repeats AS# 7 for Hydration-Grandview and Bluff Lake."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 读取 2026 100K 英制补给站 PDF。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "PDF Total Miles 列逐项照录；终点 The Village 62.8" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "PDF Cut-Off Time 列逐项照录" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "PDF 终点累计 Gain 10,313 ft、Loss 10,312 ft；约 3,143 m；赛事页页头 3,143 M+" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-09", "note": "PDF Drop Bags、Supporter Allowed、Mandatory Supporter Shuttle 列逐行照录" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-09", "note": "PDF AS# 列在 Hydration-Grandview 与 Bluff Lake 两行均标 7" }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-gpt100-official-aid-stations",
+  "title": "Aid stations — GPT100 Miler official page",
+  "url": "https://www.gpt100.com.au/aid-stations",
+  "publisher": "SingleTrack Events / Grampians Peaks Trail 100 Miler",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The aid-station page is marked \"NOT FINALISED FOR 2026\".",
+    "The Miler aid stations are numbered #1 GAR Trailhead, #2 Mt Difficult Rd, #3 Halls Gap, #4 Rosea Carpark, #5 Borough Huts, #6 Mt William Carpark, #7 Jimmy Creek Campground, #8 Yarram Gap Rd, #9 Griffin Fireline, #10 Cassidys Gap, #11 Bainggug Carpark and #12 Finish Dunkeld.",
+    "Crew access is listed at GAR Trailhead, Halls Gap, Rosea Carpark, Borough Huts, Mt William Carpark, Jimmy Creek Campground, Griffin Fireline (by the Sterling Place Dunkeld crew shuttle), Cassidys Gap (by the same shuttle), Bainggug Carpark (by the same shuttle) and the Dunkeld finish; Mt Difficult Rd and Yarram Gap Rd have no crew access.",
+    "Drop bags are accepted at Halls Gap, Mt William Carpark, Jimmy Creek Campground, Griffin Fireline and the Dunkeld finish.",
+    "Yarram Gap Rd was changed to an emergency aid station in 2026 with limited supplies of water, electrolyte drink, chips and lollies, and it has no crew access.",
+    "Limited beds for a power nap are listed at Borough Huts, Mt William Carpark, Jimmy Creek Campground, Griffin Fireline and Cassidys Gap.",
+    "Stations carry water, PURE electrolyte drink, PURE energy gels, cola, ginger beer, fruit, lollies, chocolate, chips and boiled potatoes; the larger stations add hot soup, noodles with a gluten-free option, toasties with gluten-free and vegan options, and coffee, tea and Milo; every station has sunscreen, salt, sugar and ice.",
+    "All SingleTrack aid stations are described as Trail Sisters compliant."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接抓取 gpt100.com.au/aid-stations，读取 Miler 段全部 12 个编号站点、crew、存包、床位与补给清单。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页首标题下第一行：(NOT FINALISED FOR 2026)" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "GPT100 Miler (Solo and Pairs) 段 #1 至 #12 逐项照录；#12 为 FINISH - Dunkeld" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "各站 Crew Access 行：#2 NO CREW ACCESS、#8 NO CREW ACCESS；#9/#10/#11 写 via Sterling Place Dunkeld Crew Shuttle Service；#3 写 Full Access" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Drop Bag location 仅出现在 #3、#6、#7、#9、#12" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "#8 - Yarram Gap Rd：Changed to Emergency Aid Station in 2026. Limited Supplies；NO CREW ACCESS；补给为 water、Pure Electrolyte Drink、chips、lollies" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "#5、#6、#7、#9、#10 均写 Limited beds ready for athletes who choose to have a power nap" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "页首：sunscreen、salt (and salt tabs)、sugar at every aid station；Ice at all aid stations；各站清单逐项照录" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "页首：All SingleTrack Aid Stations are Trail Sisters Compliant" }
+  ]
+}

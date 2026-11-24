@@ -1,0 +1,37 @@
+{
+  "sourceId": "route-lavaredo-aid-stations",
+  "title": "Aid stations — food and drink matrix for Lavaredo 120K",
+  "url": "https://lavaredo.utmb.world/races-runners/runners/aid-stations",
+  "publisher": "La Sportiva Lavaredo Ultra Trail by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Ospitale lists Näak drink mix, Näak bars, Näak waffles, tarts, chocolate, biscuits, sugar, jam, bread, bananas, apricots, apples, oranges, lemons, raisins, almonds and dried apricots; it does not list salami, cheese, Nutella, broth, soup, rice, fruit salad, tomatoes, eggs, potatoes or gluten-free items.",
+    "Passo Tre Croci adds cheese, Nutella, broth and soup to the Ospitale list but still does not list salami, rice, fruit salad, apricots, tomatoes, eggs, potatoes or gluten-free items.",
+    "Misurina adds salami, fruit salad and gluten-free items, but does not list rice, apricots, tomatoes, eggs or potatoes.",
+    "Cimabanche is the only station whose column marks every listed item, including rice, fruit salad, tomatoes, eggs, potatoes and gluten-free items.",
+    "Malga Ra Stua lists every item except gluten-free products.",
+    "Rifugio Col Gallina lists rice, fruit salad and gluten-free items but does not list apples, tomatoes, eggs or potatoes.",
+    "Passo Giau lists rice, fruit salad and tomatoes but does not list Nutella, jam, apples, eggs, potatoes or gluten-free items.",
+    "Rifugio Croda da Lago lists eggs and potatoes but does not list biscuits, rice, fruit salad, apricots, apples, tomatoes or gluten-free items.",
+    "All eight refreshment stations list hot tea, Coca-Cola, cold tea, water and sparkling water."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://lavaredo.utmb.world/races-runners/runners/aid-stations，解析 Lavaredo 120K 折叠表：28 个食物行 × 8 个补给站 + 5 个饮料行；解析脚本 .agent/lavaredo/parse-aid2.mjs"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "矩阵第 0 列（Ospitale）" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "矩阵第 1 列（Passo Tre Croci）" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "矩阵第 2 列（Misurina）" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "矩阵第 3 列（Cimabanche）28 行全部为 ✔" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "矩阵第 4 列（Malga Ra Stua）仅 Senza glutine 行为空" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "矩阵第 5 列（Rifugio Col Gallina）：mele / pomodori / uova / patate 为空，riso 与 Senza glutine 为 ✔" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "矩阵第 6 列（Passo Giau）：Nutella / marmellata / mele / uova / patate / Senza glutine 为空" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "矩阵第 7 列（Rifugio Croda da Lago）：biscotti / riso / macedonia / albicocche / mele / pomodori / Senza glutine 为空；uova 与 patate 为 ✔" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "BEVANDE 段 5 行在 8 列全部为 ✔" }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-sdw100-official-register-2027",
+  "title": "SDW100 2027 Register — official",
+  "url": "https://centurionrunning.com/races/south-downs-way-100-2027/section/register",
+  "publisher": "Centurion Running",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Entries for 2027 open at 1900 on Sunday 19 July 2026, and 'Once the initial places are sold, a waiting list will be in operation.'",
+    "Elite entry guidance is an ITRA Index of 750+ for men and 600+ for women, with case-by-case consideration for athletes not on ITRA.",
+    "Withdrawals up to four weeks before race day may receive a refund minus a 30% admin fee or a deferral minus a 15% admin fee; withdrawals within four weeks receive no refund and cannot be deferred, except for pregnancy or postpartum notified at least four weeks before race day, which is eligible for a 100% refund.",
+    "The refund section of the 2027 register page still refers to 'Your 2026 place' and '15% of your 2026 fee', wording carried over from the previous edition."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接抓取并读取该页。waiting list 表述与 FAQ 的 'no waiting list' 直接冲突；退款段仍写 2026，属页面自身残留。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "首段：'Entries for 2027 open at 1900 on Sunday 19th July 2026.'；'Once the initial places are sold, a waiting list will be in operation.'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Elite Entries 段：'ITRA Index score of 750+ (Men) and 600+ (Women)'；'case by case basis'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Cancellation 段：'up to 4 weeks prior... refund, minus a 30% admin fee, or a deferral to 2027, minus a 15% admin fee'；'Within four weeks... no refund'；'pregnancy/ postpartum... 100% refund'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "同段原文：'Your 2026 place will then be cancelled'；'15% of your 2026 fee plus any price difference for 2027'" }
+  ]
+}

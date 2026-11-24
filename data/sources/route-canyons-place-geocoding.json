@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-canyons-place-geocoding",
+  "title": "Open-Meteo geocoding — Auburn, California, United States",
+  "url": "https://geocoding-api.open-meteo.com/v1/search?name=Auburn&count=5&language=en&format=json&countryCode=US&admin1=California",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "Open-Meteo geocoding returns Auburn, Placer County, California at latitude 38.89657, longitude -121.07689, elevation 374 m.",
+    "The result is a town centroid, not the China Wall start line or the downtown finish."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 调用 Open-Meteo geocoding API，取 Auburn, California 的镇中心坐标作地图锚点。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "API 返回 latitude 38.89657、longitude -121.07689、elevation 374.0、feature_code PPLA2、admin1 California" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "feature_code 为 PPLA2（county seat），不是赛道起终点测量点" }
+  ]
+}

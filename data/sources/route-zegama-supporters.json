@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-zegama-supporters",
+  "title": "Options for the supporters and traffic tips 2026 — Zegama-Aizkorri",
+  "url": "https://www.zegama-aizkorri.com/en/news/356-supporters-options-2026",
+  "publisher": "Zegama-Aizkorri Mendi Maratoia (organiser)",
+  "publishedAt": "2026-05-08",
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The organiser's spectator guide calls Sancti Spiritu 'the mythical point of the race' and says the Supporter Point is located there.",
+    "The same guide gives three ways to reach Sancti Spiritu: a bus from Zegama plus a 6.3 km walk with 450 m of ascent; a 6.9 km walk from the Zegama square with 661 m of ascent; and a shuttle from the Suazarreta car park to the Otzaurte pass followed by a 5 km climb with 460 m of ascent.",
+    "The same guide says the bus to the train station runs from 06:30 to 08:00 and needs no reservation, and that the shuttle from Suazarreta starts at 06:00."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取赛事官网 2026-05-08 观众指南全文，抄录三条到达 Sancti Spiritu 的路线（距离与爬升）与首班车时间。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'Sancti Spiritu, the mythical point of the race where the Supporter Point will be located'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'6.3km long ... 450m'；'6.9km climb with a positive difference in altitude of 661m'；'5km of ascent with 460 metres of positive difference in altitude'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'From 06:30 until 08:00 a bus ... There is no need to make a reservation'；'From 6 a.m. onwards, from the Suazarreta car park there will be a shuttle bus'" }
+  ]
+}

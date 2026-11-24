@@ -1,0 +1,80 @@
+{
+  "entityId": "route:occ",
+  "slug": "occ",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-occ-2026",
+    "route-utmb-series-2026",
+    "route-utmb-transport",
+    "route-orrieres-openmeteo",
+    "route-occ-results-2026",
+    "route-occ-openmeteo",
+    "route-utmb-2026-rules",
+    "route-utmb-2026-practical",
+    "route-utmb-2026-waves",
+    "route-utmb-2026-registration",
+    "route-occ-gpx-2026",
+    "photo-occ-orsieres-church",
+    "photo-occ-champex-lake",
+    "photo-occ-chamonix-town"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:recovery-day",
+    "tool:track-view",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-08",
+  "updatedAt": "2026-11-23",
+  "reviewedAt": "2026-11-23",
+  "reviewDueAt": "2027-05-30",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "CH",
+      "FR"
+    ],
+    "placeName": {
+      "zh-CN": "瑞士奥西耶尔至法国霞慕尼",
+      "en": "Orsières, Switzerland to Chamonix, France"
+    },
+    "mapAnchor": {
+      "longitude": 7.1667,
+      "latitude": 46.0833,
+      "kind": "start",
+      "sourceRef": "route-occ-2026"
+    },
+    "courseVersion": "2026-occ-60k-final",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [
+      {
+        "edition": "2026",
+        "observedAt": "2026-11-20",
+        "field": "course",
+        "change": "route-refined",
+        "from": "旧版页面未单列的最高点",
+        "to": "Tête de Balme 2,321 m（2026 新增）",
+        "sourceRef": "route-occ-2026",
+        "note": {
+          "zh-CN": "官方 2026 页面写明 Tête de Balme（2,321 m）为本届新增最高点；赛道因此两次穿越法瑞边界。",
+          "en": "The official 2026 page states that Tête de Balme (2,321 m) is the new high point and that the course crosses the French-Swiss border twice."
+        }
+      }
+    ],
+    "direction": "Orsières (CH) → Champex-Lac → Trient → Col de Balme → Tête de Balme → Swiss side → Vallorcine (FR) → Col des Posettes → Chamonix (FR)",
+    "distanceMeters": 61400,
+    "distanceMethod": "Official 2026 OCC course-profile block and timing table: 61.4 km. The same page's stat block says 60 km. This card uses the 61.4 km table total; the page shows both figures and they are not averaged.",
+    "elevationGainMeters": 3342,
+    "elevationMethod": "Official 2026 OCC course-profile block and timing table: 3,342 m of positive gain and 3,222 m of negative gain. The same page's stat block says 3,500 m. This card uses the 3,342 m table total; the page shows both figures and they are not averaged.",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://pdf.utmb.world/raw/upload/v1787126004/montblanc/Races/GPX/2026/OCC_2026_V2_94a3b7427e.gpx",
+    "attribution": "UTMB Mont-Blanc / UTMB World Series. The organiser page exposes a direct GPX (OCC 2026, 831,287 bytes). The file was downloaded once to a temporary directory and measured locally (5,118 points, 60.14 km planar, +3,342 / −3,221 m at a 3 m threshold, 893–2,311 m), then deleted. The GPX sits between the official 60 km header and 61.4 km timing table; it is linked as official geometry but not treated as a replacement for either official figure. The file carries a LiveTrail copyright line and no redistribution licence; no track is mirrored, hosted or redrawn."
+  }
+}

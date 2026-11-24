@@ -1,0 +1,76 @@
+{
+  "sourceId": "route-shanghai-2026-guide",
+  "title": "2026上海马拉松参赛攻略已送达",
+  "url": "https://news.qq.com/rain/a/20261121A08V6500",
+  "publisher": "上海体育（上海市体育局官方账号，腾讯新闻转载）",
+  "publishedAt": "2026-11-21",
+  "accessedAt": "2026-11-21",
+  "claims": [
+    "The 2026 Shanghai Marathon uses six gun starts: 06:45 wheelchair, 07:00 elite/pre-elite/A, 07:04 B, 07:10 C, 07:19 D and 07:26 E.",
+    "Start corral access points are: A at Hankou Road/Henan Middle Road, B at Jiujiang Road/Henan Middle Road, C via Nanjing East Road/Henan Middle Road then Jiangxi Middle Road and Dianchi Road, D at Beijing East Road/Henan Middle Road, and E at Henan Middle Road/Suzhou South Road.",
+    "Bag trucks are assigned by corral: A1-A3 on Hankou Road, B1-B5 on Jiujiang Road, C1-C7 on Dianchi Road, D1-D6 on Beijing East Road and E1-E8 on Suzhou South Road; bag drop closes at 06:45 and runners are advised to enter the check area before 06:30.",
+    "Drink/water stations run every 5 km from 5 km; water/sponge stations run every 5 km from 7.5 km. Energy supplies are bananas at 12.5, 15, 32.5 and 37.5 km, small cakes at 17.5 and 35 km, SiS gels at 25 km and chocolate at 27.5 and 40 km.",
+    "After the finish, runners enter Shanghai Stadium through Passage 4 for the medal and finish bag, pass the sponsor area and exit through Passage 1; bag tents A1-A3 and B1-B2 exit via Xujiahui Sports Park Gate 1, while B3-B5, C1-C7, D1-D6 and E1-E8 exit via Gate 2 towards Metro Lines 1 and 4 at Shanghai Indoor Stadium.",
+    "The official guide forecasts light rain and 10-15 C for race day, while noting that the latest forecast prevails.",
+    "Runners in corrals A-D are advised to take Metro Lines 2 or 10 to Nanjing East Road and walk 10-15 minutes; corral E runners are advised to take Lines 10 or 12 to Tiantou Road, with a longer walk.",
+    "The race distance is 42.195 km."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-21",
+    "checkedVia": "web_fetch 全文分页读取 https://news.qq.com/rain/a/20261121A08V6500（页面标注“上海体育SHTY / 上海市体育局官方账号”）",
+    "note": "2026-11-21 15:06 发布；正文含分枪表、集结流线、存衣车、补给站、终点流线、天气与交通建议。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "分枪示意图：6:45 轮椅；7:00 精英/预达级/A；7:04 B；7:10 C；7:19 D；7:26 E。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "正文逐条列出 A–E 区入口：汉口路/九江路/南京东路转江西中路、滇池路/北京东路/南苏州路，均与河南中路相关。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "正文列出 A1–A3 汉口路、B1–B5 九江路、C1–C7 滇池路、D1–D6 北京东路、E1–E8 南苏州路；存衣车 6:45 关闭，建议 6:30 前进入检录口。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "正文写明两类站点从 5/7.5 km 起每 5 km；能量补给逐点列出香蕉 12.5/15/32.5/37.5、小蛋糕 17.5/35、SiS 25、巧克力 27.5/40。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "终点流线段：4号通道进场、1号通道出场；A1–A3、B1–B2 从1号门出，其余从2号门出，均指向地铁1/4号线上海体育馆站。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "正文“预计比赛日有小雨，气温10—15℃”，并注明以赛前最新预报为准。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "正文：A–D 区乘地铁2/10号线至南京东路站步行10–15分钟；E 区乘10/12号线至天潼路站，步行稍远。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-21",
+      "note": "正文写“42.195公里”。"
+    }
+  ]
+}

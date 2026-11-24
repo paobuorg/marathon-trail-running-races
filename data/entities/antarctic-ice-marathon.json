@@ -1,0 +1,61 @@
+{
+  "entityId": "route:antarctic-ice-marathon",
+  "slug": "antarctic-ice-marathon",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-antarctic-2026",
+    "route-antarctic-event",
+    "route-antarctic-schedule-2026",
+    "route-antarctic-faq",
+    "route-antarctic-results-2025",
+    "route-antarctic-gear",
+    "route-antarctic-camp",
+    "photo-antarctic-union-glacier-camp",
+    "photo-antarctic-union-glacier-hq",
+    "photo-antarctic-blue-ice-runway"
+  ],
+  "relatedRefs": [
+    "knowledge:cold-weather-running",
+    "knowledge:long-run-fueling",
+    "tool:race-checklist",
+    "tool:pace"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-19",
+  "updatedAt": "2026-11-24",
+  "reviewedAt": "2026-11-24",
+  "reviewDueAt": "2027-03-04",
+  "details": {
+    "raceType": "trail-mountain",
+    "countryCodes": [
+      "AQ"
+    ],
+    "placeName": {
+      "zh-CN": "南极洲联合冰川",
+      "en": "Union Glacier, Antarctica"
+    },
+    "mapAnchor": {
+      "longitude": -82.8667,
+      "latitude": -79.7667,
+      "kind": "start",
+      "sourceRef": "route-antarctic-camp"
+    },
+    "courseVersion": "2026-antarctic-ice-marathon",
+    "courseEdition": "2026",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "Four laps of a 10.55 km loop from Union Glacier camp; the loop direction is not published.",
+    "distanceMeters": 42195,
+    "distanceMethod": "Official home page: 26.2 miles. Official FAQ: the marathon is normally a 10.55 km loop repeated four times with an aid station every 5 km. Four laps arithmetically total 42.20 km, about 5 m short of 42.195 km; this page treats 42.195 km as the nominal marathon distance and preserves the loop arithmetic rather than inventing a measured 42.195 km loop. No GPX or surveyed course map is published.",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "Antarctic Ice Marathon / Runbuk. No GPX, GeoJSON or surveyed course map is published; the map anchor uses the ALE Union Glacier camp coordinates (79°46′S 82°52′W)."
+  }
+}

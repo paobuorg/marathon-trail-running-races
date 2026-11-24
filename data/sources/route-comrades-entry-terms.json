@@ -1,0 +1,37 @@
+{
+  "sourceId": "route-comrades-entry-terms",
+  "title": "Comrades Marathon 2027 Entry Terms and Race Rules",
+  "url": "https://www.comrades.com/comrades-race-rules",
+  "publisher": "Comrades Marathon Association (CMA)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The Entry Terms govern entry into and participation in the 100th Comrades Marathon, scheduled for Sunday, 13 June 2027 as a Down Run from Pietermaritzburg to Durban over an approximate distance of 89 km, subject to final measurement and the Final Race Instructions.",
+    "The Race is organised by the Comrades Marathon Association (CMA).",
+    "The Race is not affiliated to Athletics South Africa or KwaZulu-Natal Athletics and is not represented as a World Athletics sanctioned event.",
+    "Required information must be submitted by 16h30 on 3 May 2027, failing which the entry will be forfeited.",
+    "Athletes must be at least 20 years old on the day of qualification.",
+    "The qualification window is 15 June 2026 to 3 May 2027; the qualifying event must be at least 42.2 km; only official published results are accepted, and Garmin, Strava or other personal-device records are not accepted.",
+    "The official risk list includes dehydration, heat or cold illness, cardiac events, collapse, musculoskeletal injury, traffic or crowd incidents, and death.",
+    "Unauthorised vehicles, mobile seconding or pacing, and carrying or physically supporting a runner are prohibited; stationary \"stand and hand\" assistance is permitted only to the extent stated in the final Race Rules.",
+    "A runner who misses a route or finish cut-off must immediately retire, leave the route as directed and use official withdrawal transport where instructed; the Final Race Instructions will confirm cut-off locations and times after the start format is approved."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 2027 Entry Terms / Race Rules 全文，抄录 1.1、1.3、2.1、2.2、7.5、9.1、12.7、12.8 条款。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "1.1 原句：'the 100th Comrades Marathon, scheduled for Sunday, 13 June 2027 as a Down Run from Pietermaritzburg to Durban over an approximate distance of 89 km, subject to final measurement and the Final Race Instructions'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "1.1 原句：'The Race is organised by the Comrades Marathon Association (\"CMA\")'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "1.3 原句：'The Race is not affiliated to Athletics South Africa or KwaZulu-Natal Athletics and is not represented as a World Athletics sanctioned event.'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "2.1 原句：'Required information must be submitted by 16h30 on 3 May 2027, failing which the entry will be forfeited.'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "2.2 原句：'You must be at least 20 years old on the day of qualification'。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "7.5 原句：'The qualification window is 15 June 2026 to 3 May 2027'；'at least 42.2 km'；'Only official published results are accepted; personal-device records such as Garmin or Strava data are not accepted.'" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "9.1 原句列出 dehydration、heat or cold illness、cardiac events、collapse、musculoskeletal injury、traffic or crowd incidents、death。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "12.7 原句：'Unauthorised vehicles, mobile seconding or pacing, and carrying or physically supporting a runner are prohibited. Stationary \"stand and hand\" assistance is permitted only to the extent stated in the final Race Rules.'" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "12.8 原句：'A runner who misses a route or finish cut-off must immediately retire... The Final Race Instructions will confirm cut-off locations and times after the start format is approved.'" }
+  ]
+}

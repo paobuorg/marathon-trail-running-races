@@ -14,5 +14,21 @@
     "On race day 2026-10-18 the daily maximum is 17.2C, the minimum is 10.5C and precipitation is 0.0 mm.",
     "These are modelled grid values, not measurements taken on the course."
   ],
-  "license": "CC-BY-4.0"
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 调用Open-Meteo archive API → .agent/chicago-beijing35/beijing-weather.json",
+    "note": "JSON九日序列逐值复算；极值与中位数一致"
+  },
+  "claimVerification": [
+    {"index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "网格39.89455N/116.35983E，海拔47 m，时区Asia/Shanghai"},
+    {"index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "9条日值，覆盖2026-10-11至2026-10-19"},
+    {"index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "日最高16.2至26.6°C，中位21.5°C"},
+    {"index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "日最低6.8至15.9°C，中位12.8°C"},
+    {"index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "1天≥1 mm且≥5 mm；最大单日52.2 mm出现在2026-10-17"},
+    {"index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "2026-10-18最高17.2°C、最低10.5°C、降水0.0 mm"},
+    {"index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "数据为再分析网格值，不是赛道实测"}
+  ]
 }

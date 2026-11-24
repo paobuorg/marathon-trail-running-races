@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-canyons-official-100m",
+  "title": "Canyons 100M — Canyons Endurance Runs by UTMB 2027",
+  "url": "https://canyons.utmb.world/races/100M",
+  "publisher": "UTMB World Series / Canyons Endurance Runs by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-09",
+  "claims": [
+    "The 100M is 100 miles with 18,208 ft+ of gain, starts at China Wall Trailhead on Friday 23 April 2027 at 12:00 and has a 35-hour limit; it carries 4 Running Stones.",
+    "The course description says the route has approximately 18,000 ft of gain and 22,000 ft of descent.",
+    "After No Hands Bridge the 100M adds the K2 climb, Cool, the Coffer loop, the Olmstead loop and a return through Brown's Bar and American Canyon before finishing in downtown Auburn."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-09",
+    "note": "2026-11-09 直接抓取并读取 2027 100M 赛事页。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-09", "note": "页头：100 Miles、Elevation Gain 18208 ft+、Start Date Friday 23rd April 2027、Race Start China Wall Trailhead 12:00、Max Allowed Race Time 35 Hours、Running Stones 4" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-09", "note": "路线段原文 'Approximately 18,000 feet of vert, 22,000 of descent'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-09", "note": "路线段逐段照录 K2、Cool、Coffer、Olmstead、Brown's Bar、American Canyon" }
+  ]
+}

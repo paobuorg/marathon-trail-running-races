@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-tds-ravit-2026",
+  "title": "RAVIT — Mont-Blanc TDS 2026 race analysis",
+  "url": "https://ravit.live/trail/mont-blanc-tds/analyse",
+  "publisher": "RAVIT",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "RAVIT's timing analysis records 1,285 starters and a 44.4% DNF rate for TDS 2026, with 23 timing points.",
+    "The median dropout point is km 66.09; Beaufort accounts for 137 dropouts, Cormet de Roselend 103, Bourg-Saint-Maurice 76, La Gittaz 56, Fort de la Platte 36, Lac Combal 34, Petit-Saint-Bernard 25 and Hauteluce 22.",
+    "RAVIT is a third-party timing-analysis site, not the race organiser; its counts may differ from the official result list."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "web_fetch",
+    "note": "Third-party race analysis read; figures are used only as clearly labelled third-party context."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Analysis header and summary cards."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Dropout distribution chart and table."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Publisher identity and caveat added by this site, not a claim in the source."
+    }
+  ]
+}

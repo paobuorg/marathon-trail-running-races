@@ -10,7 +10,45 @@
     "The HK100 course is based on the MacLehose Trail, with diversions that take runners through its most scenic sections, and finishes with the descent from Tai Mo Shan, Hong Kong's highest peak.",
     "The event weekend includes HK100, The Half and The Third, and runners can enter The Grand Sam to take on all three distances over three consecutive days.",
     "The Third finishes with a climb up to Tai Cham Koi, which gives a 360-degree panoramic view of the Sai Kung Peninsula.",
-    "The page lists all three physical events as part of the ITRA National League for 2026."
+    "The page lists all three physical events as part of the ITRA National League for 2027."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://hk100ultra.com/introduction/ 正文"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Introduction 首段：“The courses start in the Sai Kung Peninsula”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Introduction：“based around Hong Kong’s famous Maclehose Trail, but with some diversions… most scenic sections”；同段：“finishes with the descent from Tai Mo Shan, Hong Kong’s highest peak”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Introduction：“You can even take on all 3 distances over 3 consecutive days by signing up for The Grand Sam”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Introduction：“finishes with a climb up to Tai Cham Koi… 360-degree panoramic view of the Sai Kung Peninsula”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "ITRA National League 段：“Complete 3 races in Hong Kong during 2027… ITRA’s Hong Kong National League table 2027”；旧 claim 写 2026，已改到与原文一致的 2027"
+    }
+  ]
 }

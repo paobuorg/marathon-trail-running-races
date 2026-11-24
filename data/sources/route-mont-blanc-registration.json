@@ -1,0 +1,33 @@
+{
+  "sourceId": "route-mont-blanc-registration",
+  "title": "Modalites d'inscriptions selon les courses — Marathon du Mont-Blanc",
+  "url": "https://www.marathonmontblanc.fr/resultats-3-organisation-des-inscriptions",
+  "publisher": "Club des Sports de Chamonix (organiser)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The organiser states that entry to the Mont-Blanc Marathon races is online only, paid by bank card.",
+    "For the 90 km, 42 km, 23 km and Duo Etoile, 10% of bibs are reserved for residents of the Chamonix valley travelling by train, bus, on foot or by bike, with no lottery.",
+    "A further 40% of bibs are reserved for runners coming by train or bus, also without a lottery, on a first-come-first-served basis.",
+    "The remaining 50% of bibs are allocated by a free lottery; a runner may enter only one of the four races subject to the lottery.",
+    "The page states that entry is firm and definitive with no refund for any reason, except through cancellation insurance taken out at registration.",
+    "The page states that payment of carbon compensation for travel to and from Chamonix is mandatory regardless of bib type, and that proof of address must be uploaded at registration.",
+    "The registration procedure and its dates on this page are those used for the 2026 edition (October 2025 opening), not a published 2027 procedure."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官网报名方式页。页面日期为 2025 年 10 月（对应 2026 届），与首页所说 2027 报名 2026 年 11 月开放不是同一轮流程。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'uniquement en ligne, avec un paiement en carte bancaire'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'Je réside dans la Communauté de Communes de la Vallée de Chamonix... je m'inscris sans passer par le tirage au sort. 10% des dossards'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'Je viens en train ou en bus... 40% des dossards... premiers arrivés = premiers servis'。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "'Je viens avec un autre moyen de transport... 50% des dossards... tirage au sort (gratuitement)'；'qu'une seule fois à une seule des 4 courses'。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "'Toute inscription est ferme et définitive et ne fera l'objet d'aucun remboursement... Seuls les coureurs ayant souscrit l'assurance annulation'。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "'Le paiement de la compensation carbone... est obligatoire quel que soit le type de dossard'；'justificatif de domicile'。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "页面所列开放日期为 'lundi 20 octobre 2025'、'mercredi 22 octobre 2025'、'jeudi 23 octobre 2025'，属 2026 届流程。" }
+  ]
+}

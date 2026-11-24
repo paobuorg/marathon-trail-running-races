@@ -12,5 +12,44 @@
     "The official course map shows central Tokyo landmarks including Tokyo Tower, Asakusa Kaminarimon and Ginza.",
     "The official course page currently presents the 2027 course; this entity pins the 2026 edition shown in the linked 2026 course map."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "WebFetch https://www.marathon.tokyo/en/about/course/；附 PDF illustmap_2026en.pdf 为图片版",
+    "note": "路线页文字（预计通过时刻表）已读；2026 路线图 PDF 无可提取文字，图上地标标注不在文字可核范围。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面预计通过时刻表 0.0 km 标 Tokyo Metropolitan Government Bldg. No.1"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面终点 42.195 km 与 2026 选手手册 P24 一致"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "页面同时给出 Course Map 下载与 Elevation Profile 图"
+    },
+    {
+      "index": 3,
+      "status": "partial",
+      "checkedAt": "2026-11-08",
+      "note": "文字表可确认银座（33 km 附近）与浅草一带站点；东京塔、浅草雷门是否在图上标注无法从可读文字确认，PDF 为图片版"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2026-11-08 页面标题为 Tokyo Marathon 2027，但下载链接仍指向 illustmap_2026en.pdf"
+    }
+  ]
 }

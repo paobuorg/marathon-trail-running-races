@@ -24,7 +24,150 @@
     "CP8 Beacon Hill is generally only accessible on foot, about an hour's hike from the nearest road.",
     "CP9 Shing Mun Dam is car accessible with very limited parking.",
     "CP10 Leadmine Pass is generally only accessible on foot, about an hour's hike from the nearest road.",
-    "The page states that the start and CP1 to CP5 also apply to The Half, and that the start, CP1 and CP2 also apply to The Third."
+    "The page states that the start and CP1 to CP5 also apply to The Half, and that the start, CP1 and CP2 also apply to The Third.",
+    "The page recommends using GL Tours to help reduce traffic jams to the start.",
+    "The page gives the Chinese address 西貢大網仔路北潭涌 to show to a taxi driver.",
+    "The start at Pak Tam Chung is car accessible with limited parking, and there is no parking at the finish point."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 https://hk100ultra.com/transportation/ 正文"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "To Start Point 段：“For HK100, The Half and The Third, the Start is located at Pak Tam Chung in Sai Kung on Tai Mong Tsai Road”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "By taxi 段：“less than an hour and cost a little under HKD300… from Kowloon… about 45 minutes and cost about HKD200”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Part (1)：“Bus no. 92: From Diamond Hill… Starts from 6 am, every 30 minutes”；“Minibus no. 1A… from 6.30 am, leaves when full”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Part (1)：“Minibus no. 101M… starts from 5.30 am, leaves when full”"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Part (2)：“Bus no. 94… from 6 am every 30 minutes”；“minibus no. 9… from 6.15 am every 30 minutes”"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Transfer To Start Point 段：“GL Tours of Hong Kong is appointed as the official travel services partner for the 2027 Hong Kong 100”"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Leaving The Finish 段：“Rotary Club Park on Tai Mo Shan Road in Tai Mo Shan Country Park off Route Twisk”"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "By Event shuttle bus 段：“5:30 pm on 23 January 2027 to 2.30 pm on 24 January 2027, leaves when full. The service is complimentary”；后段“every 30 minutes or so between 5:30pm on Saturday to 11am on Sunday”"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "By Event shuttle bus 段：“closed from 08:00 on 23 January to 17:00 on 24 January 2027”；“No participants’ cars or taxis are allowed”"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Bus 51 段：“about 3 minutes walk from the Finish Point… stops at around 11 pm and resumes at 6 am. Every 30 – 40 minutes”"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Accessibility 段：“CP1 – East Dam: The road to East Dam will be closed on race days”"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Accessibility 段：“CP2… CP3… CP4: taxi or public transport (no private vehicles unless with special permit)”"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Accessibility 段：“CP5 – Yung Shue O: taxi (no private vehicles unless with special permit)”"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Accessibility 段：“CP6 – Kei Ling Ha: taxi or public transport (extremely limited space for parking available)”"
+    },
+    {
+      "index": 14,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Accessibility 段：“CP7 – Gilwell Camp: taxi (very limited parking available)”"
+    },
+    {
+      "index": 15,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Accessibility 段：“CP8 – Beacon Hill: generally only accessible on foot (about an hour’s hike)”"
+    },
+    {
+      "index": 16,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Accessibility 段：“CP9 – Shing Mun Dam: car accessible (very limited parking available)”"
+    },
+    {
+      "index": 17,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Accessibility 段：“CP10 – Leadmine Pass: generally only accessible on foot (about an hour’s hike)”"
+    },
+    {
+      "index": 18,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Accessibility 段脚注：“Start, CP1 to CP5 apply also to The Half. Start, CP1 and CP2 apply also to The Third”"
+    },
+    {
+      "index": 19,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Transfer To Start Point 段：“We recommend using the service of GL Tours to help to reduce traffic jams to the Start”"
+    },
+    {
+      "index": 20,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "By taxi 段：“You may want to print the following address in Chinese and show to your taxi driver: 西貢大網仔路北潭涌”"
+    },
+    {
+      "index": 21,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Accessibility 段：“Start – Pak Tam Chung: car accessible (limited parking available)”；“No parking at Finish point available”"
+    }
+  ]
 }

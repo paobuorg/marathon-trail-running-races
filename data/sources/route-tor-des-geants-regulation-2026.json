@@ -4,7 +4,7 @@
   "url": "https://torxtrail.com/wp-content/uploads/2026/01/ENG-REGULATIONS-TORX-2026.pdf",
   "publisher": "TORX / VDA Trailers",
   "publishedAt": null,
-  "accessedAt": "2026-11-06",
+  "accessedAt": "2026-11-08",
   "claims": [
     "The regulations describe the races as taking place in a single stage, at free speed, within a limited time, under a semi-self-sufficiency regime.",
     "TOR330 is described as a route of approximately 350 km with around 25,000 m of positive gain evaluated by ITRA, crossing 34 municipalities on official trails of Valle d'Aosta, with refreshment points every 7/10 km and six Life Bases in Valgrisenche, Cogne, Donnas, Gressoney SJ, Valtournenche and Ollomont.",
@@ -22,7 +22,117 @@
     "Any personal assistance along the route, and any pacing, leads to disqualification.",
     "Each Life Base has an entry and an exit time barrier, and runners may not leave after the limit has expired.",
     "The organisation may postpone or cancel the race in unfavourable or extreme weather conditions.",
-    "Mandatory equipment includes a cup, a mobile phone kept on, an identity document, two survival blankets, food and water supplies, two head torches with spare batteries, a handheld GPS navigator with the course loaded, route maps, an altimeter and a compass."
+    "TOR330 mandatory equipment covers a cup, a mobile phone kept on, an identity document, two survival blankets, food and water supplies and two head torches with spare batteries; the handheld GPS navigator, route maps, altimeter and compass are listed only in the TOR450 column."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "官方英文规则 PDF，25 页；2026-11-08 用 PyMuPDF 提取全文，逐条对到页码与条款号"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "p.2 §3 DESCRIPTION：single stage, free speed, limited time, semi-self-sufficiency"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "p.2 §3 TOR330：约 350 km、约 25,000 m D+（ITRA 评估）、34 个市镇、补给点每 7/10 km、6 个 Life Base（Valgrisenche、Cogne、Donnas、Gressoney SJ、Valtournenche、Ollomont）"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "p.22 §24 表：TOR330 150 h"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "p.4 §6 表 €990；p.5 §7 名额上限 1,100；p.4 §5 年满 20 岁"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "p.4 §6 表：ITRA points 6、Mountain points 12"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "p.19 §20：所有官方补给点同时是检查点，未打卡取消资格"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "p.19 §20：饮料食物仅限跑者并须现场食用，不提供塑料杯；p.15 §14 强制装备含杯或容器"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "p.19 §20：部分补给点设休息区，最多 2 小时"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "p.20 §21：Life Base 提供完整热食、热水淋浴、较长休息；仅限跑者；进出均须打卡"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "p.20 §21：禁止在组织方划定并管控区域之外的任何建筑、棚屋或车辆中睡觉"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "p.20 §22：TOR 包由组织方在 Life Base 间转运；进入时本人领取、离开时本人交回"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "p.21 §23：退赛须到最近检查点报告，组织方安排送回 Courmayeur Life Base"
+    },
+    {
+      "index": 12,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "p.17 §15 HELICOPTER RESCUE：仅用于需要紧急医疗救助的伤员，不能作为退赛交通"
+    },
+    {
+      "index": 13,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "p.18 §17 个人协助取消资格；p.19 §18 陪跑取消资格"
+    },
+    {
+      "index": 14,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "p.22 §24：每个 Life Base 有进入与离开两个时间闸门；超时不得离开"
+    },
+    {
+      "index": 15,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "p.22 §25：恶劣天气可推迟起跑；极端条件取消比赛"
+    },
+    {
+      "index": 16,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原 claim 把 p.15 §14 的两列合并了。左列（TOR330/TOR130/TOR100/TOR30）为杯、手机、证件、两条保温毯、食物、水、两副头灯；手持 GPS、地图、海拔计与指南针只在 TOR450 右列。已按两列改写"
+    }
+  ]
 }

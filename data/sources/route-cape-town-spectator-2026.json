@@ -15,5 +15,62 @@
     "The Company Gardens climb is described as the longest and steepest of the day.",
     "Western Cape Train Service operates a special event train on 24 May with return trips costing R20; spectators can use the Southern Line, and runners can connect to the start via a free shuttle between Thibault and Stadium Stop."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "本地静态抓取 .agent/capetown/raw",
+    "note": "观赛指南全文已读；逐段核对公里点、关门、爬坡描述与火车信息"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：'24 May'、'27,000 runners'、'42.2km'"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：Beach Road 0km；wheelchair 07:50 from Stadium；elite 08:00；AGWC Beach Road 08:05；final wave 09:06"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：Vlei Road 42.2km；final cut-off 15:50；first wheelchair 'around 09:30'"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：N2 off-ramp 6.5km；Rondebosch 15–17km，elite refreshment 15.5km；Rondebosch Common 20–22km"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：Salt River Circle 26.7km；Albert Road 27–29km；Darling St 30km；Company Gardens 30.7–32.1km；Long St 32.1–33.3km"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：Green Point Main Road 34.2km；Sea Point out-and-back 36.3–41.4km；'head out 3km along the ocean before turning back'"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文称 Company Gardens 爬坡为当天 'longest and steepest climb'"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "原文：special event train 24 May，return R20；Southern Line；Thibault–Stadium 免费穿梭车"
+    }
+  ]
 }

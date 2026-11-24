@@ -19,5 +19,86 @@
     "Packet pick-up was scheduled for 26-28 February 2026 at Tokyo Big Sight South Exhibition Halls, 3-11-1 Ariake, Koto, Tokyo, with no race-day pick-up.",
     "The entry period ran from June to August 2025, with different windows by category."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 PDF → .agent/tokyo35/outline.pdf；PyMuPDF 提取 17 页正文",
+    "note": "官方 PDF 正文可读；大会要項与路线顺序在第 3–4 页。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第1页「開催日程：2026年3月1日（日）」"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第1页「定員：39,000名（マラソン：38,500名、10.7km：500名）」"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第1页参加費：国内19,800円/海外230ドル；10.7km 5,600円/60ドル，含参加料、手续费与税"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第4页「マラソン：7時間(9時10分競技開始、16時10分競技終了)」；車いす2時間10分(9:05–11:15)"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第4页「10.7km：2時間(9時10分…11時10分)」；車いす40分(9:05–9:45)"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第3页コース：東京都庁～水道橋～上野広小路～…～東京駅前・行幸通り"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第3页「日本陸上競技連盟/公認コース、ワールドアスレティックス・AIMS/認証コース」"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第3页「WAが認定するエリートプラチナラベル」"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第3页10.7km：東京都庁～水道橋～神田～日本橋；「記録は公認されません」"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第4页「関門閉鎖時刻を設けます。関門以外においても著しく遅れた場合は、競技を中止」"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第5页受付 2026/2/26–28，東京ビッグサイト南展示棟；「大会当日は、ランナー受付を行いません」"
+    },
+    {
+      "index": 11,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "第1页：チャリティ6/24–7/9、準エリート等8/1–14、一般8/15–29；第4页注明区分不同"
+    }
+  ]
 }

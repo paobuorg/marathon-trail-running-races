@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-mgu-openmeteo",
+  "title": "Open-Meteo ERA5 archive — Tengchong, 20–22 March, 2015–2025",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=25.02&longitude=98.49&start_date=2015-03-20&end_date=2025-03-22&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=auto",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "For Tengchong on 20–22 March in 2015–2025 there are 33 daily records: daily maximum 16.2–26.9 °C (median 21.6 °C), daily minimum 4.1–11.1 °C (median 7.9 °C), 10 days with at least 1 mm precipitation and 4 days with at least 5 mm.",
+    "The station is Tengchong city, not the Gaoligong ridge at 2,000–3,000 m."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "Open-Meteo archive API",
+    "note": "Daily values retrieved and filtered to 20–22 March; medians and wet-day counts calculated locally."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "33 rows, computed from downloaded CSV."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "API coordinates 25.02, 98.49; Tengchong city."
+    }
+  ]
+}

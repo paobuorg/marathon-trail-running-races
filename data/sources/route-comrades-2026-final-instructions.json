@@ -1,0 +1,43 @@
+{
+  "sourceId": "route-comrades-2026-final-instructions",
+  "title": "Comrades Marathon 2026 Final Race Instructions",
+  "url": "https://mosaic-cms.b-cdn.net/media/documents/eTHAozbqa8Kc5phwH5XakHTs/w32429-comrades-2026-final-race-instructions-l.pdf",
+  "publisher": "Comrades Marathon Association (CMA)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "A total of 49 official, fully stocked refreshment stations were positioned along the 2026 route; all stations offered water sachets, Thirsti Sport energy drinks and Coca-Cola, and selected stations also offered potatoes, orange segments, bananas, 32Gi supplements and Orange Grove Amahewu.",
+    "Supporters could provide refreshments or supplies to non-elite participants from a stationary position alongside the route; mobile seconding was prohibited, as was parking on freeways or restricted roads, and no supporter or second could drive, cycle or run alongside a participant within 100 metres of a refreshment station.",
+    "Participants had to move forward under their own power; anyone carried or physically supported on the route or across the finish line would be stopped, referred for medical attention and subjected to disciplinary procedures.",
+    "The 2026 event used a Traffic Light Cut-off System with six intermediate cut-off points at 18.5 km (Pinetown Underpass), 29.5 km, 43.0 km, 56.9 km, 67.0 km and 79.1 km, plus the finish; all cut-off times were calculated from the final Group 3 start at 05:30, and the finish cut-off was 12 hours.",
+    "The 2026 race started in three groups at 05:00, 05:15 and 05:30, with wheelchair participants starting at 04:45.",
+    "The official race distance for the 2026 Comrades Marathon was 85.777 km.",
+    "The race route was closed to all non-accredited vehicles, bicycles and other individual transport; no driving, cycling or parking was permitted along the route, and certain access roads were closed as dedicated emergency-vehicle escape routes.",
+    "The 2026 race started outside the Durban City Hall and finished inside the Hollywoodbets Scottsville Racecourse in Pietermaritzburg.",
+    "Late starters were accepted only up to 15 minutes after the Group 3 start, i.e. until 05:45, after which the start timing mats were removed.",
+    "The official route map was published on the Comrades Marathon website, the official app and the digital souvenir magazine; the instructions did not provide a downloadable GPX file or a track-reuse licence.",
+    "Dedicated elite refreshment stations allowed seeded athletes to collect pre-mixed drinks and race nutrition; unauthorised removal of or interference with elite supplies could lead to sanctions and exclusion from future races.",
+    "Official rescue buses operated at designated cut-off points and along the route to carry retiring or cut-off runners to the finish area; boarding a rescue bus recorded the race number and marked the runner as a DNF, with no re-entry."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 2026 Final Race Instructions PDF 全文。关门表 OCR 有明显错字，正文只安全引用 Pinetown Underpass 18.5 km、其余里程数字与 12 小时终点，不照抄 OCR 地名。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'A total of 49 official, fully stocked refreshment stations... water sachets, Thirsti Sport energy drinks and Coca-Cola... selected stations will additionally provide potatoes, orange segments, bananas, 32Gi nutritional supplements and Orange Grove Amahewu.'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'from a stationary position alongside the route'；'No supporter or second may drive, cycle or run alongside a participant... within 100 metres of a refreshment station.'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Participants must be able to move forward under their own power'；carried/physically supported runners 'will be stopped and referred for medical attention'。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Traffic Light Cut-off System'；表内六个中途点 18.5/29.5/43.0/56.9/67.0/79.1 km；'all official cut-off times will be calculated from the final Group 3 start at 05h30'；Finish 12:00:00。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'05h00 – Group 1；05h15 – Group 2；05h30 – Group 3'；wheelchair '04h45'。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'The official race distance for the 2026 Comrades Marathon is 85.777km.'" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'The race route will be closed to all non-accredited vehicles, bicycles and other individual transport, and no driving, cycling or parking will be permitted along the route.'" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Start Venue: Outside the Durban City Hall'；'The official finish venue is the Hollywoodbets Scottsville Racecourse in Pietermaritzburg.'" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Late starters will only be accepted up to 15 minutes after the Group 3 start, i.e. until 05:45'。" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Route maps are available on the Comrades Marathon website, the official Comrades Marathon App and in the digital souvenir magazine'；PDF 没有 GPX 下载链接或轨迹许可。" },
+    { "index": 10, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Only elite seeded athletes may collect pre-mixed drinks and race nutrition from the elite refreshment stations'；'Unauthorised removal of or interference with elite refreshment supplies may lead to sanctions and exclusion from future races.'" },
+    { "index": 11, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Official rescue buses will operate at designated cut-off points and along the route'；'Once a runner boards a rescue bus, their race number will be recorded, they will be marked as DNF and they may not rejoin the race.'" }
+  ]
+}

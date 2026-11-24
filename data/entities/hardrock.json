@@ -32,9 +32,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-11-06",
-  "reviewedAt": "2026-11-06",
-  "reviewDueAt": "2027-11-06",
+  "updatedAt": "2026-11-08",
+  "reviewedAt": "2026-11-08",
+  "reviewDueAt": "2027-04-10",
   "details": {
     "raceType": "trail-ultra",
     "countryCodes": [
@@ -51,6 +51,9 @@
       "sourceRef": "route-anchor-editorial"
     },
     "courseVersion": "2026-hardrock-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [],
     "direction": "Silverton loop; clockwise in 2026, counter-clockwise in 2027",
     "distanceMeters": 163800,
     "distanceMethod": "Official 2026 course page and runners manual: 101.8 miles (about 163.8 km). The homepage calls it a 100-mile run and the 2025 manual says approximately 102.5 miles; this card uses the 2026 figure.",

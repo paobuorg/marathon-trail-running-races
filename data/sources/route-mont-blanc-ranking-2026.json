@@ -1,0 +1,25 @@
+{
+  "sourceId": "route-mont-blanc-ranking-2026",
+  "title": "Classement - 42km du Mont-Blanc 2026 (official ranking PDF)",
+  "url": "https://www.marathonmontblanc.fr/sites/default/files/2026-10/ranking-42km.pdf",
+  "publisher": "Club des Sports de Chamonix (organiser)",
+  "publishedAt": "2026-10-19",
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The 2026 42 km ranking lists Remi Bonnet first in 3:33:14 (SUI), Frederic Tranchand second in 3:35:46 (FRA), Manuel Merillas Moledo third in 3:41:43 (ESP), Adrien Briffod fourth in 3:46:20 (SUI) and Kevin Kibet fifth in 3:46:42 (KEN).",
+    "The same ranking lists Antonio Martinez Perez sixth in 3:51:16 (ESP), Loic Robert seventh in 3:53:10 (FRA), Miquel Corbera Rubio eighth in 3:53:35 (ESP) and Sammy Rotich Chelangat ninth in 3:54:00 (KEN).",
+    "The ranking PDF is titled 'Marathon du Mont-Blanc Classement - 42km du Mont-Blanc' and is dated 19 October 2026 in the page footer."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取官网 2026 年 42 km 成绩 PDF 前两页，抄录男子前九名。该 PDF 为男子 scratch 榜，未见女子榜。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'1 #3 - Remi BONNET ... 3:33:14 ... SUI'；'2 #5 - Frederic TRANCHAND ... 3:35:46 ... FRA'；'3 #7 - Manuel MERILLAS MOLEDO ... 3:41:43 ... ESP'；'4 #10 - Adrien BRIFFOD ... 3:46:20 ... SUI'；'5 #11 - Kevin KIBET ... 3:46:42 ... KEN'。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'6 ... Antonio MARTINEZ PEREZ ... 3:51:16'；'7 ... Loic ROBERT ... 3:53:10'；'8 ... Corbera Rubio MIQUEL ... 3:53:35'；'9 ... Sammy Rotich CHELANGAT ... 3:54:00'。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "PDF 页眉 'Marathon du Mont-Blanc Classement - 42km du Mont-Blanc'；页脚 'lun. 19 oct. 10:09'。" }
+  ]
+}

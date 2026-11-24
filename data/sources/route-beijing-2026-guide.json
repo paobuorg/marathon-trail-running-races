@@ -27,5 +27,34 @@
     "The race issues a reusable cup and provides multi-tap self-service water drums and backpack-style water units at service points.",
     "The official race pages and this guide present the course as maps and images; no downloadable GPX or KML file is offered."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取中国新闻网转载页 → .agent/chicago-beijing35/beijing-guide.html；关键时间表与站点表为图片，已下载并逐张读取",
+    "note": "正文与5张图表图片均可读；关门表、功能站点表、入场时间表逐格核对；赛道图仅作图片，不从中读取公里数或爬升"
+  },
+  "claimVerification": [
+    {"index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "关门表图片：5km 08:25、10km 09:00、15km 09:40、20km 10:20、半程10:30、25km 11:00、30km 11:45、35km 12:30、终点13:30"},
+    {"index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "正文：关门时间到后相应路段恢复交通；未跑到相应公里点者须退出赛道"},
+    {"index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "功能站点表列5、7.5、10、12.5、15、17.5、20、22.5、25、27.5、30、32.5、35、37.5、40公里共15个点"},
+    {"index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "补给站标记5/10/15/20/25/30/35/40，共8个"},
+    {"index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "饮水/用水站标记7.5/12.5/17.5/22.5/27.5/32.5/37.5，共7个"},
+    {"index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "食品供应标记10/15/20/25/30/32.5/37.5，共7个"},
+    {"index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "补给站交替饮用水与运动饮料；饮水/用水站交替饮用水与浸水海绵"},
+    {"index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "计时毯在起点、每5公里、半程点、折返点、终点；缺少计时点则无排名"},
+    {"index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "入场时间表图片：起点入场5:30-7:20、存包5:30-7:15、检录5:30-7:30"},
+    {"index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "终点取包须在14:30前完成"},
+    {"index": 10, "status": "supported", "checkedAt": "2026-11-08", "note": "卫生间在1、2、3、4公里，5公里至终点每2.5公里，14与16公里另设"},
+    {"index": 11, "status": "supported", "checkedAt": "2026-11-08", "note": "厕位共1,630个，跑者与厕位约1:20"},
+    {"index": 12, "status": "supported", "checkedAt": "2026-11-08", "note": "5至32.5公里（含）每2.5公里，34公里（含）起每1公里，起终点另设"},
+    {"index": 13, "status": "supported", "checkedAt": "2026-11-08", "note": "和平门B口步行20-30分钟；前门B/C口或E/I/G口步行20-25分钟"},
+    {"index": 14, "status": "supported", "checkedAt": "2026-11-08", "note": "终点向南至8号线奥体中心B2口；D口东侧北辰路免费摆渡至北土城（8/10号线），凭号码布"},
+    {"index": 15, "status": "supported", "checkedAt": "2026-11-08", "note": "官方预报晴、能见度>10公里、偏北风3级阵风5级、07:00-14:00气温14-19℃"},
+    {"index": 16, "status": "supported", "checkedAt": "2026-11-08", "note": "17日全市明显降雨，累计35-50毫米"},
+    {"index": 17, "status": "supported", "checkedAt": "2026-11-08", "note": "红色自备补给桌仅限特邀及锦标赛运动员；大众拿取直接取消资格"},
+    {"index": 18, "status": "supported", "checkedAt": "2026-11-08", "note": "发放可重复使用环保水杯；站点配多龙头自助水桶与背包式供水设备"},
+    {"index": 19, "status": "supported", "checkedAt": "2026-11-08", "note": "赛道以路线图和示意图呈现；页面与指南均无GPX/KML下载链接"}
+  ]
 }

@@ -1,0 +1,31 @@
+{
+  "sourceId": "route-chiang-mai-chiangdao160",
+  "title": "CHIANG DAO 160 — Chiang Mai Thailand by UTMB",
+  "url": "https://chiangmai.utmb.world/races/CHIANGDAO160",
+  "publisher": "UTMB World Series / HOKA Chiang Mai Thailand by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "CHIANG DAO 160 is listed as 173 km with 9,800 m of elevation gain, starting on Friday 4 December 2026 at 10:00 from Wat Tham Chiang Dao, with a maximum allowed race time of 48 hours.",
+    "The race carries 8 Running Stones and the page labels its finals access as '100m-direct-entry-major'.",
+    "The course starts at Doi Luang Chiang Dao, climbs to San Pa Kia and Doi Pha Sam Liam, passes the Hmong village at Ban Doi Pui and Monthathan Waterfall, and finishes at Chiang Mai PAO Park.",
+    "The aid stations are A1 Khiri Kiang Dao Garden Home, A2 Ban Mae Mae School, A3 Pagia Highland Research Station, A4 Meena Homestay Huay Kub Kab, A5 Suanta Sobkai Homestay, A6 Doi Mon Ngo, A7 Mae Taeng Watershed Research Station, A8 Pha Taek Village, A9 Wat Phraphutthabat Si Roi, A10 Mae Ka Piang Village, A11 Wat Pang Hai, A12 Monjam, A13 Maesa Elephant Camp, A14 Chao Pho Luang Upatham 7 School, A15 Wat Doi Pui and A16 Montha Than Waterfall.",
+    "The race page offers a DOWNLOAD GPX link to Chiang_Dao_160_Stations_af5020d931.gpx on pdf.utmb.world and a DOWNLOAD TIME CHART image, without stating what licence applies to either file.",
+    "The race is part of Week 2 of the 2026 event, 3-6 December 2026, based at Chiang Mai PAO Park, and the early-bird entry fee listed for it is THB 8,500."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取英文 CHIANGDAO160 页；距离、爬升、起跑点与时间、时限、Running Stones、Finals Access 标签、补给站名单均取自该页；Finals Access 的实际文字写在页面内嵌 SVG 的 alt 属性 '100m-direct-entry-major'，不显示为可复制文本"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "'Distance 173 KM'、'Elevation Gain 9800 M+'、'Friday 4th December 2026'、'Wat Tham Chiang Dao - 10:00'、'Max Allowed Race Time 48 Hours'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "'Running Stones 8'；Finals Access 图 alt='100m-direct-entry-major'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "'Starting at Doi Luang Chiang Dao, climbing to San Pa Kia and Doi Pha Sam Liam... passing Hmong village at Ban Doi Pui and Monthathan Waterfall, before finishing at Chiang Mai PAO Park.'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "页面 Aid stations 列表 A1-A16，逐项抄录；GPX 内 wpt 名称可交叉核对" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "页面 'DOWNLOAD TIME CHART' 与 'DOWNLOAD GPX' 两个链接；两者均无许可说明" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "RACE INFORMATION 页 Week 2 Chiang Mai PAO Park 3-6 December 2026；早鸟费 THB 8,500" }
+  ]
+}

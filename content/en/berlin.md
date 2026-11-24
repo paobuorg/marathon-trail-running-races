@@ -2,7 +2,7 @@
 entityId: route:berlin
 locale: en
 title: "Berlin Marathon: the complete 2026 course guide"
-summary: "The 2026 Berlin Marathon in full: a 42.195 km city course, 15 aid stations, a 6:15 time limit with a km 33 cut-off, the 73 m climb and 79 m descent reported by Abbott World Marathon Majors, transport, late-September weather, and an explicit statement that no redistributable geometry, plus one CC-licensed race photograph."
+summary: "The 2026 Berlin Marathon in full: a 42.195 km city course, 15 aid stations, a 6:15 time limit with a km 33 cut-off, the 73 m climb and 79 m descent reported by Abbott World Marathon Majors, an official 2025 GPX that is explicitly not treated as 2026 geometry, transport, late-September weather, and one CC-licensed race photograph."
 aliases: ["Berlin Marathon", "BMW Berlin Marathon", "Generali Berlin Marathon", "Berlin city marathon", "42.195 km city course"]
 authors:
   - runmap-editorial
@@ -14,9 +14,10 @@ translationStatus: reviewed
 ## Check status
 
 - Version: `2026-berlin-official-course`, covering the 52nd BMW BERLIN-MARATHON held on 27 September 2026. From 2027 the race becomes the GENERALI BERLIN-MARATHON, with its first edition on 26 September 2027.
-- Checked on 2026-11-06. Every figure below carries its source basis; where official pages disagree, the figures are shown side by side rather than averaged or smoothed.
-- Course geometry: **no usable geometry**. The organiser's public pages provide an interactive map and a PDF course map; on the check date the fetched pages contained no GPX, KML or GeoJSON download link. This page draws no track and bundles no geometry file. The globe shows only an editorial overview anchor at the Brandenburg Gate, which is not an official start, finish or course coordinate.
+- Checked on 2026-11-21. The prose facts were first checked on 2026-11-06 and the geometry file was rechecked on 2026-11-21; every figure below carries its source basis, and where official pages disagree the figures are shown side by side rather than averaged or smoothed.
+- Course geometry: **official 2025 GPX link, not 2026 geometry**. SCC's official domain still serves `BM25_Marathon-Strecke.gpx` (HEAD 200, 24,110 bytes, 508 trackpoints, zero elevation values); the current 2026/2027 course page has no 2026 GPX. The file's planar distance is 42.1836 km, 11.4 m short of 42.195 km. This page links it only: it does not draw it, navigate from it or bundle it. The globe anchor remains an editorial Brandenburg Gate overview, not an official start, finish or course coordinate.
 - This page has not been run on the ground, so it offers no first-hand testing claims. Verified and unverified material is kept separate.
+- Course-change check: no past-edition handbook was obtained, so the course-change history is unverified. This page has no official evidence of a reroute, date change or rule change that qualifies for the log; `courseChanges` is an empty array and is not presented as "no changes".
 
 ## What this course is
 
@@ -38,6 +39,25 @@ This is a road marathon, not a trail race: the official map shows city streets, 
 The table shows who said what; it does not combine four figures into one. Distance has a single official figure: 42.195 km, recorded on the SCC Events course page and the 2026 event homepage, with the course map using numbered points 1–42 for the 42 kilometre sections. Gain and loss have a numeric figure only in the Abbott World Marathon Majors official magazine: about 73 m of climbing and 79 m of descent. SCC Events' own course page lists elevation as "tba" and publishes no climb figure. The two are not contradictory: one publisher withholds the number, the other gives 73/79.
 
 The card at the top of this page uses 73 m of gain, and the entity record labels it as the Majors figure rather than an SCC Events figure. Dividing 73 m by 42.195 km gives about 1.7 m of climbing per kilometre; 73 m of gain against 79 m of loss implies roughly 6 m of net descent from start to finish. Both are this site's arithmetic on official totals, not new official numbers.
+
+## Official 2025 GPX check (not 2026 geometry)
+
+On the 2026-11-21 check, the current 2026/2027 course page still had no GPX link. SCC's official domain, however, still serves a 2025 file: `BM25_Marathon-Strecke.gpx`. A HEAD request returned HTTP 200, `application/octet-stream`, 24,110 bytes. The file is GPX 1.1, creator `SCC KML/KMZ/GPX Tools`; it contains 508 trkpt elements, 0 wpt, 0 ele, and no track name, description or timestamp.
+
+| Item | Official 2025 GPX | 2026 official course |
+|---|---|---|
+| File | `BM25_Marathon-Strecke.gpx` | 2026 course-map PDF / interactive map |
+| Edition | filename says 2025, not 2026 | 52nd edition, 2026 |
+| Trackpoints | 508 trkpt | no point file published |
+| Elevation | 0 ele | 73 m gain / 79 m loss (Majors basis) |
+| Planar distance | 42.1836 km | 42.195 km |
+| Difference from official | 0.0114 km short (11.4 m) | — |
+| Start / finish | 52.515214N, 13.360200E / 52.516013N, 13.372547E | official start/finish area, no point coordinates |
+| Rights | no copyright line, no redistribution licence | PDF and graphics not redistributable |
+
+Summing the 508 points with haversine gives 42.1836 km, 11.4 m (0.027%) short of 42.195 km. The gap comes from trackpoint sampling and simplification, not from an official statement that the course is short; this page does not change the official distance. The bounding box is 52.467576–52.529712 N and 13.281231–13.428996 E; the first and last points sit in the start/finish area on either side of the Brandenburg Gate, but the file has not been checked kilometre by kilometre against the 2026 official map.
+
+**It cannot serve as 2026 geometry**: the filename says BM25, the file has no date or track name, and there is no evidence that the 2026 course is metre-for-metre identical. It also has no elevation values, so it cannot yield climb, descent or high point. This page therefore sets `officialGeometryUrl` to the official 2025 file and `geometryAccess=official-link`, but does not describe it as the 2026 track, draw it, navigate from it or bundle it. The 2026 figures remain 42.195 km, 73 m gain and 79 m descent on their separate bases.
 
 ## Segments
 
@@ -79,11 +99,11 @@ The 2026 women's splits show what those timing points mean in practice: Assefa r
 | km 33 cut-off | 33.0 km · not published · not published | cut-off 3:40 pm (2026) / 3:50 pm (2027); not an aid station |
 | Finish | 42.195 km · not published · not published | finish refreshments, medal, massage; finish closes 5:00 pm (2026) / 5:15 pm (2027) |
 
-The table follows the official refreshment list point by point. Nine water-only points are at 5, 12, 17.5, 22.5, 27.5, 32.5, 34.5, 38 and 40 km. Six points serving water, fruit, tea and Maurten Drink Mix 160 are at 9, 15, 20, 25, 30 and 36 km. Maurten Gel 100 is available at 27.5 km. The course page says there are 15 aid stations, which is the nine water points plus the six full refreshment points; 27.5 km is not counted twice.
+The table follows the official refreshment list point by point. Nine water points are at 5, 12, 17.5, 22.5, 27.5, 32.5, 34.5, 38 and 40 km. Six points serving water, fruit, tea and Maurten Drink Mix 160 are at 9, 15, 20, 25, 30 and 36 km. Maurten Gel 100 is available at 27.5 km. The course page says there are 15 aid stations, which is the nine water points plus the six full refreshment points; 27.5 km is not counted twice.
 
-Cut-offs must be read by edition. The 2026 race-day page says: time limit 6:15 hours; km 33 cut-off at 3:40 pm; official finish time 5:00 pm, after which no one may cross the line. The 2027 page says: km 33 cut-off at 3:50 pm and finish at 5:15 pm. All four times are official. A 2026 runner must plan for 3:40 and 5:00; a 2027 runner must use that edition's page. Do not carry the 2027 3:50 cut-off into a 2026 plan.
+Cut-offs must be read by edition. The 2026 race briefing (Status: July 2026) and the 2027 race-day page give two separate sets. For 2026: time limit 6:15 hours; km 33 cut-off at 3:40 pm; official finish time 5:00 pm, after which no one may cross the line. For 2027: km 33 cut-off at 3:50 pm and finish at 5:15 pm. The 2026 figures have now been checked against the 2026 briefing rather than the replaced page record. A 2026 runner must plan for 3:40 and 5:00; a 2027 runner must use that edition's page. Do not carry the 2027 3:50 cut-off into a 2026 plan.
 
-Other official details: all drinks are served in cups; every aid station has a refill point, and runners can refill bottles, belts or vests at the last water table; the 2026 race briefing permits hydration systems with a maximum total volume of 3 litres. Own refreshments can be delivered to 5, 9, 15, 20, 25, 30, 36 and 40 km, in non-glass containers labelled with name, bib number and refreshment point. There are three official drop-off times: the course page says 07:00–07:45, the race-day page says by 07:45, and the race briefing says 06:30–07:30, all at Annemarie-Renger-Str. / Otto-von-Bismarck-Allee outside the fenced area. The 2026 race-day page also says massage stations run from km 25 every 5 km, with free massage at the finish, and that accessible restrooms are available at all refreshment points.
+Other official details: all drinks are served in cups; every aid station has a refill point, and runners can refill bottles, belts or vests at the last water table; the 2026 race briefing permits hydration systems with a maximum total volume of 3 litres and says toilets are provided at the end of each refreshment station. Own refreshments can be delivered to 5, 9, 15, 20, 25, 30, 36 and 40 km, in non-glass containers labelled with name, bib number and refreshment point. There are three official drop-off times: the course page says 07:00–07:45, the race-day page says by 07:45, and the race briefing says 06:30–07:30, all at Annemarie-Renger-Str. / Otto-von-Bismarck-Allee outside the fenced area. The 2026 race-day page also says massage stations run from km 25 every 5 km, with free massage at the finish.
 
 ![The Brandenburg Gate at the 2022 Berlin Marathon finish](/media/routes/berlin/brandenburg-finish-2022.jpg)
 
@@ -93,17 +113,17 @@ The official pages fetched here publish no distributable surface breakdown, and 
 
 The course page gives elevation as "tba", and this page did not obtain usable official elevation figures or profile data. The runners' PDF's extracted text gives kilometre numbers, landmarks, street names and aid points but no elevation figures. This page therefore does not treat any third-party profile as official geometry and does not state a "high point" in metres. The only height figures that can be confirmed are the Majors totals of about 73 m up and 79 m down, plus the roughly 6 m net descent obtained by subtracting them.
 
-One surface warning is official: the 2026 race-day page, in its wheelchair and handbike guidance, flags tram tracks at km 8 and km 38. The original audience is wheeled athletes, but it confirms that tracks are crossed on the course; runners should slow at those points and follow on-site signs rather than assuming seamless asphalt. Beyond that, the fetched pages publish no proportion of seams, cobbles or construction sections.
+The surface warning remains unverified: the 2026 race briefing does not mention tram tracks at km 8 or km 38. The earlier race-day page record did, but it rolled over to the 2027 edition. This page therefore does not repeat the tram warning and does not infer a surface breakdown from it.
 
 ## Risks and escape points
 
-- **The time limits are hard.** The 2026 limit is 6:15, with km 33 closing at 3:40 pm and the finish at 5:00 pm. Anyone outside those times must leave the course and is taken to the finish in the sweep bus, and the organiser states that continuing is not permitted. The 2027 figures are 3:50 pm and 5:15 pm and must not be mixed with 2026.
-- **The fetched pages publish no mid-course escape list.** The race-day page describes the sweep bus but does not list aid stations with buses or a set of official withdrawal points, as a trail race might. The U-Bahn and S-Bahn stops listed by the organiser are for the start and finish area; they are not a mid-course evacuation plan.
+- **Time limits.** The 2026 limit is 6:15, with km 33 closing at 3:40 pm and the finish at 5:00 pm, now checked against the 2026 race briefing. Anyone outside those times must leave the course and is taken to the finish in the sweep bus, and the organiser states that continuing is not permitted. The 2027 figures are 3:50 pm and 5:15 pm and must not be mixed with 2026.
+- **The official pages publish no mid-course escape list.** The official race-day page describes the sweep bus but did not list aid stations with buses or a set of official withdrawal points, as a trail race might. The U-Bahn and S-Bahn stops listed by the organiser are for the start and finish area; they are not a mid-course evacuation plan.
 - **Medical staff can end your race.** The entry page says the medical team and paramedics are authorised and obliged to remove runners who are injured or overexerting. Medical teams, cycle doctors, medical aid organisations and Berlin Fire Brigade patrols are listed on the course and in the start/finish area; this is the official medical setup, not a promise of a fixed medical station at every point.
 - **Weather does not cancel the race by itself.** The official page says the race takes place regardless of weather unless the German Weather Service issues a warning; schedule and course may still change. Heat, cold, rain and wind are therefore race-day conditions the runner must prepare for.
 - **Heat has precedent.** The Abbott World Marathon Majors official magazine says the previous year's race took place in unseasonably warm conditions and that organisers are encouraging runners to carry their own bottles rather than rely only on the 15 refreshment stations. That is the organiser's public statement, not this site's measurement of 27 September 2026.
-- **The course can change.** The race-day page states "Schedule and course are subject to change". Construction, security or weather arrangements can alter a given year's route; this page pins the 2026 version and does not promise that 2027 will match it metre by metre.
-- **Wheeled athletes have extra hazards.** Tram tracks at km 8 and km 38, start/finish crowding, technical wheelchair service and dedicated sweep vehicles are all official items specific to the wheelchair and handbike races. Road runners should not treat those arrangements as their own escape plan.
+- **The course can change.** The race-day page states "Schedule and course are subject to change"; this page pins the 2026 version and does not promise that 2027 will match it metre by metre.
+- **Wheeled athletes.** The 2026 race briefing says wheelchair athletes and handbikers are directed to their starting positions from 8 am and that helmets are mandatory. Access to the start/finish area is limited to people with a bib and athlete wristband. The earlier page's km 8/km 38 tram warning is not repeated in the 2026 briefing and is therefore not repeated here. Road runners should not treat those arrangements as their own escape plan.
 
 ## Getting there
 
@@ -111,17 +131,17 @@ One surface warning is official: the 2026 race-day page, in its wheelchair and h
 
 **Rail.** The organiser lists S-Bahn stops at Brandenburger Tor, Berlin Hauptbahnhof and Potsdamer Platz, and regional trains at Hauptbahnhof and Potsdamer Platz. From BER, take the FEX or a regional train to Hauptbahnhof / Potsdamer Platz, then change to S-Bahn or walk into the start/finish area. The organiser asks runners to use public transport and does not encourage driving.
 
-**Local movement.** Near the start and finish, the U-Bahn stops are Unter den Linden, Bundestag, Brandenburger Tor and Potsdamer Platz; the S-Bahn stops are Brandenburger Tor, Hauptbahnhof and Potsdamer Platz. There are two runner entrances: Platz der Republik, opposite the Reichstag, for all runners; and Bremer Weg, only for runners with a purple bib, a poncho symbol and no place in block K. In 2026, admission times for the start blocks ran from 7:00 to 9:00 am.
+**Local movement.** Near the start and finish, the U-Bahn stops are Unter den Linden, Bundestag, Brandenburger Tor and Potsdamer Platz; the S-Bahn stops are Brandenburger Tor, Hauptbahnhof and Potsdamer Platz. There are two runner entrances: Platz der Republik, opposite the Reichstag, for all runners; and Bremer Weg, only for runners with a purple bib, a poncho symbol and no place in block K. The 2026 race briefing lists start-block admission at 7:00 for A/B/C, 7:30 for D/E, 8:00 for F/G, 8:30 for H/J and 9:00 for K.
 
-**Bib as ticket.** The 2026 race-day page says the bib is valid as a ticket in fare zones A, B and C from 24 to 27 September; the race briefing says valid from midnight on 24 September to 3 am on 28 September; the 2027 page says 23–26 September. All three windows are official and differ by edition and page; use the start card for your own year. The entry fee includes a 4-day ABC public transport pass.
+**Bib as ticket.** The 2026 race briefing says the bib number is valid as a ticket in fare zones A, B and C from midnight on 24 September to 3 am on 28 September 2026; the 2027 page says 23–26 September. Use the start card or briefing for your own edition. The entry fee includes a 4-day ABC public transport pass. The earlier 24–27 September record came from a replaced page and is no longer treated as a 2026 conclusion.
 
 **Expo.** The 2026 expo is at Tempelhof Airport, Platz der Luftbrücke 5, reached by U6 to Platz der Luftbrücke plus about a 10-minute walk, or by bus M43 / 248. The organiser explicitly says there is no parking at the expo and asks visitors to use public transport.
 
-**Driving.** The organiser asks runners to use public transport; entry to the start/finish area is limited to participants with a bib and wristband. Accessible parking is limited to vehicles with an official special permit, on Altonaer Str. in the direction from Großer Stern toward Hansaplatz; a few more spaces are on Fasanenstraße near Charlottenburger Tor. Leaving the car at accommodation and taking the U-Bahn or S-Bahn is the arrangement official guidance points to.
+**Driving.** The organiser asks runners to use public transport; entry to the start/finish area is limited to participants with a bib and wristband. Accessible parking is limited to vehicles with an official special permit, on Altonaer Str. in the direction from Großer Stern toward Hansaplatz. Leaving the car at accommodation and taking the U-Bahn or S-Bahn is the arrangement official guidance points to.
 
 ## Late-September season and weather
 
-The 2026 race was held on 27 September; the 2027 race moves to 26 September. To look at the same week, this page queried Open-Meteo's historical reanalysis for the Berlin grid point 52.5200 N / 13.4050 E over 20–28 September 2026, nine days in total:
+The 2026 race was held on 27 September; the 2027 race moves to 26 September. To look at the same week, this page queried Open-Meteo's historical reanalysis for the Berlin grid point 52.5483 N / 13.4078 E over 20–28 September 2026, nine days in total:
 
 - Daily maximum: 15.3 °C to 24.6 °C, median 19.2 °C.
 - Daily minimum: 6.3 °C to 13.0 °C, median 11.2 °C.
@@ -132,7 +152,7 @@ These are **modelled reanalysis values for a grid point, not measurements on the
 
 ## Difficulty
 
-The organiser publishes no single "difficulty grade", and this page does not invent an official one. On verifiable dimensions this is a low-climb, fast road course:
+The official documents publish no single "difficulty grade", and this page does not invent one. **This site's rating**: a low-climb, fast road course, on these verifiable dimensions:
 
 - 42.195 km, the only official distance figure.
 - About 73 m of gain and 79 m of loss on the Abbott World Marathon Majors basis, roughly 1.7 m of climbing per kilometre and about 6 m of net descent.
@@ -140,30 +160,30 @@ The organiser publishes no single "difficulty grade", and this page does not inv
 - 15 aid stations, about 1.5–4 km apart on the official point list, with Maurten Gel 100 at 27.5 km.
 - City streets, long straights and relatively few sharp turns; no official surface percentages.
 
-From those facts, the technical difficulty is low and the climbing load is small, which suits a personal best. But "flat" is not "easy": 42 km of repeated impact, late-September temperature swings, six start waves of crowded running and a hard 6:15 limit still create risk. That judgement comes from official figures and rules, not from personal experience, and it is not an official rating.
+On the official figures, this is a course with little climbing and long straight sections; even so, 42.195 km, late-September temperature swings, six start waves of crowded running and a 6:15 limit still need preparation matched to the individual. That judgement comes from official figures and rules, not from personal experience, and it is not an official rating.
 
 ## Verified and unverified
 
 This page has not been run on the ground, so the two are kept strictly apart.
 
-**Verified from official sources**: the 52nd edition on 27 September 2026; the start on Straße des 17. Juni and finish behind the Brandenburg Gate; 42.195 km; the 15 aid stations and their services; the 6:15 limit, km 33 cut-off and finish closure (both 2026 and 2027 versions); the bib-as-ticket windows; start/finish transport stops and runner entrances; the expo location and access; the 2027 lottery, 215 euro fee, eligibility and qualifying times; the 2026 winners and splits; the 73 m / 79 m Majors figures; the 20–28 September 2026 grid-point weather statistics; and BER Airport's FEX, S-Bahn and express-bus information.
+**Verified from official sources**: the 52nd edition on 27 September 2026; the start on Straße des 17. Juni and finish behind the Brandenburg Gate; 42.195 km; the 15 aid stations and their services; the 6:15 limit, km 33 cut-off and finish closure (both 2026 and 2027 versions); the bib-as-ticket windows; start/finish transport stops and runner entrances; the expo location and access; the 2027 lottery, 215 euro fee, eligibility and qualifying times; the 2026 winners and splits; the 73 m / 79 m Majors figures; the 20–28 September 2026 grid-point weather statistics; BER Airport's FEX, S-Bahn and express-bus information; and the SCC official 2025 GPX's HTTP 200, 24,110 bytes, 508 trackpoints, zero elevation values and 42.1836 km planar distance (a 2025 file, not 2026 geometry).
 
-**Unverified — no conclusions drawn here**: elevation and cumulative gain at each aid station; the proportion of asphalt, stone and track; actual queue times at aid stations on race day; whether the 2027 course is identical metre by metre to 2026; the exact mapping between the official map's numbered points and each kilometre; mobile coverage, toilet queues and crowd density on the course; and the real waiting time for the sweep bus after km 33. Only the organiser's current notices or runners on the ground can confirm those, and this page does not present desk research as measurement.
+**Unverified — no conclusions drawn here**: elevation and cumulative gain at each aid station; the proportion of asphalt, stone and track; actual queue times at aid stations on race day; whether the 2027 course is identical metre by metre to 2026; the exact mapping between the official map's numbered points and each kilometre; whether the 2025 GPX points match the 2026 official map section by section; mobile coverage, toilet queues and crowd density on the course; and the real waiting time for the sweep bus after km 33. Only the organiser's current notices or runners on the ground can confirm those, and this page does not present desk research as measurement.
 
 ## Images and rights
 
-**One photograph, from Wikimedia Commons, with a file page that names this event.**
+**One photograph, recorded from Wikimedia Commons at capture time.**
 
-The Brandenburg Gate at the 2022 Berlin Marathon finish, Lear 21, CC BY-SA 4.0. The image shows runners passing the Brandenburg Gate; the file description names the 2022 Berlin Marathon finish, and the gate stands near km 42.
+The Brandenburg Gate at the 2022 Berlin Marathon finish; author: Lear 21; licence: CC BY-SA 4.0; date: 2022-09-25 (verified against the Commons file page and API on 2026-11-20). The image shows runners passing the Brandenburg Gate; the file description names the 2022 Berlin Marathon finish, and the gate stands near km 42.
 
-Channels used this round: the Wikimedia Commons `action=query&generator=search` API, `Special:MediaSearch`, `commons.wikimedia.org/w/index.php?search=` and direct `upload.wikimedia.org` URLs were all reachable. The filter is still three checks: readable licence, file page proving this event, and image matching the caption. Anything failing one is not used. Organiser photographs carry no redistributable CC licence and were not used. (2026-11-07 recheck: the Wikimedia Commons hosts were unreachable from this network; file pages and licences are kept from the capture round and were not re-verified.)
+Channels at the time of image capture on 2026-11-06: the Wikimedia Commons `action=query&generator=search` API, `Special:MediaSearch`, `commons.wikimedia.org/w/index.php?search=` and direct `upload.wikimedia.org` URLs were all reachable. The filter is still three checks: readable licence, file page proving this event, and image matching the caption. Anything failing one is not used. Organiser photographs carry no redistributable CC licence and were not used. 
 
 The file is unmodified apart from size and weight compression, and is not covered by this page's CC BY 4.0.
 
 ## Sources and reuse
 
-This page was written independently by the RunUp editorial team from SCC Events' public pages, the official course-map PDF, the 2026 race briefing, the entry page, the results page, the Abbott World Marathon Majors official magazine, the World Athletics race report, Open-Meteo data and BER Airport's official public-transport page. The text is licensed CC BY 4.0.
+This page was written independently by the RunUp editorial team from SCC Events' public pages, the official course-map PDF, the official 2025 GPX, the 2026 race briefing, the entry page, the results page, the Abbott World Marathon Majors official magazine, the World Athletics race report, Open-Meteo data and BER Airport's official public-transport page. The text is licensed CC BY 4.0.
 
-The page cites 13 factual sources plus one editorial map-anchor source: the course page, the official runners' course-map PDF, the 2026 race-day page, the 2027 race-day page, the 2026 race-briefing PDF, the 2027 entry page, the 2026 event homepage, the results page, the Abbott World Marathon Majors magazine, the World Athletics report, Open-Meteo historical weather, the BER Airport public-transport page, `photo-berlin-finish-2022` (the 2022 finish photograph), and `route-anchor-editorial`, which records that the map anchor is an editorial overview only. Each source's supported claims and access date appear in the source list at the bottom of the page.
+The page cites 14 factual sources plus one editorial map-anchor source: the course page, the official runners' course-map PDF, the official 2025 GPX file, the 2026 race-day page, the 2027 race-day page, the 2026 race-briefing PDF, the 2027 entry page, the 2026 event homepage, the results page, the Abbott World Marathon Majors magazine, the World Athletics report, Open-Meteo historical weather, the BER Airport public-transport page, `photo-berlin-finish-2022` (the 2022 finish photograph), and `route-anchor-editorial`, which records that the map anchor is an editorial overview only. Each source's supported claims and access date appear in the source list at the bottom of the page.
 
-Event names, official marks, official route text, the official course-map PDF and official results remain the property of SCC Events and the respective rights holders. This page links to official files and does not redistribute the PDF or any course geometry. On the check date no redistributable official GPX, KML or GeoJSON was found, so this page bundles no track. Text in the Abbott World Marathon Majors magazine and the World Athletics report remains with those rights holders and is cited for facts only. Open-Meteo data are used under CC BY 4.0 with attribution. The results list is protected by copyright and may be used only for private informational purposes; this page does not reproduce the full results table. The image is credited separately under its Commons file-page CC BY-SA 4.0 licence and is not covered by this page's CC BY 4.0.
+Event names, official marks, official route text, the official course-map PDF and official results remain the property of SCC Events and the respective rights holders. This page links to official files and does not redistribute the PDF or any course geometry. The 2026-11-21 check found an official 2025 GPX but no redistribution licence; this page links it only, does not bundle or redraw it, and does not treat it as 2026 geometry. Text in the Abbott World Marathon Majors magazine and the World Athletics report remains with those rights holders and is cited for facts only. Open-Meteo data are used under CC BY 4.0 with attribution. The results list is protected by copyright and may be used only for private informational purposes; this page does not reproduce the full results table. Each image's author and licence are stated with its caption; they are not covered by this page's CC BY 4.0; check the Commons file page before reuse, and it is not covered by this page's CC BY 4.0.

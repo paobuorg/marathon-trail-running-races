@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-buenosaires-course-map",
+  "title": "Maratón de Buenos Aires 42K — official course map displayed on the 2026 page",
+  "url": "https://www.maratondebuenosaires.com/uploads/recorridos/Recorrido-42K-2024.jpg",
+  "publisher": "Maratón de Buenos Aires",
+  "publishedAt": null,
+  "accessedAt": "2026-11-19",
+  "claims": [
+    "The official 42K course map displayed on the 2026 page is a 1920×750 image whose file name is Recorrido-42K-2024.jpg.",
+    "The map labels the start and finish at Avenida Figueroa Alcorta and Dorrego in Palermo and marks 42 kilometre points along the route.",
+    "The map route passes the Planetario, Rosedal, Recoleta, Teatro Colón, Obelisco, Casa Rosada, Puerto Madero, the Reserva Ecológica, La Boca and Boca Juniors before returning to Palermo.",
+    "The 2026 page does not publish a separately labelled 2026 course map; the displayed image is the 2024 file, so this page treats it as an official but undated course representation."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-19",
+    "checkedVia": "Downloaded JPG and visual inspection",
+    "note": "Official map image downloaded and inspected at 1920×750."
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "File name and pixel dimensions checked locally."
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Map labels LARGADA/LLEGADA near Av. Figueroa Alcorta y Dorrego; km markers 1–42 visible."
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Map labels Planetario, Rosedal, Teatro Colón, Obelisco, Casa Rosada, Reserva, La Boca Juniors."
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-19",
+      "note": "Page image URL uses the 2024 file; no 2026-specific map found on the page."
+    }
+  ]
+}

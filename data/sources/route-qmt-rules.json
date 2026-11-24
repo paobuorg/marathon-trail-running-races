@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-qmt-rules",
+  "title": "Québec Mega Trail — trail runner rules",
+  "url": "https://ultratrailcanada.com/en/infos/rules/",
+  "publisher": "Québec Mega Trail / Ultra-Trail Canada",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "Each missing mandatory item at a gear check adds a 30-minute penalty, and more than two missing items means immediate disqualification.",
+    "Runners must respect cut-off times and hand in their bib if they reach a feed zone after the cut-off.",
+    "The race director may modify the course at any time, even during the race, and may cancel or postpone the event.",
+    "The first 30 men and 20 women receive a GPS tracker that must be worn for the whole race."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直接读取官方规则页。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Rules 1-2：each missing item 30 minute penalty；More than two missing items 立即取消资格" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Rule 15：respect the cut-off times；bib will be removed" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Rules 22-23：modify the course at any time, even during the race；cancel or postpone" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "Rule 20：The 30 men and 20 women who will receive a GPS for race tracking" }
+  ]
+}

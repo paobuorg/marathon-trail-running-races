@@ -18,5 +18,25 @@
     "The finish area added a second stretch and rest zone in the trees to the south of the existing area.",
     "Runners who chose no bag drop received a Beijing metro commemorative card as a green-running incentive."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取京报体育发布会报道 → .agent/chicago-beijing35/beijing-presser.html",
+    "note": "报道正文可读；报名人数、医疗、裁判、厕位、志愿者与终点服务均逐句核对"
+  },
+  "claimVerification": [
+    {"index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "7:30、10月18日、天安门广场起跑、奥林匹克公园中心区景观大道终点、32,000人"},
+    {"index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "全球超过26.5万人报名"},
+    {"index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "北京马拉松与全国马拉松锦标赛合一"},
+    {"index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "混编存包加不存包专用通道；终点存包区重组以减少排队"},
+    {"index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "26医疗点、35救护车、100 AED、610观察员、200㎡医疗中心、160急救跑者1:200"},
+    {"index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "裁判团队433人，覆盖检录、起终点、赛道、完赛服务、存取包等20个岗位"},
+    {"index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "8补给站、7饮水/用水站、7食品供应站"},
+    {"index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "起点1,119→1,199；赛道189→240；终点161→191"},
+    {"index": 8, "status": "supported", "checkedAt": "2026-11-08", "note": "志愿者7,341人，比去年增加441人"},
+    {"index": 9, "status": "supported", "checkedAt": "2026-11-08", "note": "终点区域在现有区域南侧树林新增拉伸区与休息区"},
+    {"index": 10, "status": "supported", "checkedAt": "2026-11-08", "note": "选择不存包的选手获北京地铁纪念卡"}
+  ]
 }

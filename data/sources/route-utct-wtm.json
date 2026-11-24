@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-utct-wtm",
+  "title": "World Trail Majors — all races (RMB Ultra-Trail Cape Town entry)",
+  "url": "https://worldtrailmajors.com/all-races/",
+  "publisher": "World Trail Majors",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "World Trail Majors lists RMB Ultra-Trail Cape Town as a 2026 race dated 20–22 November 2026, the last date in the 2026 series list.",
+    "The WTM entry describes it as the most important ultra race in Africa, attracting more than two thousand runners from 47 countries each November, along the Atlantic coast of the Cape Peninsula."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "2026-11-08 直取 worldtrailmajors.com/all-races/，读取 Cape Town 条目与 2026 日期"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "条目日期 2026/11/20-22；该页 10 站按月份排列，Cape Town 为最后一站" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：the most important ultra race in Africa... more than two thousand runners from 47 countries" }
+  ]
+}

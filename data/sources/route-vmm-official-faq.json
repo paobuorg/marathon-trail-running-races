@@ -1,0 +1,35 @@
+{
+  "sourceId": "route-vmm-official-faq",
+  "title": "VMM FAQs — official",
+  "url": "https://vietnamtrailseries.com/mountain-marathon/vmm-faqs/",
+  "publisher": "Vietnam Trail Series / Topas",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The FAQ says '2027 race dates: to be updated' and then states that for the 2026 edition there are '5 race distances: 10km, 21km, 50km, 70km, 100km, and 100 miles' — a count of five followed by a list of six.",
+    "The FAQ says the 100 miles starts on Friday and that the 10km, 21km, 50km, 70km and 100km start on Saturday.",
+    "The FAQ says the GPX file is sent one week prior to the race.",
+    "The FAQ says registration is scheduled to close one month before race date or when the quota is full, and that entries can be transferred until 30 days before the race but cannot be deferred to another year except for pregnancy.",
+    "The FAQ says a distance change costs VND 500,000 and is not possible within 30 days of the race or after sell-out.",
+    "The FAQ says VMM is a UTMB Index race with categories: 100 miles = 100M, 100km = 100K, 70km = 100K, 50km = 50K and 21km = 20K.",
+    "The FAQ says 'VMM 50km/100km is a World Trail Majors race'.",
+    "The FAQ says drop bags are available only for 100km and 100 miles runners and that every checkpoint has water."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "note": "FAQ 第 1 条自身即存在计数矛盾（说 5 个距离、列出 6 个）；同页同时出现 2027 TBD 与 2026 届描述。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "第 1 条原文：'2027 race dates: to be updated'；'For 2026 edition, there are 5 race distances: 10km, 21km, 50km, 70km, 100km, and 100 miles.'" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "第 1 条：'100 miles starts on Friday.' '10km, 21km, 50km, 70km, and 100km start on Saturday.'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "第 2 条：'This is sent 1 week prior to the race.'" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "第 7、10、16 条：transfer until 30 days prior；impossible to transfer entry to another year；close 1 month before race date or when quota full" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "第 8 条：VND 500,000 administration fee；no change within 30 days prior" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "第 29 条逐项照录五个组别的 UTMB Index 分类" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "第 39 条：'VMM 50km/100km is a World Trail Majors race.'" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "第 26、28 条：every checkpoint has water；drop bags only for 100km and 100 miles" }
+  ]
+}

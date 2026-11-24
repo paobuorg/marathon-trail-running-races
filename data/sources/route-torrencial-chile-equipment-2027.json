@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-torrencial-chile-equipment-2027",
+  "title": "MATERIAL OBLIGATORIO — Torrencial Chile by UTMB equipment page",
+  "url": "https://torrencial.utmb.world/es/runners/elementos",
+  "publisher": "UTMB World Series / Torrencial Chile by UTMB",
+  "publishedAt": null,
+  "accessedAt": "2026-11-08",
+  "claims": [
+    "The event publishes a mandatory-equipment page for its races.",
+    "Equipment is checked at accreditation, before the start, during the race and after the finish.",
+    "The organiser may modify the mandatory list according to weather conditions and will notify participants before bib distribution opens for each race.",
+    "The organiser describes the mandatory list as a vital minimum that each runner must adapt to their own capacities.",
+    "The page states that the equipment must let runners handle cold and rain on the course and wait for help in safe conditions."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "工具抓取（桌面 UA）读取西文装备页正文",
+    "note": "2026-11-08 读取。标题与说明段落可读，但「ELEMENTOS OBLIGATORIOS Y RECOMENDADOS (R)」之后的逐项清单在抓取到的 HTML 里不是文字节点（以图/组件渲染），未能逐项读出。因此本页不列具体装备条目，清单本体记 unknown。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页面标题 MATERIAL OBLIGATORIO，正文写「Encuentra el equipo obligatorio para tu carrera」。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "Se realizarán controles en acreditaciones, antes de la salida, durante la carrera y tras la llegada。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "el organizador puede realizar modificaciones del presente listado y avisar a los participantes antes de la apertura de la entrega de dorsales de cada carrera。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "el material impuesto por el organizador es un mínimo vital que cada corredor debe adaptar en función de sus capacidades。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "Tu material debe permitirte afrontar adecuadamente las condiciones de frío y de lluvia... esperar la ayuda en condiciones lo más seguras posible。" }
+  ]
+}

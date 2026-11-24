@@ -15,5 +15,62 @@
     "Nearly 4,400 volunteers served across more than 60 positions.",
     "Runners came from 26 countries and regions."
   ],
-  "license": null
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-08",
+    "checkedVia": "curl.exe -sSL 抓取 english.shanghai.gov.cn 赛后/前瞻稿 → .agent/berlin-shanghai35/sh-2026-preview.html",
+    "note": "英文页面正文可读。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2025 年 11 月 30 日 7:00，23000 名跑者从外滩金牛广场出发。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2026 年 12 月 6 日举行，报名不晚于 4 月底开放。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "2026 年起 12 月 5 日增设 5 公里健身跑，与马拉松同终点。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "Mengesha 2:06:25；Kosgei 2:16:36。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "丰配友 2:08:36；张德顺 2:25:13。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "43 个医疗站、终点综合医疗中心、4 个赛后医疗点。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "近 4400 名志愿者、60 多个岗位。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-08",
+      "note": "跑者来自 26 个国家和地区。"
+    }
+  ]
 }
