@@ -1,6 +1,6 @@
 # 贡献说明
 
-本仓库只接收赛道内容、来源与审阅数据。网站代码、工具实现和设计资源分别在 `site-www`、`site-knowledge` 与 `site-tools`。
+本仓库只接收赛事内容、来源与审阅数据。网站代码与共享核心分别在 `site-www`、`site-knowledge`、`site-tools` 和 `paobu-core`。
 
 ## 提交前
 
