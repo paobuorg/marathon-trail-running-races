@@ -13,11 +13,11 @@
   ],
   "license": null,
   "verification": {
-    "access": "metadata-only",
-    "bodyRead": false,
+    "access": "browser",
+    "bodyRead": true,
     "checkedAt": "2026-11-26",
-    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
-    "checkedVia": "general_search result"
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset. 2026-11-26 中国路线来源优先清理：直接抓取页面 HTML，正文可读；claimVerification 仍保留原摘要核对范围，不新增未核对断言。",
+    "checkedVia": "curl HTML 正文抓取（2026-11-26）"
   },
   "claimVerification": [
     {

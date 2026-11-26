@@ -415,6 +415,10 @@ ELEPHANT 100 是否对 16-17 岁组开放，官方页面没有单独说明，本
 14. Commons 清迈地区地点照分类：https://commons.wikimedia.org/wiki/Category:Chiang_Mai_Province
 
 <!-- related-ring -->
+## 2027 届状态
+
+截至 2026-11-26，2027 届的完整赛期、报名窗口与路线尚未在官方页面公布；本页不把 2026 届日期平移到 2027，报名前以页末官方来源为准。
+
 ## 相关条目
 
 - [Tenzing Hillary 珠峰马拉松：高海拔下山越野赛全解（2027 届口径）](/routes/everest-marathon/)

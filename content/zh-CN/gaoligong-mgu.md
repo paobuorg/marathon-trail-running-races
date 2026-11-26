@@ -273,6 +273,10 @@ MGU 的难点是 168 km、8,540 m 爬升、47 小时跨两个夜晚，进入高�
 延伸阅读：[长距离补给](/knowledge/long-run-fueling/)、[恢复日](/knowledge/recovery-day/)、[轨迹查看工具](/tools/track-view/)、[分段配速工具](/tools/splits/)、[宁海 UTNH](/routes/utnh/)。
 
 <!-- related-ring -->
+## 2027 届状态
+
+截至 2026-11-26，2027 届只启动了宣传推介与申办，官方没有公布日期、组别或报名信息；本页不据 2026 届推算下一届。
+
 ## 相关条目
 
 - [香港 100：2027 赛道全解（西贡到大帽山）](/routes/hong-kong-100/)

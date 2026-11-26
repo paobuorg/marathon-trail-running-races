@@ -539,6 +539,10 @@ Text and tables: original to this site, published under CC BY 4.0; official fact
 15. File:Place MostHighestofThailand.jpg: https://commons.wikimedia.org/wiki/File:Place_MostHighestofThailand.jpg
 
 <!-- related-ring -->
+## 2027 status
+
+As of 26 November 2026, the full 2027 race dates, entry window and course are not published; this page does not shift 2026 dates to 2027. Check the official sources before entering.
+
 ## Related entries
 
 - [ELEPHANT 100: the 100 km race of the Chiang Mai Major, sharing its second half with the 160](/en/routes/elephant-100/)

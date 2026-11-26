@@ -15,7 +15,7 @@
     "access": "metadata-only",
     "bodyRead": false,
     "checkedAt": "2026-11-26",
-    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset. 2026-11-26 中国路线来源优先清理：抓取返回 200/5191 字节，正文不可读或不足，保留 metadata-only。",
     "checkedVia": "general_search result"
   },
   "claimVerification": [

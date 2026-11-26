@@ -285,6 +285,10 @@ There is **no course geometry file to redistribute**: the official pages publish
 Before entering the next edition, re-check the official route page's change notice, that edition's cut-off table PDF, the mandatory-equipment list and the shuttle times. This page pins the 2026 version, not a permanent course.
 
 <!-- related-ring -->
+## 2027 status
+
+As of 26 November 2026, the full 2027 race dates, entry window and course are not published; this page does not shift 2026 dates to 2027. Check the official sources before entering.
+
 ## Related entries
 
 - [Spartathlon 2026: 244.74 km from Athens to Sparta, 36 hours and 76 checkpoints](/en/routes/spartathlon/)

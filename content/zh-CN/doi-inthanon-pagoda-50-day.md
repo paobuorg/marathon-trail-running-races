@@ -542,6 +542,10 @@ GPX：官方赛事页链接的 `Pagoda_50_Stations_dc2d1c0795.gpx` 没有版权�
 15. File:Place MostHighestofThailand.jpg：https://commons.wikimedia.org/wiki/File:Place_MostHighestofThailand.jpg
 
 <!-- related-ring -->
+## 2027 届状态
+
+截至 2026-11-26，2027 届的完整赛期、报名窗口与路线尚未在官方页面公布；本页不把 2026 届日期平移到 2027，报名前以页末官方来源为准。
+
 ## 相关条目
 
 - [ELEPHANT 100：清迈 Major 的 100 公里组，与 160 公里组共用后半程](/routes/elephant-100/)

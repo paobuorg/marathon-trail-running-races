@@ -348,6 +348,10 @@ Text and tables: original to this page, published under CC BY 4.0; official fact
 Related reading: [Ultra-Trail Australia](/en/routes/ultra-trail-australia/), [RMB Ultra-Trail Cape Town](/en/routes/utct/), [heat and humidity](/en/knowledge/heat-and-humidity/), [long-run fueling](/en/knowledge/long-run-fueling/), [track viewer](/en/tools/track-view/), [split calculator](/en/tools/splits/).
 
 <!-- related-ring -->
+## 2027 status
+
+The 2027 qualification rights are stated, but race dates, entry window and course version are not published; this page does not treat 2026 times as 2027 times.
+
 ## Related entries
 
 - [Kodiak Ultra Marathons by UTMB: a 100-mile mountain race at Big Bear Lake](/en/routes/kodiak/)

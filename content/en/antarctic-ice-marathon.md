@@ -255,6 +255,10 @@ This page embeds no race photos, redraws no “Antarctic course map” and hosts
 Not verified: the official site publishes no 2026 GPX/GeoJSON or surveyed map; no total climb; no 2026 start time; no 2026 finisher count because the race has not happened. The 5 m difference between 10.55 ×4 and 42.195 km is arithmetic; the official site does not explain its measurement. This page presents both and “corrects” neither.
 
 <!-- related-ring -->
+## 2027 status
+
+As of 26 November 2026, the full 2027 race dates, entry window and course are not published; this page does not shift 2026 dates to 2027. Check the official sources before entering.
+
 ## Related entries
 
 - [Big's Backyard Ultra: the Bell Buckle backyard format explained (2025 individual world championship basis)](/en/routes/bigs-backyard-ultra/)

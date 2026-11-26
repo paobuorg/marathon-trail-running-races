@@ -13,7 +13,7 @@
     "access": "metadata-only",
     "bodyRead": false,
     "checkedAt": "2026-11-26",
-    "note": "URL identified as the event’s official site; used for the portal claim only.",
+    "note": "URL identified as the event’s official site; used for the portal claim only. 2026-11-26 中国路线来源优先清理：抓取返回 000/0 字节，正文不可读或不足，保留 metadata-only。",
     "checkedVia": "general_search result / event page"
   },
   "claimVerification": [

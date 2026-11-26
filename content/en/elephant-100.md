@@ -408,6 +408,10 @@ If you need the track offline, download it from the DOWNLOAD GPX link on the rac
 14. Commons category for Chiang Mai location photographs: https://commons.wikimedia.org/wiki/Category:Chiang_Mai_Province
 
 <!-- related-ring -->
+## 2027 status
+
+As of 26 November 2026, the full 2027 race dates, entry window and course are not published; this page does not shift 2026 dates to 2027. Check the official sources before entering.
+
 ## Related entries
 
 - [Tenzing Hillary Everest Marathon: a high-altitude downhill trail race guide (2027 basis)](/en/routes/everest-marathon/)

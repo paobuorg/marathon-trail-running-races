@@ -408,6 +408,10 @@ If you need the track offline, download it from the DOWNLOAD GPX link on the rac
 13. Monthathan Waterfall photograph (ศุภฤกษ์ลายประวัติ, CC BY-SA 4.0, 2026-06-28): https://commons.wikimedia.org/wiki/File:Biodiversity_at_Monthathan_Waterfall,_Chiangmai,_Thailand.jpg
 
 <!-- related-ring -->
+## 2027 status
+
+As of 26 November 2026, the full 2027 race dates, entry window and course are not published; this page does not shift 2026 dates to 2027. Check the official sources before entering.
+
 ## Related entries
 
 - [Doi Inthanon PAGODA 50-DAY: a race called 50, a course of 57 km, and a loop around Doi Inthanon](/en/routes/doi-inthanon-pagoda-50-day/)

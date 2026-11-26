@@ -324,6 +324,10 @@ Official entry points (outbound links, all organiser pages): [official homepage]
 Further reading: [UTMB Mont-Blanc](/en/routes/utmb/), [Western States 100](/en/routes/western-states/), [Leadville Trail 100](/en/routes/leadville-trail-100/), [TDS](/en/routes/tds/), [CCC](/en/routes/ccc/), [long-run fueling](/en/knowledge/long-run-fueling/), [recovery day](/en/knowledge/recovery-day/), [split pace](/en/tools/splits/), [track view](/en/tools/track-view/).
 
 <!-- related-ring -->
+## 2027 status
+
+The 2027 lottery is set for 5 December 2026 and the direction reverses; the full race dates, entry window and split schedule remain subject to the official page.
+
 ## Related entries
 
 - [Leadville Trail 100: a high-altitude out-and-back 100-mile reference (2026 reroute basis)](/en/routes/leadville-trail-100/)

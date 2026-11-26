@@ -417,6 +417,10 @@ A2 的 750 米到 A3 的 1,560 米，这一段 10 公里净爬升 810 米、累�
 13. Monthathan 瀑布照片（ศุภฤกษ์ลายประวัติ，CC BY-SA 4.0，2026-06-28）：https://commons.wikimedia.org/wiki/File:Biodiversity_at_Monthathan_Waterfall,_Chiangmai,_Thailand.jpg
 
 <!-- related-ring -->
+## 2027 届状态
+
+截至 2026-11-26，2027 届的完整赛期、报名窗口与路线尚未在官方页面公布；本页不把 2026 届日期平移到 2027，报名前以页末官方来源为准。
+
 ## 相关条目
 
 - [Doi Inthanon PAGODA 50-DAY：名字叫 50、距离 57 公里，一条绕茵他侬山的环线](/routes/doi-inthanon-pagoda-50-day/)

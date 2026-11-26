@@ -347,6 +347,10 @@ GPX：官方 Miler / 赛道页把下载入口指向 Google Drive 文件夹，另
 延伸阅读：[Ultra-Trail Australia](/routes/ultra-trail-australia/)、[RMB Ultra-Trail Cape Town](/routes/utct/)、[高温与湿度](/knowledge/heat-and-humidity/)、[长距离补给](/knowledge/long-run-fueling/)、[轨迹查看工具](/tools/track-view/)、[分段配速工具](/tools/splits/)。
 
 <!-- related-ring -->
+## 2027 届状态
+
+2027 届资格权益已写明，但赛期、报名窗口与赛道版本尚未公布；本页不把 2026 时刻当作 2027 时刻。
+
 ## 相关条目
 
 - [Kodiak Ultra Marathons by UTMB：Big Bear Lake 的 100 英里山赛](/routes/kodiak/)

@@ -319,6 +319,10 @@ UTMB is not a race that permits pacing throughout. The rules allow one personal 
 That sheet should also name the person who will call the race office if you fail to leave a checkpoint.
 
 <!-- related-ring -->
+## 2027 status
+
+The 2027 entry conditions page is updated; the full race dates, entry window and wave times are not yet published, so this page does not shift the 2026 schedule to 2027.
+
 ## Related entries
 
 - [Western States 100: the 2026 course in full](/en/routes/western-states/)

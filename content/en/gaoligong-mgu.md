@@ -273,6 +273,10 @@ This page hosts no GPX and draws no official course line. The three photographs 
 Further reading: [long-run fuelling](/en/knowledge/long-run-fueling/), [recovery day](/en/knowledge/recovery-day/), [track viewer](/en/tools/track-view/), [split calculator](/en/tools/splits/), [Ultra-Trail Ninghai](/en/routes/utnh/).
 
 <!-- related-ring -->
+## 2027 status
+
+As of 26 November 2026, the 2027 edition has only started promotion and bidding; no date, categories or entry information are published, and this page does not infer them from 2026.
+
 ## Related entries
 
 - [Hong Kong 100: the 2027 course in full, from Sai Kung to Tai Mo Shan](/en/routes/hong-kong-100/)

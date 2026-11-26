@@ -324,6 +324,10 @@ translationStatus: reviewed
 延伸阅读：[UTMB Mont-Blanc](/routes/utmb/)、[Western States 100](/routes/western-states/)、[Leadville Trail 100](/routes/leadville-trail-100/)、[TDS](/routes/tds/)、[CCC](/routes/ccc/)、[长距离补给](/knowledge/long-run-fueling/)、[恢复日](/knowledge/recovery-day/)、[赛中分段配速](/tools/splits/)、[赛道查看](/tools/track-view/)。
 
 <!-- related-ring -->
+## 2027 届状态
+
+2027 届抽签定于 2026 年 12 月 5 日，方向改为逆时针；完整赛期、报名窗口与分段安排以官方当届页面为准。
+
 ## 相关条目
 
 - [Leadville Trail 100：高海拔往返百英里全解（2026 改线口径）](/routes/leadville-trail-100/)

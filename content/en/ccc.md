@@ -303,6 +303,10 @@ All three photographs are 960 px Wikimedia Commons thumbnails; author, date, lic
 - This page's text is published under CC BY 4.0. When quoting official figures, cite both the edition (2026) and the basis (header, timing table or last wave).
 
 <!-- related-ring -->
+## 2027 status
+
+The 2027 rules page is live, but whether the 2027 course returns, its final distance and climb are not published; this page records 2026 facts only.
+
 ## Related entries
 
 - [Hardrock 100: the 2026 clockwise high-altitude loop](/en/routes/hardrock/)
