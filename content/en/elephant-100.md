@@ -417,3 +417,5 @@ As of 26 November 2026, the full 2027 race dates, entry window and course are no
 - [Tenzing Hillary Everest Marathon: a high-altitude downhill trail race guide (2027 basis)](/en/routes/everest-marathon/)
 - [Gaoligong Ultra MGU 168 km: six races, and what is missing](/en/routes/gaoligong-mgu/)
 - [Hong Kong 100: the 2027 course in full, from Sai Kung to Tai Mo Shan](/en/routes/hong-kong-100/)
+
+Change note: added the 2027 date/entry status and official entry point; the calendar must separate confirmed dates from TBA rather than shifting 2026 dates forward. Still open: unpublished dates, entry windows and route versions remain TBD and are rechecked when the race publishes.

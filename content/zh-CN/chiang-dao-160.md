@@ -426,3 +426,5 @@ A2 的 750 米到 A3 的 1,560 米，这一段 10 公里净爬升 810 米、累�
 - [Doi Inthanon PAGODA 50-DAY：名字叫 50、距离 57 公里，一条绕茵他侬山的环线](/routes/doi-inthanon-pagoda-50-day/)
 - [ELEPHANT 100：清迈 Major 的 100 公里组，与 160 公里组共用后半程](/routes/elephant-100/)
 - [Tenzing Hillary 珠峰马拉松：高海拔下山越野赛全解（2027 届口径）](/routes/everest-marathon/)
+
+本次变更：补 2027 届日期/报名状态与官方入口；为什么：赛历需要区分已公布与待公布，不能用 2026 日期平移。仍未解决：未公布的日期、报名窗口与路线保持 TBD，公布后按触发器复核。

@@ -264,3 +264,5 @@ translationStatus: reviewed
 - [Big's Backyard Ultra：田纳西 backyard 计时赛制全解（2025 个人世锦赛口径）](/routes/bigs-backyard-ultra/)
 - [Black Canyon 100K 2027：亚利桑那黑峡谷步道的 62.2 英里、20 小时与 Western States 金票](/routes/black-canyon-ultras/)
 - [布宜诺斯艾利斯马拉松 2026：42.195 km 城市平地、分批出发与 6 小时硬关门](/routes/buenos-aires/)
+
+本次变更：补 2027 届日期/报名状态与官方入口；为什么：赛历需要区分已公布与待公布，不能用 2026 日期平移。仍未解决：未公布的日期、报名窗口与路线保持 TBD，公布后按触发器复核。

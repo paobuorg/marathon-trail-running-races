@@ -294,3 +294,5 @@ Grand Raid de La Réunion 每年在留尼汪岛举办五场比赛，La Diagonale
 - [Spartathlon 2026：雅典到斯巴达 244.74 公里，36 小时与 76 个检查点](/routes/spartathlon/)
 - [Two Oceans Marathon：56 公里、第 56 届，与 Comrades 完全不同的 seconding 规则](/routes/two-oceans-marathon/)
 - [CCC：UTMB 世界系列 100K 组总决赛的完整赛道指南（2026 届）](/routes/ccc/)
+
+本次变更：补 2027 届日期/报名状态与官方入口；为什么：赛历需要区分已公布与待公布，不能用 2026 日期平移。仍未解决：未公布的日期、报名窗口与路线保持 TBD，公布后按触发器复核。

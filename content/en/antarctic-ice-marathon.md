@@ -264,3 +264,5 @@ As of 26 November 2026, the full 2027 race dates, entry window and course are no
 - [Big's Backyard Ultra: the Bell Buckle backyard format explained (2025 individual world championship basis)](/en/routes/bigs-backyard-ultra/)
 - [Black Canyon 100K 2027: 62.2 miles on the Arizona trail, 20 hours and a Western States Golden Ticket](/en/routes/black-canyon-ultras/)
 - [Buenos Aires Marathon 2026: 42.195 km of city flat, ten start corrals and a hard 13:00 close](/en/routes/buenos-aires/)
+
+Change note: added the 2027 date/entry status and official entry point; the calendar must separate confirmed dates from TBA rather than shifting 2026 dates forward. Still open: unpublished dates, entry windows and route versions remain TBD and are rechecked when the race publishes.

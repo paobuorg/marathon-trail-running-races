@@ -328,3 +328,5 @@ The 2027 entry conditions page is updated; the full race dates, entry window and
 - [Western States 100: the 2026 course in full](/en/routes/western-states/)
 - [CHIANG DAO 160: the 173 km race of the Chiang Mai Major, 48 hours and eight cut-offs](/en/routes/chiang-dao-160/)
 - [Doi Inthanon PAGODA 50-DAY: a race called 50, a course of 57 km, and a loop around Doi Inthanon](/en/routes/doi-inthanon-pagoda-50-day/)
+
+Change note: added the 2027 date/entry status and official entry point; the calendar must separate confirmed dates from TBA rather than shifting 2026 dates forward. Still open: unpublished dates, entry windows and route versions remain TBD and are rechecked when the race publishes.

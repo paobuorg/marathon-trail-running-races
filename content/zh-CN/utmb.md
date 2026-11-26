@@ -323,3 +323,5 @@ UTMB 不是全程可陪跑的赛事。官方规则只允许在指定补给站由
 - [西部各州 100 英里：2026 赛道全解](/routes/western-states/)
 - [CHIANG DAO 160：清迈 Major 的 173 公里主赛，48 小时与八处关门](/routes/chiang-dao-160/)
 - [Doi Inthanon PAGODA 50-DAY：名字叫 50、距离 57 公里，一条绕茵他侬山的环线](/routes/doi-inthanon-pagoda-50-day/)
+
+本次变更：补 2027 届日期/报名状态与官方入口；为什么：赛历需要区分已公布与待公布，不能用 2026 日期平移。仍未解决：未公布的日期、报名窗口与路线保持 TBD，公布后按触发器复核。

@@ -312,3 +312,5 @@ The 2027 rules page is live, but whether the 2027 course returns, its final dist
 - [Hardrock 100: the 2026 clockwise high-altitude loop](/en/routes/hardrock/)
 - [Leadville Trail 100: a high-altitude out-and-back 100-mile reference (2026 reroute basis)](/en/routes/leadville-trail-100/)
 - [OCC 2026: the 50K Final course](/en/routes/occ/)
+
+Change note: added the 2027 date/entry status and official entry point; the calendar must separate confirmed dates from TBA rather than shifting 2026 dates forward. Still open: unpublished dates, entry windows and route versions remain TBD and are rechecked when the race publishes.

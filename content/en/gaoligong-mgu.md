@@ -282,3 +282,5 @@ As of 26 November 2026, the 2027 edition has only started promotion and bidding;
 - [Hong Kong 100: the 2027 course in full, from Sai Kung to Tai Mo Shan](/en/routes/hong-kong-100/)
 - [Mt.FUJI 100: 165.3 km, four distance readings and nine cut-offs](/en/routes/mt-fuji-100/)
 - [QMT135: Quebec's 134 km from Baie-Saint-Paul to Mont-Sainte-Anne](/en/routes/qmt-135/)
+
+Change note: added the 2027 date/entry status and official entry point; the calendar must separate confirmed dates from TBA rather than shifting 2026 dates forward. Still open: unpublished dates, entry windows and route versions remain TBD and are rechecked when the race publishes.

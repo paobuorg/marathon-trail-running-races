@@ -357,3 +357,5 @@ The 2027 qualification rights are stated, but race dates, entry window and cours
 - [Kodiak Ultra Marathons by UTMB: a 100-mile mountain race at Big Bear Lake](/en/routes/kodiak/)
 - [Lewa Safari Marathon: a conservancy loop race guide (2027 basis)](/en/routes/lewa-safari-marathon/)
 - [Marathon des Sables Legendary: the full 270 km, six-stage Sahara guide (2026 edition record)](/en/routes/marathon-des-sables/)
+
+Change note: added the 2027 date/entry status and official entry point; the calendar must separate confirmed dates from TBA rather than shifting 2026 dates forward. Still open: unpublished dates, entry windows and route versions remain TBD and are rechecked when the race publishes.

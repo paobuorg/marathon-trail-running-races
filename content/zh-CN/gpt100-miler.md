@@ -356,3 +356,5 @@ GPX：官方 Miler / 赛道页把下载入口指向 Google Drive 文件夹，另
 - [Kodiak Ultra Marathons by UTMB：Big Bear Lake 的 100 英里山赛](/routes/kodiak/)
 - [Lewa Safari 马拉松：肯尼亚保护区环线赛事全解（2027 届口径）](/routes/lewa-safari-marathon/)
 - [Marathon des Sables Legendary：撒哈拉 270 公里六段赛全解（2026 届记录）](/routes/marathon-des-sables/)
+
+本次变更：补 2027 届日期/报名状态与官方入口；为什么：赛历需要区分已公布与待公布，不能用 2026 日期平移。仍未解决：未公布的日期、报名窗口与路线保持 TBD，公布后按触发器复核。

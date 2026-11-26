@@ -417,3 +417,5 @@ As of 26 November 2026, the full 2027 race dates, entry window and course are no
 - [Doi Inthanon PAGODA 50-DAY: a race called 50, a course of 57 km, and a loop around Doi Inthanon](/en/routes/doi-inthanon-pagoda-50-day/)
 - [ELEPHANT 100: the 100 km race of the Chiang Mai Major, sharing its second half with the 160](/en/routes/elephant-100/)
 - [Tenzing Hillary Everest Marathon: a high-altitude downhill trail race guide (2027 basis)](/en/routes/everest-marathon/)
+
+Change note: added the 2027 date/entry status and official entry point; the calendar must separate confirmed dates from TBA rather than shifting 2026 dates forward. Still open: unpublished dates, entry windows and route versions remain TBD and are rechecked when the race publishes.

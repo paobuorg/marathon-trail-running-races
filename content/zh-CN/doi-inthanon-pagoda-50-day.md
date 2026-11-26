@@ -551,3 +551,5 @@ GPX：官方赛事页链接的 `Pagoda_50_Stations_dc2d1c0795.gpx` 没有版权�
 - [ELEPHANT 100：清迈 Major 的 100 公里组，与 160 公里组共用后半程](/routes/elephant-100/)
 - [Tenzing Hillary 珠峰马拉松：高海拔下山越野赛全解（2027 届口径）](/routes/everest-marathon/)
 - [高黎贡超级山径赛 MGU 168 公里：六组数据与缺什么](/routes/gaoligong-mgu/)
+
+本次变更：补 2027 届日期/报名状态与官方入口；为什么：赛历需要区分已公布与待公布，不能用 2026 日期平移。仍未解决：未公布的日期、报名窗口与路线保持 TBD，公布后按触发器复核。

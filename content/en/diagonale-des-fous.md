@@ -294,3 +294,5 @@ As of 26 November 2026, the full 2027 race dates, entry window and course are no
 - [Spartathlon 2026: 244.74 km from Athens to Sparta, 36 hours and 76 checkpoints](/en/routes/spartathlon/)
 - [Two Oceans Marathon: 56 km, the 56th edition, and seconding rules that Comrades does not share](/en/routes/two-oceans-marathon/)
 - [CCC: the complete 2026 course guide to the UTMB World Series 100K final](/en/routes/ccc/)
+
+Change note: added the 2027 date/entry status and official entry point; the calendar must separate confirmed dates from TBA rather than shifting 2026 dates forward. Still open: unpublished dates, entry windows and route versions remain TBD and are rechecked when the race publishes.
