@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-seoul-2027-record-submission",
+  "title": "2027 Seoul Marathon — overseas race record submission guide",
+  "url": "https://en.seoul-marathon.com/60/?idx=174919296&bmode=view",
+  "publisher": "Seoul Marathon Organizing Committee (The Dong-A Ilbo)",
+  "publishedAt": "2026-10-01",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The overseas record submission period is 1 October 2026 10:00 to 30 November 2026 14:00 KST.",
+    "Records are submitted through the Dongma Club, World's Marathons or runnet.jp; a valid record is an official full-marathon net time of 4:59:59 or faster from 1 January 2024 to 30 November 2026.",
+    "Runners who cannot submit a valid record start in the final wave; record review does not affect whether the registration itself stands."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取公告 idx=174919296 成绩提交指南",
+    "note": "提交起止时间、渠道与有效成绩口径可读；无成绩者排最后一出发区。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Submission: Oct 1 2026 10:00 – Nov 30 2026 14:00 KST" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Channels Dongma Club / World's Marathons / runnet.jp；record ≤4:59:59 net, 2024-01-01 to 2026-11-30" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "No valid record starts final wave；review does not cancel registration" }
+  ]
+}

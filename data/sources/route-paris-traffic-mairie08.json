@@ -1,0 +1,55 @@
+{
+  "sourceId": "route-paris-traffic-mairie08",
+  "title": "Mairie du 8e de Paris: 2026 marathon traffic and parking restrictions and ASO course map",
+  "url": "https://mairie08.paris.fr/pages/marathon-de-paris-2025-le-point-sur-les-impacts-30726",
+  "publisher": "Mairie du 8e arrondissement de Paris (city administration)",
+  "publishedAt": "2026-04-11",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The municipal page publishes the ASO 2026 official course map for the 12 April 2026 race, showing the start near the Arc de Triomphe/Champs-Élysées and the finish on the western Bois de Boulogne side near Porte Dauphine/Avenue Foch.",
+    "Traffic and parking restrictions were set by Préfecture de Police arrêté n°2026-00388 of 3 April 2026; the Champs-Élysées was fully closed from 7 a.m. to 3 p.m. on 12 April 2026.",
+    "Restrictions in the 8th arrondissement included Place de la Concorde and the George Pompidou underpasses (Concorde until 4 p.m., Alma until 6:30 p.m.), in force from 7 a.m. on 12 April.",
+    "Beyond the 8th arrondissement, Périphérique exits at Porte Dauphine, Porte d'Auteuil and Porte de Passy were closed from 7 a.m. to 6 p.m., and A13 exit 1 (Porte d'Auteuil, province→Paris direction) was closed 7 a.m.–6 p.m.",
+    "The page references about 60,000 runners expected under police measures for the event."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取巴黎八区市政府公告页正文与内嵌 ASO 2026 赛道图",
+    "note": "市政府页转述警方 arrêté；完整法条 PDF 链接在该页内，未单独抓取；本来源作为市级交通通告一手依据。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "页面内嵌 Credit photo ASO 的 12 AVRIL 2026 赛道图；图例 Départ/Arrivée 与地标同官网叙述。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "页面引用 Arrêté n°2026 00388 du 3 avril 2026；香榭丽舍 7h–15h 全封。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "页面：协和广场与 Pompidou 地道 7h–13:30/16h；Alma 地道至 18:30。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "页面：Porte Dauphine/Auteuil/Passy 环城高速出口 7h–18h；A13 出口 1 7h–18h。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "页面称 60,000 跑者；官网赛后统计为 58,853 起跑（route-paris-2026-fields-news）。"
+    }
+  ]
+}

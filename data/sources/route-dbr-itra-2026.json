@@ -1,0 +1,24 @@
+{
+  "sourceId": "route-dbr-itra-2026",
+  "title": "ITRA results database — Dragon's Back Race 2026 measured distance, ascent and finish ratio",
+  "url": "https://itra.run/Races/RacesDetails?raceId=261885",
+  "publisher": "ITRA (third-party results and route database)",
+  "publishedAt": "2026-09-12",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The ITRA record for the 2026 race lists 384 km distance and 16,078 m of ascent.",
+    "The record lists 151 participants with 53 finishers and 98 DNF."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": false,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "general_search 摘要读取 ITRA 赛事详情页",
+    "note": "第三方数据库口径：384 km / 16,078 m 为 ITRA 测量值，与官网 380 km / 16,400 m 口径并列保留；完赛率 53/151 ≈ 35.1%。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "partial", "checkedAt": "2026-11-25", "note": "ITRA 详情页：384.0 km, 16,078 m D+。" },
+    { "index": 1, "status": "partial", "checkedAt": "2026-11-25", "note": "ITRA 详情页：151 participants, 53 finish, 98 DNF。" }
+  ]
+}

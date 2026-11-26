@@ -1,0 +1,32 @@
+{
+  "sourceId": "route-valencia-race-services",
+  "title": "Race services — bag drop, MSC pace group, rapid assistance, showers",
+  "url": "https://www.valenciaciudaddelrunning.com/en/marathon/race-services/",
+  "publisher": "S.D. Correcaminos",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The bag-drop service had to be booked in advance; runners who booked it carry a coat-hanger icon on the bib, and it cannot be added later.",
+    "The MSC Prácticos pace group sets a steady pace from start to finish for a target finishing time and carries a highly visible banner identifiable at the start.",
+    "Three rapid assistance points by Farmacia Ribera at km 24.5, 29.5 and 34.2 provide vaseline and analgesic spray, with a post-finish point as well.",
+    "Medal engraving is an optional paid service located next to the bag-drop area on Avenida del Profesor López Piñero, recording name and official time on the medal.",
+    "A shower service runs after the race from 10:00 to 17:00 at the San Luis municipal swimming pool.",
+    "The detailed race guide covering getting to the Expo and start line was marked Coming soon on the official services page checked on 2026-11-25."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官网赛事服务页正文",
+    "note": "存包、配速团、医疗快助点、奖牌刻字、淋浴与指南状态均取自该页；配速团目标完赛时间清单未在该页公布。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Bag drop service booked in advance; coat hanger icon on bib; no longer possible to add。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Prácticos MSC：steady pace start to finish, given time objective, highly visible banner。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Farmacia Ribera rapid assistance：km 24.5, 29.5, 34.2；vaseline + analgesic spray；post-finish point。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Medal engraving next to bag drop off area (Av. Profesor López Piñero)；name + official time。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "Shower service 10am-5pm, San Luis municipal swimming pool。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "RACE GUIDE 段标注 Coming soon；未取得官方详细参赛指南。" }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "sourceId": "route-everest-essentials",
+  "title": "Marathon Essentials — official guide (insurance boundary, medical escort, weather, luggage, inclusions/exclusions)",
+  "url": "https://everestmarathon.com/marathon-essentials",
+  "publisher": "Tenzing Hillary Everest Marathon (event organiser, Kathmandu)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "All members require travel or medical insurance from their own respective countries; international travel, trip cancellation and medical insurance, and emergency evacuation or medical costs are listed as package exclusions.",
+    "Doctors accompany the group to Everest Base Camp and back to Lukla; helicopters are available on extra payment for evacuation to the nearest facility or to a Kathmandu hospital.",
+    "The page quotes a guideline one-way helicopter cost of about USD 600 per person when the helicopter is full (five people); this is a general guideline figure, not the race-day evacuation tariff.",
+    "High-altitude advice on the page: do not take sleeping pills at higher altitude; carry personal medication and consult the accompanying doctor or guide before taking pills.",
+    "May weather description: daytime 10–20°C, morning and night -5 to -10°C depending on altitude and wind chill; strong UV above 3,400 m with SPF 30–50 sunscreen; starry nights -2 to -8°C; snow of 1–2 ft is possible.",
+    "Luggage allowance is 15 kg / 30 lb; excess domestic flight luggage is charged USD 1.2 per kg; the pre-race briefing is held at Hotel Shanker on 17 May.",
+    "Package inclusions: 4 nights twin B&B in Kathmandu, airport transfers, fixed-wing domestic flight Kathmandu–Lukla–Kathmandu or Ramechhap–Lukla–Ramechhap (excluding emergency/medical evacuation or change to helicopter), full board during the trek, permits and park fees, half-day Kathmandu sightseeing, event t-shirt, medal, certificate, souvenir and the 2 June celebration dinner.",
+    "Package exclusions: Nepal visa (USD 50 for 30 days or USD 30 for 15 days), international flights, Kathmandu meals, personal expenses, international travel/trip cancellation/medical insurance, emergency evacuation or medical costs, and any extra early departure."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 Essentials 页医疗、保险、天气、行李与包含/不含条目",
+    "note": "保险边界以页面 Exclusive 条目为准：赛事套餐不含国际医疗保险与紧急撤离费用。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Insurance 段：travel or medical insurance from own country；Exclusive 段列出医疗/撤离保险为不含项。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Medical 段：doctors accompany to EBC and back to Lukla；helicopters on extra payment。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "helicopter one-way about USD 600 per person if full (5 people)，页面标注 guideline。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Medication 段：no sleeping pills at higher altitude；personal medication；consult doctor/guide。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "Weather 段：day 10–20°C，night -5 to -10°C，UV 3,400 m 以上 SPF 30–50，possible snow 1–2 ft。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "luggage 15kg/30lbs，excess USD 1.2/kg；briefing Hotel Shanker 17 May。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-25", "note": "Inclusions 段八项与表内一致；航班不含紧急撤离或改直升机。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-25", "note": "Exclusions 段：visa USD 50/30d 或 30/15d、国际机票、KTM 餐食、个人开销、国际保险、撤离/医疗费用、提前离开。" }
+  ]
+}

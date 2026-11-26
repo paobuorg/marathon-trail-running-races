@@ -70,6 +70,33 @@ The high point is also published only by the GPX: 1,731 m at about 71.9 km, betw
 
 ![Marcin Świerc leading through the Osorio estate in Teror at the 2013 Transgrancanaria](/media/routes/transgrancanaria/transgrancanaria-osorio-2013.jpg)
 
+## Entry and eligibility: 2027 registration open, medical certificate as prerequisite
+
+The Classic page carries a "Registration 2027" and "REGISTER 2027" entry, so 2027 registration is open. The World Trail Majors activity page records about 3,500 total participants, a first edition in 2003 and the race as Spain's first ultra; these are WTM background figures, not a replacement for the official entry rules.
+
+| Entry item | Verified figure | Unverified / evidence insufficient |
+| --- | --- | --- |
+| Entry channel | REGISTER 2027 on the Classic 2027 page | Fee tiers, early-bird versus standard price, refund terms |
+| Allocation | The pages read publish no ballot or first-come rule | Whether a ballot applies is not evidenced here and is not invented |
+| Performance threshold | The pages read list no UTMB Index or prior-finish requirement | Whether an index or prior finish is an entry condition is unpublished |
+| Medical certificate | Required for Classic, Advanced and Stages; the Classic page sets upload by 14 January 2027, regulation 5.3 sets 21 January 2027; a paid registration without a valid certificate is not accepted | Which deadline prevails is not merged by the organiser |
+| Series affiliation | World Trail Majors circuit (official page and WTM activity page agree) | No UTMB World Series wording appears on the four pages read |
+
+Before entering, confirm a medical certificate can be signed and issued before the deadline; it must be completed and signed by a licensed practitioner and issued no more than one year before the start, unless updated after illness or injury.
+
+## Course and geometry: point-to-point across Gran Canaria
+
+The Classic is a point-to-point course: it starts at Las Canteras Beach, Las Palmas de Gran Canaria in the island's northeast, crosses the central mountains diagonally and finishes at Parque Sur, Maspalomas in the south. On geometry, the official Classic page offers KMZ and GPX downloads, but the only GPX file's name, track header and metadata are all labelled 2026 and carry no licence terms; this site links to the official page only, does not host or draw the track, and does not treat the file as verified 2027 geometry.
+
+| Geometry item | Figure used | Note |
+| --- | --- | --- |
+| Official distance | 126 km (2027 Classic page and navigation) | 2026 home card 125 km; GPX file measures 126.092 km; the three sit side by side |
+| Official gain | 6,764 m+ (Classic page) | Text says nearly 7,000 metres; GPX raw +7,568 m, 3 m threshold +6,552 m |
+| Descent | Not published officially | GPX raw −7,539 m, 3 m threshold −6,523 m; not converted to roughly equal the gain |
+| High point | GPX 1,731 m at about 71.9 km, between Artenara and Tejeda | Official pages do not publish the high point; low point 0 m near the sea-level start and finish |
+| Course shape | Three sections: coastal low hills → central high ground → long southern descent | Last 14 km almost all downhill; per-segment gain not published |
+| Track licence | File carries no licence or copyright terms | A [track viewer](/en/tools/track-view/) reads a file you have authorisation to use |
+
 ## Ten aid stations and cut-offs
 
 The official aid-station table has a start, ten numbered aid stations and a finish. The "Elevation" column below comes from the GPX linked on the 2027 page (a file labelled 2026), not from official checkpoint spot heights; the "Assistance" column follows the official allowed/not-allowed lists; the "Life bag" column follows the official LIFE BAGS section.
@@ -170,6 +197,41 @@ What is certain: 126 km, 6,764 m of gain, 30 hours, ten aid stations and eleven 
 
 Against the other formats at the same event: the Classic is the only single race over 100 km; Advanced is 82 km and Marathon is 47 km. Their distances and gains cannot be swapped, and the Classic's 126 km cannot be written as "120 km" or "130 km" for convenience.
 
+## Training transfer
+
+The Classic is a 126 km, 6,764 m+, 30-hour World Trail Majors mountain race. Its demands are an island crossing, one full night, mountain-to-coast day-night temperature difference and a long final 14 km descent. The table breaks them into trainable abilities; it lists directions, not an official plan.
+
+| Ability | Course demand | Preparation direction |
+| --- | --- | --- |
+| Ultra endurance | Finish 126 km inside 30 hours | Extend continuous running time gradually, keeping one session near hundred-mile mountain scale |
+| Climb load | 6,764 m+ through Teror, Fontanales, Artenara, Tejeda to El Garañón | Build vertical load on climb sessions; do not stack flat mileage alone |
+| Night running | 23:59 start; every runner spends at least one full night out | Practise night runs, headlamp rhythm and night fuelling, following [night running and traffic](/en/knowledge/night-running-and-traffic/) |
+| Downhill tolerance | Continuous descent after El Garañón, last 14 km almost all downhill | Add downhill running and quad strength; keep reserve for the long descent |
+| Temperature adaptation | Mountain median daytime max 12.3 °C, coast 19–21 °C | Train layered clothing; prepare the cold kit per the organiser's decision two days before |
+| Long-duration fuelling | Ten aid stations, no cups at stations | Train station-to-station eating and carry your own container and utensils per [fueling long runs](/en/knowledge/long-run-fueling/) |
+
+Post-race recovery follows a [recovery day](/en/knowledge/recovery-day/); use the [split pace tool](/en/tools/splits/) to break a 30-hour target down to the stations. The tool does arithmetic only and does not replace island mountain mileage.
+
+## Race-day execution card
+
+The table follows the three sections and main stations; cut-off references come from "Ten aid stations and cut-offs". Pacing notes are editorial judgement, not official split targets.
+
+| Phase | Distance | Execution notes | Cut-off reference |
+| --- | ---: | --- | --- |
+| Opening low hills | 0–19.3 km | 23:59 start; Tenoya is liquids only (water, cola, salts), no solid food; external assistance allowed at Arucas | Tenoya Sat 02:00; Arucas 03:40 |
+| Early climbs | 19.3–43.1 km | Teror, Fontanales; Fontanales is the first life-bag point; assistance only within 100 m before/after stations | Teror 06:10; Fontanales 08:50 |
+| Central high ground | 43.1–79.2 km | No assistance at El Hornillo; crew allowed at Artenara and Tejeda; check headlamp battery in the night section | El Hornillo 11:30; Artenara 15:10; Tejeda 18:00 |
+| High point and southern descent | 79.2–112 km | El Garañón second life-bag point, highest aid station; crew at Tunte; protect legs on the long descent | El Garañón 20:45; Tunte 23:25; Ayagaures Sun 02:25 |
+| Finish to coast | 112–126 km | Last 14 km almost all downhill; no assistance at Ayagaures; reach Maspalomas around dawn | Finish Sun 06:00 |
+
+Check the mandatory kit before the start: cold kit (hot gloves, windproof trousers, thermal T-shirt, long thermal pants, kept or removed by the organiser two days before on the forecast), 100 x 200 cm emergency blanket, a phone that works in Spain, 1.5 litres water capacity, a headlamp of at least 200 lumens with spare batteries, red tail light, breathable waterproof jacket, cap, ID and at least 50 euros in cash. Stations provide no cups; carry your own container. External assistance is allowed only at the seven permitted points within 100 m before/after; a pacing runner, registered or not, counts as assistance. Poles are banned in the first 2 km. To drop, hand in the bib at an aid station; if injured and unable to move, call the emergency number on the bib.
+
+## Results and course changes: 2027 not held, change history unverified
+
+As of the 8 November 2026 verification date, the 2027 edition has not been held; this page has no 2027 results, finish rate or rankings. The notable previous winners listed on the WTM activity page (including Pau Capell, Caroline Chaverot, Courtney Dauwalter, Ryan Sandes and Andreu Simon) are background only, not a 2027 entry or prediction list. The organiser publishes no separate records page, so this page declares no record holder.
+
+On course changes, prior runner guides were not obtained and the change history is unverified. This page has no logged official reroute, rescheduling or rule change; the entity's `courseChanges` array is empty, which is not written as "no changes". The 125 versus 126 km difference is recorded here as a page rounding and edition-card discrepancy, not a proven course lengthening; the 2027-specific track is not yet published, and whether the linked GPX matches the 2027 course follows the pre-race guide and day markings.
+
 ## Verified and unverified
 
 Verified (2026-11-08):
@@ -223,3 +285,10 @@ Text and tables: original to this site, published under CC BY 4.0; official fact
 - Related pages: [UTMB](/en/routes/utmb/), [Hong Kong 100](/en/routes/hong-kong-100/), [Val d'Aran](/en/routes/val-daran/).
 
 Files used and their consistency: every 2027 figure in the body comes from the 2027 Classic, schedule and regulations pages above; the geometry check used only the linked `TGCC-2026-28052025-1-1.gpx`. That file's filename says 2026, its `<trk><name>` says `TGCC 2026 28052025`, its `<metadata><time>` says 2025-06-30T13:40:23Z, and its first track point is timestamped 2021-07-26 — four metadata items that agree with each other and all disagree with the 2027 page. The file contains no licence or copyright terms. This page therefore treats it as a "file labelled 2026", uses it only to sanity-check distance and elevation magnitude, and does not treat it as 2027 course geometry or host, draw or redistribute it.
+
+<!-- related-ring -->
+## Related entries
+
+- [Val d'Aran by UTMB: the VDA 163 km course explained](/en/routes/val-daran/)
+- [VMM 100km: 101 kilometres in the Sapa mountains, from Sapa Square to Topas Ecolodge](/en/routes/vmm-100/)
+- [Wildstrubel by UTMB: a 113 km loop around the Wildstrubel massif from Crans-Montana](/en/routes/wildstrubel/)

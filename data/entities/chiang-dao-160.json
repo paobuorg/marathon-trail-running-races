@@ -32,9 +32,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-11-08",
-  "updatedAt": "2026-11-24",
-  "reviewedAt": "2026-11-24",
-  "reviewDueAt": "2026-12-31",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
   "details": {
     "raceType": "trail-ultra",
     "countryCodes": [
@@ -67,4 +67,3 @@
     "attribution": "HOKA Chiang Mai Thailand by UTMB / UTMB World Series. The race page links the GPX Chiang_Dao_160_Stations_af5020d931.gpx; the file declares GPX 1.1, creator GPS Track Editor, metadata name 'Chiang Dao 160+Stations', description '25-9-2026', no copyright entry and no reuse licence. This site links to the official race page, does not host the file, does not draw the track and does not treat the file as verified race-day geometry."
   }
 }
-

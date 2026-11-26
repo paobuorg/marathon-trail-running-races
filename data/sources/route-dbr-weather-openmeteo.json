@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-dbr-weather-openmeteo",
+  "title": "Open-Meteo historical archive — Snowdonia grid point, 6-11 September 2016-2025",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=53.1045&longitude=-3.9835&start_date=2016-09-06&end_date=2025-09-11&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Europe%2FLondon&temperature_unit=celsius",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The requested grid point at 53.1045 N, 3.9835 W returns an elevation of 742 m (a high moorland grid point above the Snowdonia valleys).",
+    "For 6-11 September 2016-2025 (60 day-samples), daily high temperatures ranged from 7.7 to 22.8 °C with a median of 12.6 °C.",
+    "Daily low temperatures ranged from 3.3 to 15.1 °C with a median of 7.5 °C.",
+    "41 of 60 days recorded at least 1 mm of precipitation; 22 of 60 recorded at least 5 mm; single-day maximum 23.3 mm; mean daily precipitation 5.3 mm.",
+    "These are modelled grid-point values at high elevation, not measurements on camp or aid sites; valley lows and coastal sections run milder and drier than this point."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "PowerShell Invoke-RestMethod 读取 Open-Meteo archive API JSON，按 9 月 6–11 日过滤样本并重算 min/median/max 与降水计数",
+    "note": "2026-11-25 复核：2016–2025 每年 9 月 6–11 日共 60 天；网格点 742 m 代表高地山脊与开阔山野，不代表 Conwy 海滨或 Cardiff 终点的微气候。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "API 顶层 elevation 字段：742 m。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "daily.temperature_2m_max 60 项：min 7.7 / median 12.6 / max 22.8 °C。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "daily.temperature_2m_min 60 项：min 3.3 / median 7.5 / max 15.1 °C。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "daily.precipitation_sum 60 项：≥1mm 41 天，≥5mm 22 天，max 23.3 mm，mean 5.3 mm/day。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "API 历史再分析口径；高地网格点偏冷偏湿，谷地与海滨更温和。" }
+  ]
+}

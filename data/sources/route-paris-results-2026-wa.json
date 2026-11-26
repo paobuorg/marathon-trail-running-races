@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-paris-results-2026-wa",
+  "title": "World Athletics Label Road Races results — Schneider Electric Marathon de Paris, 12 April 2026",
+  "url": "https://worldathletics.org/competitions/world-athletics-label-road-races/calendar-results/7235597/result",
+  "publisher": "World Athletics",
+  "publishedAt": "2026-04-12",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "World Athletics records the Schneider Electric Marathon de Paris in Paris (FRA) on 12 April 2026 under event ID 7235597.",
+    "Men's winner: Yemaneberhan CRIPPA (ITA) 2:05:18; women's winner: Shure DEMISE (ETH) 2:18:34.",
+    "The WA result listing is the federation-level race result; the course-record interpretation and podium order follow the organiser's official report."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "general_search 命中 WA 7235597 结果页，页内冠军成绩与官网 /379 交叉一致",
+    "note": "WA 结果页为第三方权威成绩库；冠军与时间已与官网新闻互相印证。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "WA 7235597：Paris FRA, 12 APR 2026。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "WA 页面：Crippa ITA 2:05:18；Demise ETH 2:18:34，与官网 /379 一致。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "赛道纪录归属（女子新纪录、男子原纪录）以官网赛事新闻为准；WA 列表只给名次成绩。"
+    }
+  ]
+}

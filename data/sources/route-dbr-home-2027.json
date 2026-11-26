@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-dbr-home-2027",
+  "title": "Dragon's Back Race official home page — 2027 entries open, Full Dragon and shorter formats",
+  "url": "https://www.dragonsbackrace.com",
+  "publisher": "Dragon's Back Race / Ultra X",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Entries for the 2027 Dragon's Back Race are open on the official site.",
+    "The Full Dragon covers 380 km with 16,400 m of ascent along the Dragon's Back of Wales.",
+    "The event is described as a legendary 380 km, 6-day ultra running journey through Wales.",
+    "Shorter formats run alongside the main event: Dragon's Fire (two-day northern sections), Dragon's Tail (two-day southern sections) and the flexible Hatchling."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官网首页 2027 段与 Full Dragon 段",
+    "note": "2026-11-25 复核：首页标注 2027 entries open；380 km / 16,400 m 为现行官方口径。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "首页标题：The Dragon's Back Race 2027 is open for entries。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Full Dragon 段：380km with 16,400m of ascent。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "首页段：legendary 380km, 6-day ultra running journey through Wales。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "EXPLORE THE RACES 段：Full Dragon / Dragon's Fire / Dragon's Tail / The Hatchling。" }
+  ]
+}

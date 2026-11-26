@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-boston-charity",
+  "title": "Boston Marathon Official Charity Program (BAA)",
+  "url": "https://www.baa.org/races/boston-marathon/charity/",
+  "publisher": "Boston Athletic Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The Bank of America Boston Marathon Official Charity Program provides invitational entries to selected non-profit organizations, which recruit athletes pledged to raise funds.",
+    "The 2027 Official Charity Program lists 215 member charities; the Letter of Interest window for organizations ran from 3 to 13 June 2026.",
+    "Charity selection criteria include being a registered 501(c)(3), non-religious and non-political, and focusing on building healthy communities."
+  ],
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Official Charity Program 段：provides invitational entries to select non-profit organizations；athletes pledge to raise funds。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "页面显示 Showing 12 of 215 total results；LOI between June 3rd and June 13th, 2026。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "2027 申请条件：Registered 501(c)(3)；Not religious-based or political；focused on building healthy communities。" }
+  ],
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 BAA 慈善项目页",
+    "note": "HTTP 200；慈善邀请名额机制、215 家成员与申请条件可读。"
+  },
+  "license": null
+}

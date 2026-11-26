@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-seoul-traffic-2026",
+  "title": "Seoul Metropolitan Government press release — 15 March 2026 Seoul Marathon section traffic control",
+  "url": "https://www.seoul.go.kr/news/news_report.do?nttNo=454051",
+  "publisher": "Seoul Metropolitan Government",
+  "publishedAt": "2026-03-13",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 15 March 2026 course runs Gwanghwamun Square → Sungnyemun → Cheonggyecheon → Dongdaemun Design Plaza → Seoul Children's Grand Park → Seoul Forest → Jamsil Sports Complex.",
+    "The general sections' representative control window is 07:20–12:55; main sections are controlled sequentially from 05:00 to 14:30 and released flexibly once runners have passed.",
+    "Medical personnel with an ambulance and AED are stationed every 2.5 km; a race patrol carries emergency kits; about 4,800 safety staff and volunteers are deployed, with a joint operation headquarters and medical booths.",
+    "The 2026 start time was moved 30 minutes earlier than the previous year and traffic release was also moved 30 minutes earlier, following the 2026 marathon guideline; the secretariat is 02-312-1998 and the 120 Dasan call centre.",
+    "The city asks citizens to use public transport near the start and finish."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取首尔市政府新闻稿 nttNo=454051 正文",
+    "note": "路线节点、管制时段、医疗布点、人员规模与咨询电话在新闻稿正文中可读。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "광화문광장→숭례문→청계천→DDP→어린이대공원→서울숲→잠실종합운동장" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "일반 구간 07:20–12:55；주요 구간 05:00–14:30 순차·탄력 통제" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "매 2.5km 구급차·제세동기 의무요원；레이스 패트롤；안전관리요원·자원봉사자 4,800여 명" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "출발·해제 30분 앞당김；사무국 02-312-1998 / 120 다산콜" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "대중교통 이용 권장" }
+  ]
+}

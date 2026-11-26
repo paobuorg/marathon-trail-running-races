@@ -1,0 +1,62 @@
+{
+  "sourceId": "route-paris-first-marathon",
+  "title": "Organiser FAQ: first marathon — PPS medical document, lockers, toilets, pacers, headphones, medal",
+  "url": "https://www.schneiderelectricparismarathon.com/en/training/my-first-marathon",
+  "publisher": "A.S.O. — Schneider Electric Marathon de Paris official website",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Since 2024 the medical certificate has been replaced: runners complete the online Health Prevention Pathway (PPS) or upload an FFA license; the Attestation PPS PDF is valid for 3 months and must be uploaded to the timeto account.",
+    "Luggage lockers are available on Avenue Foch from 7 a.m.; bags must be no larger than 45×36×20 cm, carry the luggage label from the bib envelope, and are retrieved by showing the race number.",
+    "Toilets are available at the start, finish and next to feed stations; no showers are provided.",
+    "Headphones are allowed; accompanying runners without a bib are not allowed alongside or across the finish; live tracking is provided; pacers are assigned to each corral and coaches lead group warm-up in the start pens.",
+    "The cut-off is 6 hours after the last runner starts; finishers receive a finisher's medal after crossing the finish.",
+    "The FAQ-level refreshment description says refreshment points and toilets are available every 5 km."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取官网 Training > My first Marathon FAQ 页",
+    "note": "FAQ 为面向新手的官方通俗口径；与规则 PDF 冲突时以规则 PDF 为准（如补给点数量以 /330 为准）。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 FAQ：2024 起医疗证明由 PPS 路径或 FFA 执照替代；PPS 证明 3 个月有效；规则 PDF 1.3 同口径。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 FAQ：福煦大道 7:00 起存包；包体≤45×36×20 cm；挂号码布封套行李标签；凭号码布取回。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 FAQ：起点、终点、补给点旁有厕所；不提供淋浴。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 FAQ：可戴耳机；无号码布者不能陪跑/冲线；提供实时追踪；各分区配速员与热身教练。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 FAQ：最后一名出发后 6 小时关门；完赛者发奖牌；规则 1.9 同口径。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 FAQ 通俗版：约每 5 km 补给与厕所；2026 实际站点数量以 /330 的 13 点为准。"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-seoul-results-2025-wa",
+  "title": "World Athletics results — Seoul Marathon, 16 MAR 2025 (95th Dong-A)",
+  "url": "https://worldathletics.org/competition/calendar-results/results/7219904",
+  "publisher": "World Athletics",
+  "publishedAt": "2025-03-16",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The WA result page records the race on 16 MAR 2025 in Seoul (KOR).",
+    "Men's Marathon winner: Haftu TEKLU (ETH), 2:05:42; runner-up Felix KIRWA (KEN), 2:05:44.",
+    "Women's Marathon winner: Bekelech GUDETA (ETH), 2:21:36; runner-up Fikrte WERETA (ETH), 2:22:54."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 WA competition 7219904 名次表",
+    "note": "男子、女子名次表冠军与亚军成绩逐条核对。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Seoul (KOR) 16 MAR 2025" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Men 1 Haftu TEKLU ETH 2:05:42；2 Felix KIRWA KEN 2:05:44" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Women 1 Bekelech GUDETA ETH 2:21:36；2 Fikrte WERETA ETH 2:22:54" }
+  ]
+}

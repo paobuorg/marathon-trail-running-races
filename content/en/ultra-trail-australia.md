@@ -49,6 +49,21 @@ The prices are the 2027 entry page figures including processing fees and GST; th
 
 1km-4-Kids appears only on the schedule: check-in 08:00-09:30 and start 09:30 on 16 May at Scenic World. Its distance, limit and entry method are not verified here and are marked unknown.
 
+## Entry and qualification
+
+| Item | Official basis (2027) |
+| --- | --- |
+| UTMB Index priority | Holders get 48 h priority access from 11:00 AEST on 15 September 2026 |
+| General entries | Open 11:00 AEST on 17 September 2026 |
+| UTA100 entry fee | $620, inclusive of processing fees and GST |
+| Qualification | UTA100/UTA50/UTA22/UTA11 have no finishing prerequisite; UTAMiler requires an official 50 km+ trail result completed between 28 March 2025 and 28 March 2027, submitted by 28 March 2027 |
+| Age | Minimum 18 for UTA100 |
+| Running Stones | Finishers of UTA100 receive 6 Stones |
+| Finals qualification | The Finals Access control shows SOLD OUT; automatic qualification is decided by net time; the official page does not expand the criteria |
+| Western States qualifier | Finish in 19 hours or less in 2027 to enter the 2028 Western States lottery; WSER reserves the right to determine qualifiers and change the criteria |
+| Places | General entries sold out; charity bibs still available; this does not mean on-site registration on race day |
+| Bibs | May not be given to another person; refunds follow the athlete withdrawal policy, with no refund after the final date |
+
 ## Course landmarks
 
 Three Wikimedia Commons location photographs follow: the start/finish at Scenic World, the Six Foot Track section of the course, and the Jamison Valley seen from the Katoomba cliffs. All three prove location or terrain only; none is a race-day image, and none shows runners, an aid station, course marking, a timing mat or a finish arch.
@@ -140,6 +155,12 @@ The second layer applies to UTAMiler, UTA100 and UTA50: a high-visibility safety
 
 The third layer applies only to UTAMiler and UTA100: long thermal pants, full-fingered lightweight thermal gloves, and, weather permitting, long waterproof pants and a 100-weight long-sleeve fleece.
 
+| Layer | Applies to | Mandatory items |
+| --- | --- | --- |
+| Layer 1 (all five races) | UTAMiler / UTA100 / UTA50 / UTA22 / UTA11 | Long-sleeve thermal top, waterproof breathable jacket, beanie or buff, mobile phone, A5 emergency instruction card, whistle, space blanket or light bivvy, compression bandage ≥7.5 cm × 2.3 m, 2 L water capacity (1 L for UTA11), two food portions per leg, rubbish ziplock bag, race number, backpack timing tag |
+| Layer 2 | UTAMiler / UTA100 / UTA50 | AS/NZS 4602 high-visibility vest (worn 20:00–06:00), headlamp, small backup light, dry sack or sealed bags |
+| Layer 3 | UTAMiler / UTA100 | Long thermal pants, full-fingered lightweight thermal gloves; weather-dependent: long waterproof pants, 100-weight long-sleeve synthetic fleece |
+
 For UTA22 and UTA11 the thermal top and waterproof jacket are weather-dependent, and neither race needs a headlamp or a high-visibility vest. The four gear lists cannot be swapped between races.
 
 The weather-dependent rulings have specific announcement times: UTA11 at 10:00 on 13 May, UTA22 and UTAMiler at 09:00 on 14 May, and UTA100 at 10:00 on 15 May. The UTA100 line says "Friday 15 May", but 15 May 2027 is a Saturday; this page keeps the published time and flags the weekday mismatch rather than correcting the official text.
@@ -218,6 +239,13 @@ UTA100's hard numbers are 101 km, 4,400 m of climb, 28 hours and a required cut-
 
 The official buckle standards are gold for the winning male and female, silver for male sub-14 hours and female sub-16 hours, bronze for male 14-20 hours and female 16-22 hours, with a finisher medal after those times. The official text says buckles are awarded based on start group times, not net time.
 
+| Buckle band | Male | Female | Time basis |
+| --- | --- | --- | --- |
+| Gold | Winner | Winner | Start-group time |
+| Silver | Sub-14 h | Sub-16 h | Start-group time |
+| Bronze | 14–20 h | 16–22 h | Start-group time |
+| Finisher medal | After 20 h | After 22 h | — |
+
 Prize money and placings use net time: the top 5 male and female overall receive prize money, the 10 fastest receive a trophy, the 5 fastest receive free entry the following year, first in each age division receives a trophy, and automatic UTMB Finals qualification is also on net time. The buckle and the prize use two different time bases; that is what the official page says, and this page shows both without choosing.
 
 UTA100 is also a qualifier for the 2028 Western States 100: finishing the 2027 race in 19 hours or less puts a runner into the 2028 Western States lottery. The official text also says Western States reserves the right to determine qualifiers and change the criteria.
@@ -225,6 +253,50 @@ UTA100 is also a qualifier for the 2028 Western States 100: finishing the 2027 r
 The final climb is 951 Furber Steps. The official description puts them after about 99 km, between the runner and the finish at Scenic World; this is the most commonly underestimated part of the course.
 
 Against the other races: UTAMiler is 161.1 km with 7,200 m and 44 h 30 min, UTA100 is 101 km with 4,400 m and 28 h, and UTA50 is 51 km with 2,400 m and 14 h 30 min. Their distances and climbs cannot be swapped, and UTA100 should not be rounded to "100 km even".
+
+## Results and course changes
+
+The 2027 edition runs 13–16 May 2027; as of the verification date it had not started, so no results exist. The race page lists a first finisher at 9 hours 7 minutes (2:07pm) without naming the edition; this page treats it as an official reference value only, not as a "course record". Past standings were not available in the verified sources.
+
+Course changes: `courseChanges` is an empty array; the verified sources contain no official evidence of a route change, postponement or rule change, and this page does not state that "no changes occurred". Note that the 2027 schedule page marks itself draft, and the exported GPX sits in the `2026 RACE ALIGNMENTS` folder; it cannot be treated as verified 2027 geometry.
+
+## Training conversion
+
+UTA100 is a 101 km, 4,400 m+ Blue Mountains forest ultra; preparation centres on long-distance durability, technical forest trail and overnight arrangements. The mapping below uses only verified facts and gives no individual training prescription.
+
+| Verified fact | Training direction | Site reference |
+| --- | --- | --- |
+| 101 km, 4,400 m+, 28 h, minimum 3.84 km/h | Long-distance mountain durability and progressive weekly volume | [Ultra-running basics](/en/knowledge/ultra-running-basics/), [Training volume and progression](/en/knowledge/training-volume-and-progression/) |
+| Narrow track, steep stairs and ladders, creek crossings, rock and rough ground | Forest-trail rhythm and downhill landing control | [Mountain path basics](/en/knowledge/hill-and-mountain-path-basics/), [Downhill running technique](/en/knowledge/downhill-running-technique/) |
+| At least one full night within 28 h | Night-run practice and lighting habits | [Night running and conditions](/en/knowledge/night-running-and-traffic/) |
+| Ten timing rows, three-layer mandatory gear check | Rehearse fuelling and kit lists on training outings | [Long-run fueling](/en/knowledge/long-run-fueling/), [Trail gear](/en/knowledge/trail-gear/) |
+| 951 Furber Steps after about 99 km | Late-race leg strength and stair tolerance | [Strength training for runners](/en/knowledge/strength-training-for-runners/) |
+
+Decision branches:
+
+| If your preparation is | Then the corresponding judgment is |
+| --- | --- |
+| Longest training distance under 70 km | Build durability first; do not reverse a pace plan from the 28 h limit |
+| No technical trail and stair training | Build trail and stair ability before assessing the final Furber Steps section |
+| No overnight long-run experience | Build night running and lighting before planning the night segment |
+| Targeting a buckle band | Match your finish time against the official gold/silver/bronze standards; buckles use start-group time, prizes use net time — do not mix the two |
+
+## Race-day execution card
+
+The table lists UTA100 verified nodes only; cut-offs are absolute clock times, not hours from each runner's start.
+
+| Node | Verified action | Key constraint |
+| --- | --- | --- |
+| Before 12 May | Pre-inspection at a partner store, or gear check at race pickup | No gear means no start; random checks apply and missing items can bring a time penalty |
+| 15 May 05:00–08:30 | Staggered start at Scenic World | 28 h elapsed from the last start group; cut-offs are absolute times |
+| Tarros 13.8 km | Aid station; no spectators, no drop bag | Cut-off 12:30PM |
+| Foggy Knob 23.8 km | Aid station; no spectators, no drop bag | Cut-off 02:30PM |
+| Six Foot Track Outbound 37.3 km | Spectators, drop bag, aid | Cut-off 05:20PM |
+| Katoomba Aquatic Centre 56.2 km | Drop bag, hot food | Cut-off 10:20PM |
+| Fairmont Resort 68.3 km | Spectators, drop bag, hot food | Cut-off 02:05PM Sunday |
+| Queen Victoria Hospital 79.3 km | Spectators, drop bag, hot food | Cut-off 05:5AM Sunday (original wording, not corrected here) |
+| Emergency Aid Station 92.5 km | Limited food; no spectators, no drop bag | No cut-off time |
+| Finish, Scenic World 101.3 km | Hot meal, drop bag | Cut-off 12:30PM Sunday |
 
 ## Verified and unverified
 
@@ -300,3 +372,10 @@ This page cites **16** sources: the original 13 race, schedule, gear, transport,
 - Jamison Valley photograph: [File:(1)Jamison Valley 032.jpg](https://commons.wikimedia.org/wiki/File:(1)Jamison_Valley_032.jpg) (Sardaka, CC BY-SA 4.0).
 
 Files used and their consistency: every 2027 figure in the body comes from the entry, race, schedule, gear, on-course and transport pages above; the geometry sanity check used only the one GPX exported by the UTA100 page. That file's URL sits in a folder named `2026 RACE ALIGNMENTS`, the file is `uta_100k_cleaned_livetrail_f81c7a5085.gpx`, the header creator is `LiveTrail`, the metadata name is `LiveTrail Race`, the copyright author is `LiveTrail®`, there is no metadata time, no track name and no licence, and it contains 5,984 track points. In other words, the file name and folder say 2026 while the page linking it is a 2027 page, so the two disagree. This page therefore uses the file only as a distance and climb sanity check, not as 2027 course geometry, and does not host, draw or redistribute it.
+
+<!-- related-ring -->
+## Related entries
+
+- [Beijing Marathon: Tiananmen Square to the Olympic Park Landscape Avenue](/en/routes/beijing/)
+- [Berlin Marathon: the complete 2026 course guide](/en/routes/berlin/)
+- [Boston Marathon: full 2026 course breakdown](/en/routes/boston/)

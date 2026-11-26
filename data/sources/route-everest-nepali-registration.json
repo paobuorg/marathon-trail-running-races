@@ -1,0 +1,32 @@
+{
+  "sourceId": "route-everest-nepali-registration",
+  "title": "प्रवेश तथा जानकारी — official Nepali registration page (edition, age, local packages, insurance scope)",
+  "url": "https://everestmarathon.com/nepali-registration",
+  "publisher": "Tenzing Hillary Everest Marathon (event organiser, Kathmandu)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2027 edition marks the 74th anniversary of the successful 1953 Everest ascent by Tenzing Norgay Sherpa and Sir Edmund Hillary, and is the 22nd edition of the marathon event.",
+    "Entry is open only to runners who are in good physical condition, of adult age, and hold legal identity documents; Nepali runners may enter the 70 km extreme ultra and the 42 km full marathon.",
+    "Local Package 1: entry fee Rs 25,000, non-refundable after deposit, dated 28–30 May; includes one night at Everest Base Camp (two persons per tent and mattress, sleeping bag self-arranged), one night in Namche Bazar, porter bag transport from EBC to Namche, race number, jersey, jacket or hoodie, kit bag, and accident insurance for the 29 May race day only.",
+    "Local Package 2: package fee Rs 135,000 (of which Rs 25,000 is a non-refundable advance), dated 17 May – 1 June; includes Kathmandu–Lukla–Kathmandu or Ramechhap–Lukla–Ramechhap flight plus Kathmandu–Ramechhap shuttle bus, lodge meals and lodging 17–30 May, two nights at EBC (27–28 May), group trek to base camp, porter bag transport to EBC and from EBC to Lukla, doctor health check, group leader briefing on altitude risks, race kit, and accident insurance for race day only.",
+    "Registration requires identity documents, citizenship certificate or other verifiable ID, and two photographs; bib and jersey collection is in person at the Kathmandu office or at EBC, with ID mandatory.",
+    "The page sets a local cap of 30 runners and an entry-form deadline date; the stored page text references 23 May 2026, so the 2027 local deadline must be rechecked on the current bulletin."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官方尼泊尔语注册页全文",
+    "note": "尼文页为本地选手口径，与英文国际报名页并行存在；两套费用与套餐不混用。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "२०२७ संस्करण ... ७४औँ वार्षिकोत्सव ... २२औँ संस्करण。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "शारीरिक अवस्था स्वस्थ, बालिग उमेर र कानूनी कागजपत्र；नेपाली धावक ७०K अल्ट्रा र ४२K पूर्ण म्याराथन।" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "प्याकेज १：रू २५,०००，मे २८–३०，EBC 一夜、Namche 一夜、porter 包、kit、race day 保险。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "प्याकेज २：रू १,३५,०००（अग्रिम २५,०००），मे १७–जुन १，航班、lodge、EBC 两夜、医生体检、高海拔风险简报、race day 保险。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "प्रवेश फारम दाखिला：परिचय कागजात, नागरिकता, २ प्रति फोटो；bib 领取须出示 ID。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "अधिकतम ३० जना；अन्तिम दर्ता मिति २३ मे २०२६（页面沿用旧年份，2027 截止以当届公告为准）。" }
+  ]
+}

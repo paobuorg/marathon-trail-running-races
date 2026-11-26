@@ -67,6 +67,23 @@ On climb, the race page says 5,500 M+, the time chart sums to 5,540 m, the GPX y
 
 GPX elevation tags run from 319 m to 1,600 m. A15 Wat Doi Pui is the highest aid station on the chart at 1,370 m.
 
+## Route segments and GPX geometry
+
+The official route description is point-to-point: Wat Nhong Bua Noi (start, 710 m) → Wat Phra Phutthabat Si Roi → Ban Doi Pui Hmong village → Doi Mon Jam viewpoint → Mae Sa Elephant Camp → Chiang Mai PAO Park (finish, 320 m). The straight-line gap between start and finish is 27.0 km (GPX first/last point); the course loops around the mountain rather than running straight.
+
+The geometry bases are listed side by side and are not averaged:
+
+| Basis | Distance | Climb | Elevation range |
+|---|---|---|---|
+| Official race page | 100 km | 5,500 m | not published |
+| Official time chart, finish cumulative | 101 km | 5,540 m | 319–1,370 m in the table |
+| 2026 GPX, three-dimensional | 101.065 km | raw positive change 5,693 m | 319–1,600 m |
+| 2026 GPX, two-dimensional | 99.586 km | 3 m threshold 5,480 m | same as above |
+
+- The GPX metadata description date is 25-9-2026; the organiser does not state it is the final race-day track.
+- This race shares the A9–A16 waypoints and the same finish with CHIANG DAO 160; the shared section starts at a different point, and the organiser does not publish the shared kilometre count.
+- This site does not host the track or render it as an image; for offline use, download the GPX from the race page's DOWNLOAD GPX link and follow the file's copyright statement.
+
 ## The official time chart: distance, altitude and cut-offs
 
 The organiser publishes the time chart only as an image, named ELEPHANT_100_K_7fb0e67232.jpg.
@@ -281,6 +298,62 @@ That does not prove the barrier will be enforced at 09:43, but runners should no
 
 Fifth, the shared course: the A9 to A16 section is shared with the 160 km race, so the 100 km field meets slower runners late in the race, and the organiser publishes no passing or marking rules for the overlap.
 
+## Training transfer
+
+This is a 100K-band mid-mountain trail: 100 km with an official 5,500 m of climb, about 55 m per kilometre; GPX elevation runs 319–1,600 m, with three high points (A9 1,060, A12 1,280, A15 1,370) separated by low points and repeated up-and-down. The training focus is long repeated climbing and descent, night sections and late-race cut-off margin.
+
+The table below converts four finish targets to average speed over 100 km, excluding climb, rest and queueing loss; the official time-chart cut-offs remain the hard limits.
+
+| Target finish | Total time (h) | Average speed (km/h) | Margin to the 28 h limit |
+|---|---:|---:|---|
+| 20 h | 20 | 5.00 | 8 h margin |
+| 24 h | 24 | 4.17 | 4 h margin |
+| 26 h | 26 | 3.85 | 2 h margin |
+| 28 h | 28 | 3.57 | at the barrier |
+
+- Repeated up and down: between the A9/A12/A15 high points sit the A10 730 m and A13 520 m lows; quad strength and recovery between descents need specific work.
+- Night: under the 28 h limit the back end runs into the night; headlamp and spare batteries follow the mandatory list.
+- Shared course: the second half shares the track with the 160 km group; overtaking and marking rules are not published, and there is no official guidance on coping with slower runners from another group.
+- This page is not a training plan and does not replace a coach or medical assessment.
+
+## Race-day execution card
+
+- Aid: nine stations, A18 and A9–A16, serve still water and sports or electrolyte drink; leave each station with enough water and food for the next one.
+- Support: support points are only A9, A11 and A13; support crew need a Support Pass. A personal assistant may appear only at stations allowed by the rules and carry one bag of no more than 30 litres.
+- Bag: only A11 collects the Green Bag. Only official event bags are accepted; trekking poles may not be placed inside them, during or before the race.
+- Cut-offs: five cut-offs (A10, A11, A13, A16, finish); leave before the cut-off. At A16 the Slowest 09:43 is 13 minutes after the COT 09:30; both figures are kept side by side, and 09:43 must not be treated as available margin.
+- Medical: intravenous fluids mean mandatory withdrawal; NSAIDs are prohibited; help is reached at a medical point, by race-control phone, by asking another runner, or via the LiveRun SOS.
+
+| Point | Cumulative distance | Cut-off | Time from start | To next cut-off |
+|---|---:|---|---:|---|
+| A10 Mae Ka Piang Village | 28 km | 16:00 (4 Dec) | 8 h | 10 km / 3.5 h to A11 |
+| A11 Wat Pang Hai | 38 km | 19:30 (4 Dec) | 11.5 h | 20 km / 5.75 h to A13 |
+| A13 Maesa Elephant Camp | 58 km | 01:30 (5 Dec) | 17.5 h | 32 km / 8.0 h to A16 |
+| A16 Montha Than Waterfall | 90 km | 09:30 (5 Dec) | 25.5 h | 11 km / 2.5 h to finish |
+| Finish, PAO Park | 101 km | 12:00 (5 Dec) | 28 h | — |
+
+| Branch | Situation | Action |
+|---|---|---|
+| If margin is thin at A10 (28 km) | First cut-off point | Check the 3.5-hour margin to A11; adjust fueling and rhythm |
+| If passing the A12–A15 high points at night | Night, cold mist | Headlamp and warm layer per the mandatory list; rest at a station with a rest area if needed |
+| If near 09:30 at A16 (90 km) | The last 11 km get only 2.5 h | Hold above 4.4 km/h; do not treat the 09:43 Slowest as available margin |
+| If withdrawing between stations | Between two checkpoints | Go to the nearest checkpoint; do not leave the marked route on your own |
+| If intravenous fluids are required | Medical decision | Mandatory withdrawal under the rules; do not continue |
+
+## Results and course changes
+
+The 2026 ELEPHANT 100 starts at 08:00 on 4 December 2026; at the verification date (2026-11-08) the race had not been held. The organiser had not published a winner, course record, finisher count or finish rate, and this page lists no placings.
+
+| Item | Status |
+|---|---|
+| 2026 winners (men / women) | Not published (race not yet held) |
+| Course record | Not published |
+| Past winners and finish rates | Past roadbooks not obtained this round; insufficient evidence |
+| Reroute / date change / rule change | No loggable official evidence found; `courseChanges` is an empty array |
+
+- Earlier edition reroute notes were not obtained this round; this page does not write "no changes ever occurred".
+- After race day, winners and results follow the official results page and LiveTrail records.
+
 ## Verified and not verified
 
 Verified: race date, start time, limit, 100 km and 5,500 m, the nine station names, the five cut-off times, and 5,540 m of cumulative ascent.
@@ -333,3 +406,10 @@ If you need the track offline, download it from the DOWNLOAD GPX link on the rac
 12. Commons location photograph, Doi Pui (Vyacheslav Argenberg, CC BY 4.0, 2010-11-21): https://commons.wikimedia.org/wiki/File:Doi_Pui_mountains,_Chiang_Mai,_Thailand.jpg
 13. Commons location photograph, Mon Jam (Commons author field `::::=UT=::::`, CC BY-SA 3.0, 2014-08-21): https://commons.wikimedia.org/wiki/File:%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%88%E0%B9%88%E0%B8%A1_%E0%B8%95%E0%B8%B3%E0%B8%9A%E0%B8%A5_%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%A3%E0%B8%A1_%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94_%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88_%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2_-_panoramio.jpg
 14. Commons category for Chiang Mai location photographs: https://commons.wikimedia.org/wiki/Category:Chiang_Mai_Province
+
+<!-- related-ring -->
+## Related entries
+
+- [Tenzing Hillary Everest Marathon: a high-altitude downhill trail race guide (2027 basis)](/en/routes/everest-marathon/)
+- [Gaoligong Ultra MGU 168 km: six races, and what is missing](/en/routes/gaoligong-mgu/)
+- [Hong Kong 100: the 2027 course in full, from Sai Kung to Tai Mo Shan](/en/routes/hong-kong-100/)

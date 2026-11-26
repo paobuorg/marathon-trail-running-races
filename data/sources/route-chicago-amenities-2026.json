@@ -1,0 +1,55 @@
+{
+  "sourceId": "route-chicago-amenities-2026",
+  "title": "Course & Amenities – Bank of America Chicago Marathon",
+  "url": "https://www.chicagomarathon.com/runners/course-amenities/",
+  "publisher": "Bank of America Chicago Marathon",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The course starts and finishes in Grant Park and runs through 29 neighbourhoods; the organiser describes it as flat and fast, notes it has produced seven world records, and puts spectator support at 1.7 million.",
+    "There are 20 aid stations approximately one to two miles apart; each has a medical tent with runner transport, standard and ADA portable toilets, Gatorade Endurance Formula (lemon-lime), a public-address announcer and water; medical support covers 22 on-course locations.",
+    "Timing checkpoints are at the start, each 5K, the halfway point at 13.1 miles, miles 20–25, mile 25.2 and the finish; digital clocks sit at the start, every five kilometres and the finish.",
+    "The course time limit is 6:30, a 15-minute-per-mile pace; an event vehicle following the last starter sets the pace for reopening the course; participants finishing after 4 p.m. may not be recorded or published as official finishers.",
+    "The event is recognised as a World Athletics Platinum Label road race."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 course-amenities 正文（aid stations / medical / clocks / time limit / label）",
+    "note": "站点配置、医疗点数、计时点与标牌身份来自官方 amenities 页"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：29 neighbourhoods；flat and fast；seven world records；1.7 million spectators"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "AID STATIONS：20 站 1–2 miles apart；站点顺序 medical tent/toilets/Gatorade/announcer/water；MEDICAL 22 处"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "CLOCKS & MILE MARKERS：checkpoints 与 digital clocks 位置逐项在正文"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "COURSE TIME LIMIT：6:30；15-min/mi；4 p.m. 后不记官方成绩"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "WORLD ATHLETICS PLATINUM LABEL 段"
+    }
+  ]
+}

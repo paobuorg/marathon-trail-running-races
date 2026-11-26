@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-everest-results-2006",
+  "title": "Race Results 2006 — official archived results (earliest listed fast men's time on the archive)",
+  "url": "https://www.everestmarathon.com/results/2006",
+  "publisher": "Tenzing Hillary Everest Marathon (event organiser, Kathmandu)",
+  "publishedAt": "2006-05-29",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Full Marathon 42K 2006: Deepak Rai (NEP) bib 81 in 3:28:27, listed 1st Open; Karma Sarki Sherpa bib 140 in 3:35:39, 2nd Open.",
+    "Women's 2006: Ang Dami Sherpa bib 116 in 5:06:55, 1st Women; Mingma Chhamji Sherpa bib 99 in 5:11:56, 2nd; Yangdi Sherpa bib 46 in 5:28:41, 3rd.",
+    "The official archived page does not label a course record; the 3:28:27 figure is the fastest listed men's winning time in the archive read this pass, and any record designation rests with the event."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 2006 归档成绩表",
+    "note": "第三方合作页面将该时间称作赛道纪录；本轮官方页未作 record 标注，本页不替官方定性。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Deepak Rai 81, 3:28:27, 1st Open；Karma Sarki Sherpa 140, 3:35:39, 2nd Open。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "女子前三 Ang Dami Sherpa 5:06:55、Mingma Chhamji Sherpa 5:11:56、Yangdi Sherpa 5:28:41。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "页面 remarks 仅分组名次，无 course record 字样。" }
+  ]
+}

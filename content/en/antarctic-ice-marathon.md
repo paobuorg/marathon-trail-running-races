@@ -169,6 +169,42 @@ The real travel risk is not getting lost but the flight slipping. Book the inter
 
 The official FAQ says flags guide runners and participants are visible almost all the time, which lowers the “getting lost” risk but does not remove it: in whiteout, a flag can disappear at 10 m; four laps can hide accumulating fatigue; cold suppresses thirst, so dehydration and thick blood are easy to miss.
 
+## Training conversion: from road running to the Antarctic loop
+
+The target of this race's preparation is not a PB; it is to make body and kit last ten hours in cold, hard ice, soft snow and four repeated laps. Treat preparation in three layers: aerobic base, cold tolerance, and kit/fueling practice. A regular city runner following a marathon build-up to a 30–35 km long run already meets the aerobic requirement; what is easily underestimated is completing a long run in full layered clothing in the cold, and practising a mid-run base-layer change. General principles are covered in [cold-weather running](/en/knowledge/cold-weather-running/), [long-run fueling](/en/knowledge/long-run-fueling/) and [recovery days](/en/knowledge/recovery-day/); weekly structure and load control in [training week](/en/knowledge/training-week/) and [load and overtraining](/en/knowledge/load-and-overtraining/).
+
+| Phase | Focus | Practical content | Race-day principle |
+| --- | --- | --- | --- |
+| T-12 to T-8 weeks | Aerobic base | 3–4 easy runs a week plus one long run; no speed work | The ten-hour cut-off allows an average pace of about 14:14/km; run-walk covers it |
+| T-8 to T-4 weeks | Long run and kit trial | Extend the long run to 30–35 km; trial the full layering system in the cold and practise changing layers when sweating | The rules require two base layers; changes happen at aid stations or the heated tent |
+| T-4 to T-1 weeks | Taper and adaptation | Shorten distance, keep some rhythm; sort mandatory and backup kit against the 25 kg baggage limit | Recover fatigue before Antarctica; see [taper and strength](/en/knowledge/strength-and-taper/) |
+| Race week | Arrival and rest | Check kit per briefing while on standby in Punta Arenas; avoid extra fatigue | Flights may slip; keep a two-week buffer after the return |
+
+Boundary: this is a generic preparation framework, not medical advice. Runners with pre-existing cardiopulmonary conditions, a history of frostbite or recent injuries should complete a pre-race medical check and consult a doctor before entering. This page does not replace clinical diagnosis. Training load in the cold cannot be extrapolated from room-temperature performances.
+
+## Race-day execution card: from briefing to the cut-off
+
+On race day the priorities are heat management, station rhythm and red-flag recognition, not pace confrontation. Before the start, work through the [race-morning protocol](/en/knowledge/race-morning-protocol/) and the [running checklist tool](/en/tools/race-checklist/); the framework for deciding whether to drop is in [drop-out decision](/en/knowledge/dnf-decision-making/).
+
+| Time point | Action | Check |
+| --- | --- | --- |
+| Night before | Lay out two base layers, gloves, sock liners and hand warmers | Keep spare clothing in a bag accessible at camp; confirm bib and chip |
+| 60 min before start | Complete the briefing kit check; put on upper-body layers | Confirm goggles, face mask, hat and neck gaiter; drink without over-drinking |
+| 15 min before start | Warm up, move hands and feet | Note the start time; confirm the first 5 km station |
+| Each lap at 5 km / 10 km stations | Stop for fluid, heat and a hands/feet check | Change a soaked base layer at the halfway heated tent; do not linger in the wind |
+| End of lap 2 (heated tent) | Shelter, layer change, glove/mask check | Assess state; plan the rhythm for the last two laps |
+| Laps 3–4 | Push by time, not pace | Shorten stride in soft snow; follow flags and pair up in whiteout |
+| Finish | Keep warm, stretch, record finish time | Change into dry clothes promptly; report any frostbite or discomfort to the camp clinic |
+
+| Red flag | On-site action | Boundary |
+| --- | --- | --- |
+| Persistent numbness or whiteness in fingers, toes, ears or face | Warm up at a station immediately and notify race staff | This page does not diagnose frostbite; the camp medic assesses |
+| Dizziness, palpitations, cold sweat, blurred vision | Stop, shelter, seek help; call medical if needed | Recognition and call for cardiac emergencies follow on-site first-aid standards; this page gives no treatment plan |
+| Whiteout/blowing snow obscures the flags | Wait at a station or move with a partner; do not scout alone | The loop direction is unpublished; off-course risk is judged by on-site officials |
+| Fatigue or altered gait | Enter a station under the drop-out procedure and contact officials | Dropping is acceptable; the ten-hour cut-off is a hard rule, not a willpower test |
+
+The camp has a basic clinic, doctors/medics and 24-hour staffing; serious cases follow the official evacuation procedure, and the nearest regular hospital is in Punta Arenas. This page does not give medical advice for participation and makes no promise about evacuation timing.
+
 ## 9. Results and records: 2025 podium and current event records
 
 2025 official marathon podium:
@@ -217,3 +253,10 @@ This page embeds no race photos, redraws no “Antarctic course map” and hosts
 - Commons location photograph, blue-ice runway (Christopher Michel, CC BY 2.0, 2013-12-03): https://commons.wikimedia.org/wiki/File:Antarctica_(11280897753).jpg
 
 Not verified: the official site publishes no 2026 GPX/GeoJSON or surveyed map; no total climb; no 2026 start time; no 2026 finisher count because the race has not happened. The 5 m difference between 10.55 ×4 and 42.195 km is arithmetic; the official site does not explain its measurement. This page presents both and “corrects” neither.
+
+<!-- related-ring -->
+## Related entries
+
+- [Big's Backyard Ultra: the Bell Buckle backyard format explained (2025 individual world championship basis)](/en/routes/bigs-backyard-ultra/)
+- [Black Canyon 100K 2027: 62.2 miles on the Arizona trail, 20 hours and a Western States Golden Ticket](/en/routes/black-canyon-ultras/)
+- [Buenos Aires Marathon 2026: 42.195 km of city flat, ten start corrals and a hard 13:00 close](/en/routes/buenos-aires/)

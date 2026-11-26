@@ -17,6 +17,7 @@
     "route-patagonia-place-geocoding",
     "route-patagonia-2027-destination",
     "route-patagonia-2026-altimetry",
+    "route-patagonia-openmeteo-weather",
     "photo-patagonia-san-martin-lacar",
     "photo-patagonia-lanin-huenfuica",
     "photo-patagonia-plaza-san-martin"
@@ -32,9 +33,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-11-09",
-  "updatedAt": "2026-11-24",
-  "reviewedAt": "2026-11-24",
-  "reviewDueAt": "2027-03-04",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
   "details": {
     "raceType": "trail-ultra",
     "countryCodes": [

@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-new-york-9-plus-1",
+  "title": "NYRR 9+1 Membership Program — guaranteed entry pathway",
+  "url": "https://www.nyrr.org/tcsnycmarathon/9-1-guaranteed-entry",
+  "publisher": "New York Road Runners",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "The 2026 9+1 program earns a non-complimentary, guaranteed entry to the 2027 TCS New York City Marathon: register for and complete nine qualifying races in 2026, volunteer at one +1 qualifying opportunity, and hold an active NYRR membership as of December 31, 2026.",
+    "The 2026 program lists more than 30 in-person races and three virtual races as eligible; the three virtual races are the Virtual Resolution Run 5K, Virtual NYRR Global Running Day 5K and Virtual NYRR Run for Thanks 5K, and virtual 9+1 credit requires the Premium tier at registration.",
+    "A 2026 9+1 entry applies only to the 2027 marathon; it is not rolled forward to 2028 or another future year, and a runner already entered into the 2027 marathon through another method cannot complete the 2026 program for 2027 or later eligibility.",
+    "Beginning with the 2027 9+1 Pass program (for 2028 guaranteed entry), access changes to a free-to-enter, member-only drawing: active NYRR membership by September 16, 2026 and through drawing day October 1, 2026; enter the drawing September 17–29, 2026; the drawing is held October 1, 2026; selected members are charged $99.00 including the processing fee and become 9+1 Passholders.",
+    "2027 Passholders must, in calendar year 2027, complete nine qualifying NYRR races, volunteer at one qualifying opportunity, and maintain active membership as of December 31, 2027 to earn non-complimentary guaranteed entry to the 2028 marathon."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-26",
+    "checkedVia": "WebFetch 读取 nyrr.org/tcsnycmarathon/9-1-guaranteed-entry 全文",
+    "note": "2026 项目三条件、三场虚拟赛、不可结转、2027 起抽签制与 $99 Passholder 费用均在页面正文。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-26", "note": "2026 Program 段与 FAQ：9 场 + 1 志愿 + 2026-12-31 有效会员。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-26", "note": "同段：30+ 线下 + 3 场虚拟；三场虚拟赛名称；Premium tier 说明。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-26", "note": "FAQ：仅限 2027，不结转；已有其他方式 2027 名额者不能再用 2026 项目。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-26", "note": "2027 9+1 Pass 段：会员资格日期、抽签窗口 9/17–9/29、抽签 10/1、$99.00 含手续费。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-26", "note": "What 9+1 Passholders need to do 段：2027 日历年 9 场 + 1 志愿 + 2027-12-31 有效会员，换 2028 名额。" }
+  ]
+}

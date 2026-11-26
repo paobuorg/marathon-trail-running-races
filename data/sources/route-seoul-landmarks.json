@@ -1,0 +1,24 @@
+{
+  "sourceId": "route-seoul-landmarks",
+  "title": "10 iconic landmarks on the Seoul Marathon course",
+  "url": "https://en.seoul-marathon.com/60/?idx=173408720&bmode=view",
+  "publisher": "Seoul Marathon Organizing Committee (The Dong-A Ilbo)",
+  "publishedAt": "2026-08-25",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The official landmark list along the full course includes Gwanghwamun Square, Seoul City Hall, Sungnyemun Gate, Dongdaemun Design Plaza, Cheonggyecheon Stream, Heunginjimun Gate and Seoul Children's Grand Park.",
+    "The Children's Grand Park in Gwangjin-gu sits at the challenging 28 km mark; the 11 km Cheonggyecheon stream runs through Jongno-gu and Jung-gu in the early stage."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取公告 idx=173408720 地标图文（前 7 处可读）",
+    "note": "已读地标卡片含光化门、市厅、崇礼门、DDP、清溪川、兴仁之门、儿童大公园；其余卡片未逐条读取。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "卡片标题逐条：Gwanghwamun Square / Seoul City Hall / Sungnyemun Gate / DDP / Cheonggyecheon Stream / Heunginjimun Gate / Children's Grand Park" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Children's Grand Park 28km mark, 216 Neungdong-ro Gwangjin-gu；Cheonggyecheon 11km, Jongno-gu & Jung-gu" }
+  ]
+}

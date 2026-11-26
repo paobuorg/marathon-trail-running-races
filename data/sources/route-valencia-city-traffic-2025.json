@@ -1,0 +1,36 @@
+{
+  "sourceId": "route-valencia-city-traffic-2025",
+  "title": "Dispositivo de seguridad y movilidad — Ajuntament de València, 45th Marathon (published 1 December 2025)",
+  "url": "https://www.valencia.es/cas/actualidad/-/content/dispositivo-seguridad-y-movilidad-marat%C3%B3n",
+  "publisher": "Ajuntament de València",
+  "publishedAt": "2025-12-01",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "For the 45th edition on Sunday 7 December 2025, 510 local police officers plus Civil Protection personnel and volunteers were deployed; the event gathered about 36,000 runners from 150 countries.",
+    "The race started at 08:15 in the Plaça del Marató with nine waves and was expected to finish around 15:10 inside the Ciutat de les Arts i les Ciències.",
+    "From Friday 5 December 22:00 the Puente de Montolivet closed both ways and Profesor López Piñero closed toward the centre for the start arch; Germans Maristes and Institut Obrer avenues had intermittent cuts Friday night and the closures ran again Saturday 22:00 to Sunday 14:00 apart from transversals.",
+    "EMT rerouted 32 lines; on race day lines C1, 19, 30, 31, 32, 40, 67, 70, 71, 73, C2, 81, 92, 93, 94, 95 and 98 were suspended, while 35, 99 and C3 served the start and City of Arts area.",
+    "Tram cuts on race morning: Line 4 between Pont de Fusta and Doctor Lluch 08:00-11:20; Line 6 suspended 07:30-11:20; Line 8 only from 12:30; Line 10 ran Alacant-Amad Granell-Montolivet until 10:00.",
+    "Runner car parks opened at 06:00 at the Oceanogràfic and Aqua shopping centre; alternatives were Cementerio General with EMT 99 and Natzaret with Tram 4.",
+    "Three controlled pedestrian crossings operated during the race: the Xàtiva metro underpass, Colón/Sorní and Colón/Porta de Mar; real-time traffic information was published via @transitvalencia, App Valencia, the municipal geoportal, Google Maps and Waze.",
+    "This device was published for the 2025 edition on 1 December 2025; the 2026 edition traffic arrangement was not yet published as of 2026-11-25."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取瓦伦西亚市政府官网新闻正文",
+    "note": "警力、封路、公交/电车改道、停车点、行人过街与实时信息渠道均取自市政府通告；2026 通告尚未发布。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "510 agentes de Policía Local + Protección Civil；36.000 corredores, 150 países。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "08:15 plaza del Marató, nueve salidas；finaliza sobre las 15:10 Ciutat de les Arts。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Viernes 5 22:00 puente Montolivet + López Piñero；Germans Maristes/Institut Obrer 间断封路，Sáb 22:00–Dom 14:00。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "EMT 32 líneas；停驶 C1/19/30/31/32/40/67/70/71/73/C2/81/92/93/94/95/98；35/99/C3 接驳。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "Tranvía L4 8:00–11:20；L6 7:30–11:20；L8 12:30 恢复；L10 至 10:00 区间运行。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "Aparcamientos Oceanogràfic y Aqua desde 6:00；cementerio general + línea 99；Natzaret + Tram 4。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-25", "note": "Pasos peatonales：metro Xàtiva、Colón/Sorní、Colón/Porta de Mar；@transitvalencia/App Valencia/geoportal/GMaps/Waze。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-25", "note": "通告日期 01/12/2025，对应 45 届；官网截至 2026-11-25 未见 46 届交通通告。" }
+  ]
+}

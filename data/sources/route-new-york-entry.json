@@ -1,0 +1,36 @@
+{
+  "sourceId": "route-new-york-entry",
+  "title": "2026 TCS New York City Marathon — event entry page (methods, fees, drawing pools, key dates)",
+  "url": "https://events.nyrr.org/tcs-new-york-city-marathon",
+  "publisher": "New York Road Runners",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "The 2026 event is listed for Sunday, November 1, 2026 at 8:00 AM in New York City, Distance: Marathon; entry fees run from $0.00 to $333.11, and registration is closed.",
+    "Non-guaranteed general entry applications opened February 4 at 12:00 p.m. ET and closed February 25 at 11:59 p.m. ET; the drawing took place March 4; the Non-NYRR time qualifier application closed February 11 at 11:59 p.m. ET.",
+    "The non-guaranteed drawing runs three separate pools: NYC metro area (residents within 60 miles of New York City), National (U.S. residents outside the metro area, including Puerto Rico and other U.S. territories), and International (non-U.S. residents).",
+    "Guaranteed entry methods listed on the page: official charity partner, Official International Tour Operator, 9+1 program, 2025 virtual race completion, Team for Kids, Team for Climate, completed 15-plus marathons, NYRR Time Qualifiers, Non-NYRR Time Qualifiers, 5K/10K membership, 2025 cancellation, and the NYRR Race Free program.",
+    "Members who apply to the non-guaranteed general drawing are automatically entered into the NYRR Member-Only Second-Chance Drawing.",
+    "Once a guaranteed entry is claimed or a drawing applicant is accepted, all entry fees are non-refundable; fees may not be deferred or transferred; an accepted 2026 entrant may cancel and earn a non-complimentary guaranteed entry to 2027 but must claim it and pay the 2027 fees, and a runner who deferred in 2025 cannot defer a second time.",
+    "A newly registering runner without an NYRR best pace who expects to run 4:00:00 or faster may submit a placement time from a certified in-person marathon or half marathon completed between January 1, 2024 and September 7, 2026, by September 8, 2026 at 5:00 p.m. ET, for wave and corral placement.",
+    "The rules do not permit entry by a person intending to be pushed in a wheelchair, stroller or other equipment by another person; athletes with disabilities using wheelchair or allowable equipment must push themselves through the course, and official support runners may accompany but cannot push."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-26",
+    "checkedVia": "WebFetch 读取 events.nyrr.org/tcs-new-york-city-marathon 全文",
+    "note": "日期、费用区间、三池抽签、保证名额方式、退款与取消、配速提交窗口与残障辅助条款均在赛事页正文。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-26", "note": "页首 Date/Location/Distance 与 Entry Fees From $0.00 to $333.11；Registration closed。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-26", "note": "Key Dates 段：Feb 4 12:00 开放；Feb 11 Non-NYRR TQ 关闭；Feb 25 23:59 关闭；Mar 4 drawing。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-26", "note": "Non-Guaranteed 段三池定义原文核对。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-26", "note": "Guaranteed Entry Methods 段逐条核对。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-26", "note": "Member-Only Second-Chance Drawing 段。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-26", "note": "Cancellation and Deferrals 段：non-refundable、不可 defer/transfer；2026 取消可获 2027 non-complimentary 名额但须领取并缴费；2025 延期者不可二次延期。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-26", "note": "Runners Who Need to Register 段：4:00:00 以内可提交 placement time；窗口 2024-01-01 至 2026-09-07；截止 2026-09-08 17:00 ET。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-26", "note": "规则段：不得由他人推轮椅/婴儿车；残障选手须自推；官方 support runner 可陪同但不可推。" }
+  ]
+}

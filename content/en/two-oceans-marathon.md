@@ -88,6 +88,19 @@ The 2026 page noted that if Chapman's Peak Drive were unavailable, the Ultra wou
 
 Whether the same diversion applies in 2027 has not been published, so it is not written here as the established route.
 
+## Course and route: around the peninsula, Ultra 56 km and Half 21 km
+
+Two Oceans runs two main races in one edition: the 56 km Ultra Marathon and the 21 km Half Marathon. This page verifies the Ultra only; the Half's start, cut-offs and entry conditions were not transcribed from the pages read, and the table below fills in no derived figures for it.
+
+| Race | Distance | Start / finish | Cut-off | This page |
+| --- | ---: | --- | --- | --- |
+| Ultra Marathon | 56 km | Newlands Main Road, Cape Town → UCT Rugby Fields, Upper Campus, Rondebosch | 7 hours after the last gun; intermediate cut-offs unpublished | Subject of this page |
+| Half Marathon | 21 km | Not transcribed from the pages read | Not transcribed | Ultra rules are not applied to it |
+
+The Ultra loops the Cape Peninsula through Muizenberg, St James, Kalk Bay, Hout Bay, Noordhoek, Constantia and Newlands. Noordhoek Main Road runs about 4 km of gentle up-down before the first major climb; Chapman's Peak winds from Noordhoek Village along the mountainside to Hout Bay, the route's landmark stretch, closed to cars with spectators walking up; Hout Bay Main Road runs from the Chappies foot to the top of Constantia Nek, where runners pass the marathon distance mark; Constantia Nek is the second, steepest and most taxing climb.
+
+On geometry, the official 2027 route map is published closer to the race: the page gives no cumulative climb, no 2027 elevation profile and no redistributable GPX. This page records cumulative climb, per-segment grade and high point as unknown. The 3–242 m profile on the 2026 static route-map PDF is a prior-edition reference only, not 2027 geometry. iRunFar's 2026 recap of about 700 m of climb in the second half is a third-party description and does not change the fact that the organiser publishes no elevation figures.
+
 ## Private support (seconding) rules
 
 This is where Two Oceans differs most from Comrades, and where rules are easiest to break.
@@ -278,6 +291,35 @@ The finish funnel at the University of Cape Town Rugby Fields, 2007 Two Oceans M
 
 Official images carry no redistribution licence and are not used; this page links only to the official page, the rules PDF and the 2026 static route-map PDF. The photograph was resized and recompressed without changing its content; the text's CC BY 4.0 licence does not apply to it.
 
+## Training transfer
+
+The Ultra is a 56 km road ultra with a 7-hour finish limit, looping the Cape Peninsula over Chapman's Peak and Constantia Nek with exposed coastal sections. It is neither a flat road marathon nor a technical trail race; the demands combine road pace, two long climbs, coastal wind and the time limit. The table breaks them into trainable abilities; it lists directions, not an official plan.
+
+| Ability | Course demand | Preparation direction |
+| --- | --- | --- |
+| Ultra pace | 56 km, 7 h limit; climbs and exposure in the second half | Follow [race-day pacing](/en/knowledge/race-day-pacing/); break a target down with the [pace calculator](/en/tools/pace/) and [split table](/en/tools/splits/) |
+| Ultra endurance | 14 km beyond a standard marathon | Extend long runs gradually, keeping one session near 50 km or a back-to-back after a marathon |
+| Climb tolerance | Two climbs, Chapman's Peak and Constantia Nek | Build climb mileage on hill repeats and mountain commuting; practise downhill rhythm after climbing |
+| Fluid and cooling | April daytime median 21.6 °C at Newlands, coastal crosswind | Practise on-course fluid and electrolytes per [hydration](/en/knowledge/hydration/) and [racing in heat and humidity](/en/knowledge/heat-and-humidity/) |
+| Long-distance fuelling | Official stations at fixed intervals with water, electrolytes and food | Train station-to-station eating per [fueling long runs](/en/knowledge/long-run-fueling/); do not rely on a private table |
+| Batch rhythm | Waves are assigned by qualifying result; cut-off runs from the last gun | Confirm your wave and start time before race day; do not estimate the cut-off from another wave |
+
+For entry, the Ultra requires an officially timed marathon or longer result from the 2026-05-01 to 2027-03-07 window, with distance-banded thresholds (sub 5:00 for 42 km to sub 13:30 for 100 km and above), detailed under "Qualification".
+
+## Race-day execution card
+
+The table follows the main sections along the route; intermediate cut-offs are unpublished, so only the 7-hour finish reference is given. Pacing notes are editorial judgement, not official split targets.
+
+| Phase | Rough distance | Execution notes | Reference |
+| --- | ---: | --- | --- |
+| Newlands opening | 0–c. 20 km | 05:15 wave start, run your own wave's pace; hold back in the first half and do not get pulled along | Finish 7 h |
+| Coastal villages | Muizenberg–Kalk Bay–Noordhoek | Refill through the bays; Noordhoek Main Road about 4 km gentle up-down, keep legs for the first climb | Medical 12 / 19 / 28 / 33 / 39 km |
+| Chapman's Peak | Noordhoek Village → Hout Bay | Exposed coastal stretch, watch crosswind; the road is closed to cars and spectators walk up; withdrawal is harder than in town sections | — |
+| Hout Bay to Constantia Nek | Hout Bay Main Road → Nek | Pass the marathon distance mark; Constantia Nek is the steepest, most taxing second climb | Medical 42 / 46 / 49 / 51 km |
+| Finish back to Newlands | Constantia → Newlands → UCT | Protect the knees on the tired descent; finish at UCT Upper Campus, collect the bag with the matching wristband | Finish 7 h after the last gun |
+
+Private support follows 2026 rule 6.13: no mobile seconding; supporters may not drive, cycle or run alongside. Stand-and-hand is allowed: staying still at an aid station to hand over supplies, with no moving along the course and no hand-up from a vehicle. The 2027 rules are not published; if the text changes, the 2027 official rules prevail. To drop, report to the nearest checkpoint; do not cross the closed Chapman's Peak roadway on your own.
+
 ## Verified and unverified
 
 Verified: the 4 April 2027 date and 56th edition; 56 km; 05:15 batch start; Newlands Main Road start; UCT Rugby Fields finish; the 21,000 limit; the WA/ASA/WPA framework; the qualifying window and six standards; 2027 entry fees and the four entry routes; 2027 open prize money for ten places; free shuttle stops; tog-bag rules; the 7-hour finish cut-off and time-of-day conversion; the seconding terms in 2026 rule 6.13; the official FAQ on supporter points and non-entrants; medical-station distances; Newlands April climate; the 1970 first race and the 1998/2000 course changes; Magawana's 3:03:44 record; the 2026 men's and women's top five and Steyn's 3:26:54 record.
@@ -296,3 +338,10 @@ Unverified: 2027 cumulative ascent and elevation profile; Chapman's Peak and Con
 8. Official 2026 race report (Jantjies 3:09:25, Steyn 3:27:43, 35-second margin, Steyn's 3:26:54 as fastest women's time, 2026 purse split): https://www.twooceansmarathon.org.za/jantjies-puts-hopetown-on-the-map-as-steyn-makes-history-at-the-totalsports-two-oceans-marathon-powered-by-byd/
 9. iRunFar, This Week In Running, 13 April 2026 (2026 top five men and women, Steyn's 2024 3:26:54 course record, about 700 m second-half gain, 2026 purse and winner cheques): https://www.irunfar.com/this-week-in-running-april-13-2026
 10. Official 2026 Ultra 56 km static route-map PDF (one page, kilometre markers, hydration/medical stations, Noordhoek and Canterbury Drive insets, a 3–242 m elevation profile; last modified 12 March 2026; full PDF read on 21 November 2026): https://media.twooceansmarathon.org.za/wp-content/uploads/2026/03/12131935/TTOM2026-Route-Map-Ultra-Marathon-Chappies.pdf
+
+<!-- related-ring -->
+## Related entries
+
+- [CCC: the complete 2026 course guide to the UTMB World Series 100K final](/en/routes/ccc/)
+- [Hardrock 100: the 2026 clockwise high-altitude loop](/en/routes/hardrock/)
+- [Leadville Trail 100: a high-altitude out-and-back 100-mile reference (2026 reroute basis)](/en/routes/leadville-trail-100/)

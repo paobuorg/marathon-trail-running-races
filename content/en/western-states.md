@@ -225,6 +225,91 @@ The 2026 finish rate of 87% was an all-time high, and the recap records both coo
 
 The sub-24-hour silver buckle and sub-30-hour bronze buckle are the event's award rules, not a difficulty scale. In 2026, 136 runners earned silver. When turning a target finish time into segment splits, the [pace calculator](/en/tools/pace/) handles the arithmetic and the [split planner](/en/tools/splits/) compares each segment with the official cutoff; neither tool replaces the official checkpoint chart.
 
+## Entry, qualifying and lottery
+
+Western States does not sell entries first-come, first-served, and it does not hand out wildcards. The official 2027 entry process states that the race runs 26–27 June 2027; applicants must be at least 18 on race day and must finish a race on the official qualifying list between 3 November 2025 and 8 November 2026. Lottery registration opens 1–21 November 2026, the draw is on 5 December 2026, and the entry fee is USD 575 plus the online fee.
+
+| Item | Official 2027 process | What it means for planning |
+|---|---|---|
+| Race date | 26–27 June 2027 | Work back from the last full June weekend |
+| Age | 18 on race day | Passport, not entry form |
+| Qualifying window | 3 Nov 2025 – 8 Nov 2026 | Not "any race in the last two years" |
+| Qualifying races | Only events on the official list; virtual events not accepted | Check the list before paying |
+| Lottery registration | 1–21 November 2026 | A three-week window, once a year |
+| Draw | 5 December 2026 | Published live at lottery.wser.org |
+| Fee | USD 575 + online fee | Ten days to register or forfeit the place and tickets |
+| Wait list | 75 applicants selected in order | Places fill from the list when runners withdraw |
+
+A rejection does not reset your history. The lottery page explains that unsuccessful applicants hold 2^(n-1) tickets, where n is the number of years applied: two failed applications give four tickets in the third year. That rewards persistence, but it also means a first-year applicant should not build a season around being selected.
+
+## Gear and night lighting
+
+The official participant guide does not reduce kit to a single short checklist, but it does set hard expectations: almost half the trail may be travelled in the dark, so each runner should carry two LED flashlights; high-country nights can approach freezing, so warm clothing must be reachable through crew, drop bags or both; poles are allowed anywhere; footwear is unrestricted. "Two lights" does not mean one headlamp plus a spare battery.
+
+| Category | Official guide or rule | Practical reading |
+|---|---|---|
+| Lighting | Carry two LED flashlights; if lights fail, wait for another runner, do not walk blind | Primary light plus an independent backup, batteries stored separately |
+| Warmth | High country near 0°C, night 4–10°C; warm clothing via crew or drop bags | Pack a warm layer for Foresthill and Michigan Bluff |
+| Poles | Allowed anywhere; may be left or collected at crew-access or drop-bag aid stations | A pacer may not carry them |
+| Shoes | No restriction; microspikes are permitted | Choose for canyon rock and long descents, not novelty |
+| Bib | Must be visible on chest or hat; no unofficial runners | Do not fold the bib into a pack |
+| Pacer load | A pacer may not carry the runner's water, food, lights, shoes or clothing | Your own kit stays on you |
+
+The two-light rule is not paperwork. Canyon markers do not glow, and a dead headlamp after 80 km means waiting for a stranger. Keep the backup on top of the pack rather than in a drop bag, keep batteries against the body, and rehearse a 30-second battery swap in training.
+
+## Training for 100.2 miles and 18,090 ft of climb
+
+The participant guide gives the shape of the course: start at Olympic Valley at 6,200 ft, Emigrant Pass at 8,750 ft, 2,550 ft of climb in the first 4.5 miles, then another 15,540 ft of climb and 22,970 ft of descent. That totals roughly 18,090 ft of climb (about 5,514 m) and 22,970 ft of descent (about 7,001 m). This is not "a hundred miler"; it is a long-climb, long-descent and canyon-heat problem at the same time.
+
+| Phase | Weekly volume | Weekly climb | Key session | Heat/night rehearsal |
+|---|---|---|---|---|
+| Base, 4 weeks | 50–65 km | 1,500–2,000 m | 90 minutes continuous climbing | 60-minute headlamp walk |
+| Specific, 5 weeks | 65–85 km | 2,200–3,000 m | 5–6 hour mountain long run | 2-hour night run plus 30°C heat run |
+| Canyon simulation, 3 weeks | 80–100 km | 3,000–4,000 m | 1,500 m descent then 60 minutes of climbing | 90 minutes in afternoon heat |
+| Peak, 2 weeks | 85–105 km | 3,500–4,500 m | 8–10 hours loaded, practising crew handoffs | 6 hours overnight |
+| Taper, 2 weeks | 50–60% of peak | 40–50% of peak | Short hills at intensity | Gear check only |
+
+The descent hurts more than the climb. All 22,970 ft of descent is concentrated in the canyons and the second half; train only uphill and your quads will stop cooperating after Foresthill. One continuous route with 1,000 m up and 1,000 m down each week is closer to the race than stacking climb on a treadmill.
+
+Put heat in its own block. Auburn can be above 30°C at the end of June and the canyons feel hotter; the 2026 recap notes the finish high was only 73°F, an unusually cool year, so it is not a baseline. Do at least two 60–90 minute runs at 28–32°C in the race vest and cap, rehearsing "slow down first, then salt" rather than the reverse.
+
+## Race-day execution and crew/pacer
+
+Western States regulates crew and pacers more tightly than many hundreds. The official pacer rules allow one pacer at a time from Foresthill (mile 62); a runner leaving Michigan Bluff (mile 56) after 20:00 may start pacing there. Pacer changes are allowed only at Foresthill, Rucky Chucky north side, Green Gate, Pointed Rocks and Robie Point. Pacers must be 18, may help fill bottles, and may not carry the runner's water, food, lights, shoes or clothing; muling is expressly forbidden.
+
+| Time | Action | Check |
+|---|---|---|
+| Fri 25 June | Packet pickup, pacer sign-in, drop bags | Pacer number, waiver, crew vehicle pass |
+| 04:00, 26 June | Wake, breakfast, Olympic Valley | Bib, two lights, warm layer |
+| 05:00 | Start corral | Do not overdress before the first climb |
+| 08:00 | Emigrant Pass | Wind at altitude; shell on |
+| 14:00 | Mid-course canyons | Heat, fluid, salt |
+| 20:00 | Michigan Bluff | Pacer may join if the runner leaves after 20:00 |
+| 22:00 | Foresthill, mile 62 | Socks, warm layer, pacer joins |
+| 02:00, 27 June | Rucky Chucky | Pacer change, light check |
+| 05:00 | Green Gate / Pointed Rocks | Last night section |
+| 11:00 | Placer High School finish | 30-hour cutoff, silver or bronze buckle |
+
+These clock times are an **editorial example**, not an official split sheet. What should be fixed are three must-do actions: change socks and collect warm clothing at Foresthill, change lights at Rucky Chucky, and confirm the finish approach before Robie Point. Binding each action to a place is more useful than writing "finish under 24 hours".
+
+## Results: 2026 and records
+
+The 2026 edition was the 53rd, held 27–28 June. Vincent Bouillard won in 13:46:15, becoming the first runner under 14 hours for 100.2 miles; Francesco Puppi was second in 13:51:08, Ryan Montgomery third in 13:53:55, and fourth-place Thomas Cardin also broke Jim Walmsley's 2019 men's course record of 14:09. Jennifer Lichter won the women's race in 15:28:06, breaking Courtney Dauwalter's 2023 women's record of 15:29:33; Riley Brady was second in 15:42 and Marianne Hogan third in 15:51.
+
+| Item | 2026 result | Note |
+|---|---|---|
+| Men's winner | Vincent Bouillard 13:46:15 | First sub-14 |
+| Men's second | Francesco Puppi 13:51:08 | Also sub-14 |
+| Men's third | Ryan Montgomery 13:53:55 | Also sub-14 |
+| Women's winner | Jennifer Lichter 15:28:06 | Women's course record |
+| Women's second | Riley Brady 15:42 | — |
+| Women's third | Marianne Hogan 15:51 | — |
+| Field | 370 starters, 322 finishers | 87%, an all-time high |
+| Silver buckles | 136 under 24 hours | 24-hour club |
+| Final finisher | Mike Smith 29:58:31 | Just inside 30 hours |
+
+The cool 2026 weather is a large part of why records fell: the official recap puts the Auburn high at 73°F, nearly 20°F below the historical average high for 27 June. Reading 2026 as "the course got easier" misses the point; a hot year pushes the 14-hour barrier back out. Read results together with the year, the weather, the finish rate and the number of silver buckles.
+
 ## Verified and unverified
 
 This page did not run the course, so the two lists are kept separate.
@@ -262,3 +347,10 @@ The source count is 14; with the map-anchor editorial method source `route-ancho
 Reuse boundaries: the text is CC BY 4.0; official page text, checkpoint charts, marks and GPX are not redistributed; Open-Meteo data is used under CC BY 4.0 with attribution; Each image's author and licence are stated with its caption; they are not covered by this page's CC BY 4.0. If an official course map is published as an image or hosted by a third party such as Strava or Mapbox, this page links out only and does not copy, redistribute or embed it. Geometry is `official-link`: the official GPS page links a 2027 course GPX whose own description lists five changes from 2026; the page links it as an official entry, does not present it as 2026 geometry and offers no self-made track, KML or GeoJSON.
 
 This page is pinned to the 2026 edition, verified 2026-11-06 and due for review 2027-11-06. The 2027 edition on 26–27 June must be re-checked against the event's current pages for course, cutoffs, aid stations and construction progress; do not use the 2026 cutoffs here to plan 2027.
+
+<!-- related-ring -->
+## Related entries
+
+- [CHIANG DAO 160: the 173 km race of the Chiang Mai Major, 48 hours and eight cut-offs](/en/routes/chiang-dao-160/)
+- [Doi Inthanon PAGODA 50-DAY: a race called 50, a course of 57 km, and a loop around Doi Inthanon](/en/routes/doi-inthanon-pagoda-50-day/)
+- [ELEPHANT 100: the 100 km race of the Chiang Mai Major, sharing its second half with the 160](/en/routes/elephant-100/)

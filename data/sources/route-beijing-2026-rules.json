@@ -1,0 +1,40 @@
+{
+  "sourceId": "route-beijing-2026-rules",
+  "title": "2026北京马拉松竞赛规程/报名须知（直通标准、伴跑条款与罚则）",
+  "url": "https://www.beijing-marathon.com/subject.html?detailId=7991972216255091&topicId=7793644216441916",
+  "publisher": "北京马拉松组委会",
+  "publishedAt": "2026-09-01",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Entry requires runners to be at least 20 years old in the year of the race; runners aged 65 or above must complete a health self-assessment and submit a commitment form signed by themselves and family members.",
+    "A mass entrant must hold one marathon result or two half-marathon results within the 24 months before the entry deadline; virtual-race results are invalid.",
+    "The entry fee is CNY 200 per runner; once paid it is non-refundable and the place is personal and non-transferable.",
+    "Time-based direct entry follows the age-gender standards from the 2025 Beijing Marathon: men 2:40:00 at 20-34 down to 4:00:00 at 70+, women 3:10:00 at 20-34 down to 4:30:00 at 70+; a separate Guangzhou Marathon mutual-entry draw awards 200 places.",
+    "Only guide runners registered and reported to the organiser may accompany a visually impaired runner; the guide must be an accepted entrant in the same event, and unreported accompaniment carries self-responsibility.",
+    "The race does not include a racing wheelchair division; non-racing wheelchair runners must assemble at the rear under referee and volunteer guidance.",
+    "For violations such as false information, bib or chip transfer, or using another race's bib, the organiser may disqualify the result, impose a one-to-five-year ban or a lifetime ban, and refer serious cases to the Chinese Athletics Association.",
+    "Clothing rules require a visible bib; masks or helmets that obscure identity, sharp hard or detachable accessories, trailing entanglement-prone clothing, over-size props and revealing or offensive costumes are prohibited; strollers are barred from start, finish and course; littering off designated areas is prohibited.",
+    "Non-racing wheelchair and visually impaired runners who need support must download the application form from the official site, attach the disability certificate, and return it to oc@beijing-marathon.com by 22 September 18:00.",
+    "The registration window for mass runners was 17 September 10:00 to 22 September 18:00; ballot results and payment followed in late September to early October, with no waitlist for unpaid places unless a re-entry round is announced."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 beijing-marathon.com subject 页规程/须知正文，含年龄、成绩门槛、报名费、直通标准表、视障伴跑、轮椅安排、罚则与着装条款",
+    "note": "直通标准表为 2025 北马完赛成绩口径；页面同时列健康禁忌与领物要求。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "“须在参赛当年年满20周岁”；65 周岁及以上须本人及家庭成员共同签署承诺书。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "“报名截止日前24个月内具有1次马拉松或2次半程马拉松比赛的成绩（线上赛事成绩无效）”。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "“人民币200元/人……不予退还，名额仅限本人参赛，不允许转让”。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "直通标准表：男子 20-34 2:40:00 至 70+ 4:00:00；女子 20-34 3:10:00 至 70+ 4:30:00；广马互通抽取 200 名。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "视障运动员须由伴跑运动员全程伴跑；伴跑者须已报名同项目并报备，未报备责任自负。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "“本届赛事不设竞速轮椅组”；非竞速轮椅队尾集结。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-25", "note": "虚假信息、转让/使用非本届号码布：取消成绩、禁赛 1-5 年或终身禁赛，情节严重报田协追加处罚。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-25", "note": "号码布外露；禁面具/头盔遮挡身份、尖锐硬质配件、拖地缠绕服饰、过大造型；禁婴儿车；禁随意丢弃物品。" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-25", "note": "非竞速轮椅/视障运动员 9/22 18:00 前回传申请表与残疾证至 oc@beijing-marathon.com。" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-25", "note": "报名 9/17 10:00–9/22 18:00；抽签缴费 9 月底至 10 月初；未缴费名额原则上不后补。" }
+  ]
+}

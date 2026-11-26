@@ -14,7 +14,15 @@
     "route-chamonix-openmeteo",
     "photo-utmb-start-2015",
     "photo-utmb-checkpoint-2005",
-    "photo-utmb-water-2009"
+    "photo-utmb-water-2009",
+    "route-utmb-2026-registration",
+    "route-utmb-2026-practical",
+    "route-utmb-2026-rules",
+    "route-utmb-2026-waves",
+    "route-utmb-world-series-2027",
+    "route-utmb-security-2027",
+    "route-utmb-training-2027",
+    "route-utmb-results-portal"
   ],
   "relatedRefs": [
     "knowledge:long-run-fueling",
@@ -24,9 +32,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-26",
-  "updatedAt": "2026-11-08",
-  "reviewedAt": "2026-11-08",
-  "reviewDueAt": "2027-05-30",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-05-31",
   "details": {
     "raceType": "trail-ultra",
     "countryCodes": [

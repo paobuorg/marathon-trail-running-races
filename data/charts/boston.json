@@ -1,0 +1,47 @@
+{
+  "slug": "boston",
+  "charts": [
+    {
+      "id": "bq-standards-men-2027",
+      "kind": "bar",
+      "title": {
+        "zh-CN": "波士顿马拉松 2027/2028 男子资格标准（按年龄组）",
+        "en": "Boston Marathon 2027/2028 men's qualifying standards by age group"
+      },
+      "unit": {
+        "zh-CN": "分钟（资格赛净成绩上限）",
+        "en": "minutes (qualifying net time ceiling)"
+      },
+      "categories": {
+        "zh-CN": ["18-34", "35-39", "40-44", "45-49", "50-54", "55-59", "60-64", "65-69", "70-74", "75-79", "80+"],
+        "en": ["18-34", "35-39", "40-44", "45-49", "50-54", "55-59", "60-64", "65-69", "70-74", "75-79", "80+"]
+      },
+      "values": [175, 180, 185, 195, 200, 210, 230, 245, 260, 275, 290],
+      "note": {
+        "zh-CN": "BAA 官方 2027/2028 标准；女子与非二元标准在每个年龄组均比男子慢 30 分钟（如 18-34 为 3:25:00）。达到标准只获得申请资格，录取还受名额与录取线限制。本站自制图，非官方赛道剖面。",
+        "en": "Official BAA 2027/2028 standards; women's and non-binary standards are 30 minutes slower than the men's standard at every age band (e.g. 3:25:00 at 18-34). Meeting the standard only permits applying; entry also depends on field size and the cut-off. Self-made chart, not an official course profile."
+      }
+    },
+    {
+      "id": "cutoff-margin-history",
+      "kind": "bar",
+      "title": {
+        "zh-CN": "波士顿马拉松：历年资格录取线（低于标准的幅度）",
+        "en": "Boston Marathon: qualifying cut-off margin by year"
+      },
+      "unit": {
+        "zh-CN": "秒（需比本年龄组标准快出的时间）",
+        "en": "seconds faster than the age/gender standard required"
+      },
+      "categories": {
+        "zh-CN": ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2023", "2024", "2025", "2026", "2027"],
+        "en": ["2015", "2016", "2017", "2018", "2019", "2020", "2021", "2023", "2024", "2025", "2026", "2027"]
+      },
+      "values": [62, 148, 129, 203, 292, 99, 467, 0, 329, 411, 274, 317],
+      "note": {
+        "zh-CN": "BAA 官方「未录取资格者」历史表：录取线是申请者需低于本年龄组标准的时间幅度，不是赛道关门时间。2023 年录取线 0:00，即达标者全部录取。本站自制图，非官方赛道剖面。",
+        "en": "From the B.A.A. non-accepted qualifiers history: the cut-off is the amount faster than one's age/gender standard needed for acceptance, not a race finish limit. In 2023 the cut-off was 0:00, i.e. all qualifiers were accepted. Self-made chart, not an official course profile."
+      }
+    }
+  ]
+}

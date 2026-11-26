@@ -1,0 +1,47 @@
+{
+  "slug": "berlin",
+  "charts": [
+    {
+      "id": "segment-profile",
+      "kind": "line",
+      "title": {
+        "zh-CN": "柏林马拉松：分段累计距离",
+        "en": "Berlin Marathon: cumulative distance by segment"
+      },
+      "unit": {
+        "zh-CN": "公里",
+        "en": "km"
+      },
+      "categories": {
+        "zh-CN": ["0", "5 km", "10 km", "20 km", "半程 21.1 km", "25 km", "30 km", "35 km", "40 km", "42.195 km"],
+        "en": ["0", "5 km", "10 km", "20 km", "Halfway 21.1 km", "25 km", "30 km", "35 km", "40 km", "42.195 km"]
+      },
+      "values": [0, 5, 10, 20, 21.0975, 25, 30, 35, 40, 42.195],
+      "note": {
+        "zh-CN": "累计距离按 2026 World Athletics 赛报列出的官方计时点（5/10/20/半程/25/30/35/40 km 与终点）排列；官方高程字段写 tba，Majors 口径全程约 73 m 爬升、79 m 下降，本图不读取分段爬升。本站自制图，非官方赛道剖面。",
+        "en": "Cumulative distance follows the official timing points listed in the 2026 World Athletics report (5/10/20/halfway/25/30/35/40 km and finish); the SCC course page lists elevation as tba, and the Majors figure is about 73 m gain and 79 m loss across the route, so this chart reads no per-segment climb. Self-made chart, not an official course profile."
+      }
+    },
+    {
+      "id": "cutoff-buffer",
+      "kind": "bar",
+      "title": {
+        "zh-CN": "柏林马拉松：按 4:30:00 目标完赛算，官方关门点余量（2026 届）",
+        "en": "Berlin Marathon: official cut-off buffer per gate at a 4:30:00 target (2026)"
+      },
+      "unit": {
+        "zh-CN": "分钟（正值为余量，负值为已超关门）",
+        "en": "minutes (positive = buffer, negative = already outside cut-off)"
+      },
+      "categories": {
+        "zh-CN": ["KM 33 关门点 15:40", "终点 17:00"],
+        "en": ["KM 33 gate 3:40 pm", "Finish 5:00 pm"]
+      },
+      "values": [203.8, 225.0],
+      "note": {
+        "zh-CN": "按 2026 官方两个关门点（KM 33 15:40、终点 17:00）与 08:45 发枪、目标 4:30:00 完赛匀速推算；余量＝关门时刻−预计到达。官方只公布这两个关卡，其余公里点无单独关门时间，本图不外推。2027 届为 KM 33 15:50、终点 17:15，不能混用。本站自制图，非官方赛道剖面。",
+        "en": "Computed from the two official 2026 gates (KM 33 at 3:40 pm, finish at 5:00 pm), an 08:45 gun and an even pace to a 4:30:00 finish; buffer = gate minus predicted arrival. The organiser publishes only these two gates; no other kilometre has an official cut-off, and this chart does not extrapolate one. The 2027 gates are 3:50 pm at KM 33 and 5:15 pm at the finish and must not be mixed with 2026. Self-made chart, not an official course profile."
+      }
+    }
+  ]
+}

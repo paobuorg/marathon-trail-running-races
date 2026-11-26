@@ -1,0 +1,46 @@
+{
+ "sourceId": "route-utnh-2026-result-report",
+ "title": "Ultra-Trail Ninghai 2026 race report: Gu Rongchao wins the 100 km in 9:25:06",
+ "url": "https://runnerreg.co/news/ultra-trail-ninghai-2026-race-report",
+ "publisher": "RunnerReg",
+ "publishedAt": "2026-11-16",
+ "accessedAt": "2026-11-26",
+ "claims": [
+  "Gu Rongchao won the 2026 UTNH-100 in 9:25:06; Miguel Arsénio was second in 9:41:35 and Daniel Jones third in 9:55:52.",
+  "Veronika Leng won the women's 2026 UTNH-100 in 11:09:11; Sunmaya Budha was second in 11:10:44 and Ha Thi Hau third in 11:26:13.",
+  "Past UTNH winners include Ionel Cristian Manole and Chi Lingjie in 2025, Meng Guangfu and Xiang Fuzhao in 2024, Duoji and Yao Miao in 2023, and Yan Longfei and Xiang Fuzhao in 2020.",
+  "The report cautions that the flagship race has appeared as both 100 km and 105 km versions, so winning times across editions are not like-for-like."
+ ],
+ "license": null,
+ "verification": {
+  "access": "direct",
+  "bodyRead": true,
+  "checkedAt": "2026-11-26"
+ },
+ "claimVerification": [
+  {
+   "index": 0,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "男子前三与成绩段逐项列出。"
+  },
+  {
+   "index": 1,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "女子前三与成绩段逐项列出，并注明官方结果应用与媒体有 1 秒级差异。"
+  },
+  {
+   "index": 2,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "历届冠军表列出 2026、2025、2024、2023、2020。"
+  },
+  {
+   "index": 3,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "文末明确写 “entries list 100 km and 105 km versions over the years”。"
+  }
+ ]
+}

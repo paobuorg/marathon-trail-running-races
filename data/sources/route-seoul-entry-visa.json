@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-seoul-entry-visa",
+  "title": "Republic of Korea MFA — entry requirements and visa / K-ETA notice for foreigners",
+  "url": "https://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?page=1&seq=761486",
+  "publisher": "Ministry of Foreign Affairs, Republic of Korea (Korean embassy to Singapore)",
+  "publishedAt": "2026-08-14",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Foreigners entering Korea must hold either a K-ETA or a visa; the passport only needs to remain valid throughout the stay, with no minimum remainder-validity rule.",
+    "K-ETA is applied for at www.k-eta.go.kr; nationals not eligible for K-ETA apply through the Korea Visa Application Centre; some nationalities and age groups are exempt, and K-ETA exemption for listed countries is extended until 31 December 2026.",
+    "An e-Arrival card must be submitted within three days before arrival; no vaccination requirement and no COVID-19 test are required."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取韩国外交部使馆英文入境要求页",
+    "note": "K-ETA/签证二选一、护照有效期、豁免期限、电子入境卡与免疫苗检测条款可读。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Must have either K-ETA OR Visa；passport valid throughout stay；no remainder validity requirement" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "K-ETA www.k-eta.go.kr；KVAC otherwise；exemptions；K-ETA exemption extended till 31 Dec 2026" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "e-Arrival card within 3 days before arrival；no vaccination / COVID-19 test" }
+  ]
+}

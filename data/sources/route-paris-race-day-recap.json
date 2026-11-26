@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-paris-race-day-recap",
+  "title": "Third-party race-day recap: 2026 start waves and refreshment-station kilometre positions",
+  "url": "https://www.marathons.com/en/save-the-date/paris-marathon-2026-everything-you-need-to-know-two-weeks-before-race-day_kwnj",
+  "publisher": "Marathons.com (third-party race guide)",
+  "publishedAt": "2026-04-08",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The recap lists 2026 start waves by predicted time: wheelchair about 7:55, elite women/men 8:00, priority 8:00, 3:00 wave 8:03, handisport 8:19, 3:15 8:22, 3:30 8:44, 3:45 9:34, 4:00 10:19, 4:15 11:10, 4:30 around 11:12, each with a separate corral entry time.",
+    "The recap places full food-and-liquid stations near km 4.8, 8.7, 13.3, 16.8, 21.3, 24.2, 30.6, 35.1 and 38.8, water-only points near 22.5, 29, 32.6 and 37, and electrolyte energy stations near 24.2 and 32.2.",
+    "These wave times and kilometre positions are a third-party recap of the official 2026 participant guide; the official guide PDF itself was not obtained for this check, so they are not treated as official-organiser figures."
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "general_search 命中 marathons.com 赛前回顾摘要；未抓取官网参赛指南 PDF 原件",
+    "note": "第三方口径，正文引用时明确标注；官方只确认分区存在、约每 5 km 补给与 2026 的 13 站点数量。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "partial",
+      "checkedAt": "2026-11-25",
+      "note": "分区出发时刻来自第三方回顾；规则 PDF 只规定 Elite/优先/红/黄分区与申请方式，未列具体时刻表。"
+    },
+    {
+      "index": 1,
+      "status": "partial",
+      "checkedAt": "2026-11-25",
+      "note": "逐站 km 位置来自第三方回顾；官网 /330 只公布 9 full + 4 water + 2 Ta Energy 的数量。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "来源本身为第三方；本页未把其 km/时刻写成官方口径。"
+    }
+  ]
+}

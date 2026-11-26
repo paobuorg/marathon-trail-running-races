@@ -1,0 +1,38 @@
+{
+  "sourceId": "route-western-states-pacer-rules",
+  "title": "Pacer Rules — Western States Endurance Run",
+  "url": "https://www.wser.org/pacer-rules/",
+  "publisher": "Western States Endurance Run Foundation",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "A runner may have one pacer at a time, starting from the Foresthill aid station (mile 62) to the finish in Auburn; since 2025 pacers and crew are not allowed anywhere along Bath Rd, and must wait inside the official Foresthill aid station, except pacers starting at Michigan Bluff.",
+    "A runner leaving Michigan Bluff (mile 56) after 8:00 p.m. may have a pacer from that point.",
+    "Pacer changes are allowed only at Foresthill aid station, Rucky Chucky river crossing near (north) side, Green Gate aid station, Pointed Rocks aid station and Robie Point.",
+    "Each pacer picks up a pacer number and signs a release form at Pacer Central, either at Olympic Valley on Friday morning or at Foresthill Elementary School after noon on Saturday; three pacer numbers matching the entrant are provided per entrant.",
+    "Pacers must be at least 18 years old; exceptions may be requested in advance from the Race Director.",
+    "Pacers may assist with filling bottles or replenishing supplies at aid stations but must not enter ahead of their runner or depart after the runner to speed refueling; pacers may accept aid at aid stations.",
+    "Pacers may not carry water, food, flashlights, shoes, clothing or other supplies for their runner, and may not give mechanical or physical assistance on the course; muling is expressly forbidden, though pacers may carry their own supplies and food.",
+    "If a runner withdraws and their pacer wishes to continue, the pacer must stay at the aid station until another runner requests their services; a pacer may not continue on the trail without an official entrant.",
+    "More than one person (crew, pacer, friends, family) may accompany a runner without aid or muling from the top of Bath Road to the intersection of Main Street and California Street, and from Robie Point to the finish line."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "official WSER Pacer Rules page",
+    "note": "2026-11-25 读取官方配速员规则页：配速员起点、交接点、号码与免责表、年龄、补给边界、禁止携带物品、退赛后处置与可陪同路段逐条核对。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Rule 1: one pacer at a time from Foresthill mile 62; 2025 Bath Rd restriction; wait inside official Foresthill aid station; Michigan Bluff exception." },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Rule 2: Michigan Bluff mile 56 after 8 p.m. pacer start." },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Rule 3: change points Foresthill, Rucky Chucky north side, Green Gate, Pointed Rocks, Robie Point." },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Rule 4: pacer number and release form at Pacer Central; three numbers per entrant." },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "Rule 5: pacers at least 18; RD exceptions in advance." },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "Rule 6–7: enter/leave aid station with runner, identify to staff; bottle filling allowed, no ahead-of-runner entry." },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-25", "note": "Rule 8: no carrying runner's supplies or mechanical/physical assistance; muling forbidden; own supplies allowed." },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-25", "note": "Rule 9: withdrawn runner's pacer waits at aid station for another entrant." },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-25", "note": "Rule 10: companionship without aid on Bath Road top to Main/California St, and Robie Point to finish." }
+  ]
+}

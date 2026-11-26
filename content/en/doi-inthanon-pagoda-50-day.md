@@ -414,6 +414,62 @@ The fifth source is climate uncertainty: the organiser prepares both hot-weather
 
 Runners therefore have to pack for both extremes rather than for one named season.
 
+## Training transfer
+
+This is a 50K-band loop: an official 57 km with 3,600 m of climb, about 63 m per kilometre; GPX elevation runs 813–2,149 m, a vertical span of over 1,300 m. The training focus is mid-distance repeated mountain up-and-down, cold mist at altitude, and late-race cut-off margin, not pure road endurance.
+
+The table below converts five finish targets to average speed over 57 km, excluding climb, rest and queueing loss; the official time-chart cut-offs remain the hard limits.
+
+| Target finish | Total time (h) | Average speed (km/h) | Margin to the 16.5 h limit |
+|---|---:|---:|---|
+| 8 h | 8 | 7.13 | 8.5 h margin |
+| 10 h | 10 | 5.70 | 6.5 h margin |
+| 12 h | 12 | 4.75 | 4.5 h margin |
+| 14 h | 14 | 4.07 | 2.5 h margin |
+| 16.5 h | 16.5 | 3.45 | at the barrier |
+
+- Mountain up and down: about 63 m of climb per kilometre; long training runs should include sustained climbing and quad-focused descent work.
+- Altitude and cold: the GPX high point is 2,149 m and the park above 1,800 m is mostly cloud and mist; training should adapt to cold, wind and fog, with warm layers per the mandatory list.
+- Late race: the real filter starts at B3 (28.7 km, 8 h), and margins tighten at B4 and B5; the back end of long runs should simulate fueling and rhythm under fatigue.
+- This page is not a training plan and does not replace a coach or medical assessment.
+
+## Race-day execution card
+
+- Aid: five stations B1–B5 serve still water and sports or electrolyte drink for refilling bottles and bladders; leave each station with enough water and food for the next one.
+- Cut-offs: B1 and B2 carry no cut-off; the four points after B3 do, and runners must leave before the cut-off.
+- Medical: doctors, nurses and race control may remove a runner unable to continue; intravenous fluids mean mandatory withdrawal; NSAIDs are prohibited; help can be reached at a medical point, by race-control phone, by asking another runner, or via the SOS function in the LiveRun app.
+- Rest: some stations have rest areas with camp beds and blankets, but locations and bed counts are not published; use the event sleep bib for a course nap.
+- Withdrawal: withdraw at a checkpoint; some stations have vehicles back to the finish, but which ones is not published.
+
+| Point | Cumulative distance | Cut-off | Time from start | To next cut-off |
+|---|---:|---|---:|---|
+| B3 Mae Uam Water Resource Office | 28.7 km | 15:00 | 8 h | 11.4 km / 3.0 h to B4 |
+| B4 Mae Chaem Guard Unit | 40.1 km | 18:00 | 11 h | 7.5 km / 3.5 h to B5 |
+| B5 Relic of the Buddha | 47.6 km | 21:30 | 14.5 h | 9.1 km / 2.0 h to finish |
+| Finish | 56.7 km | 23:30 | 16.5 h | — |
+
+| Branch | Situation | Action |
+|---|---|---|
+| If margin is thin at B3 (28.7 km, 15:00) | First filter point | Check the 3-hour margin to B4; adjust fueling and rhythm |
+| If cold mist or chill on the high-altitude section | Cloud band above 1,800 m | Wear the warm layer and windproof jacket; rest at a station with a rest area if needed |
+| If margin is short at B5 (47.6 km) | The last 9.1 km get only 2 h | Hold above 4.6 km/h; if behind, follow sweep procedure |
+| If withdrawing between stations | Between two checkpoints | Go to the nearest checkpoint; do not leave the marked route on your own |
+| If intravenous fluids are required | Medical decision | Mandatory withdrawal under the rules; do not continue |
+
+## Results and course changes
+
+The 2026 PAGODA 50-DAY starts at 07:00 on 28 November 2026; at the verification date (2026-11-08) the race had not been held. The organiser had not published a winner, course record, finisher count or finish rate, and this page lists no placings.
+
+| Item | Status |
+|---|---|
+| 2026 winners (men / women) | Not published (race not yet held) |
+| Course record | Not published |
+| Past winners and finish rates | No official edition-by-edition results table found this round; insufficient evidence |
+| Reroute / date change / rule change | No loggable official evidence found; `courseChanges` is an empty array |
+
+- Earlier edition roadbooks and reroute notes were not obtained this round; this page does not write "no changes ever occurred".
+- After race day, winners and results follow the official results page and LiveTrail records.
+
 ## Verified and unverified
 
 Verified: race date, start time, time limit, 57 km and 3,600 m, the five aid-station names and the four cut-off times.
@@ -481,3 +537,10 @@ Text and tables: original to this site, published under CC BY 4.0; official fact
 13. File:Rice terrace at Ban Mae Klang Luang.jpg: https://commons.wikimedia.org/wiki/File:Rice_terrace_at_Ban_Mae_Klang_Luang.jpg
 14. File:Naphamethinidon, Naphaphonphumisiri near summit of Doi Inthanon.jpg: https://commons.wikimedia.org/wiki/File:Naphamethinidon,_Naphaphonphumisiri_near_summit_of_Doi_Inthanon.jpg
 15. File:Place MostHighestofThailand.jpg: https://commons.wikimedia.org/wiki/File:Place_MostHighestofThailand.jpg
+
+<!-- related-ring -->
+## Related entries
+
+- [ELEPHANT 100: the 100 km race of the Chiang Mai Major, sharing its second half with the 160](/en/routes/elephant-100/)
+- [Tenzing Hillary Everest Marathon: a high-altitude downhill trail race guide (2027 basis)](/en/routes/everest-marathon/)
+- [Gaoligong Ultra MGU 168 km: six races, and what is missing](/en/routes/gaoligong-mgu/)

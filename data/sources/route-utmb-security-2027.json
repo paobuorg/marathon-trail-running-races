@@ -1,0 +1,46 @@
+{
+ "sourceId": "route-utmb-security-2027",
+ "title": "Security — HOKA UTMB Mont-Blanc",
+ "url": "https://montblanc.utmb.world/races-runners/other-information/security",
+ "publisher": "UTMB World Series",
+ "publishedAt": null,
+ "accessedAt": "2026-11-26",
+ "claims": [
+  "Individual accident insurance covering search and rescue in France, Italy and Switzerland is mandatory for every runner; helicopter repatriation is quoted at €800–3,000.",
+  "A smartphone with international roaming must stay switched on for the whole race, and airplane mode is explicitly prohibited because LiveRun by LiveTrail is used for safety.",
+  "For runners spending more than 15 hours on the course, an external battery is strongly recommended.",
+  "The emergency contact number entered on the runner page should be the number actually carried during the race."
+ ],
+ "license": null,
+ "verification": {
+  "access": "direct",
+  "bodyRead": true,
+  "checkedAt": "2026-11-26"
+ },
+ "claimVerification": [
+  {
+   "index": 0,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "保险段明确要求覆盖法意瑞三国搜救，并给出直升机转运 800–3000 欧元的区间。"
+  },
+  {
+   "index": 1,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "手机段明确禁止飞行模式，并说明 LiveRun 用于安全追踪。"
+  },
+  {
+   "index": 2,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "手机段写明超过 15 小时强烈建议外接电池。"
+  },
+  {
+   "index": 3,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "页面要求核对紧急联系人电话，并可在起跑前更新。"
+  }
+ ]
+}

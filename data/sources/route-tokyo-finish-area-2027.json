@@ -1,0 +1,39 @@
+{
+ "sourceId": "route-tokyo-finish-area-2027",
+ "title": "Finish Area Information",
+ "url": "https://www.marathon.tokyo/en/about/finish-area/",
+ "publisher": "Tokyo Marathon Foundation",
+ "publishedAt": null,
+ "accessedAt": "2026-11-26",
+ "claims": [
+  "The finish area has designated Meet Areas on the Otemachi side and Hibiya side for runners and supporters.",
+  "Runners need roughly 30 minutes after crossing the finish line to reach the changing area.",
+  "Spectating is not allowed on Gyoko-dori Avenue itself."
+ ],
+ "license": null,
+ "verification": {
+  "access": "direct",
+  "bodyRead": true,
+  "checkedAt": "2026-11-26"
+ },
+ "claimVerification": [
+  {
+   "index": 0,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "页面列出 Otemachi-side 与 Hibiya-side Meet Area 的具体地点。"
+  },
+  {
+   "index": 1,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "页面写 “It will take runners roughly 30 minutes to reach the changing area after crossing the finish line”。"
+  },
+  {
+   "index": 2,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "地图上标注 “No spectating on Gyoko-dori Ave.”。"
+  }
+ ]
+}

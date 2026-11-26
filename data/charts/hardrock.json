@@ -1,0 +1,47 @@
+{
+  "slug": "hardrock",
+  "charts": [
+    {
+      "id": "segment-climb-2026",
+      "kind": "bar",
+      "title": {
+        "zh-CN": "Hardrock 100：2026 顺时针 14 段分段爬升",
+        "en": "Hardrock 100: per-segment climb, 2026 clockwise"
+      },
+      "unit": {
+        "zh-CN": "英尺（本段爬升，非累计）",
+        "en": "feet (segment climb, not cumulative)"
+      },
+      "categories": {
+        "zh-CN": ["KT", "Chapman", "Telluride", "Kroger's", "Governor", "Ouray", "Engineer", "Grouse Gulch", "Burrows", "Sherman", "Pole Creek", "Maggie", "Cunningham", "Silverton"],
+        "en": ["KT", "Chapman", "Telluride", "Kroger's", "Governor", "Ouray", "Engineer", "Grouse Gulch", "Burrows", "Sherman", "Pole Creek", "Maggie", "Cunningham", "Silverton"]
+      },
+      "values": [4069, 2450, 3090, 4390, 0, 48, 4575, 1220, 4432, 0, 3082, 1615, 1700, 2770],
+      "note": {
+        "zh-CN": "分段爬升取自 2026 官方顺时针补给表逐行 +ft；Governor 与 Sherman 两段官方表记 0 ft 爬升。14 段相加 33,441 ft，与官方总数一致。本站自制图，非官方赛道剖面。",
+        "en": "Per-segment +ft from the official 2026 clockwise aid table; the Governor and Sherman segments are recorded as 0 ft climb by the organiser. The 14 segments sum to 33,441 ft, matching the official total. Self-made chart, not an official course profile."
+      }
+    },
+    {
+      "id": "pace-targets-163km",
+      "kind": "line",
+      "title": {
+        "zh-CN": "Hardrock 100：不同目标完赛时间对应的平均配速",
+        "en": "Hardrock 100: average pace by target finish time"
+      },
+      "unit": {
+        "zh-CN": "分钟 / 公里（匀速算术，不含爬升与停留）",
+        "en": "min/km (even-pace arithmetic, no climb or stops)"
+      },
+      "categories": {
+        "zh-CN": ["24 小时", "30 小时", "36 小时", "42 小时", "48 小时关门"],
+        "en": ["24 h", "30 h", "36 h", "42 h", "48 h cutoff"]
+      },
+      "values": [8.79, 10.99, 13.19, 15.38, 17.58],
+      "note": {
+        "zh-CN": "按官方 101.8 mi（163.8 km）除目标完赛时间匀速换算；上坡、技术下降、夜间与补给停留都会使实际分段慢于此均值，48 小时是关门上限不是目标。本站自制图，非官方赛道剖面。",
+        "en": "Even-pace arithmetic over the official 101.8 mi (163.8 km); climbs, technical descents, night sections and aid stops make real splits slower than this average, and 48 h is the cut-off ceiling, not a target. Self-made chart, not an official course profile."
+      }
+    }
+  ]
+}

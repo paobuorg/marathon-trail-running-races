@@ -1,0 +1,36 @@
+{
+  "sourceId": "route-bigs-official-rules",
+  "title": "Rules — Big's Backyard Ultra (official Backyard Ultra format rules)",
+  "url": "https://www.bigsbackyardultra.com/rules",
+  "publisher": "Big's Backyard Ultra / Lazarus Lake",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The course may be a loop or out-and-back and must be 4 miles 880 feet long, with a metric equivalent of 6.7056 kilometers.",
+    "The starting corral is measured to fit the entire starting field and stays the same size throughout the event; participants must be in the starting corral at the bell.",
+    "Each loop starts precisely one hour after the last; warnings must be given 3, 2 and 1 minutes before the start, and all competitors must start at the bell with no late starts.",
+    "Except for restroom use, a competitor may not leave the course until each loop is completed; no non-competitors, including eliminated runners, are permitted on the course.",
+    "No personal aid may be received during a loop; common aid stations are allowed; each loop must be completed within an hour to count, including the final lap; no artificial aids such as trekking poles are permitted; slower runners must allow passes.",
+    "Timing of the loops is optional for the organiser to operate.",
+    "The winner is the last person to complete a loop; all others are technically recorded as DNF; results are given as distance covered per runner; if no runner completes one more loop than everyone else, there is no winner.",
+    "The race must be open ended with no fixed cap on laps or distance."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 bigsbackyardultra.com/rules 正文七条规则",
+    "note": "2026-11-25 复核：官方规则页 7 组条目（Course / Corral / Starts / Loops / Timing / Winner-Results / Cap），逐条对应。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Rules 1) Course：Loop or out and back; 4 miles 880 feet; 6.7056 kilometers。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Rules 2) Starting Corral。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Rules 3) Starts：precisely 1 hour after the last; 3/2/1 minute warnings; no late starts。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Rules 4) Loops：restrooms only exception; no non-competitors on course。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "Rules 4) Loops：no personal aid during a loop; common aid stations allowed; within an hour; no artificial aids incl. poles; slower runners allow passes。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "Rules 5) Timing：timing of the loops is optional。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-25", "note": "Rules 6) Winner/Results：last person to complete a loop; others DNF; no winner if no one outlasts the field。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-25", "note": "Rules 7) Cap：race must be open ended。" }
+  ]
+}

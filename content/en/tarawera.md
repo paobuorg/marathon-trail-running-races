@@ -47,7 +47,13 @@ The numbers are not interchangeable. The TMiler is a loop that starts and finish
 
 There is also a same-site price conflict: the T102 costs NZ$600 on its race page and NZ$625 on the entry page. Both are official pages, so both are printed here and neither is chosen. The TMiler is NZ$1,090 in both places; T50 is NZ$445, T21 NZ$195 and T14 NZ$160, all in New Zealand dollars including GST.
 
-## More than one official set of numbers
+| Course feature | Listed highlight |
+| --- | --- |
+| Lakes and forest | Along eight different lakes; the solitude of the Tarawera Forest; towering redwoods |
+| Water and heritage | A boat ride across Lake Rotomahana; the waterfall on the Tarawera Falls track; the Buried Village archaeological site |
+| Geothermal and finish | Steam along the trail at Sulphur Point; finish at the Village Green in downtown Rotorua |
+
+## Course geometry: more than one official set of numbers
 
 The TMiler has at least four official or official-file versions of its distance and gain:
 
@@ -77,6 +83,18 @@ Course shape has a conflict too. The homepage says "Courses are all point-to-poi
 The GPX linked from the 2027 TMiler page does not have coincident endpoints either. The first point is -38.163829, 176.251135 and the last is -38.131939, 176.252814, 3.549 km apart by Haversine distance. The file's edition cannot be determined: the filename says 2026, the metadata timestamp is 2019-12-18, and track points run from 2019-12-18 to 2025-10-09. This page therefore does not use it to settle loop versus point-to-point and records only the conflict. Read as a loop, a reader would assume the start and finish are in one place and could book a single town base; the official text gives Te Puia as the start and the Village Green as the finish.
 
 The cut-off pace has an arithmetic gap as well. The official figure is 13:17 min/km; 36 hours over 163 km is 13.25 min/km, or 13:15. A pace of 13:17 corresponds to 162.6 km, 0.4 km short of the official distance. This page reads cut-offs from the official clock times, not backwards from the pace figure.
+
+## Results and course changes
+
+The 2027 edition runs 13–14 February 2027; as of the verification date it had not started, so no results exist. The verified sources contain no past-finisher standings; the first and final times on the race page are reference figures, not completed-race results.
+
+| Item | Official record | Basis |
+| --- | --- | --- |
+| First finisher reference time | 14 h 53 min (6:53pm) | Race-page reference, edition not labelled |
+| Final finisher reference time | 36 h 00 min (4:07pm Sunday) | Time-limit boundary |
+| Cut-off pace | Official 13:17 min/km; 163 km ÷ 36 h = 13:15 min/km | Both figures kept, not averaged |
+
+Course changes: `courseChanges` is an empty array; the verified sources contain no official evidence of a route change, postponement or rule change, and this page does not state that "no changes occurred".
 
 ## Sixteen timing points and their cut-offs
 
@@ -152,6 +170,13 @@ Entry qualification applies to the TMiler only. You must have completed an offic
 The T102 has no pre-requisite event. The organiser only says ultra-trail experience helps with start-group seeding. That is not a claim that the T102 is easier; it is a different entry rule.
 
 The minimum age is 18 on race day. Refunds are 45% before 22 November 2026, 22% before 3 January 2027 and none after. The TMiler deferral requires registering before 16 May 2026, requesting before 3 January 2027, and paying NZ$55 when entering the 2028 event.
+
+| Timing point | Refund / deferral basis |
+| --- | --- |
+| Before 2026-11-22 | Refund 45% |
+| Before 2027-01-03 | Refund 22% |
+| After 2027-01-03 | No refund |
+| TMiler deferral | Register before 2026-05-16, request before 2027-01-03; pay NZ$55 when entering 2028 |
 
 The organiser states the course is not suitable for completion using wheelchairs or with prams, citing course conditions.
 
@@ -247,6 +272,42 @@ Okataina to Millar is 15.3 km in 4 hours, an implied 3.83 km/h. Millar to Tikita
 
 This diagram divides the distance between consecutive cut-offs in the official 2027 timing table by the time between them, producing 12 implied average speeds. Okataina to Millar at 3.83 km/h is red and Millar to Tikitapu at 6.00 km/h is amber. It is not a target-pace table and not a course profile; cut-offs are administrative limits, and the tight-loose pattern comes from the published clock times. The organiser does not explain the pattern.
 
+## Training conversion
+
+The TMiler is a runnable 163 km, 3,800 m+ forest ultra with limited elevation range; preparation centres on long-distance durability, night sections and wet forest trail, not high-altitude mountaineering. The mapping below uses only verified facts and gives no individual training prescription.
+
+| Verified fact | Training direction | Site reference |
+| --- | --- | --- |
+| 163 km, 3,800 m+, 36 h, minimum 4.53 km/h | Walk-run durability and progressive weekly volume | [Ultra-running basics](/en/knowledge/ultra-running-basics/), [Training volume and progression](/en/knowledge/training-volume-and-progression/) |
+| Native bush, redwoods, lakeside trail, slippery roots | Forest-trail rhythm and downhill landing control | [Mountain path basics](/en/knowledge/hill-and-mountain-path-basics/), [Downhill running technique](/en/knowledge/downhill-running-technique/) |
+| Overnight section, night forest trails | Night-run practice and lighting habits | [Night running and conditions](/en/knowledge/night-running-and-traffic/) |
+| 13 aid stations plus 1 water point, 6 drop-bag points | Rehearse fuelling and drop-bag lists on training outings | [Long-run fueling](/en/knowledge/long-run-fueling/), [Crew and pacer planning](/en/knowledge/crew-and-pacer-planning/) |
+| Qualification: a 50 km+ trail race completed 3 Jan 2025 – 3 Jan 2027 | Submit proof before the deadline | This site does not replace race qualification review |
+
+Decision branches:
+
+| If your preparation is | Then the corresponding judgment is |
+| --- | --- |
+| No 50 km+ trail race within the qualification window | TMiler qualification is not met; the official process moves you to T102 |
+| Longest training distance under 100 km | Build durability first; do not reverse a pace plan from the 36 h limit |
+| No night long-run experience | Build night running and lighting before planning the overnight segment |
+| Planning a pacer from Okataina | Two may be registered but only one at a time; register online by 10 February 2027 |
+
+## Race-day execution card
+
+The table lists TMiler nodes only; T102 and the other categories are not merged into it.
+
+| Node | Verified action | Key constraint |
+| --- | --- | --- |
+| Te Puia 0 km | Start 04:00 on 13 February; collect race pack after gear check | Minimum age 18 on race day; no pack without a passed mandatory gear check |
+| Buried Village 29.9 km | Drop bag #1 | Bags to Athlete Check-In before 20:00 Friday |
+| Rerewhakaaitu 56.0 km | Drop bag #2 | — |
+| Outlet 88.8 km | Drop bag #3 | — |
+| Okataina 118.5/118.6 km | Pacer handover; drop bag #4 | Two pacers, one at a time; register by 10 February |
+| Tikitapu (Blue Lake) 145.7 km | Drop bag #5 | — |
+| Village Green 162.7/163.0 km | Finish; drop bag #6 | 36 h limit; counted from the last athlete crossing the start timing mat |
+| Withdrawal | If a checkpoint cut-off or the total limit cannot be reached, you may be classified DNF and asked to leave the course | Evacuation follows the on-course officials' instructions |
+
 ## Verified and unverified
 
 Verified on 2026-11-08; photographs and diagrams checked on 2026-11-23:
@@ -319,3 +380,10 @@ The text, tables and two self-made diagrams on this page are published under CC 
 - Blue Lake / Tikitapu location photograph: `photo-tarawera-tikitapu`
 
 Consistency note: every "the organiser says" sentence returns to a specific claim in the sources above, and every editorial judgement is marked with "this page" in the body. The two are not blended.
+
+<!-- related-ring -->
+## Related entries
+
+- [Torrencial Chile by UTMB: the full Pilolcura 100K course guide (2027)](/en/routes/torrencial-chile/)
+- [UTA100: 101 km in the Blue Mountains, with every UTA distance kept apart](/en/routes/ultra-trail-australia/)
+- [Beijing Marathon: Tiananmen Square to the Olympic Park Landscape Avenue](/en/routes/beijing/)

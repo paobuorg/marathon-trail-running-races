@@ -1,0 +1,32 @@
+{
+ "sourceId": "route-tokyo-charity-2027",
+ "title": "Charity — Tokyo Marathon 2027",
+ "url": "https://www.marathon.tokyo/en/charity/",
+ "publisher": "Tokyo Marathon Foundation",
+ "publishedAt": null,
+ "accessedAt": "2026-11-26",
+ "claims": [
+  "Charity Runner applications run from 24 June to 9 July 2026 and are not first-come, first-served.",
+  "Donation-only contributions are accepted until 31 August 2026."
+ ],
+ "license": null,
+ "verification": {
+  "access": "direct",
+  "bodyRead": true,
+  "checkedAt": "2026-11-26"
+ },
+ "claimVerification": [
+  {
+   "index": 0,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "页面写明 Charity Runner 申请 6 月 24 日 11:00 至 7 月 9 日 17:00，且非先到先得。"
+  },
+  {
+   "index": 1,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "页面写明 donation only 可到 8 月 31 日 17:00。"
+  }
+ ]
+}

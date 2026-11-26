@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-valencia-2026-course-pdf",
+  "title": "Plano recorrido 42K 2026 — official static course map PDF",
+  "url": "https://cdn1.valenciaciudaddelrunning.com/wp-content/uploads/2026/11/plano-recorrido-42k-2026.pdf",
+  "publisher": "S.D. Correcaminos",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The official 2026 course map PDF is dated 6 December 2026, 08:15, and shows the start beside the City of Arts and Sciences with the finish at the Ciutat de les Arts i les Ciències.",
+    "The map elevation profile states minimum altitude 1.8 m, maximum altitude 18 m and maximum difference 16.2 m; the profile line stays inside the 0-30 m axis with no sustained climb.",
+    "The legend marks aid stations with water, Aquarius, fruit, toilets and medical service, three Enervit gel red points, medal engraving, parking, bag drop-off area and rapid assistance points.",
+    "The PDF gives no cumulative climb or descent figure and no coordinate track; it is a static plan only, with no redistribution licence attached."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "下载官方 PDF（6,268,446 字节），PyMuPDF 渲染左下角高程剖面框并读图核对数值",
+    "note": "PDF 为矢量/图片混排，无可抽取文字层；高程数值以渲染放大图为准。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "图面标题 RECORRIDO COURSE 2026，6 DECEMBER 2026，8:15 h；SALIDA START 与 META FINISH 均在 Ciutat de les Arts 一带。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "剖面框：Altitud mínima 1,8m / mínimum 1.8m；Altitud máxima 18m / max 18m；Diferencia máxima 16,2m / max difference 16.2m。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "LEYENDA LEGEND 含 Avituallamiento、Agua Aquabona、Bebida Aquarius、Fruta、WC、Servicios médicos、Punto rojo Gel Enervit、Grabación de medalla、Parking、Guardarropa、Asistencia rápida。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "PDF 内无累计爬升/下降数字，无坐标序列；未附再分发许可。"
+    }
+  ]
+}

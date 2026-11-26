@@ -1,0 +1,40 @@
+{
+  "sourceId": "route-leadville-official-rules",
+  "title": "Official Rules — Leadville Race Series (safety, support, course integrity, timing, protests)",
+  "url": "https://www.leadvilleraceseries.com/official-rules/",
+  "publisher": "Life Time Leadville Race Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Participants must provide a working emergency contact number that is not their own; international participants must provide a working WhatsApp or equivalent international number.",
+    "The use of IV fluids during the race is prohibited and results in immediate disqualification.",
+    "Support crews, friends and family are allowed only at official crewing locations; support offered outside official crew checkpoints results in disqualification.",
+    "The official course must be followed at all times; shortcuts or alternate routes are not permitted; athletes are responsible for safe navigation; courses are marked but GPS devices are recommended as backup; GPS files are available on each event page.",
+    "Athletes must pass over the timing mats at each official checkpoint; reaching a checkpoint after the cutoff means the time will not be scored and the athlete is no longer an official participant; DNFs must be reported to timing officials.",
+    "A government-issued photo ID is required at sign-in; packets are given to registered athletes only; participants under 18 must have a parent or legal guardian's consent, with the guardian present at check-in.",
+    "Participants needing medical assistance should seek help at the nearest aid station; in emergencies dial 911; in weather or other emergencies participants must follow instructions provided by race officials.",
+    "Protests must be submitted to the event director no later than 30 minutes before the awards ceremony; final decisions are made by the event director and officials panel.",
+    "No earbuds or over-the-ear headphones are allowed; bone-conduction headphones are allowed.",
+    "The Race Director and race officials have ultimate authority to change, void or amend rules in unforeseen or extenuating circumstances; disregard or violation by a participant, crew or spectator may result in disqualification at their discretion."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 Official Rules 页正文（通用规则部分）",
+    "note": "2026-11-25 复核：读取 Safety and Medical、Support Crews、Course Integrity、Packet Pick-up、Timing and Results、Protests、Safety 耳机段、Enforcement 段。MTB 专属条款（头盔、车把等）不用于本站跑步页。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Safety and Medical Regulations 第 1 条。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Safety and Medical Regulations：IV fluids prohibited, immediate disqualification。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Support Crews and Outside Support 前两条。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Course Integrity 段：follow course, shortcuts not permitted, GPS backup, GPS files on event page。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "Timing and Results 段：timing mats、cutoff 后不计成绩、DNF report to timing。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "Packet Pick-up 段：photo ID、registered athletes only、未成年监护人在场。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-25", "note": "Safety and Medical Regulations：nearest aid station、911、follow officials。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-25", "note": "Protests and Appeals 段。" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-25", "note": "Safety 段 Headphone Policy。" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-25", "note": "Enforcement and Penalties 段。" }
+  ]
+}

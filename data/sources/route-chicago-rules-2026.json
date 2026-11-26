@@ -1,0 +1,62 @@
+{
+  "sourceId": "route-chicago-rules-2026",
+  "title": "Event Rules – Bank of America Chicago Marathon",
+  "url": "https://www.chicagomarathon.com/event-info/rules-safety/event-rules/",
+  "publisher": "Bank of America Chicago Marathon",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Bibs are personal identifiers and may not be exchanged, transferred or sold; entry fees and ancillary purchases are non-refundable and non-transferable, though an optional service fee buys a 100% refund for listed reasons; participants who cancel keep access to a guaranteed entry for the next event.",
+    "A participant who receives any assistance from another person may be disqualified; assistance includes conveying advice, information or direct/indirect help by any means including technical communication devices, and pacing by persons not officially participating. Officially designated Guide Runners, Support Runners and contracted pacesetters who start in the Event are excepted.",
+    "No person without an official bib may be on the course, and no participant may receive assistance or refreshment from anyone without event management permission; a participant who leaves the course may not rejoin to gain a place or to pace or assist another runner.",
+    "Music devices are permitted except for athletes competing for overall awards or prize money; headphones are not permitted for High Performance Program athletes. Selfie-sticks, camera mounts, video devices, computers and drones are prohibited; wheeled devices are limited to registered wheelchair/handcycle/duo participants and authorized bicycle marshals; hydration backpacks are prohibited, while fuel belts, handheld bottles and soft flasks are allowed.",
+    "The course time limit is 6:30 and the lead vehicle maintains a 15-minute-per-mile pace; runners outside the limit may not be recorded or published as official finishers. Professional divisions are ranked on gun time; all other participants are ranked on net time; appeals must be submitted within 14 days of event day.",
+    "Packets must be collected in person at the Abbott Health & Fitness Expo against photo identification; packets are not available on race day and are not mailed."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 event-rules 正文（Participant / Event day / Course monitoring / Result timing / Packet pick-up）",
+    "note": "crew/pacer 边界、禁用装备、计时口径与领物规则均在官方规则页正文中"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Participant：bib may not be exchanged/transferred/sold；fees non-refundable/non-transferable；optional refund insurance；cancel keeps next guaranteed entry"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Course monitoring：assistance 定义含 advice/info/help 与非官方陪跑；Guide/Support Runners 与 contracted pacesetters 例外"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Course monitoring：无 bib 不得在赛道；未经许可不得接受他人补给；离赛道后不得回赛道陪跑/协助"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Event day：音乐设备例外条款；HPP 禁耳机；自拍杆/支架/视频/电脑/无人机禁；带轮装置限制；水袋背包禁，腰包/手持/软水壶允许"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Result timing：6:30 关门；15-min/mi；非官方完赛；精英枪时，其余净计时；申诉 14 天"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Packet pick-up：本人凭照片 ID 在 Abbott Health & Fitness Expo 领取；比赛日不领物、不邮寄"
+    }
+  ]
+}

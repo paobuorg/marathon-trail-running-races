@@ -74,6 +74,11 @@ The 560 m start and the 1,680 m finish come from reports in two different years,
 
 The rhythm is therefore simple: three quarters climbing, one quarter descending.
 
+| Leg | Distance | Altitude profile | Aid points (km) |
+| --- | ---: | --- | --- |
+| Sierre → Chandolin | 11 km | Starts at 560 m, climbing toward Chandolin | Beauregard 4, Ponchette 7.5, Chandolin 12 |
+| Chandolin → Zinal | 20 km | Via Tignousa and Hôtel Weisshorn; 2,424 m high point about km 24, descending to Zinal 1,680 m | Tignousa 16, Weisshorn 20, Nava 24 (water only), Barneuza 27 |
+
 That is the main difference from long mountain ultras: no dozens of kilometres of rolling transitions and no repeated ups and downs.
 
 The 2,424 m high point comes at 24 km, with only 7 km left to the finish.
@@ -137,6 +142,12 @@ The course plan describes the junior course as 20 km from Chandolin to Zinal.
 
 The two figures differ by 1 km; both appear on official pages and both are kept here.
 
+| Category | Age | Start time | Timing and ranking basis |
+| --- | --- | --- | --- |
+| Runner | 18+, no upper limit | Women 10:30; mixed field 11:00–11:20 | Faster than 4:30; ranked and points-eligible |
+| Tourist | 10+, no upper limit | Waves 04:45–06:15 | Slower than 4:30; official time, no ranking, no ITRA/UTMB points |
+| Junior | 10–17 | — | Chandolin–Zinal; rules say 19 km / +800 / −1,100, course plan says 20 km |
+
 The history page says the Tourist category is unique to Sierre-Zinal, created so that people who simply want to run together and test themselves have a place.
 
 The same page sums up the philosophy as "the heart before the watch".
@@ -156,6 +167,14 @@ Poles are banned in every category.
 Headphones are banned too.
 
 Both are hard rules, not advice.
+
+| Item | Rule basis |
+| --- | --- |
+| Clothing | No apparel requirement; dress for conditions above 2,000 m |
+| Poles | Banned in every category |
+| Headphones | Banned |
+| Lighting | Tourist night starters may carry a torch or headlamp; the organiser provides no lamp deposit |
+| Shortcuts | Allowed only on the final descent, between two points of the marked route |
 
 The cut-offs are absolute clock times, not elapsed limits: Chandolin 10:40:59 for Tourist and 14:10:59 for Runner; Tignousa 12:00:59 and 14:40:59; Hôtel Weisshorn 13:30:59 and 15:20:59; finish 17:30:59.
 
@@ -204,6 +223,13 @@ Only two measures of elite density can be confirmed: the spread of the leading t
 The official records page gives the men's record as 2:25:34 by Kilian Jornet in 2024.
 
 The same page gives the women's record as 2:49:20 by Maude Mathys in 2019.
+
+| Category | Official record | Runner | Year |
+| --- | ---: | --- | --- |
+| Men | 2:25:34 | Kilian Jornet (ESP) | 2024 |
+| Women | 2:49:20 | Maude Mathys (SUI) | 2019 |
+| 2025 men's winner | 2:28:31 | Philemon Kiriago (KEN) | 2025 |
+| 2025 women's winner | 2:55:31 | Caroline Kimutai (KEN) | 2025 |
 
 Those are the figures the official records page currently uses.
 
@@ -315,6 +341,15 @@ The rules state that bracketed figures may change from edition to edition and be
 
 So 4,000, 2,100 and CHF 110 are figures from the current rule version, not confirmed values for 2027.
 
+| Category | Current-rule quota | Fee | Rule notes |
+| --- | ---: | --- | --- |
+| Tourist | 4,000 | CHF 110 (options excluded) | Personal, non-transferable, non-refundable |
+| Runner | 2,100 | CHF 110 (options excluded) | Same |
+| Junior (Chandolin–Zinal) | 250 | Not listed on the rules page | Separate 20 km race |
+| Children's race | 500 | Not listed on the rules page | Fee not listed |
+
+Article 23 also states that in principle no on-site registration is possible on race day for any category or event; residents of the Sierre district may pre-register free of charge, with a draw if the quota is exceeded.
+
 Article 26 lists what entry includes: a free shuttle from Sierre station to the start, a return bus from Zinal, transport of a belongings bag and a post-race meal.
 
 Article 25 says registration is personal and non-transferable and that entry fees are not refunded.
@@ -347,6 +382,11 @@ Compared with Sierre's 25.0/14.3 °C, 3.2 mm and 50.7%, the Zinal high-altitude 
 
 Zinal village is still below the 2,424 m course high point and does not represent Chandolin or the Weisshorn ridge; it is the highest reliable station used on this page, not course-wide data.
 
+| Station | Grid elevation | Mean daily max | Mean daily min | Mean precipitation | Days ≥1 mm |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| Sierre town centre | 533 m | 25.0 °C | 14.3 °C | 3.2 mm | 50.7% |
+| Zinal village | 1,640 m | 18.0 °C | 6.6 °C | 5.7 mm | 64.3% |
+
 The course climbs from 560 m in Sierre to 2,424 m and finishes at 1,680 m in Zinal, so neither station represents the whole course, especially the temperature, wind and rain near the high point.
 
 These are regional climate statistics, not organiser data and not measurements or a forecast for 7 August 2027.
@@ -359,6 +399,41 @@ This page uses one CC BY-SA 4.0 race photograph from Wikimedia Commons; the offi
 - **Cut-offs are absolute clock times:** Chandolin Tourist 10:40:59 / Runner 14:10:59; Tignousa 12:00:59 / 14:40:59; Hôtel Weisshorn 13:30:59 / 15:20:59; finish 17:30:59. Missing an absolute time means withdrawal; do not convert them to elapsed-time allowances.
 - **Bail-out points:** Chandolin, Tignousa, Hôtel Weisshorn and Zinal all have road, cable-car or village access. After Chandolin the course is high and exposed; do not cut down alone in bad weather. No unified sweep vehicle time is published, so it remains unknown.
 - **Risk:** cold, wind and thunderstorms above 2,400 m; quadriceps load on the final 7 km descent; and descending stability with poles banned. June can be 20 °C or near 0 °C on the ridge; this page does not treat Sierre town weather as 2,424 m weather.
+
+## Training conversion
+
+This is a 31 km mountain race, not an ultra; preparation centres on climbing, steep descents and short-endurance capacity, not the weekly volume framework of a 100-mile ultra. The mapping below uses only verified facts on this page and gives no individual training prescription.
+
+| Verified fact | Training direction | Site reference |
+| --- | --- | --- |
+| 31 km, +2,200 / −1,100 m, continuous climb over the first 24 km | Climbing endurance and mountain pace control | [Mountain path basics](/en/knowledge/hill-and-mountain-path-basics/), [Uphill and downhill running](/en/knowledge/uphill-and-downhill/) |
+| 2,424 m high point, final 7 km steep descent to 1,680 m | Downhill landing control and quadriceps tolerance | [Downhill running technique](/en/knowledge/downhill-running-technique/), [Altitude and running](/en/knowledge/altitude-and-running/) |
+| Elite pace scale: men's record 2:25:34, women's 2:49:20 | Race-pace endurance and race-day fuelling rhythm | [Race-day fueling](/en/knowledge/race-day-fueling/), [Race-day pacing](/en/knowledge/race-day-pacing/) |
+| Fast-changing weather above the high point, no mandatory kit list | Layer for conditions; check the ridge forecast before race day | [Trail gear](/en/knowledge/trail-gear/) |
+
+Decision branches:
+
+| If your preparation is | Then the corresponding judgment is |
+| --- | --- |
+| Flat-road long runs only, little mountain climbing | Build climb and descent work first; do not judge difficulty as a 31 km flat road race |
+| No training or racing above 2,000 m | Allow for altitude adaptation; prepare separately for ridge cold and wind |
+| Targeting the competitive Runner category | Pace yourself against the records and category cut-offs, not the Tourist cut-off |
+| Weak downhill strength | Build downhill strength and landing control before rehearsing the final 7 km descent |
+
+## Race-day execution card
+
+The table lists only officially verified nodes, actions and constraints; unconfirmed shuttle times are not filled in.
+
+| Node | Verified action | Key constraint |
+| --- | --- | --- |
+| Before the start | Reach the welcome zone at least 45 minutes before your start | Tourist shuttle 03:30–05:45, Runner shuttle 09:30–10:45, every 10 minutes (2026 edition basis) |
+| Beauregard 4 km / Ponchette 7.5 km | Water points; supply limited by logistics, use reasonably | Do not hoard water between the two |
+| Chandolin 12 km | First cut-off point | Tourist 10:40:59 / Runner 14:10:59; missing the time means withdrawal |
+| Tignousa 16 km | Cut-off point | 12:00:59 / 14:40:59 |
+| Hôtel Weisshorn 20 km | Cut-off near the high point | 13:30:59 / 15:20:59; wind chill and fatigue are tightest here |
+| Nava 24 km | Water only | Limited supply on the descent |
+| Barneuza 27 km | Aid point | About 4 km to the finish |
+| Zinal finish | Cut-off 17:30:59; entry includes post-race meal and bag transport | Return bus runs under official arrangements; unconfirmed times are not filled in |
 
 ## Images and rights
 
@@ -396,3 +471,10 @@ Unverified: the 2027 fee and quota allocation; the 2027 start and elite lists; 2
 18. Open-Meteo ERA5 reanalysis (Zinal village, 46.1343 N, 7.6287 E, 1,640 m, same 300-day window, CC BY 4.0): https://archive-api.open-meteo.com/v1/archive?latitude=46.13426&longitude=7.62868&elevation=1640&start_date=2016-06-01&end_date=2025-06-30&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Europe%2FZurich
 19. Official rules Articles 20–21 (seven aid stations, limited water at Beauregard/Ponchette, Runner/Tourist absolute cut-offs, 17:30:59 finish): https://www.sierre-zinal.com/en/rules-regulations-340.html
 20. Wikimedia Commons photograph `photo-sierre-zinal-2022` (Kílian Jornet on the 2022 course; author Christian David; CC BY-SA 4.0; taken 2022-08-13; rechecked via API and thumbnail on 2026-11-20): https://commons.wikimedia.org/wiki/File:K%C3%ADlian_Jornet_-_Sierre-Zinal_2022.jpg
+
+<!-- related-ring -->
+## Related entries
+
+- [Tor des Géants 330: a Courmayeur alpine loop](/en/routes/tor-des-geants/)
+- [Transgrancanaria Classic 126 km: the full island traverse explained](/en/routes/transgrancanaria/)
+- [Val d'Aran by UTMB: the VDA 163 km course explained](/en/routes/val-daran/)

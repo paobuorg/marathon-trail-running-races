@@ -70,6 +70,20 @@ The same page's meta description separately states "Pilolcura 100K ofrece 6 tick
 
 **The 2027 field is inside the series**: the race page is already the 2027 edition (2027-06-24, registration link to the 2027 event ID). The series explainer page still contains a 2024 Major list and the words "En 2024"; this page cites only its three-level structure, not its year-specific passages.
 
+## Entry and eligibility: 2027 registration open, qualification and index rules
+
+The 2027 entry page is open; runner check-in runs 24–26 June 2027. The pickup location and exact times belong to the 2027 runner guide and are unknown here. The race page sidebar reads Running Stones 3 / Finals Access.
+
+| Entry item | Verified figure | Unverified / evidence insufficient |
+| --- | --- | --- |
+| Registration status | 2027 entry page open (official race and entry pages) | Ballot versus first-come allocation |
+| Qualification places | Top 3 women and men in the 100K qualify automatically for CCC (English text); the Spanish text adds that top 3 in 100K and 50K qualify for CCC® and OCC® respectively | The organiser's merged wording across the three formulations (3 Stones / six qualifiers / six UTMB tickets) |
+| Performance threshold | The pages read do not list a UTMB Index score or prior-finish requirement | Whether an index or prior finish is an entry condition is not evidenced here and is not invented |
+| Pickup | Check-in 24–26 June (entry page) | Pickup location, times and item-by-item mandatory kit list |
+| Fee | The entry page carries a price field (amount not transcribed here) | Fee tiers, refund and transfer terms |
+
+Pilolcura 100K is a winter night 100 km; before entering, assess your own long-distance and night-trail experience. Any performance threshold follows the 2027 runner guide and entry page.
+
 ## The official distance and climb figures
 
 | Basis | Distance | Gain / loss |
@@ -165,6 +179,20 @@ Other regulation points that affect equipment:
 
 *Figure 4 | Self-made 22-hour window (24 November 2026). The total window is arithmetic from the 22-hour header; the four grey cells are leftover 2026-06-28 (Sunday) data on the official page and cannot fit a Thursday 22:00 start in 2027, so they are not used as 2027 cut-offs. Not an elevation profile or course map.*
 
+## Timing and cut-offs: 22-hour window, per-point barriers unpublished
+
+The header states "Tiempo máximo permitido 22 Horas". Counting from the 22:00 start on 24 June 2027, the overall limit falls at 20:00 on Friday 25 June 2027; that is arithmetic from the total limit, not an official checkpoint table.
+
+| Timing item | Figure | Note |
+| --- | --- | --- |
+| Overall limit | 22 hours (header) | 22:00 start → 20:00 finish cut-off next day (derived) |
+| Per-point cut-offs | Unknown | The regulations place main-checkpoint barriers in the runner guide and event website; no 2027 guide was available as of 8 November 2026 |
+| Legacy data | Four "Barrera horaria" cells carry 2026-06-28 (Sunday) | Inconsistent with a Thursday 22:00 2027 start; recorded as 2026 leftover, not used as 2027 cut-offs |
+| Slowest reference | The "Más lento" column gives a slowest reference time per point | Labelled a slowest reference, not a barrier; pacing reference only |
+| Withdrawal transport | Regulations provide repatriation to the finish from aid stations | Exact procedure belongs to the runner guide; signal coverage along the course unverified |
+
+Until per-point barriers are published, pacing can only follow the 22-hour total window and the distances between the 12 official points; do not treat the 2026 legacy times or third-party pace tables as 2027 rules.
+
 ## Getting there
 
 The official transport page covers only flights, driving and long-distance buses, and every time is an operator reference:
@@ -205,6 +233,41 @@ The organiser publishes no difficulty grade. **This site's grade**: a demanding 
 - The profile oscillates between near-sea-level points (Quitaqui 3 m, Casa Manns 9 m) and 630 m at Pililín; the profile metadata separately states a 1 m minimum and a 701 m maximum.
 - Per-checkpoint cut-offs are not yet provided on the official pages, so pacing carries more uncertainty than in a normal race.
 
+## Training transfer
+
+Pilolcura 100K is a 101 km, about 4,100 m climb, 22-hour winter night point-to-point trail. Its difficulty lies in night running, winter rain, slippery rock and forest terrain rather than high altitude. The table breaks the demands into trainable abilities; it lists directions, not an official plan.
+
+| Ability | Course demand | Preparation direction |
+| --- | --- | --- |
+| Long-distance endurance | Finish 101 km point-to-point inside 22 hours | Extend continuous running time gradually, keeping one session near 100 km or 50 mile mountain scale |
+| Night running | 22:00 start, main sections in darkness | Do night runs; practise forest and rock navigation under headlamp, following [night running and traffic](/en/knowledge/night-running-and-traffic/) |
+| Cold and wet | The organiser writes rocky and slippery trails, winter rain | Practise wet-downhill footwork and layered rain clothing per [cold-weather running](/en/knowledge/cold-weather-running/) |
+| Climb and repeated up-down | About 4,100 m, repeated between near-sea-level lows and 630–701 m | Build vertical load on mountain sessions; practise the rhythm of dropping to an estuary and climbing back |
+| Long-gap fuelling | 18.6 km without hot food between Las Truchas 1 and Oncol | Train station-to-station eating and self-carried utensils per [fueling long runs](/en/knowledge/long-run-fueling/) |
+| Downhill tolerance | Coastal range dropping toward the Pacific on slippery rock | Add downhill running and quad strength; do not force wet descents |
+
+A [track viewer](/en/tools/track-view/) can read a file you provide, and the [split pace tool](/en/tools/splits/) plans segments; the tools do arithmetic and file reading only and do not replace winter night-trail mileage.
+
+## Race-day execution card
+
+The table follows the main phases among the 12 official points; 2027 per-point cut-offs are unpublished, so only the total window is referenced. Pacing notes are editorial judgement, not official split targets.
+
+| Phase | Distance | Execution notes | Reference |
+| --- | ---: | --- | --- |
+| Opening night | 0–6.1 km | 22:00 start, headlamp on; Las Truchas 1 is drink only | 22 h total window |
+| Oncol main climb | 6.1–24.7 km | 18.6 km without hot food, carry food before the gap; hot food, toilets, power and rest at Cafetería Oncol | Longest no-hot-food gap |
+| Ridge to estuary | 24.7–52.1 km | Pililín, Quitaqui, Casa Manns; Casa Manns is the only drop-bag point | Drop bag here |
+| Second climb and forest | 52.1–73.0 km | El Canelo climbs back to 490 m; hot food at Las Truchas 2 | — |
+| Finish to Valdivia | 73.0–101.5 km | Potreros, Espacio Bayo, El Castaño; the final section converges on the city finish around dawn | Finish after 22 h |
+
+Before the start, follow the semi-autonomy rule: carry your own fluids, food and weather gear between stations; food at stations is eaten on site and cups/utensils are your own; poles, if carried, stay with you the whole race; no headphones for music; use only the organiser's drop bag. The item-by-item kit list follows the 2027 runner guide; this page lists no specific items. To drop, register with staff at an aid station for repatriation; do not leave the marked route to find your own way.
+
+## Results and course changes: 2027 not held, change history unverified
+
+As of the 8 November 2026 verification date, the 2027 edition has not been held; this page has no 2027 results, finish rate or rankings, and the official results page has not published a 2027 list. 2026 checkpoint cut-offs and results cannot be carried over to 2027; this page only flags the leftover 2026-06-28 cells on the official page as data to check.
+
+On course changes, prior runner guides were not obtained and the change history is unverified. This page has no logged official reroute, rescheduling or rule change; the entity's `courseChanges` array is empty, which is not written as "no changes". The 2027-specific GPX is not yet published; whether the file linked on the official page matches the 2027 course follows the pre-race runner guide and course markings on the day.
+
 ## Verified and unverified
 
 This page has not run the course, so it separates the two:
@@ -230,3 +293,10 @@ This page does not host the GPX and draws no official course line. Neither the o
 - Every number in the body comes from the official pages and files listed above, or from the Open-Meteo grid. Derived values (per-segment gain and loss, the finish time implied by the 22-hour limit) are labelled where they appear.
 - The three Commons source pages: [Parque Oncol-mirador y bosque](https://commons.wikimedia.org/wiki/File:Parque_Oncol-mirador_y_bosque.jpg) (Lin linao, CC BY-SA 3.0, 2007-11-11), [Cerro Oncol-lluvia](https://commons.wikimedia.org/wiki/File:Cerro_Oncol-lluvia.jpg) (Lin linao, CC BY-SA 3.0, 2007-11-11), [Vista de Valdivia (Puente PdeV, 01)](https://commons.wikimedia.org/wiki/File:Vista_de_Valdivia_(Puente_PdeV%2C_01).jpg) (Draceane, CC BY-SA 4.0, 2019-01-24).
 - This is the English edition; it was checked on the same day as the Chinese edition and the two carry the same figures.
+
+<!-- related-ring -->
+## Related entries
+
+- [UTA100: 101 km in the Blue Mountains, with every UTA distance kept apart](/en/routes/ultra-trail-australia/)
+- [Beijing Marathon: Tiananmen Square to the Olympic Park Landscape Avenue](/en/routes/beijing/)
+- [Berlin Marathon: the complete 2026 course guide](/en/routes/berlin/)

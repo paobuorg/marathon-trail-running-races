@@ -80,6 +80,18 @@ Black Canyon Ultras 在亚利桑那州中部的 Black Canyon National Recreation
 - 这是**官方几何入口**（`geometryAccess=official-link`），但不是**静态路线图入口**；本页不把它计入 19 条无几何路线的静态图统计。
 - 官方页另有 `100K Elevation Profile` 标题，但本轮没有在该标题下取得独立可下载的图片/PDF 文件；本页不把标题当作剖面文件入口。
 
+## 赛道与几何：分段走向与三套距离口径
+
+赛道在 Black Canyon National Recreation Trail 上总体向南、点对点：100K 从 Mayer High School 到 Emery Henderson Trailhead，50K 跑同一线路前半段到 Deep Canyon Ranch。路线在三个点离开主 BCT：Bumble Bee Ranch、Deep Canyon Ranch（经 Kay Mine Road 回主线）、Black Canyon City 的 out-and-back。除官方分段表外，距离与爬升存在三套口径，并列保留、不取平均：
+
+| 口径 | 距离 | 累计爬升 | 累计下降 | 来源层级 |
+| --- | --- | ---: | ---: | --- |
+| Key Stats（卡片采用） | 62.2 mi / 100.1 km | +5,219 ft / 1,591 m | −7,337 ft / 2,237 m | A 层官方 |
+| Strava 嵌入卡 | 62.7 mi | +5,254 ft | 未列 | A 层官方页内另一组 |
+| ITRA 2027 | 99.90 km | +1,610 m | −2,260 m | B 层对照 |
+
+几何权利口径：2027 官方页地图位为 Strava 路线嵌入加 CalTopo 外链，没有 `.gpx`/`.kml` 直链；本轮未取得可直下轨迹文件。`geometryAccess` 记为 `official-link`，本页只外链、不托管、不重绘；Strava 与 CalTopo 能否导出取决于各自账号会话，再分发条款未核。
+
 ## 3. 补给、关门与 50K 的三波
 
 100K 官方补给表：
@@ -221,6 +233,38 @@ Crew 只允许在 Bumble Bee Ranch、Deep Canyon Ranch、Table Mesa 三个点；
 
 这些数字是训练与配速参考，不是官方分段；官方只给关门，不给目标时间。
 
+## 训练转化：100K 沙漠峡谷备赛
+
+Black Canyon 100K 的难点是前 20 英里下坡易跑爆、mile 28–45 反复穿峡谷的陡降与碎石、后段集中爬升，以及二月下午的高温、雷暴或降雪。备赛核心是下坡控制、峡谷碎石路段耐受与昼夜温差适应，而不是单纯堆平路跑量。通用方法见 [越野超马训练计划](/knowledge/trail-ultra-training-plan/)、[高温与湿度](/knowledge/heat-and-humidity/)、[长距离补给](/knowledge/long-run-fueling/) 与 [负荷与过度训练](/knowledge/load-and-overtraining/)。
+
+| 备赛阶段 | 重点 | 可执行内容 | 对应本站约束 |
+| --- | --- | --- | --- |
+| T-16 至 T-10 周 | 山地有氧底盘 | 每周 1 次山地长距离加轻松跑，积累下坡与碎石路经验 | 前 20 英里快，需要能压住配速的有氧基础 |
+| T-10 至 T-6 周 | 长距离与技术段 | 长距离拉到 60–80 km，安排峡谷碎石与台阶路段演练 | mile 28–45 陡降、碎石技术路集中在后段 |
+| T-6 至 T-2 周 | 补给与昼夜温差 | 测试 cupless 自带杯/瓶与补水补盐；模拟清晨低温与午后热段 | 清晨约 0–4 °C，下午可能热；夜段需灯光 |
+| T-2 至比赛 | 减量 | 缩短距离与爬升，保留短节奏；不试新鞋新装备 | 赛前疲劳留到赛前恢复，参考 [减量与力量](/knowledge/strength-and-taper/) |
+
+边界：这是通用备赛框架，不构成医疗建议；有心肺基础疾病或近期伤病者先咨询医生。17 小时 WSER 资格线与 20 小时赛道关门是两条不同的线，备赛目标应分开设定。
+
+## 比赛日执行卡：前 20 英里克制与夜间灯光
+
+| 阶段 | 里程窗口 | 节奏与补给 | 检查项 |
+| --- | --- | --- | --- |
+| 起点—Bumble Bee | 0–19.4 mi | 压住下坡，不在 Antelope Mesa、Hidden Treasure 段跑爆 | 对照三波关门；Bumble Bee 是首个 crew 与 drop bag 点 |
+| Bumble Bee—Deep Canyon | 19.4–31.9 mi | 控制峡谷段配速；主站补热食 | pacer 从 Deep Canyon（31.9）开始；drop bag 可用 |
+| Deep Canyon—BCC | 31.9–37.2 mi | 完成 Black Canyon City out-and-back，不可跳过 | 跳过折返没有成绩；mile 34 过溪看水量 |
+| BCC—Table Mesa | 37.2–51.1 mi | 夜间段按灯光方案推进；Table Mesa 可换人 | 灯光放哪一个 drop bag 按目标完赛时间选择 |
+| Table Mesa—终点 | 51.1–62.3 mi | 后段爬升与疲劳腿上稳节奏 | 终点无停车，crew 坐 Anthem 接驳 |
+
+| 红旗信号 | 现场处置 | 边界 |
+| --- | --- | --- |
+| 头晕、恶心、心慌、抽筋加重、热不适 | 降温、补盐补水，必要时进站呼叫医疗 | 本站不诊断；医疗由 MedStar Solutions 现场评估 |
+| 峡谷水位上涨、雷声临近 | 停止前进、进站避险，服从工作人员安排 | 本站不提供洪水或雷电现场指挥 |
+| 视力模糊、头灯故障、失温 | 进站休整、更换装备，必要时退赛 | 夜段无照明继续行进有安全风险 |
+| 到达站点已逼近关门 | 评估后续路段与余量，必要时退赛 | 退赛在补给站报 bib、交芯片/号码布 |
+
+Crew 与 pacer 安排框架见 [crew 与 pacer 规划](/knowledge/crew-and-pacer-planning/)；配速对照见 [配速工具](/tools/pace/) 与 [分段工具](/tools/splits/)。
+
 ## 9. 报名与资格
 
 - **100K**：20 小时比赛关门；17 小时内完赛才进 WSER 抽签。两者分开：17 小时是资格线，20 小时是赛道关门。
@@ -309,3 +353,10 @@ Strava 路线嵌入与 CalTopo 地图属于 Strava、CalTopo 与数据提供方�
 15. Commons：Black Canyon 峡谷，BLM Arizona / Chris Wonderly，Public domain：`https://commons.wikimedia.org/wiki/File:Black_Canyon_National_Recreation_Trail_(52633877433).jpg`
 
 未核实保留：官方 GPX 直链、医疗/收容细节、2027 精英与奖金、抽签与退款条款。
+
+<!-- related-ring -->
+## 相关条目
+
+- [布宜诺斯艾利斯马拉松 2026：42.195 km 城市平地、分批出发与 6 小时硬关门](/routes/buenos-aires/)
+- [Canyons Endurance Runs by UTMB：100 公里穿越 Western States Trail 到 Auburn](/routes/canyons/)
+- [开普敦马拉松：2027 起成为大满贯的非洲双起点城市赛道](/routes/cape-town/)

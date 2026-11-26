@@ -1,0 +1,55 @@
+{
+  "sourceId": "route-london-gfa-2026",
+  "title": "Good for age entry – TCS London Marathon",
+  "url": "https://www.tcslondonmarathon.com/enter/how-to-enter/good-for-age-entry",
+  "publisher": "London Marathon Events",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Good For Age entry is open only to UK residents; the qualifying period is 1 October 2024 to 30 September 2025.",
+    "2026 Good For Age places are capped at 6,000 (3,000 men and 3,000 women); meeting the qualifying time only gives the opportunity to apply, and places are allocated fastest-first relative to age and qualifying time.",
+    "Published 2026 qualifying times: 18-39 men sub 2:52 / women sub 3:38; 40-44 2:57 / 3:43; 45-49 3:02 / 3:46; 50-54 3:07 / 3:53; 55-59 3:12 / 3:58; 60-64 3:34 / 4:23; 65-69 3:52 / 4:53; 70-74 4:52 / 5:53; 75-79 5:07 / 6:13; 80-84 5:27 / 6:38; 85-89 6:10 / 7:10; 90+ 7:20 / 7:45.",
+    "Qualifying times must come from an in-person certified marathon course (UKA, AIMS or national governing body); a MyWay-only qualification additionally requires an in-person half-marathon evidence time.",
+    "Applicants must provide a results webpage link, proof of age and proof of UK residence; GFA places cannot be deferred except for pregnancy or postpartum."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 tcslondonmarathon.com/enter/how-to-enter/good-for-age-entry 正文与资格时间表",
+    "note": "资格表、名额上限与居住限制均在页面正文中；页面标注 2027 信息秋季公布，表为 2026 参考口径"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：“Only UK residents are eligible to apply”；qualifying period 1 Oct 2024–30 Sep 2025"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：capped at 6,000 (3,000 men, 3,000 women)；fastest-first；达标不保证名额"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "页面 2026 Qualifying Times 表逐行核对"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：certified by UKA, AIMS or national governing body；MyWay 需另附半马成绩"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "FAQ：results link、proof of age、proof of UK residence；不可延期（孕产除外）"
+    }
+  ]
+}

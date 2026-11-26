@@ -1,0 +1,97 @@
+{
+  "sourceId": "route-paris-2026-rules",
+  "title": "Schneider Electric Marathon de Paris 2026 — Sports Rules and General Terms of Sale (official PDF, English)",
+  "url": "https://storage-aso.lequipe.fr/ASO/publicEvents_mar/reglement-semp-26-uk-250520.pdf",
+  "publisher": "A.S.O. (Amaury Sport Organisation)",
+  "publishedAt": "2025-05-20",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 49th edition of the Schneider Electric Marathon de Paris was organised on 12 April 2026 by A.S.O.; the route is 42.195 km run on closed roads in Paris under World Athletics road-race regulations.",
+    "Participants must be born in 2006 at the latest (rules 1.2); foreign federation license holders must still provide one of the listed supporting documents.",
+    "Since the document requirement is a Health Prevention Pathway number (PPS, Attestation PPS), an FFA license or another federation license; the PPS certificate is valid for 3 months; if the PPS refers the runner to a doctor, a medical certificate less than 1 year old in FR/EN/ES/DE/IT/PT is required; documents must be uploaded to the timeto account no later than 7 days before the event, otherwise handed over at bib collection.",
+    "Registration opens 22 April 2025 for pre-registrants and 24 April 2025 for the general public on the timeto platform; registration is personal, firm and final, and may not be reimbursed unless the rules stipulate otherwise.",
+    "The registration fee is paid in the fee table published with the rules; the fee table in the English PDF was not machine-readable during this check and the price brackets are not reproduced as verified figures.",
+    "Timing chips are placed at the start, finish, KM 1, KM 21.1 and every 5 km; the chip is on the bib and cannot be handed to another runner.",
+    "The event organises Elite, Preferential and Red waves; runners in those waves must first register in the base Yellow wave and then email proof of a performance less than 4 years old to parismarathon@aso.fr; the wave change deadline is roughly 2 months before the event.",
+    "Feeding points are set up approximately every 5 km plus a post-finish station; runners must use their own personal container because single-use containers are not distributed (Ville de Paris restriction).",
+    "The maximum allowed time is 6 hours from the last participant crossing the start line; runners overtaken by the end-of-event system are withdrawn, not ranked and receive no medal.",
+    "Registration is personal and firm and final; the rules contain no general bib-transfer or carry-over clause; package travel services sold by V.S.O. may be transferred under the rules, but the bib itself is non-transferable.",
+    "Cancellation is refunded under the rules only for the listed force-majeure cases; the Pass Event FFA cancellation insurance covers death, accident or illness, family events, visa refusal, theft of identity papers within 48 h before the event, and court summons; other sums paid are not refunded."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 分页读取官方英文规则 PDF（reglement-semp-26-uk-250520.pdf）全文",
+    "note": "PDF 正文可读；1.5.2 费用分档表以图片/表格形式存在，文本抽取未取到，故费用分档不作为已核实数字写入正文。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "规则前言与 1.1：49th edition, 12 April 2026, A.S.O.；路线 42.195 km，封闭道路，按 World Athletics 规则。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "规则 1.2：2006 年及以前出生；持外国执照者仍须提交规则列明的证明文件之一。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "规则 1.3：PPS 编号/FFA 执照/其他联盟执照；PPS 有效期 3 个月；转诊时需 1 年内医疗证明（FR/EN/ES/DE/IT/PT）；最迟赛前 7 天在线上传，否则领物时提交。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "规则 1.5.1：2025-04-22 预登记、2025-04-24 公众开放；报名 personal, firm and final。"
+    },
+    {
+      "index": 4,
+      "status": "partial",
+      "checkedAt": "2026-11-25",
+      "note": "费用分档表在 PDF 中未被文本抽取；正文不引用具体档位价格，2026 报名费以 FFA 目录与第三方回顾旁证。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "规则 1.6：芯片位于起点、终点、KM1、KM21.1 与每 5 km；芯片在号码布上，不可转交。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "规则 1.3.3：精英/优先/红区须先注册黄区，再凭 4 年内成绩证明发邮件申请；换区截止约赛前 2 个月。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "规则 1.7：约每 5 km 一个补给点，终点后另有补给；巴黎市限制一次性塑料，要求自备容器。"
+    },
+    {
+      "index": 8,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "规则 1.9：自最后一名选手越过起点起 6 小时；被收尾车超过者取消排名、不发奖牌。"
+    },
+    {
+      "index": 9,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "规则 1.5.1 与 1.11：报名个人、确定、最终；规则未设号码布转让条款；V.S.O. 旅行服务可按规则转让，号码布本身不可转让。"
+    },
+    {
+      "index": 10,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "规则 1.11 与 4.2：不可抗力下可选择换人/延期/退还报名费（不含其他款项）；Pass Event FFA 保险覆盖列明理由。"
+    }
+  ]
+}

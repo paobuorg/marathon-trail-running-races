@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-boston-history",
+  "title": "History of the Boston Marathon (BAA)",
+  "url": "https://www.baa.org/races/boston-marathon/history/",
+  "publisher": "Boston Athletic Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The Boston Athletic Association was established in 1887.",
+    "The first Boston Marathon was run on 19 April 1897; John J. McDermott of New York won from a 15-member starting field in 2:55:10, from Metcalf's Mill in Ashland to the Irvington Oval near Copley Square.",
+    "Roberta Gibb was the first woman to run the Boston Marathon in 1966, finishing in 3:21:40; Kathrine Switzer was the first woman to complete with a bib number in 1967; the women's division was officially established in 1972.",
+    "The Boston Marathon officially recognized a wheelchair division in 1975 with Bob Hall, who finished in two hours 58 minutes.",
+    "The 124th Boston Marathon (2020) was postponed from April and held as a fully virtual event with a September 5-14 completion window; the 125th (2021) was the first fall edition of the race."
+  ],
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "History 时间线：1887 The Boston Athletic Association was established。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "The First Boston Marathon - April 19, 1897 段：15-member starting field；McDermott 2:55:10；Metcalf's Mill Ashland → Irvington Oval。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Women Run to the Front 段：Gibb 1966 3:21:40；Switzer 1967 持 bib；women's division official 1972。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Wheelchair 段：1975 recognized Bob Hall，2:58。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "124th（2020）postponed、fully virtual、Sept 5–14 完成窗口；125th（2021）为 910 天来首届秋季比赛。" }
+  ],
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 BAA 历史页",
+    "note": "HTTP 200；1897 首届、女子与轮椅组别沿革、2020/2021 两届特殊举办方式均可读。"
+  },
+  "license": null
+}

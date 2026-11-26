@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-dbr-ourea-legacy",
+  "title": "Ourea Events legacy event page — Dragon's Back Race history, ranges and navigation basis",
+  "url": "https://www.oureaevents.com/events/dragons-back-race",
+  "publisher": "Ourea Events (former organiser, legacy page)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The race was revived by Ourea Events in 2012, twenty years after the legendary 1992 race in which the inaugural 'dragons' first took on Wales' wild, trackless, remote mountain terrain.",
+    "The route follows the rugged spine of Wales north to south, crossing the Brecon Beacons, Cambrian Mountains, Rhinogs, Moelwyns and Snowdonia.",
+    "Navigation is unmarked and self-supported within race safety frameworks, demanding constant decision-making, mountain judgement and relentless forward momentum over six punishing days.",
+    "The legacy page describes six days from Conwy Castle to Cardiff Castle, 380 km with an average daily distance of 63 km, and an older ascent figure of 17,400 m."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 Ourea 遗留赛事页正文",
+    "note": "2026-11-25 复核：Ourea 已于 2026 年进入管理程序、赛事由 Ultra X 接手；遗留页 17,400 m 为旧口径，现行官网为 16,400 m，两者分属不同版本，不取平均。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "首段：revived by Ourea Events in 2012, twenty years after the 1992 race。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "首段：Brecon Beacons, Cambrian Mountains, Rhinogs, Moelwyns, Snowdonia。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "首段：Navigation is unmarked and self-supported within race safety frameworks。" },
+    { "index": 3, "status": "partial", "checkedAt": "2026-11-25", "note": "概览段：Six days, Conwy Castle to Cardiff Castle, 380km, average 63km/day；17,400m 为遗留页旧爬升口径。" }
+  ]
+}

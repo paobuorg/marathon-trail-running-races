@@ -4,26 +4,35 @@
   "url": "https://www.comrades.com/blogs/kusche-and-steyn-shatter-records-and-cash-in-at-2026-comrades-marathon",
   "publisher": "Comrades Marathon Association (CMA)",
   "publishedAt": "2026-06-16",
-  "accessedAt": "2026-11-08",
+  "accessedAt": "2026-11-26",
   "claims": [
-    "George Kusche won the 2026 men's race in 5:15:56, breaking the previous Up Run record of 5:24:49 set by Leonid Shvetsov in 2008.",
-    "Gerda Steyn won the 2026 women's race in 5:44:53, improving her own women's Up Run record of 5:49:46 set in 2024.",
-    "The 2026 route was 85.777 km, 133 metres shorter than in 2024 and the shortest Up Run distance in recorded history.",
-    "The 2026 race was the 99th edition of the Comrades Marathon and the 50th Up Run, with 18,523 finishers.",
-    "Both 2026 winners earned R2,322,000 each, including first-place prize money, first South African bonus, Up Run record incentive and Best Average Pace bonus."
+    "The 2026 Comrades Marathon was run on Sunday 14 June 2026 in Pietermaritzburg, South Africa, the 99th edition and the 50th Up Run, from Durban to Pietermaritzburg.",
+    "George Kusche won the 2026 men's race in 5:15:56, breaking the previous Up Run record of 5:24:49 set by Leonid Shvetsov (Russia) in 2008; his average pace was 3:40.99 per kilometre, beating the Best Average Time of 3:43.75/km set by Vladimir Kotov in 2000.",
+    "Men's top five: 2nd Piet Wiersma (Netherlands) 5:19:36, 3rd Mbuti Mollo (South Africa) 5:21:31, 4th Alex Milne (Great Britain) 5:22:29, 5th Haruki Okayama (Japan) 5:24:46.",
+    "Gerda Steyn won the 2026 women's race in 5:44:53, improving her own women's Up Run record of 5:49:46 set in 2024; her average pace was 4:01.24 per kilometre, beating her own 2024 best of 4:04.28/km.",
+    "Women's top five: 2nd Nobukhosi Tshuma (Zimbabwe) 5:53:36, 3rd Irvette van Zyl (South Africa) 6:02:30, 4th Shelmith Muruiki (Kenya) 6:06:38, 5th Naomi Robinson (Great Britain) 6:07:55.",
+    "The 2026 route was 85.777 km, 133 metres shorter than in 2024 and the shortest Up Run distance in recorded history; there were 18,523 finishers.",
+    "Each 2026 winner earned R2,322,000 in total, comprising R925,000 first-place prize money including the Cell C top-up, R242,000 as the first South African finisher, a R605,000 Up Run record incentive bonus, and the R550,000 Cell C average-pace incentive bonus.",
+    "Steyn recorded her third Up Run victory and fifth Comrades title overall (three Up, two Down); she became only the second woman after Elena Nurgalieva (eight wins) to win the Comrades Marathon five times.",
+    "The official results portal results.finishtime.co.za was behind a bot verification check at access time and could not be read; the podium and top-five figures above are transcribed from the CMA official post-race blog."
   ],
   "license": null,
   "verification": {
     "access": "direct",
     "bodyRead": true,
-    "checkedAt": "2026-11-08",
-    "note": "2026-11-08 直取 CMA 2026 赛后官方博客，抄录 Up Run 男女纪录、85.777 km、99 届/第 50 次 Up Run、18,523 完赛人数；同日尝试官方成绩门户 results.finishtime.co.za，被机器人校验挡住，未能读取；女子 Down 5:44:54 与 Up 5:44:53 分别由 CMA Race Information 页和本赛后稿确认。"
+    "checkedAt": "2026-11-26",
+    "checkedVia": "WebFetch 重读 CMA 2026 赛后官方博客全文，核对名次、配速、奖金构成与夺冠次数",
+    "note": "名次、时间、国别、配速与奖金分项均在官方博客正文；官方成绩门户被机器人校验挡住，未能读取，故不引用门户内其他名次。"
   },
   "claimVerification": [
-    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Kusche won the men’s race in 5:15:56, shattering the previous Up Run Record of 5:24:49, which was run in 2008 by Russian Leonid Shvetsov'。" },
-    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Steyn... 5:44:53... well inside her own race record for the women’s Up Run of 5:49:46, which she set by in 2024'。" },
-    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'With the route being 85.777km long, which was 133 metres shorter than in 2024 and the shortest route distance in recorded history for the Up Run'。" },
-    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'the 99th edition of The Ultimate Human Race, and 50th edition of the Up Run'；'the rest of the 18,523 finishers of the 2026 race'。" },
-    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'both walk away with over R2-million... took their individual winnings to R2,322,000 each'。" }
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-26", "note": "导语：Pietermaritzburg；Sunday, 14 June；99th edition；50th Up Run；Durban to Pietermaritzburg。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-26", "note": "男子段：Kusche 5:15:56；Shvetsov 2008 5:24:49；3:40.99/km；Kotov 2000 3:43.75/km。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-26", "note": "Top 10 Men 表与正文：Wiersma 5:19:36；Mollo 5:21:31；Milne 5:22:29；Okayama 5:24:46。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-26", "note": "女子段：Steyn 5:44:53；自有 2024 纪录 5:49:46；4:01.24/km；2024 4:04.28/km。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-26", "note": "女子名次：Tshuma 5:53:36；van Zyl 6:02:30；Muruiki 6:06:38；Robinson 6:07:55。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-26", "note": "正文：85.777 km；133 m shorter than 2024；shortest Up Run in recorded history；18,523 finishers。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-26", "note": "奖金段：R2,322,000 each；R925,000 first-place incl Cell C top-up；R242,000 first SA；R605,000 record incentive；R550,000 average pace bonus。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-26", "note": "女子段：third Up Run victory；fifth overall（3 Up, 2 Down）；second woman after Nurgalieva (8 wins) to win five times。" },
+    { "index": 8, "status": "unsupported", "checkedAt": "2026-11-26", "note": "results.finishtime.co.za 被机器人校验拦截，门户内成绩未读取；本条为访问状态说明，不承载数字结论。" }
   ]
 }

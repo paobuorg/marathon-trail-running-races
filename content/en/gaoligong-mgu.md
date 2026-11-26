@@ -19,7 +19,7 @@ translationStatus: reviewed
 - Course geometry: **no usable official track**. The regulations require MGU runners to load the GPX onto a phone and keep it powered, but no public download link, licence or copyright statement was found. This page draws no track and hosts no file; the map shows a town-level anchor for Tengchong, not the Yanhu Park start line.
 - Course-change check: no past-edition official handbook was obtained, so the course-change history is unverified. The 2026 edition introduced a CP7 decision point allowing MGU runners to drop to RCE; that is a **rule change**, not a course change, so it is not recorded in `courseChanges`. The field is empty, which does not mean the route never changed.
 - Next edition: a July 2026 public reply from the Tengchong education and sports bureau says promotion and bidding for the 2027 Gaoligong Ultra have started, but gives no date, race list or entry information. This page does not extrapolate.
-- Sources: nine sources cover the 2026 official regulations, the Tengchong government reply, a geocode, Open-Meteo historical weather, the Mangshi airport coach, the ITRA 2026 results and the Commons pages for three location photographs.
+- Sources: ten sources cover the 2026 official regulations, the Tengchong government reply, a geocode, Open-Meteo historical weather, the Mangshi airport coach, the ITRA 2026 results page, the ITRA Race Course terrain page, and the Commons pages for three location photographs.
 - **Media:** the page carries three Wikimedia Commons location photographs (cloud forest on the Gaoligong range, dawn over Tengchong town and the rooftops of Heshun) and two self-made diagrams (a nineteen-place official landmark chain and a 47-hour total window). The photographs were taken in 2006, 2010 and 2011; they are pre-race location images, not 2026 race-day photographs, and do not prove the Yanhu Park start line, checkpoint positions, support-station layout or metre-by-metre course passage. The range photograph records no specific section and cannot be treated as an MGU course photograph. The diagrams are not official maps, are not to scale and cannot be used for navigation.
 
 ## What this race is
@@ -65,6 +65,20 @@ The character of the course is long, high in cumulative climb, and inside a prot
 
 *Figure 5 | Heshun Ancient Town (7 June 2011, oldhouse.yin, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)). The photograph shows the built and sloping setting of the MGU finish town only; Shuanghong Bridge, the finish arch, the timing mat and the race-day crowd are not in frame, and this is not a 2026 race-day photograph.*
 
+## Course geometry: nineteen-place sequence and geometry gaps
+
+The regulations give the MGU sequence as place names (chain above), but publish no per-point kilometres, altitude or intermediate cut-offs. Geometry and terrain figures are kept side by side:
+
+| Item | Figure | How this page handles it |
+| --- | --- | --- |
+| Distance | official approx. 168 km | Card uses the official approximation, not a survey measurement |
+| Cumulative ascent / descent | +8,540 / −8,550 m (regulations) | No per-point elevation table; segments are not back-calculated |
+| Public GPX | Regulations require loading GPX to a phone, but the public page has no download link or licence | `geometryAccess` recorded unavailable; no track drawn, no file hosted |
+| ITRA terrain | 84% Paths / 2% Tracks / 13% Roads | Tier B cross-check, not the official surface breakdown |
+| Start / finish | ITRA records Tengchong, China; regulations: Yanhu Park to Shuanghong Bridge, Heshun | The regulations' place names govern |
+
+The ITRA Race Course page also labels Mountain Level 7 and Finisher Level 410; those are association difficulty and finish-level indices, not course climb or cut-off times.
+
 ## Aid and cut-offs
 
 - **What stations provide:** the regulations say stations provide water and food and that runners must be self-sufficient between them. There is no per-station food list or water capacity. Stations provide no disposable cups or utensils; runners must carry their own.
@@ -72,6 +86,15 @@ The character of the course is long, high in cumulative climb, and inside a prot
 - **Support:** MGU allows outside support only at CP4 Longwen Bridge, CP7 Dahaoping, CP9 Sanjiebei, CP12 Qiaojie village and CP15 Shaba forest farm. Supporters must submit ID, an authorisation letter and a commitment letter at packet collection to obtain a support credential and wristband. RCE support is limited to CP4, CP7 and CP11.
 - **CP7 category switch:** at CP7 Dahaoping an MGU runner may assess their condition and switch to RCE. The switch quota is 20% of the MGU field. A switched runner is not ranked or awarded in either race but receives an RCE-distance result, RCE finisher items and the corresponding ITRA points; the fee is neither refunded nor adjusted.
 - **Sweeping:** withdrawn or cut runners wait in a holding area for collection and transport. The regulations give no vehicle schedule or maximum waiting time.
+
+| Support point | CP | MGU support | RCE support | Note |
+| --- | --- | --- | --- | --- |
+| Longwen Bridge | CP4 | Allowed | Allowed | ID, authorisation letter and commitment letter submitted at pickup |
+| Dahaoping | CP7 | Allowed | Allowed | MGU switch assessment point; quota capped at 20% of the MGU field |
+| Sanjiebei | CP9 | Allowed | Not allowed | — |
+| Qiaojie village | CP12 | Allowed | Not allowed | — |
+| Shaba forest farm | CP15 | Allowed | Not allowed | — |
+| — | CP11 | Not allowed | Allowed | RCE-only support point |
 
 ## Mandatory kit
 
@@ -113,6 +136,32 @@ The organiser may add kit before the race. It names two cases: hot weather (sung
 - Qualification: MGU needs 4 ITRA points from a single race or proof of a 100 km or longer trail finish; RCE needs 3 points or a 50 km finish; THT needs 2 points, a 30 km finish or a CAA-certified marathon finish. Proof must be earned after 1 January 2024. All races require a medical report issued within three months of the race, including a valid ECG.
 - Apart from the MGU CP7 switch, no category changes are allowed after entry.
 
+| Race | Fee (CNY) | Early bird (CNY) | International (USD) | Places |
+| --- | ---: | ---: | ---: | ---: |
+| MGU | 2,180 | 1,850 | 310 | 350 |
+| RCE | 1,580 | 1,338 | 230 | 450 |
+| THT | 750 | 638 | 110 | 1,400 |
+| TCZ | 420 | 358 | 65 | 1,100 |
+| GEP | 200 | 160 | 30 | 400 |
+| FTR | 150 | 128 | 25 | 100 |
+
+| Refund date | Refund ratio |
+| --- | ---: |
+| Cancelled before 31 Dec 2025 | 100% |
+| Cancelled before 20 Feb 2026 | 50% |
+| After that | None; race materials posted after the event |
+
+| Race | Minimum age | Qualification threshold |
+| --- | ---: | --- |
+| MGU | 20 | 4 ITRA points from a single race, or proof of a 100 km-plus trail finish |
+| RCE | 20 | 3 ITRA points, or a 50 km-plus finish |
+| THT | 20 | 2 ITRA points, a 30 km-plus finish, or a CAA-certified marathon finish |
+| TCZ | 18 | No extra trail threshold listed in the regulations |
+| GEP | 16 | — |
+| FTR | 6–12 | Children's race |
+
+Qualification proof must be earned after 1 January 2024; all races require a medical report issued within three months of the race, including a valid ECG.
+
 ## Weather and season
 
 Open-Meteo's Tengchong record for 20–22 March, 2015–2025 (33 days): daily maximum 16.2–26.9 °C, median 21.6 °C; daily minimum 4.1–11.1 °C, median 7.9 °C; 10 of 33 days had at least 1 mm precipitation, 4 had at least 5 mm.
@@ -141,6 +190,38 @@ This is not an official grading. It is this page's reading of the official dista
 - **Station spacing is unknown.** Runners must be self-sufficient between stations, but the organiser does not publish the gaps. This page does not guess how much water to carry; the hard minimums are 1 L of capacity and 800 kcal of emergency food.
 - **A protected-area course.** The Gaoligongshan National Nature Reserve management bureau is one of the organisers, and the route enters the reserve. Running surface and access constraints differ from a city-edge race, and the regulations give no surface breakdown.
 
+## Training conversion: 168 km cross-night mountain preparation
+
+The challenge of MGU is 168 km, 8,540 m of climb, a 47-hour limit spanning two nights, inside the southern Gaoligong protected area; night, low temperature, strong sun, wind, thunderstorms, thick fog, rain and snow must be handled alone. Preparation centres on ultra-long mountain endurance, cross-night rhythm and altitude adaptation, not raw road mileage. General methods are in [ultra-trail training plan](/en/knowledge/trail-ultra-training-plan/), [long-run fueling](/en/knowledge/long-run-fueling/), [recovery day](/en/knowledge/recovery-day/) and [load and overtraining](/en/knowledge/load-and-overtraining/).
+
+| Phase | Focus | Practical content | Race-day constraint |
+| --- | --- | --- | --- |
+| T-20 to T-14 weeks | Mountain aerobic base | One mountain long run plus easy runs a week; build weekly gain toward 2,000 m | 8,540 m of repeated up-and-down needs a steady aerobic base |
+| T-14 to T-8 weeks | Long run and gain accumulation | Long run to 80–100 km; practise ridge and stair sections | Protected-area terrain is rolling; technical sections need early adaptation |
+| T-8 to T-3 weeks | Loaded self-sufficiency and cross-night | Test ≥1 L water capacity and ≥800 kcal emergency food; one cross-night session | 47 hours includes two nights; headlamp and warm layers must be tested |
+| T-3 to race | Taper | Shorten distance and gain, keep short rhythm; no new shoes or kit | Recover fatigue before race day; see [taper and strength](/en/knowledge/strength-and-taper/) |
+
+Boundary: this is a generic preparation framework, not medical advice. Runners with pre-existing cardiopulmonary conditions, recent injuries or a history of altitude intolerance should consult a doctor first. MGU entry itself requires 4 ITRA points or a 100 km-plus trail finish; keep qualification thresholds separate from preparation targets.
+
+## Race-day execution card: two nights and support-point use
+
+| Phase | Support-point window | Rhythm and fueling | Check |
+| --- | --- | --- | --- |
+| Start to CP4 | Yanhu Park to Longwen Bridge | Hold back early; do not surge over 47 hours | Night headlamp and warm layer ready; refill water and food at first station |
+| CP4 to CP7 | Longwen Bridge to Dahaoping | Control fatigue buildup; assess condition | Outside support at CP4; CP7 is the switch assessment point |
+| CP7 to CP9 | Dahaoping to Sanjiebei | If unwell, assess the RCE switch under the rules | Switch capped at 20% of the MGU field; switchers are not ranked in either race |
+| CP9 to CP12 | Sanjiebei to Qiaojie village | Steady rhythm through the night; watch warmth and headlamp battery | Support at CP9 and CP12; do not rely on unpublished stations |
+| CP15 to finish | Shaba forest farm to Shuanghong Bridge, Heshun | Move by cut-off buffer in the late section | Support at CP15; finish closes 19:00 on 22 March |
+
+| Red flag | On-site action | Boundary |
+| --- | --- | --- |
+| Dizziness, palpitations, blurred vision, chest pain | Stop, seek staff help, call medical if needed | This page does not diagnose; cardiac emergency recognition and call follow on-site first-aid standards |
+| Hypothermia, persistent shivering, altered movement, worsening altitude headache | Shelter at a station, add layers, notify staff | This page does not diagnose altitude illness; on-site medics assess |
+| Fog, thunderstorm, rain or snow reducing visibility | Take shelter at a station, follow staff directions | This page does not direct on-site weather response |
+| Approaching the cut-off at a support point | Assess remaining sections and buffer; drop or switch if needed | A runner over time is withdrawn and waits in the holding area for transport |
+
+Outside support is allowed only at CP4, CP7, CP9, CP12 and CP15; supporters must submit ID, an authorisation letter and a commitment letter at packet collection. Station-use framework is in [crew and pacer planning](/en/knowledge/crew-and-pacer-planning/); pace comparison is in the [pace tool](/en/tools/pace/) and [splits tool](/en/tools/splits/).
+
 ## Verified and unverified
 
 **Supported by official documents:**
@@ -151,6 +232,7 @@ This is not an official grading. It is this page's reading of the official dista
 - The MGU kit list and inspection rules, no disposable cups or utensils, and the weather-based additions (regulations).
 - Fees, early-bird and international prices, refund tiers, age and qualification requirements (regulations).
 - The 2026 MGU field of 565 starters, 428 finishers and 137 DNFs, plus the men's and women's top three (ITRA results).
+- ITRA Race Course page: location Tengchong, dates 20–22 March 2026, Mountain Level 7, Finisher Level 410, terrain 84% Paths / 2% Tracks / 13% Roads (Tier B cross-check).
 - The Mangshi Airport–Tengchong coach fare, journey time and fixed departures (Ruili government notice, 21 May 2026; post-race information).
 - The status of the 2027 edition — promotion and bidding started, no date given (Tengchong education and sports bureau reply, 9 July 2026).
 
@@ -183,8 +265,16 @@ This page hosts no GPX and draws no official course line. The three photographs 
 4. Open-Meteo ERA5 historical weather, Tengchong 20–22 March 2015–2025: https://archive-api.open-meteo.com/v1/archive?latitude=25.02&longitude=98.49&start_date=2015-03-20&end_date=2025-03-22&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=auto
 5. Mangshi Airport–Tengchong custom coach service opened (Ruili government, 21 May 2026): https://www.rl.gov.cn/ggqsyxx/Web/_F0_0_6LJ25DAV994D7334334B47EBBD.htm
 6. ITRA — ANTAGUANJUN TengChong Gaoligong Ultra 2026, MGU 168 km results: https://itra.run/Races/RaceResults/MGU.168km/2026/114951
-7. Commons location photograph, Gaoligong range (Knautzen, CC BY 2.0 DE, 2006-10): https://commons.wikimedia.org/wiki/File:Gaoligongshan.jpg
-8. Commons location photograph, Tengchong dawn (wanghongliu, CC BY-SA 3.0, 2010-09-18): https://commons.wikimedia.org/wiki/File:Tengchong_in_the_morning.jpg
-9. Commons location photograph, Heshun town (oldhouse.yin, CC BY-SA 3.0, 2011-06-07): https://commons.wikimedia.org/wiki/File:Heshun_Town_01.jpg
+7. ITRA Race Course — MGU 168km terrain and Mountain Level / Finisher Level: https://itra.run/Races/RaceCourse/MGU.168km/2026/114951
+8. Commons location photograph, Gaoligong range (Knautzen, CC BY 2.0 DE, 2006-10): https://commons.wikimedia.org/wiki/File:Gaoligongshan.jpg
+9. Commons location photograph, Tengchong dawn (wanghongliu, CC BY-SA 3.0, 2010-09-18): https://commons.wikimedia.org/wiki/File:Tengchong_in_the_morning.jpg
+10. Commons location photograph, Heshun town (oldhouse.yin, CC BY-SA 3.0, 2011-06-07): https://commons.wikimedia.org/wiki/File:Heshun_Town_01.jpg
 
 Further reading: [long-run fuelling](/en/knowledge/long-run-fueling/), [recovery day](/en/knowledge/recovery-day/), [track viewer](/en/tools/track-view/), [split calculator](/en/tools/splits/), [Ultra-Trail Ninghai](/en/routes/utnh/).
+
+<!-- related-ring -->
+## Related entries
+
+- [Hong Kong 100: the 2027 course in full, from Sai Kung to Tai Mo Shan](/en/routes/hong-kong-100/)
+- [Mt.FUJI 100: 165.3 km, four distance readings and nine cut-offs](/en/routes/mt-fuji-100/)
+- [QMT135: Quebec's 134 km from Baie-Saint-Paul to Mont-Sainte-Anne](/en/routes/qmt-135/)

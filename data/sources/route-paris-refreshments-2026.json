@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-paris-refreshments-2026",
+  "title": "Organiser news: 2026 refreshment and hydration service (13 points, own-container rule)",
+  "url": "https://www.schneiderelectricparismarathon.com/en/news/refreshments-hydration-an-enhanced-and-more-sustainable-service/330",
+  "publisher": "A.S.O. — Schneider Electric Marathon de Paris official news",
+  "publishedAt": "2026-03-18",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2026 course had 13 refreshment points: 9 full stations (food + drinks), 4 water points, 1 full station at the finish and 2 Ta Energy electrolyte-drink stations.",
+    "Full stations were 160 m long; the 2026 edition added stations and shortened gaps between them, especially in the second half; cooling systems are set up in case of high temperatures.",
+    "No cups or bottles are distributed on the course; runners must bring their own container (cup, flask or hydration pack); volunteers and refill stations support refilling.",
+    "An elite-style bottle system for runners targeting under 2h50 requires a start in the preferred wave (start by 8:03 a.m.) and a 4:01/km pace; used bottles are collected and reused; bottles may be discarded only in designated zones 150 m after stations, otherwise disqualification applies."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取官网新闻 /330 英文正文",
+    "note": "官方口径只给站点数量与规则，未在该页公布逐站公里位置；逐站 km 位置本页不采用第三方说法。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 /330：9 full + 4 water + 1 finish full + 2 Ta Energy。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 /330：full station 160 m；2026 新增站点、缩短间距；高温设降温措施。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 /330：赛道不发杯/瓶，须自备容器；规则 PDF 1.7 同口径。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 /330：sub-2h50 瓶供系统需优先分区（≤8:03 出发）与 4:01/km；瓶子只能在站点后 150 m 指定区丢弃。"
+    }
+  ]
+}

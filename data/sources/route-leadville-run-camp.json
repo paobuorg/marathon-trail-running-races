@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-leadville-run-camp",
+  "title": "Leadville Trail 100 Run Camp — 2027 camp dates, ages and camp-plus-entry pricing",
+  "url": "https://www.leadvilleraceseries.com/run/100-run-camp/",
+  "publisher": "Life Time Leadville Race Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2027 Leadville Trail 100 Run Camp runs June 17-19, 2027; registration opens December 1, 2026.",
+    "Minimum age is 17+ for Run Camp participation and 18+ on race day for the LT100 Run.",
+    "Camp + Entry Package registration opens 12/1/26 at $2,200; Camp Only Package registration opens 1/7/27 at $1,000.",
+    "The three-day camp covers the LT100 Run course in group day and night runs with veteran-led discussion sessions; the 2026 reference schedule included a Mayqueen-to-store night run, a Mayqueen-to-Twin Lakes day run and a Willis Gulch-to-Hope Pass day run."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官方训练营页正文",
+    "note": "2026-11-25 复核：读取页首日期、Registration & Pricing、Weekend Schedule 段；2027 日程标注 Subject to Change，2026 日程为参考。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "页首：June 17-19 2027；Registration opens December 1, 2026。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Minimum Age 段：17+ camp；18+ race day。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Registration Dates 与 Event Pricing：Camp+Entry 12/1/26 $2,200；Camp Only 1/7/27 $1,000。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "介绍段与 2026 reference schedule Day 1–3 行程。" }
+  ]
+}

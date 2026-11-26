@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-leadville-results-2026",
+  "title": "Leadville Trail 100 Run Live 2026 — official race-day results hub",
+  "url": "https://www.leadvilleraceseries.com/100run-live/",
+  "publisher": "Life Time Leadville Race Series (timing results hosted on the event hub)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2026 Life Time Leadville Trail 100 Run was held August 22-23, 2026.",
+    "The live results hub lists 391 finishers, 656 overall entries, 265 DNFs, 498 male, 153 female and 5 non-binary athletes.",
+    "Adrian Macdonald (Fort Collins, CO, M30-39) won the men's race in 15:47:23.",
+    "Mckendree Hickory (Steamboat Springs, CO, F30-39) was the women's winner in 19:39:12, placing 10th overall.",
+    "Second overall was Matthew Zupan (Reno, NV) in 16:15:25; third was Tim Tollefson (Mammoth Lakes, CA) in 16:45:13."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官方 2026 实时成绩 hub 正文与排名表",
+    "note": "2026-11-25 复核：读取页首日期、Finish Line Feed 排名表与 Live Results 分类计数；女子冠军在总排名第 10 位。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "页首 Race Day Content Hub：August 22 – 23, 2026。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Live Results 计数：Still racing/finishers 391；Overall 656；Did not finish 265；Male 498；Female 153；Non-Binary 5。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "排名表第 1 行：#564 Adrian Macdonald, M 37, Fort Collins CO, 15:47:23。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "排名表第 10 行：#540 Mckendree Hickory, F 38, Steamboat Springs CO, 19:39:12；Live Results 标为 Female 1 / F30-39。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "排名表第 2 行 Matthew Zupan 16:15:25；第 3 行 Tim Tollefson 16:45:13。" }
+  ]
+}

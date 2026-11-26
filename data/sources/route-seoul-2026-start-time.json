@@ -1,0 +1,24 @@
+{
+  "sourceId": "route-seoul-2026-start-time",
+  "title": "2026 Seoul Marathon — start time change notice",
+  "url": "https://en.seoul-marathon.com/60/?bmode=view&idx=169959674",
+  "publisher": "Seoul Marathon Organizing Committee (The Dong-A Ilbo)",
+  "publishedAt": "2026-02-10",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2026 start time was changed from 08:00 to 07:30, applying to both the Full and 10K courses, in accordance with Seoul City guidelines.",
+    "The notice was published on 10 February 2026."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取公告 idx=169959674 起跑时刻变更通知",
+    "note": "08:00 → 07:30、双项适用、依首尔市指引三条可读。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "08:00 AM → 07:30 AM；Applies to both Full & 10K；Due to Seoul City guidelines" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Notice dated 10 Feb 2026" }
+  ]
+}

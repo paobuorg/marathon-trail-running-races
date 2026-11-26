@@ -13,6 +13,14 @@
     "route-london-world-athletics-2026",
     "route-london-spectator-2026",
     "route-london-openmeteo-2026",
+    "route-london-ballot-2026",
+    "route-london-gfa-2026",
+    "route-london-charity-2026",
+    "route-london-conditions-2026",
+    "route-london-championship-2026",
+    "route-london-wmm-history",
+    "route-london-heritage-2024",
+    "route-london-club-2026",
     "photo-london-2017",
     "route-anchor-editorial"
   ],
@@ -23,9 +31,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-11-08",
-  "reviewedAt": "2026-11-08",
-  "reviewDueAt": "2027-01-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-15",
   "details": {
     "raceType": "road-marathon",
     "countryCodes": [

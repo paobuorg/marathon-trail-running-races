@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-everest-results-2025",
+  "title": "Race Results 2025 — official results archive (Ultra 70K, Full 42K, Half 21K)",
+  "url": "https://www.everestmarathon.com/results/2025",
+  "publisher": "Tenzing Hillary Everest Marathon (event organiser, Kathmandu)",
+  "publishedAt": "2025-05-28",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Full Marathon 42K 2025: 1st Open Suman Kulung (NEP) bib 015 in 3:50:26; 2nd Gopal Tamang bib 046 in 3:52:30; 3rd Arjun Kulung Rai bib 043 in 4:02:35; women's 1st Lakpa Ngima Sherpa bib 014 in 5:15:46; women's 2nd Anita Rai bib 040 in 5:18:19; women's 3rd Dilkala Kulung bib 019 in 5:40:31; foreigner male 1st Rune Hana (Norway) bib 833 in 5:19:32; foreigner female 1st Jin Zhu (USA) bib 407 in 7:11:01.",
+    "The full-marathon table lists 201 timed finishers and 15 DNS entries.",
+    "Ultra 70K 2025: Man Kumar Roka Magar bib 714 in 8:00:07; 14 timed finishers, with several DNF and DNS entries.",
+    "Half Marathon 21K 2025: Jordi Andreu I Carreras (Spain) bib 214 in 2:39:55 listed first; 22 finishers and 1 DNS."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 2025 成绩页三张分组表",
+    "note": "DNF/DNS 单独标注，不计入完赛人数。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Full 42K 表名次、时间、bib、国籍与表内一致。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Full 表 1–201 有计时，202–216 标 DNS（15 人）。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Ultra 表 14 人计时，其余 DNF/DNS。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Half 表 22 人计时，1 人 DNS。" }
+  ]
+}

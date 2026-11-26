@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-london-wmm-history",
+  "title": "TCS London Marathon – Abbott World Marathon Majors race profile",
+  "url": "https://www.worldmarathonmajors.com/six-star-major/london",
+  "publisher": "Abbott World Marathon Majors",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The first London Marathon was held on 29 March 1981; more than 20,000 people wanted to run, 7,747 were accepted and 6,255 finished, led home jointly by Dick Beardsley (USA) and Inge Simonsen (NOR); Joyce Smith won the women's race.",
+    "The event has grown to more than 43,000 starters and finishers, is broadcast in more than 196 countries and watched by four to five million viewers in the UK via the BBC; elite runners compete for US$308,000 in prize money.",
+    "The Majors panel lists course records as: men 2:01:25 Kelvin Kiptum (KEN, 2023); women 2:16:16 Peres Jepchirchir (KEN, 2024); women's mixed 2:15:25 Paula Radcliffe (GBR, 2003); men's wheelchair 1:23:44 Marcel Hug (SUI, 2023); women's wheelchair 1:39:52 Manuela Schär (SUI, 2017).",
+    "The one millionth finisher crossed the line in 2016; runners have raised more than £1 billion for charities and the London Marathon Foundation has granted more than £100 million to more than 1,460 projects."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 worldmarathonmajors.com/six-star-major/london 历史与 Records 面板",
+    "note": "该面板纪录为页面访问时所列口径；2026 届新成绩以 World Athletics 2026 报告与官方结果页为准，两套口径在正文中分别标注"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "HISTORY 段：29 March 1981；20,000+ wanted, 7,747 accepted, 6,255 finishers；Beardsley/Simonsen 携手冲线；Joyce Smith 女子冠军"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：43,000+ starters and finishers；196+ countries；4–5M UK viewers BBC；prize money US$308,000"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "RECORDS / COURSE RECORDS 表逐行核对"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：millionth finisher 2016；>£1bn charity；Foundation >£100m to >1,460 projects"
+    }
+  ]
+}

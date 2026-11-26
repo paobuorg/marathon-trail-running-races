@@ -1,0 +1,24 @@
+{
+  "sourceId": "route-everest-results-index",
+  "title": "Race Results archive index — official edition list 2003–2026",
+  "url": "https://www.everestmarathon.com/results",
+  "publisher": "Tenzing Hillary Everest Marathon (event organiser, Kathmandu)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The official results index links archived editions from 2003 through 2026.",
+    "Each edition page splits results into Extreme Ultra 70 KM, Full Marathon 42 KM and Half Marathon 21 KM tabs."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取结果归档索引页链接清单",
+    "note": "索引未公布逐届完赛总人数；完赛人数只在能读到的当届表内统计。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "索引链接 2003、2004 … 2026 各届结果页。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "各页分组标题：Extreme Ultra - 70 KM、Full Marathon - 42 KM、Half Marathon - 21 KM。" }
+  ]
+}

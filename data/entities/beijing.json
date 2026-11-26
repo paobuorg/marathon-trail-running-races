@@ -13,6 +13,13 @@
     "route-beijing-2026-presser",
     "route-beijing-2026-traffic",
     "route-beijing-weather",
+    "route-beijing-2026-rules",
+    "route-beijing-2025-results",
+    "route-beijing-2024-results",
+    "route-beijing-2026-chinanews",
+    "route-beijing-2026-finish-area",
+    "route-beijing-worldathletics-2026",
+    "route-beijing-2025-route",
     "route-anchor-editorial",
     "photo-beijing-qianmen-exit-b",
     "photo-beijing-west-changan",
@@ -20,14 +27,17 @@
   ],
   "relatedRefs": [
     "knowledge:marathon-distance",
+    "knowledge:marathon-training-plan",
+    "knowledge:race-day-pacing",
+    "knowledge:race-day-fueling",
     "tool:pace",
     "tool:splits"
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-11-24",
-  "reviewedAt": "2026-11-24",
-  "reviewDueAt": "2027-07-20",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
   "details": {
     "raceType": "road-marathon",
     "countryCodes": [
@@ -46,7 +56,45 @@
     "courseVersion": "2026-beijing-official-course",
     "courseEdition": "2026",
     "courseStatus": "latest-held",
-    "courseChanges": [],
+    "courseChanges": [
+      {
+        "edition": "2024",
+        "observedAt": "2024-11-04",
+        "field": "start",
+        "change": "route-refined",
+        "to": "start arch on the square's east-side road moved 100 metres north; all runners assemble on the east-side road for a straight start",
+        "sourceRef": "route-beijing-2024-results",
+        "note": {
+          "zh-CN": "2024 年起点拱门在天安门广场东侧路北移 100 米，全部跑者在东侧路集结、直线出发。",
+          "en": "For 2024 the start arch on the square's east-side road was moved 100 metres north; all runners assembled on the east-side road for a straight start."
+        }
+      },
+      {
+        "edition": "2025",
+        "observedAt": "2025-11-03",
+        "field": "course",
+        "change": "route-refined",
+        "to": "second-half turnarounds reduced from three to one; North 4th Ring auxiliary section extended; Ice Ribbon and Aolin East Road scenery added",
+        "sourceRef": "route-beijing-2025-route",
+        "note": {
+          "zh-CN": "2025 年在后半程把折返点由 3 个减为 1 个，延长北四环辅路赛段缓解拥堵，并融入国家速滑馆（冰丝带）、奥林东路景观。",
+          "en": "In 2025 the second-half turnaround points were cut from three to one, the North 4th Ring auxiliary section was extended to ease congestion, and the Ice Ribbon and Aolin East Road scenery was added."
+        }
+      },
+      {
+        "edition": "2026",
+        "observedAt": "2026-10-18",
+        "field": "cutoff",
+        "change": "timing-revised",
+        "from": "6:15 finish cut-off",
+        "to": "6:00 finish cut-off",
+        "sourceRef": "route-beijing-2026-chinanews",
+        "note": {
+          "zh-CN": "2026 年大众跑者全程关门时间由以往的 6 小时 15 分缩短至 6 小时整；分段关门时刻以 2026 参赛指南为准。",
+          "en": "The 2026 mass-runner finish cut-off was shortened from the previous 6:15 to 6:00; segment cut-off times follow the 2026 participant guide."
+        }
+      }
+    ],
     "direction": "Point-to-point from the east side of Tiananmen Square to the Olympic Park central Landscape Avenue",
     "distanceMeters": 42195,
     "distanceMethod": "Official 42.195 km, agreed by the race notice, Chinese Athletics Association release and traffic notice",

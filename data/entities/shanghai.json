@@ -8,25 +8,39 @@
     "route-shanghai-2026-rules",
     "route-shanghai-2026-course-map",
     "route-shanghai-2026-guide",
+    "route-shanghai-2026-entry-notice",
+    "route-shanghai-2026-preview",
+    "route-shanghai-press-2025",
+    "route-shanghai-results-2025",
+    "route-shanghai-results-2024",
+    "route-shanghai-results-2023",
+    "route-shanghai-2025-followup",
+    "route-shanghai-worldathletics-2025",
     "route-shanghai-wmm-assessment",
-    "route-shanghai-airport-transport",
-    "route-shanghai-openmeteo-2026",
+    "route-shanghai-citygov-2025",
+    "route-shanghai-guide-2025",
     "route-shanghai-rules-2025",
     "route-shanghai-police-2025",
-    "route-shanghai-results-2025",
+    "route-shanghai-start-guide-2025",
+    "route-shanghai-openmeteo-2025",
+    "route-shanghai-openmeteo-2026",
+    "route-shanghai-airport-transport",
     "photo-shanghai-2016",
     "route-anchor-editorial"
   ],
   "relatedRefs": [
     "knowledge:marathon-distance",
+    "knowledge:marathon-training-plan",
+    "knowledge:race-day-pacing",
+    "knowledge:race-day-fueling",
     "tool:pace",
     "tool:splits"
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-11-21",
-  "reviewedAt": "2026-11-21",
-  "reviewDueAt": "2026-12-20",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
   "details": {
     "raceType": "road-marathon",
     "countryCodes": [
@@ -57,6 +71,30 @@
         "note": {
           "zh-CN": "官方 2026 路线图与起终点平面图已发布。路线描述新增中共一大会址、龙华寺、龙华烈士陵园；终点写为中山南二路（徐家汇体育公园）；完赛流线从上海体育场4号通道进场、1号通道出场，不再沿用 2025 警方通告的12号门说法。",
           "en": "The official 2026 course map and start/finish diagrams were published. The course description adds the Site of the First CPC Congress, Longhua Temple and Longhua Martyrs' Cemetery; the finish is given as Zhongshan South 2nd Road (Xujiahui Sports Park); the finish flow enters Shanghai Stadium via Passage 4 and exits via Passage 1, rather than the Gate 12 wording in the 2025 police notice."
+        }
+      },
+      {
+        "edition": "2024",
+        "observedAt": "2024-12-01",
+        "field": "course",
+        "change": "route-refined",
+        "to": "route adjusted to avoid sharp curves and narrow roads for the new wheelchair discipline; five barrier-free toilets placed along the way",
+        "sourceRef": "route-shanghai-results-2024",
+        "note": {
+          "zh-CN": "2024 年首次增设竞速轮椅项目，赛道避让急弯与窄路，沿线设五处无障碍厕所。",
+          "en": "The 2024 route avoided sharp curves and narrow roads to suit the newly added racing wheelchair discipline, with five barrier-free toilets on the course."
+        }
+      },
+      {
+        "edition": "2025",
+        "observedAt": "2025-12-01",
+        "field": "cutoff",
+        "change": "timing-revised",
+        "to": "three-gun start; finish cut-off extended to 13:30",
+        "sourceRef": "route-shanghai-2025-followup",
+        "note": {
+          "zh-CN": "2025 采用三枪起跑，终点关门顺延至 13:30；2026 改为六枪分段出发，关门时刻以 2026 官方路线图为准。",
+          "en": "The 2025 race used a three-gun start and extended the finish cut-off to 13:30; the 2026 race uses six waves, and cut-off times follow the 2026 official map."
         }
       }
     ],

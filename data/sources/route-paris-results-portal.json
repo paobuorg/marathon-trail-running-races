@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-paris-results-portal",
+  "title": "Organiser results portal entry: Find out your results (2026)",
+  "url": "https://www.schneiderelectricparismarathon.com/en/news/find-out-your-results/376",
+  "publisher": "A.S.O. — Schneider Electric Marathon de Paris official website",
+  "publishedAt": "2026-04-12",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "On 12 April 2026 the organiser published a results-entry page directing runners to the official results portal; individual official times and rankings are looked up there.",
+    "The page links out to the external timing provider; the provider hostname and certificate download were not captured in this check, so this source does not record a third-party results URL."
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取官网新闻 /376；外链目标地址在抓取中未保留",
+    "note": "页面存在且为官方成绩入口；逐人成绩名次以 World Athletics 结果库与官网赛事新闻旁证。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 /376 标题 Find out your results，正文为指向官方成绩门户的链接；FAQ 称成绩在 results tab 查询。"
+    },
+    {
+      "index": 1,
+      "status": "partial",
+      "checkedAt": "2026-11-25",
+      "note": "外部计时平台域名未抓取到；本来源不记录第三方 URL。"
+    }
+  ]
+}

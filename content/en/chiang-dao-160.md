@@ -74,6 +74,23 @@ On climb, the race page says 9,800 M+, the time chart sums to 9,840 m, the GPX y
 
 All four figures sit between 9,800 and 10,227 m; the card uses the official 9,800 m.
 
+## Route segments and GPX geometry
+
+The official route description gives a point-to-point chain: Wat Tham Chiang Dao (start, 430 m) → Doi Luang Chiang Dao massif → San Pa Kia and Doi Pha Sam Liam ridge → Ban Doi Pui Hmong village → Monthathan Waterfall → Chiang Mai PAO Park (finish, 320 m). The straight-line gap between start and finish is about 62.6 km; the course is a 173 km mountain loop, not a straight transfer.
+
+The geometry bases are listed side by side and are not averaged:
+
+| Basis | Distance | Climb | Elevation range |
+|---|---|---|---|
+| Official race page | 173 km | 9,800 m | not published |
+| Official time chart, row by row | 173 km | 9,840 m | 430–1,560 m in the table |
+| 2026 GPX, three-dimensional | 173.601 km | raw positive change 10,227 m | 319–1,730 m |
+| 2026 GPX, two-dimensional | 170.865 km | 3 m threshold 9,853 m | same as above |
+
+- The GPX metadata description date is 25-9-2026; the organiser does not state it is the final race-day track.
+- This site does not host the track or render it as an image; for offline use, download the GPX from the race page's DOWNLOAD GPX link and follow the file's copyright statement.
+- True gradient between stations, trail versus surface split, are not published beyond the chart and GPX.
+
 ## The official time chart: distance, altitude and cut-offs
 
 The organiser publishes the time chart only as an image, named Chiang_Dao_100_M_64f3903485.jpg.
@@ -279,6 +296,53 @@ The organiser does not publish which stations serve hot food, hot water or rest 
 
 Fifth, withdrawal: runners must withdraw at a checkpoint, and the organiser does not publish vehicle capacity at each point.
 
+## Training transfer
+
+This is a 100M-band endurance race: 173 km with an official 9,800 m of climb, about 57 m per kilometre; GPX elevation runs 319–1,730 m, a vertical span of over 1,400 m. The training focus is sustained long-distance load, night sections and late-race cut-off margin, not alpine-style steep climbing.
+
+The table below converts three finish targets into average speed over 173 km, excluding climb, rest and queueing loss; the official time-chart cut-offs remain the hard limits.
+
+| Target finish | Total time (h) | Average speed (km/h) | Margin to the 48 h cut-off |
+|---|---:|---:|---|
+| 40 h | 40 | 4.33 | 8 h margin |
+| 44 h | 44 | 3.93 | 4 h margin |
+| 48 h | 48 | 3.60 | at the barrier |
+
+- Endurance: build consecutive long runs and night-section practice; weekly mileage and rest scheduling belong to an individual plan and are not set here.
+- Filter point: A2→A3 (750→1,560 m, 810 m net over 10 km) is the first real filter; long training runs should include ridge terrain of similar gradient.
+- Night: A6 to A9 falls between 01:39 and 09:19 the next morning on the official Slowest model, a full night-to-dawn stretch; practise headlamp sections and night-aid rhythm.
+- This page is not a training plan and does not replace a coach or medical assessment.
+
+## Race-day execution card
+
+- Bags: the Gold Bag is collected at A5 and the Red Bag at A11. Only official event bags are accepted; trekking poles may not be placed inside them, during or before the race.
+- Support: support points are only A2, A5, A7, A9, A11 and A13; support crew need a Support Pass. A personal assistant may appear only at the stations allowed by the rules and carry one bag of no more than 30 litres.
+- Aid: leave each station with enough water and food for the next one; hot food, hot water and beds per station are not listed station by station.
+- Cut-offs: runners must leave a checkpoint or aid station before the cut-off; revised cut-offs in special circumstances are published by SMS, short message or Facebook.
+- Safety: stay on the marked route; use the event sleep bib for a course nap; intravenous fluids mean mandatory withdrawal; NSAIDs are prohibited.
+
+| Branch | Situation | Action |
+|---|---|---|
+| If margin is thin at A3 (33 km, 19:00) | After the first filter climb | Check the 8-hour margin to A5; adjust cadence and fueling |
+| If fatigued or cold on the night section (A6–A9) | Night, wind, cold, fog | Wear the waterproof jacket and headlamp per the kit list; rest at a station with a rest area if needed |
+| If near the 07:30 cut-off at A16 (162 km) | The last 11 km get only 2.5 h | Hold above 4.4 km/h, do not dawdle; if behind, follow sweep procedure |
+| If withdrawing between stations | Between two checkpoints | Go to the nearest checkpoint to withdraw; do not leave the marked route |
+| If intravenous fluids are required | Medical decision | Mandatory withdrawal under the rules; do not continue |
+
+## Results and course changes
+
+The 2026 CHIANG DAO 160 is scheduled to start at 10:00 on 4 December 2026; at the verification date (2026-11-08) the race had not been held. The organiser had therefore not published a winner, course record, finisher count or finish rate, and this page lists no placings.
+
+| Item | Status |
+|---|---|
+| 2026 winners (men / women / other divisions) | Not published (race not yet held) |
+| Course record | Not published |
+| Past winners and finish rates | Past roadbooks not obtained this round; insufficient evidence |
+| Reroute / date change / rule change | No loggable official evidence found; `courseChanges` is an empty array |
+
+- Earlier edition reroute notes were not obtained this round; this page does not write "no changes ever occurred".
+- After race day, winners and results follow the official results page and LiveTrail records.
+
 ## Verified and not verified
 
 Verified: race date, start time, limit, 173 km and 9,800 m, the A1 to A16 station names, the eight cut-off times, and 9,840 m of cumulative ascent.
@@ -342,3 +406,10 @@ If you need the track offline, download it from the DOWNLOAD GPX link on the rac
 11. Wat Tham Chiang Dao photograph (Supanut Arunoprayote, CC BY-SA 4.0, 2022-09-20): https://commons.wikimedia.org/wiki/File:Wat_Tham_Chiang_Dao_(II).jpg
 12. Doi Luang Chiang Dao photograph (Nuttasak, CC BY-SA 4.0, 2021-12-27): https://commons.wikimedia.org/wiki/File:Doi_Luang_Chiang_Dao_-_Chiangdao_Wildlife_Sanctuary.jpg
 13. Monthathan Waterfall photograph (ศุภฤกษ์ลายประวัติ, CC BY-SA 4.0, 2026-06-28): https://commons.wikimedia.org/wiki/File:Biodiversity_at_Monthathan_Waterfall,_Chiangmai,_Thailand.jpg
+
+<!-- related-ring -->
+## Related entries
+
+- [Doi Inthanon PAGODA 50-DAY: a race called 50, a course of 57 km, and a loop around Doi Inthanon](/en/routes/doi-inthanon-pagoda-50-day/)
+- [ELEPHANT 100: the 100 km race of the Chiang Mai Major, sharing its second half with the 160](/en/routes/elephant-100/)
+- [Tenzing Hillary Everest Marathon: a high-altitude downhill trail race guide (2027 basis)](/en/routes/everest-marathon/)

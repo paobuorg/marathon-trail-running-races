@@ -1,0 +1,55 @@
+{
+  "sourceId": "route-paris-openmeteo",
+  "title": "Open-Meteo historical archive – Paris grid point, race Sundays 2017–2026",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=48.8566&longitude=2.3522&start_date=2017-04-01&end_date=2026-04-13&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Europe%2FParis",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The API returned grid point 48.89279 N / 2.29202 E at 36 m elevation; for the eight available race Sundays 2017, 2018, 2019, 2022, 2023, 2024, 2025 and 2026, daily maximum temperature ranged from 7.9 C to 23.4 C with a median of 14.0 C.",
+    "Daily minimum temperature ranged from -2.0 C to 12.1 C with a median of 5.8 C.",
+    "Two of the eight race Sundays recorded at least 1 mm of precipitation (2024: 13.2 mm; 2025: 1.7 mm); the others were dry or under 1 mm.",
+    "On 12 April 2026 the grid point recorded a maximum of 14.0 C, a minimum of 5.8 C and 0.2 mm precipitation.",
+    "The 2020 edition was cancelled and the 2021 edition was held in October, so neither April Sunday is included in this series; values are modelled reanalysis data for a grid point, not measurements taken on the course."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "curl.exe 请求 archive-api.open-meteo.com 保存 paris-weather.json；Node 按历届比赛日日期取 max/min/precip 并排序取中位",
+    "note": "返回网格 48.89279/2.29202、海拔 36 m；2016-04-03 早于存档起点未纳入；2021 改期 10 月未纳入 4 月系列。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "8 个比赛日最高温：23.4/21.2/9.4/7.9/9.5/17.1/17.6/14.0；范围 7.9–23.4，中位 14.0。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "最低温：5.2/8.9/-2.0/-0.7/6.7/12.1/11.0/5.8；范围 -2.0–12.1，中位 5.8。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "≥1 mm：2024 13.2、2025 1.7；其余 0/0.2/0/0/0.5/0.2。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "2026-04-12：max 14.0、min 5.8、precip 0.2 mm。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "2020 取消；2021 于 10 月 17 日举行；模型再分析网格值，非赛道实测。"
+    }
+  ]
+}

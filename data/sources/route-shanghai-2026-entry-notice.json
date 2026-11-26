@@ -1,0 +1,40 @@
+{
+  "sourceId": "route-shanghai-2026-entry-notice",
+  "title": "2026上海马拉松报名须知（上马网赛事页 eventId=232）",
+  "url": "https://static.shang-ma.com/web/matchDetail/index.html?eventId=232&eventTtype=2",
+  "publisher": "上海马拉松组委会",
+  "publishedAt": "2026-04-01",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2026 Shanghai Marathon marathon entry requires runners to be at least 20 years old on 6 December 2026 and physically fit for long-distance running.",
+    "The notice lists health conditions that make entry unsuitable: congenital and rheumatic heart disease, hypertension and cerebrovascular disease, myocarditis and other heart disease, coronary disease and serious arrhythmia, high or low blood sugar diabetes, pregnancy, fever/cold within two weeks before race day, and other unsuitable conditions.",
+    "Mass runners register online from 29 April 15:00 to 29 May 12:00; ballot results are announced on the afternoon of 30 June; payment must be completed before 20 July 12:00, after which an unpaid place is forfeited.",
+    "Direct-entry runners register and pay within the same window without entering the ballot; direct-entry qualification thresholds are set out in the competition rules.",
+    "The entry fee is CNY 200 for Chinese nationals (including Hong Kong, Macau and Taiwan) and CNY 1150 (USD 160) for foreign nationals; once confirmed and paid, the fee is non-refundable for any reason.",
+    "On race day the entry gate verifies identity by face recognition; runners who did not authorize face data collection must carry their original identity document.",
+    "Race packets are collected in person, with no proxy collection and no mailing service; collection runs 3-5 December 2026 at the Shanghai World Expo Exhibition & Convention Centre (Bocheng Road 850).",
+    "Transferring entry qualification, bib or timing chip to another person is a violation; the transferor and transferee bear all consequences.",
+    "Official contact channels: domestic phone 400-101-5879 and general@shmarathon.com; foreign runners contact foreigner@shmarathon.com; service hours weekdays 09:00-17:00 excluding holidays.",
+    "The notice does not publish a prior-result qualifying time threshold for mass entry; eligibility rests on age, health declaration and the ballot, apart from the direct-entry tier."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 static.shang-ma.com eventId=232 赛事页“报名须知”标签正文，含资格、报名时间、报名费表、身份核验、领物与违规条款",
+    "note": "页面为 SPA，fetch 返回各标签正文文本；报名费、年龄、健康禁忌、缴费时限与转让条款逐条对应原文。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "“参加马拉松赛比赛者须在2026年12月6日(含)满20周岁”。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "报名须知第二条列先天/风湿性心脏病、高血压脑血管、心肌炎、冠脉病与心律不齐、糖尿病、妊娠、赛前两周发烧感冒等。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "预报名 4/29 15:00–5/29 12:00；6/30 下午公布抽签；付款至 7/20 12:00。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "直通上马跑者报名缴费后无须抽签；直通要求见竞赛规程。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "报名费表：中国籍（含港澳台）200 元；外国籍 1150 元 / 160 美元；确认缴费后不退。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "第六条：人脸识别身份核验；未授权人脸采集者现场持身份证件。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-25", "note": "第七条：12/3–12/5 9:30-19:30 上海世博展览馆（博成路850号）；限本人领取，不代领、不邮寄。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-25", "note": "第九条：转让资格、号码布及芯片皆属违规。" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-25", "note": "第十条：400-101-5879、general@shmarathon.com、foreigner@shmarathon.com；工作日 9:00-17:00。" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-25", "note": "须知正文未列大众跑者过往成绩门槛；除直通外按年龄、健康申报与抽签录取。" }
+  ]
+}

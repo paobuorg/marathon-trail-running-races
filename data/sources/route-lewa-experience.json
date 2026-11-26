@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-lewa-experience",
+  "title": "Lewa Safari Marathon — official conservancy experience page (history, entry growth, portals)",
+  "url": "https://www.lewa.org/experience-2/lewa-safari-marathon/",
+  "publisher": "Lewa Wildlife Conservancy",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The race began in the year 2000 with 180 entries at its debut and has grown to just over 1,200 participants yearly.",
+    "Categories on the conservancy page: full marathon 42 km, half marathon 21 km, Executive Race 10 km and Junior Fun Run 5 km.",
+    "Two registration portals: www.lewasafarimarathon.com for international participants; www.lewasafarimarathon.co.ke for Kenyan and East African citizens and residents.",
+    "The conservancy is described as a UNESCO World Heritage Site in northern Kenya."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取保护区体验页",
+    "note": "体验页仍沿用旧年份日期文字，本页不引用该日期；1,200 人为该页历史规模口径，2025 官方公告为 1,400 人。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "began in 2000, 180 entries debut, just over 1,200 yearly。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "42 km、21 km、10 km Executive、5 km Junior。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": ".com 国际通道；.co.ke 本地/东非通道。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "UNESCO World Heritage Site, northern Kenya。" }
+  ]
+}

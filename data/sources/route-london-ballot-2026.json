@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-london-ballot-2026",
+  "title": "Enter the ballot – TCS London Marathon",
+  "url": "https://www.tcslondonmarathon.com/enter/how-to-enter/the-ballot-explained",
+  "publisher": "London Marathon Events",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The public ballot draws winners at random and everyone has the same chance of success.",
+    "UK residents who donate their entry fee during the ballot are automatically entered into a second ballot, which at least doubles their chance; a successful either-ballot place reduces the entry fee from £69.99 to £49.99.",
+    "UK residents who do not opt to donate pay the full £69.99 if drawn.",
+    "Entrants unsuccessful in both ballots who donated receive a premium winter running top (retail about £60); ballot results are emailed to all entrants in July."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 tcslondonmarathon.com/enter/how-to-enter/the-ballot-explained 正文",
+    "note": "抽签规则、二次抽签与费用减免均在页面正文中"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：“draw winners at random. Everyone has the same chance – it is down to the luck of the draw”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：自动进入 second ballot，费用 “reduced from £69.99 to £49.99”"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：未捐赠者中签后 “pay the full entry fee of £69.99”"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：两次抽签均未中且捐赠者获 premium winter running top（retail at £60）；结果 July 邮件通知"
+    }
+  ]
+}

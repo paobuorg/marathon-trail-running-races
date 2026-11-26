@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-valencia-openmeteo",
+  "title": "Open-Meteo historical archive — Valencia grid point, race Sundays 2015-2025",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=39.47&longitude=-0.3763&start_date=2015-11-29&end_date=2025-12-08&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,windspeed_10m_max&timezone=auto",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Open-Meteo archive returned grid point 39.47276 N / -0.3734436 E at 23 m elevation for Valencia.",
+    "Across the 11 race Sundays 2015-2025, daily maximum temperature ranged 14.0-23.6 C with a median of 16.5 C; daily minimum ranged 4.5-13.8 C with a median of 9.3 C.",
+    "Two of the 11 days recorded at least 1 mm precipitation (2016: 9.4 mm; 2022: 1.1 mm); total precipitation over the 11 days was 10.5 mm.",
+    "Daily maximum wind speed ranged 7.3-36.1 km/h with a median of 15.4 km/h.",
+    "These are modelled reanalysis values for a grid point, not course measurements, and are not a 2026 race-day forecast."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "Invoke-RestMethod 请求 archive-api.open-meteo.com，按 11 个赛事周日提取 daily 序列并计算中位数/区间",
+    "note": "返回网格与请求坐标不同，已改用返回网格坐标；样本为 2015-12-06、2016-12-04、2017-12-03、2018-12-02、2019-12-01、2020-12-06、2021-12-05、2022-12-04、2023-12-03、2024-12-01、2025-12-07。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "API 返回 latitude 39.47276, longitude -0.3734436, elevation 23。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "最高温 14.0–23.6 中位 16.5；最低温 4.5–13.8 中位 9.3（11 日样本排序计算）。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "≥1 mm 两天：2016-12-04 9.4、2022-12-04 1.1；合计 10.5 mm。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "最大风速 7.3–36.1 km/h，中位 15.4 km/h。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "再分析模型网格值，非赛道实测，也非 2026 预报。" }
+  ]
+}

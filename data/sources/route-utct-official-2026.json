@@ -10,7 +10,8 @@
     "The UTCT 100 miler runs from the northern mountain range to the southern mountains via Silvermine, Kalk Bay, Kommetjie and Simonstown, with 7,516 m of vertical gain.",
     "The organiser says weather can vary drastically in late November, from single-digit temperatures on top of Table Mountain to more than 30 °C later in the day.",
     "The event describes all six races as genuine mountain excursions over highly technical trails in Table Mountain National Park.",
-    "The official 2026 event home page provides TRACKING and LIVE BROADCAST entry points for the race weekend."
+    "The official 2026 event home page provides TRACKING and LIVE BROADCAST entry points for the race weekend.",
+    "The official 2026 pages title the event 'RMB Ultra-trail Cape Town' with RMB as title sponsor; no 'by UTMB' branding and no UTMB Group acquisition announcement appear on the pages read."
   ],
   "license": null,
   "verification": {
@@ -50,6 +51,12 @@
       "status": "supported",
       "checkedAt": "2026-11-20",
       "note": "首页：2026 20|21|22 NOVEMBER；TRACKING；LIVE BROADCAST；THE RACING UNFOLDS。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "已读官方页面品牌为 RMB Ultra-trail Cape Town，RMB 为冠名赞助商；页面无 by UTMB 标识，亦未见 UTMB 集团收购公告。"
     }
   ]
 }

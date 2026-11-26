@@ -11,20 +11,26 @@ reviewers:
 translationStatus: reviewed
 ---
 
-## 核验状态
+## 赛事快照
 
 - 版本：`2026-utct-100k`，2026 届，比赛周末 2026 年 11 月 20 日至 22 日。UT100 于 11 月 21 日 04:00 从 Gardens Rugby Club 起跑；100 英里于 11 月 20 日 17:00 出发。赛前核验日是 2026-11-20；2026-11-22 06:22 SAST 补读官方 Sportraxs 2026 UT100 provisional 排行榜，10:50 SAST 复读时页面已改为 official 成绩；11:19 SAST 复读 100 英里页面仍为 provisional，14:25 SAST 复读已改为 **Official results / Finished · official**，14:33 SAST 复核状态未变。因此本页现在有 2026 UT100 与 2026 100 英里两组官方成绩。
-- 定位：本页写 World Trail Majors 2026 赛季的一站。官方 UT100 页明确称 UT100 是 Gran Canaria World Trail Majors 的最后一站，也是赛事最初的原始距离之一。它不在 UTMB World Series 赛历内，也不是任何马拉松大满贯；同城的开普敦公路马拉松另有一页，两者不是同一场比赛。
+- 归属与定位：本页写 World Trail Majors 2026 赛季的一站。官方 UT100 页明确称 UT100 是 Gran Canaria World Trail Majors 的最后一站，也是赛事最初的原始距离之一。归属口径经 2026-11-25 复核：UTMB 官方 2026 赛历公告列 64 站、9 个新站与 4 个 Majors，均未出现 Cape Town；UTMB.world 个人索引收录 UTCT 成绩不等于 World Series 成员；已读官方页面品牌为 RMB Ultra-trail Cape Town，RMB 为冠名赞助商，无 “by UTMB” 标识，也未检索到 UTMB 集团收购公告。它不是任何马拉松大满贯；同城的开普敦公路马拉松另有一页，两者不是同一场比赛。
 - **证据等级：A**。2026-11-20 经本机 7890 代理读取官方赛事页、UT100 页、100 英里页、race-info 页、报名页与官方 GPX。距离、爬升、时限、补给站、起终点、费用、奖金与年龄限制以官方页为主；ITRA 的 99.85 km、+5,085/−5,084 m 作为 B 层对照并列。
 - 官方页内部并不一致：UT100 卡片写 **99.1 km / 5,000 m D+**，同页描述写 **4,972 m**；100 英里卡片写 **163 km / 7,187 m D+**，同页开头描述写 **7,516 m**。两组冲突都保留，正文不替官方裁决，也不把其中一个当成「正确值」。
 - 赛道几何：**有官方 GPX 入口**。官方 UT100 页提供 2026 版 GPX 下载链接，本页只外链、不转存；逐点计算得平面距离 97.83 km、原始高程累计 +6,827/−6,826 m，这是测量值，不是官方公布的 99.1 km / 5,000 m。地图仍只显示城市级锚点，不画赛道线。
 - 本页没有实地跑过这条赛道。
-- 改线核查：**2023、2024、2025 三届官方 roadbook 没有取得**。组委会在 100 公里赛道描述里写明 12 Apostles 与 Llandudno Ravine 一段是「新增」，且因 Constantia Nek 拥堵而「最近才获许可」，但没有给出年份；没有 roadbook 对照就无法把它落到某一届，因此 `courseChanges` 留空，本页只把这个说法当作官方叙述记录。
+- 改线核查：**2023、2024、2025 三届官方 roadbook 没有取得**。组委会在 100 公里赛道描述里写明 12 Apostles 与 Llandudno Ravine 一段是「新增」，且因 Constantia Nek 拥堵而「最近才获许可」，但没有给出年份；没有 roadbook 对照就无法把它落到某一届，因此该条目已记入 `courseChanges`，但启用年份留空，不落到具体届次。
 - 2026 UT100 官方成绩：官方 Sportraxs 排行榜标 **Official**；2026-11-22 10:50 SAST 显示 447 人名单、359 完赛、88 退赛、0 在赛道（男子 366 / 295 / 71 / 0，女子 81 / 64 / 17 / 0）。06:22 SAST 的 provisional 计数为 358 / 87 / 2；官方结算把最后 2 人改为 1 人完赛、1 人退赛，两名都是男子。本页不再把 358 当完赛数。
 - 2026 赛果边界：100 英里 11 月 20 日 17:00 出发、45 小时关门；UT100 11 月 21 日 04:00 出发、26 小时关门。按卡片推算，100 英里终点关门为 11 月 22 日 14:00，UT100 为 11 月 22 日 06:00；两组均已完成官方结算（On course 0）。100 英里的 16 名在赛道选手在 14:00 后全部结算：完赛从 75 增至 91，退赛保持 36，没有新增退赛。
-- 来源：18 个，分别是官方 2026 赛事页、UT100 页、100 英里页、race-info 页、报名页、ITRA 2026 赛事页（含 UT100 与 100 英里两个距离页）、ITRA 2025 UT100 结果页、ITRA 2025 100 英里结果页、WTM 系列页、Open-Meteo 地理编码、Open-Meteo 历史天气、开普敦机场交通页、Sportraxs 2026 UT100 official 排行榜、Sportraxs 2026 UTCT 100M provisional 快照、Sportraxs 2026 UTCT 100M official 排行榜，以及 Table Mountain、Hout Bay、Lion's Head 三张 Commons 照片来源。
+- 来源：19 个，分别是官方 2026 赛事页、UT100 页、100 英里页、race-info 页、报名页、ITRA 2026 赛事页（含 UT100 与 100 英里两个距离页）、ITRA 2025 UT100 结果页、ITRA 2025 100 英里结果页、WTM 系列页、UTMB 2026 赛历公告、Open-Meteo 地理编码、Open-Meteo 历史天气、开普敦机场交通页、Sportraxs 2026 UT100 official 排行榜、Sportraxs 2026 UTCT 100M provisional 快照、Sportraxs 2026 UTCT 100M official 排行榜，以及 Table Mountain、Hout Bay、Lion's Head 三张 Commons 照片来源。
 
-## 这场比赛是什么
+## 60 秒结论
+
+这一页按 2026 届官方与 ITRA 已读资料整理，面向准备报名 UT100 或 100 英里的越野跑者。**适合**：有长距离山地基础、能在桌山陡坡与技术下降上保持节奏，并能按 26 小时（UT100）或 45 小时（100 英里）规划补给、保暖与跨夜段的选手。**不适合**：首次跑百公里、没有夜赛经验，或无法接受开普半岛日间高温、山脊大风与技术下降的跑者。三个关键决策：一是先选距离——UT100 是赛事长期主距离，100 英里是 2026 旗舰距离且带资格门槛；二是先核资格——100 英里须在 10 月 28 日中午前提交 24 个月内 50 km+ 越野成绩；三是按官方口径理解距离与爬升，本页并列官方卡片、ITRA 登记与 GPX 测量三套数字，不替官方裁决冲突。
+
+- **谁适合**：有百公里上下经验、能处理 35 度以上陡坡与技术下降、备过夜赛经验的进阶越野跑者。
+- **谁不适合**：首次长距离、无夜间导航经验、对高温暴露或大风山脊准备不足的跑者。
+- **先做什么**：对照官方资格与报名费档位选距离；按官方 GPX 与赛道描述评估陡坡、技术下降与跨夜段；赛前从官方 race-info 与 briefing 补齐强制装备清单与逐站安排。
 
 RMB Ultra-Trail Cape Town 是开普敦的越野赛周末，2026 届设六个组别。赛事自 2014 年创办，组委会称 35% 的参赛者来自 55 个国家。比赛在桌山、大西洋海岸与开普半岛南部之间展开。
 
@@ -69,9 +75,9 @@ ITRA 页面上由组委会提交的描述把 UT100 概括为「前段集中」�
 
 ![从开普敦 CBD 看狮头山，UT100 起跑后先绕行狮头山（2026 年，非赛事实拍）](/media/routes/utct/lions-head-2026.jpg)
 
-组委会特别写到：12 Apostles 与 Llandudno Ravine 这一段是「新增」路线，最初提出申请，因 Constantia Nek 拥堵，最近才获得许可。这句话说明 100 公里路线至少有过一次调整，但没有年份，也没有说明调整前后的完整走向。本页因此把它写在正文，而不写进 `courseChanges`。
+组委会特别写到：12 Apostles 与 Llandudno Ravine 这一段是「新增」路线，最初提出申请，因 Constantia Nek 拥堵，最近才获得许可。这句话说明 100 公里路线至少有过一次调整，但没有年份，也没有说明调整前后的完整走向。本页据此把它记入 `courseChanges` 条目，启用年份留空。
 
-## 100 英里：旗舰距离、资格与配速
+## 100 英里：旗舰距离与配速
 
 100 英里不是把 UT100 加长一圈。官方描述把它写成从北到南穿越半岛：先上 Kloof Corner 与桌山北壁，经过 Llandudno、Hout Bay，再向 Silvermine、Kalk Bay、Simon's Town、Scarborough、Kommetjie 与 Noordhoek 延伸，最后从 UCT 爬上 King's Blockhouse，沿等高线回到 Gardens。
 
@@ -87,7 +93,7 @@ ITRA 页面上由组委会提交的描述把 UT100 概括为「前段集中」�
 
 100 英里的 2026 open 奖金为冠军 R80,000、亚军 R40,000、季军 R25,000；UT100 为 R75,000 / R37,500 / R18,750。两组都只列前三，不把年龄组或团队奖混进 open 奖金。
 
-## 赛道顺序：13 个官方节点
+## 赛道与几何
 
 官方 100 英里页把赛道描述为从北到南再回城：Gardens Rugby Club → Kloof Corner 与桌山北壁 → Llandudno → Hout Bay → Silvermine → Kalk Bay → Simon's Town → Scarborough → Kommetjie → Noordhoek → UCT → King's Blockhouse → Gardens Rugby Club。下面这张图把这 13 个节点按官方叙述顺序排成等宽卡片，只回答“先到哪里、后到哪里”，不给出逐站公里，也不代表真实距离比例。
 
@@ -129,7 +135,7 @@ ITRA 页面上由组委会提交的描述把 UT100 概括为「前段集中」�
 
 图里按数值比例画横条，只比较已读到的数字，不判断哪一个是“真实爬升”。最高条 9,004 m 来自计时平台卡片，不代表最权威；官方卡片 7,187 m 与同页 7,516 m 仍并列。
 
-## 补给、关门与难度
+## 计时与关门
 
 UT100 官方页确认 26 小时、9 个补给站；100 英里官方页给 45 小时、14 个补给站。两页都没有给出各补给站的累计公里，也没有给出逐站关门时刻，本页不推算站间距离，也不把总时限平摊成配速。
 
@@ -144,7 +150,23 @@ UT100 官方页确认 26 小时、9 个补给站；100 英里官方页给 45 小
 
 按卡片起跑时刻与时限相加：100 英里 17:00 出发、45 小时，终点关门落在 11 月 22 日 14:00；UT100 04:00 出发、26 小时，落在 11 月 22 日 06:00。两者都是算术推算，官方没有另列绝对钟点，也没有给逐站关门，比赛日仍以官方 briefing 为准。
 
-## 比赛日执行卡：100 英里
+## 装备与规则
+
+官方 race-info 页把年龄、强制装备、cupless 与退赛流程写在同一组规则里；下列口径来自官方 race-info 与 100 英里页。
+
+| 类别 | 官方口径 |
+|---|---|
+| 最低年龄 | Kickstarter 16 为 16 岁以上；Explorer 23 为 18 岁以上；Table Mountain 35、Peninsula Traverse 55、UT100 与 100 英里均为 20 岁以上 |
+| 强制装备 | 无论报哪个距离，全程必须携带全部强制装备；具体清单以官方 race-info 当届版本为准 |
+| 杯具 | 赛事为 cupless race，必须自带杯子并全程携带 |
+| 路线封闭 | 因故离开标记路线必须步行返回偏离点；需要退赛须继续走到最近补给站并告知站长；未通知官方自行离开可导致未来禁赛（急救人员协助离场除外） |
+| 医疗 | 医疗救助可用但不一定就在身边；去补给站寻求基础急救以外的帮助前，应先通知应急联络 |
+| 配速员（100 英里） | 仅限 Llandudno → Alphen Trail 段（105.7 km，7 个上下车点）；最多登记 3 人，同时只能 1 人陪跑；不能替选手背装备，不能在非指定站加入或退出 |
+| 精英与年龄组 | 国际精英按 ITRA performance index：男子 800+、女子 690+ 可申请免费名额；南非精英由组委会个案保留；年龄组 Open 18–39、Vets 40–49、Masters 50+、Grand Masters 60+ |
+
+装备清单本身未在已读页面逐条展开，本页不替官方列打勾表；桌山山脊与海岸夜段的温差在「天气与环境」一节说明。
+
+## 比赛日执行卡
 
 | 项目 | 官方信息 | 执行含义 |
 |---|---|---|
@@ -173,7 +195,9 @@ UT100 官方页确认 26 小时、9 个补给站；100 英里官方页给 45 小
 
 45 小时是关门上限，不是目标；30 小时对应 Honey Badger 奖牌。上坡、技术下降、夜间与补给停留都会让实际分段慢于这个平均值，本页不把 45 小时平均配速当成“还能留多少时间”的完整预算。
 
-## 起点、终点与后勤
+![UTCT 100 英里：不同目标完赛时间对应的平均配速](/media/routes/utct/pace-targets-100m.svg)
+
+## 补给、后勤与 crew/pacer 支援
 
 - UT100 于 11 月 21 日 04:00 在 Gardens Rugby Club 起跑，官方页写明起点与终点同为 Gardens Rugby Club；100 英里 11 月 20 日 17:00 同地出发、同地终点。
 - 其他组别的起跑时刻见上表；35 公里在 11 月 22 日 06:00 出发，是周末最后一个起跑的大组别。
@@ -190,13 +214,28 @@ UT100 官方页确认 26 小时、9 个补给站；100 英里官方页给 45 小
 - **MyCiTi**：机场有 A01 线进城，约每 20–30 分钟一班，车程约 30 分钟；使用 MyCiTi 需要 MyConnect 卡，不能上车现金买票。
 - **比赛日**：城市交通只能把人送到市区，不能替代赛事 Park & Ride；具体班次以官方 schedule 为准，不把 A01 的机场班次当成起点接驳。
 
-## 天气与季节
+## 天气与环境
 
 Open-Meteo 的开普敦历史数据（2015–2025 年 11 月 20–22 日，共 33 天）显示：日最高温 16.5–30.2 °C，中位数 23.6 °C；日最低温 9.8–17.4 °C，中位数 14.8 °C；33 天中有 10 天降水量至少 1 mm，5 天至少 5 mm。
 
 这是开普敦市区网格，不是桌山山脊或 Chapman's Peak 的暴露段。11 月的开普敦可以 30 °C，也可以阴雨、强风与夜间 10 °C；100 英里 17:00 出发会经历完整的夜间降温，UT100 04:00 出发则要在日出前应对山风。官方没有给赛期山地实测，本页不把市区数据当成山脊数据。
 
-## 报名、费用与退改
+## 训练转化
+
+UTCT 两个旗舰距离的训练问题分两层：先把长距离与山地耐力容量练到位，再按桌山陡坡、技术下降、海岸高温与跨夜段做针对性补强。下表把本页可核实的维度转成训练检查项；周课表参照本站超长越野训练计划与长距离补给知识。
+
+| 阶段 | 关键问题 | 本页可核实依据 |
+|---|---|---|
+| 耐力容量 | 能否连续支撑 99.1 km（UT100）或 163 km（100 英里），并吃下各自爬升？ | UT100 卡片 99.1 km / 5,000 m D+ / 26 小时；100 英里卡片 163 km / 7,187 m D+ / 45 小时 |
+| 陡坡与技术地形 | Platteklip Gorge 超过 35 度的长垂直爬升、Llandudno Ravine 技术下降与 Karbonkelberg 横切是否练过？ | 官方赛道描述：25 km 累计 1,700 m；桌山北壁与 Ravine 下降段 |
+| 海岸高温 | 升温时段的 Suther Peak 与 Karbonkelberg 一段是否有热负荷经验？ | 组委会称这一段是「要么成、要么败」；市区日间可 30 °C 以上 |
+| 跨夜与日出前 | 100 英里 17:00 出发经历完整夜间降温；UT100 04:00 出发要在日出前应对山风，夜间导航与保暖是否排过？ | 两组起跑时刻与时限；山脊可出现个位数气温 |
+| 补给与肠胃 | cupless 赛事、9 站（UT100）/14 站（100 英里）下的喝水、热量与电解质方案是否在长距离中验证？ | 官方补给站数量；站间公里未公布，不能按站距配水 |
+| 资格与入场 | 100 英里需要 24 个月内 50 km+ 越野成绩；UT100 未列同等强制资格赛 | 官方 100 英里页资格条款；UT100 报名条件以官方页为准 |
+
+配速换算用本站[配速计算器](/tools/pace/)；超长训练背景先看[超长越野训练计划](/knowledge/trail-ultra-training-plan/)与[长距离补给](/knowledge/long-run-fueling/)；技术下坡参照[下坡跑技巧](/knowledge/downhill-running-technique/)；高温应对见[炎热与湿度](/knowledge/heat-and-humidity/)；完赛预测可看[成绩预测工具](/tools/race-predict/)。本站不替个人设定周里程，个人容量应以既往最长训练与赛事记录为准。
+
+## 资格与报名
 
 ITRA 页面给出各组别的登记参赛上限：100 英里 350 人、UT100 450 人、55 公里 500 人、35 公里 500 人、23 公里 750 人、16 公里 500 人。UT100 与 100 英里官方页当前标着 ENTRIES ARE CLOSED；其余组别的开放状态以各自页面为准。
 
@@ -221,7 +260,9 @@ ITRA 页面给出各组别的登记参赛上限：100 英里 350 人、UT100 450
 
 100 英里的资格门槛与 UT100 不同：必须提交 24 个月内的 50 公里以上越野赛完赛成绩，截止 10 月 28 日中午；UT100 没有在已读页面列出同等的强制资格赛要求，报名前仍应以官方报名条件为准。
 
-## 2026 UT100 官方成绩（2026-11-22 10:50 SAST）
+## 成绩与改线
+
+### 2026 UT100 官方成绩（2026-11-22 10:50 SAST）
 
 官方 Sportraxs 的 2026 UT100 排行榜已标 **Official**。10:50 SAST 的页面合计 447 人名单（男子 366、女子 81），其中 359 人完赛、88 人退赛、0 人仍在赛道；这里的“名单”是排行榜里的 runners，不等于报名人数。
 
@@ -277,6 +318,10 @@ Mark Winter 与 Matthew Thomson 并列第 4，因此总榜没有单独第 5；�
 
 Sportraxs 事件页的 100 英里卡片另写 **161 km / 9,004 m**、91 完赛、36 退赛；这两个数字是计时平台卡片值，和官方 100 英里页的 163 km / 7,187 m（同页 7,516 m）不是同一口径，已在“距离与爬升的多套口径”一节并列。最终结算不再有“仍在赛道”的模糊状态，但官方仍未公布逐站成绩、逐站关门或完整精英名单；本页不把总榜前五扩写成完整分组榜单。
 
+下图为本站自制的 2026 官方结算完赛 / 退赛人数对比，数据取自 Sportraxs 两组官方排行榜；名单人数不等于报名人数。
+
+![UTCT 2026：UT100 与 100 英里官方结算完赛 / 退赛人数](/media/routes/utct/finish-status-2026.svg)
+
 ## 2025 成绩
 
 2025 届 UT100 的男子前三：Jeff Mogavero（美国）11:04:53、Dmitry Mityaev 11:05:24、Matthew Healy（南非）11:11:26；女子第一是 Sunmaya Budha（尼泊尔）12:25:55，总排名第 8。以上来自 ITRA 2025 UT100 结果页。
@@ -285,7 +330,11 @@ Sportraxs 事件页的 100 英里卡片另写 **161 km / 9,004 m**、91 完赛�
 
 这些是 2025 的完赛成绩，保留为历史基线；2026 UT100 与 100 英里官方成绩分别见上两节。2026 100 英里在 11 月 22 日 14:00 关门后完成官方结算，本页不把 2025 名次当成 2026 预测。
 
-## 已核实与未核实
+### 改线记录
+
+- **12 Apostles / Llandudno Ravine 段（启用年份官方未公布）**：组委会在 100 公里赛道描述中写明这一段为「新增」：最初提出申请，因 Constantia Nek 拥堵，最近才获得许可；2023–2025 三届 roadbook 未取得，无法对照落到具体届次。影响：该段构成桌山北壁到海岸补给站之间的技术下降；启用前后完整走向与距离差官方未公布。来源：ITRA 转载的组委会描述（`route-utct-itra-2026`）。
+
+## 核验与权利
 
 **官方（A）与 ITRA（B）能支持的：**
 
@@ -329,11 +378,11 @@ Sportraxs 事件页的 100 英里卡片另写 **161 km / 9,004 m**、91 完赛�
 
 ## 来源
 
-1. 官方 2026 赛事页（日期、六个组别、100 英里 7,516 m 描述、天气与 TRACKING/LIVE BROADCAST）：https://www.ultratrailcapetown.com/utct
-2. 官方 UT100 2026 页（99.1 km / 5,000 m / 26 小时 / 9 站 / 04:00、GPX 入口、UT100 奖金、Nic Bornman 与 The Originals 奖牌、WTM 最后一站）：https://www.ultratrailcapetown.com/ut100
-3. 官方 100 英里 2026 页（163 km / 7,187 m / 45 小时 / 14 站 / 17:00、同页 7,516 m、资格、配速区、Honey Badger、奖金）：https://www.ultratrailcapetown.com/100miles
-4. 官方 race-info 页（年龄 16/18/20、强制装备、cupless、退赛登记与医疗说明）：https://www.ultratrailcapetown.com/race-info
-5. 官方报名页（2026 六档价格、退款与替换、精英通道、年龄组；页内仍残留 2025 条款文本）：https://www.ultratrailcapetown.com/copy-of-enter
+1. 官方 2026 赛事页（日期、六个组别、100 英里 7,516 m 描述、天气与 TRACKING/LIVE BROADCAST）：[https://www.ultratrailcapetown.com/utct](https://www.ultratrailcapetown.com/utct)
+2. 官方 UT100 2026 页（99.1 km / 5,000 m / 26 小时 / 9 站 / 04:00、GPX 入口、UT100 奖金、Nic Bornman 与 The Originals 奖牌、WTM 最后一站）：[https://www.ultratrailcapetown.com/ut100](https://www.ultratrailcapetown.com/ut100)
+3. 官方 100 英里 2026 页（163 km / 7,187 m / 45 小时 / 14 站 / 17:00、同页 7,516 m、资格、配速区、Honey Badger、奖金）：[https://www.ultratrailcapetown.com/100miles](https://www.ultratrailcapetown.com/100miles)
+4. 官方 race-info 页（年龄 16/18/20、强制装备、cupless、退赛登记与医疗说明）：[https://www.ultratrailcapetown.com/race-info](https://www.ultratrailcapetown.com/race-info)
+5. 官方报名页（2026 六档价格、退款与替换、精英通道、年龄组；页内仍残留 2025 条款文本）：[https://www.ultratrailcapetown.com/copy-of-enter](https://www.ultratrailcapetown.com/copy-of-enter)
 6. ITRA 2026 赛事页（含 UT100 与 100 英里两个距离页；UT100 99.85 km、+5,085/−5,084 m、450 人；100 英里 163.44 km、+6,995/−6,991 m、45 小时、14 站、350 人）：https://itra.run/Races/RaceDetails/RMB...Ultra.trail.Cape.Town.ULTRA.TRAIL.100.KM/2026/116887 ；https://itra.run/Races/RaceDetails/RMB...Ultra.trail.Cape.Town.UTCT.100.MILE/2026/116886
 7. ITRA 2025 UT100 结果页（男子前三、女子第一）：https://itra.run/Races/RaceResults/RMB...Ultra.trail.Cape.Town.UTCT.100.MILE/2025/102584
 8. ITRA 2025 100 英里结果页（男女前三）：https://itra.run/Races/RaceResults/RMB...Ultra.trail.Cape.Town.UTCT.100.MILE/2025/102583
@@ -347,5 +396,13 @@ Sportraxs 事件页的 100 英里卡片另写 **161 km / 9,004 m**、91 完赛�
 16. Wikimedia Commons — Table Mountain from Blouberg（South African Tourism，CC BY 2.0，2006-01-05，原图 6,144×4,096）：https://commons.wikimedia.org/wiki/File:Table_Mountain_from_Blouberg,_South_Africa_(4028515275).jpg
 17. Wikimedia Commons — Aerial of Hout Bay Harbour（South African Tourism，CC BY 2.0，2009-04-28，原图 1,024×680）：https://commons.wikimedia.org/wiki/File:Aerial_of_Hout_Bay_Harbour,_Cape_Town,_Western_Cape_Province_(6253198444).jpg
 18. Wikimedia Commons — Lion's Head from Cape Town CBD（Husskeyy，CC BY-SA 4.0，2026-01-19，原图 4,096×1,864）：https://commons.wikimedia.org/wiki/File:Lion%27s_Head_from_Cape_Town_CBD_(Landscape).jpg
+19. UTMB World Series 2026 赛历公告（64 站 / 9 新站 / 4 Majors，无 Cape Town；UTMB.world 索引收录不等于成员；未检索到集团收购公告）：https://utmb.world/it/news/new-season-2026
 
 延伸阅读：[开普敦公路马拉松](/routes/cape-town/)、[长距离补给](/knowledge/long-run-fueling/)、[轨迹查看工具](/tools/track-view/)、[分段配速工具](/tools/splits/)。
+
+<!-- related-ring -->
+## 相关条目
+
+- [UTMB 环勃朗峰：2026 赛道全解](/routes/utmb/)
+- [西部各州 100 英里：2026 赛道全解](/routes/western-states/)
+- [CHIANG DAO 160：清迈 Major 的 173 公里主赛，48 小时与八处关门](/routes/chiang-dao-160/)

@@ -98,6 +98,21 @@ The 2027 news item says the women's winner "shattered the course record", while 
 
 Both are official, so this page shows both and does not decide which is the "current" record.
 
+## Course and geometry: 42.195 km, 296 → 1,551 m
+
+The start and finish are both in Zegama town; the start sits at 296 m and the high point is Aketegi at 1,551 m. The 1,255 m difference is this page's subtraction of the official altitudes; the organiser does not publish the gap separately. The route crosses the Aratz massif and the Aizkorri range, including four of the Basque Country's highest peaks, on beech forest, steep rocky slopes and high pasture, with about 50% technical terrain.
+
+| Geometry item | Figure used | Note |
+| --- | --- | --- |
+| Official distance | 42.195 km (course and regulation pages) | GTWS page 42 km; embedded Strava route 42.3 km; three sit side by side |
+| Official gain | 5,472 m (course and regulation pages, confirmed by Basque Mountain Federation technicians) | GTWS data block 2,745 m, text 2,736 m; the 5,472 = 2 × 2,736 relation is unexplained by the organiser |
+| Start / high point | Start 296 m; Aketegi 1,551 m | 1,255 m gap derived on this page |
+| Technical share | About 50% (course page) | No per-segment surface grading published |
+| Special timing point | Flying sprint at Aizkorri, 22.58 km | Organiser-designed timing point, not a split aid station |
+| Track | No downloadable GPX on the official site | This page draws no track and hosts none; a [track viewer](/en/tools/track-view/) reads an authorised file you provide |
+
+The organiser has not published a 2027-specific track; follow the pre-race guide and day markings.
+
 ## Elite density
 
 The 2026 25th-edition Golden Trail World Series ranking gives times and points for the top ten.
@@ -139,6 +154,21 @@ In other words, spectators climb 450 to 661 m themselves to stand at km 19.6.
 The organiser publishes no 2027 spectator numbers or capacity for the spectator point.
 
 ![Sylvia Nordskar breaking the finish tape at the 2024 Zegama-Aizkorri](/media/routes/zegama/zegama-finish-2024.jpg)
+
+## Aid, logistics and spectator support
+
+| Logistics item | Verified figure | Unverified |
+| --- | --- | --- |
+| Aid stations | 13 stations, plus one at the finish (regulation) | Food, drinks and cup requirements per station |
+| Bag drop | No bag or luggage transport arrangement read on this page | Start/finish bag-drop location |
+| Spectator point | Sancti Spiritu at 19.6 km, called a legendary location by the organiser | 2027 crowd numbers and capacity |
+| Spectator route 1 | Bus Zegama square 06:30–08:00 to the station, then 6.3 km walk, +450 m; bus needs no booking | 2027 service times |
+| Spectator route 2 | Walk 6.9 km, +661 m from Zegama square along the Camino de Santiago | — |
+| Spectator route 3 | Shuttle from Suazarreta car park from 06:00 to Otzaurte col, then 5 km climb, +460 m | Last shuttle |
+| Runner transport | The official site publishes no regular rail, coach or airport transfer | Public transport to Zegama for entrants |
+| Parking controls | Only the Suazarreta car park is named | Road-closure timetable and parking capacity |
+
+Spectators climb 450–661 m to reach the 19.6 km point; these three routes are spectator access, not runner transport from outside.
 
 ## Broadcast
 
@@ -186,6 +216,20 @@ Set against long-distance events, the list is short: no head torch, no spare bat
 
 That comparison is this page's editorial judgement, not an official statement.
 
+## Timing and cut-offs: 8-hour limit and the checkpoint table
+
+The overall limit is 8 hours (480 minutes). Over 42.195 km the average pace cap is about 11:23 per km (480 ÷ 42.195 ≈ 11.38 min/km); this is an average figure, and technical sections and steep climbs widen the real spread. The organiser publishes no split pace targets.
+
+| Timing item | Verified figure | Unverified |
+| --- | --- | --- |
+| Overall limit | 8 hours (course and regulation pages) | Whether it changes for 2027 |
+| Checkpoints | 13 mandatory pass-throughs (regulation); 14 control points (course page) | The organiser has not explained the 14 versus 13 difference |
+| Per-point cut-offs | The course page table has 11 rows, from Ulzama at 8.5 km to the 42.20 km finish | Per-point times are not transcribed here; follow the 2027 regulation table |
+| Aid stations | 13, plus one at the finish (regulation) | Menu and cup requirements per station |
+| Timing device | Bib or GPS device issued by the organiser must be used | Whether GPS is issued in 2027 |
+
+The course-page cut-off table lists 11 rows; the organiser has not explained the 14, 13 and 11 figures. The elimination rule at a cut-off follows the 2027 regulation text.
+
 ## Getting there and weather
 
 The organiser's spectator guide gives race-day shuttles: a bus from Zegama square to the train station between 06:30 and 08:00 with no reservation, and a shuttle from the Suazarreta car park to the Otzaurte pass from 06:00.
@@ -220,6 +264,41 @@ Sylvia Nordskar breaking the finish tape as the 2024 Zegama-Aizkorri winner; aut
 
 Official images carry no reuse licence and are not used; this page links only to the official pages and GTWS pages. The photograph was resized and recompressed without changing its content; the text's CC BY 4.0 licence does not apply to it.
 
+## Training transfer
+
+Zegama-Aizkorri is a 42.195 km, official 5,472 m climb, 8-hour mountain race with about 50% technical surface, start and finish in Zegama town at 296–1,551 m. It is not an ultra finished on long-distance mileage; it is a short, steep track race. The table breaks the demands into trainable abilities; it lists directions, not an official plan.
+
+| Ability | Course demand | Preparation direction |
+| --- | --- | --- |
+| Mountain speed endurance | About 5,000 m of gain/loss over 42 km; 8 h is a loose ceiling, elites finish 3:45–4:00 | Build climb endurance with mountain intervals and long hill sessions; pace training intensity from your own target finish time |
+| Steep climbing | Aratz, Aizkorri, Aketegi three massifs, high point 1,551 m | Add hill repeats and stair/gradient sessions; practise run-walk switches on steep slopes |
+| Technical descent | About 50% rocky and pasture technical surface, steep up and down | Add technical downhill running and quad strength; do not force wet rock |
+| Ridge weather adaptation | June mountain wind, rain and low cloud; town climate does not represent the ridge | Prepare layering and rain gear; check the Aizkorri ridge forecast before race day |
+| Race fuelling | 13 aid stations plus the finish; personal cup mandatory | Train station-to-station eating at high race rhythm per [fueling long runs](/en/knowledge/long-run-fueling/); do not simulate ultra-long gaps |
+| High-intensity recovery | Deep elite field; top 10 within less than 14 minutes | Recover after a high-intensity mountain race; do not stack hard sessions back to back |
+
+Use the [split pace tool](/en/tools/splits/) to break a target time into kilometres; the tool does arithmetic only and does not replace mountain speed training.
+
+## Race-day execution card
+
+The table follows the main mountain sections; per-point cut-offs follow the 2027 regulation page. Pacing notes are editorial judgement, not official split targets.
+
+| Phase | Rough distance | Execution notes | Reference |
+| --- | ---: | --- | --- |
+| Opening out of town | 0–8.5 km | Leave 296 m town at a controlled opening; Ulzama is the first point on the cut-off table | 8 h limit |
+| Aratz massif | 8.5–c. 19.6 km | Beech forest and rock; spectator point Sancti Spiritu at 19.6 km | — |
+| Aizkorri sprint | c. 19.6–22.58 km | Flying sprint at 22.58 km; densest crowd wave | Flying sprint |
+| Aketegi high point | c. 22.6–30 km | Climb to the 1,551 m high point; pick footfalls on technical ground | — |
+| Finish back to town | 30–42.195 km | High pasture and descent back to Zegama; check margin against the cut-off table | Finish 42.20 km |
+
+Before the start, check the three mandatory items: windproof jacket worn the whole race, personal cup, emergency blanket. Poles are allowed; use the double bib or GPS if issued. Until the 2027 regulation page is published, the kit list follows the 2027 official text. To drop, report to a checkpoint judge and hand in bib/GPS; Otzaurte and Zegama town have road access, do not cut down elsewhere.
+
+## Results and course changes: 2026 winners and record figures
+
+The 2026 (25th) men's winner was Elhousine Elazzaoui in 3:45:07, 212 points; the women's winner in 4:08:09. The GTWS ranking page puts the top 10 between 3:45:07 and 3:58:21, within less than 14 minutes. The course record column still lists Kilian Jornet 3:36:40 and Nienke Brinkman 4:16:43 from 2022; the 2027 news says the women's winner broke the course record, but the record column was not updated after the 2026 result. Both are official figures; this page keeps them side by side and does not rule which is the current record. The 2027 edition has not been held; this page has no 2027 results and predicts no rankings or elite list.
+
+On course changes, prior runner guides were not obtained and the year-by-year change history is unverified. This page has no logged official reroute, rescheduling or rule change; the entity's `courseChanges` array is empty, which is not written as "no changes". Whether 5,472 m includes descent and the reason for the 14 versus 13 checkpoint difference are both unexplained by the organiser; the 2027 geometry follows the pre-race guide and day markings.
+
 ## Verified and unverified
 
 Verified: the 2027 date and edition number, 42.195 km and 5,472 m, the eight-hour limit, start and high-point altitudes, technical share, checkpoint and refreshment counts, compulsory kit, the 2026 entry structure and fee, 2026 winning times, GTWS points, the spectator point and its three access routes, race-day spectator shuttle times, the Zegama June climate statistics, and the GTWS live channel.
@@ -238,3 +317,10 @@ Unverified: the 2027 elite start list, the 2027 fee and age rule, whether the 20
 8. OpenStreetMap (Zegama town coordinates, map anchor only, ODbL): https://www.openstreetmap.org/relation/347124
 9. Open-Meteo ERA5 reanalysis (Zegama town centre, 300 June days 2016–2025, mean daily max/min and precipitation, CC BY 4.0): https://archive-api.open-meteo.com/v1/archive?latitude=42.9758111&longitude=-2.290301&elevation=296&start_date=2016-06-01&end_date=2025-06-30&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Europe%2FMadrid
 10. Wikimedia Commons photograph `photo-zegama-finish-2024` (2024 Sylvia Nordskar finish; author Mathis Decroux; CC BY-SA 4.0; taken 2024-05-26; rechecked via API and thumbnail on 2026-11-20): https://commons.wikimedia.org/wiki/File:Sylvia_Nordskar_at_Zegama-Aizkorri_2024.jpg
+
+<!-- related-ring -->
+## Related entries
+
+- [Antarctic Ice Marathon 2026: four 10.55 km laps at 80°S, ten hours and USD 22,500](/en/routes/antarctic-ice-marathon/)
+- [Big's Backyard Ultra: the Bell Buckle backyard format explained (2025 individual world championship basis)](/en/routes/bigs-backyard-ultra/)
+- [Black Canyon 100K 2027: 62.2 miles on the Arizona trail, 20 hours and a Western States Golden Ticket](/en/routes/black-canyon-ultras/)

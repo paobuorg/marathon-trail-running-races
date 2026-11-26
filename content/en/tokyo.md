@@ -186,6 +186,118 @@ These conditions come from official pages and Open-Meteo data. The checkpoints a
 
 The official material has no mandatory kit list; the course is a city road. Use the site's pace calculator for target-pace arithmetic and the marathon-distance entry for the training context.
 
+## Entry conditions and field size
+
+Tokyo is not first-come, first-served. The official 2027 race-information page states that the race is on Sunday 7 March 2027, the marathon starts at 9:10 with a seven-hour limit, and entrants must be at least 19 on race day (born on or before 7 March 2008) and capable of finishing within 6:30. The field is 40,000; registration opens on 31 July 2026 and selection is by random draw if entries exceed the field.
+
+| Item | Official 2027 page | What it means for entry |
+|---|---|---|
+| Race date | Sunday 7 March 2027 | Work backwards from the first Sunday in March |
+| Start and limit | 9:10 start, 16:10 finish, 7 hours | The clock starts at the gun; traffic cut-offs also apply |
+| Age | 19 on race day, born 2008-03-07 or earlier | Use the passport date |
+| Capability | Able to finish within 6:30 | No 6:30 proof is demanded at entry, but the course enforces its cut-offs |
+| Field | 40,000 | Random draw if oversubscribed |
+| Fee | JPY 19,800 domestic; USD 230 international | Entry, handling and tax included |
+| Packet pickup | 4–6 March 2027, Tokyo Big Sight South Hall | No race-day pickup; arrive in Tokyo early |
+
+The 2026 race had 38,472 marathon entrants plus 301 in the 10.7 km event, 38,773 in total, with 37,268 finishers and a 96.9% finish rate. The largest finishing band was 4–5 hours with 11,389 runners (30.6%); the 6–7 hour band held 4,967 (13.3%). Tokyo finishes a high proportion of its field, but the last band still represents more than a fifth of the field arriving after six hours.
+
+## Timing and cut-offs
+
+Tokyo's nine cut-off points are not evenly spaced. Subtract the 9:10 gun from each cut-off and you get the slowest permitted average pace to that point. The early cut-offs are generous; the second half tightens, and the real pressure starts after 30 km.
+
+| Cut-off | Cumulative km | Cut-off time | Elapsed | Slowest average to the point |
+|---|---:|---|---:|---:|
+| Ichigaya | 4.9 km | 10:25 | 1:15 | 15:18 /km |
+| Sudacho | 9.2 km | 11:10 | 2:00 | 13:02 /km |
+| Hisamatsucho | 15.4 km | 11:55 | 2:45 | 10:43 /km |
+| Midoricho | 20.9 km | 12:45 | 3:35 | 10:17 /km |
+| Fukagawa | 24.7 km | 13:20 | 4:10 | 10:07 /km |
+| Asakusabashi | 29.2 km | 14:00 | 4:50 | 9:56 /km |
+| Sukiyabashi | 33.5 km | 14:35 | 5:25 | 9:42 /km |
+| Shiba Park | 38.5 km | 15:15 | 6:05 | 9:29 /km |
+| Tokyo Station finish | 42.195 km | 16:10 | 7:00 | 9:57 /km |
+
+The first 20 km look walkable, but that is not a reason to dawdle. After 20 km there is a cut-off every 4–6 km, and after 33.5 km the floor is 9:29/km. What stops runners is the post-30 km fade, not the crowd at the start. Write 30 km, 35 km and 40 km arrival times on your hand; the 16:10 finish alone is too late a warning.
+
+## Gear: the road-marathon light list
+
+Tokyo has no trail-style mandatory kit, but "light" does not mean "nothing". Start-line cold, rain, stomach problems and foot problems can turn a road race into a logistics exercise. The list below is editorial advice, not an official requirement.
+
+| Category | Suggested | Do not |
+|---|---|---|
+| Shoes | A racing shoe or trainer already used for a 30 km long run | Wear a new shoe for the first time on race day |
+| Clothing | A discardable old jacket for the start, removed after the gun | New tights or an unwashed singlet |
+| Bib | Fixed on the outer layer, chip unobstructed | Bury the bib in a waist pack or under a jacket |
+| Fuel | 3–4 gels carried, practised at 7–8 km intervals | Rely only on course aid with an untested brand |
+| Chafing | Vaseline, nipple protection, anti-chafe shorts | First application on the start line |
+| Rain | Disposable poncho, old cap, spare socks in the bag | Cotton socks that hold water for 42 km |
+| Finish | Dry clothes, slides and a towel in the bag | Leave dry clothes at a hotel outside the finish |
+
+Early March mornings in Tokyo can be only a few degrees, and 40 minutes in the start pen feels much colder. The old jacket or poncho is consumable; discard it in the designated area after the gun. Do not wear a good jacket you intend to carry home. Put dry clothes and slides in the finish bag and change immediately; that matters more than a finish-line photograph.
+
+## Training: sixteen weeks to a stable 42.195 km
+
+The core of Tokyo training is to build endurance first, then make the pace stable. The 16-week structure below is editorial advice, not an official schedule. Keep at least one full rest day each week, and make the day after a long run recovery only.
+
+| Phase | Weekly running | Long run | Key session | Purpose |
+|---|---|---|---|---|
+| Base, 4 weeks | 40–55 km | 18–24 km | Easy running plus 6×1 minute hill | Build the aerobic base |
+| Specific, 5 weeks | 55–70 km | 24–30 km | Two tempo runs of 20–30 minutes | Raise the threshold |
+| Peak, 4 weeks | 65–80 km | 30–34 km | 10–15 km at marathon pace inside a long run | Rehearse race pace |
+| Taper, 3 weeks | 60–70% of peak | 18–22 km | Short marathon-pace blocks | Sleep, carbohydrate, feet |
+
+Do not run 30 km every weekend. Three or four long runs over 30 km across 16 weeks are enough; keep the others at 24–28 km. Turning every long run into a race empties the legs by week eight. Start marathon-pace blocks at 8 km and build to 15 km, at 5–10 seconds faster than goal pace, not at 10 km race effort.
+
+Tokyo in March is not always humid, but wind, rain and the seven-hour limit change fuelling. Run at least two two-hour sessions in the rain, in the race shoes and socks. If race day is wet, shoe weight and friction rise; Vaseline and anti-chafe shorts must have been tested in training.
+
+## Race-day execution card
+
+Tokyo starts at 9:10 at the Metropolitan Government Building; the nearest station is Tochomae on the Oedo Line, Exit A4. There is no race-day packet pickup, so the bib must be collected at Tokyo Big Sight in advance. Do not build a race morning around "collect the bib first".
+
+| Time | Action | Check |
+|---|---|---|
+| 06:00 | Wake, eat an easy breakfast | Bread, banana, coffee, as practised |
+| 06:45 | Leave for Tochomae | Metro card, bib, finish bag |
+| 07:15 | Arrive, toilet | Bag deadline per the official guide, not at the last minute |
+| 08:00 | Warm up, remove jacket, final drink | Gels in the waist pack, salt as needed |
+| 08:40 | Enter the corral | Bib corral, no crossing |
+| 09:10 | Gun | Hold back for 5 km |
+| 10:25 | Ichigaya, 4.9 km | First gel, check laces |
+| 12:45 | Midoricho, 20.9 km | Around halfway: salt, pace review |
+| 14:35 | Sukiyabashi, 33.5 km | The cut-off can catch you; check the margin |
+| 16:10 | Tokyo Station finish | Bib visible, collect bag, change |
+
+The real enemy is going out too fast. Tokyo's crowds are dense and loud, and the first 5 km can easily be 20–30 seconds per kilometre faster than goal. By 30 km that becomes a two-to-three-minute fade. Write target times for 5 km, 10 km and halfway on your hand and check every 5 km; do not wait until 30 km to admit the mistake.
+
+## Results: 2026 and the finish distribution
+
+The 2026 men's champion was Tadese Takele of Ethiopia in 2:03:37; the women's champion was Brigid Kosgei of Kenya in 2:14:29, a new course record. Marcel Hug won the men's wheelchair race in 1:21:09 and Catherine Debrunner the women's in 1:37:15. The marathon had 38,472 entrants and 37,268 finishers, a 96.9% finish rate.
+
+| Finishing band | Runners | Share | Reading |
+|---|---:|---:|---|
+| Under 3 hours | 2,070 | 5.6% | Elite and near-elite |
+| 3–4 hours | 9,951 | 26.7% | Fast amateur group |
+| 4–5 hours | 11,389 | 30.6% | Largest band |
+| 5–6 hours | 8,858 | 23.8% | Solid finish |
+| 6–7 hours | 4,967 | 13.3% | Cut-off pressure |
+
+The official page labels these as "under 3/4/5/6/7 hours", but the percentages sum to about 100%, so they should be read as time bands, not cumulative shares. The largest band is 4–5 hours, and 13.3% arrive in the 6–7 hour band. Kosgei's 2:14:29 is an elite reference, not an amateur target; using it as proof that "Tokyo is fast" ignores the fade after 30 km.
+
+## Spectating and moving around the city
+
+Tokyo spectators do not need tickets, but they do need the right location. The start is at the Metropolitan Government Building, closest to Tochomae Station Exit A4 on the Oedo Line. The finish is on Gyoko-dori in front of Tokyo Station; leaving via Tokyo Station or Otemachi is faster than calling a car at the finish. Many roads close on race day, and the official traffic page lists the closures. Check the day's metro and bus diversions before leaving; do not calculate from a normal Sunday timetable.
+
+The three most reliable viewing spots are Asakusa Kaminarimon, Ginza and the Tokyo Station finish. Asakusa sits around 29.2 km, where runners are still moving and the crowd is loud. Ginza around 33.5 km shows the first real fades. The finish is the most crowded. A name on a board is more useful than shouting "keep going"; after 30 km, runners hear and process far less.
+
+If you are meeting a finisher, agree on a specific Tokyo Station exit rather than "Gyoko-dori". The finish area is controlled, and the runner must collect the bag and change before coming out, often 20–30 minutes later. A precise meeting point inside the station is harder to miss than a sign at the barrier.
+
+## What to do if you are cut off or withdraw
+
+Tokyo's cut-offs are not a case of "wait until the clock reaches zero". The official guidebook states that officials may stop a runner outside a formal checkpoint if they judge the runner cannot reach the finish in time. If you are cut off or choose to withdraw, find an official, remove the barcode from the bib and hand it over, then follow instructions to the sweep bus. Runners with a finish-line bag must take the sweep bus back to the finish to collect it; do not take the metro back to the start looking for a bag that was never there.
+
+Do not try to bypass a cut-off and continue. The course runs through the city, and a detour can easily put you on a road that is not closed. Continuing after an official has stopped you does not change the result; it only adds risk. Keep the bib, leave as directed, and do not stop on course for photographs.
+
 ## Verified and unverified
 
 This page has not been run on the ground, so the two categories are kept separate.
@@ -208,4 +320,19 @@ The file is unmodified apart from size and weight compression, and is not covere
 
 The text was written independently by the RunUp editorial team from Tokyo Marathon Foundation public material and Open-Meteo data, and is licensed CC BY 4.0. Event names, official marks, official route text and official PDFs remain the property of the organiser. This page links to official files rather than redistributing course maps, guidebooks or any track.
 
-This page cites 12 sources: the 2026 race-outline PDF, the official course page, the 2026 official program guidebook course map, the 2026 official program guidebook race-day pages, the 2026 aid-station notice and PDF, the 2026 results page, the GO TOKYO start-access page, the Tokyo Station City access page, the official traffic-control page, Open-Meteo historical weather, the 2027 race-outline page and `photo-tokyo-2019` (the 2019 rain photograph). The map anchor additionally cites the RunUp editorial method note. Supporting claims and check dates appear in the source list at the foot of the page. Open-Meteo data is used under CC BY 4.0 and credited here; the image licence is as recorded on its Commons file page.
+This page cites 18 sources: the 2026 race-outline PDF, the official course page, the 2026 official program guidebook course map, the 2026 official program guidebook race-day pages, the 2026 aid-station notice and PDF, the 2026 results page, the GO TOKYO start-access page, the Tokyo Station City access page, the official traffic-control page, Open-Meteo historical weather, the 2027 race-outline page and `photo-tokyo-2019` (the 2019 rain photograph). The map anchor additionally cites the RunUp editorial method note. Supporting claims and check dates appear in the source list at the foot of the page. Five further official pages — EXPO, finish area, schedule, FAQ and charity — are used for packet pickup, finish-area flow and entry routes. Open-Meteo data is used under CC BY 4.0 and credited here; the image licence is as recorded on its Commons file page.
+
+If you are unsure whether the bag travelled to the finish, ask the official at the sweep bus before boarding; the answer is faster than a metro ride across Tokyo.
+
+Ask before the doors close and the bus leaves without you.
+
+One caution on records: a course record belongs to the measured course and the edition, not to the city. Tokyo's 2026 women's mark is comparable to other Tokyo editions on the same certified course, but not to a different marathon run in the same month.
+
+That comparison is a different race on a different day, not a faster Tokyo, really.
+
+<!-- related-ring -->
+## Related entries
+
+- [Valencia Marathon 2026: full course and PB feasibility guide](/en/routes/valencia-marathon/)
+- [Comrades Marathon: 2027 centenary Down Run, qualification, two-direction course, cut-offs and medal ladder](/en/routes/comrades-marathon/)
+- [Diagonale des Fous: the complete 2026 Grand Raid course guide](/en/routes/diagonale-des-fous/)

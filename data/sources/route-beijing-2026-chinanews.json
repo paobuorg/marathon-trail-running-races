@@ -1,0 +1,32 @@
+{
+  "sourceId": "route-beijing-2026-chinanews",
+  "title": "水平高、氛围好！2026北马诞生新纪录（中国新闻网）",
+  "url": "https://www.chinanews.com.cn/ty/2026/10-18/10716599.shtml",
+  "publisher": "中国新闻网",
+  "publishedAt": "2026-10-18",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2026 Beijing Marathon ran jointly with the National Marathon Championships; more than 265,000 runners entered worldwide and the final field was 32,000.",
+    "Tola won in 2:03:10, breaking the Beijing record of 2:07:06 set by Kenyan Mathew Kisorio in 2019; the time is also the fastest marathon ever run in mainland China.",
+    "The 2026 mass-runner finish cut-off was shortened from the previous 6:15 to 6:00.",
+    "Championship men's podium: Chen Tianyu, Jiang Fakun, Xie Yunce; championship women's podium: Ciren Cuomu, Lu Ying, Xia Yuyu.",
+    "Medical cover comprised 26 fixed stations, 35 ambulances, 100 AED units, 610 medical observers and a 200 m² finish medical center; 160 rescue runners were assigned at a 1:200 ratio; 433 referees and 7,341 volunteers served.",
+    "Course services: eight drink stations, seven water/sponge stations and seven food stations; the organiser introduced a reusable environmental cup with multi-tap self-service drums and backpack water units."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 chinanews.com.cn 赛后稿全文，含报名规模、纪录沿革、关门调整、全锦赛名次、医疗与志愿者、站点设置",
+    "note": "2026-10-18 12:59 发布；医疗与志愿者数字出自正文。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "“共吸引全球超过26.5万名跑者参与报名，最终参赛选手总规模达到32000人”；双赛合一。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "打破 Kisorio 2019 年 2:07:06 赛会纪录；并称中国境内马拉松最好成绩。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "“全程马拉松关门时间由以往的6小时15分缩短至6小时整”。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "全锦赛男子前三陈天宇、蒋发坤、解云策；女子次仁措姆、路颖、夏雨雨。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "26 固定医疗点、35 救护车、100 AED、610 观察员、200 平米医疗中心；急救跑者 1:200 共 160；裁判 433；志愿者 7341。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "8 补给站、7 饮水用水站、7 食品站；可重复使用环保水杯、多龙头自助水桶、背包式供水设备。" }
+  ]
+}

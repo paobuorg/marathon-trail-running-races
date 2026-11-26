@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-lewa-faqs-2026",
+  "title": "General FAQ — official .co.ke portal (2026 AMREF cover, spectator deadline, team size)",
+  "url": "https://www.lewasafarimarathon.co.ke/faq/",
+  "publisher": "Lewa Safari Marathon (official .co.ke portal)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "For runners not already holding AMREF cover, the 2026 FAQ lists an AMREF evacuation cover of KSh 1,500 valid for 14 days.",
+    "Spectator entry has a booking deadline of 5 May.",
+    "A corporate team comprises 4 to 9 teammates."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 .co.ke 通用 FAQ 页",
+    "note": "AMREF 金额与时长在不同 FAQ 页面口径不同（KSh 850 月订阅 vs KSh 1,500 14 天），正文并列两处并标注待当届确认。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "AMREF 段：KSh 1,500，14 天，未持有已有保障者购买。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Spectator 段：deadline 5 May。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Team 段：4–9 teammates。" }
+  ]
+}

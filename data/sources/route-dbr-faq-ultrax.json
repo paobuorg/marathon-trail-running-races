@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-dbr-faq-ultrax",
+  "title": "Ultra X event FAQ — deferral, refund and entry transfer policy (sibling official event page)",
+  "url": "https://www.capewrathultra.com/faqs",
+  "publisher": "Ultra X (organiser; FAQ mirrored on a sibling event site)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Entries cannot be transferred to another participant.",
+    "There is no cash refund; if a runner defers to the next edition, the organiser issues an event credit minus the non-refundable deposit, valid for the next year's event.",
+    "Deferral is allowed once; the deferment deadline for the 2026 entry was 1 December 2026, 17:00 BST; after that date the entry is non-deferrable and non-refundable.",
+    "Entry fees are paid by a non-refundable deposit plus monthly instalments; the participant declaration and terms must be accepted before entering."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 Ultra X 同体系赛事 FAQ 页（Cape Wrath Ultra）政策段",
+    "note": "2026-11-25 复核：Dragon's Back 官网 FAQ 短链本轮失效；该政策为 Ultra X 同体系官方 FAQ 镜像，适用口径以 Dragon's Back 当届 Terms and Conditions 为准。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "FAQ 段：entries cannot be transferred to another person。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "FAQ 段：no cash refund; deferral event credit minus deposit, valid next year。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "FAQ 段：defer once; deadline 1 December 2026 17:00 BST; after date non-deferrable, non-refundable。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "FAQ 段：deposit non-refundable, monthly instalments; declaration and terms required。" }
+  ]
+}

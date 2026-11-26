@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-seoul-2026-venue-layout",
+  "title": "2026 Seoul Marathon — venue layout guide (Gwanghwamun start, Jamsil finish)",
+  "url": "https://en.seoul-marathon.com/60/?bmode=view&idx=170394412",
+  "publisher": "Seoul Marathon Organizing Committee (The Dong-A Ilbo)",
+  "publishedAt": "2026-03-14",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Full Course Start | Gwanghwamun; 10K Start | Jamsil; Full Course and 10K Finish | Jamsil.",
+    "The Gwanghwamun start layout has an elite start line, a warm-up zone, A–G group corrals, bag-deposit trucks by group, a dressing room and toilets; the Jamsil finish zone has medal, poncho and snack distribution, medical, changing rooms, South Gate and Sports Complex Station.",
+    "Participants are strongly encouraged to use public transport to avoid congestion."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取公告 idx=170394412 场地布置图文",
+    "note": "起终点文字标注与两张场地布置图（光化门/蚕室）可读。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Full Course Start Gwanghwamun；10K Start Jamsil；Full & 10K Finish Jamsil" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "光化门图：Elite start line / Warm-up Zone / A–G corrals / bag trucks / dressing room / toilet；蚕室图：medal·pancho·snacks / medical / changing rooms / South Gate / Sports Complex Station" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Public transportation highly encouraged" }
+  ]
+}

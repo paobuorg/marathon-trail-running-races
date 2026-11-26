@@ -86,6 +86,32 @@ What follows directly from the table:
 
 Photo: Grand Col Ferret, 2023-06-28, Rémih, CC BY-SA 4.0. This is a location photograph of the pass; the hikers are not CCC runners and the image is not a race-day photograph. CCC crosses this area after Arnouvaz on its way into Switzerland; the high point is not an official timing point.
 
+## Timing and cut-offs: per-checkpoint limits, wave basis and buffer
+
+The 2026 race started in three waves; the official rules state that with multiple waves the maximum allowed time and cut-offs are calculated from the last wave's start.
+
+| Wave | Start | Time allowed to the 13:30 finish cut-off |
+| --- | --- | ---: |
+| Top Elites / Elites / CCC1 | 09:00 | 28 h 30 min |
+| CCC2 | 09:15 | 28 h 15 min |
+| CCC3 (cut-off reference wave) | 09:30 | 28 h 00 min |
+
+The table below converts the official timing sheet's cut-off times into elapsed time from the 09:30 last-wave start, with an amateur planning buffer. The buffer is an editorial planning value, not an official rule; checkpoint cut-off times and cumulative distances come from the official 2026 timing sheet.
+
+| Checkpoint | Cumulative distance | Cut-off (2026 sheet) | Elapsed from 09:30 | Suggested buffer |
+| --- | ---: | --- | ---: | ---: |
+| Refuge Bertone | 13.6 km | Fri 13:45 | 4:15 | 30–45 min |
+| Arnouvaz | 26.3 km | Fri 16:30 | 7:00 | 30–45 min |
+| La Fouly | 40.7 km | Fri 20:15 | 10:45 | 30–60 min |
+| Champex-Lac out | 54.2 km | Fri 23:15 | 13:45 | 30–60 min |
+| Plan de l'Au | 59.1 km | Sat 00:15 | 14:45 | 20–30 min |
+| Martigny | 69.2 km | Sat 02:15 | 16:45 | 30–45 min |
+| Trient | 79.1 km | Sat 05:15 | 19:45 | 30–45 min |
+| Vallorcine out | 90.1 km | Sat 08:30 | 23:00 | 30–45 min |
+| Chamonix finish | 107.8 km | Sat 13:30 | 28:00 | cut-off |
+
+Overall buffer is eaten by the opening 13.6 km at +1,436 m, night-time slowdowns and aid stops; do not spread 28 hours evenly across checkpoints, and first-wave runners cannot relax intermediate cut-offs using the 28 h 30 min figure.
+
 ## Ten-point elevation profile
 
 Among the ten timing points, the highest is Refuge Bertone at **1,982 m** and the lowest is Martigny at **507 m**. Grand Col Ferret, about **2,500 m**, sits between Arnouvaz and La Fouly but is not a timing point, so it is not on the line. Do not read this line as the full course profile.
@@ -162,6 +188,40 @@ CCC is built on **semi-autonomy**: between aid stations, runners must carry enou
 CCC's entry standard is a UTMB Index category plus Running Stones, not a 100K finish certificate. The course is 107.8 km with +6,198 m and requires night travel through Plan de l'Au, Martigny and Trient; it suits runners who have already completed 50K–100K mountain races independently and can handle night, cold and long self-supported sections. A first 100K should not treat CCC as a low-risk entry point.
 
 Do not pace off the winner's 10:21:48. The first 13.6 km climb 1,436 m, about 106 m per km, so the start is not a flat warm-up. The cut-offs that matter are Champex-Lac 54.2 km / 23:15, Plan de l'Au 59.1 km / 00:15, Martigny 69.2 km / 02:15, Trient 79.1 km / 05:15 and Vallorcine 90.1 km / 08:30. The 9.9 km / +1,077 m from Martigny to Trient is the hardest gate of the second half; the final 17.7 km still includes +787 / −1,009 m and is not a pure descent. A 30–60 minute margin at each point is more useful than calculating total time.
+
+## Training conversion: 100K mountain and night preparation
+
+CCC preparation centres on long mountain endurance, night-time rhythm and semi-self-sufficient fueling management, not road mileage. A completed 50K–100K mountain race is the basic base beyond the entry criteria; general methods are in [ultra-trail training plan](/en/knowledge/trail-ultra-training-plan/), [long-run fueling](/en/knowledge/long-run-fueling/), [recovery day](/en/knowledge/recovery-day/) and [load and overtraining](/en/knowledge/load-and-overtraining/).
+
+| Phase | Focus | Practical content | Race-day constraint |
+| --- | --- | --- | --- |
+| T-16 to T-10 weeks | Mountain aerobic base | One mountain long run plus two easy runs a week; build weekly gain toward 2,000 m | The opening 13.6 km at +1,436 m needs sustained climbing ability |
+| T-10 to T-6 weeks | Long run and night practice | Long run to 60–80 km; one night or early-morning session | Plan de l'Au, Martigny and Trient are passed at night; headlamp and cold must be tested |
+| T-6 to T-2 weeks | Self-sufficiency and kit trial | Practice carrying food, water and mandatory kit under semi-self-sufficiency; trial waterproof jacket and leg cover | Carry enough food and water between stations; mandatory kit stays on the person |
+| T-2 to race | Taper | Shorten distance and gain, keep short rhythm; no new shoes or kit | Recover fatigue before race day; see [taper and strength](/en/knowledge/strength-and-taper/) |
+
+Boundary: this is a generic preparation framework, not medical advice. Runners with pre-existing cardiopulmonary conditions or recent injuries should consult a doctor first. UTMB Index categories and Running Stone requirements follow the official rules for the edition.
+
+## Race-day execution card: waves, drop bag and night checks
+
+| Time point | Action | Check |
+| --- | --- | --- |
+| Collection day | Collect bib with photo ID; complete the PPS course | Confirm wave, drop-bag rules and insurance cover |
+| Before start | Check mandatory kit; pack semi-self-sufficiency supplies | Confirm wave start time; poles, if used, are carried all the way |
+| Start to Bertone | Hold back the opening pace; do not surge on 13.6 km at +1,436 m | Record arrival times against the cut-off sheet |
+| Champex-Lac | Collect the single drop bag; refill water and food | Bag collected only here; poles cannot go in; valuables stay with you |
+| Night section (after Plan de l'Au) | Headlamp, warm layer, controlled rhythm | Count night slowdown into buffer; rest at a station when drowsy |
+| Martigny to Trient | Handle the 9.9 km at +1,077 m climb | Follow the drop-out procedure rather than pushing through fatigue |
+| Vallorcine to finish | The last 17.7 km still have +787 / −1,009 m | Move by time; do not treat the finale as a pure descent |
+
+| Red flag | On-site action | Boundary |
+| --- | --- | --- |
+| Hypothermia, persistent shivering, altered movement | Shelter at a station, add layers, notify staff | This page does not diagnose; on-site medics assess |
+| Dizziness, palpitations, blurred vision | Stop, seek help, call medical if needed | Cardiac emergency recognition and call follow on-site first-aid standards |
+| Missing kit (water, waterproof jacket, headlamp, survival blanket, phone) | Replace immediately; missing key safety kit means disqualification | Penalties are applied on the spot under the 2026 rules; the clock does not pause |
+| Approaching the cut-off at a checkpoint | Assess remaining climb and buffer; drop if needed | A dropped bib is deactivated but still the official shuttle credential |
+
+Personal assistance is allowed only at designated aid stations, one person with one 30 L bag; off-course pacing or escorting is forbidden. The framework for deciding whether to drop is in [drop-out decision](/en/knowledge/dnf-decision-making/).
 
 ## Target finish and average pace
 
@@ -241,3 +301,10 @@ All three photographs are 960 px Wikimedia Commons thumbnails; author, date, lic
 - Weather source: Open-Meteo historical archive (CC BY 4.0); the query and coordinates are recorded in `route-chamonix-openmeteo`.
 - The organiser now provides a direct GPX, but it measures 99.36 km, carries a LiveTrail copyright line and has no redistribution licence; it differs from the raced 107.8 km course by 8.44 km, so this page only links to it and hosts and draws nothing.
 - This page's text is published under CC BY 4.0. When quoting official figures, cite both the edition (2026) and the basis (header, timing table or last wave).
+
+<!-- related-ring -->
+## Related entries
+
+- [Hardrock 100: the 2026 clockwise high-altitude loop](/en/routes/hardrock/)
+- [Leadville Trail 100: a high-altitude out-and-back 100-mile reference (2026 reroute basis)](/en/routes/leadville-trail-100/)
+- [OCC 2026: the 50K Final course](/en/routes/occ/)

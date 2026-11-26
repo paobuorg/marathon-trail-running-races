@@ -1,0 +1,39 @@
+{
+ "sourceId": "route-western-states-qualifying-2027",
+ "title": "Qualifying Races – WSER",
+ "url": "https://www.wser.org/qualifying-races/",
+ "publisher": "Western States Endurance Run",
+ "publishedAt": null,
+ "accessedAt": "2026-11-26",
+ "claims": [
+  "The official qualifying-race list is updated each September and only listed events count as qualifiers.",
+  "Virtual events are not accepted as qualifiers.",
+  "The 2027 qualifying run must be completed between 3 November 2025 and 8 November 2026."
+ ],
+ "license": null,
+ "verification": {
+  "access": "direct",
+  "bodyRead": true,
+  "checkedAt": "2026-11-26"
+ },
+ "claimVerification": [
+  {
+   "index": 0,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "首段写列表每年 9 月更新，只有列表内赛事有效。"
+  },
+  {
+   "index": 1,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "页面明确不接受 virtual events。"
+  },
+  {
+   "index": 2,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "2027 资格窗口与 Entry Process 页面一致。"
+  }
+ ]
+}

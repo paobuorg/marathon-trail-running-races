@@ -4,94 +4,65 @@
   "url": "https://www.baa.org/races/boston-marathon/qualify/",
   "publisher": "Boston Athletic Association",
   "publishedAt": null,
-  "accessedAt": "2026-11-07",
+  "accessedAt": "2026-11-25",
   "claims": [
     "The 2027 Boston Marathon is scheduled for 19 April 2027 and the 2028 Boston Marathon for 17 April 2028.",
-    "Qualifying standards for 2027 and 2028 include 2:55:00 for men aged 18–34 and 3:25:00 for women and non-binary athletes aged 18–34.",
-    "Qualifying standards for 2027 and 2028 include 4:50:00 for men aged 80 and over and 5:20:00 for women and non-binary athletes aged 80 and over.",
-    "The qualifying standards table uses five-year age bands from 18–34 through 80 and over.",
+    "The 2026 qualifying standards are identical to the 2027/2028 table and were announced on 16 September 2024, five minutes faster for athletes under 60.",
+    "2027/2028 standards, age 18-34: men 2:55:00, women 3:25:00, non-binary 3:25:00.",
+    "2027/2028 standards, age 35-39: men 3:00:00, women 3:30:00, non-binary 3:30:00.",
+    "2027/2028 standards, age 40-44: men 3:05:00, women 3:35:00, non-binary 3:35:00.",
+    "2027/2028 standards, age 45-49: men 3:15:00, women 3:45:00, non-binary 3:45:00.",
+    "2027/2028 standards, age 50-54: men 3:20:00, women 3:50:00, non-binary 3:50:00.",
+    "2027/2028 standards, age 55-59: men 3:30:00, women 4:00:00, non-binary 4:00:00.",
+    "2027/2028 standards, age 60-64: men 3:50:00, women 4:20:00, non-binary 4:20:00.",
+    "2027/2028 standards, age 65-69: men 4:05:00, women 4:35:00, non-binary 4:35:00.",
+    "2027/2028 standards, age 70-74: men 4:20:00, women 4:50:00, non-binary 4:50:00.",
+    "2027/2028 standards, age 75-79: men 4:35:00, women 5:05:00, non-binary 5:05:00.",
+    "2027/2028 standards, age 80 and older: men 4:50:00, women 5:20:00, non-binary 5:20:00.",
     "Qualifying times are based on official submitted net time (chip time) and must be run on a certified full marathon course.",
-    "The qualifier registration cut-off for acceptance into the 2027 Boston Marathon was 5 minutes 17 seconds.",
-    "The qualifying window for the 2027 Boston Marathon began on 13 September 2025.",
-    "Qualifier registration for the 2027 Boston Marathon ran from 14 September to 18 September 2026 and was not first-come, first-served.",
-    "Verified qualifying times from courses with a net downhill of 1,500–2,999 ft receive a 5:00 adjustment, 3,000–5,999 ft a 10:00 adjustment, and 6,000 ft or more is not accepted.",
-    "About 1,000 qualifiers who are not faster than the cut-off are randomly selected through the Boston Qualifier Selection.",
-    "Athletes must be at least 18 years old on race day."
+    "Only certified outdoor full marathons with transponder timing and at least three officially entered competitors are accepted; indoor, virtual, treadmill, time-trial and handicapped marathons are not accepted.",
+    "Athletes must be at least 18 years old on race day; runners are not officially entered until their qualifying time is verified.",
+    "Qualifier registration for the 2027 Boston Marathon ran from Monday 14 September 2026 10:00 a.m. ET to Friday 18 September 2026 5:00 p.m. ET and was not first-come, first-served.",
+    "The qualifying window for the 2027 Boston Marathon began on 13 September 2025; the window for 2028 began on 19 September 2026.",
+    "The qualifier registration cut-off for acceptance into the 2027 Boston Marathon was 5 minutes 17 seconds below the age/gender standard.",
+    "About 1,000 qualifiers not faster than the cut-off are randomly selected through the Boston Qualifier Selection; acceptance notifications go out by early October.",
+    "Starting with 2027 registration, net-downhill courses of 1,500-2,999 ft receive a +5:00 adjustment, 3,000-5,999 ft a +10:00 adjustment, and 6,000 ft or more are not accepted for qualifying.",
+    "The BAA publishes a non-accepted qualifier history: 2015 cut-off 1:02 (1,947 not accepted), 2016 2:28 (4,562), 2017 2:09 (2,957), 2018 3:23 (5,062), 2019 4:52 (7,248), 2020 1:39 (3,161), 2021 7:47 (9,215).",
+    "The non-accepted qualifier history continues: 2023 0:00 (0 not accepted), 2024 5:29 (11,039), 2025 6:51 (12,324), 2026 4:34 (8,887), 2027 5:17 (8,019), each with a 30,000 or 31,500 field.",
+    "Meeting the qualifying standard only permits submitting an application; field-size limits mean not all qualifiers are accepted, with the fastest in each age/gender group admitted first."
   ],
   "claimVerification": [
-    {
-      "index": 0,
-      "status": "supported",
-      "checkedAt": "2026-11-08",
-      "note": "页面日期表列出 2027 年 4 月 19 日、2028 年 4 月 17 日。"
-    },
-    {
-      "index": 1,
-      "status": "supported",
-      "checkedAt": "2026-11-08",
-      "note": "18–34 岁行：男子 2:55:00、女子与非二元 3:25:00。"
-    },
-    {
-      "index": 2,
-      "status": "supported",
-      "checkedAt": "2026-11-08",
-      "note": "80 岁以上行：男子 4:50:00、女子与非二元 5:20:00。"
-    },
-    {
-      "index": 3,
-      "status": "supported",
-      "checkedAt": "2026-11-20",
-      "note": "表格按 5 岁年龄组列到 80+；不再声称页面原文有“变宽”表述。"
-    },
-    {
-      "index": 4,
-      "status": "supported",
-      "checkedAt": "2026-11-08",
-      "note": "原文写明用 official submitted net time（chip time），且成绩须在 certified full marathon course 上跑出。"
-    },
-    {
-      "index": 5,
-      "status": "supported",
-      "checkedAt": "2026-11-08",
-      "note": "原文：“5 minutes, 17 seconds”为 2027 年录取线。"
-    },
-    {
-      "index": 6,
-      "status": "supported",
-      "checkedAt": "2026-11-08",
-      "note": "原文写明 2027 年资格窗口自 2025 年 9 月 13 日开始。"
-    },
-    {
-      "index": 7,
-      "status": "supported",
-      "checkedAt": "2026-11-08",
-      "note": "原文写明报名 2026 年 9 月 14–18 日，且“not first-come, first-served”。"
-    },
-    {
-      "index": 8,
-      "status": "supported",
-      "checkedAt": "2026-11-08",
-      "note": "原文按 1,500–2,999 ft 加 5:00、3,000–5,999 ft 加 10:00、≥6,000 ft 不接受列出。"
-    },
-    {
-      "index": 9,
-      "status": "supported",
-      "checkedAt": "2026-11-20",
-      "note": "页面写约 1,000 名未达录取线者通过 Boston Qualifier Selection 随机抽取；删除无原文的 From 2027。"
-    },
-    {
-      "index": 10,
-      "status": "supported",
-      "checkedAt": "2026-11-08",
-      "note": "原文要求比赛日年满 18 岁。"
-    }
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "页面日期表列出 2027 年 4 月 19 日、2028 年 4 月 17 日。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "2026 QUALIFYING TIMES 表与 2027/2028 表数值一致；Rationale 段写明 2024-09-16 宣布，60 岁以下各档加快 5:00。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "18-34 行：Men 2:55:00 / Women 3:25:00 / Non-binary 3:25:00。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "35-39 行：3:00:00 / 3:30:00 / 3:30:00。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "40-44 行：3:05:00 / 3:35:00 / 3:35:00。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "45-49 行：3:15:00 / 3:45:00 / 3:45:00。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-25", "note": "50-54 行：3:20:00 / 3:50:00 / 3:50:00。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-25", "note": "55-59 行：3:30:00 / 4:00:00 / 4:00:00。" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-25", "note": "60-64 行：3:50:00 / 4:20:00 / 4:20:00。" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-25", "note": "65-69 行：4:05:00 / 4:35:00 / 4:35:00。" },
+    { "index": 10, "status": "supported", "checkedAt": "2026-11-25", "note": "70-74 行：4:20:00 / 4:50:00 / 4:50:00。" },
+    { "index": 11, "status": "supported", "checkedAt": "2026-11-25", "note": "75-79 行：4:35:00 / 5:05:00 / 5:05:00。" },
+    { "index": 12, "status": "supported", "checkedAt": "2026-11-25", "note": "80 and older 行：4:50:00 / 5:20:00 / 5:20:00。" },
+    { "index": 13, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：official submitted net time（chip time），且须在 certified full marathon course 上跑出。" },
+    { "index": 14, "status": "supported", "checkedAt": "2026-11-25", "note": "Qualifying Reminders 段：certified、outdoors、transponder timing、≥3 competitors；不接受 indoor/virtual/treadmill/time-trials/handicapped。" },
+    { "index": 15, "status": "supported", "checkedAt": "2026-11-08", "note": "比赛日年满 18；成绩验证完成前不算正式入围。" },
+    { "index": 16, "status": "supported", "checkedAt": "2026-11-25", "note": "原文：Monday, September 14 10:00 a.m. ET through Friday, September 18, 2026 5:00 p.m. ET；not first-come, first-served。" },
+    { "index": 17, "status": "supported", "checkedAt": "2026-11-25", "note": "原文：2027 window began September 13, 2025；2028 window began September 19, 2026。" },
+    { "index": 18, "status": "supported", "checkedAt": "2026-11-08", "note": "9/29/2026 Update：2027 录取 cut-off 5 minutes, 17 seconds。" },
+    { "index": 19, "status": "supported", "checkedAt": "2026-11-20", "note": "Boston Qualifier Selection 段：约 1,000 名未达录取线者随机抽取；early October 通知。" },
+    { "index": 20, "status": "supported", "checkedAt": "2026-11-08", "note": "Net-Downhill 段：1,500–2,999 ft +5:00、3,000–5,999 ft +10:00、≥6,000 ft 不接受。" },
+    { "index": 21, "status": "supported", "checkedAt": "2026-11-25", "note": "NON-ACCEPTED QUALIFIERS 表前七行：2015 1:02/1,947；2016 2:28/4,562；2017 2:09/2,957；2018 3:23/5,062；2019 4:52/7,248；2020 1:39/3,161；2021 7:47/9,215。" },
+    { "index": 22, "status": "supported", "checkedAt": "2026-11-25", "note": "表后五行：2023 0:00/0；2024 5:29/11,039；2025 6:51/12,324；2026 4:34/8,887；2027 5:17/8,019。" },
+    { "index": 23, "status": "supported", "checkedAt": "2026-11-25", "note": "原文：meeting the standard does not guarantee entry；field size 限制下按年龄组别内快慢优先录取。" }
   ],
   "verification": {
     "access": "direct",
     "bodyRead": true,
-    "checkedAt": "2026-11-08",
-    "checkedVia": "curl.exe + HTML 转文本",
-    "note": "HTTP 200，资格标准表、录取线与净下降规则均可读。"
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官方资格页正文",
+    "note": "HTTP 200；2026 与 2027/28 两张标准表、录取线历史表、净下降索引、报名窗口与随机抽取条款均可读。"
   },
   "license": null
 }

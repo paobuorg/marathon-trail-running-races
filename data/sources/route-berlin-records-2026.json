@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-berlin-records-2026",
+  "title": "Numbers and records – BMW BERLIN-MARATHON",
+  "url": "https://www.bmw-berlin-marathon.com/en/media-section/numbers-and-records",
+  "publisher": "SCC Events",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Winners 2024: running men Milkesa Mengesha (ETH) 2:03:17; running women Tigist Ketema (ETH) 2:16:42; wheelchair men Marcel Hug (SUI) 1:27:18; wheelchair women Catherine Debrunner (SUI) 1:35:23.",
+    "Winners 2023: running men Eliud Kipchoge (KEN) 2:02:42; running women Tigist Assefa (ETH) 2:11:53 WR; wheelchair men Marcel Hug (SUI) 1:23:07; wheelchair women Catherine Debrunner (SUI) 1:34:16 WR.",
+    "Official course records panel: runners men 2:01:09 Eliud Kipchoge (KEN, 2022); runners women 2:11:53 Tigist Assefa (ETH, 2023); wheelchair men 1:21:39 Heinz Frei (SUI, 1997); wheelchair women 1:34:16 Catherine Debrunner (SUI, 2023)."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 numbers-and-records 页 Winners 2024/2023 与 Course Records 表",
+    "note": "2025、2026 冠军以官方结果页与 WA 报告为准；本面板为访问时官网所列历史口径"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Winners 2024 表逐行核对"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Winners 2023 表逐行核对，Assefa 与 Debrunner 标 WR"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Course Records 表逐行核对"
+    }
+  ]
+}

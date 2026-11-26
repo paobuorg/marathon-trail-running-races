@@ -53,6 +53,21 @@ translationStatus: reviewed
 
 所有组别都在 RCM4 出发，官方时刻一律写“A definir”。12k 是组别名，官方给的距离是 13 km，按官方原样记录。
 
+## 路线分段与 GPX 几何
+
+赛道在 Parque Nacional Lanín 及周边山丘步道内，起点 RCM4（2026 剖面 740 m），2026 基线终点 Plaza San Martín（651 m）；2027 终点地址官方待确认。2026 基线 20 行 PAS/PAEX 点位链见「距离、爬升与时限」一节的逐站表，下表只列几何口径。
+
+| 口径 | 距离 | 累计爬升 | 高程 |
+|---|---|---|---|
+| 2027 官方 100 Millas 页（西/英一致） | 160.3 km | 9,221 m | 未公布 |
+| 2026 官方海拔图 | 160.3 km | D+ 9,221 m | 起点 740 m、终点 651 m |
+| 2026 指南 | 同基线 | D+ 9,221 m | 约最高点 1,959 m |
+| 2026 剖面具名峰 | — | — | CE Colorado 1,765 m；Quechuquina 1,650 m |
+
+- 官方政策：不提供 GPX，赛道依靠现场路标导航；本站不显示轨迹，也不根据文字重建。
+- 2027 赛道基于 2026、可能修改；上表 2026 数值是基线，不是 2027 承诺。
+- 累计下降官方未印；本站按 9,221 +（740 − 651）算术推出约 9,310 m，不是官方 D−。
+
 ## 距离、爬升与时限
 
 - 西语 100 Millas 页与英文页给的都是 **160.3 km / 9,221 m / 42 Horas**，两版没有冲突。本页卡片采用这组官方值。
@@ -220,6 +235,22 @@ translationStatus: reviewed
 
 官方 destination 页给出到达框架：最近的 Chapelco（CPC）机场距市中心 22 km、约 35 分钟柏油路；Bariloche（BRC）国际机场距城 190 km、约 3 小时，走 40 号国道与七湖路线。陆路以 40 号国道和 234 号国道为主，七湖路线连接 Villa La Angostura 约 110 km；从智利入境的主要口岸是 Mamuil Malal 与 Hua Hum。页面把秋季平均气温写作 3–18 °C，但没有给出赛期逐日天气或官方接驳时刻；这两项按 unknown 记，不用第三方巴士班次替代。
 
+## 4 月赛期气候与天气
+
+官方 destination 页只给秋季平均气温区间 3–18 °C，没有赛期逐日天气、降水概率或体感换算。
+
+本站用 Open-Meteo 历史存档复算城镇网格点（坐标 −40.15789 / −71.35337，网格高程 650 m，时区 America/Argentina/Salta），筛 2015–2026 年 4 月 7–11 日共 60 天：
+
+| 统计项 | 数值（60 天样本） |
+|---|---|
+| 日最高气温 | 6.7–27.3 °C，中位 16.5 °C |
+| 日最低气温 | 3.3–11.7 °C，中位 8.1 °C |
+| 降水 | 中位 0.0 mm；17/60 天 ≥1 mm，8/60 天 ≥5 mm，最大日降水 77.8 mm |
+
+- 这是城镇网格模型历史值，不是赛道实测；赛道在 Lanín 国家公园山径，海拔与风不能按城镇点推算。
+- 2027 年 4 月 7–11 日的实际天气截至核验日 unknown；赛前以官方预报为准。
+- 规程允许因天气改线或改关门。
+
 ## 难度与适合谁
 
 以下为编辑判断，不是官方评级：
@@ -228,6 +259,47 @@ translationStatus: reviewed
 - 赛道在 Parque Nacional Lanín 与周边山径，官方形容为南美最具挑战的长距离之一；4 月的巴塔哥尼亚天气多变，规程也允许因天气改线或改关门。
 - 报名采用申请制，需要 12 ITRA 积分或同等长距离完赛证明，官方定位是“为有经验的跑者准备的挑战”。不适合当作首百。
 - 由于官方不提供 GPX、要求依靠现场路标导航，习惯全程依赖轨迹的人需要提前适应这种比赛方式。
+
+## 训练转化
+
+这条赛道是 100M 档巴塔哥尼亚高山越野：160.3 公里、9,221 米爬升，平均每公里约 58 米；2027 逐站关门未发布，本节不按站点倒推配速，只给条件导向的训练要点。
+
+- 长距离与爬升：平均每公里约 58 米，长距离训练应包含持续山地爬升与反复上下；本页不安排周跑量，那属于个人训练计划。
+- 天气适应：4 月巴塔哥尼亚天气多变，城镇点日最低可到 3.3 °C 量级；高海拔与风要按更冷准备，保暖层按官方后续清单核对。
+- 导航：官方不提供轨迹、依靠现场路标；训练应适应离开 GPS 轨迹导航、读取路标与方向的能力。
+- 半自给与夜间：42 小时总关门跨夜段；头灯续航、夜间补给与休息节奏需要提前演练。
+- 本页不是训练计划，也不替代教练或医疗评估。
+
+## 比赛日执行卡
+
+- 关门：2027 逐站关门未发布；2026 基线有 8 个中途关门（Gimnasio、Quechuquina、Nonthue、Lago、Cohíue、Colorado 2、Bayos、Ruta 48）加终点 08:00，全部是钟表时间，不能套到 2027。
+- 存包：3 个 PAS Total 各寄一袋，单袋 ≤3 kg；发往 PAS Colorado 的 100 Millas 袋可到 5 kg；袋子不冷藏，组委会不负责遗失。
+- 外部助手：1 名经认证助手，仅在指定点位，领物时由跑者本人认证；细则在尚未发布的 100Mi 指南；其他外部支援取消资格。
+- 退赛：必须在 PAS、起点或终点报告；路标员与其他位置人员无权登记退赛。超过终点关门仍跨线记为非正式完赛（FINISHER fuera de clasificación）。
+- 装备：2027 清单尚未发布；2026 基线为两盏 ≥200 流明、按 30 小时续航准备的灯，以及哨子、急救毯、≥1.5 L 水容量、个人杯、垃圾袋、保暖层。
+
+| 分支 | 当时情况 | 执行动作 |
+|---|---|---|
+| If 2027 指南发布晚于预期 | 逐站关门未定 | 以赛前技术会与官方后续清单为准，不照搬 2026 时刻 |
+| If 夜间通过山径段落 | 夜段、低温、风 | 双灯与备用电池按 30 小时准备；保暖层按必携清单核对 |
+| If 在 PAS 站点需要休整 | 存包与补给点有限 | 使用 PAS Total 存包；个人杯自备，站点不提供一次性餐具 |
+| If 途中需要退赛 | 只能在 PAS/起点/终点登记 | 前往最近 PAS 报告；不自行离开赛道 |
+| If 天气突变 | 规程允许改线或改关门 | 服从现场技术指挥，按路标与官方通知调整 |
+
+## 成绩与改线
+
+2027 届 100 Millas 定于 2027 年 4 月 9 日发枪，发枪时刻官方写“A definir”；核验日（2026-11-20）赛事尚未举行，本轮所核材料未公布冠军、赛道纪录、完赛人数或完赛率，本页不列名次。
+
+| 项目 | 状态 |
+|---|---|
+| 2027 冠军（男子 / 女子） | 官方未公布（赛事尚未举行） |
+| 赛道纪录 | 官方未公布 |
+| 历届冠军与完赛率 | 本轮未取得官方逐届成绩表，证据不足 |
+| 改线 / 改期 / 改规则 | 赛道基于 2026、2027 可能修改；`courseChanges` 为空数组 |
+
+- 资格身份：2027 年 42 小时内完赛可计入 2028 Western States 抽签窗口（2026-11-09 至 2027-11-07）；Hardrock 对应届次因官方名单读取被阻断，未核到。
+- 更早届次的改线说明本轮未取得，本页不写成「没有改线」。
+- 比赛日结束后，冠军与成绩以官方成绩页为准。
 
 ## 已核实与未核实
 
@@ -284,8 +356,16 @@ translationStatus: reviewed
 8. [Western States 官方资格赛名单](https://www.wser.org/qualifying-races/)，Western States Endurance Run，2028 Race Lottery 段，访问于 2026-11-09。
 9. [Open-Meteo 地理编码](https://geocoding-api.open-meteo.com/v1/search?name=San%20Mart%C3%ADn%20de%20los%20Andes&count=3&language=es&format=json)，Open-Meteo，访问于 2026-11-09。
 10. [官方目的地页 “The Destination”](https://patagoniarun.com/en/el-destino/)，Patagonia Run，访问于 2026-11-19。
+10b. [Open-Meteo 历史存档](https://archive-api.open-meteo.com/v1/archive)：San Martín de los Andes 城镇网格点 −40.15789 / −71.35337，2015–2026 年 4 月 7–11 日逐日气温与降水统计，访问于 2026-11-26，CC-BY-4.0。
 11. [2026 100 Millas 官方海拔图（PDF）](https://patagoniarun.com/wp-content/uploads/2026/03/Altimetria_100Millas_2026_15_marzo.pdf)，Patagonia Run，160.3 km / D+ 9,221 m、起点 740 m、终点 651 m、最高标注峰 1,765 m，访问并读图于 2026-11-20；同页另有 [2,560×623 JPG](https://patagoniarun.com/wp-content/uploads/2026/03/Altimetria_100Millas_2026-scaled.jpg)。
 12. [2026 100Mi 官方指南（PDF）](https://pr26.b-cdn.net/pdf/PR2026-100MI-V1-ES-2.pdf)，Patagonia Run，24 页，含 20 行 PAS/PAEX、8 个中途关门、装备清单与 2026 海拔剖面，访问并读完于 2026-11-22；只作 2026 基线。
 13. [Commons 地点照：Lácar 湖与 San Martín de los Andes](https://commons.wikimedia.org/wiki/File:SAN_MARTIN_DE_LOS_ANDES_LACAR.JPG)（Alasmalko，Public Domain，2006-03-15）。
 14. [Commons 地点照：Lanín 火山与 Laguna Huenfuica](https://commons.wikimedia.org/wiki/File:Laguna_Huenfuica_y_Volc%C3%A1n_Lan%C3%ADn.jpg)（Rodrigo Yuraszeck，CC BY-SA 4.0，2019-01-31）。拍摄于 Villarrica 国家公园，不是赛事赛道。
 15. [Commons 地点照：Plaza San Martín](https://commons.wikimedia.org/wiki/File:Plaza_San_Mart%C3%ADn%2C_San_Mart%C3%ADn_de_los_Andes%2C_Neuqu%C3%A9n%2C_Argentina.jpg)（Mro77，CC BY-SA 4.0，2020-02-23）。只作 2026 终点参照。
+
+<!-- related-ring -->
+## 相关条目
+
+- [悉尼马拉松：2026 从北悉尼到歌剧院全解](/routes/sydney/)
+- [Tarawera TMiler：新西兰 163 公里，五个组别消歧、十六个计时点与 2027 页面导出的 2026 GPX](/routes/tarawera/)
+- [Torrencial Chile by UTMB：Pilolcura 100K 赛道全解（2027）](/routes/torrencial-chile/)

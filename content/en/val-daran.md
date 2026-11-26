@@ -48,6 +48,20 @@ The VDA is the Tour of the Val d'Aran, starting and finishing in Vielha and loop
 
 The 2026 VDA marked the return of the original course: the official race report states that the original VDA route had been unable to take place over the previous three years because of weather, and that it returned in 2026, with a winning time of 21:32:05. The 2027 race card carries the same VDA headline as 2026: 163 km and 10,000 m of gain.
 
+## Entry and eligibility: the UTMB World Series Major route
+
+Val d'Aran by UTMB is a European Major in the UTMB World Series. VDA is the 100M-category race, starting from Vielha at 16:00 on 9 July 2027 with a 48-hour limit. The 2026 official report records 6,935 runners, 91 nationalities and eight categories; that is prior-edition background, not the 2027 quota.
+
+| Entry item | Verified figure | Unverified / evidence insufficient |
+| --- | --- | --- |
+| Series level | UTMB World Series European Major (race page) | 2027 quota and ballot rule, not published in the pages read |
+| Category mapping | VDA 100M, CDH 100K, PDA 50K; TDL, EXP, SKY and others | 2027 starts and limits for the other categories, see the disambiguation table |
+| Performance threshold | The pages read list no UTMB Index score or prior-finish requirement | Whether an index or prior finish is a VDA entry condition is not evidenced here and is not invented |
+| Fee | Fee tiers not transcribed on this page | Fees, refunds and transfers follow the 2027 entry page |
+| 2026 field | 6,935 runners, 91 nationalities (official report) | 2027 applications and acceptance rate |
+
+VDA is a 163 km, about 10,000 m mountain ultra of hundred-mile scale; assess your own hundred-mile experience before entering, and follow the 2027 entry page and runner guide for official eligibility conditions.
+
 ## The two official sets of figures
 
 The VDA has two official sets of figures. Both are shown here; neither is chosen over the other:
@@ -121,6 +135,32 @@ The segment notes below use the official place names, elevations and supply leve
 
 Two official inconsistencies must be flagged. First, from Refugi Honeria onward, the slowest time is later than the cut-off at eight intermediate checkpoints and at the finish, while the first five checkpoints with cut-offs have slowest times earlier than the cut-off; Stet Escunhau is again 3 minutes earlier. This page records the columns as published and does not decide which one is the real cut-off. Second, the embedded `cutoffDatetime` values carry 2022/2023 years while the displayed text uses the Fridays, Saturdays and Sundays of 2027; this page uses the displayed text, not the embedded year.
 
+## Timing and cut-offs: 14 intermediate barriers and the Slowest column
+
+VDA's overall limit is 48 hours: start Vielha 16:00 on 9 July, finish cut-off Sunday 16:00. Of the 16 intermediate checkpoints, 14 carry a cut-off; Poilaner and Mont-Romies have no barrier. The table summarises cut-off and Slowest by segment; per-segment distance, elevation and supplies follow "Sixteen timed checkpoints and the segments".
+
+| Timed point | Cumulative km | Official cut-off | Slowest | Note |
+| --- | ---: | --- | --- | --- |
+| Bassa d'Oles | 10.5 | Fri 19:15 | Fri 18:55 | Slowest before cut-off |
+| Artiga de Lin | 21.0 | Fri 21:15 | Fri 21:02 | Slowest before cut-off |
+| Poilaner | 32.8 | None | Sat 00:53 | No barrier, slowest reference only |
+| Portilhon | 42.6 | Sat 04:00 | Sat 03:56 | Slowest before cut-off |
+| Bossòst | 49.2 | Sat 05:30 | Sat 05:25 | Slowest before cut-off |
+| Canejan | 58.2 | Sat 08:00 | Sat 07:38 | Slowest before cut-off |
+| Refugi Honeria | 65.8 | Sat 09:15 | Sat 10:10 | Slowest after cut-off from here |
+| Còth de Varradòs | 81.8 | Sat 16:00 | Sat 16:03 | Slowest after cut-off |
+| Montgarri | 99.7 | Sat 20:45 | Sat 21:14 | Slowest after cut-off |
+| Beret | 104.8 | Sat 22:15 | Sat 22:38 | Slowest after cut-off |
+| Salardú | 113.7 | Sun 00:00 | Sun 00:45 | Slowest after cut-off |
+| Banhs de Tredòs | 122.6 | Sun 02:45 | Sun 03:27 | Slowest after cut-off |
+| Colomèrs | 134.2 | Sun 07:00 | Sun 07:04 | Slowest after cut-off |
+| Mont-Romies | 144.5 | None | Sun 09:39 | No barrier, slowest reference only |
+| Arties | 149.0 | Sun 10:45 | Sun 10:47 | Slowest after cut-off |
+| Stet Escunhau | 154.9 | Sun 13:15 | Sun 13:12 | Only second-half point with Slowest before cut-off |
+| Vielha finish | 163.0 | Sun 16:00 | Sun 16:02 | 48 h overall limit |
+
+Two official contradictions are recorded as published: from Honeria onward, eight intermediate points and the finish have Slowest later than the cut-off, the first five barred points have Slowest before the cut-off, and Stet Escunhau is again 3 minutes early; this page does not explain which column is the true cutoff. The track's embedded `cutoffDatetime` year is 2022/2023 while the display text corresponds to the 2027 Friday–Saturday–Sunday; this page uses the display text. Running to the Slowest line does not guarantee a finish; Slowest must not be treated as the cut-off.
+
 ## Official supplies, bag drops and assistance
 
 Supply levels come from the official track's `supplies` field: 11 points are marked food, three are marked hotFood (Bossòst, Salardú, Arties), three are marked drink (Poilaner, Mont-Romies, Stet Escunhau), and the rest are marked none. The official page does not list the specific food and drink at each point in text, so this page uses only those four levels and does not claim that a given point serves hot soup or water only.
@@ -132,6 +172,17 @@ Assistance rules: assistance is allowed only at Bossòst, Salardú and Arties, b
 Mandatory equipment: the official page publishes only a downloadable PDF, and this page does not reproduce the list. Runners must check the official 2027 PDF item by item; another UTMB event's list is not a substitute.
 
 Withdrawal: the official transport page says that withdrawing runners are taken to the finish in Vielha or to a point served by the UTMB-Bus or urban bus, free on presentation of the race bib and wristband. The official pages do not state evacuation capability point by point, so this page treats it as unknown.
+
+## Kit and rules: assistance limits, bag drops and mandatory gear
+
+| Rule item | Verified figure | Unverified |
+| --- | --- | --- |
+| Outside assistance | Allowed only at Bossòst, Salardú and Arties; one supporter per point, bag no more than 30 litres | Supporter registration process |
+| Prohibited | Pacers forbidden; professional teams, doctors or nurses may not assist; no assistance at any other checkpoint or course location | — |
+| Bag drops | Three 30-litre bags per runner, sent to Bossòst, Salardú and Arties; collect on arrival and return the bag to the designated area for transport back to Vielha; finish bags collected by bib within two hours after finishing | Late-collection procedure |
+| Mandatory kit | The organiser publishes a downloadable PDF only; this page does not reproduce the list | Item-by-item kit follows the 2027 PDF; another UTMB race's list cannot substitute |
+| Night gear | 16:00 start, 48-hour limit; every runner spends at least one night out; headlamp and spare batteries per the official PDF | Specific lumen standards are in the PDF |
+| Withdrawal transport | Drop-offs are taken to the Vielha finish or to a point reachable by UTMB-Bus / city bus, free with bib and wristband | Per-point evacuation conditions not published item by item |
 
 ## Risks and escape points
 
@@ -178,6 +229,43 @@ The official track labels every point `T3`. This page does not know which diffic
 What is certain: 163 km, 10,053 m of gain, 10,049 m of loss, 48 hours, 16 timed checkpoints and 14 intermediate cut-offs. This is a long mountain trail race, not a road ultra.
 
 Within the same series, the VDA is the 100M equivalent, the CDH the 100K and the PDA the 50K; their distances and gains are not interchangeable. The VDA's 163 km should not be rounded to "160 km" or "165 km".
+
+## Training transfer
+
+VDA is a 163 km, about 10,000 m climb and 10,049 m descent, 48-hour hundred-mile mountain loop around the Vielha valley, at 609–2,551 m. The table breaks the demands into trainable abilities; it lists directions, not an official plan.
+
+| Ability | Course demand | Preparation direction |
+| --- | --- | --- |
+| Hundred-mile endurance | Complete the 163 km loop inside 48 hours | Extend continuous running time gradually, keeping one session near hundred-mile mountain scale |
+| Climb load | About 10,000 m; segments 3 and 8 each gain 1,300–1,500 m | Build vertical load on climb sessions; practise climbing fatigued |
+| Long downhill tolerance | Segments 4, 9, 11 and 15 drop 600–1,300 m continuously | Add downhill running and quad strength; downhill ability decides the second half more than climbing |
+| Altitude and weather | High point 2,551 m; July high ground leans to thunderstorms and cold | Prepare layered clothing and rain gear for mountain running; re-check the high-ground forecast before race day |
+| Night running | 16:00 start, at least one night out | Do night runs; practise high-section navigation under headlamp, following [night running and traffic](/en/knowledge/night-running-and-traffic/) |
+| Long-duration fuelling | 11 food points, 3 hot-food points, 3 drink points | Train station-to-station eating per [fueling long runs](/en/knowledge/long-run-fueling/); follow a [recovery day](/en/knowledge/recovery-day/) after the race |
+
+A [track viewer](/en/tools/track-view/) reads an authorised file you provide, and the [split pace tool](/en/tools/splits/) plans segments; the tools do arithmetic and file reading only and do not replace hundred-mile mountain mileage.
+
+## Race-day execution card
+
+The table follows the main phases among the 17 segments; cut-off references come from "Timing and cut-offs". Pacing notes are editorial judgement, not official split targets.
+
+| Phase | Distance | Execution notes | Cut-off reference |
+| --- | ---: | --- | --- |
+| Vielha opening | 0–10.5 km | 16:00 start, climb Tuc Montcorbison then drop to Bassa d'Oles; hold back early | Bassa d'Oles Fri 19:15 |
+| Artiga high section | 10.5–32.8 km | Net 843 m descent at Artiga de Lin; segment 3 +1,356 m past Escaleta; Poilaner drink only | Artiga 21:15; Poilaner no barrier |
+| Descent to valley | 32.8–49.2 km | Portilhon long descent −1,302 m; hot food and bag drop at Bossòst | Portilhon Sat 04:00; Bossòst 05:30 |
+| West valley and back | 49.2–81.8 km | Canejan, Honeria; segment 8 the largest climb +1,521 m to Varradòs | Canejan 08:00; Honeria 09:15; Varradòs 16:00 |
+| Montgarri high section | 81.8–104.8 km | Past Pòrt d'Urets 2,520 m; rest and refill at Montgarri and Beret | Montgarri 20:45; Beret 22:15 |
+| South valley and return | 104.8–149.0 km | Salardú, Banhs de Tredòs, Colomèrs; Arties hot food and second bag drop | Salardú Sun 00:00; Tredòs 02:45; Colomèrs 07:00; Arties 10:45 |
+| Finish back to Vielha | 149.0–163.0 km | Stet Escunhau drink only; final drop via Tuc de Meddia to Vielha | Escunhau 13:15; finish 16:00 |
+
+Check every item against the official 2027 mandatory kit PDF before the start; assistance is allowed only at Bossòst, Salardú and Arties, and pacers or professional team assistance are forbidden. To drop, register with staff at a checkpoint and use the official transport with bib and wristband; do not leave the marked route to find your own way.
+
+## Results and course changes: original route restored in 2026, 2027 not held
+
+The 2026 VDA restored the original course: the official report states the original VDA route had not been run as designed for the previous three years because of weather, and it returned in 2026 with a winning time of 21:32:05. The 2027 race card and the 2026 VDA headline both read 163 km and 10,000 m of gain. As of the verification date the 2027 edition has not been held; this page has no 2027 results, finish rate or rankings. The organiser publishes no separate records page, so this page declares no record holder.
+
+On course changes, prior runner guides were not obtained and the year-by-year change history is unverified. The confirmed historical fact is that 2023–2025 did not follow the original route for weather reasons and the route returned in 2026. This page has no logged 2027 official reroute, rescheduling or rule change; the entity's `courseChanges` array is empty, which is not written as "no changes". The GPX is named 2027 but its metadata is 2026; whether it matches the 2027 course follows the pre-race guide and day markings.
 
 ## Verified and unverified
 
@@ -233,3 +321,10 @@ Text and tables: original to this site, published under CC BY 4.0, with official
 - Related pages: [UTMB page](/en/routes/utmb/), [CCC page](/en/routes/ccc/), [OCC page](/en/routes/occ/).
 
 Files used and their consistency: every 2027 figure in the body comes from the VDA race page, tracks page and event page above; the geometry check used only the GPX linked from the tracks page. That file is downloaded under the name `VDA_2027_COLOMERS`, but the folder it sits in is named `GPX 2026 DEFINTIVOS EVENTO`, its `<metadata><name>` and `<trk><name>` both say `VDA 2026_COLOMERS`, its author is `gpx.studio`, its creation time is 2024-05-30, and it contains Strava route links. In other words, the filename says 2027 while the folder name and the file metadata say 2026 — the three disagree. Measured point to point, the file is 160.297 km in plan; the 2027 race page publishes 163 km and the track embedded in that page is labelled 163.011 km, a gap of about 2.7 km. The gap can be located in the distance convention: adding each segment's vertical change to the same file gives 163.446 km, only 0.435 km (0.27%) above the official 163.011 km, and the file's first and last points sit 0.4 m and 0.3 m from the embedded track's endpoints, which does not support a "missing section" explanation. The remaining 0.435 km cannot be attributed: the official algorithm and elevation smoothing are not published. The file carries no licence or copyright terms. This page therefore treats it as a file "named 2027, labelled 2026", uses it only to sanity-check elevation magnitude, and does not treat it as 2027 course geometry or host, draw or redistribute it.
+
+<!-- related-ring -->
+## Related entries
+
+- [VMM 100km: 101 kilometres in the Sapa mountains, from Sapa Square to Topas Ecolodge](/en/routes/vmm-100/)
+- [Wildstrubel by UTMB: a 113 km loop around the Wildstrubel massif from Crans-Montana](/en/routes/wildstrubel/)
+- [Zegama-Aizkorri: 42.195 km and 5,472 m, a mountain race that counts the crowd as part of the course](/en/routes/zegama/)

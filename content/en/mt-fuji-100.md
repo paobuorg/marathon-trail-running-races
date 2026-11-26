@@ -214,6 +214,55 @@ The risks fall into four groups that the official text supports. The first is we
 
 The official table gives only the start, eight aid stations and the finish as withdrawal points, with the F7 restriction. The organisers do not publish how long it takes to evacuate from each aid station to a hospital, nor ambulance response times; the rules page gives only the 3-hour target and the warning that it can take more than 6 hours. This page does not fill in those numbers.
 
+## Training transfer
+
+This is a 100-mile-class point-to-point loop: an official edition record of 165.3 km with 6,461 m of climb, about 39 m per kilometre; elevation 500–1,600 m, two nights on course, limit 45 h 30 for the first wave. The training focus is sustained night running, repeated foothill up-and-down and late-race cut-off margin.
+
+The table below converts four finish targets to average speed over 165.3 km, excluding climb, rest, queueing and level-crossing waits; the 2026 manual's nine cut-offs remain the hard limits.
+
+| Target finish | Total time (h) | Average speed (km/h) | Margin to the 45.5 h limit |
+|---|---:|---:|---|
+| 30 h | 30 | 5.51 | 15.5 h margin |
+| 36 h | 36 | 4.59 | 9.5 h margin |
+| 40 h | 40 | 4.13 | 5.5 h margin |
+| 45.5 h | 45.5 | 3.63 | at the barrier |
+
+- Night: the 2026 four waves started 17:00–17:45 with cut-offs through 14:30 the next day; long training runs should include night sections and drills for cold and wind.
+- Repeated up and down: elevation varies between the 527–1,144 m timing points over foothill trails and passes; quad strength for repeated descents needs specific work.
+- Self-sufficiency and withdrawal: F1, F2, F3, F5, F7 and F8 are reachable only by car or motorbike, so family cannot arrive at short notice; plan aid and support around these station transport conditions.
+- This page is not a training plan and does not replace a coach or medical assessment.
+
+## Race-day execution card
+
+- Dual cut-off: each aid station has an entry and an exit time; late at entry you cannot enter, and leaving early before the exit time is not allowed. After exiting, a runner may return before the entry cut-off, using the designated channel and telling staff.
+- No sleeping: sleeping on the course is prohibited; which indoor areas allow rest is not stated.
+- Poles: banned for the whole course before F5; poles must be dropped in bags beforehand, and twigs may not substitute. Once poles are collected at F5 they must be carried to the finish; pole-free zones remain inside the national park after F5.
+- Withdrawal: F7 Nijūkurumazaka is in principle not a withdrawal point, and supporters cannot drive in; after passing a cut-off point, no return or backtracking is allowed; time waiting at the railway crossing counts toward race time.
+- Kit: total kit weight must exceed 2 kg at the start and leaving each aid station, and never drop below 1 kg on any segment; two lamps of at least 80 lumens and 4 hours' battery life.
+
+| Branch | Situation | Action |
+|---|---|---|
+| If near the 4/24 22:30 entry at F1 Fujinomiya (25.8 km) | First entry cut-off | Check margin to F2's entry 5:50 / exit 6:00; hold back at the start |
+| If passing the F3–F6 lake section at night | Night, cold, wind | Two lamps and spare batteries per the mandatory list; kit for a 6 h wait in cold wind or freezing rain |
+| If near the 4/26 2:30 cut-off at F6 Yamanaka Kirara (122.5 km) | Pre-dawn cut-off | Check margin to the F7 6:00 exit; note F7 cannot be a withdrawal point |
+| If near 10:00 at F8 Fujiyoshida (148.4 km) | Last 18.6 km | Check margin to the 14:30 finish cut-off; hold above 4.0 km/h |
+| If withdrawing or needing help | Station limits differ | Register at a withdrawable station and return the IC chip; follow on-site arrangements at F7; do not leave the trail on your own |
+
+## Results and course changes
+
+The official history page published the following winners for 2026 (14th edition, 24–26 April); these are elite results for that day, not ordinary entrants' conditions.
+
+| Division | 2026 winner | Time | Course record |
+|---|---|---:|---|
+| Men | Chris Myers | 17:50:13 | No time-based course record published in the materials checked |
+| Women | Ying Li | 22:18:12 | No time-based course record published in the materials checked |
+
+- 2026 distance and climb: official record 165.3 km, 6,461 m; the manual aid-station table totals 167.0 km; the two bases are listed side by side and are not averaged.
+- 2016: shortened by weather to 44.8 km, 1,926 m of climb, with the finish moved to the Asagiri roadside station (note in the official history table).
+- 2020 and 2021: the official history page lists both as cancelled; the 2017 row is absent, with no explanation on that page.
+- 2027: 165.3 km, 6,463 m, three waves at 17:00 / 17:15 / 17:30, final cut-off 25 April 14:30; the station-by-station aid and cut-off table is to be published around March 2027.
+- Full historical winners' list, finisher counts and finish rates: no official edition-by-edition results table obtained this round; insufficient evidence.
+
 ## Verified and unverified
 
 Verified on official pages: the 2026 dates and 14th-edition title; the 165.3 km and 6,461 m edition record; the 167.0 km racer-information table and its station distances; the nine cut-off times; the 2027 dates, 165.3 km, 6,463 m, three waves and final cut-off; the ITRA points threshold, lottery and donation places, and fees; the 19 mandatory items and the 2 kg rule; the sleep ban, pole ban to F5, no-retirement rule at F7 and railway-crossing timing; loop-bus fares and timetable; official tour products and lodging advice; the 2026 male and female champions and times; and the 2026 World Trail Majors list.
@@ -266,3 +315,10 @@ Text and tables: original to this site, published under CC BY 4.0; official fact
 12. [File:MtFuji ChildrensWorld.jpg](https://commons.wikimedia.org/wiki/File:MtFuji_ChildrensWorld.jpg): start at Mount Fuji Children's World; Mocchy, Public domain, 2015-05-02, 2,048×1,152.
 13. [File:Mount Fuji from Lake Shoji (15443819010).jpg](https://commons.wikimedia.org/wiki/File:Mount_Fuji_from_Lake_Shoji_(15443819010).jpg): F3 Shojiko; hoge asdf, CC BY 2.0, 2014-10-25, 6,000×4,000.
 14. [File:Fuji Hokuroku Stadium.jpg](https://commons.wikimedia.org/wiki/File:Fuji_Hokuroku_Stadium.jpg): finish athletics stadium inside Fuji Hokuroku Park; Geospatial Information Authority of Japan, CC BY 4.0, 2021-05-09, 1,005×1,008.
+
+<!-- related-ring -->
+## Related entries
+
+- [QMT135: Quebec's 134 km from Baie-Saint-Paul to Mont-Sainte-Anne](/en/routes/qmt-135/)
+- [Ultra-Trail Ninghai UTNH-100: official checkpoint cut-offs and pre-race facts](/en/routes/utnh/)
+- [The Dragon's Back Race: a six-day Welsh mountain ultra explained (2026 edition basis)](/en/routes/dragons-back-race/)

@@ -1,0 +1,32 @@
+{
+  "sourceId": "route-shanghai-2025-followup",
+  "title": "在一条赛道 感知城市“国际影响力”（2025 上马复盘，上海市政府网转载解放日报）",
+  "url": "https://www.shanghai.gov.cn/nw4411/20251201/db63861dbd4c4b5e90a86729517aee84.html",
+  "publisher": "上海市人民政府门户网站（解放日报）",
+  "publishedAt": "2025-12-01",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2025 field numbered 23,000 full-marathon runners; the overall finish rate was 98.02% and international runners made up 13.3% of the field.",
+    "Pre-entry drew 356,600 registrations with a ballot odds of 7.2%; the 2025 race used three gun starts and extended the finish cut-off to 13:30.",
+    "Men's winner Milkesa Mengesha ran 2:06:25; Brigid Kosgei won the women's in 2:16:36, lowering the women's course record by about four minutes; the wheelchair title was defended by a local athlete.",
+    "Domestic men's first was Feng Peiyou and domestic women's first was Zhang Deshun, her fourth consecutive domestic women's title at Shanghai.",
+    "The race covered 43 medical stations and 36监护 ambulances; more than 30% of entrants were non-local or overseas runners.",
+    "Organisers announced that the 2026 Shanghai Marathon would be held on 6 December 2026 with registration opening no later than the end of April 2026; a 5 km healthy run would be staged separately on 5 December 2026."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 shanghai.gov.cn 转载解放日报复盘稿全文，含完赛率、报名数、中签率、分枪、关门与下届安排",
+    "note": "2025-12-01 发布；成绩与规模数字出自正文。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "“2.3万名跑者……国际选手占比13.3%，总完赛率达98.02%”。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "“35.66万人报名、中签率7.2%；采用三枪起跑并将关门时间顺延至13时30分”。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Mengsha 2:06:25；Kosgei 2:16:36 刷新女子纪录约 4 分钟；轮椅本土选手卫冕。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Feng Peiyou 国内男子第一；Zhang Deshun 国内女子四连冠。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "43 医疗站、36 救护车；非本地及境外选手超三成。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "文末宣布 2026-12-06 举行、报名不晚于 4 月底；5 公里健康跑 12-05 单独举办。" }
+  ]
+}

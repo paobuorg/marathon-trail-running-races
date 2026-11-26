@@ -1,0 +1,47 @@
+{
+  "slug": "utct",
+  "charts": [
+    {
+      "id": "finish-status-2026",
+      "kind": "bar",
+      "title": {
+        "zh-CN": "UTCT 2026：UT100 与 100 英里官方结算完赛 / 退赛人数",
+        "en": "UTCT 2026: official finishers vs withdrawals, UT100 and 100M"
+      },
+      "unit": {
+        "zh-CN": "人（官方 Sportraxs 结算名单）",
+        "en": "runners (official Sportraxs leaderboard)"
+      },
+      "categories": {
+        "zh-CN": ["UT100 完赛", "UT100 退赛", "100 英里完赛", "100 英里退赛"],
+        "en": ["UT100 finish", "UT100 withdraw", "100M finish", "100M withdraw"]
+      },
+      "values": [359, 88, 91, 36],
+      "note": {
+        "zh-CN": "2026-11-22 官方结算：UT100 名单 447 人（359 完赛 / 88 退赛 / 0 在赛道）；100 英里名单 127 人（91 完赛 / 36 退赛 / 0 在赛道）。名单人数不等于报名人数。本站自制图，非官方赛道剖面。",
+        "en": "Official 2026 settlement on 22 Nov: UT100 field 447 (359 finish / 88 withdraw / 0 on course); 100M field 127 (91 finish / 36 withdraw / 0 on course). Leaderboard entrants are not the same as registrations. Self-made chart, not an official course profile."
+      }
+    },
+    {
+      "id": "pace-targets-100m",
+      "kind": "line",
+      "title": {
+        "zh-CN": "UTCT 100 英里：不同目标完赛时间对应的平均配速",
+        "en": "UTCT 100M: average pace by target finish time"
+      },
+      "unit": {
+        "zh-CN": "分钟 / 公里（匀速算术，不含爬升与停留）",
+        "en": "min/km (even-pace arithmetic, no climb or stops)"
+      },
+      "categories": {
+        "zh-CN": ["24 小时", "30 小时（Honey Badger）", "36 小时", "40 小时", "45 小时关门"],
+        "en": ["24 h", "30 h (Honey Badger)", "36 h", "40 h", "45 h cutoff"]
+      },
+      "values": [8.83, 11.05, 13.25, 14.72, 16.57],
+      "note": {
+        "zh-CN": "按官方卡片 163 km 除目标完赛时间匀速换算；30 小时对应 Honey Badger 奖牌。上坡、技术下降、夜间与补给停留都会使实际分段慢于此均值，45 小时是关门上限不是目标。本站自制图，非官方赛道剖面。",
+        "en": "Even-pace arithmetic over the official 163 km card; 30 h matches the Honey Badger award. Climbs, technical descents, night sections and aid stops make real splits slower than this average, and 45 h is the cut-off ceiling, not a target. Self-made chart, not an official course profile."
+      }
+    }
+  ]
+}

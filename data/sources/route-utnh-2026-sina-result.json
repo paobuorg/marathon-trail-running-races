@@ -1,0 +1,39 @@
+{
+ "sourceId": "route-utnh-2026-sina-result",
+ "title": "2026可隆宁海越野挑战赛 邓国敏获男子百公里组第四",
+ "url": "http://sports.sina.com.cn/o/2026-11-20/doc-inizkcth7207321.shtml",
+ "publisher": "新浪体育",
+ "publishedAt": "2026-11-20",
+ "accessedAt": "2026-11-26",
+ "claims": [
+  "Gu Rongchao won the 100 km men's race in 9:25:07 and Veronika Leng won the women's race in 11:09:11.",
+  "Deng Guomin finished fourth in 9:58:09 and broke ten hours on the course.",
+  "The 2026 event had about 6,000 runners from 29 countries and regions across the three races."
+ ],
+ "license": null,
+ "verification": {
+  "access": "direct",
+  "bodyRead": true,
+  "checkedAt": "2026-11-26"
+ },
+ "claimVerification": [
+  {
+   "index": 0,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "新浪体育赛报写明顾荣朝 9:25:07、Veronika Leng 11:09:11。"
+  },
+  {
+   "index": 1,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "同一段写明邓国敏 9:58:09、第四名、跑进 10 小时。"
+  },
+  {
+   "index": 2,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "首段写约六千名跑者、29 个国家和地区。"
+  }
+ ]
+}

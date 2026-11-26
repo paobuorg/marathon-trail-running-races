@@ -1,0 +1,24 @@
+{
+  "sourceId": "route-new-york-2027-date",
+  "title": "NYRR Team for Kids events calendar — 2027 TCS New York City Marathon date",
+  "url": "https://organizations.nyrr.org/sites/organization_sites/6a0cbbfd8a19547bc915/pages/events",
+  "publisher": "New York Road Runners (Team for Kids)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "The NYRR Team for Kids events calendar lists the 2027 TCS New York City Marathon for November 7, 2027, both in the featured events block and in the full calendar (7 NOV 2027).",
+    "The same calendar lists the 2027 United Airlines NYC Half for March 21, 2027 and the 2027 RBC Brooklyn Half for May 22, 2027 as surrounding NYRR events."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-26",
+    "checkedVia": "WebFetch 读取 organizations.nyrr.org Team for Kids events 页全文",
+    "note": "2027 马拉松日期在 featured block 与 full calendar 两处一致；该页为 NYRR 官方域名下的项目日历，非第三方转载。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-26", "note": "Featured Events：2027 TCS NEW YORK CITY MARATHON — NOVEMBER 7, 2027；FULL CALENDAR：7 NOV 2027 TCS New York City Marathon。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-26", "note": "同页：2027 NYC Half MARCH 21, 2027；2027 Brooklyn Half MAY 22, 2027。" }
+  ]
+}

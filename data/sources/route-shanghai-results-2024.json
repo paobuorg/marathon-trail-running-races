@@ -1,0 +1,36 @@
+{
+  "sourceId": "route-shanghai-results-2024",
+  "title": "2024 Shanghai Marathon results and finish rate (Shanghai Daily / shio.gov.cn)",
+  "url": "https://touch.shio.gov.cn/jsp/zfxw_detail.jsp?id=20241201225756201",
+  "publisher": "上海市人民政府新闻办公室（Shine/上海日报英文版）",
+  "publishedAt": "2024-12-01",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2024 Shanghai Marathon drew 38,000 participants in the full marathon and mini marathon combined, and more than 98 percent completed their races.",
+    "Men's full marathon: Samsom Amare (Eritrea) won in 2:06:26, followed by Titus Kipruto (Kenya) 2:06:30 and Solomon Kirwa Yego (Kenya) 2:06:34.",
+    "Women's full marathon: Bekelech Gudeta Borecha (Ethiopia) won in 2:25:21, followed by Sisay Meseret Gola (Ethiopia) 2:25:29 and Tejitu Siyum (Ethiopia) 2:26:28.",
+    "Domestic men's champion Wu Xiangdong ran 2:09:31; domestic women's champion Zhang Deshun ran 2:26:39.",
+    "The 2024 race introduced a speed wheelchair discipline with about 20 participants; Luo Xingchuan won the men's wheelchair in 1:32:09 and Chen Xiaochun won the women's in 1:51:25.",
+    "2024 was Shanghai's first year as a candidate race for the Abbott World Marathon Majors; the article reported planned inspections in 2025 and 2026 and possible Major recognition in 2027.",
+    "Organisers improved the route for wheelchair access by avoiding sharp curves and narrow roads, with five barrier-free toilets along the way.",
+    "The organisers announced the 2025 Shanghai Marathon would be held on 30 November 2025, with registration opening no later than June."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 touch.shio.gov.cn 英文稿正文，含前三名成绩、国内冠军、轮椅名次、完赛率与 WMM 候选表述",
+    "note": "政府新闻办转载上海日报英文稿；38,000 为全程+迷你合计，非全程单项人数。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "“38,000 participants in the 42-kilometer full marathon and the mini marathon”；“More than 98 percent … completed”。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Amare 2:06:26；Kipruto 2:06:30；Yego 2:06:34。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Borecha 2:25:21；Gola 2:25:29；Siyum 2:26:28。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Wu Xiangdong 2:09:31；Zhang Deshun 2:26:39。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "wheelchair: Luo 1:32:09；Chen Xiaochun 1:51:25；约 20 人。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "“first year … named a candidate race for the Abbott World Marathon Majors”；2025/2026 检查、2027 认定为文中展望。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-25", "note": "“avoiding sharp curves and narrow roads”；五处无障碍厕所。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-25", "note": "文末宣布 2025-11-30 举行，报名不晚于 6 月启动。" }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+ "sourceId": "route-tokyo-faq-2027",
+ "title": "FAQ — Tokyo Marathon 2027",
+ "url": "https://www.marathon.tokyo/en/faq/",
+ "publisher": "Tokyo Marathon Foundation",
+ "publishedAt": null,
+ "accessedAt": "2026-11-26",
+ "claims": [
+  "Baggage check must be selected at entry and cannot be added later.",
+  "Baggage check is only available to runners who applied at entry.",
+  "Packet pickup is at Tokyo Big Sight South Exhibition Hall and there is no race-day pickup."
+ ],
+ "license": null,
+ "verification": {
+  "access": "direct",
+  "bodyRead": true,
+  "checkedAt": "2026-11-26"
+ },
+ "claimVerification": [
+  {
+   "index": 0,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "FAQ 写明 baggage check 在报名时选择，报名完成后不能更改。"
+  },
+  {
+   "index": 1,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "FAQ 写明 baggage check service 只对报名时申请者开放。"
+  },
+  {
+   "index": 2,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "FAQ 写明领物地点与比赛日不领物。"
+  }
+ ]
+}

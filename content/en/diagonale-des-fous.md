@@ -33,6 +33,20 @@ There is no Cilaos in that list. The 2026 edition puts its first major base at H
 
 The official 2026 results page reports 2,766 starters, 2,126 finishers and 640 DNFs. The men's winner, Hugo Deck, is listed at 22:54:19; the women's winner, Ruth Croft, is listed at 27:13:23. The official limit is 66 hours, with cut-offs running from Thursday 22:00 to Sunday 16:00.
 
+## Entry and eligibility
+
+- Division: this is the longest Grand Raid race, La Diagonale des Fous. The 2026 edition started at 22:00 on 15 October from Ravine Blanche in Saint-Pierre and finished at La Redoute in Saint-Denis.
+- The 2026 edition had 2,766 starters (official results page stats field).
+- Entry fee, ballot, UTMB Index or qualifying-time requirement, and age groups: not published in the official pages checked for this entry; entry conditions follow the current official entry page, and this page does not estimate them.
+- Personal assistance (pacing / private aid) is allowed only within 300 m upstream and downstream of the 15 designated points; outside that range it is a rule violation.
+
+| Item | Official basis | Status |
+|---|---|---|
+| 2026 starters | 2,766 | Verified on results page |
+| Division | Diagonale des Fous (longest Grand Raid race) | Verified on race page |
+| Fee / ballot / Index threshold | Not published | Insufficient evidence; check current entry page |
+| Personal assistance boundary | 15 designated points ±300 m | Verified on assistance page |
+
 ## Four official figures
 
 | Basis | Distance | Gain | Loss | Highest point |
@@ -115,6 +129,22 @@ A number of things need explaining beyond the table:
 
 ![Finish arrival of the 2011 Grand Raid](/media/routes/diagonale-des-fous/finish-2011.jpg)
 
+## Kit and rules
+
+The 2026 mandatory list below follows the official equipment page. Marshals may check at any point, and mandatory kit must be carried for the whole race. Trekking poles are banned throughout.
+
+| Category | Official requirement | Status |
+|---|---|---|
+| Headlamp | One working headlamp with spare batteries | Verified on gear page |
+| Water | At least 1.5 L | Verified on gear page |
+| Signalling | Whistle; charged phone with the Sara Event app installed | Verified on gear page |
+| Strapping | Two elastic tapes, 2.5 m long and 6–8 cm wide | Verified on gear page |
+| Food | Enough to reach the next aid station | Verified on gear page |
+| Jacket | Hooded, taped-seam waterproof jacket; a windproof jacket may not substitute | Verified on gear page |
+| Warm layer | Long-sleeve warm layer | Verified on gear page |
+| Other | Reusable cup, ID, survival blanket at least 1.4 × 2 m | Verified on gear page |
+| Trekking poles | Banned in any form; offenders penalised | Verified on route page |
+
 ## Surface and terrain
 
 This page found no redistributable surface breakdown from the organiser, and it invents no percentages. All that can be confirmed is the organiser's own description: narrow paths, ravines, rivers and summits, crossing a national park of volcanoes, cirques and cliff walls. The route page also warns that some sections cross private land and are open only during the race, and that reconnaissance between Bassin Plat and Piton Sec is expressly forbidden.
@@ -172,6 +202,59 @@ The official documents publish no single "difficulty grade", and this page does 
 
 Those conditions are a 22:00 night start, a 66-hour limit, semi-autonomy, mandatory equipment and 15 personal-assistance points; this page makes no quantitative difficulty comparison with other races and gives no official rating.
 
+## Training transfer
+
+This is an 180 km-class mountain trail ultra with 10,200 m of climb, three nights on course and a 66-hour limit; the highest timed point is 2,475 m and the start at 2 m. The training focus is sustained night load, repeated up-and-down in the cirques and late-race cut-off margin; self-sufficiency (carried water and food) matters more than raw climbing power.
+
+The table below converts four finish targets to average speed over the cut-off-table basis of 180.8 km, excluding climb, rest, queueing and weather loss; the 2026 official cut-off times remain the hard limits.
+
+| Target finish | Total time (h) | Average speed (km/h) | Margin to the 66 h limit |
+|---|---:|---:|---|
+| 40 h | 40 | 4.52 | 26 h margin |
+| 50 h | 50 | 3.62 | 16 h margin |
+| 60 h | 60 | 3.01 | 6 h margin |
+| 66 h | 66 | 2.74 | at the barrier |
+
+- Night and warmth: the race spans Thursday, Friday and Saturday nights; long training runs should include night sections and cold-warmth drills.
+- Repeated up and down: segments 4 and 5 climb and descend repeatedly inside the cirques, with segment 5 losing 2,305 m cumulative; quad strength and descent technique need separate work.
+- Self-sufficiency: leave each aid with enough water and food for the next one; train carried capacity and fueling without roadside private aid.
+- This page is not a training plan and does not replace a coach or medical assessment.
+
+## Race-day execution card
+
+- Start: Thursday 22:00 night start; the runner buses leave the western side at 17:10 and the eastern side at 16:15, reaching Ravine Blanche at 20:00; register on the bus option in advance.
+- Bag drop: three drop points at Hell-Bourg (80.6 km), Ilet Savannah (140.5 km) and the finish; each bag capped at 5 kg, with no cash, camera or phone inside.
+- Assistance: personal assistance is legal only at the 15 designated points ±300 m; pacing, hand-ups or private aid outside that range are penalised.
+- Hot meals: only Mare à Boue, Hell-Bourg, Ilet Savannah and the finish serve hot meals; "soup" at other points is not a main meal.
+- Medical: doctors cover 10 points and nurses 15; points inside the cirques have no official shuttle, and a medical point is not an escape point.
+
+| Branch | Situation | Action |
+|---|---|---|
+| If the first segment (0→55.6 km) climbs above 2,000 m | Continuous climb on the volcanic side | Hold back at the start; check margin to CP3 (45.4 km, Friday 10:30) against the cut-off table |
+| If resting at Hell-Bourg (80.6 km) | Base 1: hot meal, bag drop, physio, foot care | Use the hot meal and drop bag to recover; check the night-section cut-off to Plaine des Merles |
+| If entering the cirque interior (Grand Place / Roche Plate) | No official shuttle | Arrange no roadside private aid; carry enough water and food; seek help through the official medical process |
+| If reaching Ilet Savannah (140.5 km) late race | Base 2, after a long descent back toward the coast | Check legs and kit against the Sunday 00:15 cut-off margin |
+| If swept or withdrawing | Interior evacuation process unclear | Follow marshals or medical staff; do not leave the marked route on your own |
+
+## Results and course changes
+
+The official 2026 results page (stats field): 2,766 starters, 2,126 finishers, 640 DNFs. Winners and times are below; these are elite results for that day, not ordinary entrants' conditions.
+
+| Division | 2026 winner | Time | Course record |
+|---|---|---:|---|
+| Men | Hugo Deck | 22:54:19 | Not published in the materials checked |
+| Women | Ruth Croft | 27:13:23 | Not published in the materials checked |
+| Finish rate | 2,126 / 2,766 ≈ 76.9% | 640 DNF | — |
+
+Finish-rate arithmetic: 2,126 ÷ 2,766 = 0.7686, about 76.9%; this division is done here from official counts, not a published official percentage.
+
+Course changes and historical bases:
+
+- 2025: the Colorado descent has been closed since cyclone Garance and rerouted via Piton Trésor–Rampes de la Montagne–Chemin des Perles–Vigie; this is logged in `courseChanges`.
+- 2021: the official results page lists only 160 km / 9,383 m+ with no stated reason; the claim that the Maïdo fire removed a section appears only in media reports and is not logged.
+- 2013: only third-party reports of a safety shortening to 165 km exist, with no specific section; recorded as unknown.
+- Full historical winners' lists and course records are not in the official materials checked; this page does not list them.
+
 ## Verified and unverified
 
 This page has not been run on the ground, so the two are kept strictly apart.
@@ -200,3 +283,10 @@ The page cites 15 new sources, plus the existing race-introduction source and th
 There is **no course geometry file to redistribute**: the official pages publish no downloadable GPX, KML or GeoJSON, and the third-party GPX has no clear licence, so no line is drawn and no file is bundled. Every kilometre, elevation, gain, loss and cut-off in the tables comes from the 2026 official cut-off table; the segment table's distance, gain and loss are differences of official cumulative values, stated before the table. The two photographs' authors and licences are stated with their captions; they are not covered by this page's CC BY 4.0; check the Commons file page before reuse, and they are not covered by this page's CC BY 4.0. For pace and split arithmetic, use the [pace calculator](/en/tools/pace/) and the [split tool](/en/tools/splits/).
 
 Before entering the next edition, re-check the official route page's change notice, that edition's cut-off table PDF, the mandatory-equipment list and the shuttle times. This page pins the 2026 version, not a permanent course.
+
+<!-- related-ring -->
+## Related entries
+
+- [Spartathlon 2026: 244.74 km from Athens to Sparta, 36 hours and 76 checkpoints](/en/routes/spartathlon/)
+- [Two Oceans Marathon: 56 km, the 56th edition, and seconding rules that Comrades does not share](/en/routes/two-oceans-marathon/)
+- [CCC: the complete 2026 course guide to the UTMB World Series 100K final](/en/routes/ccc/)

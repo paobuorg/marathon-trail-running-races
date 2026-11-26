@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-shanghai-results-2023",
+  "title": "2023上海马拉松安全圆满完赛 赛会纪录大幅提升（上海市体育局）",
+  "url": "https://tyj.sh.gov.cn/gzdt2/20231127/cfdd56981bdf44e9a6185de2ae6d78cc.html",
+  "publisher": "上海市体育局（上海体育）",
+  "publishedAt": "2023-11-27",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2023 Shanghai Marathon was the 28th edition; 20,000 full-marathon runners and 18,000 fitness-run runners started from the Bund Bull Square on 26 November 2023.",
+    "Men's winner Philemon Kiptoo Kipchumba (Kenya) ran 2:05:35, breaking an eight-year-old course record and setting the fastest marathon ever run in mainland China at the time; Alphonce Felix Simbu (Tanzania) was second and Solomon Kirwa Yego (Kenya) third.",
+    "Women's winner Siranesh Yirga Dagne (Ethiopia) ran 2:21:28; Sally Chepyego Kaptich (Kenya) was second and Eunice Chebichii Chumba (Bahrain) third.",
+    "The race closed after 6 hours 15 minutes, with the finish cut-off at 13:15.",
+    "Medical provision: 49 medical stations at start, finish and along the course, 36监护 ambulances, 80 cycling first-aid team members, 21 patrol posts, 230 first-aid runners, nine designated hospitals with dedicated clinics, and 15 sweep buses.",
+    "About 4,600 volunteers from ten universities and the organising group served the race; the course had 12 music stations.",
+    "Sub-3:00 finishers received an extra sub-three windbreaker; finishers within the cut-off received a finisher T-shirt and finish bag."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 tyj.sh.gov.cn 政务要闻全文，含规模、男女前三、关门时间、医疗保障、志愿者与音乐站",
+    "note": "2023-11-27 发布；成绩与保障数字均出自正文。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "“20000名全马跑者和18000名健身跑跑者”；“创赛28年”。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Kipchumba 2:05:35，破八年赛会纪录；Simbu 第二、Yego 第三。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Dagne 2:21:28；Kapyego 第二；Chumba（巴林）第三。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "“下午1:15，赛事进行6小时15分钟后，顺利迎来关门时刻”。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "49 医疗站、36 救护车、80 骑行急救、21 巡视岗、230 急救跑者、9 家定点医院、15 收容车。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "约 4600 名志愿者；12 处音乐站。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-25", "note": "破三风衣；关门内完赛发完赛 T 恤与完赛包。" }
+  ]
+}

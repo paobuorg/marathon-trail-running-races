@@ -1,0 +1,32 @@
+{
+ "sourceId": "route-utmb-results-portal",
+ "title": "HOKA UTMB Mont Blanc Race Results",
+ "url": "https://montblanc.utmb.world/results",
+ "publisher": "UTMB World Series",
+ "publishedAt": null,
+ "accessedAt": "2026-11-26",
+ "claims": [
+  "UTMB Mont-Blanc maintains a results portal for past editions rather than a single current-race results page.",
+  "The results portal is the official entry point for checking past race results."
+ ],
+ "license": null,
+ "verification": {
+  "access": "direct",
+  "bodyRead": true,
+  "checkedAt": "2026-11-26"
+ },
+ "claimVerification": [
+  {
+   "index": 0,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "页面标题为 Race Results，正文写 “Find all your past race results”。"
+  },
+  {
+   "index": 1,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "同一页面只提供结果入口，未给出可替代计时表的单届数据表。"
+  }
+ ]
+}

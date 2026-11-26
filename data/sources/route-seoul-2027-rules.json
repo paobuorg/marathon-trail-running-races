@@ -1,0 +1,38 @@
+{
+  "sourceId": "route-seoul-2027-rules",
+  "title": "2027 Seoul Marathon — participant instructions and rules",
+  "url": "https://en.seoul-marathon.com/90",
+  "publisher": "Seoul Marathon Organizing Committee (The Dong-A Ilbo)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Assembly on Sunday 21 March 2027 is 06:30 (tentative); the Full Marathon gathers at Gwanghwamun Square and the 10K at the Jamsil Sports Complex.",
+    "Time limits are 5 hours for the Full Marathon and 1 h 30 min for the 10K, enforced strictly; after the limit traffic control is lifted and the organiser bears no liability.",
+    "Aid: water and sports drink every 5 km and at the finish; sponges every 5 km after 7.5 km; snacks at 20 km and 30 km under the 2027 rules.",
+    "The disposable timing chip is attached to the back of the bib; net time is recorded.",
+    "Wheelchairs, inline skates and strollers are not allowed; group registration is not accepted, registration is individual only.",
+    "Overseas runners collect their items at the Seoul Running Expo at DDP no later than the day before the race; race-day venue pickup is restricted; items are not shipped internationally; the finisher medal is handed out on site to finishers only.",
+    "The overseas refund deadline is 18 December 2026, 17:00 KST; the domestic refund deadline is 30 November 2026, 14:00 KST; entries are non-transferable and non-resellable, substitution is treated as disqualification and may lead to a five-year future ban.",
+    "Start groups are S (Hall of Fame) plus A–H for the Full and A onward for the 10K; the organiser carries commercial general liability insurance and reserves the right to change the course or cancel under force majeure.",
+    "Full Marathon eligibility: age 18+, official full-marathon record certificate within 4:59:59 from races held 1 January 2024 to 30 November 2026; the 10K is open to all."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 en.seoul-marathon.com/90 规则页全文",
+    "note": "集合时间、时限、补给、芯片、禁项、领物、退费与组别条款逐条可读。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Assembly 06:30 Sunday 21 Mar 2027 (tentative)；Full Gwanghwamun / 10K Jamsil" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Time limit Full 5h / 10K 1h30m；after limit control lifted, no liability" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Water + sports drink every 5km and finish；sponges every 5km after 7.5km；snacks 20km and 30km" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Disposable chip on bib back；net time" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "No wheelchair/inline/stroller；individual registration only" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "Overseas pickup at Seoul Running Expo DDP by day before；no race-day pickup；no international shipping；medal on site" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-25", "note": "Overseas refund 18 Dec 2026 17:00 KST；domestic 30 Nov 2026 14:00 KST；no transfer/resale；substitution DQ, possible 5-year ban" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-25", "note": "Groups S + A–H Full, A onward 10K；CGL insurance；course may change；force majeure" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-25", "note": "Eligibility 18+, record ≤4:59:59, races 2024-01-01 to 2026-11-30；10K open" }
+  ]
+}

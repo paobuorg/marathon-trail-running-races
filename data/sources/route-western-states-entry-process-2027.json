@@ -1,0 +1,53 @@
+{
+ "sourceId": "route-western-states-entry-process-2027",
+ "title": "Entry Process – WSER",
+ "url": "https://www.wser.org/entry-process/",
+ "publisher": "Western States Endurance Run",
+ "publishedAt": "2026-10-20",
+ "accessedAt": "2026-11-26",
+ "claims": [
+  "The 2027 Western States will be held 26–27 June 2027.",
+  "Applicants must be at least 18 on race day and finish a qualifying race within 3 November 2025 to 8 November 2026.",
+  "Lottery registration runs 1–21 November 2026 and the draw is on 5 December 2026.",
+  "The entry fee is USD 575 plus the online fee; selected runners have ten days to register or forfeit the place and accrued tickets.",
+  "The lottery also selects 75 applicants for an ordered general wait list."
+ ],
+ "license": null,
+ "verification": {
+  "access": "direct",
+  "bodyRead": true,
+  "checkedAt": "2026-11-26"
+ },
+ "claimVerification": [
+  {
+   "index": 0,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "页面首行写 2027 年 6 月 26–27 日。"
+  },
+  {
+   "index": 1,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "第 1 条写 18 岁与 2025-11-03 至 2026-11-08 的资格赛窗口。"
+  },
+  {
+   "index": 2,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "第 2–3 条写 11 月 1–21 日报名、12 月 5 日抽签。"
+  },
+  {
+   "index": 3,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "第 5 条写 $575 + online fee、10 天完成注册。"
+  },
+  {
+   "index": 4,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "第 7 条写 75 人 general wait list。"
+  }
+ ]
+}

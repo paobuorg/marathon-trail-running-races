@@ -1,0 +1,36 @@
+{
+  "sourceId": "route-seoul-weather",
+  "title": "Open-Meteo historical archive — Seoul grid point, 2026-03-09 to 2026-03-16",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=37.5665&longitude=126.9780&start_date=2026-03-09&end_date=2026-03-16&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max&timezone=Asia%2FSeoul",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The archive returns a grid point at 37.5747N, 126.9600E, elevation 34 m, timezone Asia/Seoul.",
+    "The eight daily values cover 2026-03-09 to 2026-03-16.",
+    "Daily maximum temperatures range from 6.8C to 11.5C, with a median of 10.15C.",
+    "Daily minimum temperatures range from -2.9C to 2.3C, with a median of -0.65C.",
+    "Precipitation totals are 0.10 mm or less on six of the eight days; the largest daily total is 0.40 mm on 2026-03-15; no day reaches 1 mm.",
+    "Maximum daily wind speeds range from 7.7 to 17.4 km/h; on race day 2026-03-15 the maximum wind speed is 12.9 km/h.",
+    "On 2026-03-15 the daily maximum is 9.7C, the minimum is 1.9C and precipitation is 0.40 mm.",
+    "These are modelled grid values, not measurements taken on the course."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "curl.exe -sSL 抓取 Open-Meteo archive API → seoul_weather.json",
+    "note": "JSON 返回 8 天日值；网格点 37.57469/126.96，timezone Asia/Seoul。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "latitude 37.57469 / longitude 126.96 / elevation 34 / timezone Asia/Seoul" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "daily.time 2026-03-09…2026-03-16 共8天" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "max 6.8–11.5，排序中位 (9.7+10.6)/2=10.15" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "min -2.9–2.3，排序中位 (-1.0+-0.3)/2=-0.65" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "precip 0.10/0/0/0/0/0/0.40/0.00；≥1mm 0 天，最大 0.40mm（3/15）" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "wind max 7.7–17.4 km/h；3/15 为 12.9" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-25", "note": "2026-03-15 max 9.7 / min 1.9 / precip 0.40" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-25", "note": "JSON 为 modelled archive grid 值，非赛道实测" }
+  ]
+}

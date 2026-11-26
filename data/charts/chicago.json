@@ -1,0 +1,47 @@
+{
+  "slug": "chicago",
+  "charts": [
+    {
+      "id": "tq-standards-men-2027",
+      "kind": "bar",
+      "title": {
+        "zh-CN": "芝加哥马拉松 2027 Time Qualifier 男子资格标准（按年龄组）",
+        "en": "Chicago Marathon 2027 Time Qualifier men's standards by age group"
+      },
+      "unit": {
+        "zh-CN": "分钟（资格全马净成绩上限）",
+        "en": "minutes (qualifying marathon net-time ceiling)"
+      },
+      "categories": {
+        "zh-CN": ["16-34", "35-39", "40-44", "45-49", "50-54", "55-59", "60-64", "65-69", "70-74", "75-79", "80+"],
+        "en": ["16-34", "35-39", "40-44", "45-49", "50-54", "55-59", "60-64", "65-69", "70-74", "75-79", "80+"]
+      },
+      "values": [170, 175, 180, 190, 195, 205, 220, 235, 255, 270, 290],
+      "note": {
+        "zh-CN": "芝加哥马拉松官方 2027 Time Qualifier 男子标准（女子/非二元标准在每个年龄组均更慢，如 16-34 为 3:20:00）；成绩须来自 USATF/WA 认证全马，窗口 2025-01-01 至 2026-10-29，半马或 50K 成绩不接受。达标即获保证名额资格，与抽签 Drawing 相互独立。本站自制图，非官方赛道剖面。",
+        "en": "Official Chicago Marathon 2027 Time Qualifier men's standards; women's and non-binary standards are slower at each band (e.g. 3:20:00 at 16-34). Proof must be a USATF/WA-certified marathon run between 1 Jan 2025 and 29 Oct 2026; half-marathon or 50K times are not accepted. Meeting the standard earns a guaranteed entry, separate from the non-guaranteed Drawing. Self-made chart, not an official course profile."
+      }
+    },
+    {
+      "id": "segment-profile",
+      "kind": "line",
+      "title": {
+        "zh-CN": "芝加哥马拉松：分段累计距离",
+        "en": "Chicago Marathon: cumulative distance by segment"
+      },
+      "unit": {
+        "zh-CN": "公里",
+        "en": "km"
+      },
+      "categories": {
+        "zh-CN": ["0", "5K", "10K", "15K", "20K", "半程 13.1 mi", "25K", "30K", "35K", "40K", "42.195 km"],
+        "en": ["0", "5K", "10K", "15K", "20K", "Halfway 13.1 mi", "25K", "30K", "35K", "40K", "42.195 km"]
+      },
+      "values": [0, 5, 10, 15, 20, 21.0824, 25, 30, 35, 40, 42.195],
+      "note": {
+        "zh-CN": "累计距离按官方计时点（起点、每 5K、半程 13.1 英里、mile 20–25、mile 25.2 与终点）排列；五套官方材料均未发布累计爬升或下降，本图不读取爬升。本站自制图，非官方赛道剖面。",
+        "en": "Cumulative distance follows the official checkpoints (start, every 5K, halfway 13.1 miles, miles 20–25, mile 25.2 and finish); none of the five official artefacts publishes cumulative ascent or descent, so this chart reads no climb figure. Self-made chart, not an official course profile."
+      }
+    }
+  ]
+}

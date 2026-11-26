@@ -1,0 +1,24 @@
+{
+  "sourceId": "route-bigs-access-lodging",
+  "title": "Booking.com — hotels near Bell Buckle, Tennessee (nearest airport and lodging base)",
+  "url": "http://www.booking.com/city/us/bell-buckle.en-gb.html",
+  "publisher": "Booking.com (third-party accommodation platform)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The listed hotels around Bell Buckle sit in nearby Shelbyville; the platform states the nearest airport is Nashville International Airport, 74 km from the Shelbyville properties.",
+    "Lodging near the venue includes chain inns in Shelbyville plus small B&B and cabin options in Bell Buckle itself; the town has limited accommodation capacity relative to a championship field."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": false,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "general_search 摘要读取平台城市页酒店与机场距离",
+    "note": "第三方平台口径：74 km 为 Shelbyville 酒店到 BNA 的标注距离，非赛场门到门里程；官方赛事交通接驳信息本轮未在官网读到。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "partial", "checkedAt": "2026-11-25", "note": "摘要：Best Western Celebration Inn & Suites, Shelbyville; nearest airport Nashville International Airport, 74 km。" },
+    { "index": 1, "status": "partial", "checkedAt": "2026-11-25", "note": "摘要列 Shelbyville 连锁酒店；镇内 B&B/小木屋口径另见第三方旅行汇编，未在官方住宿页复核。" }
+  ]
+}

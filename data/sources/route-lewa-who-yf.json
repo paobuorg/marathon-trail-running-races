@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-lewa-who-yf",
+  "title": "Yellow Fever – Kenya, WHO Disease Outbreak News 361 (vaccination status, certificate validity, bite avoidance)",
+  "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2022-DON361",
+  "publisher": "World Health Organization",
+  "publishedAt": "2022-03-25",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Kenyan national authorities require yellow fever vaccination for international travellers over one year of age entering Kenya; WHO recommends vaccination for travellers aged 9 months or over, except those whose itinerary is limited to listed low-risk areas (including Nairobi and Mombasa cities).",
+    "Under the International Health Regulations (2005), the International Certificate of Vaccination or Prophylaxis becomes valid 10 days after vaccination and remains valid for the vaccinated person's lifetime; a single approved dose gives lifelong protection and no booster is required as an entry condition.",
+    "WHO general precaution is avoidance of mosquito bites, including repellents and insecticide-treated nets; yellow fever virus transmission risk is highest during the day and early evening; travellers should seek medical advice rapidly if symptoms suggestive of infection appear."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 WHO DON361 肯尼亚条目",
+    "note": "DON 为 2022 年疫情消息；入境接种要求出发前应再核对肯尼亚当届规定。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "required over one year entering Kenya；recommended 9 months+；limited-itinerary exceptions。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "ICVP valid 10 days after vaccination, lifelong；single dose lifelong；no booster entry condition。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "bite avoidance: repellent, ITN；risk daytime/early evening; seek advice if symptomatic。" }
+  ]
+}

@@ -12,6 +12,8 @@
     "route-transgrancanaria-gpx-2026",
     "route-transgrancanaria-openmeteo",
     "route-transgrancanaria-aena",
+    "route-transgrancanaria-wtm",
+    "route-transgrancanaria-wtm-list",
     "photo-transgrancanaria-osorio-2013"
   ],
   "relatedRefs": [
@@ -22,9 +24,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-11-08",
-  "updatedAt": "2026-11-20",
-  "reviewedAt": "2026-11-20",
-  "reviewDueAt": "2027-01-31",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
   "details": {
     "raceType": "trail-ultra",
     "countryCodes": [

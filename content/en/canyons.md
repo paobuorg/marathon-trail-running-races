@@ -227,12 +227,59 @@ Open-Meteo's Auburn town record for 24–25 April, 2015–2025 (22 days):
 
 This is the Auburn town grid, not China Wall, Eldorado Canyon or the American River bottom. Late April can be much hotter in the canyons; a 05:00 start needs a light shell and headlamp, while the afternoon needs sun protection and salt.
 
+## Kit and rules: canyon day-night range and self-sufficiency boundary
+
+The official mandatory kit list was not obtained from the pages read this round, so the item-by-item mandatory list is unknown; this page does not invent an official list. Before the race, follow the official runner guide for the edition. The verifiable scenario boundary: the 100K starts at 05:00, the early morning river valley is cool; late-April exposed sections can heat up by afternoon; the route repeatedly climbs and descends canyons and river valleys along the Western States Trail, with a night section on Cal Street.
+
+| Category | Race-day scenario | Pre-start check | Boundary |
+| --- | --- | --- | --- |
+| Headlamp and spare power | 05:00 start and night on Cal Street | Main lamp, spare batteries or lamp, mount and wiring | Whether mandatory follows the official list |
+| Layered clothing | Cool morning, hot afternoon, valley wind | Light jacket, breathable shirt, packable layer | This page does not recommend specific models |
+| Shoes and leg cover | Oak woodland, river-valley rock and technical trail | Grip, heel hold, long-distance break-in | Trial new shoes on long runs first |
+| Hydration and fueling | Long station gaps, afternoon heat | Carried volume, electrolyte and energy plan | Carry between stations; do not rely on unlisted stops |
+| Sun protection and cap | American River section and afternoon exposure | Cap, sunscreen, sunglasses | Reapply on exposed sections |
+| Bib and timing | Visible throughout; chip/bib handed in on withdrawal | Bib position, chip status | Withdrawal follows official hand-in instructions |
+
+The generic mountain trail kit framework is in [trail gear](/en/knowledge/trail-gear/); kit weight trade-offs are in the [gear weight tool](/en/tools/gear-weight-planner/). Penalties, missing-item handling and pacer rules follow the official rules for the edition; unread clauses are not filled in here.
+
 ## Withdrawal and risk
 
 - **Crew-accessible points:** the 100K chart lists Deadwood-2, Michigan Bluff and Foresthill; the 100M chart also lists Drivers Flat, Cool-1 and Cool-2. The 100M points are not copied onto the 100K.
 - **Drop bags:** the 100K takes bags only at Foresthill and Drivers Flat; the chart does not mark a separate finish bag, so that remains unknown.
 - **Risk:** repeated steep climbs and descents in Eldorado Canyon and Devil's Thumb, exposure on the American River section, technical Cal Street at night, and possible wet rocks after April rain. The official page gives no per-segment technical grade; this page describes the course rather than inventing an official rating.
 - **Withdrawal:** report to the aid-station captain and follow the organiser's instructions for handing in bib/chip; do not leave the course and hitch a ride. The 100K sweep and return plan was not read, so it remains unknown.
+
+## Training conversion: Western States Trail 100K preparation
+
+The challenge of Canyons 100K is the concentrated climbs at Eldorado Canyon, Devil's Thumb, Michigan Bluff and Mammoth Bar, the exposed American River section, and the night technical trail. Preparation centres on long mountain endurance, repeated up-and-down leg capacity and day-night temperature adaptation, not raw road mileage. General methods are in [ultra-trail training plan](/en/knowledge/trail-ultra-training-plan/), [long-run fueling](/en/knowledge/long-run-fueling/), [recovery day](/en/knowledge/recovery-day/) and [load and overtraining](/en/knowledge/load-and-overtraining/).
+
+| Phase | Focus | Practical content | Race-day constraint |
+| --- | --- | --- | --- |
+| T-16 to T-10 weeks | Mountain aerobic base | One mountain long run plus easy runs a week; build weekly gain toward 2,000 m | Several concentrated climbs need a steady aerobic base |
+| T-10 to T-6 weeks | Long run and technical sections | Long run to 60–80 km; practise canyon rock and stair sections | Repeated up-and-down at Devil's Thumb, Michigan Bluff, Mammoth Bar |
+| T-6 to T-2 weeks | Fueling and night practice | Test carrying food and water; one early-morning or night session | 05:00 start; night on Cal Street |
+| T-2 to race | Taper | Shorten distance and gain, keep short rhythm; no new shoes or kit | Recover fatigue before race day; see [taper and strength](/en/knowledge/strength-and-taper/) |
+
+Boundary: this is a generic preparation framework, not medical advice. Runners with pre-existing cardiopulmonary conditions or recent injuries should consult a doctor first. The 20-hour Western States qualifying line and the course cut-off are the same 20 hours, but Super Golden Ticket places are allocated by placing; set preparation targets separately.
+
+## Race-day execution card: early start and station use
+
+| Phase | Station window | Rhythm and fueling | Check |
+| --- | --- | --- | --- |
+| Start to Deadwood-2 | 0–25.4 km | Hold back the Eldorado Canyon descent; do not surge early | Check against published cut-offs; crew at Deadwood-2 |
+| Deadwood-2 to Michigan Bluff | 25.4–36.4 km | Descend to Eldorado Bridge then climb; control rhythm | The 2026 cut-off here is tight; recheck with the 2027 sheet |
+| Michigan Bluff to Foresthill | 36.4–45.9 km | Through Volcano Canyon; hot food and rest at the main station | Drop bag and crew at Foresthill |
+| Foresthill to Drivers Flat | 45.9–74.0 km | Steady fueling on Cal Street and American River | Drop bag at Drivers Flat; headlamp at night |
+| Drivers Flat to finish | 74.0–99.1 km | Mammoth Bar, Confluence, No Hands Bridge then Robie Point | The finale still climbs; do not treat entering Auburn as pure downhill |
+
+| Red flag | On-site action | Boundary |
+| --- | --- | --- |
+| Dizziness, palpitations, blurred vision, chest pain | Stop, seek help, call medical if needed | This page does not diagnose; cardiac emergency recognition and call follow on-site first-aid standards |
+| Heat illness, worsening cramping, dehydration signs | Cool down, replace salt and water, use a station | This page does not provide medical diagnosis |
+| Night blurred vision, headlamp failure, hypothermia | Rest and change kit at a station; drop if needed | Continuing at night without light is unsafe |
+| Approaching the cut-off at a station | Assess remaining climb and buffer; drop if needed | Withdrawal is reported at the station; bib/chip handed in per official instructions |
+
+Station use and pacer planning are in [crew and pacer planning](/en/knowledge/crew-and-pacer-planning/); pace comparison is in the [pace tool](/en/tools/pace/) and [splits tool](/en/tools/splits/).
 
 ## Images and rights
 
@@ -249,3 +296,10 @@ All three photographs are 960 px Commons thumbnails re-encoded for this page; th
 The official 2027 100K page still serves the 2026 GPX and aid chart and says `Course maps subject to change`; it gives no redistributable image licence. The 2026 GPX was measured locally but is not mirrored, redrawn, hosted or redistributed; this page links the official page and describes the route.
 
 Related pages: [Kodiak Ultra Marathons by UTMB](/en/routes/kodiak/), [Western States](/en/routes/western-states/), [UTMB](/en/routes/utmb/).
+
+<!-- related-ring -->
+## Related entries
+
+- [Cape Town Marathon: Africa's first World Marathon Major from 2027, and its two-start city course](/en/routes/cape-town/)
+- [GPT100 Miler: 163 km down the spine of the Grampians from Mt Zero to Dunkeld](/en/routes/gpt100-miler/)
+- [Kodiak Ultra Marathons by UTMB: a 100-mile mountain race at Big Bear Lake](/en/routes/kodiak/)

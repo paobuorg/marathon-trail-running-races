@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-lewa-terms",
+  "title": "2026 Conditions of Participation and Attendance — official terms (insurance, six-hour finish, cancellation, DQ, health declaration)",
+  "url": "https://www.safaricommarathon.com/terms/",
+  "publisher": "Lewa Wildlife Conservancy and Tusk Trust Trading Limited (organisers)",
+  "publishedAt": "2026-03-10",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Participants must hold suitable insurance covering medical and travel risks, including full/comprehensive medical insurance that covers emergency medical evacuation; if organisers pay evacuation, medical, accommodation or other expenses on the participant's behalf, the participant reimburses them; only temporary medical facilities are available via AMREF and local hospitals.",
+    "A full-marathon entrant declares they can finish within six hours; if they have not crossed the half/full split point by 10:30 AM, they are not allowed to start the second loop and are recorded as a half-marathon finisher.",
+    "Category switches on race day (half to full, 10 km to half, half to 10 km) are not permitted and lead to immediate disqualification; the only exception is a marshal-ordered downgrade for medical reasons, safety concerns or official timing cutoffs, with results recorded at the permitted distance and no prize eligibility.",
+    "Cancellation refund schedule: 90+ days before the event full refund of entry fee net of bank charges; 89–60 days a 50% deduction; 59–30 days a 25% deduction; 29 days or fewer no refund; camping fees and AMREF fees are non-refundable at any point; the non-refunded entry portion is treated as a donation.",
+    "Change of runner after 5 May carries a KES 5,000 surcharge.",
+    "Health declaration: good health; no heart disease, high blood pressure, asthma, diabetes, epilepsy or condition such as pregnancy that participation may affect; trained for the event accounting for altitude, terrain and climate; wearing good-quality suitable running shoes; obeying officials and medical staff; not deviating from the route.",
+    "The organiser may refuse admission or remove a participant without compensation; the event may be cancelled, postponed, interrupted or stopped for government acts, adverse weather, civil disorder, terror, pandemic or other unforeseeable circumstances."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 2026 参赛条款全文",
+    "note": "条款适用 2026 届（25–29 June 2026）；2027 条款以当届官网更新为准。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "A 段：insurance covering medical/travel risks + emergency evacuation；organiser-paid expenses reimbursable；temporary AMREF/local hospital facilities。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "B 段：finish within six hours；split point 10:30 AM；second loop denied, recorded half finisher。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "B 段：no on-day category switch；marshal downgrade exception；no prize eligibility。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Cancellation 段：90+/89–60/59–30/≤29 天退费梯度；camping 与 AMREF 费不退；未退部分作捐赠。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "Change of Runner：after 5th May KES 5,000 surcharge。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "D 段健康声明六项与表内一致。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-25", "note": "B 段：refuse admission/remove；cancel/postpone/interrupt/stop 事由。" }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-everest-itinerary",
+  "title": "Non-runner package — official day-by-day itinerary (Kathmandu–Lukla–Namche–EBC–Kala Patthar)",
+  "url": "https://everestmarathon.com/package/non-runner",
+  "publisher": "Tenzing Hillary Everest Marathon (event organiser, Kathmandu)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Day 1 (16 May): arrive Kathmandu and transfer to hotel. Day 2 (17 May): morning trek briefing and half-day sightseeing in Kathmandu, or briefing/sightseeing and drive to Ramechhap if the flight departs from Ramechhap.",
+    "Day 3 (18 May): fly to Lukla (35 min, 2,860 m), trek to Phakding (8 km, 2,652 m). Day 4 (19 May): trek to Namche Bazaar (15 km, 3,446 m). Day 5 (20 May): acclimatisation halt at Namche. Day 6 (21 May): trek to Khumjung (2.5–3 km, 3,740 m). Day 7 (22 May): Deboche via Thyangboche (6–8 km, 3,650 m).",
+    "Day 8 (23 May): trek to Dingboche (12 km, 4,358 m). Day 9 (24 May): acclimatisation halt at Dingboche. Day 10 (25 May): trek to Lobuje (9 km, 4,928 m). Day 11 (26 May): Gorakshep 5,160 m, then after lunch trek to Everest Base Camp 5,364 m and return to Gorakshep (6 km).",
+    "Day 12 (27 May): early morning hike to Kala Patthar viewpoint (2 km, 5,545 m, highest point of the trek), then trek back to Pangboche (15 km, 3,985 m). Day 14 (28 May): trek back to Namche (18 km, 3,440 m). Day 15 (29 May): marathon day, watching from the finish at Yak Parking Lot (Chaur Camp), Namche Bazaar, near the Sherpa Culture Museum.",
+    "Day 16 (30 May): afternoon trek to Monjo (8 km, 2,850 m). Day 17 (31 May): trek back to Lukla (10 km, 2,860 m). Day 18 (1 June): morning flight to Kathmandu or Ramechhap, then drive to Kathmandu. Day 19 (2 June): free day in Kathmandu. Day 20 (3 June): international departure."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取非跑者套餐逐日行程表",
+    "note": "跑者套餐在 EBC 露营两夜，非跑者于 28 日返回 Namche；行程表为同一团队适应日程的参考口径。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Day 1 May 16、Day 2 May 17 行程与描述一致。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Day 3–7：Lukla 2,860 m、Phakding 2,652 m、Namche 3,446 m、Khumjung 3,740 m、Deboche 3,650 m。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Day 8–11：Dingboche 4,358 m、Lobuje 4,928 m、Gorakshep 5,160 m、EBC 5,364 m。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Day 12 Kala Patthar 5,545 m；Day 14 Namche 3,440 m；Day 15 终点 Yak Parking Lot (Chaur Camp)。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "Day 16–20：Monjo 2,850 m、Lukla 2,860 m、返加德满都、6 月 3 日离境。" }
+  ]
+}

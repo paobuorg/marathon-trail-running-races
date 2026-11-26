@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-chicago-press-center",
+  "title": "Press Center – Bank of America Chicago Marathon",
+  "url": "https://www.chicagomarathon.com/press/press-center/",
+  "publisher": "Bank of America Chicago Marathon",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The event welcomes runners from more than 100 countries and all 50 states, including professionals, regional and Masters runners, veterans, debut marathoners and charity runners.",
+    "An estimated 1.7 million spectators line the streets cheering on 55,000 runners from the start to the final stretch down Columbus Drive, through 29 neighbourhoods.",
+    "The seven AbbottWMM races are Tokyo, Boston presented by Bank of America, TCS London, TCS Sydney, BMW BERLIN, Bank of America Chicago and TCS New York City; the inaugural series ran from Boston in April 2006 to New York City in November 2007."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 press-center ABOUT 段",
+    "note": "参赛来源国/州、规模与大满贯序列来自官方新闻中心介绍"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "ABOUT：more than 100 countries and all 50 states；选手构成逐项列出"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "ABOUT：1.7 million spectators；55,000 runners；29 neighbourhoods；Columbus Drive 终点段"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "ABOUT ABBOTTWMM：七站名单；inaugural series Boston Apr 2006 → New York Nov 2007"
+    }
+  ]
+}

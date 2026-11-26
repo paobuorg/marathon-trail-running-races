@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-everest-homepage",
+  "title": "Tenzing Hillary Everest Marathon — official homepage (event overview and next date)",
+  "url": "https://everestmarathon.com/?RL=1",
+  "publisher": "Tenzing Hillary Everest Marathon (event organiser, Kathmandu)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The Everest Marathon is an annual international high-altitude adventure sports event held on 29 May from Mount Everest Base Camp, commemorating the 29 May 1953 Everest ascent by Tenzing Norgay Sherpa and Sir Edmund Hillary.",
+    "The event lists three distances: Half Marathon 21 km (Dingboche to Namche Bazar), Full Marathon 42.195 km (Everest Base Camp to Namche Bazar via Gorakshep, Dingboche, the Bibre loop and a scenic Kala Patthar climb), and UTME 70 km Ultra-Marathon (Everest Base Camp to Namche Bazaar).",
+    "The homepage countdown displays the next event date as 2027-05-29.",
+    "Non-runners trek the historical route to Kala Patthar to view Everest and witness the finish at Namche."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官网首页正文与倒计时",
+    "note": "首页同时列出半马、全马与 70K 超长距离三个组别；非跑者徒步段为附属安排。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "首页首段：annual event held on May 29 from Mt. Everest Base Camp, celebrating the 1953 ascent." },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Experience the Everest Run 段列出 Half 21KM、Full 42.195KM、70KM Ultra 及各自起终点。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "首页倒计时字段 2027-05-29。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Join as a Non-Runner 段：trek Kala Patthar、witness finish line。" }
+  ]
+}

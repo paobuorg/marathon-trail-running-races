@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-boston-wmm-course-record",
+  "title": "Mutai, Hall make 115th Boston Marathon fastest in history (Abbott WMM)",
+  "url": "https://www.worldmarathonmajors.com/content-hub/mutai-hall-make-115th-boston-marathon-fastest-in-history",
+  "publisher": "Abbott World Marathon Majors",
+  "publishedAt": "2011-04-18",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Geoffrey Mutai of Kenya won the 115th Boston Marathon (18 April 2011) in 2:03:02, which the Majors circuit release calls a new Boston course record.",
+    "The Boston course does not qualify for world records: it has a net elevation drop and a start-to-finish separation of 91%, which exceeds the 50% separation rule.",
+    "The 2011 women's open winner was Caroline Kilel of Kenya in 2:22:36, two seconds ahead of Desiree Davila of the United States."
+  ],
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "WMM 新闻稿：Geoffrey Mutai set a new course record of 2:03:02。该口径来自大满贯联盟报道，BAA 自有纪录页未在本次已读页面中单列。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "原文：net elevation drop；distance between start and finish cannot be more than 50%；Boston separation is 91%；does not qualify for world records。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Women's race：Caroline Kilel KEN 2:22:36，领先 Desiree Davila 两秒。" }
+  ],
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 WMM 官方内容页",
+    "note": "HTTP 200；男子赛道纪录口径与赛道不达标世界纪录的理由来自大满贯联盟新闻稿，属二级赛事组织方口径，正文已标注。"
+  },
+  "license": null
+}

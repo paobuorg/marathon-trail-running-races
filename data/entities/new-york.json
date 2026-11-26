@@ -17,19 +17,39 @@
     "route-new-york-results-2026",
     "route-new-york-worldathletics-2026",
     "route-new-york-openmeteo",
+    "route-new-york-time-qualifiers",
+    "route-new-york-prize-money",
+    "route-new-york-entry",
+    "route-new-york-9-plus-1",
+    "route-new-york-2027-date",
     "photo-new-york-2024",
     "route-anchor-editorial"
   ],
   "relatedRefs": [
     "knowledge:marathon-distance",
+    "knowledge:marathon-training-plan",
+    "knowledge:race-day-pacing",
+    "knowledge:long-run-fueling",
+    "knowledge:heat-and-humidity",
+    "knowledge:hydration",
+    "knowledge:cutoff-management",
+    "knowledge:race-day-fueling",
+    "knowledge:post-race-recovery",
+    "knowledge:records-and-course-validity",
     "tool:pace",
-    "tool:splits"
+    "tool:splits",
+    "tool:race-predict",
+    "tool:race-checklist",
+    "tool:cutoff-planner",
+    "tool:fueling-planner",
+    "tool:race-qualifier-checker",
+    "tool:taper-planner"
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-11-08",
-  "reviewedAt": "2026-11-08",
-  "reviewDueAt": "2027-08-03",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
   "details": {
     "raceType": "road-marathon",
     "countryCodes": [
@@ -48,7 +68,19 @@
     "courseVersion": "2026-new-york-city-marathon-official-course",
     "courseEdition": "2026",
     "courseStatus": "latest-held",
-    "courseChanges": [],
+    "courseChanges": [
+      {
+        "edition": "2026",
+        "field": "course",
+        "sourceRef": "route-new-york-course-2026",
+        "note": {
+          "zh-CN": "2026 届在 Bronx 段做小幅调整：Willis Avenue Bridge 后左转 East 135th Street、右转 Alexander Avenue、直行后左转 East 141st Street（替代 East 138th Street）、左转 Third Avenue、右转 East 138th Street，再上 Madison Avenue Bridge；这是 15 年来首次改线，同时纪念五 Boroughs 路线 1976-10-24 首跑 50 周年。",
+          "en": "The 2026 edition makes minor Bronx adjustments: after the Willis Avenue Bridge, left onto East 135th Street, right onto Alexander Avenue, continue straight, left onto East 141st Street (instead of East 138th Street), left onto Third Avenue, right onto East 138th Street, then cross the Madison Avenue Bridge; the first course change in 15 years, marking the 50th anniversary of the five-borough course first run on 24 October 1976."
+        },
+        "observedAt": "2026-11-25",
+        "change": "route-refined"
+      }
+    ],
     "direction": "Point-to-point from Fort Wadsworth, Staten Island, to Central Park (67th Street on West Drive), Manhattan",
     "distanceMeters": 42195,
     "distanceMethod": "Official NYRR course distance: 26.2 miles. 42,195 m is the standard marathon distance used for this card; NYRR publishes no metric figure.",

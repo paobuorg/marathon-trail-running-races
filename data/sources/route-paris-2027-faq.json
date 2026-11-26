@@ -1,0 +1,76 @@
+{
+  "sourceId": "route-paris-2027-faq",
+  "title": "ASICS Marathon de Paris 2027 — Official FAQ (registration, lottery, fees, course status)",
+  "url": "https://www.asicsmarathondeparis.com/en/faq",
+  "publisher": "ASICS Marathon de Paris (organiser official website)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 50th edition of the ASICS Marathon de Paris will take place on 4 April 2027.",
+    "The lottery runs from 8 to 30 September 2026; entering the lottery is free and one registration per person; the date and time of entry do not affect chances; unsuccessful entrants are automatically re-entered into subsequent draws.",
+    "Draw results are published from 1 October 2026; selected runners have 72 hours from the results email to register and pay; after that deadline the place goes to another runner.",
+    "The general entry fee for 2027 is a fixed €169; a special fee exists for 2026-2027 FFA-licensed runners meeting the conditions; payment is only requested if selected in the draw.",
+    "The lottery registration right is personal and non-transferable; once purchased, the bib is personal and non-transferable and cannot be transferred to another person.",
+    "Minimum age: runners must be born on 31 December 2007 at the latest; teams of 2 to 6 people enter together with one shared draw result, but each runs separately on race day.",
+    "The 2027 course has not yet been announced; start and finish lines, access routes and practical race-day information will be published in the run-up to the event.",
+    "Medical certificate or PPS requirements for 2027 will follow the 2027 race regulations and be indicated before the event; cancellation and refund conditions are those in the rules and terms of sale accepted at registration."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取官方 FAQ 页 en/faq 全部 22 条问答",
+    "note": "FAQ 为 2027 届官方口径；2027 赛道、起终点与医疗证明细则当时尚未公布。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "FAQ Race and Course：“The 50th edition … will take place on April 4, 2027.”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "FAQ Registration and Lottery：8–30 September；免费；仅一次报名；先后不影响中签；未中签自动进入后续抽签。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "FAQ：results from 1 October；72 hours 内确认并付费；逾期名额给其他跑者。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "FAQ Fees：General Entry Fee €169 固定价；FFA 持证者有特殊价；中签后才付款。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "FAQ：抽签权利个人不可转让；购票后号码布同样个人、不可转让。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "FAQ：出生日期不晚于 2007-12-31；团队 2–6 人同结果，比赛日各自跑。"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "FAQ：2027 赛道、起终点与交通安排稍后公布。"
+    },
+    {
+      "index": 7,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "FAQ Rules/Safety：医疗证明或 PPS 按 2027 规则；退款条件以注册时接受的规则为准。"
+    }
+  ]
+}

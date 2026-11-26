@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-seoul-2026-closing",
+  "title": "Closing remarks for the 2026 Seoul Marathon and the 96th Dong-A Marathon",
+  "url": "https://en.seoul-marathon.com/60/?bmode=view&idx=170424744",
+  "publisher": "Seoul Marathon Organizing Committee (The Dong-A Ilbo)",
+  "publishedAt": "2026-03-17",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2026 race was the 96th Dong-A Marathon, held on 15 March 2026, with 40,000 runners participating.",
+    "The race has been Korea's only World Athletics Platinum Label road race for seven consecutive years and is recognised with a World Athletics Heritage Plaque.",
+    "The inaugural Seoul Running Expo was held alongside the 2026 race.",
+    "Supporters listed: Seoul Metropolitan Government, Seoul Metropolitan Sports Council, Korea Association of Athletics Federations, Ministry of Culture, Sports and Tourism, Korea Sports Promotion Foundation; partners adidas, KB Financial Group, Samyang, Cass, AceBiome, aminoVITAL, Zamst, Pocari Sweat and Hanjin.",
+    "The organising committee thanked the Dongma Crew volunteers and looked ahead to the 97th edition."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取公告 idx=170424744 闭幕致辞全文",
+    "note": "届次、人数、Label 年限、Heritage Plaque、首届 Expo 与支持单位可读。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "96th anniversary；40,000 runners；dated March 15, 2026" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Korea's only WA Platinum Label for seven consecutive years；WA Heritage Plaque" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Inaugural Seoul Running Expo in 2026" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Supporters 与 partners 名单逐条核对" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "Dongma Crew volunteers；97th edition next year" }
+  ]
+}

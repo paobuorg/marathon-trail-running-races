@@ -105,6 +105,19 @@ The official leg table is reproduced below. Cumulative distance, leg length, asc
 
 *Figure 4 | The thirteen numbered points of the 2026 GPT100 Miler (made for this page, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). Cumulative distance and cut-offs follow the official table; crew, drop bags and nap beds follow the official aid-station page, with unknown values left blank. The order is schematic, not an official map, track or elevation profile.*
 
+## Course geometry: point-to-point traverse and three distance/elevation figures
+
+The course runs point-to-point from Mt Zero (north end) to Dunkeld (south end); it is neither a loop nor an out-and-back. Beyond the official segment table, distance and elevation differ across official and third-party pages; this page keeps all figures side by side without averaging:
+
+| Basis | Distance | Cumulative gain | Source tier |
+| --- | ---: | ---: | --- |
+| Organiser Miler page (used on card) | 163 km | about +7,700 / −7,700 m | Tier A official |
+| ITRA race description | 164 km | +7,702 m | Tier B cross-check |
+| Strava embedded track | 161.9 km | +7,588 m | Tier B cross-check |
+| WTM series page | 100 miles | 98% single-track wording | Tier B cross-check |
+
+Geometry rights: the official Miler/course page exposes a GPX download entry (Google Drive folder), plus a TERRAiNAV offline map and a Strava embed. The GPX was not downloaded this round and its point-by-point track was not checked; the organiser has not stated a redistribution licence. `geometryAccess` is recorded as `official-link`: this page only links out, does not host, draw or redistribute the track. Strava track statistics are an external cross-check only, not the official measurement.
+
 ## Aid stations and cut-offs
 
 The aid-station page is currently marked "NOT FINALISED FOR 2026", so the table below is the official current version and may still change before race day.
@@ -189,11 +202,39 @@ The Miler is a Hardrock 100 and Western States 100 qualifier and the AUTRA Austr
 
 The official pages give no field cap, lottery ratio, historical acceptance rate, refund terms or transfer policy; none is filled in here.
 
+## Results and course changes: records, 2026 finishers and service-level change
+
+The official results page lists two course records under the Miler; it does not label Men/Women columns, so this page does not assign genders:
+
+| Record | Runner | Country/region | Time | Note |
+| --- | --- | --- | ---: | --- |
+| Column unlabelled | Caleb Olson | United States | 21:19:39 | Official page does not split Men/Women |
+| Column unlabelled | Man Yee Cheung | Hong Kong | 27:58:45 | Same as above |
+
+The 2026 edition has finished: the results page links out to the full 2026 results and lists **145 finishers** on the honour board. This page does not copy the full list or infer placings from the external link. Links to 2025, 2024 and 2023 results are on the official results page.
+
+Course-change basis: `courseChanges` is an empty array. The 2025 guide states 162 km / 7,700 m / 50 hours; the 2026 Miler page states 163 km while the homepage still says 162 km. This 1 km gap is an internal annotation inconsistency; the organiser did not name any section change, so it is not judged a course change. Station #8 Yarram Gap Rd was changed from a regular aid station to an emergency aid station: a service-level change, not entered in `courseChanges`. The 2025 official per-station aid and cut-off sheets were not obtained, so early course-change history remains unknown.
+
 ## Season and weather
 
 Open-Meteo's Halls Gap village record for 6–8 November, 2015–2025 (33 days): daily maximum 12.1–28.9 °C, median 19.7 °C; daily minimum 5.0–14.0 °C, median 9.2 °C; 10 of 33 days had at least 1 mm precipitation, 3 had at least 5 mm.
 
 This is the Halls Gap valley grid, not Mt William (Durd Durd at 1,167 m is nearby), Jimmy Creek or Dunkeld. November in the Grampians can be hot by day, drop to about 5 °C at night, or turn continuously wet and slippery; 99% of the course is single track, so wet rock and roots raise the technical load. The organiser publishes no race-period mountain measurements, and this page does not treat valley data as summit data.
+
+## Kit and rules: mandatory-list boundary and personal fueling
+
+The official Mandatory Gear standalone page was not read this round, so the item-by-item mandatory list is unknown; this page does not invent an official list. Before the race, follow the official gear page and runner guide for the edition. The verifiable rule boundary is semi-self-sufficiency: carry enough food and water between aid stations; station #8 Yarram Gap Rd is an emergency station with water, electrolyte, chips and candy only; station #2 does not allow crew access.
+
+| Category | Race-day scenario | Pre-start check | Boundary |
+| --- | --- | --- | --- |
+| Shoes and leg cover | Loose rock, roots, wet slabs after rain, long-distance wear | Sole grip, heel hold; break in new shoes on long runs | This page does not recommend specific models |
+| Waterproof jacket | Durd Durd plateau and night cooling, rain | Fabric waterproofing, underarm vent, pack size | Whether mandatory follows the official list |
+| Headlamp and spare power | Night on the Durd Durd plateau and boulder field | Main lamp, spare lamp or batteries, wiring and mount | A technical night section without light will be stopped |
+| Hydration and electrolytes | Exposed slabs heat up by day; station gaps are long | Carried volume, electrolyte plan, emergency reserve | Carry between stations; do not rely on unlisted stops |
+| Sun protection and cap | 360-degree exposed mountain and open floodplain | Cap, sunscreen, sunglasses | Reapply on exposed high sections |
+| Bib and timing | Visible throughout; chip/bib handed in on withdrawal | Bib position, chip status | A dropped bib is deactivated but still the shuttle credential |
+
+The generic mountain trail kit framework is in [trail gear](/en/knowledge/trail-gear/); kit weight trade-offs are in the [gear weight tool](/en/tools/gear-weight-planner/). Penalties and missing-item handling follow the official rules for the edition; unread clauses are not filled in here.
 
 ## Difficulty, withdrawal and risk
 
@@ -205,6 +246,39 @@ This is the Halls Gap valley grid, not Mt William (Durd Durd at 1,167 m is nearb
 ![The four 2026 GPT100 stage-race sections: Mount Zero to Halls Gap, Halls Gap to Mount William, Mount William to Griffin Fireline and Griffin Fireline to Dunkeld, with distance, cumulative gain and loss, key terrain and cut-offs](/media/routes/gpt100-miler/gpt100-2026-stage-bands.svg)
 
 *Figure 5 | The four 2026 GPT100 stage-race sections (made for this page, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). The boundaries follow the official Stage Race split; gain and loss are summed from the official leg values, and the four sections total +7,700 / −7,700 m. They are not the official Miler timing segments, a map or an elevation profile.*
+
+## Training conversion: 100-mile mountain preparation
+
+The challenge of GPT100 is 163 km, about 7,700 m of repeated up-and-down, 99% single-track and night technical sections. Preparation centres on long mountain endurance, loaded self-sufficiency and stair capacity on tired legs, not road mileage. General methods are in [ultra-trail training plan](/en/knowledge/trail-ultra-training-plan/), [long-run fueling](/en/knowledge/long-run-fueling/), [recovery day](/en/knowledge/recovery-day/) and [load and overtraining](/en/knowledge/load-and-overtraining/).
+
+| Phase | Focus | Practical content | Race-day constraint |
+| --- | --- | --- | --- |
+| T-20 to T-14 weeks | Mountain aerobic base | One mountain long run plus easy runs a week; build weekly gain toward 2,000 m | Repeated up-and-down throughout needs a steady aerobic base |
+| T-14 to T-8 weeks | Long run and gain accumulation | Long run to 70–100 km; practise stairs and loose-rock sections | Rosea edge traverse, Durd Durd stairs and the late boulder field |
+| T-8 to T-3 weeks | Loaded self-sufficiency and night | Test carrying food and water under semi-self-sufficiency; one night technical session | Plateau and boulder field at night; carry supplies between stations |
+| T-3 to race | Taper | Shorten distance and gain, keep short rhythm; no new shoes or kit | Recover fatigue before race day; see [taper and strength](/en/knowledge/strength-and-taper/) |
+
+Boundary: this is a generic preparation framework, not medical advice. Runners with pre-existing cardiopulmonary conditions or recent injuries should consult a doctor first. Whether a runner is ready for a 100-mile event also depends on previous longest finishes, mountain experience and recovery.
+
+## Race-day execution card: 50-hour rhythm and station use
+
+| Phase | Station window | Rhythm and fueling | Check |
+| --- | --- | --- | --- |
+| Start to #2 | 15.5–35.5 km | Hold back; do not surge on Flat Rock and the GAR section | Record arrival times against cut-offs; #2 has no crew |
+| #3 Halls Gap | 49.5 km, event village | Sort supplies, change layers; drop bag available | Check Wonderland/Pinnacles technical state before leaving town |
+| #4 to #6 | 59.5–86.6 km | Control pace on technical sections; hot food at Mt William | Nap at #5 and #6; drop bag at #6 |
+| #7 to #8 | 106.7–118.5 km | Steady rhythm through the night; #8 is emergency-only | No crew at #8; plan a withdrawal shuttle |
+| #9 to #11 | 130.7–152.8 km | Handle Signal Peak and Mt Abrupt on tired legs | Enter only via the Dunkeld Sterling Place shuttle; nap at #10 |
+| Finish | Dunkeld 163 km | The final 6 km grass descent still follows the Mount Sturgeon climb | Move by cut-off time; do not treat the finale as pure downhill |
+
+| Red flag | On-site action | Boundary |
+| --- | --- | --- |
+| Dizziness, palpitations, blurred vision, chest pain | Stop, seek help, call medical if needed | This page does not diagnose; cardiac emergency recognition and call follow on-site first-aid standards |
+| Hypothermia, persistent shivering, altered movement | Shelter at a station, add layers, notify staff | On-site medics assess |
+| Slab sunburn, signs of dehydration | Cool down, replace water and salt, use a station | This page does not provide medical diagnosis |
+| Approaching the cut-off at a station | Assess remaining climb and buffer; drop if needed | Withdrawal is reported at the station; chip/bib handed in |
+
+Station use and pacer planning are in [crew and pacer planning](/en/knowledge/crew-and-pacer-planning/); pace comparison is in the [pace tool](/en/tools/pace/) and [splits tool](/en/tools/splits/).
 
 ## Verified and unverified
 
@@ -272,3 +346,10 @@ Text and tables: original to this page, published under CC BY 4.0; official fact
 
 
 Related reading: [Ultra-Trail Australia](/en/routes/ultra-trail-australia/), [RMB Ultra-Trail Cape Town](/en/routes/utct/), [heat and humidity](/en/knowledge/heat-and-humidity/), [long-run fueling](/en/knowledge/long-run-fueling/), [track viewer](/en/tools/track-view/), [split calculator](/en/tools/splits/).
+
+<!-- related-ring -->
+## Related entries
+
+- [Kodiak Ultra Marathons by UTMB: a 100-mile mountain race at Big Bear Lake](/en/routes/kodiak/)
+- [Lewa Safari Marathon: a conservancy loop race guide (2027 basis)](/en/routes/lewa-safari-marathon/)
+- [Marathon des Sables Legendary: the full 270 km, six-stage Sahara guide (2026 edition record)](/en/routes/marathon-des-sables/)

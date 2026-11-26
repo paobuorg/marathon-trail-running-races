@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-lewa-openmeteo",
+  "title": "Open-Meteo historical archive — Lewa grid point, mid-May and late June 2016–2025",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=0.197&longitude=37.123&start_date=2016-05-13&end_date=2025-06-28&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Africa/Nairobi",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The requested grid point at 0.197 N, 37.123 E returns an elevation of 2,132 m, above the conservancy's running area (official pages quote 5,500–6,000 ft, about 1,676–1,830 m).",
+    "Mid-May window (13–17 May 2016–2025, 50 day-samples): daily high 20.2–25.0 °C median 22.0 °C; daily low 7.9–12.3 °C median 10.8 °C; precipitation ≥1 mm on 27 of 50 days, ≥5 mm on 6 of 50; single-day maximum 20.1 mm.",
+    "Late-June window (24–28 June 2016–2025, 50 day-samples): daily high 18.6–24.2 °C median 21.0 °C; daily low 7.7–12.8 °C median 9.4 °C; precipitation ≥1 mm on 24 of 50 days, ≥5 mm on 8 of 50; single-day maximum 17.6 mm.",
+    "These are modelled grid-point reanalysis values, not measurements on the race course; the grid sits higher than the conservancy floor, so on-course readings should be expected somewhat warmer, with dust and direct sun adding heat stress."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "PowerShell Invoke-RestMethod 读取 Open-Meteo archive API JSON，分别过滤每年 5 月 13–17 日与 6 月 24–28 日，重算 min/median/max 与降水计数",
+    "note": "2027 届定于 5 月 15 日；6 月窗口数据仅用于对照历史 6 月办赛气候。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "API elevation 字段：2132 m；官方页 5,500 ft / 规则 PDF 6,000 ft。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "5 月窗口：high 20.2/22.0/25.0；low 7.9/10.8/12.3；≥1mm 27/50，≥5mm 6/50，max 20.1 mm。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "6 月窗口：high 18.6/21.0/24.2；low 7.7/9.4/12.8；≥1mm 24/50，≥5mm 8/50，max 17.6 mm。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "再分析网格口径；非赛道实测；网格高于保护区地面。" }
+  ]
+}

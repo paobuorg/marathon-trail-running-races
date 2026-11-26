@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-valencia-2026-course-page",
+  "title": "The Valencia Marathon 2026 course — official route page",
+  "url": "https://www.valenciaciudaddelrunning.com/en/marathon/official-route-marathon/",
+  "publisher": "S.D. Correcaminos",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2026 course starts at Plaça de la Marató and finishes on the blue carpet floating over the water at the City of Arts and Sciences.",
+    "The course page describes the route as flat and built for speed, running from the El Cabanyal neighbourhood through historic Valencia.",
+    "There are 9 refreshment points with Aquabona water (33 cl bottle) and Aquarius in cups, plus 3 Enervit red points offering energy gels with and without caffeine.",
+    "The organiser-linked Strava route records 42.5 km distance and 76 m elevation gain for the Maratón Valencia Trinidad Alfonso Zurich.",
+    "The course page publishes a static 2026 course map and a per-kilometre split-time PDF; no downloadable GPX, KML or GeoJSON track is linked there."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官网英文路线页；PowerShell 解析页面 href 核查无 gpx/kml/kmz 链接",
+    "note": "路线页正文与链接清单均已读取；Strava 数字来自页面嵌入的赛事俱乐部路线卡片。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "It starts at Plaça de la Marató; final stretch blue carpet over the water at the City of Arts and Sciences。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "A Course Built for Speed / flat course; El Cabanyal neighborhood to historic Valencia。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Aid stations：9 Refreshment Points Aquabona 33cl + Aquarius cups；3 Red Points Enervit gels with/without caffeine。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "The Route on Strava：Distance 42.5 km, Elev Gain 76 m, Valencia Ciudad del Running。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "页面 href 仅 plano-recorrido-42k-2026.pdf、tiempos-de-paso-42k-valencia-2026.pdf、Strava club 链接；无 GPX/KML/KMZ。" }
+  ]
+}

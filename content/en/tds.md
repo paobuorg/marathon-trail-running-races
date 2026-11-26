@@ -39,7 +39,7 @@ This page handles it as follows: **the site card uses the official stat block, 1
 
 The official trace bottoms out at 721 m near Seez and tops out at 2,589 m at Col Chavannes. The start in Courmayeur is 1,222 m and the finish in Chamonix is 1,035 m. The profile below connects only the 24 timing points, so its lowest timing point is Bourg-Saint-Maurice at 831 m; the 721 m trace minimum is not a timing point. That profile explains why the climbing is concentrated in the first 100 km while the last 50 km still roll between roughly 1,000 and 2,100 m.
 
-## The course
+## Course geometry: main route
 
 TDS starts in Courmayeur, climbs toward Mont-Favre and Lac Combal, crosses to Petit Saint-Bernard and descends into Bourg-Saint-Maurice. It then enters the Beaufortain: Fort de la Platte, Passeur de Pralognan, Cormet de Roselend, Col de la Sauce and La Gittaz, before dropping to Beaufort. From there it climbs again over Hauteluce, Barrage de la Girotte and Le Signal, then passes Notre Dame de la Gorge, Les Contamines, Chalets du Truc, Col de Tricot, Bellevue and Les Houches before reaching Chamonix.
 
@@ -57,6 +57,13 @@ Key sections to know:
 - **Cormet de Roselend to La Gittaz:** only 7 km, but it goes up to 2,306 m and then drops to 1,657 m. This is where “almost at the aid station” can be false.
 - **After Beaufort:** km 92.4 and a 27:10 cut-off. It is the real start of the second half. Hauteluce is only 6.3 km away but adds 493 m; Le Signal is another 16.7 km and about 1,300 m of climbing.
 - **After Les Contamines:** km 123.2 and a 37:25 cut-off. Chalets du Truc, Col de Tricot and Bellevue still stand between you and Les Houches.
+
+## Entry and qualification
+
+- TDS belongs to the UTMB World Series; the 2026 race-page stat block lists 4 Running Stones for finishers.
+- Personal assistance: one assistant per runner, only at designated aid stations and the reserved area; the assistant's bag must not exceed 30 L; apart from small care such as a seated massage or blister treatment, medical or quasi-medical assistance from the assistant is forbidden.
+- Qualification and entry: the regulation and race pages read do not publish a UTMB Index threshold, ballot rules, entry fee or minimum age; this page leaves those unverified and fills in no figures. RAVIT records 1,285 starters for 2026 (third-party timing analysis, possibly differing from the official results list).
+- Withdrawal: a runner must leave a checkpoint before its cut-off; those who cannot continue register under the organiser's instructions.
 
 ## The 24 official timing points
 
@@ -177,6 +184,19 @@ A workable plan:
 - **Beaufort → Les Contamines:** Beaufort is the only point with bag + rest + hot food + crew. Shoe change, sleep and a hot meal all have to fit inside the 27:10 margin.
 - **Les Contamines → Chamonix:** still 27.6 km and +1,822 / −1,944 m, with Col de Tricot at 2,117 m. “Only a marathon left” is not a reason to carry less water.
 
+## Gear and rules
+
+The regulations require mandatory equipment to be carried throughout; checks may be organised at the start, on route or at the finish, and missing key safety equipment can lead to disqualification. The regulation page read does not expand the item-by-item list, so this page does not list unverified items.
+
+| Item | Regulation basis | Source |
+| --- | --- | --- |
+| Mandatory kit | Carried throughout; checks; missing key safety equipment can disqualify | 2027 regulation art. 3 |
+| Poles | If used, carried from the start; cannot be picked up mid-race or placed in a drop bag | 2027 regulation art. 4 |
+| Assistant bag | Max 30 L; designated areas only | 2027 regulation art. 2 |
+| Checkpoints | All official aid stations are also checkpoints; failing to clock in can disqualify | UTMB-series rule basis |
+
+Night start and high-pass kit requirements are listed together in the weather section: waterproof shell, warm mid-layer, headlamp and spare batteries must be carried. The item-by-item list follows that year's Runner Guide.
+
 ## Weather: valleys and passes are two systems
 
 Using Open-Meteo's ERA5 archive, filtering 24–26 August for each year from 2015 to 2025 gives 33 daily records per valley station. The table shows daily maximum and minimum ranges with medians, plus days with at least 1 mm and at least 5 mm of precipitation.
@@ -216,6 +236,41 @@ The risk is not one especially hard section. It is the combination of four thing
 4. **Late rolling terrain:** after Beaufort there are still 58 km and +3,656 / −3,359 m. It is not a downhill finish.
 
 Drop-outs and evacuation: the current regulation requires runners to leave checkpoints before cut-off and to follow the organisation's instructions when withdrawing. TDS crew access is limited to designated stations; medical care is the official team's job. Beaufort, Les Contamines, Chalets du Truc and Chamonix have rest/crew flags, but a rest area is not a guaranteed vehicle. If you need to withdraw, go to the nearest checkpoint and speak to the station chief; do not leave the marked route to find your own way down.
+
+## Training conversion
+
+TDS is a Beaufortain mountain race of about 145–151 km and 9,300–9,500 m of gain; preparation centres on mountain durability, the overnight section and the long no-drop-bag interval. The mapping below uses only verified facts and gives no individual training prescription.
+
+| Verified fact | Training direction | Site reference |
+| --- | --- | --- |
+| 145 km (race page) / 150.772 km (official trace), +9,500 m (page) / +9,322 m (trace) | Long-distance mountain durability and climb reserve | [Ultra-running basics](/en/knowledge/ultra-running-basics/), [Mountain path basics](/en/knowledge/hill-and-mountain-path-basics/) |
+| Beaufort, Cormet de Roselend and Bourg-Saint-Maurice are the main dropout points | Late-race fatigue splits and downhill tolerance | [Downhill running technique](/en/knowledge/downhill-running-technique/), [Training volume and progression](/en/knowledge/training-volume-and-progression/) |
+| 23:50 night start; the first 8 hours are in darkness | Night-run practice and lighting habits | [Night running and conditions](/en/knowledge/night-running-and-traffic/) |
+| 41 km Bourg → Beaufort with no drop bag | Long self-supported segment and carried kit | [Long-run fueling](/en/knowledge/long-run-fueling/) |
+| Assistance only at designated stations | Crew division and handover points planned in advance | [Crew and pacer planning](/en/knowledge/crew-and-pacer-planning/) |
+
+Decision branches:
+
+| If your preparation is | Then the corresponding judgment is |
+| --- | --- |
+| No 100 km-class mountain race on record | Build durability and climb volume first; do not reverse a pace plan from the 44:55 limit |
+| Insufficient night long runs | Build night running before planning the start-night lighting and fueling |
+| No practice on a 40 km unsupported interval | Practise long self-support before assessing carried kit for the Bourg→Beaufort segment |
+| Planning crew support at a designated station | Use the six official assistance points; do not wait for support at an arbitrary pass |
+
+## Race-day execution card
+
+The table lists only verified nodes and roles; unpublished cut-off minutes are not filled in.
+
+| Node | Verified action | Key constraint |
+| --- | --- | --- |
+| Courmayeur start, 1,222 m | Start 23:50 on 24 Aug 2026; drop bag #1 | Pass gear check; assistant registered at designated stations |
+| Lac Combal / Petit Saint-Bernard | Cut-off points, water and food points | Leave before the cut-off time |
+| Bourg-Saint-Maurice | Aid and assistance point | No drop bag; 41 km to Beaufort |
+| Fort de la Platte / Cormet de Roselend | Main dropout area | Assess fatigue and kit in this segment |
+| Beaufort 92.4 km | Midpoint with drop bag, rest, hot food and assistance | Build the 27:10 cut-off margin into changing and rest |
+| Les Contamines | Rest area, assistance point | Repeated up-and-down remains after this point |
+| Les Houches → Chamonix finish, 1,035 m | Closing segment | Total limit 44:55; withdrawal follows the organiser's instructions |
 
 ## 2026 results
 
@@ -261,3 +316,10 @@ The official race page and social channels publish race photographs, but provide
 - Third-party checkpoints: TrailMath's TDS page was used only for cross-checking and is not written into the official table.
 
 Not verified: a separate official 2026 TDS roadbook PDF with per-station cut-offs was not obtained; the cut-offs here come from the official embedded JSON, not a PDF. The 2026 and 2027 rule texts were not compared clause by clause; the 2027 regulation is only a current reference. The organiser has not published a 2026 finish rate; 44.4% is RAVIT's third-party figure.
+
+<!-- related-ring -->
+## Related entries
+
+- [UTCT Cape Town 2026: 100 km and 100 mile official results](/en/routes/utct/)
+- [UTMB around Mont Blanc: the complete 2026 course guide](/en/routes/utmb/)
+- [Western States 100: the 2026 course in full](/en/routes/western-states/)

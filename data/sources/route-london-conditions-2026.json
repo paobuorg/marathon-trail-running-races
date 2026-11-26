@@ -1,0 +1,69 @@
+{
+  "sourceId": "route-london-conditions-2026",
+  "title": "General Conditions of Entry – TCS London Marathon",
+  "url": "https://www.tcslondonmarathon.com/enter/how-to-enter/general-conditions-of-entry",
+  "publisher": "London Marathon Events",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Entry channels covered by the conditions are charity entries, direct sales, ballot and prize draw.",
+    "Entrants must be 18 years of age or over and sufficiently fit and healthy; the entry is personal, and swapping, selling or transferring the place or letting another person wear the bib is strictly prohibited.",
+    "Prohibited items include any artificial aid or wheeled device and any pets or animals; in the wheelchair section a team of four may assist, with a maximum of two members pushing at any one time, and the wheelchair may not have gears or any mechanical, powered or electronic aid.",
+    "Organisers may refuse entry or stop participation for alcohol or drugs use, injury or illness, late arrival, or insufficient progress to meet event timelines; only those finishing before the official cut-off are eligible for a medal and results.",
+    "Using false documents, borrowing another person's GFA or Championship time, falsifying entry information, or entering the ballot more than once can annul results and lead to a ban of up to five years.",
+    "The bib with built-in timing device must be collected in person at the Event Running Show at ExCeL London in the four days before the Event.",
+    "Fees are non-refundable; withdrawal does not entitle to a refund, though LMEL may at its discretion permit a guaranteed entry for the following year; an unused charity place reverts to the charity."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 conditions-of-entry 条款正文（clauses 3–6）",
+    "note": "年龄、转让禁令、禁用装备、驱逐与罚则、领物与退款条款均可在正文中定位"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Clause 3.1：charity entries / direct sales / ballot / prize draw"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Clause 4.5：18 years of age or over；Clause 4.2：prohibited from swapping, selling or transferring"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Clause 4.4：artificial aid/wheeled device、pets；Clause 4.6：wheelchair team of four, max two pushing, no gears/powered aid"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Clause 5.1：ejection grounds；medal/results only before official cut off"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Clause 5.3：false number / selling number / borrowed GFA or Championship time / falsified info / duplicate ballot；ban up to five years"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Clause 3.4：bib with built-in timing device collected at Event Running Show at ExCeL London in the four days prior"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Clause 6.2/6.3：no refund；discretionary next-year guaranteed entry；unused charity place reverts to charity"
+    }
+  ]
+}

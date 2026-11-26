@@ -1,0 +1,40 @@
+{
+  "sourceId": "route-dbr-goatmaps-2027",
+  "title": "Goat Maps — Dragon's Back Race 2027 unofficial stage guide, cutoffs, entry and support rules",
+  "url": "https://www.goatmaps.com/races/dragons-back",
+  "publisher": "Goat Maps (unofficial third-party guide, compiled from organiser-published information)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2027 edition runs 6-11 September 2027, with registration in Conwy on Sunday 5 September; Dragon's Fire runs 6-7 September and Dragon's Tail 10-11 September.",
+    "Compiled stage distances and ascent: Day 1 Conwy Castle to Nant Gwynant 50 km / 4,100 m; Day 2 Nant Gwynant to Dolgellau 60 km / 3,200 m; Day 3 Dolgellau to Ceredigion 66 km / 2,900 m; Day 4 through the Elan Valley 67 km / 1,900 m; Day 5 into the Bannau Brycheiniog 75 km / 3,200 m; Day 6 to Cardiff 65 km / 1,300 m. Each day starts 06:00 and the course closes at 22:00, a 16-hour window.",
+    "Compiled in-day cutoffs include Day 1 Ogwen Valley aid station 29 km 14:00, Pen-y-Pass water point 37 km 16:40, Pyg Track junction 18:30; Day 2 Cwm Bychan 37 km 15:45; Day 3 Machynlleth 40 km 16:15; Day 4 Elan Village 33 km 14:30 and a later water point 19:00; Day 5 Cray Reservoir 43 km 14:45; Day 6 Trelewis 34 km 14:00.",
+    "The full race and Hatchling cost £2,095 with a £400 deposit followed by monthly payments; Dragon's Fire £599, Dragon's Tail £399; minimum age over 20; there is no qualifying race, entrants accept a participant declaration.",
+    "There is no crewing: supporters cannot run with runners, carry anything or hand over food, and cannot enter camps, aid stations or water points; they can see runners off at Conwy Castle and meet them at the finish in Cardiff; followers use live GPS tracking and Dragon Mail; buying food from public shops and cafés on the route is allowed.",
+    "Mandatory carry each day: waterproof jacket or smock, waterproof trousers, survival bag, synthetic warm layer of at least 300 g, baseplate compass, headtorch, red rear light, bottles or bladder holding 1.5 L, and a phone; the race provides a GPS tracker and a map.",
+    "Runners sleep in eight-person basic tents with portable toilets and no showers, bringing their own sleeping bag and mat; one Ortlieb 59 L dry bag (15 kg limit) is moved to each camp, and a 10 L resupply bag up to 2.5 kg waits at each day's aid station.",
+    "Trekking poles are allowed except on the Day 1 Tryfan and Crib Goch scrambles, where poles must be stowed; phone signal is not reliable on the remote route and the day's line must be downloaded offline before leaving camp.",
+    "Registration is Sunday 5 September, 13:00-17:00 at Ysgol Porth Y Felin in Conwy, with a compulsory 17:30 briefing; Conwy has a station on the North Wales Coast Line and is about 1.5 hours' drive from Manchester and Liverpool airports; coaches between Cardiff and Conwy and the 23 kg transfer bag are paid extras booked ahead.",
+    "The guide quotes Capel Curig September averages of 16.0 °C high, 9.4 °C low and 206 mm of rain over about 16 days."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 Goat Maps 全站指南（阶段表、报名、支援、装备、营地、交通、天气、坐标段）",
+    "note": "第三方汇编：明确标注非官方、不隶属于赛事；逐日距离/爬升/关门与官方 380 km / 16,400 m 总量存在小幅口径差，本页不写入 stages 数组，只在正文表内并列标注。坐标来自赛事路线与 OpenStreetMap 贡献者。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "partial", "checkedAt": "2026-11-25", "note": "FAQ 段：6 to 11 September 2027; registration Sunday 5 September; Fire 6-7, Tail 10-11。" },
+    { "index": 1, "status": "partial", "checkedAt": "2026-11-25", "note": "Courses 表逐日 km / 爬升 / 06:00 起跑 / 16h 时限；六日合计与官方 380 km、16,400 m 略有出入。" },
+    { "index": 2, "status": "partial", "checkedAt": "2026-11-25", "note": "各 Stage aid stations 表列公里点与关门时刻；汇编自赛事公布信息。" },
+    { "index": 3, "status": "partial", "checkedAt": "2026-11-25", "note": "Entry and formats 段：£2,095/£400 deposit; Fire £599; Tail £399; over 20; no qualifying race; declaration。" },
+    { "index": 4, "status": "partial", "checkedAt": "2026-11-25", "note": "Camps, bags and supporters 段：no crewing; supporters restrictions; GPS tracking + Dragon Mail; public shops/cafes allowed。" },
+    { "index": 5, "status": "partial", "checkedAt": "2026-11-25", "note": "Weather and kit 段：防水衣裤、survival bag、≥300g 保暖层、罗盘、头灯、红灯、1.5L、手机；tracker 与 map 由赛事提供。" },
+    { "index": 6, "status": "partial", "checkedAt": "2026-11-25", "note": "Camps 段：8-person tents, no showers, own sleeping bag/mat; Ortlieb 59L ≤15 kg; 10L resupply ≤2.5 kg。" },
+    { "index": 7, "status": "partial", "checkedAt": "2026-11-25", "note": "FAQ 段：poles stowed on Day 1 scrambles; no reliable signal; download offline。" },
+    { "index": 8, "status": "partial", "checkedAt": "2026-11-25", "note": "Getting to Conwy 段：registration 13:00-17:00 Ysgol Porth Y Felin, briefing 17:30; airports ~1.5h; paid coaches and transfer bag。" },
+    { "index": 9, "status": "partial", "checkedAt": "2026-11-25", "note": "Weather and kit 段引 Capel Curig 气候均值；与本站 Open-Meteo 高海拔网格点口径不同，并列保留。" }
+  ]
+}

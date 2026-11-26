@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-bigs-marathonhandbook-2025",
+  "title": "Marathon Handbook — Phil Gore wins the 2025 Backyard Ultra world title",
+  "url": "https://marathonhandbook.com/phil-gore-wins-backyard-ultra-world-title-after-nearly-five-days-of-running/",
+  "publisher": "Marathon Handbook (third-party running media)",
+  "publishedAt": "2025-10-24",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Phil Gore (Australia) won the 2025 Big's Backyard Ultra World Championships in Bell Buckle, Tennessee, completing 114 laps of the 6.7 km course, about 764 km over nearly five days.",
+    "Belgium's Ivo Steyaert kept pace for 113 laps before dropping in the 113th hour, leaving Gore to run one final solo lap to seal the title.",
+    "Britain's Sarah Perry set a women's Backyard Ultra world record of 95 laps (about 637 km), surpassing the previous mark of 87 laps; back pain forced her to stop.",
+    "Gore already held the overall Backyard Ultra world record of 119 laps (about 797 km), achieved earlier in 2025 at the Dead Cow Gully Backyard Masters in Queensland, Australia.",
+    "The 2025 field numbered 75 runners."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": false,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "general_search 摘要读取报道正文要点",
+    "note": "媒体口径：114 圈、Steyaert 113、Perry 95 女子纪录、119 圈总纪录均来自该报道；本轮未取得 2025 官方成绩 hub 逐条核对，数字按媒体口径标注。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "partial", "checkedAt": "2026-11-25", "note": "标题与首段：114 laps, 764 km, nearly five days。" },
+    { "index": 1, "status": "partial", "checkedAt": "2026-11-25", "note": "正文：Steyaert 113 laps, bowed out in 113th hour。" },
+    { "index": 2, "status": "partial", "checkedAt": "2026-11-25", "note": "正文：Sarah Perry 95 laps / 637 km women's WR, previous 87; back pain。" },
+    { "index": 3, "status": "partial", "checkedAt": "2026-11-25", "note": "正文：119 laps / 797 km WR at Dead Cow Gully Backyard Masters, Queensland, earlier 2025。" },
+    { "index": 4, "status": "partial", "checkedAt": "2026-11-25", "note": "正文：field of 75 runners。" }
+  ]
+}

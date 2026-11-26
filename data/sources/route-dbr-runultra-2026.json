@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-dbr-runultra-2026",
+  "title": "RunUltra update — Smith and Turner win the 2026 Dragon's Back Race; field and finish counts",
+  "url": "https://run-ultra.com/news/runultra-update-17-september/",
+  "publisher": "RunUltra (third-party running media)",
+  "publishedAt": "2026-09-17",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Danny Smith led the six-day race from the opening stage and won in 46:59:52; Isobel Turner won the women's race in 67:46:19.",
+    "Of 210 starters from 20 nations, 53 completed the full course and another 63 finished the flexible Hatchling format.",
+    "2026 was the first edition run under Ultra X, which acquired the event after Ourea Events entered administration; entries for 2027 opened on 27 September."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": false,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "general_search 摘要读取 RunUltra 周报正文",
+    "note": "媒体口径：210 人/20 国含各格式；全程完赛 53 人与官方成绩表及 ITRA 库互证。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "partial", "checkedAt": "2026-11-25", "note": "摘要：Smith 46:59:52; Turner 67:46:19。" },
+    { "index": 1, "status": "partial", "checkedAt": "2026-11-25", "note": "摘要：210 starters, 20 nations; 53 full, 63 Hatchling。" },
+    { "index": 2, "status": "partial", "checkedAt": "2026-11-25", "note": "摘要：first edition under Ultra X after Ourea administration; 2027 entries open 27 September。" }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "sourceId": "route-leadville-lottery-qualification",
+  "title": "Lottery & Qualification — Leadville Race Series (2027 LT100 Run entry rules and qualifiers)",
+  "url": "https://www.leadvilleraceseries.com/lottery-qualification/",
+  "publisher": "Life Time Leadville Race Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Deferral registration for all 2027 Leadville Race Series events runs November 1-15, 2026; the LT100 MTB and Run lottery runs December 1-15, 2026; lottery results are announced January 6, 2027; general registration opens January 7, 2027.",
+    "Lottery entry selection is free, but credit card information is collected and charged only if the athlete is accepted or makes a donation; a donation does not increase selection chances.",
+    "The team registration option was removed in 2025; all participants enter the lottery as individuals; only one application per person is allowed; athletes with an existing 2027 entry may not enter the 2027 lottery.",
+    "Selected participants are notified by the email used at registration; the card is automatically charged the registration fee plus processing fee and add-ons; a declined card gives one week to update payment or the spot is forfeited.",
+    "All registration fees are non-refundable and non-transferable, subject to Leadville Race Series terms and restrictions.",
+    "Run qualifier events are the Leadville Trail Marathon, Silver Rush 50 Run and Austin Rattler Run; each offers a minimum of 35 LT100 qualifier coins; coins go only to athletes who finish the longest distance; athletes must be 18 years of age on LT100 race day.",
+    "Coin winners must be present at the awards ceremony and claim their entry immediately, then complete and pay for LT100 registration during the designated time offered.",
+    "Performance coins go to the top overall men's and women's 1st-3rd (overall winners are removed from age groups) and one coin to the top podium of each remaining category; unaccepted coins roll down within the category; remaining coins are drawn by lottery among official finishers who completed the qualifier within its official cutoff.",
+    "Guaranteed entry routes include Run Camp + Entry packages, Boundless Coaching + Entry packages, charity slots, volunteer lottery preference, and Life Time Club-Access member priority entry (member guaranteed spots open 11/24/26 at 10am MST; non-selected members are entered in the general lottery twice)."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 Lottery & Qualification 页正文",
+    "note": "2026-11-25 复核：读取 Important Dates、Lottery Selection Rules、Qualifiers、Coin Distribution、其他入场通道各段。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Important Dates 列表逐行核对。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Event Lottery Selection Rules 第 2 条：free of charge, card collected, charged only if accepted/donation；donation 不提高概率。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "规则段：team option removed in 2025；individual；one application per person；已有 2027 名额不得再抽。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "规则段：通知邮箱；自动扣费；declined card 一周内补款否则作废。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "规则段与 Qualifier 段重复写明 non-refundable, non-transferable。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "Run Qualifier events 三条目；minimum 35 coins；longest distance only；18 on race day。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-25", "note": "Qualifiers 段：MUST BE PRESENT at awards；immediately claim；指定窗口内完成注册付款。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-25", "note": "Performance-based Coin Distribution 与 Lottery 两段。" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-25", "note": "Camp+Entry、Coaching+Entry、Charity、Volunteer、Life Time Member 各段；member 未中签者入普通抽签两次。" }
+  ]
+}

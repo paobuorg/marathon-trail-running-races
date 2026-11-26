@@ -1,0 +1,32 @@
+{
+  "sourceId": "route-seoul-2027-overseas-entry",
+  "title": "2027 Seoul Marathon — overseas registration information",
+  "url": "https://en.seoul-marathon.com/60/?idx=173536131&bmode=view",
+  "publisher": "Seoul Marathon Organizing Committee (The Dong-A Ilbo)",
+  "publishedAt": "2026-08-27",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2027 overseas entry fee is USD 150 for the Marathon and USD 100 for the 10K.",
+    "The 2027 venue is Gwanghwamun Square for the Marathon and Jamsil Sports Complex for the 10K, marked scheduled.",
+    "Overseas registration opens on 1 September 2026 at 10:00 KST; the quota fills first-come, first-served by payment order.",
+    "Full Marathon eligibility: age 18 or older, an official full-marathon certificate required, net time of 4:59:59 or faster, from races held between 1 January 2024 and 30 November 2026; the 10K is open to all with no record required.",
+    "Overseas runners register through en.dongma.club, worldsmarathons.com or runnet.jp; the secretariat email is marathon@donga.com and phone 02-312-1998.",
+    "The race pack includes a short-sleeve T-shirt or singlet (one choice), a finisher's medal, bib number and timing chip; the medal is issued on site to finishers only."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取公告 idx=173536131 海外报名信息图文",
+    "note": "费用、场地、开放时间、资格与领取物在公告正文中逐条可读。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Entry Fee: Marathon USD 150 / 10K USD 100" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Venue: Gwanghwamun Square (Marathon) / Jamsil Sports Complex (10K), Scheduled" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Registration opens Sept 1 2026 10:00 KST；first-come by payment order" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Qualification: net time under 4:59:59, races 2024-01-01 to 2026-11-30；10K no record" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "Channels: en.dongma.club, worldsmarathons.com, runnet.jp；marathon@donga.com / 02-312-1998" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "Race pack: tee or singlet, finisher medal, bib, chip；medal on site to finishers only" }
+  ]
+}

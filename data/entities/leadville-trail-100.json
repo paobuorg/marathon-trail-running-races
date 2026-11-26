@@ -1,0 +1,77 @@
+{
+  "entityId": "route:leadville-trail-100",
+  "slug": "leadville-trail-100",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-leadville-run-home-2027",
+    "route-leadville-lottery-qualification",
+    "route-leadville-official-rules",
+    "route-leadville-deferral",
+    "route-leadville-results-2026",
+    "route-leadville-packing-list",
+    "route-leadville-run-archive-2025",
+    "route-leadville-weather-openmeteo",
+    "route-leadville-results-2025-press",
+    "route-leadville-run-camp",
+    "route-anchor-editorial"
+  ],
+  "relatedRefs": [
+    "route:western-states",
+    "route:hardrock",
+    "route:utmb",
+    "route:qmt-135",
+    "knowledge:altitude-and-running"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "US"
+    ],
+    "placeName": {
+      "zh-CN": "美国科罗拉多州莱德维尔",
+      "en": "Leadville, Colorado, USA"
+    },
+    "mapAnchor": {
+      "longitude": -106.2978,
+      "latitude": 39.2536,
+      "kind": "overview",
+      "sourceRef": "route-anchor-editorial"
+    },
+    "courseVersion": "2026-leadville-trail-100-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [
+      {
+        "edition": "2026",
+        "observedAt": "2026-11-25",
+        "field": "course",
+        "change": "new-course",
+        "from": "traditional Leadville out-and-back course",
+        "to": "2026 Willow Fire reroute looping Turquoise Lake; Hagerman Pass Road, Sugarloaf Mountain and Powerline were excluded and runners rejoined the traditional course into Outward Bound",
+        "sourceRef": "route-leadville-run-home-2027",
+        "note": {
+          "zh-CN": "2026 届因 Willow Fire 火情改线：沿 Turquoise Lake 绕行，未纳入 Hagerman Pass Road、Sugarloaf Mountain 与 Powerline，在进入 Outward Bound 前回到传统线；2027 赛道官方标注待定。",
+          "en": "The 2026 edition used a Willow Fire reroute looping Turquoise Lake; Hagerman Pass Road, Sugarloaf Mountain and Powerline were excluded, and runners rejoined the traditional course into Outward Bound. The 2027 course was still marked pending by the event."
+        }
+      }
+    ],
+    "direction": "Out-and-back from the corner of 6th St and Harrison Avenue, Leadville, to the Winfield turnaround",
+    "distanceMeters": 160452,
+    "distanceMethod": "Official 2026 course info states 99.7 miles for the Willow Fire reroute and 99.7 miles on the traditional-course profile; the event is historically known as a 100-mile race. 99.7 miles converts at 1 mi = 1.609344 km to 160,452 m (160.5 km). No metric distance is published by the event.",
+    "elevationGainMeters": 4071,
+    "elevationMethod": "The held 2026 Willow Fire reroute states 13,357 feet of gain (= 4,071 m at 1 ft = 0.3048 m), which is the card figure. The archived traditional-course profile states 15,492 feet (= 4,722 m); the home-page overview rounds this to 'over 15,000 feet'. The two figures belong to different course versions and are not averaged. Lowest point 9,206 ft (2,806 m), highest point Hope Pass 12,526 ft (3,818 m); overview text rounds the pass to 12,500-12,600 ft and the start to 10,200 ft (3,109 m).",
+    "geometryAccess": "official-link",
+    "geometryRef": null,
+    "geometrySourceUrl": "https://www.leadvilleraceseries.com/run/leadvilletrail100run/",
+    "geometryLicense": null,
+    "officialGeometryUrl": "https://ridewithgps.com/routes/56633050?privacy_code=QhhFfahGrBfMsssPHVvaty7zns4NyLcN",
+    "attribution": "Life Time Leadville Race Series. The event page links Ride with GPS event/route entries and a Garmin Connect course for navigation; no raw GPX file URL was published on the page read. The linked third-party tracks are not hosted, mirrored or redrawn by this site, and no redistribution licence was located."
+  }
+}

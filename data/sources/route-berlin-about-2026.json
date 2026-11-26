@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-berlin-about-2026",
+  "title": "About the Event – BMW BERLIN-MARATHON",
+  "url": "https://www.bmw-berlin-marathon.com/en/preparation/about-the-event",
+  "publisher": "SCC Events",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "More world records have been broken on Berlin's fast pavement than at any other marathon race in the world: 13 so far.",
+    "Over 50,000 finishers cross the Brandenburg Gate just before the finish; millions of spectators and 80 live bands celebrate along the course.",
+    "The six-race World Marathon Majors series began in 2006 with Tokyo, Boston, London, Berlin, Chicago and New York; Sydney became the seventh member in 2025; finishers of six AbbottWMM events earn the Six Star Medal.",
+    "The event holds the World Athletics Elite Platinum Label and received the WA Heritage Plaque in November 2023; Berlin was one of the 28 AIMS founding members in 1986."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 about-the-event 正文",
+    "note": "世界纪录次数、规模、乐队数与标牌身份来自官方介绍页"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：13 world records so far"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：Over 50,000 finishers；millions of spectators；80 live bands"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：Six Star of marathons；2006 六站；2025 Sydney seventh；Six Star Medal"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：Elite Platinum Label；Heritage Plaque Nov 2023；AIMS 1986 founding member"
+    }
+  ]
+}

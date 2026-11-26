@@ -19,6 +19,20 @@ translationStatus: reviewed
 
 This page covers the 2026 Spartathlon. Figures come from the official race list, the 2026 road-book PDF, the official route page, the official rules PDF, the official FAQ, the official GPX, the official results page, Open-Meteo's historical archive and two third-party transport guides. Verification date: 19 November 2026.
 
+## Entry and eligibility: 400-runner cap, €450, January–February window
+
+The official FAQ gives the entry framework: a maximum of 400 runners, a €450 entry fee and no prize money. Applications run from 25 January to 25 February, with payment due by 10 June. The 2026 official list records 403 registered, 323 starters and 279 finishers; the 279/323 = 86.4% figure is this page's division of two official numbers, not a registration finish rate. The 403 registered slightly exceeds the 400 cap because that is the actual record in the official list.
+
+| Entry item | Verified figure | Unverified / evidence insufficient |
+| --- | --- | --- |
+| Quota | Maximum 400 runners (FAQ) | Whether the 2027 edition changes the cap |
+| Fee | €450 (FAQ) | 2027 fee and detailed refund terms |
+| Prize money | None (FAQ) | — |
+| Window | 25 Jan–25 Feb entry; payment by 10 Jun | Ballot versus first-come allocation not published in the pages read |
+| Performance threshold | The FAQ and 2022 rules read do not list prior ultra results or an index requirement | Whether the organiser uses prior finishes as an entry condition is not evidenced here and is not invented |
+
+This 244.74 km, 36-hour extreme road race demands deep experience; whether first-time ultra runners are accepted is not stated in the official pages read, so prospective entrants should confirm the eligibility conditions with the organiser.
+
 ## 1. Three distances: 244.74, 245.3 and 244.045
 
 The official Spartathlon material does not agree on the distance to the metre. The 2026 road book's final checkpoint is 244.74 km; the official route page ends its narrative at 245.3 km; the official GPX measures 244.045 km by haversine between consecutive points. The spread is under 1.3 km, but at 36-hour pace one kilometre is eight to nine minutes.
@@ -44,6 +58,21 @@ The official route page divides the course into six sections; the road book give
 6. **Sparta section (about 195–244.74 km):** a final climb from Tegea to about 975 m, through Kamari and Manthirea, then almost 28 km of descent into the Evrotas valley, past Voutiani and the Evrotas bridge, to the statue of King Leonidas in Sparta.
 
 This is not a road marathon. The official route page names tarmac road, trail and mountain footpath; the mountain section has stones, potholes and zigzags. At night, headlamp and ankle protection matter more than flat-road pace.
+
+## Course and route: six sections, three surfaces
+
+The official route page divides the course into six sections and the road book gives the exact kilometres; the two together produce the table below. Surfaces are tarmac road, trail and mountain footpath — this is not a whole-course road race.
+
+| Section | Distance | Main places | Surface and difficulty |
+| --- | ---: | --- | --- |
+| Corinth | 0–c. 81 km | Acropolis → Elefsis → Megara → Isthmia canal | Gradual coastal up/down; tightest cut-offs in the first 42 km |
+| Nemea | c. 81–124 km | Ancient Corinth → Assos → Ancient Nemea | Narrow winding country road; 351 m climb in 24 km |
+| Lyrkia | c. 124–148 km | Malandreni → Lyrkia | Stony, potholed country road; most runners enter darkness here |
+| Mountain / Nestani | c. 148–172 km | Sangas Pass (c. 1,100 m) → Kaperelli → Mountain Base → Nestani | 13 km climbing about 960 m, zigzag descent; most technical, easiest to lose the line at night |
+| Tegea | c. 172–195 km | Tripolis plain → Zevgolatio → Tegea | Open plain; hottest part of the second day |
+| Sparta | c. 195–244.74 km | Kamari, Manthirea → Evrotas valley → Leonidas statue | Final c. 28 km almost entirely downhill |
+
+On geometry, the organiser provides only an elevation-free GPX (4,830 points, 244.045 km) with no copyright or licence statement; this page does not host the track. A [track viewer](/en/tools/track-view/) can read a file you provide yourself, but it does not mean the organiser has authorised redistribution.
 
 ## 3. Twenty-one key checkpoints out of 76
 
@@ -106,6 +135,20 @@ This is **elapsed time divided by cumulative distance**, not segment pace. It sa
 
 The opening times matter too. Each checkpoint has an opening time; arriving too early means waiting outside, not banking time. The practical target is to reach each cut-off with 30–60 minutes of margin without arriving an hour before the station opens.
 
+## Timing and cut-offs: the 76-checkpoint time rules
+
+Cut-offs follow the checkpoint table: the 2026 road book runs CP0 to CP75, 76 checkpoints, each with an opening and closing time. The 36-hour arithmetic section above gives cumulative distance, elapsed time and minimum overall speed at each node; here are the judgement rules and pacing notes.
+
+| Timing item | Rule | Practical meaning |
+| --- | --- | --- |
+| Cut-off basis | Arrival time at the checkpoint against the road-book closing time | Arriving after the barrier means elimination, no further recorded result |
+| Opening time | Each point also has an opening time; early arrivals wait nearby without banking time | Do not arrive an hour before opening and wait around, which disrupts fuelling rhythm |
+| Overall limit | 36 hours (CP75 closes 19:00) | Finish minimum 6.80 km/h, but the first 42 km require 8.88 km/h |
+| Margin | Leave 30–60 minutes before each cut-off | Night mountain and plain heat can eat that margin |
+| Medical withdrawal | A runner required to receive an IV drip must withdraw under the rules | Medical decisions belong to the official medical team |
+
+The road book does not publish per-point sweep vehicle times; mountain-section transport depends on the nearest accessible road and official dispatch, and having a crew car does not mean one is always immediately available.
+
 ## 5. Crew: designated checkpoints only, car registered
 
 Spartathlon's crew rules are stricter than many European ultras. The official FAQ says runners may receive help from an officially registered support team **only at specially designated checkpoints**; the support car must be registered in Athens; bicycles and motorcycles are forbidden. The 2022 rules add that runners may not enter a support vehicle to receive help, support cars may not stop between checkpoints, and they may not follow, lead, parallel or hover right behind a runner.
@@ -120,6 +163,20 @@ Spartathlon's crew rules are stricter than many European ultras. The official FA
 | Aid | Every c. 3.5 km | Water, Coke, juice, fruit, bread, biscuits, chocolate, nuts, pasteli, etc. |
 
 The FAQ also says a runner who drops out or is eliminated must sign a declaration and hand in the race number, and Spartathlon personnel are responsible for onward transport to the runner's hotel in Sparta. That is an official commitment, but it is not “a car is always immediately available”: in the mountain section, transport depends on the nearest road and official dispatch.
+
+## Kit and rules: night-mountain equipment and support rules
+
+The 2022 rules PDF and 2026 road book read do not publish a numbered, complete mandatory kit list; this page does not invent one. The verifiable equipment facts are: the course has a night section (most runners reach it around Lyrkia) and a stony, zigzag Sangas descent, so a headlamp and spare batteries are essential for night navigation; the mountain surface has stones and potholes, requiring grippy, protective trail shoes. The mandatory support rules are below; the kit list should be confirmed against the official briefing and rules PDF.
+
+| Category | Verified rule / fact | Preparation | Unverified |
+| --- | --- | --- | --- |
+| Support point | Help only at specially designated checkpoints with the registered team | Crew meets runners only at designated CPs | Whether designated points change by edition |
+| Support vehicle | Must be registered in Athens; no stopping between checkpoints, no following or overtaking alongside | Unregistered cars stay out of the course | Registration process and deadline |
+| Two-wheelers | Bicycles and motorcycles forbidden | No cycling camera or bottle hand-up | — |
+| Runner in car | Forbidden to enter a support vehicle for help | Car stays in the designated area | — |
+| Night kit | The course runs through the night; Sangas is easiest to miss the line at night | Headlamp, spare batteries, visible clothing | Whether these are listed as checked mandatory items |
+| Footwear | Surface includes stony country road and mountain trail | Grippy trail shoes, broken in before race day | Shoe inspection standard |
+| Withdrawal | Hand in bib/chip, sign declaration; official transport to the Sparta hotel | Drop at the nearest CP and report to the captain | Per-point transport times |
 
 ## 6. Weather: 26–28 °C by day, cooler valleys at night
 
@@ -151,6 +208,37 @@ The difficulty breaks into five parts:
 5. **Crew complexity:** registered car, designated checkpoints, no bikes. Runners without crew need to plan water and food earlier.
 
 Withdrawal: under the 2022 rules and the FAQ, a runner who drops out hands in bib/chip and signs a declaration; the organisation arranges transport to the Sparta hotel. In the mountain section, do not leave the marked route to find your own way down; go to the nearest CP and speak to the station chief. Medical decisions belong to the official medical team; if intravenous treatment is required, the rules require withdrawal.
+
+## Training transfer
+
+Spartathlon is a 244.74 km, 36-hour extreme road race containing a 13 km climb of about 960 m; the 42.2 km Megara cut-off demands 8.88 km/h, while the last 50 km allow a walk near 8:49 /km. The table breaks the demands into trainable abilities; it lists directions, not an official plan.
+
+| Ability | Course demand | Preparation direction |
+| --- | --- | --- |
+| Ultra endurance | Finish 244.74 km inside 36 hours | Extend continuous running time gradually, keeping one session near 100-mile scale |
+| Early pace | Megara 42.2 km closes at 4:45, 8.88 km/h | Practice opening rhythm with half/marathon-paced sessions, but do not run the first 42 km at race intensity |
+| Night running | Darkness after Lyrkia; Sangas is most technical at night | Do night runs; practise navigation under headlamp on stones and zigzag climbs, following [night running and traffic](/en/knowledge/night-running-and-traffic/) |
+| Mountain climb and descent | Sangas: 13 km about 960 m, stony zigzag descent | Build vertical load on mountain sessions; practise downhill footwork and quad tolerance |
+| Day-night rhythm switch | Open plain heat in the second-day afternoon | Practise fluid, electrolyte and daytime cooling per [racing in heat and humidity](/en/knowledge/heat-and-humidity/) |
+| Long-duration fuelling | A point every c. 3.5 km; fast in-and-out | Train station-to-station eating and tolerance to gels and drinks per [fueling long runs](/en/knowledge/long-run-fueling/) |
+
+Use the [split pace tool](/en/tools/splits/) to break the 36-hour finish line or your own target down to each CP; the tool does arithmetic only and does not replace ultra mileage. Runners without a 100 km finish should not use this 244 km race as their first ultra.
+
+## Race-day execution card
+
+The table follows the six sections; cut-off references come from the checkpoint and timing sections. Pacing notes are editorial judgement, not official split targets.
+
+| Phase | Distance | Execution notes | Cut-off reference |
+| --- | ---: | --- | --- |
+| Corinth opening | 0–42.2 km | 07:00 start, hold 8:45–9:00 /km; fast in-and-out at Elefsina and Nea Peramos | Megara 11:45 (42.2 km) |
+| Corinth to canal | 42.2–79.8 km | Refill drinks along the coast; at Isthmia main station treat feet, change, eat hot food | Isthmia 16:30 (79.8 km) |
+| Nemea country roads | 79.8–122.7 km | Watch the narrow winding surface; rest at Ancient Nemea main station | Ancient Nemea 23:00 (122.7 km) |
+| Night Lyrkia | 122.7–147.8 km | Switch on headlamp; soup/tea at Malandreni; change clothes at Lyrkeia main station | Lyrkeia 03:10 (147.8 km) |
+| Sangas mountain | 147.8–172.0 km | 13 km about 960 m climb; pick descent footfalls on the zigzag; hot food at Mountain Base and Nestani | Mountain Base 05:10; Nestani 07:30 |
+| Tegea plain | 172.0–193.9 km | Refill and sun-protect in the daytime heat; soup/tea at Zeygolatio; recalculate at Tegea | Tegea 11:10 (193.9 km) |
+| Sparta finish | 193.9–244.74 km | Final c. 28 km descent; food at Ardamis and Monument; into Sparta after the Evrotas bridge | Finish 19:00 (244.74 km) |
+
+Before the start: arrange the registered crew car in the designated area; no bicycle or motorcycle follows; carry ID and timing chip; check headlamp battery at the main station before the night section. If you decide to drop, report to the nearest CP captain, hand in bib/chip and sign the declaration; do not leave the marked route to find your own way, and follow the official medical team's treatment decisions.
 
 ## 9. 2026 results: 279 finishers, Bódis 19:40:51
 
@@ -187,3 +275,10 @@ The page now carries **one local image** (1 of 26 route photographs across the l
 - Image: Wikimedia Commons `File:2021-es Spartathlon MAgyar Csapat rajtfotó.jpg`, author Czajamatyas, CC BY-SA 4.0, taken 2021-09-24; checked against imageinfo and the thumbnail on 2026-11-21.
 
 Not verified: the 2026 road book gives no total climb; IUTA's +2,600 m is third-party context only. The official rules PDF is the 2022 edition; no newer 2026 PDF was found on the official site. The organiser has not published a 2026 finish rate; 86.4% is 279/323 among starters, not among all registrations.
+
+<!-- related-ring -->
+## Related entries
+
+- [Two Oceans Marathon: 56 km, the 56th edition, and seconding rules that Comrades does not share](/en/routes/two-oceans-marathon/)
+- [CCC: the complete 2026 course guide to the UTMB World Series 100K final](/en/routes/ccc/)
+- [Hardrock 100: the 2026 clockwise high-altitude loop](/en/routes/hardrock/)

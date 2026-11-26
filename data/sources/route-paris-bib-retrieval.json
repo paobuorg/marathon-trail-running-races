@@ -1,0 +1,55 @@
+{
+  "sourceId": "route-paris-bib-retrieval",
+  "title": "Organiser info page: race number retrieval at Run Experience, Porte de Versailles",
+  "url": "https://www.schneiderelectricparismarathon.com/en/information/race-number-retrieval",
+  "publisher": "A.S.O. — Schneider Electric Marathon de Paris official website",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Bibs are collected at Run Experience, Parc des Expositions – Porte de Versailles, Hall 1, 75015 Paris; the fair hosts more than 150 exhibitors.",
+    "2026 opening hours: Thursday 3 p.m.–8 p.m., Friday 10 a.m.–8 p.m., Saturday 9 a.m.–6 p.m.; race bibs are not handed out on race day.",
+    "Collection requires the PPS number (or FFA license) uploaded to the timeto dashboard, the QR code from the confirmation email/dashboard, and an ID document.",
+    "Access: metro line 12 Porte de Versailles; tramway T3a and T2; bus 39, 42 and 49; Vélib' stations near the departure and arrival areas.",
+    "A starting-pen change can be requested exceptionally at the bib-collection information point, with a performance certificate less than 4 years old from an official race; Elite-range requests go to the SOS RUNNERS desk."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取官网 Information > Race number retrieval 页",
+    "note": "时间地点与材料为官网信息页；2027 届领物安排官网尚未公布。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网页：Parc des Expositions – Porte de Versailles, Hall 1, 75015 Paris；150+ exhibitors。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网页：周四 15–20、周五 10–20、周六 9–18；比赛日不发号码布。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网页：timeto 上传 PPS/FFA；出示 QR 码与身份证件。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网页：地铁 12 号线、有轨 T3a/T2、公交 39/42/49；附近有 Vélib'。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网页：领物点 POINT INFORMATION 可凭 4 年内官方成绩证明申请换区；精英区走 SOS RUNNERS。"
+    }
+  ]
+}

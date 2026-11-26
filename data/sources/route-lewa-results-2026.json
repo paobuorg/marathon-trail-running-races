@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-lewa-results-2026",
+  "title": "Lewa Safari Marathon 2026 Results: Full List of Winners — official Lewa post",
+  "url": "https://www.lewa.org/lewa-safari-marathon-2026-results-full-list-of-winners/",
+  "publisher": "Lewa Wildlife Conservancy",
+  "publishedAt": "2026-06-30",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Full Marathon 42 km men's podium: 1st Samson Lemayan, 2nd Victor Miano, 3rd Nehemiah Kimaru.",
+    "Full Marathon 42 km women's podium: 1st Lydia Simiyu, 2nd Lydia Nyansikera, 3rd Gladys Otero.",
+    "Half Marathon 21 km men's podium: 1st Michael Kamau, 2nd Justine Lelintan, 3rd Simon Saidimu.",
+    "Half Marathon 21 km women's podium: 1st Mercy Nelima, 2nd Doreen Kendi, 3rd Caroline Waithira.",
+    "The post lists podium names only; race times and a full finisher count are not published in this article."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 2026 官方结果公告",
+    "note": "成绩与完赛人数未在公告中给出，正文不补第三方估算。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Full Marathon Men 前三与表内一致。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Full Marathon Women 前三与表内一致。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Half Marathon Men 前三与表内一致。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Half Marathon Women 前三与表内一致。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "正文无完赛时间与总人数字段。" }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-paris-results-2025-wa",
+  "title": "World Athletics Label Road Races results — Schneider Electric Marathon de Paris, 13 April 2025",
+  "url": "https://worldathletics.org/competitions/world-athletics-label-road-races/calendar-results/7221864/result",
+  "publisher": "World Athletics",
+  "publishedAt": "2025-04-13",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "World Athletics records the Paris marathon in Paris (FRA) on 13 April 2025 under event ID 7221864.",
+    "Men's winner: Benard BIWOTT (KEN) 2:05:25; men's runner-up Ibrahim Hassan (DJI) 2:06:13.",
+    "Women's winner: Bedatu HIRPA (ETH) 2:20:45; runner-up Dera DIDA (ETH) 2:20:49; third Angela TANUI (KEN) 2:21:07.",
+    "World Athletics reports the 2025 event as a World Athletics Elite Label road race."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "general_search 命中 WA 7221864 结果页，女子名次表在搜索摘要中完整可见；男子冠军与 WA 新闻稿一致",
+    "note": "WA 结果页为第三方权威成绩库；2025 届次为第 48 届。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "WA 7221864：Paris FRA, 13 APR 2025。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "WA 新闻稿：Biwott KEN 2:05:25；Hassan DJI 2:06:13。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "WA 女子表：Hirpa 2:20:45、Dida 2:20:49、Tanui 2:21:07。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "WA 新闻稿标题称该赛为 World Athletics Elite Label road race。"
+    }
+  ]
+}

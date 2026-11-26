@@ -1,0 +1,55 @@
+{
+  "sourceId": "route-paris-2027-homepage",
+  "title": "ASICS Marathon de Paris 2027 — Official homepage entry routes",
+  "url": "https://www.asicsmarathondeparis.com/en/",
+  "publisher": "ASICS Marathon de Paris (organiser official website)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The official homepage counts down to the 2027 event on 4 April 2027 and identifies the event as the ASICS Marathon de Paris (50th edition).",
+    "Charity entries require fundraising for a partner charity; the homepage states a minimum fundraising target of €420 to be allocated an entry.",
+    "An official resale platform for bibs opens on 1 December 2026.",
+    "Runners coming from abroad can enter through partner tour operators that offer packages including an entry; corporate entries exist for companies.",
+    "The 2027 course is described as still under wraps and will be announced later on the official website."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取官网首页 en/ 各报名通道说明",
+    "note": "首页把抽签、慈善、企业、官方二手与旅行社通道并列；€420 为首页公开的慈善筹款门槛。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "首页倒计时 4 April 2027；品牌标识 ASICS Marathon de Paris；届次 50th 见 FAQ。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "首页 Charity Entries：筹款达到 €420 门槛后分配名额。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "首页：官方 resale 平台 1 December 2026 开放。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "首页：海外跑者可走合作旅行社套餐；另有企业报名通道。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "首页与 FAQ 一致：2027 赛道稍后公布。"
+    }
+  ]
+}

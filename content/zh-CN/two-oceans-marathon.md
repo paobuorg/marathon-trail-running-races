@@ -88,6 +88,19 @@ Hout Bay Main Road 从 Chappies 脚下一直热闹到 Constantia Nek 顶部，�
 
 2027 年是否沿用这条应急改线，官方尚未发布，本页不把它写成既定路线。
 
+## 赛道与路线：绕半岛一圈，Ultra 56 km 与 Half 21 km
+
+Two Oceans 一届含两个主要组别：Ultra Marathon 56 公里与 Half Marathon 21 公里。本页只核验 Ultra；Half 的起点、关门与资格条款在已读页面未逐项转录，下表只列已核实的 Ultra 口径，Half 行不填推算值。
+
+| 组别 | 距离 | 起点 / 终点 | 关门 | 本页口径 |
+| --- | ---: | --- | --- | --- |
+| Ultra Marathon | 56 km | Newlands Main Road（开普敦）→ UCT Rugby Fields, Upper Campus, Rondebosch | 最后一组枪声后 7 小时；中途关门未公布 | 本页主题 |
+| Half Marathon | 21 km | 已读页面未逐项转录 | 未转录 | 不套用 Ultra 规则 |
+
+Ultra 路线绕 Cape Peninsula 一圈：沿线区域包括 Muizenberg、St James、Kalk Bay、Hout Bay、Noordhoek、Constantia 与 Newlands。Noordhoek Main Road 约 4 公里缓起伏，之后进入当天第一段大爬升；Chapman's Peak 从 Noordhoek Village 沿山边绕到 Hout Bay，是路线上的标志性路段，该段不通汽车，观众步行上山；Hout Bay Main Road 从 Chappies 脚下到 Constantia Nek 顶部，选手在这里经过马拉松距离标记；Constantia Nek 是第二段、也是最折磨人的陡爬升。
+
+几何口径上，官方 2027 路线图赛前才发布：页面没有累计爬升、没有 2027 海拔剖面、没有可再分发 GPX。本页把累计爬升、分段坡度与高点海拔都写 unknown；2026 静态路线图 PDF 底部的 3–242 米剖面只作上一届参考，不当 2027 几何。iRunFar 2026 复盘称后半程约 700 米爬升，是第三方描述，不改变官方未公布高程的事实。
+
 ## 个人补给（seconding）规则
 
 这是 Two Oceans 与 Comrades 差异最大的地方，也是最容易踩规则的地方。
@@ -278,6 +291,35 @@ iRunFar 在 2026-04-13 的赛后汇总补齐了前五；以下是男子前五。
 
 赛事官网图片没有标注可再分发许可，未使用；本页只外链官网页面、规则 PDF 与 2026 静态路线图 PDF。图片仅做尺寸与体积压缩，未改动画面内容；不适用本页文字的 CC BY 4.0。
 
+## 训练转化
+
+Ultra 是 56 公里公路超马、7 小时终点关门，绕开普半岛一圈，含 Chapman's Peak 与 Constantia Nek 两段爬升和海岸暴露段。它不是平路公路马拉松，也不是技术越野；难点在公路配速、两段长爬、海岸风与时限叠加。下表把要求拆成可在训练中准备的能力项；表内是训练方向，不是官方训练计划。
+
+| 能力项 | 这条路线的要求 | 准备方向 |
+| --- | --- | --- |
+| 超马配速 | 56 km、7 h 关门，后半程仍有爬升与暴露 | 参考 [比赛日配速](/knowledge/race-day-pacing/)，用 [配速计算器](/tools/pace/) 与 [分段配速表](/tools/splits/) 把目标时间拆段 |
+| 长距离耐力 | 超出标准马拉松 14 公里 | 赛前逐步拉长长距离跑，保留一次 50 km 量级或马拉松后连跑的长课 |
+| 爬升耐受 | Chapman's Peak 与 Constantia Nek 两段爬坡 | 用坡跑与山地通勤积累爬升，重点练爬坡后的下坡节奏 |
+| 补水与散热 | 4 月开普敦白天 21.6 °C 中位，海岸侧风 | 参考 [补水](/knowledge/hydration/) 与 [湿热天气比赛](/knowledge/heat-and-humidity/)，练习途中补液与电解质 |
+| 长距离补给 | 官方站按固定间隔提供水、电解质与补给品 | 按 [长距离跑补给](/knowledge/long-run-fueling/) 训练站间进食，不依赖私人补给桌 |
+| 批次节奏 | 按资格成绩分批出发，关门按最后一组枪声起算 | 赛前确认自己的批次与起跑时刻，不按他人批次估算关门 |
+
+资格上，Ultra 须在 2026-05-01 至 2027-03-07 窗口内提交一场合格马拉松或更长距离的官方计时成绩；门槛按距离分档（42 km sub 5:00 至 100 km+ sub 13:30），详见“资格门槛”一节。
+
+## 比赛日执行卡
+
+下表按沿线主要阶段给出执行要点；中途关门未公布，表内只标终点 7 小时参照，配速建议是编辑判断，不是官方分段目标。
+
+| 阶段 | 里程参照 | 执行要点 | 参照 |
+| --- | ---: | --- | --- |
+| Newlands 开场 | 0–约 20 km | 05:15 分批出发，按自己批次配速；前半程压住，不被人群带快 | 终点 7 h |
+| 海岸村镇段 | Muizenberg–Kalk Bay–Noordhoek | 沿湾村镇补水；Noordhoek Main Road 约 4 km 缓起伏，为第一段爬升留腿 | 医疗站 12 / 19 / 28 / 33 / 39 km |
+| Chapman's Peak | Noordhoek Village → Hout Bay | 暴露海岸路段注意侧风；该段不通汽车，观众步行上山；退赛撤离较市区段困难 | — |
+| Hout Bay 到 Constantia Nek | Hout Bay Main Road → Nek | 经过马拉松距离标记；Constantia Nek 是最陡、最折磨人的第二段爬升 | 医疗站 42 / 46 / 49 / 51 km |
+| 收尾回 Newlands | Constantia → Newlands → UCT | 疲劳下降段保护膝盖；终点 UCT Upper Campus，凭配对腕带取包 | 终点 7 h（最后一组枪声后） |
+
+私人补给按 2026 规则 6.13：no mobile seconding，补给者不得驾车、骑车或跑步跟随；允许 stand-and-hand，即在补给站保持静止递物，不得在赛道上随行移动，也不能从车辆上递补。2027 规则尚未发布，若文本有变以 2027 官方规则为准。退赛向最近检查站报到；Chapman's Peak 车道封闭，不要自行穿越。
+
 ## 已核实与未核实
 
 已核实：2027 年 4 月 4 日与第 56 届、56 公里、05:15 分批出发、Newlands Main Road 起点、UCT Rugby Fields 终点、21,000 上限、WA/ASA/WPA 框架、资格窗口与六档成绩门槛、2027 报名费与四类参赛路径、2027 open 奖金前 10、免费接驳站点、存包规则、终点 7 小时关门与时刻换算规则、2026 规则 6.13 的 seconding 条款、官方 FAQ 的 supporter points 与非参赛者禁跑、医疗站里程、Newlands 4 月区域气候、1970 年首届与 1998/2000 年赛道迁移、男子 3:03:44 赛道纪录、2026 男女前五与女子 3:26:54 纪录。
@@ -296,3 +338,10 @@ iRunFar 在 2026-04-13 的赛后汇总补齐了前五；以下是男子前五。
 8. 官方 2026 赛后稿（Jantjies 3:09:25、Steyn 3:27:43、35 秒胜差、女子 3:26:54 历史最快、2026 奖金池拆分）：https://www.twooceansmarathon.org.za/jantjies-puts-hopetown-on-the-map-as-steyn-makes-history-at-the-totalsports-two-oceans-marathon-powered-by-byd/
 9. iRunFar 2026-04-13 赛后汇总（2026 男女前五、Steyn 2024 年 3:26:54 赛道纪录、后半程约 700 米爬升、2026 奖金池与冠军奖金）：https://www.irunfar.com/this-week-in-running-april-13-2026
 10. 官方 2026 Ultra 56 公里静态路线图 PDF（1 页，含公里标记、补给/医疗站、Noordhoek 与 Canterbury Drive 放大图、3–242 米海拔剖面；2026-03-12 最后修改；2026-11-21 下载全文核对）：https://media.twooceansmarathon.org.za/wp-content/uploads/2026/03/12131935/TTOM2026-Route-Map-Ultra-Marathon-Chappies.pdf
+
+<!-- related-ring -->
+## 相关条目
+
+- [CCC：UTMB 世界系列 100K 组总决赛的完整赛道指南（2026 届）](/routes/ccc/)
+- [硬石 100：西尔弗顿高海拔环线（2026 顺时针）](/routes/hardrock/)
+- [Leadville Trail 100：高海拔往返百英里全解（2026 改线口径）](/routes/leadville-trail-100/)

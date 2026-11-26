@@ -1,0 +1,62 @@
+{
+  "sourceId": "route-paris-2026-fields-news",
+  "title": "Organiser news: 57,464 finishers and 2026 field demographics",
+  "url": "https://www.schneiderelectricparismarathon.com/en/news/57-464-hearts-beating-as-one/381",
+  "publisher": "A.S.O. — Schneider Electric Marathon de Paris official news",
+  "publishedAt": "2026-04-12",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 49th edition on 12 April 2026 had exactly 58,853 starters; 57,464 crossed the finish line.",
+    "The 2026 field was 49% first-time marathoners, 33% women and 29% international participants, with an average age of 38.",
+    "Women's share was 33% in 2026, against 31% in 2025, 28% in 2024 and 25% in 2022; first-time marathoners were 41% in 2022.",
+    "Around 8,500 runners wore charity bibs (6,000 in 2025), raising more than €8.5 million for 300 organisations.",
+    "The event counted about 200,000 spectators and 40 entertainment zones along the course; the start was on the Champs-Élysées and the finish on Avenue Foch.",
+    "Among international participants, runners from the United Kingdom were the most represented after France, followed by the United States."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取官网新闻 /381 英文正文",
+    "note": "样本结构与慈善数据为官网赛后报道；非官方成绩平台的逐人排名以 World Athletics 结果页为准。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 /381：exactly 58,853 runners；57,464 crossed the finish line。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 /381：49% first marathon、33% women、29% international、average age 38。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 /381：女子比例 2022 25%、2024 28%、2025 31%、2026 33%；首马比例 2022 41%。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 /381：约 8,500 慈善跑者（2025 为 6,000），筹款逾 €8.5m、300 家组织。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 /381：约 200,000 观众、40 个氛围区；起点香榭丽舍、终点福煦大道。"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 /381：海外跑者中英国人数最多，其次美国。"
+    }
+  ]
+}

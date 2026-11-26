@@ -1,0 +1,50 @@
+{
+  "sourceId": "route-valencia-2026-regulations",
+  "title": "Regulations Valencia Marathon 2026 — 46th Maratón Valencia Trinidad Alfonso Zurich",
+  "url": "https://www.valenciaciudaddelrunning.com/en/marathon/regulations-valencia-marathon/",
+  "publisher": "S.D. Correcaminos / Ajuntament de València",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "S.D. Correcaminos, with institutional support from Valencia City Council and the OAM Municipal Sports Foundation, organises the 46th Valencia Marathon Trinidad Alfonso Zurich on Sunday 6 December 2026.",
+    "The race is an urban foot race of 42,195 metres on asphalt, approved by AIMS/RFEA, included on the RFEA and AIMS international calendars, and awarded a World Athletics Platinum Label; participants must be 18 or over on race day.",
+    "The start is at 08:15 and the race finishes by 15:15; the maximum official finishing time is 5:30 from the moment the runner passes the start line.",
+    "Nine waves start by accredited time: sub-2:50:00 at 08:15; 2:50:00-2:59:59 at 08:25; 3:00:00-3:11:59 at 08:35; 3:12:00-3:19:59 at 08:45; 3:20:00-3:31:59 at 08:55; 3:32:00-3:42:59 at 09:05; 3:43:00-3:55:59 at 09:15; 3:56:00-4:09:59 at 09:25; over 4:10:00 at 09:35.",
+    "Any runner reaching km 25 after 12:57 on 6 December 2026 must hand in the bib, abandon the race and enter the sweeper car, under the projected 5:30 overall limit adjusted for the staggered wave starts.",
+    "Runners registering with the aim of finishing under 3:32:00 must prove a previous best in a marathon, half marathon, 15K or 10K within the last three years.",
+    "Maximum capacity is 36,000 bibs: bibs 1-10,000 cost €80; bibs 10,001-36,000 and ballot bibs cost €180; the waiting-list price is €200; a mandatory €5 day licence applies to runners without a current RFEA, FACV or Runner Plus Card licence.",
+    "Registration changes are free until 6 November; from 7 to 26 November a €25 administrative and bib-reprint fee applies; from 27 November no changes are allowed. A legal bib-holder change through the platform carries a €5 administration fee until 6 November.",
+    "The registration cannot be transferred to the following year. Injury withdrawal refunds 75% until 7 September, then 50% until 6 November, minus a €5 management cost; pregnancy withdrawal refunds 100% minus €5; optional refund insurance covers 80% for any reason until 29 November 2026 and can only be bought at registration.",
+    "Bibs and goodie bags are collected only at Expo 42K Feria Valencia, Av. de les Fires s/n, 46035 València: Thursday 17:00-21:00, Friday 09:00-21:00, Saturday 09:00-19:00; no pickup on race day; a third party may be authorised via the Runner's Area after 7 November.",
+    "Liquid refreshment is provided at approximately km 5, 10, 15, 20, 25, 30, 32, 35, 37.5 and 40, plus a final liquid and solid station at the finish.",
+    "A commemorative medal is awarded to all registered runners who finish within the established maximum time limit.",
+    "Sub-elite standards set on 2024-2026 approved courses: men under 30:00 for 10K/10,000m, 1:06:00 half marathon or 2:20:00 marathon; women under 35:30, 1:17:30 or 2:45:00.",
+    "Prize money for Spanish/FACV runners is paid below 2:20:00 men and 2:45:00 women, halved between 2:20:00-2:35:00 men and 2:45:00-2:55:00 women, and not paid above 2:35:00 men and 2:55:00 women.",
+    "Listed record bonuses: men's and women's course records 2:01:48 and 2:14:00 each carry €30,000; Spanish records 2:05:48 and 2:21:27 each €25,000; world record prizes are €1,000,000."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官网英文规则页全文（Articles 1-23）",
+    "note": "规则页正文可读；日期、波次、关门、费用、退款、领物、补给、奖牌与奖金条款均取自对应条文。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Artículo 1：46th, Sunday 6 December 2026, S.D. Correcaminos + Valencia City Council/OAM。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Artículo 2：42,195 metres, urban asphalt, AIMS/RFEA approved, Platinum Label, 18+。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Artículo 3：08:15 出发，15:15 结束，最大时限 5:30。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Artículo 3 九波次时间表与成绩门槛逐条一致。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "Artículo 3：km 25 超过 12:57 须交号码布、退赛并上收容车。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "Artículo 3：目标 sub-3:32:00 须提供近三年马拉松/半马/15K/10K 成绩证明。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-25", "note": "Artículo 6.1：36,000 名额；€80/€180/€180；候补 €200；日执照 €5。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-25", "note": "Artículo 5 与 7.1：6 Nov 前免费变更；7-26 Nov €25；27 Nov 起不可变更；转让 €5 管理费。" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-25", "note": "Artículo 8：不可顺延至下一年；伤病 75%/50% 退款；怀孕全额减 €5；保险 80% 至 29 Nov。" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-25", "note": "Artículo 10：Feria Valencia 领物，周四至周六时段，比赛日不领；7 Nov 后可授权代领。" },
+    { "index": 10, "status": "supported", "checkedAt": "2026-11-25", "note": "Artículo 16：补给点 km 5/10/15/20/25/30/32/35/37.5/40，终点综合站。" },
+    { "index": 11, "status": "supported", "checkedAt": "2026-11-25", "note": "Artículo 12：在最大时限内完赛的注册选手获纪念奖牌。" },
+    { "index": 12, "status": "supported", "checkedAt": "2026-11-25", "note": "Artículo 6.4：sub-elite 男女门槛 10K/半马/马拉松成绩与年份窗口。" },
+    { "index": 13, "status": "supported", "checkedAt": "2026-11-25", "note": "Artículo 13.3：西班牙/FACV 奖金发放成绩门槛与减半区间。" },
+    { "index": 14, "status": "supported", "checkedAt": "2026-11-25", "note": "Artículo 13.4：赛道纪录、西班牙纪录、世界纪录奖金金额。" }
+  ]
+}

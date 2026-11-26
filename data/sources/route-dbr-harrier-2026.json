@@ -1,0 +1,32 @@
+{
+  "sourceId": "route-dbr-harrier-2026",
+  "title": "Harrier Trail Running — Dragon's Back Race 2026 stories: podiums, terrain and shorter formats",
+  "url": "https://harrierrunfree.co.uk/blogs/news/dragon-s-back-race-2026-stories",
+  "publisher": "Harrier Trail Running (third-party retailer media)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Women's podium: Isobel Turner won in 67:46:19, Jacqueline Lee second in 70:02:40, Sarah Ingram third in 71:16:48; favourite Bethan Logan led from Day 1 but dropped on Day 5 after needing rescue off the mountain.",
+    "Men's podium: Danny Smith first in 46:59:52, Matt Hammerton second in 50:39:42, Alastair Graves third in 52:56:33.",
+    "The article describes 152 full-course starters, of whom 53 completed the full course; 63 Hatchlings finished, 15 of them women.",
+    "The terrain spans slate trails, rocky ridges, dry mountain tops, grassy valleys, boggy sections and flatter racing ground, passing the top of Eryri (Yr Wyddfa/Snowdon), the Crib Goch ridge, Elan Valley and the Black Mountains.",
+    "Dragon's Fire covered Day 1 (50 km, 4,100 m, Carneddau/Glyderau/Snowdon massif) and Day 2 (60 km, 3,200 m, Nant Gwynant to Dolgellau); Dragon's Tail covered 72 km, 3,200 m in the Bannau Brycheiniog followed by 65 km, 1,300 m to Cardiff.",
+    "Felix Buchner spent the longest time on course, finishing the full race in 88:57:34 and receiving the 'Daffy' the Dragon trophy."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 Harrier 赛后故事文正文",
+    "note": "第三方媒体稿：152 名全程出发与 RunUltra 的 210 总选手口径不同（后者含 Fire/Tail/Hatchling）；女子名次与官方成绩表互证。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "partial", "checkedAt": "2026-11-25", "note": "Women's podium 段：Turner 67:46:19; Lee 70:02:40; Ingram 71:16:48; Logan Day 5 rescue/DNF。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Men's 段：Smith 46:59:52; Hammerton 50:39:42; Graves 52:56:33，与官方成绩表一致。" },
+    { "index": 2, "status": "partial", "checkedAt": "2026-11-25", "note": "正文：152 full-course starters, 53 finish; 63 Hatchling, 15 women。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "地形段：slate trails, rocky ridges, boggy sections; Snowdon, Crib Goch, Elan Valley, Black Mountains。" },
+    { "index": 4, "status": "partial", "checkedAt": "2026-11-25", "note": "Fire/Tail 段：D1 50km/4100m; D2 60km/3200m; Tail 72km/3200m + 65km/1300m。" },
+    { "index": 5, "status": "partial", "checkedAt": "2026-11-25", "note": "Daffy 段：Felix Buchner 88:57:34。" }
+  ]
+}

@@ -195,4 +195,132 @@ No Chamonix scenery, Mont Blanc landscape or photograph of another race was used
 
 This page was written independently by the RunUp editorial team from the organiser's public pages, the official GPX and Open-Meteo data, and is licensed CC BY 4.0. The event name, official marks, official route text and official GPX remain the property of the organiser and LiveTrail®; this page links to the GPX and does not redistribute it. The three photographs' licence information is recorded on their file pages and is not covered by the page's CC BY 4.0. Open-Meteo data are used under CC BY 4.0 with attribution.
 
-The page cites nine sources: the race page, the official track timing table (rendered 2026-11-08), the rules page, the transport page, the official GPX, Open-Meteo historical weather, and three Commons photographs. Each source's supported claims and access date appear in the source list at the bottom of the page.
+The page cites 18 sources: the race page, the official track timing table, the current rules page and a 2026 rules archive, the official GPX, registration conditions, the runner Q&A, the 2026 wave and drop-bag pages, the UTMB World Series 2027 page, the official security page, the official training page, the official results portal, the transport page, Open-Meteo historical weather, and three Commons photographs. Each source's supported claims and access date appear in the source list at the bottom of the page.
+
+## Entry conditions and the draw
+
+The UTMB is not a race you can enter simply by paying. The official 2027 registration-conditions page currently states that a UTMB entrant must hold a valid UTMB Index in the 100K or 100M category, and that the minimum age is birth in 2006 or earlier. The order is fixed: finish a qualifying 100K or 100M first, then talk about the draw.
+
+The same page separates the other races: CCC accepts a valid Index in 50K, 100K or 100M; OCC accepts 20K and above; TDS accepts 100K or 100M. Treating the UTMB requirement as "any trail finish counts" will be stopped at registration. Index points come from designated races, not from a Strava estimate. Before entering, check the UTMB Index directory to confirm the race is listed and the result has been credited.
+
+| Item | Official 2027 registration page | What it means for preparation |
+|---|---|---|
+| Minimum age | Born in 2006 or earlier | Use passport date, not age on the entry form |
+| UTMB experience | Valid UTMB Index in 100K or 100M | Finish a matching Index race before the draw |
+| CCC experience | Valid Index in 50K, 100K or 100M | A 50K can open CCC, not UTMB |
+| OCC experience | Valid Index in 20K or longer | Short Index races count, subject to the current rules |
+| Places and draw | Current official entry notice | This page does not turn past acceptance rates into a promise |
+
+Places and draw rules change each year. If the official page does not publish a fixed number of places or an acceptance rate, this page does not invent one. The controllable part is the hard gate: passport, Index result, medical certificate and insurance, all checked against the current list rather than a friend's experience from last year.
+
+## Timing and cut-offs
+
+The official 2026 timing table has 17 rows with cut-offs. The start is Friday at 19:45, the finish cut-off is Sunday at 17:30, and the maximum race time is 45 hours 30 minutes. Subtracting the start from each cut-off gives the slowest permitted average pace to that point. It is not a target; it is the line you cannot cross.
+
+| Timing point | Cumulative km | Cut-off | Elapsed | Slowest average to the point |
+|---|---:|---|---:|---:|
+| Saint-Gervais | 22.9 km | Sat 00:00 | 4:15 | 11:08 /km |
+| Les Contamines | 32.4 km | Sat 02:00 | 6:15 | 11:34 /km |
+| Les Chapieux | 52.2 km | Sat 07:15 | 11:30 | 13:13 /km |
+| Lac Combal | 67.8 km | Sat 11:00 | 15:15 | 13:30 /km |
+| Courmayeur | 81.3 km | Sat 14:15 | 18:30 | 13:39 /km |
+| Arnouvaz | 99.4 km | Sat 19:15 | 23:30 | 14:11 /km |
+| Champex | 127.5 km | Sun 03:30 | 31:45 | 14:56 /km |
+| Trient | 144.0 km | Sun 09:00 | 37:15 | 15:50 /km |
+| Chamonix finish | 173.6 km | Sun 17:30 | 45:30 | 15:44 /km |
+
+The table is not an instruction to run every kilometre at 15:44. The early cut-offs are tighter: Saint-Gervais to Les Contamines leaves only about eleven and a half minutes per kilometre. The later margin looks larger, but Champex is followed by roughly 46 km and 2,600 m of climbing, and the third night turns fatigue into a real pace penalty. The genuine cut-off risk usually sits on technical descents in the dark and in queues at aid stations, not on flat runnable track.
+
+The rules state that a runner who needs intravenous treatment must withdraw. That is not a "walk it off" option. Printing the cut-off table on the back of a bib is useless; convert it into three alarms: latest arrival at Saint-Gervais, at Courmayeur, and at Champex. If you are more than 45 minutes behind at any stage, assess a withdrawal at the next bus-marked point instead of gambling on the last pass.
+
+## Mandatory kit and penalties
+
+UTMB uses two layers: a basic mandatory kit that applies in all conditions, and additional items activated by the organiser according to the forecast. Additional items are announced no later than 24 hours before the start. Everything must be carried for the whole race and be immediately checkable; sealed bags that cannot be reopened are prohibited. Marshals do not search your pack, but you must be able to present each item at once.
+
+| Category | Official rule | Common mistake |
+|---|---|---|
+| Water | Carry the capacity for at least 1 litre; aid stations refill only water or sports drink | One 500 ml flask, relying on frequent refills |
+| Waterproof layer | Hooded waterproof jacket, not a wind shell | A thin windproof jacket in place of a waterproof |
+| Lighting | Main headlamp plus spare power; night markers are reflective | One headlamp, or a battery that cannot be changed |
+| Warmth and first aid | Survival blanket, warm long-sleeve, gloves, hat as listed | Blanket left in the drop bag instead of on the body |
+| Communication | Phone on, not in airplane mode; LiveRun usable | Airplane mode to save battery |
+| Identity and insurance | Bib visible on the front; rescue insurance covers France, Italy and Switzerland | Insurance covers France only, or the bib is buried in the pack |
+
+Penalties are not a "top it up later" system. The rules list a complete lack of water, no hooded waterproof jacket, no headlamp, no survival blanket and no phone as safety-equipment omissions that can lead to disqualification. Other missing items normally carry a one-hour penalty, with the missing item obtained during that hour. Refusing a kit check can itself lead to disqualification. Putting the heaviest safety item at the bottom of the pack, or hiding the bib under a jacket, turns an avoidable penalty into a lost race.
+
+## Training: work backwards from climbing and night exposure
+
+The training problem is not "run a road marathon". It is 173.6 km, 9,700 m of climbing, two full nights and three large descents. The official training page points to free RunMotion Coach plans; it does not publish one universal schedule. The four-phase structure below is an editorial suggestion for fitting volume, vertical gain and night exposure into one week, not an official prescription.
+
+| Phase | Weekly running | Weekly vertical | Key session | Night and kit rehearsal |
+|---|---|---|---|---|
+| Base, 4 weeks | 45–60 km | 1,200–1,800 m | 60–90 minutes continuous climbing | 90-minute headlamp walk, practise battery change |
+| Specific, 4 weeks | 60–80 km | 2,000–3,000 m | 4–6 hour mountain run with two 30-minute climbs | 2-hour night run in full mandatory kit |
+| Simulation, 3 weeks | 70–90 km | 2,500–3,500 m | 8–10 hour loaded run, eating on aid-station gaps | 6–8 hour overnight, descending while sleepy |
+| Taper, 2 weeks | 50–60% of peak | 40–50% of peak | Short hills at intensity, no new long run | 60-minute kit-check walk only |
+
+Climbing training must include descending. The −9,699 m profile loads the quadriceps and calves eccentrically; a weekly vertical total made only of uphill repeats leaves the legs unprepared for the technical descents after 60 km. One continuous "30 minutes up, 30 minutes down" route each week is closer to the course than treadmill climbing alone.
+
+Night exposure needs its own block. Most runners can run in the dark; far fewer have practised the decision made when sleepiness, cold and a fading headlamp arrive together. Wear the headlamp, spare battery, survival blanket and waterproof layer on the training run. Practise a four-hour aid cycle: eat first, refill second, check kit third. Do not meet the full kit for the first time on race day.
+
+## Race-day execution card
+
+The start is Friday at 19:45, so race day is not "rest until the gun". Bib collection, bag drop, meals, a nap and transport have to form a chain that cannot miss. The rules allow one personal assistant at designated aid stations, handing over a bag of no more than 30 litres; the exact stations follow the current rules. "Having support" does not mean a pacers running the whole course.
+
+| Time | Action | Check |
+|---|---|---|
+| Thursday | Bib collection, timing chip, mandatory kit check | Passport, insurance, Index page |
+| Friday 12:00 | Final proper meal, carbohydrate plus easy protein | No new supplements |
+| Friday 15:00 | Pack, weigh, photograph | Tick every mandatory item |
+| Friday 16:30 | Bag drop, move to the start area | 30 L bag sealed, bib on the outer layer |
+| Friday 18:30 | Final drink, toilet, put on night layer | Headlamp charge, spare battery |
+| Friday 19:45 | Start | Hold back for the first 5 km |
+| Saturday 00:00 | Saint-Gervais | Solid food, check feet and armpits |
+| Saturday 14:15 | Courmayeur | Change socks, swap bag, treat blisters |
+| Sunday 03:30 | Champex | Hot food, caffeine decision, assess cold |
+| Sunday 17:30 | Chamonix finish | Bib visible, accept medical check |
+
+Write "latest arrival" and "three mandatory actions" on the card, not a target pace. At Courmayeur, for example, the latest arrival is 14:15 and the actions are change socks, drink 500 ml, eat 300 kcal and check the headlamp. Binding actions to stations is more useful under fatigue than a pace written on the back of the hand.
+
+## Results, records and course changes
+
+The official results portal archives each year and lets runners check finishes and withdrawals. This page does not copy one year's winning time and call it a "course record", because the course, weather and timing basis can change. The 2026 timing table moved from the earlier 32-point, 176.865 km version to 17 points and 173.6 km. That is a change of basis, not the same geometry measured twice.
+
+| Basis | Distance | Timing points | Use |
+|---|---:|---:|---|
+| 2026 race-page stat block | 174 km | — | Primary public figure |
+| 2026 official timing table | 173.6 km | 17 | Segments, cut-offs and services on this page |
+| Raw parse of 2026 official GPX | 173.83 km | — | Track-length reference, not a replacement for the table |
+| Earlier table, no longer shown | 176.865 km | 32 | Historical comparison only |
+
+When reading a result, ask three questions first: which edition, which timing table, and whether finishers and withdrawals are counted separately. Comparing a 2024 finish directly with the 2026 17-point table turns a change of basis into a change of performance. A course-change year is especially deceptive: a shorter distance does not mean an easier race if climbing and weather are worse.
+
+The results portal also lets you check your own split at every timing point. In a post-race review, compare each segment with the cut-off margin on this page. That shows whether the problem was climbing, descending, time spent at aid, or night pace. Without the splits, staring at the finish time only guarantees that the same mistake returns next time.
+
+
+## Turning the plan into a week
+
+The most stable weekly template is two climbs, one long run, one descent session and the rest easy. Put 45–60 minutes of continuous climbing on Tuesday, a 30-minute climb plus 30-minute descent skills session on Thursday, the long run on Saturday, and 60–90 minutes of recovery running on Sunday. Leave Wednesday and Friday empty or for cross-training. Do not pile all weekly vertical into the weekend; otherwise the long run starts on already tired legs.
+
+Practise long-run fuelling at the spacing the race actually uses, not at an idealised "eat every 5 km" rhythm. UTMB aid gaps range from 4.9 km to 15.6 km. At least once, simulate 15 km and two hours with only the food and water you carry. If every training run returns to a car for a refill within 90 minutes, the first two-hour gap on race day will be a collapse.
+
+Sleep is the most neglected part of the taper. Put sleep on the plan for the final two weeks; it is worth more than one extra 10 km run. At the same time, turn kit checks, bib, transport and bag drop into a list, so race week is not spent searching for missing items.
+
+The final simulation week can be six hours loaded on Saturday, three easy hours on Sunday and only stretching and walking on Monday. A simulation week is not the race; it does not need to last 45 hours. Its job is to test kit, fuelling rhythm and how you feel after a short sleep, not to empty the tank. Leave at least ten days of taper after it, or race-day legs will still be paying the simulation debt.
+
+One final guard against over-planning: the weekly numbers are ranges, not a contract. If a block leaves you unable to complete the next key session, cut the easy volume rather than the climb or the night rehearsal. The course rewards durability and decision-making far more than a perfect spreadsheet.
+
+Keep a simple log of sleep, morning resting heart rate and appetite during the final six weeks. Those three signals usually flag an overload before a training file does, and they are easy to check even when the legs feel fine.
+
+## Crew, pacers and personal assistance
+
+UTMB is not a race that permits pacing throughout. The rules allow one personal assistant at designated aid stations, handing over a bag of no more than 30 litres; pacing or assistance outside marked spectator areas can be penalised. Treating "crew" as "someone waits at every point" leaves you without food on the first 15 km gap with no access. Write the access points, handover bags and withdrawal plan on one sheet for the assistant, rather than relying on mobile messages during the race.
+
+That sheet should also name the person who will call the race office if you fail to leave a checkpoint.
+
+<!-- related-ring -->
+## Related entries
+
+- [Western States 100: the 2026 course in full](/en/routes/western-states/)
+- [CHIANG DAO 160: the 173 km race of the Chiang Mai Major, 48 hours and eight cut-offs](/en/routes/chiang-dao-160/)
+- [Doi Inthanon PAGODA 50-DAY: a race called 50, a course of 57 km, and a loop around Doi Inthanon](/en/routes/doi-inthanon-pagoda-50-day/)

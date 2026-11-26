@@ -108,6 +108,18 @@ The regulations promise “hydration and food, including fruit, from km 5” but
 
 The regulations also say each runner should take only one bottle at the tables, and that ambulances, medical tents, doctors and first-aiders are deployed along the course. For a 16,000-runner city marathon, the bottleneck is not the total aid but the crowd in the first 5 km and the queues after km 30.
 
+## Entry and qualification: corral thresholds and age limit
+
+| Item | Official basis | How this page handles it |
+| --- | --- | --- |
+| Minimum age | 18 on race day | Minors cannot enter; strollers and assistive devices are not allowed |
+| Corral allocation | Ten corrals by result time (P, Elite, 1–8) | Corral times and result bands are in the wave table above; the 2027 rules are not published |
+| 2027 entry | Organiser has not published date, fee or capacity | This page does not add prices or guess deadlines |
+| Para categories | Wheelchair, B1, B2/B3, athletics with assistance, other para | One free guide runner allowed; handbike not permitted |
+| Qualification proof | Rules do not require a previous finish | Follow the official entry page for the edition |
+
+This is a city marathon; preparation and entry basis are in [marathon distance](/en/knowledge/marathon-distance/). Corrals are allocated by result, and the first 5 km are crowded, so the start pace can be pulled on too fast.
+
 ## 5. Kit collection, the VIP exception and para categories
 
 | Item | Official rule | Practical effect |
@@ -125,6 +137,20 @@ The regulations also say each runner should take only one bottle at the tables, 
 Two finish rules are easy to miss: runners must leave the finish chute promptly and may not wait inside it, and warming up in front of the start line can bring disqualification.
 
 Awards are trophies only: top three in the conventional, wheelchair, B1 and B2/B3 categories, with at least five entrants in a category; the regulations publish no prize money. The 2026 elite depth therefore came from performance and records, not from an advertised purse.
+
+## Kit and rules: city marathon clothing and escort boundary
+
+The official rules do not list trail-style mandatory kit; city marathon kit focuses on comfortable finishing and compliance. The verifiable rule boundaries: the bib must stay visible throughout; motorcycles, bicycles, skateboards and roller skates are all forbidden, and supporters cannot cycle alongside; after crossing the line, runners must leave the finish chute promptly and cannot wait in it; warming up before the start line can lead to disqualification.
+
+| Category | Race-day scenario | Pre-start check | Boundary |
+| --- | --- | --- | --- |
+| Race clothing | Early morning 6–10 °C, late morning up to 25–26 °C | Breathable layers, a discardable morning layer | This page does not recommend specific brands |
+| Shoes and socks | City asphalt, turns and junctions | Broken-in race shoes; no new shoes | Race shoes should be tested in training first |
+| Hydration strategy | Water and isotonic every 2.5 km | Carry salt and energy supplies; bananas only at 20 and 30 km | One bottle per station visit |
+| Bib and timing | Visible throughout; hand in on withdrawal | Bib position, chip status | Rules follow the edition's official regulations |
+| Sun protection | Little shade at Puerto Madero and La Boca | Cap or visor, sunscreen, sunglasses | Reapply on exposed sections |
+
+The generic running kit framework is in [trail gear](/en/knowledge/trail-gear/); pre-race morning routine is in [race morning protocol](/en/knowledge/race-morning-protocol/). Penalties and unread clauses follow the official regulations; this page does not fill them in.
 
 ## 6. Weather: September is not automatically cool
 
@@ -221,6 +247,38 @@ As of 20 November 2026, the official home page is still on 2026 and has no 2027 
 
 For planning, only three things are established: the 2026 route skeleton, the 2026 corral system and 13:00 close, and the course's dependence on flat ground and a cool dawn. The 2027 date, entry window, price and corrals should wait for the official update.
 
+## Training conversion: city marathon preparation
+
+Buenos Aires is a 42.195 km city asphalt loop with many turns, junctions and narrow streets, and little shade late in the race. Preparation centres on marathon-pace endurance, long-run break-in and warm-weather tolerance, not weekly mileage alone. General methods are in [marathon distance](/en/knowledge/marathon-distance/), [ultra-trail training plan](/en/knowledge/trail-ultra-training-plan/), [recovery day](/en/knowledge/recovery-day/) and [load and overtraining](/en/knowledge/load-and-overtraining/).
+
+| Phase | Focus | Practical content | Race-day constraint |
+| --- | --- | --- | --- |
+| T-16 to T-10 weeks | Aerobic base | Easy runs plus one tempo run a week; gradually extend long runs | The city course needs a steady aerobic base |
+| T-10 to T-6 weeks | Long run and pace | Long run to 30–36 km; run segments at target pace | Many turns break the pace at junctions |
+| T-6 to T-2 weeks | Fueling and heat adaptation | Test race fueling and salt plan; one warm long run | Late race heats up by late morning with little shade |
+| T-2 to race | Taper | Shorten distance, keep short rhythm; no new shoes or kit | Recover fatigue before race day; see [taper and strength](/en/knowledge/strength-and-taper/) |
+
+Boundary: this is a generic preparation framework, not medical advice. Runners with pre-existing cardiopulmonary conditions or recent injuries should consult a doctor first. Whether a runner can finish a marathon also depends on previous longest distance and training recovery.
+
+## Race-day execution card: five-segment rhythm and cut-off buffer
+
+| Segment | Mile window | Rhythm and fueling | Check |
+| --- | --- | --- | --- |
+| Palermo start | 0–13 km | Hold back; do not get pulled along by the crowd | Record the first 5 km pace; start in your corral |
+| Recoleta and downtown | 13–22 km | Many turns; hold rhythm, do not surge with crowds | Watch junctions; hydrate to station rhythm |
+| Plaza de Mayo and Puerto Madero | 22–30 km | Little shade; watch water and salt | Bananas at 20 and 30 km; steady before the late-morning heat |
+| La Boca | 30–35 km | Narrow streets and turns; control steps on tired legs | Aid queues are long; leave time |
+| Back to Palermo | 35–42.195 km | The finale has small rises and turns, not a straight sprint | Hard 13:00 close; later corrals have less buffer |
+
+| Red flag | On-site action | Boundary |
+| --- | --- | --- |
+| Dizziness, palpitations, chest pain, blurred vision | Stop, seek help, call medical if needed | This page does not diagnose; cardiac emergency recognition and call follow on-site first-aid standards |
+| Heat illness, worsening cramping, nausea | Cool down, replace water and salt, use a station | This page does not provide medical diagnosis |
+| Muscle strain or severe joint pain | Slow down or drop; report to staff | Do not push through to finish |
+| Later corral approaching the cut-off | Assess remaining distance and buffer; drop if needed | The close cannot be exceeded under any circumstance |
+
+Race-day rhythm and fueling framework are in [race-day pacing](/en/knowledge/race-day-pacing/); pace comparison is in the [pace tool](/en/tools/pace/).
+
 ## 12. Images and rights
 
 This page carries no official race photograph, race-day photograph or map screenshot. The official 2024 course map and race photographs are not openly licensed for redistribution, so the map is linked only and not re-hosted. The local, redistributable media are three city-landmark photographs and two editorial graphics; none is a 2026 race-day photograph.
@@ -253,3 +311,10 @@ Race names, logos, the official course map and race photographs remain with the 
 - Wikimedia Commons, Caminito photograph: `https://commons.wikimedia.org/wiki/File:Calle_Caminito_in_La_Boca,_Buenos_Aires-2.JPG` (Lars Curfs (Grashoofd), CC BY-SA 3.0 NL, 15 February 2014, 5,184×3,456; structured location Caminito; location view, not race-day).
 
 Not verified or not used: a 2026-specific course map, GPX, total climb, humidity, 2027 date and entry, prize money. The official page still treats 2026 as the next edition; every 2027 judgement waits for the official update.
+
+<!-- related-ring -->
+## Related entries
+
+- [Canyons Endurance Runs by UTMB: 100 km on the Western States Trail into Auburn](/en/routes/canyons/)
+- [Cape Town Marathon: Africa's first World Marathon Major from 2027, and its two-start city course](/en/routes/cape-town/)
+- [GPT100 Miler: 163 km down the spine of the Grampians from Mt Zero to Dunkeld](/en/routes/gpt100-miler/)

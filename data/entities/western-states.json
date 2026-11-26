@@ -19,7 +19,11 @@
     "route-western-states-openmeteo-olympic-valley-2026",
     "route-western-states-commons-2026",
     "photo-western-states-finish",
-    "route-anchor-editorial"
+    "route-anchor-editorial",
+    "route-western-states-lottery-2027",
+    "route-western-states-entry-process-2027",
+    "route-western-states-qualifying-2027",
+    "route-western-states-pacer-rules-2027"
   ],
   "relatedRefs": [
     "knowledge:long-run-fueling",
@@ -28,9 +32,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-11-20",
-  "reviewedAt": "2026-11-20",
-  "reviewDueAt": "2027-05-30",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
   "details": {
     "raceType": "trail-ultra",
     "countryCodes": [

@@ -1,0 +1,32 @@
+{
+  "sourceId": "route-leadville-deferral",
+  "title": "Deferral Policies — Leadville Race Series (LT100 Run entry deferral, refund and cancellation terms)",
+  "url": "https://www.leadvilleraceseries.com/deferral-policies/",
+  "publisher": "Life Time Leadville Race Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "A race entry can be deferred only one time and only to the following year's event; all fees are non-refundable and registrations are not transferable.",
+    "To use a deferral the athlete must re-register during the designated deferral window and pay 100% of that year's published entry fee; the original registration fee is not refunded or transferred.",
+    "The LT100 Run deferral deadline was August 21, 2026 at 11:00 a.m. MST (start of expo); 2027 deferral registration runs November 1-15, 2026.",
+    "Deployed or recalled active-duty military may qualify for a refund or complimentary deferral with proof of orders; pregnant or postpartum participants may qualify with an authorized medical note; for an approved deferral the original paid entry fee transfers in full to the following year.",
+    "No refunds or changes are permitted for transactions more than 365 days old; add-ons, merchandise and donations are nonrefundable and final.",
+    "If Life Time cancels an event, registered participants may defer to the following year at no additional entry fee, or request a partial refund: 70% at 90 or more days out, 50% at 60-89 days, 40% at 30-59 days; service fees, merchandise and donations are nonrefundable."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 Deferral Policies 页正文",
+    "note": "2026-11-25 复核：读取通用延期段、LT100 MTB & Run 段、特殊人群条款、365 天条款、赛事取消退款段。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "通用段：defer one time, following year only；non-refundable, not transferable。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "LT100 MTB & Run 段：re-register in window, pay 100% of next year fee；original fee not refunded/transferred。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Deferral deadlines：LT100 Run August 21, 2026 11:00 a.m. MST；页首 2027 deferral registration Nov 1-15, 2026。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Additional terms：military orders、pregnant/postpartum medical note；approved deferral fee transfers in full。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "Additional terms：365 days；add-ons/merch/donations final。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "If Life Time Cancels an Event 段：deferral 或 70/50/40% 分档退款；service fees 等不退。" }
+  ]
+}

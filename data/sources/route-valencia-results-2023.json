@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-valencia-results-2023",
+  "title": "Ranking 2023 — 43rd Valencia Marathon official results page",
+  "url": "https://www.valenciaciudaddelrunning.com/en/marathon/2023-marathon-ranking/",
+  "publisher": "S.D. Correcaminos",
+  "publishedAt": "2023-12-03",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 43rd Valencia Marathon was held on 3 December 2023 at 08:15 over 42.195 metres.",
+    "Men's podium: Sisay Lemma (ETH) 2:01:48; Alexander Mutiso (KEN) 2:03:11; Dawit Wolde (ETH) 2:03:48.",
+    "Women's podium: Worknesh Degefa (ETH) 2:15:51; Almaz Ayana (ETH) 2:16:22; Hiwot Gebrekidan (ETH) 2:17:59.",
+    "Recorded on the ranking page: exit weather 7°C, 64% humidity, 10 km/h wind; finish weather 9°C, 52% humidity, 10 km/h wind."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官网 2023 ranking 页概览",
+    "note": "名次、成绩、国籍与现场天气取自官方排名页；2:01:48 为男子赛道纪录（规则页奖金条款同口径）。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "43rd, Day/Hour 03-12-2023 8:15AM, Distance 42.195 metros。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Male：LEMMA 2:01:48 ETH；MUTISO 2:03:11 KEN；WOLDE 2:03:48 ETH。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Female：DEGEFA 2:15:51 ETH；AYANA 2:16:22 ETH；GEBREKIDAN 2:17:59 ETH。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Exit 7º 64% 10km/h；Finish 9º 52% 10km/h。" }
+  ]
+}

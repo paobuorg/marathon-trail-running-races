@@ -57,6 +57,22 @@ What the table does and does not settle:
 
 The purpose of the table is not to let a reader pick the "most accurate" number. It is to show which official document each number belongs to. Entry pages, route maps, profiles and results pages each answer a different part of the question; stitching them into one tidy number would hide the boundaries of the official record.
 
+## Entry and eligibility
+
+- Age: the marathon requires runners to be 18 on race day (official FAQ).
+- Bibs: all entries are non-transferable; running in another runner's bib leads to disqualification.
+- Timing: gun-to-mat for elites, mat-to-mat (net time) for all other participants.
+- Entry fee, ballot, qualification standards and wait-list places: not published in the FAQ, spectator guide or pre-race bulletin checked this round. Open dates, allocation and refund terms follow the current official entry page; this page does not estimate them.
+- The 2027 marathon is set for 23 May 2027; the 2026 race was on 24 May 2026.
+
+| Item | Official basis | Status |
+|---|---|---|
+| Age limit | 18 on race day | Verified in FAQ |
+| Transferability | Non-transferable; bib-swapping disqualified | Verified in FAQ |
+| Timing | Gun timing for elites, net time for others | Verified in FAQ |
+| Fee / ballot / qualifying time | Not published | Insufficient evidence; check the current entry page |
+| 2027 date | 2027-05-23 | Verified in FAQ |
+
 ## Segments
 
 The organiser does not publish named "segment 1, segment 2" splits, but the route map marks 5, 10, 15, 20, 25, 30, 35 and 40 km, and gives the kilometre position of 10 cut-off points. The six segments below follow those official kilometre points and the terrain changes. **Per-segment ascent and descent are not published**, so every cell in the gain/loss column says "not published" rather than spreading the total climb proportionally.
@@ -117,6 +133,19 @@ Points that matter beyond the table:
 - **The Woolworths food station is not a water station.** It sits before 24 km, between Hydration Stations 8 and 9, and the organiser gives no exact kilometre. Treat it as a separate node, not as "station 8".
 - **Medical and first-aid kilometres are not published.** The 2024 guide gives only the counts, not the locations; the 2026 pages do not repeat them. Do not assume every hydration station has medical cover.
 - **Cut-offs are enforced.** The 2024 instructions say roads must reopen on time and that mini sweep buses patrol the route while mega sweep buses collect runners at cut-off points. The 2026 final cut-off is 15:50; runners still on the course after that are not allowed to continue.
+
+## Kit and rules
+
+The organiser publishes no trail-style mandatory kit list for this road marathon. The hard rules checked this round are the two below; the rest follows normal road-marathon practice.
+
+| Item / rule | Official basis | Status |
+|---|---|---|
+| Hydration packs / vests | Permitted | Verified in FAQ |
+| Headphones of any description | Not permitted | Verified in FAQ |
+| Trail mandatory kit (reservoir volume, blanket, first-aid kit list) | Not published | This page does not draft a list |
+| Footwear | Road surface throughout, no trail terrain requirement | Derived from the official course definition |
+
+Further rules are listed under "Risks and escape points": bibs are non-transferable, and the English official pages are the governing text. Whether kit checks run at the start and how failures are handled are not stated in this round's materials.
 
 ![Victoria Road during the 2026 Cape Town Marathon](/media/routes/cape-town/victoria-road-2026.jpg)
 
@@ -201,6 +230,57 @@ From those conditions: a sub-3-hour runner's main risks are going out too fast i
 
 The site's [pace calculator](/en/tools/pace/) converts a target time into average pace; the [split table](/en/tools/splits/) can divide 42.2 km into 5 km or 10 km segments. For the training meaning of the marathon distance, read [the marathon distance](/en/articles/marathon-distance/). These tools do arithmetic; they do not replace the official cut-off table. Any split plan must treat the route-map cut-offs as hard limits.
 
+## Training transfer
+
+This is a road marathon: elevation 8–41 m, no altitude issue; 215 m total ascent, 209 m total descent, 21 km uphill running, 20 km downhill running and 1 km flat. The training pressure is not climbing strength but the late position of the Company Gardens climb, the wind exposure on the Sea Point out-and-back, and the warmer part of a May day reached by later runners.
+
+The table below converts five target finishes into average pace over 42.2 km. Pace is a straight arithmetic average without climb or wind adjustment; the route-map cut-offs remain the hard limits.
+
+| Target finish | Total time (min) | Average pace (min:sec / km) | Margin to the 6.5 h cut-off |
+|---|---:|---|---|
+| 3:30 | 210 | 4:59 | ample |
+| 3:45 | 225 | 5:20 | ample |
+| 4:00 | 240 | 5:41 | ample |
+| 4:30 | 270 | 6:24 | 2 h |
+| 5:00 | 300 | 7:07 | 1.5 h |
+
+- Endurance: build road-marathon mileage; this page does not set weekly mileage, which belongs to an individual training plan.
+- Late climb: the Company Gardens at 30.7–32.1 km are the longest and steepest climb; the last 5 km of long runs should carry effort or hill work to simulate tired legs past 30 km.
+- Wind exposure: the 36.3–41.4 km Sea Point stretch is exposed; long runs in windy conditions help judge pace loss into a headwind.
+- This page is not a training plan and does not replace a coach or medical assessment.
+
+## Race-day execution card
+
+- Confirm batch, wave and start area first. The two starts converge near the corner of Fritz Sonnenberg Road and Beach Road; wave timing ensures the last runner of a wave has passed the convergence before the next wave is released. A wrong start or wave goes wrong at the line itself.
+- Start order (2026 bulletin): wheelchair 07:50; elites 08:00; Age Group World Championships 08:05; five waves from 08:10 to 09:06.
+- Transport: Park & Ride first bus 04:00, last bus 04:30 (UCT / Theo Marais / Century City) or 05:00 (CTICC / Civic Centre); free shuttles to the start run 05:30–06:45.
+- Aid: 15 hydration stations roughly every 3 km; 13 serve water, Coke, Coke No Sugar and Powerade, 2 serve water only; the Woolworths food station sits before 24 km, between Stations 8 and 9.
+- Cut-offs: the 6.5-hour clock starts when the final runner crosses the start mat; the finish closes at 15:50; the 10 point times are in "Aid stations and cut-offs".
+
+| Branch | Situation | Action |
+|---|---|---|
+| If the first 20 km are faster than target | Congested pack, wind unknown | Hold the target pace; keep margin for after 30 km |
+| If legs are heavy at the Company Gardens (~30.7 km) | Late climb ahead | Shorten stride, drink and fuel; do not surge on the climb |
+| If heat or warmth builds | Five misting zones are set up when temperatures are high | Use the misting zones, ease pace, do not push through |
+| If a cut-off approaches before arrival | Margin under 10 min | Follow sweep procedure with marshals or sweep buses; do not cross closed roads |
+| If solid food is needed | Food station before 24 km | Count it as a separate node, not a water station |
+
+## Results and course changes
+
+The official 2026 post-race report (race day 2026-05-24) published the winners and records below. These are elite results for that day, not a statement of ordinary entrants' conditions.
+
+| Division | 2026 winner | Time | Record status | Previous course record |
+|---|---|---:|---|---|
+| Men | Mohamed Esa | 2:04:55 | New record | 2:08:16 (Abdisa Tola, 2024) |
+| Women | Dera Dida | 2:23:18 | Record not broken | 2:22:22 (Glenrose Xaba, 2024) |
+| Men's wheelchair | David Weir | 1:30:20 | New record | 1:32:09 (Gert Schipper, 2023) |
+| Women's wheelchair | Manuela Schär | 1:43:25 | New record | 1:52:58 (Eden Rainbow-Cooper, 2023) |
+
+- The first ten men all finished inside the old course record; the organiser describes Esa's time as the fastest marathon ever run on African soil and a new South African all-comers record.
+- Women's second: Mestawut Fikir 2:23:46; third: Waganesh Amare 2:23:57. Eliud Kipchoge was 16th in 2:13:29.
+- Route and date changes: the official 2024 page listed 19–20 October 2024; the 2025 race could not go ahead; 2026 moved to 24 May and 2027 is set for 23 May. No past-edition handbook was obtained, so earlier reroute history is unverified; `courseChanges` is an empty array, not a claim that no changes ever occurred.
+- Historical finisher counts, finish rates and full winners' lists are not in this round's official materials; this page does not list them.
+
 ## Verified and unverified
 
 This page has not been run on the ground, so the two are kept strictly apart:
@@ -245,3 +325,10 @@ The page cites 16 new sources, covering these types:
 The official route map, profile and PDF are not redistributed here; the page links to the organiser's pages. Event names, marks and official text remain the property of the Sanlam Cape Town Marathon. Open-Meteo data are attributed under CC BY 4.0. Each image's author and licence are stated with its caption; they are not covered by this page's CC BY 4.0; check the Commons file page before reuse, and it is not covered by this page's CC BY 4.0.
 
 This page is neither a training plan nor medical advice. It arranges official facts into a complete, checkable course file. Race-day routes can change because of construction, weather or safety arrangements; the organiser's current notices remain the final authority.
+
+<!-- related-ring -->
+## Related entries
+
+- [GPT100 Miler: 163 km down the spine of the Grampians from Mt Zero to Dunkeld](/en/routes/gpt100-miler/)
+- [Kodiak Ultra Marathons by UTMB: a 100-mile mountain race at Big Bear Lake](/en/routes/kodiak/)
+- [Lewa Safari Marathon: a conservancy loop race guide (2027 basis)](/en/routes/lewa-safari-marathon/)

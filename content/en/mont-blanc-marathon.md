@@ -128,6 +128,33 @@ The official page has no separate split table, only 42 km, 2,540 m D+/- and thre
 
 The official page gives "estimated passing times" but no per-point clock times in the pages read; this page does not use 2026 results as 2027 split targets or turn the average 60 m/km into per-segment climb.
 
+## Timing and cut-offs: the four checkpoints
+
+The cut-offs are counted from the last wave's start, not from one fixed clock time; the finish cut-off is each wave's own start plus 10:00, so later waves have a later absolute finish time. The table pairs the three mid-course barriers published by the organiser with the finish. Cumulative distances come from the race page; the remaining margin is this page's subtraction of distance and time from the totals.
+
+| Checkpoint | Cumulative | Cut-off (after last wave) | Remaining distance / time |
+| --- | ---: | ---: | ---: |
+| Tour | 13.5 km | 2:45 | 28.5 km / 7:15 |
+| Vallorcine | 23.5 km | 5:30 | 18.5 km / 4:30 |
+| La Flégère | 34.2 km | 8:30 | 7.8 km / 1:30 |
+| Chamonix finish | 42.0 km | 10:00 after each wave start | — |
+
+Runners arriving after a cut-off are disqualified and their bib corner is cut; they are no longer treated as participants. The official page adds that if they keep going on the course, the bib is collected and they are no longer the organiser's responsibility. No unified sweep-vehicle time is published, and whether the 2027 barriers move is unknown here.
+
+## Aid, logistics and crew/pacer support
+
+The 42 km is defined as a semi-autonomous trail, with three full feed stations plus one finish feed station — a structure different from the drop-bag and transfer framework of a long ultra. The pages read do not list the specific food and drink at each station, and no mid-race drop bag or transfer point is published; both are unknown here.
+
+| Logistics point | Cumulative | Verified arrangement | Unverified |
+| --- | ---: | --- | --- |
+| Tour aid station | 13.5 km | One of the listed mid-course feed stations | Food and drink offered |
+| Vallorcine aid station | 23.5 km | One of the listed mid-course feed stations | Food and drink offered |
+| La Flégère aid station | 34.2 km | Listed mid-course feed station; cable-car access | Cable-car race-day hours |
+| Finish feed | 42.0 km | Finish feed station | Post-race recovery area |
+| Start shuttles | 0 km | Boarding at Vallorcine, Saint-Gervais–Le Fayet station and Les Houches | Road-closure timetable, parking capacity |
+
+On crew and pacers: the rules pages read publish no pacer rule and no roadside crew zone. The semi-autonomous kit list requires a phone, 1 litre of water, survival blanket, cup, whistle and cash. This page does not write that pacers are allowed or banned; it records only that the organiser has not published a rule. Transport logistics are covered under "Getting there and weather": free buses, shuttles and trains run on race day, with separate spectator routes following the course.
+
 ## Withdrawal and risk
 
 - **Difficulty (editorial judgement, not an official grade):** 42 km and 2,540 m of climb; short does not mean easy. The technical Posettes descent, the long descent before La Flégère and June alpine weather together set the real load.
@@ -279,6 +306,34 @@ This photograph was taken at 07:00:55 on 1 July 2018, at the start of the Mont-B
 
 The image is a start scene from the 2018 edition only. It does not represent the 2027 start layout, course, field size or elite list; bibs, sponsors and barrier positions in the photograph cannot be used to infer 2027 rules. Official images still carry no reuse licence, so this is the only Commons photograph used here and no official image is embedded; the page only links the official 2025 map and profile PDFs. This page now has one local image, one of the 28 route photographs in the library.
 
+## Training transfer
+
+At 42 km with 2,540 m of climbing, this mountain marathon averages about 60 m of ascent per kilometre, with a fast rolling opening, the technical Posettes section and a descent facing the massif. The table breaks the course demands into trainable abilities; it lists training directions, not an official plan.
+
+| Ability | Course demand | Preparation direction |
+| --- | --- | --- |
+| Long-distance endurance | Daylight finish inside the 10-hour limit | Extend the [long run](/en/knowledge/long-run/) gradually, keeping one late mountain long session near the target duration |
+| Climbing load | 2,540 m concentrated on the Posettes | Build vertical load on climb sessions; do not stack flat mileage alone |
+| Downhill tolerance | The long descent before La Flégère loads the quads | Add downhill running and strength work; keep quad reserve for race-day descents |
+| Pace control | Runnable opening, difficulty later | Follow [race-day pacing](/en/knowledge/race-day-pacing/), hold back on the opening and do not spend the easy first half |
+| Fuelling execution | Three mid-course stations, semi-autonomous | Test gels and drinks in training per [long-run fuelling](/en/knowledge/long-run-fueling/); do not try a new product on race day |
+| Recovery | Muscle and fatigue after a mountain race | Use a [recovery day](/en/knowledge/recovery-day/) taper after the event; do not stack high intensity back to back |
+
+Use the [pace calculator](/en/tools/pace/) and [split table](/en/tools/splits/) to break a target time into kilometres; these tools do arithmetic only and do not replace mountain training. The organiser advises runners below a UTMB performance index of 350 that their finish chances are very small; that is a level reference, not an entry threshold.
+
+## Race-day execution card
+
+The table below follows the four course segments. Cut-off references come from "Timing and cut-offs"; the pacing notes are editorial judgement, not official split targets.
+
+| Phase | Distance | Execution notes | Cut-off reference |
+| --- | ---: | --- | --- |
+| Rolling opening | 0–13.5 km | Start at the lower end of target pace; do not get pulled along by elites and crowds; carry 1 litre and keep the cup with you | Tour 2:45 |
+| Before the Posettes | 13.5–23.5 km | Refill and take gel at Tour; watch leg state; keep reserve for the technical climb | Vallorcine 5:30 |
+| Posettes climb and descent | 23.5–34.2 km | Do not force the technical slope; pick descent footfalls; slow early if the quads complain | La Flégère 8:30 |
+| Closing descent to finish | 34.2–42.0 km | Hold rhythm on the massif-facing descent; stop chasing pace; sort kit after the finish | 10:00 after each wave |
+
+Check the seven mandatory items before the start: working phone, at least 1 litre of water, hooded waterproof jacket, 140 x 200 cm survival blanket, cup, whistle and cash. Ridge weather in June differs from the town-centre climate; the waterproof jacket and blanket are not optional. If you decide to drop at a station, report to the captain and hand in bib/chip; after La Flégère do not cut down along the cable-car line.
+
 ## Verified and unverified
 
 Verified: the 2027 dates of 24–27 June; the 42 km starts at 06:45 and 07:15 on 27 June; the organiser Club des Sports de Chamonix; the 1979 and 2003 history points; 42 km and 2,540 m D+/-; 2,300 runners; 6 waves; 10 hours; the seven mandatory items; the four cut-offs; GTWS membership until 2024; the 2026 men's top five and women's winner; the 2013/2017/2018 UTMB database times; the 2026 entry structure; the free race-day shuttles and three boarding areas; the Chamonix Mobilité lines and Mont-Blanc Express section; the €7 three-day pass; the Chamonix June climate statistics.
@@ -302,3 +357,10 @@ Unverified: the 2027 edition number; the 2027 fee and phases; the 2027 start and
 13. Wikimedia Commons 2018 42 km start photograph (author David Gonthier / Club Chamonix, CC BY-SA 4.0, 2018-07-01 07:00:55, original 5,201×3,467; checked against the file page and preview on 21 November 2026): https://commons.wikimedia.org/wiki/File:20180701_(c)DavidGonthier_0095.jpg
 14. Official 2025 42 km route-map PDF (one page, IGN topographic base; normal route in green and bypass in yellow; Chamonix, Les Bois, Lavancher, Argentière, Le Tour, Vallorcine, La Flégère and time barriers marked; full PDF read on 21 November 2026): https://www.marathonmontblanc.fr/sites/default/files/2025-06/parcours%2042km%202025%20public%20copie.pdf
 15. Official 2025 42 km profile PDF (one page, 1,000–2,200 m altitude against 0–42 km distance; Le Tour 1,465 m, Aiguillette des Posettes 2,200 m, Vallorcine 1,276 m, Le Béchar 1,700 m, La Flégère 1,894 m; time-barrier and refreshment legend; full PDF read on 21 November 2026): https://www.marathonmontblanc.fr/sites/default/files/2025-05/profil%2042Km.pdf
+
+<!-- related-ring -->
+## Related entries
+
+- [South Downs Way 100: 100 miles along the South Downs Way, from Matterley Bowl to Eastbourne](/en/routes/sdw100/)
+- [Sierre-Zinal: 31 km and 2,200 m beneath five 4,000 m peaks](/en/routes/sierre-zinal/)
+- [Tor des Géants 330: a Courmayeur alpine loop](/en/routes/tor-des-geants/)

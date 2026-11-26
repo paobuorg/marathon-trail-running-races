@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-lewa-results-2025",
+  "title": "Mercy Kwambai back-to-back champion — official 2025 results and edition post",
+  "url": "https://www.lewa.org/mercy-kwambai-reigns-supreme-again-back-to-back-lewa-safari-marathon-champion/",
+  "publisher": "Lewa Wildlife Conservancy",
+  "publishedAt": "2025-06-30",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2025 event was the 25th edition, with an estimated 1,400 participants.",
+    "Full marathon men's winner: Samson Lemayan; women's winner: Mercy Kwambai, defended her title in 2 hours 47 minutes.",
+    "Half marathon men's winner: Michael Kamau; women's winner: Mary Waithera.",
+    "Executive 10 km men's winner: Reuben Ng'ang'a; women's winner: Sara Van Der Laan; Junior 5 km winners: Collins Muthee and Sylvia Akoron.",
+    "The men's full-marathon winning time and a full finisher list are not published in this article."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 2025 官方结果公告",
+    "note": "25 届与 1,400 人为官方公告口径。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "25th edition；1,400 participants in 2025。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Samson Lemayan men's title；Mercy Kwambai 2:47 back-to-back。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Half: Michael Kamau men；Mary Waithera women。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "10K: Reuben Ng'ang'a、Sara Van Der Laan；5K: Collins Muthee、Sylvia Akoron。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "男子全马时间与完整名单未公布。" }
+  ]
+}

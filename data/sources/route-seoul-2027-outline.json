@@ -1,0 +1,32 @@
+{
+  "sourceId": "route-seoul-2027-outline",
+  "title": "2027 Seoul Marathon — official race outline (97th Dong-A Marathon)",
+  "url": "https://en.seoul-marathon.com/83",
+  "publisher": "Seoul Marathon Organizing Committee (The Dong-A Ilbo)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The English official site lists the 2027 event as the 97th Dong-A Marathon.",
+    "The 2027 race date is Sunday, 21 March 2027.",
+    "The Full Marathon gathers at Gwanghwamun Square and the 10 km at the Jamsil Sports Complex; both are marked scheduled (tentative) on the outline.",
+    "Registration opens on Tuesday 1 September 2026 at 10:00 KST; places are assigned on a first-come, first-served basis by payment order.",
+    "The race is presented as a World Athletics Platinum Label road race and a World Athletics Heritage Site competition.",
+    "On the 2027 English site the course map, race schedule and pack pickup pages are still marked TBD."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 en.seoul-marathon.com/83 官方 2027 大纲页正文",
+    "note": "大纲页日期、届次、集合地点与开放时间可读；course/schedule/pickup 页面标注 TBD。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "2027 Race Information：97th Dong-A Marathon" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Date: Sunday, March 21, 2027" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Marathon Gather: Gwanghwamun Square (Scheduled)；10km Gather: Jamsil Sports Complex (Scheduled)" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Registration Period: Tuesday, September 1, 2026 10:00 KST；first-come by payment order" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "页首 Platinum Label 与 Heritage Site 徽章" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "Course Map / Race Schedule / Pack Pick-up 页体均显示 TBD" }
+  ]
+}

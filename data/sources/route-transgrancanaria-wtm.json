@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-transgrancanaria-wtm",
+  "title": "The North Face Transgrancanaria — World Trail Majors activity page",
+  "url": "https://worldtrailmajors.com/acitivities/the-north-face-transgrancanaria/",
+  "publisher": "World Trail Majors",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "World Trail Majors lists The North Face Transgrancanaria as a WTM Classic race of 126 km with +6,764 m, and the Marathon as a 47 km Short Series race with +1,784 m.",
+    "The WTM page gives the first edition as 2003 and describes Transgrancanaria as the first ultra race in Spain.",
+    "The WTM page records about 3,500 total participants and the 2027 race dates as 2027/02/22-28, located in Maspalomas, Gran Canaria.",
+    "The WTM page lists notable previous winners including Pau Capell, Sebastian Chaigneau, Caroline Chaverot, Courtney Dauwalter, Ryan Sandes and Andreu Simon, among others."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-26",
+    "note": "2026-11-26 直取 WTM 活动页，读取数据块 First Edition / WTM Classic / Short Series / Other races / Total participants / Dates / Location / Notable previous winners。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-26", "note": "数据块：World Trail Majors (Classic) 126 km/+6764 m；Short Series by World Trail Majors (Marathon) 47 km/+1784 m" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-26", "note": "数据块 First Edition: 2003；正文 First run in 2003, Transgrancanaria was the first ultra race in Spain" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-26", "note": "数据块 Total participants: 3500；Dates: 2027/02/22-28；Location: Maspalomas, Gran Canaria" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-26", "note": "数据块 Notable previous winners 名单逐名列出上述选手；本页不把名单写成 2027 参赛名单" }
+  ]
+}

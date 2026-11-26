@@ -1,0 +1,70 @@
+{
+  "entityId": "route:paris-marathon",
+  "slug": "paris-marathon",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-paris-2026-rules",
+    "route-paris-2027-faq",
+    "route-paris-2027-homepage",
+    "route-paris-2026-elite-news",
+    "route-paris-2026-fields-news",
+    "route-paris-course-presentation",
+    "route-paris-refreshments-2026",
+    "route-paris-bib-retrieval",
+    "route-paris-first-marathon",
+    "route-paris-traffic-mairie08",
+    "route-paris-results-2026-wa",
+    "route-paris-results-portal",
+    "route-paris-results-2025-wa",
+    "route-paris-results-2024-wa",
+    "route-paris-2025-prerace-pdf",
+    "route-paris-openmeteo",
+    "route-paris-race-day-recap",
+    "route-anchor-editorial"
+  ],
+  "relatedRefs": [
+    "knowledge:marathon-distance",
+    "knowledge:race-day-pacing",
+    "knowledge:race-day-fueling",
+    "tool:race-predict",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "road-marathon",
+    "countryCodes": [
+      "FR"
+    ],
+    "placeName": {
+      "zh-CN": "法国巴黎",
+      "en": "Paris, France"
+    },
+    "mapAnchor": {
+      "longitude": 2.3522,
+      "latitude": 48.8566,
+      "kind": "overview",
+      "sourceRef": "route-anchor-editorial"
+    },
+    "courseVersion": "2027-paris-course-unknown",
+    "courseEdition": "2027",
+    "courseStatus": "unknown",
+    "courseChanges": [],
+    "direction": "2026 届：香榭丽舍大街（凯旋门附近）出发，经巴黎市中心、文森森林与布洛涅森林环线，终点福煦大道（多芬门附近）；2027 届起终点官方尚未公布。2026: start on the Champs-Élysées near the Arc de Triomphe, loops through central Paris, the Bois de Vincennes and the Bois de Boulogne, finish on Avenue Foch near Porte Dauphine; 2027 start/finish yet to be announced.",
+    "distanceMeters": 42195,
+    "distanceMethod": "Official rules: 42.195 km run on closed roads under World Athletics road-race regulations",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "A.S.O. (2026 Schneider Electric Paris Marathon); 2027 ASICS Marathon de Paris organizer details to be published"
+  }
+}

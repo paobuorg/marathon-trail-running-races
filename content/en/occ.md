@@ -63,6 +63,22 @@ The time limit is not a contradiction but a **wave basis**. The 2026 race starte
 
 [![OCC 2026's three official distance bases: the 60 km / 3,500 m+ header, the 61.4 km / +3,342 / −3,222 m timing table and the official GPX's locally measured 60.14 km / +3,342 / −3,221 m; below, two time bars compare the last wave's 14 h 30 from 09:00 to 23:30 with the first wave's 15 h 15 from 08:15 to 23:30. Bars are schematic, not a map, elevation profile or race plan](/media/routes/occ/occ-distance-and-time-frames.svg)](/media/routes/occ/occ-distance-and-time-frames.svg)
 
+## Timing and cut-offs
+
+The 2026 race ran in four waves: Top Elites / Elites / OCC1 at 08:15, OCC2 at 08:30, OCC3 at 08:45, OCC4 at 09:00. With multiple waves, the maximum time and cut-off are calculated from the last wave (09:00): 09:00 → 23:30 is 14 h 30; the first wave 08:15 → 23:30 is 15 h 15.
+
+| Point | Cumulative distance | Cut-off | Time from last-wave start | To next cut-off |
+|---|---:|---|---:|---|
+| Plan de l'Au | 12.2 km | 11:30 | 2.5 h | 11.7 km / 3.0 h to Trient |
+| Trient | 23.9 km | 14:30 | 5.5 h | 9.6 km / 3.25 h to Col de Balme |
+| Col de Balme | 33.5 km | 17:45 | 8.75 h | 17.0 km / 3.5 h to Argentière |
+| Argentière | 50.5 km | 21:15 | 12.25 h | 10.8 km / 2.25 h to finish |
+| Chamonix | 61.4 km | 23:30 | 14.5 h | — |
+
+- Champex-Lac (7.3 km) and the Orsières start carry no cut-off.
+- At the five cut-off points, the official Slowest column is later than the cut-off at every one; Slowest is a reference time, not a second cut-off, and must not be planned against.
+- A cut-off is a departure time; details follow the 2026 rules snapshot.
+
 ## Seven checkpoints and sections
 
 The table below reproduces the timing table read on 2026-11-08. Cumulative distance, altitude, Fastest, Slowest and cut-off are read directly; section distance, gain and loss are calculated by subtracting adjacent cumulative values.
@@ -166,6 +182,40 @@ OCC's entry standard is a UTMB Index category plus Running Stones, not a 50K fin
 
 Do not pace off the winner's 5:10:08. The first 7.3 km to Champex-Lac climb 654 m, then 11.7 km to Trient still include +805 / −841 m; the real gate is Trient to Col de Balme, 9.6 km with +1,080 m, followed by Tête de Balme at 2,321 m. Col de Balme closes at 17:45 and Argentière at 21:15, and the final 10.8 km still include +187 / −407 m. A 30–45 minute margin at each point is more useful than working back from total time.
 
+## Training transfer
+
+This is a 50K-border-crossing mountain race: timing table 61.4 km, +3,342 / −3,222 m, about 54 m per kilometre; high point Tête de Balme 2,321 m, crossing the Swiss-French border twice. The training focus is sustained mountain climbing, long descents and high-altitude weather response.
+
+The table below converts four finish targets to average speed over the timing-table basis of 61.4 km, excluding climb, rest and queueing loss; the five timing-table cut-offs remain the hard limits.
+
+| Target finish | Total time (h) | Average speed (km/h) | Margin to the 14.5 h limit |
+|---|---:|---:|---|
+| 9 h | 9 | 6.82 | 5.5 h margin |
+| 11 h | 11 | 5.58 | 3.5 h margin |
+| 13 h | 13 | 4.72 | 1.5 h margin |
+| 14.5 h | 14.5 | 4.23 | at the barrier |
+
+- Steepest climb: Trient → Col de Balme, 9.6 km +1,080 m, about 113 m/km; long training runs should include mountain sections of similar gradient.
+- Long descent: Col de Balme → Argentière, 17.0 km −1,494 m; quad strength and descent technique need specific work.
+- Altitude: passes above 2,200 m can still see cold, wind and rain in late August; train for 2,300 m-level conditions, not valley temperatures.
+- This page is not a training plan and does not replace a coach or medical assessment.
+
+## Race-day execution card
+
+- Semi-autonomy: carry enough food, water and safety kit between two aid stations; the base mandatory list and the weather-activated optional list stay on you throughout, with optional items notified at the latest 24 h before the race.
+- Assistance: no personal assistance anywhere on the course; pacing or company outside the spectator zone is prohibited; the bib must be visible on the chest or abdomen throughout.
+- Drop bag: one bag only, handed in at the start and collected at the finish; official bags only, no poles inside, no valuables, collect within 2 h after finishing.
+- Insurance: rescue cover must cover France, Italy and Switzerland; helicopter evacuation is chargeable.
+- Withdrawal: the timing table does not list point-by-point evacuation; seek help through the official medical process and do not leave the course on your own.
+
+| Branch | Situation | Action |
+|---|---|---|
+| If near the 11:30 cut-off at Plan de l'Au (12.2 km) | First cut-off | Check the 3-hour margin to Trient; adjust rhythm and fueling |
+| If on Trient → Col de Balme (23.9→33.5 km) | Steepest climb of the race | Hold back on the climb; carry enough water and food |
+| If over Col de Balme / Tête de Balme (2,200–2,321 m) | Altitude, wind, precipitation | Wear the waterproof jacket and warm layer per the mandatory list; note the high point is not a checkpoint |
+| If near the 21:15 cut-off at Argentière (50.5 km) | Last 10.8 km | Check margin to the 23:30 finish; hold above 4.8 km/h |
+| If withdrawing or needing help | No personal assistance allowed | Contact the official medical or rescue process; no pacing outside the spectator zone |
+
 ## 2026 results
 
 The 2026 men's top three were Tranchand 5:10:08, Kiplimo 5:14:37 and Benitez 5:17:43; the women's top three were Gregory 6:08:07, Lang 6:08:10 and Alonso 6:09:11. These come from RUN247's post-race report; the official UTMB results page did not expose a complete table in this capture. This page does not fill in the rest of the field or use 2026 times as 2027 pacing targets.
@@ -241,3 +291,10 @@ This page cites **14** sources: the original 11 race, rules, transport, results 
 The text is published under CC BY 4.0; the three Commons photographs are used under their respective CC BY-SA 4.0 / CC BY 4.0 licences with author credit; the two SVGs are original editorial graphics. Event names, marks, official course text and the official GPX belong to the UTMB World Series / UTMB Mont-Blanc; this page does not copy official course graphics, checkpoint images or the GPX.
 
 This page is not an official publication and not a professional course review. It is an editorial compilation checked on **2026-11-23**, with the next review scheduled for 2027-05-30 (the pre-race window for the 2027 edition). If the organiser updates the course, aid or cut-offs, the official page takes precedence.
+
+<!-- related-ring -->
+## Related entries
+
+- [TDS 2026: 145 km from Courmayeur to Chamonix, 44 hours 55 minutes](/en/routes/tds/)
+- [UTCT Cape Town 2026: 100 km and 100 mile official results](/en/routes/utct/)
+- [UTMB around Mont Blanc: the complete 2026 course guide](/en/routes/utmb/)

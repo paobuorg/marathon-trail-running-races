@@ -1,0 +1,63 @@
+{
+  "entityId": "route:bigs-backyard-ultra",
+  "slug": "bigs-backyard-ultra",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-bigs-official-rules",
+    "route-bigs-home-2026",
+    "route-bigs-results-page",
+    "route-bigs-wikipedia-history",
+    "route-bigs-stats-db",
+    "route-bigs-marathonhandbook-2025",
+    "route-bigs-si-2019",
+    "route-bigs-qualification-2027",
+    "route-bigs-weather-openmeteo",
+    "route-bigs-access-lodging",
+    "route-anchor-editorial"
+  ],
+  "relatedRefs": [
+    "knowledge:ultra-running-basics",
+    "knowledge:race-day-pacing",
+    "knowledge:long-run-fueling",
+    "knowledge:load-and-overtraining",
+    "tool:splits"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "US"
+    ],
+    "placeName": {
+      "zh-CN": "美国田纳西州贝尔巴克尔",
+      "en": "Bell Buckle, Tennessee, USA"
+    },
+    "mapAnchor": {
+      "longitude": -86.4017,
+      "latitude": 35.5986,
+      "kind": "overview",
+      "sourceRef": "route-anchor-editorial"
+    },
+    "courseVersion": "2025-bigs-backyard-ultra-individual-wc-course",
+    "courseEdition": "2025",
+    "courseStatus": "latest-held",
+    "courseChanges": [],
+    "direction": "Repeating 4.1667-mile (6.706 km) loop from the Bell Buckle corral; day yards on a leafy dirt trail, night yards on a flatter adjacent road course, returning to the same corral every hour.",
+    "distanceMeters": 6706,
+    "distanceMethod": "Official rules define one yard (loop) as 4 miles 880 feet = 6.7056 km (4.1667 miles); the results page states 6,706 m / 4.167 miles. This card records ONE completed yard only. The race itself is open ended: total distance has no upper cap and accumulates one 6.706 km yard at a time, so this figure must not be read as a finished-race or course-total distance. 24 completed yards equal 100 miles by design (100 mi / 24 = 4.1667 mi).",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "Big's Backyard Ultra / Lazarus Lake. The official rules and results pages publish no downloadable GPX or KML; a third-party results database links a Strava segment for the venue but the file is not hosted, mirrored or redrawn by this site, and no redistribution licence was located. Map anchor coordinates are editorial overview positions for Bell Buckle, not a verified start-line precision fix."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sourceId": "route-leadville-results-2025-press",
+  "title": "Marathon Handbook — Records Shattered at the 2025 Leadville Trail 100 (press report, not official results PDF)",
+  "url": "https://marathonhandbook.com/2025-leadville-100-results/",
+  "publisher": "Marathon Handbook",
+  "publishedAt": "2025-08-18",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "At the 2025 Leadville Trail 100 Run, David Roche won the men's race in 15:12:30, improving the men's course record he set in 2024.",
+    "Anne Flower won the women's race in 17:58:19, placing second overall and breaking Ann Trason's 31-year-old women's record of 18:06:24 set in 1994; the report describes it as her 100-mile debut."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取媒体报道正文",
+    "note": "2026-11-25 复核：该来源为第三方媒体汇编，本轮未取得 2025 官方成绩 PDF 或官方归档结果页；数字在正文中按“媒体口径、待官方结果复核”标注。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "partial", "checkedAt": "2026-11-25", "note": "报道标题与正文：Roche 15:12:30，defends title，shaves 14+ minutes off his own 2024 record；未经官方成绩页复核。" },
+    { "index": 1, "status": "partial", "checkedAt": "2026-11-25", "note": "报道正文：Flower 17:58:19, second overall, breaks Trason 18:06:24 (1994), 100-mile debut；未经官方成绩页复核。" }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-boston-volunteer",
+  "title": "Info for Volunteers - Boston Marathon (BAA)",
+  "url": "https://www.baa.org/races/boston-marathon/volunteer/",
+  "publisher": "Boston Athletic Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Volunteer assignments are grouped into Pre-Race, Hopkinton, Boston, Medical and Amateur Radio categories.",
+    "The along-the-course team has about 100 volunteers stationed with medical tents and hydration stations; the transportation team has about 40, the finish team about 60, the start team about 40, and net control about 30 plus about 20 finish-area radio volunteers.",
+    "Volunteer roles include expo merchandise sales and bib distribution, athlete's village greeters and corral monitors, gear check, finish-area food distribution, marshals and amateur radio net control."
+  ],
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Volunteer Assignments 段：Pre-Race / Hopkinton / Boston / Medical / Amateur Radio。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "各队人数：COURSE ~100；TRANSPORTATION ~40；FINISH ~60；START ~40；NET CONTROL ~30；Net Control Finish ~20。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "岗位描述含 Merchandise Sales、Bib Distribution、Bus Greeter、Corral Monitor、Gear Check、Food Finish Area、Event Marshal、Net Control。" }
+  ],
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 BAA 志愿者页",
+    "note": "HTTP 200；岗位分组与各队规模可读；页面未公布志愿者总人数。"
+  },
+  "license": null
+}

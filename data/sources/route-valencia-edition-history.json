@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-valencia-edition-history",
+  "title": "Previous editions 42K Valencia — official edition history and record marks",
+  "url": "https://www.valenciaciudaddelrunning.com/en/marathon/previous-editions-marathon/",
+  "publisher": "S.D. Correcaminos",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The official edition history lists the 2022 (42nd) winners Kelvin Kiptum (KEN) 2:01:53 and Amane Beriso (ETH) 2:14:58.",
+    "The page lists the event's fastest men's and women's marks as 2:01:48 and 2:14:00.",
+    "The history runs from the 1st edition in 1981 to the 45th edition in 2025; no official route-redesign note is attached to recent editions on this page."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官网历届名单页",
+    "note": "2022 名次、页面顶部男女最快成绩与届次跨度均取自该页；近年改线说明未在页面出现。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "december 4 2022, 42：KIPTUM KELVIN 2:01:53；BERISO AMANE 2:14:58。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "页首：2:01:48 Personal best ♂；2:14:00 Personal Best ♀。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "表格自 1981 年 1º 列至 2025 年 45；页面未附近年赛道改线说明。" }
+  ]
+}

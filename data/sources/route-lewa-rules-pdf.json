@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-lewa-rules-pdf",
+  "title": "LSM Race Rules 2024 — official race rules PDF (surface, loops, cutoff, DQ, aid, wildlife protocol)",
+  "url": "https://www.lewasafarimarathon.co.ke/wp-content/uploads/2024/02/LSM24-Race-Rules.pdf",
+  "publisher": "Lewa Safari Marathon (official event organiser)",
+  "publishedAt": "2024-02-01",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 21 km loop follows rough dirt roads that undulate across the conservancy; the full marathon runs two loops and the half one loop; the rules state an average altitude of 6,000 ft.",
+    "Runners must not deviate from the marked route.",
+    "Disqualification applies for a wrong or missing race number, swapping numbers with another runner, deviating from the route, or switching from half to full after the race has started (such runners are stopped at the second-lap junction).",
+    "Full marathon runners must have started the second loop by 10:30 AM, three hours after the start.",
+    "Water stations are placed every 2.5 km together with bush toilets and first aid posts.",
+    "A helicopter is on standby; a Red Cross ambulance waits at the finish with three ambulances around the course; a recovery tent staffed by medical personnel serves finishers.",
+    "Walkers keep left and runners keep right on course; bicycles are prohibited; spectators are marshalled by volunteers."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官方规则 PDF 全文",
+    "note": "规则版本标注 2024；2027 若有新版规则以当届发布为准。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Surface 段：rough dirt roads undulating；two loops / one loop；average altitude 6,000 ft。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Do not deviate from route。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "DQ 条目：wrong/no number、number swap、route deviation、half→full mid-race。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "second loop by 10:30 AM，3 hours after start。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "water stations every 2.5 km + bush toilets + first aid。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "helicopter standby；Red Cross ambulance finish + three ambulances；recovery tent。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-25", "note": "walk left / run right；bikes prohibited；spectators marshalled。" }
+  ]
+}

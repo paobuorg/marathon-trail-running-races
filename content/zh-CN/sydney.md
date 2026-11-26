@@ -70,6 +70,39 @@ translationStatus: reviewed
 
 文件含 650 个 `<ele>`；按原始点列直接累加为 **+283 / −357 m**，最低 **3.8 m**、最高 **80.4 m**，首点 79.2 m、末点 5.2 m。这与官方 2026 页的 +313/−396（以及同页 Course Information 的 +317/−400）不同；官方明确说 `.gpx` 高程不 100% 准确，所以这些原始值只作文件体检，不替换官方口径。
 
+## 成绩与改线
+
+2026 届成绩在赛事方赛后稿与 World Athletics 成绩页之间一致：
+
+| 组别 | 冠军 | 成绩 | 纪录口径 |
+| --- | --- | ---: | --- |
+| 男子马拉松 | Addisu Gobena | 2:04:42 | 破 2025 Kiros 2:06:06 赛道纪录 1 分 24 秒 |
+| 女子马拉松 | Peres Jepchirchir | 2:18:31 | 距 2025 Hassan 2:18:22 纪录差 9 秒 |
+| 男子轮椅 | Daniel Romanchuk | 1:26:50 | 破 2025 Hug 1:27:15 赛道与澳洲全纪录 |
+| 女子轮椅 | Manuela Schär | 1:42:04 | 破 Scaroni 1:44:52 赛道纪录 2 分 48 秒 |
+| 澳洲男子冠军 | Andy Buchanan | 2:10:14 | 本土冠军 |
+| 澳洲女子冠军 | Ellie Pashley | 2:28:28 | 本土冠军 |
+
+男子亚军 Chimdessa Debele 2:04:46、季军 Tebello Ramakongoana 2:04:57；女子亚军 Irine Cheptai 2:22:11、季军 Shure Demise 2:22:33。官方赛后稿称 2026 为澳洲史上最快一届，四项赛道纪录打破三项。
+
+改线：`courseChanges` 为空数组；已核来源中没有 2027 路线调整、改期或改规则的官方证据，本页不写成「没有改线」。
+
+## 报名与资格
+
+- 领物：号码布在 TCS Sydney Marathon Running Show 领取；Running Expo 于 2026 年 8 月 27–29 日在 Sydney Olympic Park 举行（2026 记录，2027 日期以官方公告为准）。
+- 出发分组：三个出发组与三个集合区（橙、红、绿），滚动起跑：Group 1 06:31、Group 2 07:03、Group 3 07:41；起点线开放 06:30–08:15（course 页），关门 PDF 写窗口至 08:40。
+- 规模：2026 course 页记 35,000 名跑者；Transport for NSW 2026 页记 40,000 名参赛者，两套口径并列。
+- 配速组：Pace Team 目标档位 2:30–7:00，另有一名 sweeper 覆盖到 7 小时；配速员穿红色背心、手持目标时间旗，按芯片时间配速、半程偏差 ±30 秒；配速组是辅助，不是官方配速要求。
+- 未核实：抽签方式、报名费、年龄与资格门槛在已核页面未给出，本页不补；2027 报名条款以当届官方页面为准。
+
+| 出发组 | 起跑时刻 | 集合与分流口径 |
+| --- | ---: | --- |
+| Group 1 | 06:31 | 三个集合区对应橙、红、绿；按 bib 颜色与 chute 集合 |
+| Group 2 | 07:03 | 同上 |
+| Group 3 | 07:41 | 同上 |
+
+起点线开放 06:30–08:15（course 页）；关门 PDF 写窗口至 08:40，两套并列。
+
 ## 分段说明
 
 | 段 | 区间 | 本段距离 | 本段爬升 / 下降 |
@@ -126,6 +159,20 @@ translationStatus: reviewed
 关门点分三种处理方式。第一种是退赛：可以进入 SAG 车，或沿 FOP（field of play）内/外走回终点。第二种是改道：跳过一段赛道后仍可沿 FOP 跑到终点，但号码会被记录并取消资格，不算官方完赛。第三种是被尾随的 SAG 车接走。官方还设一名 Tail Control Pacer／Sweep，在赛道上对落后跑者发出两次警告，之后才按上述方式处理。表中 29.1、33.4 与 35.1 公里明确写到 SAG 接驳；33.4 公里是 Centennial Park 医疗帐篷，35.1 公里是 Driver Ave 的硬关门点。
 
 ![2026 年 TCS Sydney Marathon 完赛奖牌，缎带可见“TCS SYDNEY MARATHON”“2026”](/media/routes/sydney/medal-2026.jpg)
+
+## 装备与规则
+
+已核页面没有列公路马拉松的强制装备清单；下列条目只写官方已明确的补给与规则口径。
+
+| 项目 | 官方口径 | 备注 |
+| --- | --- | --- |
+| 饮水 | 8 个水站（5/10/15/20/25/30/35/40 km）全部供水 | 各站有流动厕所 |
+| 饮料 | Powerade Mountain Blast 在 8 站与终点恢复区 | — |
+| 能量胶 | GU 仅在 20、30 km 水站，限量不保证 | 官方建议需要者自带 |
+| 赛时规则 | 总关门 7 h，最低配速 10:00/km | 关门从起点线关闭时刻起算 |
+| 收容 | 尾随 SAG 车与尾控 pacer；先两次警告 | 33.4 km 医疗帐篷、35.1 km 硬关门 |
+
+其他未核实项：号码布转让规定、罚则明细、赛中装备抽查在已核页面未列出，本页不补写。
 
 ## 路面构成与地形
 
@@ -190,6 +237,37 @@ Abbott World Marathon Majors 的赛后报道提供了几个定性地形线索：
 
 本站评级：42.195 公里城市公路马拉松，爬升 +317 米、下降 −400 米（2026 course 页）、净 −83 米，总关门 7 小时、最低平均速度 10 分钟/公里，中途有起点线加 10 个关门/改道点，其中 35.1 公里为硬关门。以上是可核实的维度；本站不把它与越野赛或山地路线作高低比较，也不把这个评级写成赛事方评级。
 
+## 训练转化
+
+这是城市公路马拉松，准备重点是公路耐力、配速节奏与赛日补给，不套用越野超长距离框架。下表只映射本页已核实事实，不提供个人训练处方。
+
+| 已核实事实 | 训练转化方向 | 本站参考页 |
+| --- | --- | --- |
+| 42.195 km 城市公路，+317 / −400 m | 公路马拉松耐力与配速计划 | [马拉松训练计划](/knowledge/marathon-training-plan/)、[比赛日配速](/knowledge/race-day-pacing/) |
+| 海港大桥、Oxford Street 抬升、终点前下坡 | 桥面与起伏路段的节奏适应 | [上坡与下坡跑法](/knowledge/uphill-and-downhill/) |
+| 20、30 km 胶限量，建议自带 | 赛日补给在长练中验证 | [赛日补给](/knowledge/race-day-fueling/)、[水分](/knowledge/hydration/) |
+| 7 h 关门、10:00/km 最低配速 | 赛前 taper 与恢复安排 | [力量与 taper](/knowledge/strength-and-taper/)、[恢复日](/knowledge/recovery-day/) |
+
+决策分支：
+
+| 如果准备状态是 | 那么对应判断 |
+| --- | --- |
+| 最长跑步距离不足 30 km | 先补马拉松耐力，不按 7 h 关门倒推配速 |
+| 没有城市公路长距离经验 | 优先公路配速与补给节奏，不套用越野徒步经验 |
+| 目标 sub-4 | 对照 Pace Team 档位与自身半程、30 km 成绩评估 |
+
+## 比赛日执行卡
+
+| 节点 | 已核实动作 | 关键约束 |
+| --- | --- | --- |
+| 赛前 | Running Show / Expo 领物；建议提前 60 分钟到起点区 | 起终点零停车，公共交通是唯一方式 |
+| 06:30–08:15（PDF 至 08:40） | 按分组滚动起跑 | 波次按 bib 颜色与集合 chute 分流 |
+| 5/10/15/25/35/40 km 水站 | 水 + Powerade；流动厕所 | 20、30 km 另有限量 GU 胶 |
+| 28.3 / 29.1 km | 软改道点，可退回终点 | 1:22pm / 1:30pm 前通过 |
+| 33.4 km Centennial Park | 医疗帐篷与 SAG 接驳 | 2:14pm 前通过 |
+| 35.1 km Driver Ave | 硬关门与 SAG 点 | 2:32pm 前通过 |
+| 终点 Opera House | 恢复区 refreshment 与 Powerade | 关门 3:15pm（course 页）/ 3:40pm（PDF） |
+
 ## 已核实与未核实
 
 本页没有实地跑过赛道，以下内容严格分开。
@@ -215,3 +293,10 @@ Abbott World Marathon Majors 的赛后报道提供了几个定性地形线索：
 本页引用 13 个事实来源，另有 1 个编辑地图锚点来源：`route-sydney`（2026 course 页）、`route-sydney-gpx-2026`（官方 2026 页面链接的 GPX 文件）、`route-sydney-cutoff-2026`（关门与改道 PDF）、`route-sydney-course-map-2026`（course 地图 PDF）、`route-sydney-transport-2026`（赛事交通页）、`route-sydney-road-closures-2026`（三个分区封路页）、`route-sydney-transportnsw-2026`（Transport for NSW 赛事页，2026-11-07 记录，2026-11-08 复核已重定向）、`route-sydney-results-2026`（官方赛后稿）、`route-sydney-world-athletics-2026`（World Athletics 成绩页）、`route-sydney-wmm-2026`（Abbott World Marathon Majors 赛后报道）、`route-sydney-pace-team-2026`（2026 Pace Team 页）、`route-sydney-openmeteo-2026`（Open-Meteo 历史天气）、`photo-sydney-medal-2026`（2026 完赛奖牌照片），以及说明地图锚点只是编辑概览的 `route-anchor-editorial`。每条来源的支撑结论与查阅日见页面底部来源列表。
 
 赛事名称、官方标识、官方路线文字、官方 course 地图 PDF、关门 PDF 与官方成绩归 TCS Sydney Marathon 及相应权利人所有；本页只链接官方文件，不在本站重新分发 PDF 或任何赛道几何。核验日未见官方 GPX 的再分发许可，本页不打包、不画线；官方 2026 页面链接的 GPX 只作外链与文件体检，文件内部仍写 2025，不能据此证明 2026 赛道逐米更新。World Athletics 与 Abbott World Marathon Majors 的文字归各自权利人所有，本页只引用其事实。Open-Meteo 数据按 CC BY 4.0 使用并在此署名。成绩列表受版权保护，仅可作私人信息用途；本页不复制完整成绩表。奖牌照片作者 Tameem Mahmud 007，许可 CC BY-SA 4.0，拍摄于 2026-08-30；2026-11-20 经 Commons 文件页与 API 复核，它不适用本页的 CC BY 4.0。
+
+<!-- related-ring -->
+## 相关条目
+
+- [Tarawera TMiler：新西兰 163 公里，五个组别消歧、十六个计时点与 2027 页面导出的 2026 GPX](/routes/tarawera/)
+- [Torrencial Chile by UTMB：Pilolcura 100K 赛道全解（2027）](/routes/torrencial-chile/)
+- [UTA100：蓝山 101 公里，UTA 六个组别的距离消歧与完整资料](/routes/ultra-trail-australia/)

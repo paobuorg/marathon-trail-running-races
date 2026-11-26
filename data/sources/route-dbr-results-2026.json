@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-dbr-results-2026",
+  "title": "2026 Results — Dragon's Back Race official results table with daily splits",
+  "url": "https://www.dragonsbackrace.com/results",
+  "publisher": "Dragon's Back Race / Ultra X",
+  "publishedAt": "2026-09-12",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2026 overall winner was Danny Smith (GBR) with a cumulative time of 46:59:52; daily splits Day 1 08:15:34, Day 2 08:24:11, Day 3 07:16:22, Day 4 06:51:54, Day 5 09:07:35, Day 6 07:04:16.",
+    "Second place was Matthew Hammerton (GBR, V45) in 50:39:42; third was Alastair Graves (GBR) in 52:56:33; fourth was Tom McCarthy (GBR) in 54:06:03.",
+    "The results table records six daily split columns plus a cumulative total, and marks each runner Finish or DNF."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 分页读取官方 2026 成绩表前几行",
+    "note": "2026-11-25 复核：成绩表含 Day 1–Day 6 分段与总时间；女子名次需结合媒体报道，官方表按性别列在同一张总表内。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "总表第 1 行：Danny Smith, Finish, 六日分段 08:15:34 / 08:24:11 / 07:16:22 / 06:51:54 / 09:07:35 / 07:04:16, Total 46:59:52。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "第 2 行 Matthew Hammerton 50:39:42；第 3 行 Alastair Graves 52:56:33；第 4 行 Tom McCarthy 54:06:03。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "表头列：Overall / Gender / Class / Group / Bib / Nation / Name / Day 1–6 / Time。" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "sourceId": "route-everest-full-event",
+  "title": "Full Marathon 42KM — official event page (course, elevation chart, cutoff, packages)",
+  "url": "https://everestmarathon.com/events/full-marathon-42km",
+  "publisher": "Tenzing Hillary Everest Marathon (event organiser, Kathmandu)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The full marathon starts at the Khumbu Icefall / Everest Base Camp at 5,356 m and finishes at Namche Bazar, 3,440 m.",
+    "The official elevation chart lists waypoints: Gorakhshep 4.6 km at 5,170 m; Lobuche 9.6 km at 4,940 m; Thukla 12.3 km at 4,612 m; Dingboche 17.3 km at 4,359 m; Bibre Loop 21.5 km at 4,349 m; Pangboche 27.5 km at 4,012 m; Tengboche 32.6 km at 3,868 m; Laublsasa 36.1 km at 3,439 m; Kyanjuma 37.6 km at 3,650 m; Namche finish 3,440 m.",
+    "The cutoff is Tengboche at 32.6 km, 4:00 PM; runners who cannot reach the cutoff are disqualified.",
+    "The qualification criteria published on the event page is stated as 'Physically Fit'; the half-marathon page adds the event is open to foreigners from novice to veteran.",
+    "Packages listed: Lodge Option USD 2,995 (16 May – 03 June, 18 nights 19 days); Heli In-Out USD 4,595 (19 May – 01 June, 13 nights 14 days); Join at Base Camp USD 999 (27–30 May, 3 nights 4 days); Everest Marathon with Island Peak USD 3,795 (13 May – 03 June); Luxury Heli USD 6,995 (18 May – 01 June); Gokyo Valley Trek USD 3,095 (14 May – 03 June).",
+    "The event page embeds AllTrails custom-route maps; no downloadable GPX, KML or GeoJSON track was located on the page."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取全马赛事页正文、海拔剖面表与套餐列表",
+    "note": "起点海拔在页面文字中写 5,356 m，剖面表起点标 5,360 m；两处官方口径并列保留。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "页面起终点段：start Khumbu Icefall 5,356 m，finish Namche Bazar 3,440 m。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Elevation Chart 逐点里程与海拔与上表一致。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Cut Off Time 段：Thyangboche 04:00pm，未达关门取消资格。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Qualification Criteria: Physically Fit；半马页 Open for Foreigners novice to veterans。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "Package 区六个套餐名称、价格、日期与天数与表内一致。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "页面 All Trails 链接为内嵌地图入口；本轮未读到 GPX/KML/KMZ 下载链接。" }
+  ]
+}

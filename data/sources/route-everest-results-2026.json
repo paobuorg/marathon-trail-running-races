@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-everest-results-2026",
+  "title": "Race Results 2026 — official results archive (Ultra 70K, Full 42K, Half 21K)",
+  "url": "https://www.everestmarathon.com/results/2026",
+  "publisher": "Tenzing Hillary Everest Marathon (event organiser, Kathmandu)",
+  "publishedAt": "2026-05-29",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Full Marathon 42K 2026: 1st Open Ramesh Limbu (NEP) bib 032 in 3:35:59; 2nd Arjun Kulung bib 034 in 3:45:08; 3rd Suman Kulung bib 054 in 3:47:16; women's 1st Lakpa Ngima Sherpa bib 030 in 4:34:43; women's 2nd Dilkala Kulung bib 028 in 5:32:03; foreigner male 1st Christian Hoffman (Austria) bib 862 in 4:41:05; foreigner female 1st Annie Hughes (USA) bib 847 in 5:41:27.",
+    "The full-marathon results table lists 218 timed finishers.",
+    "Ultra 70K 2026: Man Kumar Roka Magar bib 726 in 7:37:08; 20 entries listed; foreigner 1st Edward Stanila (USA) in 12:30:10.",
+    "Half Marathon 21K 2026: Ding Zhijian (China) bib 214 in 2:06:45 listed first; 15 finishers plus DNS entries."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 2026 成绩页三张分组表",
+    "note": "成绩页按 Ultra/Full/Half 三个标签表分列；名次 remarks 为官方分组标注。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Full 42K 表前几名时间与国籍、bib 与表内一致。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Full 表排名列至 218 名，均有计时。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Ultra 70K 表 Man Kumar Roka Magar 7:37:08；Edward Stanila USA 12:30:10 1st Foreigner。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Half 21K 表 Ding Zhijian 2:06:45 First；其余为完赛与 DNS。" }
+  ]
+}

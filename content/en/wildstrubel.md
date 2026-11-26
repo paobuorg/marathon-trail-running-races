@@ -147,6 +147,25 @@ Outside figures:
 - Medical and insurance: Switzerland does not require a medical certificate, but the organiser strongly recommends regular effort testing. Every runner must hold individual accident and rescue insurance valid in Switzerland; rescue is not free.
 - The fee includes the bib, timing, gifts, aid stations, Wild 110 drop-bag transport, medical assistance and post-race showers, rest, massage and meal.
 
+## Kit and rules: mandatory gear list and inspection
+
+Wild 110 and Wild 70 share the mandatory kit list; the organiser may inspect it at any time during the race. The table lists items verified on the mandatory kit page; hot and cold kits are selected per the organiser's pre-race notice.
+
+| Category | Mandatory / kit item | Verified figure |
+| --- | --- | --- |
+| Carry and water | Trail pack; at least 1 litre water; 15 cl cup | Hot kit raises water to 2 litres |
+| Food | 800 kcal food reserve | Semi-autonomous, self-carried between stations |
+| Communication | Phone with Swiss roaming and LiveTrail installed | — |
+| Night | Two working headlamps, each with spare batteries | 23:00 start, 30-hour limit, long night section |
+| Safety | 1.4 x 2 m emergency blanket; whistle; 100 x 6 cm self-adhesive elastic bandage | — |
+| Outer layer | Hooded breathable waterproof jacket (suggested 10,000 mm, RET 13); full-length pants or gaiters | — |
+| Insulation | Long-sleeve thermal second layer of at least 180 g | Cold kit adds a down third layer, goggles, beanie, warm waterproof gloves, waterproof pants, sturdy closed-toe trail shoes |
+| ID | Identification document | — |
+| Hot kit | Sunglasses, neck/head cover, SPF 50 sunscreen, 2 litres water | Kept or removed per pre-race notice |
+| Insurance | Personal accident and rescue insurance valid in Switzerland | Rescue in Switzerland is not free; medical certificate not mandatory but regular fitness testing is strongly advised |
+
+Rule points: the entry covers bib, timing, race gift, aid stations, Wild 110 bag transport, medical and post-race shower, rest, massage and meal; start and finish are both in Crans-Montana, with no official shuttle for Wild 110. Under semi-autonomy the organiser does not solve mountain-environment problems for runners; to drop, report to the station captain and hand back bib/chip as directed.
+
 ## Entry and qualification
 
 Registration for 2027 opens on 17 November 2026 at 10:00 Swiss time for runners with a valid UTMB Index for 48 hours, then on 19 November 2026 at 10:00 for everyone, first come first served, with no lottery and no waiting list. The Wild 110 fee is CHF 220–275 plus 8% administration; the minimum age is 18 (born in 2008 or earlier).
@@ -207,6 +226,38 @@ This is the village grid at about 1,500 m, not Gemmi (2,268 m), Cabane Wildstrub
 
 *Figure 5 | The Kandersteg valley (2020-07-19, Trldp, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)). The photograph only shows the valley setting of the 43.6 km checkpoint; there are no race-day barriers, aid tables, timing mats, flags or crowds.*
 
+## Training transfer
+
+Wild 110 is a 113 km, 6,600 m+, 30-hour Alpine loop across the Valais and Bernese cantons, from about 1,065 m to the official high point at 2,800 m, with the Gemmi and Rawyl passes and one full night out. The table breaks the demands into trainable abilities; it lists directions, not an official plan.
+
+| Ability | Course demand | Preparation direction |
+| --- | --- | --- |
+| Ultra endurance | Complete the 113 km loop inside 30 hours | Extend continuous running time gradually, keeping one session near hundred-mile mountain scale |
+| Climb load | 6,600 m+; Gemmi climbs about 987 m in 4.7 km, plus the Wildstrubel high section and Rawyl later | Build vertical load on climb sessions; practise pass climbing fatigued |
+| Altitude and cold | High point 2,800 m; September passes can approach 0 °C with rain, snow and wind | Follow [altitude and running](/en/knowledge/altitude-and-running/); train layering, rain and wind protection; re-check the pass forecast before race day |
+| Night running | 23:00 start, long night; headlamps and spare batteries mandatory | Do night runs; practise pasture, stone and pass navigation under headlamp |
+| Long downhill tolerance | Long descent after Gemmi to Kandersteg, and from Rawyl down to Tseuzier | Add downhill running and quad strength; protect leg strength for the second half |
+| Long-duration fuelling | 12 main stations, semi-autonomous | Train station-to-station eating and the 800 kcal self-carried reserve per [fueling long runs](/en/knowledge/long-run-fueling/) |
+
+A [track viewer](/en/tools/track-view/) reads an authorised file you provide, and the [split pace tool](/en/tools/splits/) plans segments; the tools do arithmetic and file reading only and do not replace Alpine mountain mileage.
+
+## Race-day execution card
+
+The table follows the 12 official stations; cut-off references come from "Aid stations and cut-offs". Pacing notes are editorial judgement, not official split targets.
+
+| Phase | Distance | Execution notes | Cut-off reference |
+| --- | ---: | --- | --- |
+| Night opening | 0–12.9 km | 23:00 start, climb Varneralp first; hold back early, save headlamp battery | — |
+| Down to Leukerbad | 12.9–22.8 km | About 900 m descent into town; assistance allowed | Leukerbad Sat 04:15 |
+| Gemmi pass | 22.8–27.5 km | 4.7 km about 987 m climb, one of the steepest sections; cross into the Bernese canton | — |
+| Long descent to Kandersteg | 27.5–43.6 km | Protect legs on the long descent; assistance at Kandersteg | Kandersteg 09:00 |
+| Adelboden mid-race base | 43.6–60.0 km | Past Ueschine and the Louwene water point; hot food, rest, shower and bag drop at Adelboden | Adelboden 14:15 |
+| Lenk undulating section | 60.0–78.0 km | Bernese high country after Sillerebüel; assistance at Lenk | Lenk 19:30 |
+| Wildstrubel high section | 78.0–92.1 km | From Iffigenalp to Cabane Wildstrubel 2,800 m; watch pass weather and insulation | Iffigenalp 22:00 |
+| Rawyl and finish | 92.1–113.7 km | Cross Rawyl 2,427 m, past Lake Tseuzier back to Crans-Montana | Tseuzier Sun 04:00; finish 30 h |
+
+Check every item against the mandatory kit list before the start: two headlamps with spare batteries, 1 litre water, 800 kcal food, blanket, whistle, elastic bandage, waterproof jacket, thermal second layer and ID; prepare the cold kit per the pre-race notice. Assistance is allowed only at stations marked by the organiser; to drop, report to the nearest station first and do not descend along the road on your own.
+
 ## Images and rights
 
 **Three route-location photographs + two self-made diagrams; no 2027 race-day coverage.** Wikimedia Commons was checked again on 2026-11-24: searches for “Wildstrubel”, “Crans-Montana”, “Leukerbad” and “Kandersteg” produced no photograph that can be shown to be from the 2027 race day or to show a start arch, aid station or finish. The page uses three photographs whose author, licence, date and file page are all verifiable, covering the start/finish resort (Crans-Montana), the valley town reached by the Gemmi descent (Leukerbad) and the 43.6 km checkpoint (Kandersteg). They establish setting only; they do not prove race-day coverage, a start arch, finish line, aid layout, timing mat or race-day weather.
@@ -224,3 +275,10 @@ All three photographs were resized from the Commons originals to a 960 px long e
 The text was written independently by the Runmap editorial team from the official Wildstrubel by UTMB pages, the official regulation PDF, UTMB Majors, ITRA, TrailSplits and Open-Meteo, and is released as CC BY 4.0; the three Commons photographs remain under their respective CC licences. The page cites 17 sources: the 2027 English and French Wild 110 pages, 2027 races page, 2027 registration-conditions page, mandatory-equipment page, official regulation PDF, official results page, UTMB Majors page, ITRA 2026 Wild 110 results, TrailSplits, Open-Meteo geocoding, Open-Meteo historical weather, the official transport page, the official GPX and three Wikimedia Commons location photographs; each source's claims and access date appear in the source list below.
 
 Related pages: [Val d'Aran by UTMB](/en/routes/val-daran/), [UTMB](/en/routes/utmb/), [CCC](/en/routes/ccc/), [OCC](/en/routes/occ/).
+
+<!-- related-ring -->
+## Related entries
+
+- [Zegama-Aizkorri: 42.195 km and 5,472 m, a mountain race that counts the crowd as part of the course](/en/routes/zegama/)
+- [Antarctic Ice Marathon 2026: four 10.55 km laps at 80°S, ten hours and USD 22,500](/en/routes/antarctic-ice-marathon/)
+- [Big's Backyard Ultra: the Bell Buckle backyard format explained (2025 individual world championship basis)](/en/routes/bigs-backyard-ultra/)

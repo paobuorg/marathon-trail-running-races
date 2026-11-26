@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-bigs-qualification-2027",
+  "title": "Backyard Belgium — Road to Big's: 2027 Individual World Championship qualification spots",
+  "url": "https://www.backyardbelgium.com/?lang=nl&page_id=2179",
+  "publisher": "Backyard Belgium (affiliated national satellite race, third-party organizer)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2027 Individual World Championship at Bell Buckle, Tennessee is listed for 16 October 2027.",
+    "The starting field is strictly limited to 75 spots: 50 direct tickets go to winners of the 2026 national championships, and 25 at-large spots are selected by the best valid results worldwide.",
+    "The at-large qualifying window runs from 16 August 2025 to 15 August 2027."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": false,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "general_search 摘要读取附属国家队赛事说明页",
+    "note": "附属赛事对官方资格体系的转述：Big's 官方 2027 资格页本轮被 robots 限制无法读取，名额结构、窗口与日期均按卫星赛事汇编标注，待官方选手手册复核。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "partial", "checkedAt": "2026-11-25", "note": "摘要：Individueel Wereldkampioenschap — Bell Buckle, Tennessee 16 oktober 2027。" },
+    { "index": 1, "status": "partial", "checkedAt": "2026-11-25", "note": "摘要：75 spots; 50 national champions; 25 At-Large。" },
+    { "index": 2, "status": "partial", "checkedAt": "2026-11-25", "note": "摘要：qualification period 16 augustus 2025 tot 15 augustus 2027。" }
+  ]
+}

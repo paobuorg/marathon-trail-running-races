@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-london-charity-2026",
+  "title": "Run for charity – TCS London Marathon",
+  "url": "https://www.tcslondonmarathon.com/charity-info/faqs",
+  "publisher": "London Marathon Events",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Runners apply for a guaranteed charity place directly through a listed charity's own website; each charity manages its own team, benefits and fundraising requirements.",
+    "Marie Curie is the 2026 Charity of the Year; runners who already hold a ballot place can still join a listed charity team.",
+    "Charity runners use a personalised Enthuse fundraising page; many charities offer perks such as a branded running vest and other Marathon Day benefits."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 tcslondonmarathon.com/charity-info/faqs 正文",
+    "note": "慈善名额申请方式与 2026 年度慈善伙伴在页面正文中；各慈善机构筹款额由机构自定，页面未给统一最低筹款额"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：“Find a charity from the list below and apply for a place directly through their website”"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：“Marie Curie – Charity of the Year … official charity partner for the 2026 TCS London Marathon”；ballot place 也可加入慈善队"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：personalised Enthuse page；branded running vest and other Marathon Day perks"
+    }
+  ]
+}

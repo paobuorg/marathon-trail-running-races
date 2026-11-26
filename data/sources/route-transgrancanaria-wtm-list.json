@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-transgrancanaria-wtm-list",
+  "title": "Races — World Trail Majors all-races listing",
+  "url": "https://worldtrailmajors.com/all-races/",
+  "publisher": "World Trail Majors",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "The World Trail Majors all-races listing includes The North Face Transgrancanaria among the WTM circuit races.",
+    "The listing entry for The North Face Transgrancanaria describes the race as crossing the island of Gran Canaria through mountains, forests, arid zones and the Atlantic ocean, and lists the 2026 circuit dates as 2026/03/04-08."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-26",
+    "note": "2026-11-26 直取 WTM all-races 列表页，读取 The North Face Transgrancanaria 条目及其日期行；列表日期为 2026 赛历口径，2027 日期以活动页与赛事官网为准。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-26", "note": "列表 RACES / Series: World Trail Majors 下出现 THE NORTH FACE TRANSGRANCANARIA 条目" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-26", "note": "条目正文 crossing the beautiful island of Gran Canaria；日期行 2026/03/04-08" }
+  ]
+}

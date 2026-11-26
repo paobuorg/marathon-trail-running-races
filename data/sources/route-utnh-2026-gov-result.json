@@ -1,0 +1,39 @@
+{
+ "sourceId": "route-utnh-2026-gov-result",
+ "title": "山海逐风 跃跑宁海 2026可隆宁海越野挑战赛圆满落幕",
+ "url": "http://www.ninghai.gov.cn/col/col1229092961/art/2026/art_e34e0e2302444edf8489334961a1772b.html",
+ "publisher": "宁海县人民政府 / 宁海新闻网",
+ "publishedAt": "2026-11-16",
+ "accessedAt": "2026-11-26",
+ "claims": [
+  "The 2026 KOLON SPORT Ultra-Trail Ninghai ran from 13 to 15 November 2026.",
+  "The event attracted more than 6,500 runners from 29 countries and regions.",
+  "The programme had three races: 100 km, 60 km and 25 km."
+ ],
+ "license": null,
+ "verification": {
+  "access": "direct",
+  "bodyRead": true,
+  "checkedAt": "2026-11-26"
+ },
+ "claimVerification": [
+  {
+   "index": 0,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "页面首段写明 11 月 13 日至 15 日举行。"
+  },
+  {
+   "index": 1,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "页面写明 29 个国家和地区、6500 余名跑者。"
+  },
+  {
+   "index": 2,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "页面写明 100 公里、60 公里、25 公里三个组别。"
+  }
+ ]
+}

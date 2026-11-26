@@ -227,12 +227,59 @@ Open-Meteo 的 Auburn 镇历史数据（2015–2025 年 4 月 24–25 日，共 
 
 这是 Auburn 镇网格，不是 China Wall、Eldorado Canyon 或 American River 谷底的实测。4 月下旬的峡谷可以明显更热，午后暴露路段与夜间河谷降温是两套体感；起跑 05:00 需要薄外套与头灯，午后需要防晒和盐。
 
+## 装备与规则：峡谷昼夜温差与半自给边界
+
+官方 mandatory kit 清单本轮未在已读页面取得，逐项强制装备标 unknown；本页不编造官方清单，出发前以当届官方跑者指南为准。可核的场景边界是：100K 05:00 起跑，凌晨河谷偏凉；4 月下旬午后暴露路段可能明显升温；赛道沿 Western States Trail 反复上下峡谷与河谷，夜间经过 Cal Street 段。
+
+| 类别 | 本站场景 | 出发前检查 | 边界 |
+| --- | --- | --- | --- |
+| 头灯与备用电源 | 05:00 起跑与夜间 Cal Street 段 | 主灯、备用电池或灯、固定与线路 | 是否列为强制以官方清单为准 |
+| 分层穿着 | 凌晨凉、午后热、河谷风 | 轻薄外套、透气短袖、可收纳层 | 本站不推荐具体型号 |
+| 鞋与腿套 | 橡树林、河谷碎石与技术路面 | 抓地力、后跟固定、长距离磨合 | 新鞋先在长距离上试 |
+| 补水与补给 | 站点间隔较长、午后升温 | 携水量、电解质与能量补给策略 | 两站之间自备，不依赖未列站点 |
+| 防晒与帽 | American River 段与午后暴露 | 帽子、防晒霜、墨镜 | 暴露段需重复补涂 |
+| 号码布与计时 | 全程可见、退赛交芯片/号码布 | 固定位置、芯片状态 | 退赛按官方指示交件 |
+
+通用山地越野装备框架见 [越野装备](/knowledge/trail-gear/)；装备重量权衡见 [装备减重工具](/tools/gear-weight-planner/)。罚则、缺件处置与 pacer 规则以当届官方规则为准，本页不补未读条款。
+
 ## 撤退与风险
 
 - **可撤退的 crew 点**：100K 是 Deadwood-2、Michigan Bluff、Foresthill；100M 另有 Drivers Flat、Cool-1、Cool-2。不要把 100M 的点位直接套到 100K。
 - **存包**：100K 只在 Foresthill 与 Drivers Flat 收包；起终点是否另设终点包，官方表未标，按 unknown 记。
 - **风险**：Eldorado Canyon 与 Devil's Thumb 的陡升陡降、American River 段的暴露、夜间 Cal Street 的技术路面，以及 4 月可能的雨後湿滑。官方没有给逐段技术分级，本页按“峡谷反复上下 + 夜间 + 高温”描述，不写成官方评级。
 - **退赛**：在补给站向站长报到，按官方指示交号码布/芯片；不要自行离开赛道搭车。100K 的收容与返程安排本次未读到，按 unknown 记。
+
+## 训练转化：Western States Trail 100K 备赛
+
+Canyons 100K 的难点是 Eldorado Canyon、Devil's Thumb、Michigan Bluff 与 Mammoth Bar 几段集中爬升，American River 段的暴露，以及夜间技术路面。备赛核心是长距离山地耐受、反复上下的腿部能力与昼夜温差适应，而不是单纯堆平路跑量。通用方法见 [越野超马训练计划](/knowledge/trail-ultra-training-plan/)、[长距离补给](/knowledge/long-run-fueling/)、[恢复日安排](/knowledge/recovery-day/) 与 [负荷与过度训练](/knowledge/load-and-overtraining/)。
+
+| 备赛阶段 | 重点 | 可执行内容 | 对应本站约束 |
+| --- | --- | --- | --- |
+| T-16 至 T-10 周 | 山地有氧底盘 | 每周 1 次山地长距离加轻松跑，累计爬升逐步到 2,000 m/周 | 多段集中爬升需要稳定有氧基础 |
+| T-10 至 T-6 周 | 长距离与技术段 | 长距离拉到 60–80 km，安排峡谷碎石与台阶路段演练 | Devil's Thumb、Michigan Bluff、Mammoth Bar 反复上下 |
+| T-6 至 T-2 周 | 补给与夜间演练 | 测试携带食物水；安排 1 次凌晨或夜间路段 | 05:00 起跑，夜间过 Cal Street 段 |
+| T-2 至比赛 | 减量 | 缩短距离与爬升，保留短节奏；不试新鞋新装备 | 赛前疲劳留到赛前恢复，参考 [减量与力量](/knowledge/strength-and-taper/) |
+
+边界：这是通用备赛框架，不构成医疗建议；有心肺基础疾病或近期伤病者先咨询医生。20 小时 Western States 资格线与赛道关门是同一条 20 小时，但 Super Golden Ticket 名额按名次分配，备赛目标应分开设定。
+
+## 比赛日执行卡：凌晨起跑与站点利用
+
+| 阶段 | 站点窗口 | 节奏与补给 | 检查项 |
+| --- | --- | --- | --- |
+| 起跑—Deadwood-2 | 0–25.4 km | 压住 Eldorado Canyon 下坡，避免前段跑爆 | 对照已公布关门；Deadwood-2 可进 crew |
+| Deadwood-2—Michigan Bluff | 25.4–36.4 km | 下 Eldorado Bridge 后再爬升，控制节奏 | 该段 2026 表关门偏紧，赛前以 2027 表复核 |
+| Michigan Bluff—Foresthill | 36.4–45.9 km | 穿 Volcano Canyon，主站补热食与休整 | Foresthill 有存包与 crew |
+| Foresthill—Drivers Flat | 45.9–74.0 km | Cal Street 与 American River 段稳补给 | Drivers Flat 有存包；夜间注意头灯 |
+| Drivers Flat—终点 | 74.0–99.1 km | Mammoth Bar、Confluence、No Hands Bridge 后上 Robie Point | 末段仍有爬升，不把进 Auburn 当纯下坡 |
+
+| 红旗信号 | 现场处置 | 边界 |
+| --- | --- | --- |
+| 头晕、心慌、视物模糊、胸痛 | 停止前进、求助，必要时呼叫医疗 | 本站不诊断；心脏急症识别与呼救遵循现场急救规范 |
+| 热不适、抽筋加重、脱水迹象 | 降温、补盐补水，必要时进站 | 本站不提供医疗诊断 |
+| 夜间视力模糊、头灯故障、失温 | 进站休整、更换装备，必要时退赛 | 夜段无照明继续行进有安全风险 |
+| 到达站点已逼近关门 | 评估后续爬升与余量，必要时退赛 | 退赛在补给站报到，按官方指示交号码布/芯片 |
+
+站点利用与 pacer 安排框架见 [crew 与 pacer 规划](/knowledge/crew-and-pacer-planning/)；配速对照见 [配速工具](/tools/pace/) 与 [分段工具](/tools/splits/)。
 
 ## 图片与权利
 
@@ -249,3 +296,10 @@ Open-Meteo 的 Auburn 镇历史数据（2015–2025 年 4 月 24–25 日，共 
 官方 2027 100K 页提供的 GPX 与补给表仍是 2026 版，页面写明 `Course maps subject to change`；官方没有给可再分发的图片许可。2026 GPX 已在本地测量，但没有转存、重绘、托管或再分发；本页只链接官方页面并描述路线。
 
 相关页面：[Kodiak Ultra Marathons by UTMB](/routes/kodiak/)、[Western States](/routes/western-states/)、[UTMB](/routes/utmb/)。
+
+<!-- related-ring -->
+## 相关条目
+
+- [开普敦马拉松：2027 起成为大满贯的非洲双起点城市赛道](/routes/cape-town/)
+- [GPT100 Miler：从 Mt Zero 纵穿 Grampians 到 Dunkeld 的 163 公里](/routes/gpt100-miler/)
+- [Kodiak Ultra Marathons by UTMB：Big Bear Lake 的 100 英里山赛](/routes/kodiak/)

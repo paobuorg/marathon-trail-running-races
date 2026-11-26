@@ -1,0 +1,32 @@
+{
+  "sourceId": "route-valencia-2026-registration",
+  "title": "Info Registration 42K Valencia 2026 — loyalty period, ballot and waiting list",
+  "url": "https://www.valenciaciudaddelrunning.com/en/marathon/info-registration-2026/",
+  "publisher": "S.D. Correcaminos",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2026 entry process keeps a four-day loyalty period for 2025 participants, then opens a public ballot for the remaining places until the 36,000 bib quota is allocated.",
+    "2026 cycle dates: loyalty 11-15 December; ballot registration 16-26 December; draw before a notary on 12 January; results emailed 13 January; winners register 13-26 January; unfilled places go to the waiting list on 26 January.",
+    "Ballot entry is free but requires an active bank card on which a €5 hold is placed for at most 15 days; the hold is released automatically whether or not the runner wins a place.",
+    "Ballot personal details cannot be changed later; one entry per person is allowed; group entries are limited to three people with separate email addresses.",
+    "Runners selected in the ballot must complete purchase within 12 days, or the reserved bib is cancelled and allocated to the waiting list in registration order.",
+    "Loyalty and ballot bibs allow a holder transfer from 1 February; ballot bibs freed by a holder change are offered exclusively to waiting-list runners."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官网英文报名信息页全文",
+    "note": "报名时间线、€5 预授权、12 天确认期与转让规则均取自该页 FAQ 与条款。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "页首：new draw/ballot system, loyalty 4 days, up to 36,000 bibs。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "2026 Registration Dates 表：11-15 Dec、16-26 Dec、12 Jan draw、13 Jan results、13-26 Jan、26 Jan waiting list。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "IS THERE A FEE TO REGISTER FOR THE DRAW：free, €5 hold 15 days, auto released。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "CHANGING DATA：不可改；一人一签；group up to three, separate emails。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "WHAT HAPPENS IF I DO NOT COMPLETE：12 天内未完成报名，名额转候补。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "DO THE 2026 BIBS ALLOW A BIB OWNERSHIP TRANSFER：1 February 起可转让；抽签释放名额仅给候补。" }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-bigs-si-2019",
+  "title": "Sports Illustrated — At This Ultramarathon, There's No Finish Line (2019 race feature)",
+  "url": "https://www.si.com/more-sports/2019/12/04/big-dogs-backyard-ultra-marathon",
+  "publisher": "Sports Illustrated (third-party media)",
+  "publishedAt": "2019-12-04",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Runners complete a 4.167-mile loop at the race organizer's home; after finishing one loop they rest, eat and use the port-a-potties until the next hour's start; failing to complete a loop before time elapses eliminates the runner, as does failing to appear on time for the next loop.",
+    "During daylight the runners follow a leafy dirt trail in the backyard; after dark the race moves to a road course for safety and returns to the backyard loop in the morning.",
+    "The race has no finite distance, no finish line and sudden-death elimination; it continues hour after hour through daylight, darkness, sun and rain while more than one runner remains.",
+    "To make the Big's field a runner must win one of the designated qualifiers or be hand-selected by Cantrell; the 2019 field came from more than 20 countries."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": false,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "general_search 摘要读取 SI 2019 报道要点",
+    "note": "媒体观察稿：昼间土路 / 夜间公路的赛道切换、入场方式为 2019 年口径；2027 参赛通道以当届官方公告为准。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "partial", "checkedAt": "2026-11-25", "note": "摘要：4.167-mile loop every hour; rest/eat/port-a-potties in spare time; late or late-for-corral out。" },
+    { "index": 1, "status": "partial", "checkedAt": "2026-11-25", "note": "摘要：daylight leafy dirt trail; dark moves to road course; back to backyard come morning。" },
+    { "index": 2, "status": "partial", "checkedAt": "2026-11-25", "note": "摘要：no finite distance, no finish line, always sudden death。" },
+    { "index": 3, "status": "partial", "checkedAt": "2026-11-25", "note": "摘要：win designated qualifier or hand-selected by Cantrell; 2019 field from 20+ countries。" }
+  ]
+}

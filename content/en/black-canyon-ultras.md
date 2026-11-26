@@ -80,6 +80,18 @@ The 2027 page's 100K/50K course maps are not a static JPG or PDF; they are a set
 - This is an **official geometry entry** (`geometryAccess=official-link`), not a **static route-map entry**; it is not counted in the 19 no-geometry routes' static-map tally.
 - The page also has a `100K Elevation Profile` heading, but this round did not obtain a standalone downloadable image or PDF under that heading; the heading is not treated as a profile-file entry.
 
+## Course geometry: segment direction and three distance figures
+
+The race runs generally south on the Black Canyon National Recreation Trail, point-to-point: the 100K goes from Mayer High School to Emery Henderson Trailhead; the 50K runs the first half to Deep Canyon Ranch. The route leaves the main BCT at three points: Bumble Bee Ranch, Deep Canyon Ranch (back to the main line via Kay Mine Road) and the Black Canyon City out-and-back. Beyond the official segment table, distance and elevation exist in three figures, kept side by side without averaging:
+
+| Basis | Distance | Cumulative gain | Cumulative loss | Source tier |
+| --- | --- | ---: | ---: | --- |
+| Key Stats (used on card) | 62.2 mi / 100.1 km | +5,219 ft / 1,591 m | −7,337 ft / 2,237 m | Tier A official |
+| Strava embed card | 62.7 mi | +5,254 ft | not listed | Tier A, second figure on official page |
+| ITRA 2027 | 99.90 km | +1,610 m | −2,260 m | Tier B cross-check |
+
+Geometry rights: the 2027 official map slot is a Strava route embed plus a CalTopo external link; there is no `.gpx`/`.kml` direct link, and no downloadable track file was obtained this round. `geometryAccess` is recorded as `official-link`: this page only links out, does not host or redraw the track. Whether Strava or CalTopo allows export depends on the account/session; redistribution terms were not verified.
+
 ## 3. Aid, cut-offs and the 50K's three waves
 
 The official 100K aid table:
@@ -221,6 +233,38 @@ For a 10-hour target, an even split gives roughly Bumble Bee 19.4 at 1:55–2:05
 
 These are training and pacing references, not official splits. The organiser publishes cut-offs, not target times.
 
+## Training conversion: 100K desert canyon preparation
+
+The challenge of Black Canyon 100K is the fast first 20 miles that tempts surging, the repeated steep descents and loose rock through miles 28–45, the concentrated climb late in the race, and February afternoon heat, thunderstorms or snow. Preparation centres on downhill control, loose-rock canyon tolerance and day-night temperature adaptation, not raw road mileage. General methods are in [ultra-trail training plan](/en/knowledge/trail-ultra-training-plan/), [heat and humidity](/en/knowledge/heat-and-humidity/), [long-run fueling](/en/knowledge/long-run-fueling/) and [load and overtraining](/en/knowledge/load-and-overtraining/).
+
+| Phase | Focus | Practical content | Race-day constraint |
+| --- | --- | --- | --- |
+| T-16 to T-10 weeks | Mountain aerobic base | One mountain long run plus easy runs a week; build downhill and loose-rock experience | The fast first 20 miles need an aerobic base that can hold back pace |
+| T-10 to T-6 weeks | Long run and technical sections | Long run to 60–80 km; practise canyon rock and stair sections | Miles 28–45 concentrate steep descents and technical rock late |
+| T-6 to T-2 weeks | Fueling and day-night range | Test cupless cups/bottles and salt intake; simulate cold mornings and hot afternoons | Mornings about 0–4 °C, afternoons may heat up; night needs light |
+| T-2 to race | Taper | Shorten distance and gain, keep short rhythm; no new shoes or kit | Recover fatigue before race day; see [taper and strength](/en/knowledge/strength-and-taper/) |
+
+Boundary: this is a generic preparation framework, not medical advice. Runners with pre-existing cardiopulmonary conditions or recent injuries should consult a doctor first. The 17-hour WSER qualifying line and the 20-hour course cut-off are two separate lines; set preparation targets accordingly.
+
+## Race-day execution card: hold back the first 20 miles and night lighting
+
+| Phase | Mile window | Rhythm and fueling | Check |
+| --- | --- | --- | --- |
+| Start to Bumble Bee | 0–19.4 mi | Hold back on the descent; do not surge at Antelope Mesa or Hidden Treasure | Check against the three-wave cut-offs; Bumble Bee is the first crew and drop-bag point |
+| Bumble Bee to Deep Canyon | 19.4–31.9 mi | Control pace through canyon sections; hot food at main stations | Pacer starts at Deep Canyon (31.9); drop bag available |
+| Deep Canyon to BCC | 31.9–37.2 mi | Complete the Black Canyon City out-and-back; it cannot be skipped | Skipping the loop means no result; mile 34 creek depends on water |
+| BCC to Table Mesa | 37.2–51.1 mi | Move through the night on the lighting plan; pacer may change at Table Mesa | Choose which drop bag holds the light by target finish time |
+| Table Mesa to finish | 51.1–62.3 mi | Steady rhythm through late climb and tired legs | No finish parking; crew uses the Anthem shuttle |
+
+| Red flag | On-site action | Boundary |
+| --- | --- | --- |
+| Dizziness, nausea, palpitations, worsening cramping, heat illness | Cool down, replace salt and water, call medical at a station if needed | This page does not diagnose; on-site medics from MedStar Solutions assess |
+| Rising canyon water, approaching thunder | Stop, take shelter at a station, follow staff directions | This page does not direct flood or lightning response on site |
+| Blurred vision, headlamp failure, hypothermia | Rest and change kit at a station; drop if needed | Continuing at night without light is unsafe |
+| Approaching the cut-off at a station | Assess remaining sections and buffer; drop if needed | Withdrawal is reported at the station; chip/bib handed in |
+
+Crew and pacer planning are in [crew and pacer planning](/en/knowledge/crew-and-pacer-planning/); pace comparison is in the [pace tool](/en/tools/pace/) and [splits tool](/en/tools/splits/).
+
 ## 9. Entry and qualification
 
 - **100K:** 20-hour race limit; a sub-17-hour finish is the WSER lottery qualifier. The 17-hour standard is not the race cut-off.
@@ -309,3 +353,10 @@ The Strava route embeds and CalTopo maps belong to Strava, CalTopo and their dat
 15. Commons, Black Canyon trail corridor, BLM Arizona / Chris Wonderly, Public domain: `https://commons.wikimedia.org/wiki/File:Black_Canyon_National_Recreation_Trail_(52633877433).jpg`
 
 Not verified and left out: a direct official GPX link, medical/sweep detail, the 2027 elite field and prize money, lottery and refund terms.
+
+<!-- related-ring -->
+## Related entries
+
+- [Buenos Aires Marathon 2026: 42.195 km of city flat, ten start corrals and a hard 13:00 close](/en/routes/buenos-aires/)
+- [Canyons Endurance Runs by UTMB: 100 km on the Western States Trail into Auburn](/en/routes/canyons/)
+- [Cape Town Marathon: Africa's first World Marathon Major from 2027, and its two-start city course](/en/routes/cape-town/)

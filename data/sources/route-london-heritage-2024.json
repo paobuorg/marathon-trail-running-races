@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-london-heritage-2024",
+  "title": "London Marathon receives World Athletics Award Heritage Plaque",
+  "url": "https://www.tcslondonmarathon.com/news-and-media/latest-news/london-marathon-receives-world-athletics-award-heritage-plaque",
+  "publisher": "London Marathon Events",
+  "publishedAt": "2024-03-01",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The World Athletics Heritage Plaque was announced on the anniversary of the inaugural race, 29 March 1981, recognising an outstanding contribution to the worldwide history and development of the sport.",
+    "World records have been set at the London Marathon on six occasions: once in the men's race, four times in the women's-only race and once in the women's mixed-race category, with Paula Radcliffe creating two of those moments.",
+    "Ingrid Kristiansen (Norway) and Eliud Kipchoge (Kenya) each won four men's titles; Tanni Grey-Thompson won the women's wheelchair race six times and David Weir won the men's wheelchair race eight times.",
+    "Since 1981 more than 1.2 million people have completed the London Marathon and more than £1.2 billion has been raised for charity; a record 578,000 people applied in the ballot for the 2024 event."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 tcslondonmarathon.com 2024-03 Heritage Plaque 新闻正文",
+    "note": "历史冠军次数、世界纪录次数与累计参与/筹款口径来自该官方新闻稿"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：announced on the anniversary of the inaugural race on 29 March 1981"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：six occasions – one men's, four women's-only, one women's mixed；Radcliffe two"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：Kristiansen 与 Kipchoge 各四冠；Grey-Thompson 六次轮椅女子；Weir 八次轮椅男子"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：>1.2 million completed；>£1.2bn raised；578,000 ballot applications for 2024"
+    }
+  ]
+}

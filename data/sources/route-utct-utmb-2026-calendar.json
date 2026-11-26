@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-utct-utmb-2026-calendar",
+  "title": "UTMB World Series 2026 Season Calendar Revealed",
+  "url": "https://utmb.world/it/news/new-season-2026",
+  "publisher": "UTMB",
+  "publishedAt": "2026-01-19",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The UTMB World Series 2026 circuit lists 64 events across five continents; nine new events join in 2026, with four Majors unchanged.",
+    "The UTMB World Series 2026 announcement names its new events in Europe, Asia and North America and its four Majors (Australia, Val d'Aran, Kodiak, Chiang Mai); Ultra-Trail Cape Town is not named in the announcement.",
+    "UTMB.world athlete indexes carry UTCT results, but index inclusion does not by itself make UTCT a UTMB World Series member; the official UTCT site remains independently branded under the RMB title sponsorship."
+  ],
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "新闻稿：In 2026, 64 events ... across all five continents；9 new events；four Majors retain the same format and races。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "新增事件清单（葡萄牙/德国/罗马尼亚/拉脱维亚/台湾/中国/阿曼/美国/加拿大）与四大 Majors 中均无 Cape Town；南非赛事未出现在公告文本里。" },
+    { "index": 2, "status": "partial", "checkedAt": "2026-11-25", "note": "UTMB.world 个人成绩页收录 UTCT 记录为索引收录；是否系列成员应以官方品牌与公告为准。未检索到 UTMB 集团收购 UTCT 的官方公告；本条为口径边界说明，不写成成员资格结论。" }
+  ],
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 UTMB 官方 2026 赛历公告",
+    "note": "HTTP 200；公告文本可读；南非完整赛历在配图中，文本部分未逐条列出，故仅陈述公告文本可证的部分。"
+  },
+  "license": null
+}

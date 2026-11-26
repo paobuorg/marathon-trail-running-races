@@ -1,0 +1,24 @@
+{
+  "sourceId": "route-lewa-moh-yf",
+  "title": "Incoming Travellers — Kenya Ministry of Health health requirements page",
+  "url": "https://www.health.go.ke/incoming-travellers",
+  "publisher": "Kenya Ministry of Health",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "All travellers arriving in Kenya from countries where yellow fever is endemic should present a valid yellow fever certificate.",
+    "Listed exemptions from yellow fever vaccination include infants under 9 months (except in high-risk epidemic settings), pregnant women (except high-risk outbreak situations), people with severe allergies to egg protein, and people with severe immunodeficiency due to symptomatic HIV/AIDS or other causes, or thymus disorders."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取肯尼亚卫生部入境健康要求页",
+    "note": "疫苗与入境要求以当届肯尼亚官方口径为准；本页不提供个体医疗建议。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Yellow fever requirements 段：from endemic countries present valid certificate。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Exemptions 四类与表内一致。" }
+  ]
+}

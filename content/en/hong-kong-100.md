@@ -231,6 +231,93 @@ The official pages do not publish a single difficulty grade. What follows is thi
 
 **This site's rating, not the organiser's:** a hundred-kilometre-class trail race with 5,142 m of climb on the 2027 race card, a 30-hour limit, rocky and uneven ground in places, sealed-road climbs over Golden Hill and Grassy Hill, and two checkpoints (CP8 and CP10) that need about an hour on foot to leave. Editorial advice: do not pace the first half like a road marathon; save energy for Needle Hill, Grassy Hill and Tai Mo Shan. For pace arithmetic, this site's [pace calculator](/en/tools/pace/) is available; for the difference between marathon distance and 100 km, read [the marathon distance](/en/knowledge/marathon-distance/); for splitting target times by segment, use the [splits tool](/en/tools/splits/). These are site tools, not official pacing advice.
 
+## Entry, ballot and quotas
+
+Hong Kong 100 does not sell places on a first-come basis. The official 2027 entry page states that the Hong Kong government caps the field at 1,800 for HK100, 500 for The Half and 500 for The Third. Everyone must enter through the ballot except past winners, 2026 volunteers, runners who joined all 16 editions from 2011 to 2026, and sponsor nominees. Ballot results are released on 17 August 2026; selected runners must complete registration by 23 August 2026, and unclaimed places are reallocated from 31 August 2026.
+
+| Item | Official 2027 rule | What it means |
+|---|---|---|
+| Field cap | HK100 1,800; The Half 500; The Third 500 | Separate caps per distance |
+| Entry route | Ballot; winners, 2026 volunteers, 16-year streakers and sponsor nominees exempt | Exempt places are not transferable |
+| Ballot result | 17 August 2026 | Follow the official notice |
+| Registration deadline | 23 August 2026 | Late places are forfeited |
+| Unclaimed places | Reallocated from 31 August 2026 | A rejection can still become a place |
+| Format | Solo or pair of no more than two | One distance per person, once |
+| Distance | 100 km / Half / The Third | Chosen at entry, not changeable |
+
+The 16-year exemption belongs only to runners who did every edition from the first in 2011. It is not a cumulative "many editions" credit; the page narrows it to consecutive years, so do not infer your own eligibility.
+
+## Mandatory gear and checks
+
+The Hong Kong 100 mandatory list is short and hard. The official gear page requires runners to carry at all times: a mobile phone, a headlamp or torch with batteries, a whistle, an emergency space blanket or equivalent, capacity for at least 1 litre of water, two energy bars or food portions, a ziploc bag for personal rubbish, the race bib, and some cash. The light applies to HK100 and The Half; for The Third it is optional, though the page suggests bringing one if you might take 10 hours.
+
+| Required/recommended | Item | Official wording |
+|---|---|---|
+| Required | Mobile phone | Carried at all times for emergencies |
+| Required | Headlamp/torch + batteries | HK100 and Half; optional for The Third |
+| Required | Whistle | Carried at all times |
+| Required | Space blanket or equivalent | For cold or injury |
+| Required | At least 1 litre of water capacity | Bladder or bottles |
+| Required | Two energy bars/food portions | Not "eat at the checkpoint" |
+| Required | Ziploc bag | For your own rubbish |
+| Required | Race bib | Visible throughout |
+| Required | Some cash | Shops, transport, emergencies |
+| Recommended | Utensils (cup, bowl, spork) | No disposable utensils provided |
+| Recommended | Spare light, batteries, power bank | Long night, primary light can fail |
+| Recommended | Sunscreen, cap, sunglasses, anti-chafing cream, spare socks, warm/waterproof clothing, first-aid kit, Octopus card | January weather and a long night |
+
+Checks are random. The page states that gear checks occur during the event and a missing item may bring a time penalty or disqualification depending on severity. Do not hang kit on the outside "for the check": the light must work, the blanket must be usable, the phone must have charge. Hong Kong nights by the coast and on the ridges can be cold; the blanket is not decoration.
+
+## Training for 96 km and 5,142 m
+
+The official 2027 checkpoint table runs from SP–East Dam at 10 km to the finish at a cumulative 96 km, with stage gain and loss each totalling +5,142 m and −5,142 m. The race card and introduction still say 100 km, and the organiser does not explain the 4 km difference. Train from the checkpoint segments, not from the round 100 km number, because the race you face is eleven segments, 5,142 m of climb and a 30-hour limit.
+
+| Phase | Weekly volume | Weekly climb | Key session | Terrain/night |
+|---|---|---|---|---|
+| Base, 4 weeks | 50–65 km | 1,200–1,800 m | 90 minutes continuous climbing | One stair and one beach session |
+| Specific, 5 weeks | 65–85 km | 1,800–2,600 m | 4–5 hour trail long run | 2-hour night run with headlamp |
+| Segment simulation, 3 weeks | 75–95 km | 2,600–3,400 m | Rehearse CP5–CP7: 21 km / +1,403 m | Afternoon heat plus wet stairs |
+| Peak, 2 weeks | 80–100 km | 3,000–4,000 m | 6–8 hours loaded, practise CP6 bag | 5 hours overnight |
+| Taper, 2 weeks | 50–60% of peak | 40–50% of peak | Short hills at intensity | Gear and route check only |
+
+The section to rehearse is CP5–CP7. From 52 km to 65 km the course climbs 794 m, and CP5–CP6 alone is 13 km with that gain; by 65 km the cumulative climb is 3,194 m. Many runners do not "stop running" here; they destroy their legs climbing. One long session with 800 m of climb after 50 km is closer to Hong Kong than stacking flat volume.
+
+Train the beach and the stairs separately. The Sai Wan, Ham Tin and Tai Long Wan crossings break rhythm, and stone steps force walking uphill and forbid charging downhill; neither exists in a flat training block. Do at least two wet-stair descents and one 20-minute beach run in the race shoe.
+
+## Race-day execution, bags and support
+
+Hong Kong 100 restricts support more than many hundreds: the official rules allow outside assistance and support crews only at checkpoints, except in an emergency; pacers and support runners are strictly prohibited; checkpoint food and drink are for runners only. Buying food and drink from shops, restaurants, hawkers and vending machines along the route is allowed. Your crew cannot meet you mid-trail; it can only appear at a CP.
+
+| Point | Action | Check |
+|---|---|---|
+| Race morning | Hand in two 45×50 cm drawstring bags at the start | One bag per point; extra baggage HKD 200 each |
+| CP1 East Dam, 10 km | No change, top up water | Cut-off from the official table |
+| CP3 Pak Tam Au, 28 km | First big refuel | Eat your own food; CP food is runners only |
+| CP5 Yung Shue O, 44 km | Last big refuel before night | Light, spare batteries, warm layer |
+| CP6 Gilwell Camp, 65 km | Collect bag, change socks and clothes | Bag forwards to the finish |
+| CP7 Beacon Hill, 74 km | Enter the last 22 km | Water and food check |
+| CP10 Leadmine Pass, 87 km | Last major climb | No vehicle escape; leave margin |
+| Finish, Rotary Park, 96 km | Finish | 30-hour limit |
+
+There are only two bag points: CP6 Gilwell Camp and the finish. The organiser provides two 45×50 cm drawstring bags, one per point per runner, handed in at the start; after CP6 the bag is forwarded to the finish. Extra baggage costs HKD 200 per item and goes only to the finish, not to CP6. Put the socks and warm layer you want at CP6 in the CP6 bag, not the finish bag.
+
+CP10 is the point that needs the biggest buffer. The official page says vehicles cannot reach CP10 and it is about an hour's walk to the nearest road; CP8 has the same one-hour walk. Missing the CP10 cut-off is therefore not "wait for a car"; it is a walk out. Write "reach CP10 45 minutes before cut-off" on the race card, not "move fast".
+
+## Results, records and history
+
+The first Hong Kong 100 was held in January 2011 with 175 starters, founded by two Hong Kong lawyers, Janet Ng and Steve Brammar. It is now the opening round of the World Trail Majors and the largest hundred-kilometre trail race in Asia. The 2026 edition had 1,844 finishers; the January 2026 course was shortened by roughly 7 km after Typhoon Wipha damaged the route the previous summer, and produced the race's first dead heat: Veronika Leng and Vietnam's Hà Thị Hậu crossed together in 10:43:35.
+
+| Item | Result/fact | Note |
+|---|---|---|
+| First edition | January 2011, 175 starters | Founded by Janet Ng and Steve Brammar |
+| 2026 finishers | 1,844 | Course shortened by about 7 km |
+| 2026 winners | Veronika Leng / Hà Thị Hậu, 10:43:35 | First dead heat |
+| Men's course record | Qi Min 9:28:36 (2018) | Classic route |
+| Women's course record | Yao Miao 10:40:52 (2018) | Classic route |
+| Two-time winners | Yun Yanqiao 2013/2017; You Peiquan 2020/2023; Meng Guangfu 2024/2025 | Only three |
+
+Read the 2026 dead heat and the shortened course together. A course 7 km short cannot be compared directly with the classic-route 9:28:36 and 10:40:52; calling 10:43:35 a new women's record is wrong because it is not the same distance. Before comparing any Hong Kong 100 result, establish which course version was run, then read the place and the time.
+
 ## Verified and unverified
 
 This page is not based on having run the course. The two lists are kept strictly separate.
@@ -297,3 +384,10 @@ The page cites **19** sources: the original 15 (event home page, introduction pa
 Three kinds of rights need to be kept apart. The text of this page is CC BY 4.0. Open-Meteo data is used under its CC BY 4.0 terms with attribution. Official race documents, including the GPX, checkpoint images and rules text, are not redistributed with this page; only official links are given. The third-party race history page is used only for historical facts and the 2026 course shortening, and its tables and images are not copied.
 
 This page is not an official publication and not a professional course review. It is an editorial compilation checked on 2026-11-08 for course and rules, and rechecked on 2026-11-23 for the checkpoint-table image, location photographs and page, with the next review scheduled for 2027-11-24 (the pre-race window for the 2028 edition). If the organiser updates the checkpoint table, aid details or cut-offs before the race, the official page takes precedence.
+
+<!-- related-ring -->
+## Related entries
+
+- [Mt.FUJI 100: 165.3 km, four distance readings and nine cut-offs](/en/routes/mt-fuji-100/)
+- [QMT135: Quebec's 134 km from Baie-Saint-Paul to Mont-Sainte-Anne](/en/routes/qmt-135/)
+- [Ultra-Trail Ninghai UTNH-100: official checkpoint cut-offs and pre-race facts](/en/routes/utnh/)

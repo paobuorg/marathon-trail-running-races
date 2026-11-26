@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-patagonia-openmeteo-weather",
+  "title": "Open-Meteo 历史存档：San Martín de los Andes 4 月 7–11 日气候统计（2015–2026）",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=-40.15789&longitude=-71.35337&start_date=2015-04-07&end_date=2026-04-11&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=America/Argentina/Salta",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "城镇网格点坐标 −40.15789 / −71.35337，网格高程 650 m，时区 America/Argentina/Salta。",
+    "2015–2026 年 4 月 7–11 日共 60 天样本：日最高气温 6.7–27.3 °C，中位 16.5 °C。",
+    "同一样本：日最低气温 3.3–11.7 °C，中位 8.1 °C。",
+    "同一样本：降水中位 0.0 mm；17/60 天 ≥1 mm，8/60 天 ≥5 mm，最大日降水 77.8 mm。",
+    "该结果是城镇网格模型历史值，不是赛道山径实测；高海拔与风不能按城镇点推算。"
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-26",
+    "checkedVia": "curl 请求 Open-Meteo archive API 并在本地 Python 中过滤 4 月 7–11 日逐日值，计算中位数与计数。",
+    "note": "2026-11-26 直接读取 archive 返回 JSON；60 天样本逐日统计，未插值、未按海拔换算。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-26", "note": "API 返回 latitude/longitude/elevation/timezone 字段与请求坐标一致。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-26", "note": "daily.temperature_2m_max 过滤 04-07 至 04-11 后 min/median/max = 6.7/16.5/27.3。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-26", "note": "daily.temperature_2m_min 同口径 min/median/max = 3.3/8.1/11.7。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-26", "note": "daily.precipitation_sum 同口径 median 0.0、≥1mm 17 天、≥5mm 8 天、max 77.8 mm。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-26", "note": "网格点为城镇海拔 650 m 模型值；赛道在 Lanín 国家公园山径，未做海拔直减率换算。" }
+  ]
+}

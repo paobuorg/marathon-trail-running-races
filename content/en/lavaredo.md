@@ -43,6 +43,21 @@ The numbers are not interchangeable. The 120K is 120 km, the 80K is 80 km and th
 
 The 10K data fields carry no Running Stones and no category code, so this page leaves them blank rather than guessing whether it counts towards the series.
 
+## Entry and eligibility
+
+- Division: Lavaredo 120K, data field `ws100M`, 4 Running Stones, `100m-direct-entry`; this entry treats it as a UTMB World Series Event, not a Major.
+- Medical certificate: a hard Italian-law requirement for every distance. Non-Italian runners provide a certificate per DM 18/02/1982 or the official downloadable form, issued no more than 12 months before the race, uploaded to the personal dashboard between 2027-01-10 and 2027-05-15, and still valid on 2027-06-27. Missing the deadline voids the entry with no refund.
+- Bib pickup: Olympic Ice Stadium (via Alberto Bonacossa 1). Bibs 1–200 collect on 24 June 17:00–19:00; all others on 25 June 10:00–19:00; valid ID in person, no proxy pickup.
+- Entry fee, UTMB Index threshold, ballot and wait-list: not published in the pages checked; this page does not estimate them.
+
+| Item | Official basis | Status |
+|---|---|---|
+| Category / Stones | ws100M / 4 Stones / 100m-direct-entry | Verified in page data field |
+| Certificate validity | Issued ≤12 months before the race, valid through 2027-06-27 | Verified on medical-certificate page |
+| Upload window | 2027-01-10 to 2027-05-15 | Verified on medical-certificate page |
+| Late consequence | Entry voided, no refund | Verified on medical-certificate page |
+| Fee / Index threshold / ballot | Not published | Insufficient evidence |
+
 ## More than one official set of numbers
 
 Lavaredo 120K has at least four official distances:
@@ -71,6 +86,16 @@ The time chart has a metadata problem: in the page's `cutoffDatetime` fields the
 The regulations page has a version problem too. Its body is headed "Race rules 2025", carries no 2026 or 2027 label, yet sits in the navigation of the 2027 event site. This page treats it as "the rules text currently readable", not as an updated 2027 rulebook; every sentence about penalties and gear states that limit.
 
 ![Runners on the final climb to Rifugio Auronzo at the 2021 Lavaredo Ultra Trail, with the Tre Cime behind](/media/routes/lavaredo/lavaredo-auronzo-2021.jpg)
+
+## Route segments and GPX geometry
+
+The course is a loop out and back to Cortina d'Ampezzo: Ospitale → Passo Tre Croci → Federavecchia → Misurina → Rifugio Auronzo → Forcella Lavaredo → Cimabanche → Malga Ra Stua → Malga Travenanzes → Col Gallina → Rifugio Averau → Passo Giau → Rifugio Croda da Lago → Mortisa → back to Cortina d'Ampezzo.
+
+The geometry bases are the four side-by-side sets under "More than one official set of numbers": race card 120 km / 5,800 m+; embedded track 120.753 km / +5,364 / −5,346; GPX three-dimensional 120.484 km, raw +5,977 / −5,961; GPX flat 119.479 km. The four are not averaged.
+
+- The exported GPX sits in a `files/2026` directory, and its metadata year and track-point times predate the 2027 race; this entry does not treat the file as a verified 2027 geometry and does not host the track.
+- High point: Forcella Lavaredo 2,449 m on the timing table, 2,451 m on the GPX; low point around the start/finish at 1,217 m.
+- Gradient, trail versus surface split per section are not published beyond the official timing table.
 
 ## Sixteen timing points and their cut-offs
 
@@ -227,6 +252,53 @@ Against the other races in the same event: the 80K is 80 km, 4,600 m and 22 hour
 
 No page checked here publishes ITRA points, a UTMB Index threshold or a finish rate. This page marks them unknown and does not guess a difficulty grade.
 
+## Training transfer
+
+This is a 100M-band high-mountain loop: 120 km with an official 5,800 m of climb, about 48 m per kilometre; two nights on course, highest timing point 2,449 m. The training focus is sustained night load, repeated high-mountain up-and-down and late-race cut-off margin.
+
+The 30-hour limit corresponds to a minimum average of 4.0 km/h (120 ÷ 30 = 4.0). The table below converts three finish targets to average speed over 120 km, excluding climb, rest and queueing loss.
+
+| Target finish | Total time (h) | Average speed (km/h) | Margin to the 30 h limit |
+|---|---:|---:|---|
+| 24 h | 24 | 5.00 | 6 h margin |
+| 27 h | 27 | 4.44 | 3 h margin |
+| 30 h | 30 | 4.00 | at the barrier |
+
+- Two nights: 23:00 start, Sunday 05:00 cut-off, covering at least Friday and Saturday nights; long training runs should include night sections and cold-warmth drills.
+- Repeated high-mountain work: Passo Tre Croci, Misurina, Forcella Lavaredo, Col Gallina and Passo Giau climb and descend repeatedly; scree, rock and gravel terrain need specific descent work and footwear adaptation.
+- Self-sufficiency: rifugio purchases outside aid stations are at your own expense, carry at least EUR 20; plan food from the station matrix and do not assume hot food at every stop.
+- This page is not a training plan and does not replace a coach or medical assessment.
+
+## Race-day execution card
+
+- Cut-offs: seven timed points carry cut-offs (Passo Tre Croci, Misurina, Cimabanche, Malga Ra Stua, Col Gallina, Passo Giau, finish); leave before the cut-off. The other nine have none.
+- Assistance: helpers are allowed only at Cimabanche and Col Gallina, in the designated area, with station chief's consent, one helper per runner; no assistance of any kind at the other six stations.
+- Bags: each runner needs at least one 30 L drop bag; only UTMB World Series bags are accepted; collect against the bib and remove within 2 hours after the race; no trekking poles inside bags.
+- Kit checks: pre-race and in-race checks both possible; missing critical safety items (minimum water, hooded waterproof jacket, headlamp, blanket, phone) means disqualification; missing other mandatory items a 1-hour penalty; refusing a check means disqualification.
+- Medical: medical staff may require withdrawal, check kit, evacuate or refer; accepting intravenous fluids means withdrawal; withdrawal must be registered at a timing point with the bib corner clipped.
+
+| Branch | Situation | Action |
+|---|---|---|
+| If near the Saturday 04:30 cut-off at Passo Tre Croci (27.8 km) | First night cut-off | Check the 3.5-hour margin to Misurina; adjust rhythm |
+| If entering Forcella Lavaredo (52.1 km, 2,449 m) | Altitude, wind, cold | Wear the warm layer and waterproof jacket; Rifugio Auronzo is a water-only point |
+| If reaching Cimabanche (66.9 km) | The only full 28-item station, assistance allowed | Use the full-range aid and the sole helper-allowed station to recover |
+| If near the Saturday 23:59 cut-off at Passo Giau (104.1 km) | Last 16.7 km to the finish | Check margin to the Sunday 05:00 cut-off; hold above 4.0 km/h |
+| If swept or withdrawing | Some stations have transfer vehicles | Register at a timing point and follow on-site arrangements; do not leave the marked route |
+
+## Results and course changes
+
+The 2027 Lavaredo 120K starts at 23:00 on 25 June 2027; at the verification date (2026-11-08) the race had not been held. The official materials checked had not published a 2027 or past winner, course record, finisher count or finish rate, and this page lists no placings.
+
+| Item | Status |
+|---|---|
+| 2027 winners (men / women) | Not published (race not yet held) |
+| Course record | Not published |
+| Past winners and finish rates | No official edition-by-edition results table obtained; insufficient evidence |
+| Reroute / date change / rule change | Rules page still headed "Race rules 2025"; whether it is the final 2027 rules is unverified; `courseChanges` is an empty array |
+
+- Earlier edition roadbooks and reroute notes were not obtained this round; this page does not write "no changes ever occurred".
+- After race day, winners and results follow the official results page.
+
 ## Verified and unverified
 
 Verified (2026-11-08):
@@ -283,3 +355,10 @@ The text and tables on this page are published under CC BY 4.0. Sentences quotin
 - Photograph (2021 Auronzo climb; author Anthospace; CC BY-SA 4.0): `photo-lavaredo-auronzo-2021`
 
 Basis and consistency: every "the official page says" sentence maps to a specific claim in the sources above; every judgement is introduced with "this page". The two are not mixed.
+
+<!-- related-ring -->
+## Related entries
+
+- [Mont-Blanc Marathon: 42 km and 2,540 m, Chamonix's other race](/en/routes/mont-blanc-marathon/)
+- [South Downs Way 100: 100 miles along the South Downs Way, from Matterley Bowl to Eastbourne](/en/routes/sdw100/)
+- [Sierre-Zinal: 31 km and 2,200 m beneath five 4,000 m peaks](/en/routes/sierre-zinal/)

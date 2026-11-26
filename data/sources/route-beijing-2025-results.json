@@ -1,0 +1,32 @@
+{
+  "sourceId": "route-beijing-2025-results",
+  "title": "2025北京马拉松成绩、规模与赛道优化（北京市体育局；中国新闻社）",
+  "url": "https://tyj.beijing.gov.cn/bjsports/gzdt84/zwdt/743819564/index.html",
+  "publisher": "北京市体育局（北京日报）；男子/女子名次经中国新闻社稿核对",
+  "publishedAt": "2025-11-02",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2025 Beijing Marathon, the 43rd edition, started at 07:30 on Sunday 2 November 2025 from the east road of Tiananmen Square and finished on the Olympic Green central Landscape Avenue; the field was 32,000 runners.",
+    "Men's winner Lemi Berhanu Hayle (Ethiopia) defended his title in 2:08:10; Debel (Ethiopia) was second in 2:09:27 and Han Il Ryong (DPR Korea) third in 2:09:47; Li Dalin was the leading Chinese runner in 2:11:26.",
+    "Women's winner Almaz Genaneh (Ethiopia) ran 2:26:08; Kibor (Kenya) was second seven seconds behind and Dadiso (Ethiopia) third in 2:27:21; Huang Xuemei was the leading Chinese woman in 2:31:28.",
+    "The 2025 route kept the classic line but reduced the second-half turnaround points from three to one, extended the North 4th Ring auxiliary-road section to ease congestion, and added scenery past the National Speed Skating Oval (Ice Ribbon) and Aolin East Road.",
+    "Medical cover included 610 medical observers, 74 AED rescuers, 100 doctor-runners, 26 medical stations, eight following ambulances and a 200 m² finish medical center; 6,870 volunteers served the race.",
+    "Course services comprised eight drink stations, seven drinking-water/sponge stations and seven food stations."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 tyj.beijing.gov.cn 2025 赛后稿；名次与第三名经 web.fetch 核对中国新闻社 https://www.chinanews.com/ty/2025/11-02/10508705.shtml",
+    "note": "市体育局稿含保障与服务数字；中新社稿含完整男女前三与国内第一。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "43 届；2025-11-02 07:30 天安门广场东侧路；终点奥林匹克公园中心区景观大道；3.2 万人。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Hayle 2:08:10 卫冕；Debel 2:09:27；韩日龙 2:09:47；李大林 2:11:26 国内第一。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Genaneh 2:26:08；Kibor 差 7 秒；Dadiso 2:27:21；黄雪梅 2:31:28 国内第一。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "后半程折返 3 减为 1；延长北四环辅路；融入冰丝带、奥林东路景观。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "610 观察员、74 AED 急救跑者、100 急救跑者、26 医疗站、8 跟随救护车、200 平米医疗中心；志愿者 6870。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "8 补给站、7 饮水用水站、7 食品站。" }
+  ]
+}

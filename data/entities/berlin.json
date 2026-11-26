@@ -18,6 +18,9 @@
     "route-berlin-world-athletics-2026",
     "route-berlin-openmeteo",
     "route-berlin-ber-airport",
+    "route-berlin-registration-2026",
+    "route-berlin-about-2026",
+    "route-berlin-records-2026",
     "photo-berlin-finish-2022",
     "route-anchor-editorial"
   ],
@@ -28,9 +31,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-11-21",
-  "reviewedAt": "2026-11-21",
-  "reviewDueAt": "2027-06-29",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-15",
   "details": {
     "raceType": "road-marathon",
     "countryCodes": [
@@ -48,7 +51,7 @@
     },
     "courseVersion": "2026-berlin-official-course",
     "courseEdition": "2026",
-    "courseStatus": "superseded",
+    "courseStatus": "latest-held",
     "courseChanges": [],
     "direction": "Start on Straße des 17. Juni between the Brandenburg Gate and Kleiner Stern; finish behind the Brandenburg Gate; city course through Berlin",
     "distanceMeters": 42195,

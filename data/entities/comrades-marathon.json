@@ -18,20 +18,44 @@
     "route-comrades-place-geocoding",
     "route-comrades-big-five",
     "photo-comrades-camperdown-2024",
-    "route-comrades-2026-static-map"
+    "route-comrades-2026-static-map",
+    "route-comrades-2027-centenary-blog",
+    "route-comrades-2027-entry-window-blog",
+    "route-comrades-start-information",
+    "route-comrades-2026-start-map"
   ],
   "relatedRefs": [
+    "knowledge:marathon-distance",
+    "knowledge:marathon-training-plan",
+    "knowledge:long-run",
     "knowledge:heat-and-humidity",
     "knowledge:hydration",
+    "knowledge:electrolytes-and-sodium",
     "knowledge:long-run-fueling",
+    "knowledge:race-day-fueling",
     "knowledge:race-day-pacing",
+    "knowledge:cutoff-management",
+    "knowledge:crew-and-pacer-planning",
+    "knowledge:dnf-decision-making",
+    "knowledge:uphill-and-downhill",
+    "knowledge:post-race-recovery",
+    "knowledge:records-and-course-validity",
     "tool:pace",
-    "tool:splits"
+    "tool:splits",
+    "tool:cutoff-planner",
+    "tool:crew-pacer-plan",
+    "tool:race-checklist",
+    "tool:taper-planner",
+    "tool:race-predict",
+    "tool:fueling-planner",
+    "tool:sweat-rate",
+    "tool:heat-adjust",
+    "tool:race-qualifier-checker"
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-11-08",
-  "updatedAt": "2026-11-22",
-  "reviewedAt": "2026-11-22",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
   "reviewDueAt": "2027-06-30",
   "details": {
     "raceType": "road-ultra",
@@ -48,7 +72,7 @@
       "kind": "start",
       "sourceRef": "route-comrades-place-geocoding"
     },
-    "courseVersion": "2027-comrades-89k-down",
+    "courseVersion": "2027-comrades-down",
     "courseEdition": "2027",
     "courseStatus": "current",
     "courseChanges": [
@@ -63,11 +87,23 @@
           "zh-CN": "官方报名统计博客把 2027 终点写成 Hollywoodbets Kings Park precinct，并称这是 new finish venue；2026 Up Run 的终点是 Pietermaritzburg 的 Scottsville Racecourse。2025 Down Run 的终点未在本轮来源中单独核实，因此不写 from。",
           "en": "The official entrant-statistics blog names the Hollywoodbets Kings Park precinct in Durban as the 2027 finish and calls it a new finish venue. The 2026 Up Run finished at Scottsville Racecourse in Pietermaritzburg. The 2025 Down Run finish was not separately verified in this round, so no from value is given."
         }
+      },
+      {
+        "edition": "2026",
+        "observedAt": "2026-11-26",
+        "field": "distance",
+        "change": "distance-revised",
+        "to": "85.777 km",
+        "sourceRef": "route-comrades-2026-results",
+        "note": {
+          "zh-CN": "2026 Up Run 官方丈量 85.777 km，比 2024 年短 133 米，是有记录以来最短的 Up Run；该里程只对应 2026 方向，不能外推到 2027 Down Run。",
+          "en": "The 2026 Up Run was officially measured at 85.777 km, 133 metres shorter than in 2024 and the shortest Up Run in recorded history. That figure applies only to the 2026 direction and must not be extrapolated to the 2027 Down Run."
+        }
       }
     ],
     "direction": "Official 2027 wording: a Down Run from Pietermaritzburg to Durban, starting in front of the Pietermaritzburg City Hall and finishing at the Hollywoodbets Kings Park precinct in Durban",
     "distanceMeters": 89000,
-    "distanceMethod": "Entry Terms 1.1 gives an approximate distance of 89 km, subject to final measurement and the Final Race Instructions. The 2026 Up Run was officially 85.777 km, so the two directions cannot be treated as the same measured distance.",
+    "distanceMethod": "Entry Terms 1.1 gives an approximate distance of 89 km, subject to final measurement and the Final Race Instructions; the centenary blog expects approximately 91 km pending formal measurement after roadworks. The 2026 Up Run was officially 85.777 km, so the two directions cannot be treated as the same measured distance.",
     "elevationGainMeters": null,
     "elevationMethod": null,
     "geometryAccess": "unavailable",
@@ -75,6 +111,6 @@
     "geometrySourceUrl": null,
     "geometryLicense": null,
     "officialGeometryUrl": null,
-    "attribution": "Comrades Marathon Association (CMA). The 2027 Entry Terms publish an approximate distance and direction but no GPX file or track-reuse licence. This site does not draw the course, does not host a track and does not present any third-party GPX as official geometry. The official Start Information page provides a 2026 'Static route map' PDF, which is linked only as a 2026 Up Run document and is not treated as 2027 Down Run geometry. The elevation figures in the body come from a peer-reviewed review and are labelled as estimates, not as official race measurements."
+    "attribution": "Comrades Marathon Association (CMA). The 2027 Entry Terms publish an approximate distance and direction but no GPX file or track-reuse licence. This site does not draw the course, does not host a track and does not present any third-party GPX as official geometry. The official Start Information page provides a 2026 'Static route map' PDF, which is linked only as a 2026 Up Run document and is not treated as 2027 Down Run geometry. The elevation figures in the body come from a peer-reviewed review and a medical blog and are labelled as estimates, not as official race measurements."
   }
 }

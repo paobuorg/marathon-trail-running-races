@@ -1,0 +1,55 @@
+{
+  "sourceId": "route-paris-2026-elite-news",
+  "title": "Organiser news: Yemaneberhan Crippa and Shure Demise win the 2026 Paris Marathon podium",
+  "url": "https://www.schneiderelectricparismarathon.com/fr/actus/yemaneberhan-crippa-et-shure-demise-a-bloc-dans-la-capitale/379",
+  "publisher": "A.S.O. — Schneider Electric Marathon de Paris official news",
+  "publishedAt": "2026-04-12",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Men's 2026 podium: 1. Yemaneberhan CRIPPA (ITA) 2:05:18; 2. Berhane Tesfay TSEGAY (ERI) 2:05:24; 3. Abdi NAGEEYE (NED) 2:05:34.",
+    "Crippa is the first Italian man to win the Paris Marathon; the men's course record remains Elisha Rotich (KEN) 2:04:21 from 2021.",
+    "Women's 2026 podium: 1. Shure DEMISE (ETH) 2:18:34; 2. Goitom Geberew TIGIST (ETH) 2:18:42; 3. Megertu ALEMU (ETH) 2:19:52.",
+    "Demise's 2:18:34 is a new women's course record, beating the previous mark of Judith Jeptum KORIR (KEN) 2:19:48 from 2022.",
+    "Alemu had run 2:18:33 in March 2026; the organiser describes the 2026 women's race as a three-woman fight decided in the final kilometre."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取官网新闻 /379 法文正文与成绩表",
+    "note": "冠军与名次为官网赛事新闻；具体名次成绩另由 World Athletics 结果页旁证。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 /379 男子前三：Crippa 2:05:18、Tsegay 2:05:24、Nageeye 2:05:34；WA 7235597 同口径。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 /379：意大利首冠；男子赛道纪录 Rotich 2:04:21（2021）。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 /379 女子前三：Demise 2:18:34、Tigist 2:18:42、Alemu 2:19:52。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 /379：2:18:34 刷新女子赛道纪录，原纪录 Korir 2:19:48（2022）。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 /379：Alemu 2026 年 3 月跑出 2:18:33；女子冠军最后 1 公里决胜。"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-everest-thirdparty-course",
+  "title": "Everest Marathon 2027: course maps and checkpoints — third-party compiled reference (goatmaps)",
+  "url": "https://www.goatmaps.com/races/everest-marathon",
+  "publisher": "goatmaps.com (third-party route compilation, not the event organiser)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The first race was a test run on 19 May 2003; the organiser counts 2027 as its 22nd edition.",
+    "The 70K and full marathon start at Everest Base Camp, about 5,364 m, after two nights in tents on the Khumbu Glacier; the half marathon starts at Dingboche; all three finish in Namche Bazaar at 3,440 m.",
+    "Third-party-compiled 70K cutoffs: Pangboche 11:30 AM, Machhermo 5:00 PM, Namche 11:59 PM; the full and half share the Tengboche 4:00 PM cutoff listed on the event page.",
+    "Each race page shows an embedded AllTrails map, but no GPX is available to download and no aid-station list is published; the map lines begin a little over a kilometre up the glacier from Base Camp."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取第三方路线汇编页；70K 关门时间标注为第三方汇编，待官方当届手册复核",
+    "note": "本来源不是赛事方；起终点海拔与官方事件页一致，70K 分段关门仅作旁证，正文以官方全马/半马关门为准。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "test run 19 May 2003；2027 counted as 22nd edition，与尼文注册页届次表述一致。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "EBC 5,364 m，两夜帐篷；Half Dingboche；finish Namche 3,440 m。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "70K checkpoints cutoff 表；Tengboche 16:00 来自官方事件页。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "embedded AllTrails maps；no GPX download；no aid station list。" }
+  ]
+}

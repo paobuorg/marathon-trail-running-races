@@ -1,0 +1,24 @@
+{
+  "sourceId": "route-comrades-2026-start-map",
+  "title": "Comrades Start Information — 2026 Start Map diagram",
+  "url": "https://www.comrades.com/start-information",
+  "publisher": "Comrades Marathon Association (CMA)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "The Start Information page provides a Start Map diagram for the 2026 Up Run start village, separate from the Static route map PDF that shows the full 2026 route.",
+    "Neither the Start Map nor the Static route map is a 2027 Down Run document; the 2027 route map, GPX and redistributable trajectory licence remain unpublished at the check date."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "checkedVia": "WebFetch 读取官方 Start Information 页 HTML；Start Map 与 Static route map 按钮在同一页面，分属起点村示意与全程路线图两种文档",
+    "note": "本来源只记录 Start Map 图示的存在与文档性质；全程静态图 PDF 直链由 route-comrades-2026-static-map 来源记录。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-22", "note": "页面同时存在 Start Map 与 Static route map 两个入口；前者为起点村示意。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-22", "note": "页面无 2027 路线图、GPX 或轨迹许可。" }
+  ]
+}

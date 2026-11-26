@@ -22,7 +22,8 @@
     "route-utct-2026-100m-final",
     "photo-utct-table-mountain",
     "photo-utct-hout-bay",
-    "photo-utct-lions-head"
+    "photo-utct-lions-head",
+    "route-utct-utmb-2026-calendar"
   ],
   "relatedRefs": [
     "route:cape-town",
@@ -33,9 +34,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-11-08",
-  "updatedAt": "2026-11-22",
-  "reviewedAt": "2026-11-22",
-  "reviewDueAt": "2027-02-28",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
   "details": {
     "raceType": "trail-ultra",
     "countryCodes": [
@@ -54,7 +55,19 @@
     "courseVersion": "2026-utct-100k",
     "courseEdition": "2026",
     "courseStatus": "current",
-    "courseChanges": [],
+    "courseChanges": [
+      {
+        "sourceRef": "route-utct-itra-2026",
+        "note": {
+          "zh-CN": "12 Apostles 与 Llandudno Ravine 一段被组委会描述为「新增」：最初提出申请，因 Constantia Nek 拥堵最近才获许可；官方未给出启用年份，2023–2025 三届 roadbook 未取得，无法落到具体届次。",
+          "en": "The 12 Apostles and Llandudno Ravine section is described by the organiser as newly added, originally requested and only recently permitted because of Constantia Nek congestion; the official page gives no year, and the 2023–2025 roadbooks were not obtained, so it cannot be tied to a specific edition."
+        },
+        "edition": "2026",
+        "observedAt": "2026-11-25",
+        "field": "course",
+        "change": "new-course"
+      }
+    ],
     "direction": "Loop-based ultra starting and finishing in Cape Town, crossing Table Mountain, the Atlantic seaboard and the southern Cape Peninsula",
     "distanceMeters": 99100,
     "distanceMethod": "The official 2026 UT100 page lists 99.1 km in its race card; the organiser-submitted ITRA entry lists 99.85 km. The official GPX sums to 97.83 km of straight-line segment distance. The card uses the first-party 99.1 km and reports the other values in the body.",

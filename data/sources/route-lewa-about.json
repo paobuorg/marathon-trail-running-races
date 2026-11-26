@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-lewa-about",
+  "title": "About the race — official page (elevation, terrain, loops, wildlife species, contacts)",
+  "url": "https://www.lewasafarimarathon.com/about/",
+  "publisher": "Lewa Safari Marathon (official event site, Tusk and Lewa Wildlife Conservancy)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The race sits about 5,500 ft above sea level on rocky trails across savannah plains, river banks and acacia woodland.",
+    "The half marathon is one loop of the conservancy; the full marathon is two loops; the half is described as 13 miles and the full as 26 miles.",
+    "The conservancy hosts the Big Five, more than 70 animal species and over 400 bird species; Lewa holds about 12% of Kenya's black and white rhinos and the world's largest Grevy's zebra population.",
+    "Contact addresses: overseas corporate adele@tusk.org, overseas individuals hannah@tusk.org, Kenyan runners marathon@lewa.org, Kenyan corporate winfred@tusk.org."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 About 页海拔、环线、物种与联系方式",
+    "note": "海拔 5,500 ft 为 About 页口径；规则 PDF 另给平均 6,000 ft，两处并列。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "About：5,500 ft above sea level, rocky trails, savannah plains, river banks, acacia woodland。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "half one loop，full two loops；13 mi / 26 mi。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Big Five、70+ animal species、400+ birds、12% rhinos、largest Grevy's zebra。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "四个联系邮箱与对象分列。" }
+  ]
+}

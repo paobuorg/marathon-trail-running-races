@@ -11,6 +11,7 @@
     "route-mgu-openmeteo",
     "route-mgu-transport",
     "route-mgu-results-2026",
+    "route-mgu-itra-course-2026",
     "photo-gaoligong-range",
     "photo-gaoligong-tengchong-dawn",
     "photo-gaoligong-heshun-town"
@@ -24,9 +25,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-11-09",
-  "updatedAt": "2026-11-24",
-  "reviewedAt": "2026-11-24",
-  "reviewDueAt": "2027-03-04",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-11-25",
   "details": {
     "raceType": "trail-ultra",
     "countryCodes": [

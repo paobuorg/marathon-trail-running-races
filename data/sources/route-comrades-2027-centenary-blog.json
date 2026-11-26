@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-comrades-2027-centenary-blog",
+  "title": "The Greatest Story Ever Run — Comrades Marathon Launches 2027 Centenary Edition",
+  "url": "https://www.comrades.com/blogs/the-greatest-story-ever-run-comrades-marathon-launches-2027-centenary-edition",
+  "publisher": "Comrades Marathon Association (CMA)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "The CMA officially launched the 2027 centenary edition in Durban; the finish is the Kings Park sport precinct, the entry cap is 28,000, and 2027 is the 100th edition of the race.",
+    "The Comrades Marathon was first run in 1921 and has taken place nearly every year since, except five years during the Second World War (1941–45) and two years during the COVID pandemic (2020 and 2021).",
+    "The 2027 race is both the 100th edition overall and the 50th edition of the traditional Down Run, starting in Pietermaritzburg and finishing in Durban; the event runs in alternating directions between the two host cities each year.",
+    "The 2025 Down Run holds the Down Run entry record with 24,172 entries; the 2019 Up Run had 24,636 entries; the 2025 Down Run measured 89.98 km, and the longest route in Comrades history was the 92 km course of 1971.",
+    "With the finish moving to the Kings Park precinct, the 2027 route is expected to measure approximately 91 km; the official distance will be confirmed after formal measurement following ongoing roadworks expected to shorten several sections.",
+    "Entry fees for 2027 remain unchanged; fees have not increased since 2022. The 2027 entry process opens Tuesday 25 August 2026 in three phases, with the first window reserved for Green Number Club athletes.",
+    "Quick facts published by the CMA: race date Sunday 13 June 2027; Down Run Pietermaritzburg to Durban; start Pietermaritzburg City Hall at 05:00; finish Kings Park Rugby Precinct, Durban; distance approximately 91 km pending measurement; 12-hour time limit; on-route intermediate cut-offs to be announced in due course; campaign slogan The Greatest Story Ever Run."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-26",
+    "checkedVia": "WebFetch 读取 comrades.com 官方百年版发布博客全文",
+    "note": "届次、方向、起终点、时间、距离区间、历史停办年份、历届参赛纪录与里程、名额上限、费用与三阶段报名均在官方博客正文；约 91 km 为待丈量口径，与 Entry Terms 的约 89 km 并列呈现。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-26", "note": "发布段：Kings Park Rugby Stadium 发布；Kings Park sport precinct 终点；cap 28,000；100th edition。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-26", "note": "历史段：first run 1921；WWII 1941–45 五年；COVID 2020、2021 两年。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-26", "note": "同段：2027 = 100th overall + 50th Down Run；alternating directions。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-26", "note": "Record Field 段：2025 Down 24,172；2019 Up 24,636；2025 Down 89.98 km；1971 最长 92 km。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-26", "note": "同段：expected approximately 91 km；formal measurement after roadworks。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-26", "note": "费用段：unchanged since 2022；entry opens Tue 25 Aug 2026，three phases；Green Number 优先。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-26", "note": "QUICK FACTS 表逐行核对：13 June 2027、Down Run、PMB City Hall 05:00、Kings Park Rugby Precinct、~91 km pending measurement、12 hours、intermediate cut-offs due course、slogan。" }
+  ]
+}

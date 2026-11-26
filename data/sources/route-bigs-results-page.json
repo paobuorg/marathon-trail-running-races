@@ -1,0 +1,22 @@
+{
+  "sourceId": "route-bigs-results-page",
+  "title": "Results and race calendar page — Big's Backyard Ultra",
+  "url": "https://www.bigsbackyardultra.com/results",
+  "publisher": "Big's Backyard Ultra / Lazarus Lake",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The official Backyard Ultra description on the results/calendar page defines a yard as 6,706 meters (4.167 miles) to be run in less than one hour, with the remaining time in the hour used to recover before the next hour's race."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官网 Results 页正文",
+    "note": "2026-11-25 复核：该页为全球附属赛事日历入口；正文定义段给出 6706 米 / 4.167 英里口径。逐届 Big's 名次需跳转第三方成绩平台。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "正文：competitors must consecutively run the distance of 6706 meters (4.167 miles) in less than one hour; remaining time used to recover for the next hour's race。" }
+  ]
+}

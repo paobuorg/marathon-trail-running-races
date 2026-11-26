@@ -70,6 +70,39 @@ The point of the table is not the 47 m difference but the file's identity: the U
 
 The file has 650 `<ele>` values; summing adjacent raw differences gives **+283 / −357 m**, with a minimum of **3.8 m** and a maximum of **80.4 m** (first point 79.2 m, last 5.2 m). That differs from the official 2026 page's +313/−396 (and its Course Information block's +317/−400); the official page explicitly says the `.gpx` elevation is not 100 per cent accurate, so the raw sums are kept as a file check only and do not replace the official figures.
 
+## Results and course changes
+
+The 2026 results agree between the organiser's race report and the World Athletics results page:
+
+| Category | Winner | Time | Record basis |
+| --- | --- | ---: | --- |
+| Men's marathon | Addisu Gobena | 2:04:42 | Breaks the 2025 Kiros record of 2:06:06 by 1:24 |
+| Women's marathon | Peres Jepchirchir | 2:18:31 | 9 s outside the 2025 Hassan record of 2:18:22 |
+| Men's wheelchair | Daniel Romanchuk | 1:26:50 | Breaks the 2025 Hug record of 1:27:15, race and Australian all-comers |
+| Women's wheelchair | Manuela Schär | 1:42:04 | Breaks the Scaroni record of 1:44:52 by 2:48 |
+| Australian men's champion | Andy Buchanan | 2:10:14 | National champion |
+| Australian women's champion | Ellie Pashley | 2:28:28 | National champion |
+
+Men's runner-up Chimdessa Debele 2:04:46 and third Tebello Ramakongoana 2:04:57; women's runner-up Irine Cheptai 2:22:11 and third Shure Demise 2:22:33. The race report calls 2026 the fastest in Australian history; three of the four race records were broken.
+
+Course changes: `courseChanges` is an empty array; the verified sources contain no official evidence of a 2027 route adjustment, postponement or rule change, and this page does not state that "no changes occurred".
+
+## Entry and qualification
+
+- Bib pickup: race number collected at the TCS Sydney Marathon Running Show; the Running Expo ran 27–29 August 2026 at Sydney Olympic Park (2026 record; 2027 dates follow the official announcement).
+- Start groups: three start groups and three assembly areas (orange, red, green), rolling starts: Group 1 06:31, Group 2 07:03, Group 3 07:41; the start line opens 06:30–08:15 (course page), while the cut-off PDF lists the window to 08:40.
+- Field size: the 2026 course page records 35,000 runners; the Transport for NSW 2026 page records 40,000 entrants; both figures are kept side by side.
+- Pace Team: target groups from 2:30 to 7:00, with one sweeper covering up to 7 hours; pacers wear red singlets and carry a flag with the target time, run to chip time with a ±30 s half-way variation; the pace group is an aid, not an official pace requirement.
+- Unverified: ballot method, entry fee and age or qualification thresholds are not given on the pages read; this page does not fill them in, and 2027 entry terms follow that year's official page.
+
+| Start group | Start time | Assembly basis |
+| --- | ---: | --- |
+| Group 1 | 06:31 | Three assembly areas correspond to orange, red and green; assemble by bib colour and chute |
+| Group 2 | 07:03 | Same |
+| Group 3 | 07:41 | Same |
+
+The start line opens 06:30–08:15 (course page); the cut-off PDF lists the window to 08:40, both kept side by side.
+
 ## Segments
 
 | Segment | From → to | Distance | Gain / loss |
@@ -126,6 +159,20 @@ Now the cut-offs. Two official 2026 documents give different start windows: the 
 There are three ways a missed cut-off can be handled. A runner may retire, either into a SAG vehicle or by walking to the finish inside or outside the field of play. A runner may be redirected to skip part of the course and continue along the field of play to the finish, but the number is recorded and the runner is disqualified, not an official finisher. Or the runner may be picked up by the SAG vehicle that tails the event. A tail control pacer/sweep issues two warnings to runners behind the cut-off before any of those outcomes. In the table, 29.1, 33.4 and 35.1 km explicitly mention SAG pick-up; 33.4 km is the Centennial Park medical tent and 35.1 km is the Driver Ave hard cut-off.
 
 ![The 2026 TCS Sydney Marathon finisher medal, with "TCS SYDNEY MARATHON" and "2026" on the ribbon](/media/routes/sydney/medal-2026.jpg)
+
+## Gear and rules
+
+The pages read do not list a mandatory kit list for this road marathon; the table below records only the supply and rule details the organiser has stated.
+
+| Item | Official basis | Note |
+| --- | --- | --- |
+| Water | All 8 drink stations (5/10/15/20/25/30/35/40 km) supply water | Portable toilets at each station |
+| Sports drink | Powerade Mountain Blast at the 8 stations and finish recovery area | — |
+| Energy gel | GU at the 20 and 30 km stations only, limited and not guaranteed | Runners advised to carry their own |
+| Race rules | 7 h total cut-off, minimum pace 10:00/km | Cut-off counted from the start-line closure |
+| Sweep | Following SAG vehicle and tail-control pacer; two warnings first | Medical tent at 33.4 km; hard cut-off at 35.1 km |
+
+Other unverified items: bib-transfer rules, penalty details and on-course gear checks are not listed on the pages read; this page does not fill them in.
 
 ## Surface and terrain
 
@@ -190,6 +237,37 @@ The official pages do not publish a single "difficulty grade". What follows is t
 
 This site's rating: a 42.195 km city road marathon with +317 m of gain, −400 m of loss and −83 m net from the 2026 course page, a seven-hour limit at a minimum average of 10 min/km, and the start line plus ten mid-course cut-off or redirection points, of which 35.1 km is a hard cut-off. Those are the verifiable dimensions; this page does not rank the course against trail or mountain races and does not present the rating as the organiser's.
 
+## Training conversion
+
+This is a city road marathon; preparation centres on road endurance, pace rhythm and race-day fuelling, not an ultra-trail framework. The mapping below uses only verified facts on this page and gives no individual training prescription.
+
+| Verified fact | Training direction | Site reference |
+| --- | --- | --- |
+| 42.195 km city road, +317 / −400 m | Road marathon endurance and pace plan | [Marathon training plan](/en/knowledge/marathon-training-plan/), [Race-day pacing](/en/knowledge/race-day-pacing/) |
+| Harbour Bridge, Oxford Street rise, pre-finish descent | Rhythm for bridges and undulations | [Uphill and downhill running](/en/knowledge/uphill-and-downhill/) |
+| Limited gels at 20/30 km; carry your own | Practise race-day fuelling on long runs | [Race-day fueling](/en/knowledge/race-day-fueling/), [Hydration](/en/knowledge/hydration/) |
+| 7 h cut-off, 10:00/km minimum pace | Pre-race taper and recovery planning | [Strength and taper](/en/knowledge/strength-and-taper/), [Recovery day](/en/knowledge/recovery-day/) |
+
+Decision branches:
+
+| If your preparation is | Then the corresponding judgment is |
+| --- | --- |
+| Longest run under 30 km | Build marathon endurance first; do not reverse a pace plan from the 7 h cut-off |
+| No long city-road experience | Prioritise road pace and fuelling rhythm; do not apply ultra-trail walking experience |
+| Targeting sub-4 | Assess against the Pace Team groups and your own half-marathon and 30 km results |
+
+## Race-day execution card
+
+| Node | Verified action | Key constraint |
+| --- | --- | --- |
+| Before the race | Pick up at Running Show / Expo; arrive at the start area 60 min early | No parking at start or finish; public transport is the only option |
+| 06:30–08:15 (PDF to 08:40) | Rolling start by group | Groups split by bib colour and assembly chute |
+| 5/10/15/25/35/40 km stations | Water + Powerade; portable toilets | Limited GU gel at 20 and 30 km |
+| 28.3 / 29.1 km | Soft redirect points; can return to the finish | Pass by 1:22pm / 1:30pm |
+| 33.4 km Centennial Park | Medical tent and SAG transfer | Pass by 2:14pm |
+| 35.1 km Driver Ave | Hard cut-off and SAG point | Pass by 2:32pm |
+| Finish, Opera House | Recovery-zone refreshment and Powerade | Cut-off 3:15pm (course page) / 3:40pm (PDF) |
+
 ## Verified and unverified
 
 This page has not been run on the ground, so the two are kept strictly apart.
@@ -215,3 +293,10 @@ This page was written independently by the RunUp editorial team from the TCS Syd
 The page cites thirteen factual sources plus one editorial map-anchor source: `route-sydney` (2026 course page), `route-sydney-gpx-2026` (the GPX linked from the official 2026 page), `route-sydney-cutoff-2026` (cut-off and redirection PDF), `route-sydney-course-map-2026` (course map PDF), `route-sydney-transport-2026` (event transport page), `route-sydney-road-closures-2026` (three area closure pages), `route-sydney-transportnsw-2026` (Transport for NSW event page; 2026-11-07 record, redirected when re-checked on 2026-11-08), `route-sydney-results-2026` (official race report), `route-sydney-world-athletics-2026` (World Athletics results page), `route-sydney-wmm-2026` (Abbott World Marathon Majors race report), `route-sydney-pace-team-2026` (2026 Pace Team page), `route-sydney-openmeteo-2026` (Open-Meteo historical weather) and `photo-sydney-medal-2026` (the 2026 finisher medal photograph), plus `route-anchor-editorial`, which states that the map anchor is an editorial overview only. Each source's supported claims and access date appear in the source list at the bottom of the page.
 
 Event names, official marks, official route text, the official course map PDF, the cut-off PDF and official results remain the property of TCS Sydney Marathon and the respective rights holders; this page links to official files and does not redistribute PDFs or any course geometry. No redistribution licence for the official GPX was found on the check date, so this page does not bundle or draw the track; the GPX linked from the 2026 page is kept as an external link and a file check only, and because its internal name still says 2025 it does not prove a metre-by-metre 2026 update. World Athletics and Abbott World Marathon Majors text remains with their respective rights holders, and this page cites facts only. Open-Meteo data are used under CC BY 4.0 with attribution. Result lists are protected and are used for private information only; this page does not reproduce the full results. The medal photograph is by Tameem Mahmud 007 under CC BY-SA 4.0, taken on 30 August 2026 and verified against the Commons file page and API on 2026-11-20; it is not covered by this page's CC BY 4.0.
+
+<!-- related-ring -->
+## Related entries
+
+- [Tarawera TMiler: 163 km in New Zealand, five distances separated, sixteen timing points and a 2026 GPX linked from a 2027 page](/en/routes/tarawera/)
+- [Torrencial Chile by UTMB: the full Pilolcura 100K course guide (2027)](/en/routes/torrencial-chile/)
+- [UTA100: 101 km in the Blue Mountains, with every UTA distance kept apart](/en/routes/ultra-trail-australia/)

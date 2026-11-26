@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-seoul-2027-faq",
+  "title": "2027 Seoul Marathon — FAQ for overseas participants",
+  "url": "https://en.seoul-marathon.com/60/?idx=173984460&bmode=view",
+  "publisher": "Seoul Marathon Organizing Committee (The Dong-A Ilbo)",
+  "publishedAt": "2026-09-20",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Entry selection is first-come, first-served by payment order; there is no ballot or lottery.",
+    "The overseas record submission window runs 1 October 2026 10:00 to 30 November 2026 14:00 KST; runners who miss the window have their registration cancelled.",
+    "An entry may not be transferred or resold; a substitute runner's registration is invalid and leads to disqualification.",
+    "Race packs are collected at the Seoul Running Expo at DDP; items are not restocked after the expo.",
+    "The Gold Package is sold out; no upgrade is offered after purchase, and no additional registration schedule is published."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取公告 idx=173984460 FAQ 图文",
+    "note": "报名顺序、成绩提交窗口、转让限制、领物补货与 Gold Package 条款可读。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "First-come first-served, assigned by payment order；no ballot" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Record submission 1 Oct 2026 10:00 – 30 Nov 2026 14:00 KST；late submission cancels registration" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Non-transferable, non-resellable；substitute = invalid/DQ" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Pickup at Seoul Running Expo DDP；no restock" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "Gold Package sold out；no upgrade；no second schedule" }
+  ]
+}

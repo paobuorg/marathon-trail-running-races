@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-boston-results-archive",
+  "title": "Boston Marathon Results hub (BAA)",
+  "url": "https://www.baa.org/races/boston-marathon/results/",
+  "publisher": "Boston Athletic Association",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The BAA results hub links the 2026 Live Tracking & Results entry and the 2026 Results Book, and holds archived results from 1897 through 2000.",
+    "On the results hub's 2025 men's open listing, John Korir of Kenya is shown first with a finish net time of 2:04:45.",
+    "The hub provides year and group filters (Runners, Wheelchairs, Handcycles, Duos) but the runner table is JS-rendered; at read time only the default year table was legible."
+  ],
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "页面顶部：2026 Live Tracking & Results、2026 Results Book 链接；下方 1897-2000 Archived Results 链接。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "默认 2025 表：Place 1 / John Korir / Kenya / BIB 2 / Half 1:01:54 / Finish Net 2:04:45。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "页面筛选器含 Year、Group；表格经脚本渲染，静态抓取只读到默认年份行。" }
+  ],
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 BAA 成绩归档页",
+    "note": "HTTP 200；归档入口与默认年份男子冠军行可读，其余年份表格需在站点内交互筛选。"
+  },
+  "license": null
+}

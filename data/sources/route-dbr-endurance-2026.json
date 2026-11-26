@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-dbr-endurance-2026",
+  "title": "Endurance Sportswire — 2026 Dragon's Back Race report: 11th edition, Ultra X debut and mandatory route",
+  "url": "https://www.endurancesportswire.com/dragon-s-back-race-2026-ultra-x/",
+  "publisher": "Endurance Sportswire (third-party press wire)",
+  "publishedAt": "2026-09-12",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2026 edition drew 210 participants from 20 nations; it was the 11th running and the first under Ultra X ownership.",
+    "The event traces its origin to the 1992 inaugural race; the revived modern series has run under Ourea Events before the 2026 change of ownership.",
+    "For the 2026 edition the organisers set a single mandatory route for participants, rather than leaving runners to choose their own line between checkpoints."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": false,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "general_search 摘要读取赛事通讯稿",
+    "note": "通讯稿口径：210 人/20 国为全格式总人数；2026 首次采用强制路线的变化需在正文标注为当届新规。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "partial", "checkedAt": "2026-11-25", "note": "摘要：210 participants, 20 nations; 11th edition; first under Ultra X。" },
+    { "index": 1, "status": "partial", "checkedAt": "2026-11-25", "note": "摘要：originated in 1992; Ourea revived the modern series。" },
+    { "index": 2, "status": "partial", "checkedAt": "2026-11-25", "note": "摘要：first time a single mandatory route was set for participants。" }
+  ]
+}

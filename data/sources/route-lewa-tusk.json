@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-lewa-tusk",
+  "title": "Lewa Safari Marathon — Tusk event page (organisers, scale, conservation impact, air monitoring)",
+  "url": "https://www.tusk.org/event/lewa-safari-marathon/",
+  "publisher": "Tusk Trust (event co-organiser)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The event is organised by Tusk in partnership with the Lewa Wildlife Conservancy and co-headline sponsored by Safaricom and Huawei; the 2026 edition returned on 27 June 2026 and the 2027 edition will take place on 15 May 2027.",
+    "Approximately 1,400 runners take part each year, with more than 25,000 participants in the event's history.",
+    "The marathon has raised over USD 9 million over its 25-year history for wildlife conservation and community development in Kenya, including black rhino and Grevy's zebra protection, healthcare, water, infrastructure and education.",
+    "A helicopter monitors the course from the air and helps guide animals such as white rhino away from runners; six hospitals and clinics in and around the conservancy are supported each year, and more than 10,000 schoolchildren have benefited through bursaries and school support."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 Tusk 事件页",
+    "note": "筹款总额以 Tusk 当前页 over $9 million 为准；早期资料有 $8.5 million 旧口径，不并列进结论。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Tusk + Lewa；Safaricom/Huawei；27 Jun 2026；15 May 2027。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Approximately 1,400 runners/year；more than 25,000 in history。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "over $9 million in 25-year history；rhino、Grevy's zebra、healthcare、water、education。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "helicopter guides animals away；six hospitals/clinics；>10,000 schoolchildren。" }
+  ]
+}

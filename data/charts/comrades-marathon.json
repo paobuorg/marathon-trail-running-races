@@ -1,0 +1,47 @@
+{
+  "slug": "comrades-marathon",
+  "charts": [
+    {
+      "id": "qualifying-times-by-distance",
+      "kind": "bar",
+      "title": {
+        "zh-CN": "Comrades 2027 资格标准：不同距离资格赛事的完赛时限上限",
+        "en": "Comrades 2027 qualifying standards: finish-time ceiling by qualifying race distance"
+      },
+      "unit": {
+        "zh-CN": "完赛时限（分钟，达到或快于该标准方可申请）",
+        "en": "finish-time ceiling in minutes (qualifying result must be at or faster)"
+      },
+      "categories": {
+        "zh-CN": ["42.2 km", "48 km", "50 km", "52–54 km", "56 km", "60 km", "64 km", "80 km", "90 km", "100 km"],
+        "en": ["42.2 km", "48 km", "50 km", "52–54 km", "56 km", "60 km", "64 km", "80 km", "90 km", "100 km"]
+      },
+      "values": [300.0, 360.0, 370.0, 390.0, 420.0, 460.0, 495.0, 635.0, 720.0, 815.0],
+      "note": {
+        "zh-CN": "时限照录 CMA 官方 FAQ 资格表（42.2 km 4:59:59、48 km 5:59:59、50 km 6:09:59、52–54 km 6:29:59、56 km 6:59:59、60 km 7:39:59、64 km 8:14:59、80 km 10:34:59、90 km 11:59:59、100 km 13:34:59），图内按分钟取整显示；只认官方公布成绩，Garmin/Strava 个人设备记录不接受。本站自制图，非官方赛道剖面。",
+        "en": "Ceilings transcribed from the official CMA FAQ qualification table (42.2 km 4:59:59, 48 km 5:59:59, 50 km 6:09:59, 52–54 km 6:29:59, 56 km 6:59:59, 60 km 7:39:59, 64 km 8:14:59, 80 km 10:34:59, 90 km 11:59:59, 100 km 13:34:59); chart rounds to minutes. Only officially published results count; Garmin/Strava personal-device records are not accepted. Site-made chart, not an official course profile."
+      }
+    },
+    {
+      "id": "starters-finishers-2026",
+      "kind": "bar",
+      "title": {
+        "zh-CN": "2026 Comrades（Up Run）：起跑人数与完赛人数",
+        "en": "2026 Comrades (Up Run): starters and finishers"
+      },
+      "unit": {
+        "zh-CN": "人数",
+        "en": "runners"
+      },
+      "categories": {
+        "zh-CN": ["起跑", "完赛"],
+        "en": ["Starters", "Finishers"]
+      },
+      "values": [21633, 18523],
+      "note": {
+        "zh-CN": "起跑 21,633 人取自 CMA 赛前医疗安全博客；完赛 18,523 人取自 CMA 2026 赛后官方博客；两者分别来自不同官方发布，未含退赛与关门细节。本站自制图，非官方赛道剖面。",
+        "en": "Starters 21,633 from the CMA pre-race medical-safety blog; finishers 18,523 from the CMA official 2026 post-race blog; the two figures come from separate official releases and do not break down retirements or cut-offs. Site-made chart, not an official course profile."
+      }
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
   "sourceId": "route-comrades-race-information",
-  "title": "Comrades Marathon Race Information — entry fees, medals, records",
+  "title": "Comrades Marathon Race Information — entry fees, medals, medal bands, records",
   "url": "https://www.comrades.com/race-information",
   "publisher": "Comrades Marathon Association (CMA)",
   "publishedAt": null,
-  "accessedAt": "2026-11-08",
+  "accessedAt": "2026-11-26",
   "claims": [
     "The 2027 entry fee is R1,200 for South African citizens, R2,000 for entrants from the rest of Africa and R4,500 for international entrants.",
     "Badges and medals are awarded to all official finishers who complete the full distance within the 12-hour cut-off.",
@@ -13,23 +13,40 @@
     "All athletes must complete the medical questionnaire, available after login to the online entry profile.",
     "The official substitution period will be announced at the start of 2027.",
     "An entry is only confirmed once payment has been successfully processed, by card or online instant EFT.",
-    "Failure to meet the stipulated qualifying criteria results in the entry being rejected, removal from the entry database, and no race T-shirt or goodie bag."
+    "Failure to meet the stipulated qualifying criteria results in the entry being rejected, removal from the entry database, and no race T-shirt or goodie bag.",
+    "Gold medals go to the first 10 men and the first 10 women.",
+    "The Wally Hayward medal (men) covers 11th place to 5:59:59; the Isavel-Roche Kelly medal (women) covers 11th place to 6:59:59.",
+    "Silver medals run 6:00:00–7:29:59 for men and 7:00:00–7:29:59 for women.",
+    "The Bill Rowan medal covers 7:30:00–8:59:59.",
+    "The Robert Mtshali medal covers 9:00:00–9:59:59.",
+    "The Bronze medal covers 10:00:00–10:59:59.",
+    "The Vic Clapham medal covers 11:00:00–11:59:59.",
+    "The overall finish cut-off is 12 hours; on-route intermediate cut-off locations and times for 2027 will be confirmed in the Final Race Instructions after the start format is approved."
   ],
   "license": null,
   "verification": {
     "access": "direct",
     "bodyRead": true,
-    "checkedAt": "2026-11-08",
-    "note": "2026-11-08 直取赛事 Race Information 页，抄录报名费、12 小时奖牌、Best Down Run、2027 起跑分组、医疗问卷与替换期。"
+    "checkedAt": "2026-11-26",
+    "checkedVia": "WebFetch 读取 comrades.com/race-information 全文，核对报名费、12 小时奖牌、奖牌梯度表、Best Down Run、起跑分组与医疗问卷条款",
+    "note": "奖牌梯度表按官方页面逐档抄录；男子与女子 Silver 起算时间不同；2027 逐点关门仍待 Final Race Instructions。"
   },
   "claimVerification": [
-    { "index": 0, "status": "supported", "checkedAt": "2026-11-08", "note": "Entry Fee 表：South Africa Citizens R1,200；Rest of Africa Entrants R2,000；International Entrants R4,500。" },
-    { "index": 1, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Badges and Medals will be awarded to all official finishers who complete the full distance within the 12-hour cut-off.'" },
-    { "index": 2, "status": "supported", "checkedAt": "2026-11-08", "note": "Best \"Down Run\" Time 表：5:13:58 Tete Dijana in 2023；5:44:54 Gerda Steyn in 2023。" },
-    { "index": 3, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'2027 Start Group Seedings will be announced at the start of 2027.'" },
-    { "index": 4, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'All athletes must complete the medical questionnaire...'" },
-    { "index": 5, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'The official substitution period will be announced at the start of 2027.'" },
-    { "index": 6, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'An entry is only confirmed once payment has been successfully processed.'" },
-    { "index": 7, "status": "supported", "checkedAt": "2026-11-08", "note": "原文：'Failure to meet the stipulated qualifying criteria will result in the athlete’s entry being rejected... they will NOT receive a race t-shirt or goodie bag.'" }
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-26", "note": "Entry Fee 表：South Africa Citizens R1,200；Rest of Africa R2,000；International R4,500。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-26", "note": "原文：'Badges and Medals will be awarded to all official finishers who complete the full distance within the 12-hour cut-off.'" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-26", "note": "Best Down Run Time 表：5:13:58 Tete Dijana 2023；5:44:54 Gerda Steyn 2023。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-26", "note": "原文：'2027 Start Group Seedings will be announced at the start of 2027.'" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-26", "note": "原文：'All athletes must complete the medical questionnaire...'" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-26", "note": "原文：'The official substitution period will be announced at the start of 2027.'" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-26", "note": "原文：'An entry is only confirmed once payment has been successfully processed.'" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-26", "note": "原文：不符合资格将被 reject、移出数据库，不发 T 恤与 goodie bag。" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-26", "note": "奖牌表：Gold = first 10 men & women。" },
+    { "index": 9, "status": "supported", "checkedAt": "2026-11-26", "note": "Wally Hayward 男子 11th–5:59:59；Isavel-Roche Kelly 女子 11th–6:59:59。" },
+    { "index": 10, "status": "supported", "checkedAt": "2026-11-26", "note": "Silver：男子 6:00:00–7:29:59；女子 7:00:00–7:29:59。" },
+    { "index": 11, "status": "supported", "checkedAt": "2026-11-26", "note": "Bill Rowan：7:30:00–8:59:59。" },
+    { "index": 12, "status": "supported", "checkedAt": "2026-11-26", "note": "Robert Mtshali：9:00:00–9:59:59。" },
+    { "index": 13, "status": "supported", "checkedAt": "2026-11-26", "note": "Bronze：10:00:00–10:59:59。" },
+    { "index": 14, "status": "supported", "checkedAt": "2026-11-26", "note": "Vic Clapham：11:00:00–11:59:59。" },
+    { "index": 15, "status": "supported", "checkedAt": "2026-11-26", "note": "12 小时总关门；2027 中途关门点时刻待 Final Race Instructions，与 Entry Terms 12.8 一致。" }
   ]
 }

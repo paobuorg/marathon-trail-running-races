@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-paris-results-2024-wa",
+  "title": "World Athletics Label Road Races results — Schneider Electric Marathon de Paris, 7 April 2024",
+  "url": "https://worldathletics.org/competitions/world-athletics-label-road-races/calendar-results/7208360/result",
+  "publisher": "World Athletics",
+  "publishedAt": "2024-04-07",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "World Athletics records the Paris marathon in Paris (FRA) on 7 April 2024 under event ID 7208360; this was the 47th edition.",
+    "Men's winner: Mulugeta Asefa UMA (ETH) 2:05:33.",
+    "Women's winner: Mestawut FIKIR (ETH) 2:20:45; runner-up Enatnesh Alamrew TIRUSEW (ETH) 2:20:48.",
+    "The 2024 men's podium was completed by Titus Kipruto (KEN) 2:05:48 and Elisha Rotich (KEN) 2:06:54, per race recaps cross-checked against the WA listing."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "general_search 命中 WA 7208360 结果页；男子二三名为第三方赛况回顾旁证",
+    "note": "WA 为权威成绩库；2024 届次 47th 与 ASO 2025 赛前 PDF 一致。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "WA 7208360：Paris FRA, 07 APR 2024；ASO PDF 称 47th edition。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "WA 男子表：Uma ETH 2:05:33。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "WA 女子表：Fikir 2:20:45、Tirusewe 2:20:48。"
+    },
+    {
+      "index": 3,
+      "status": "partial",
+      "checkedAt": "2026-11-25",
+      "note": "男子二三名为 Sortiraparis/Directmatin 赛况回顾；WA 摘要仅完整显示冠军，故标 partial。"
+    }
+  ]
+}

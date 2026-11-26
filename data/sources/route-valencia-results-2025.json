@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-valencia-results-2025",
+  "title": "Ranking 2025 — 45th Valencia Marathon official results page",
+  "url": "https://www.valenciaciudaddelrunning.com/en/marathon/2025-marathon-ranking/",
+  "publisher": "S.D. Correcaminos",
+  "publishedAt": "2025-12-07",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 45th Valencia Marathon was held on 7 December 2025 at 08:15 over 42.195 metres.",
+    "Men's podium: John Korir (KEN) 2:02:24; Amanal Petros (GER) 2:04:03; Awet Kibrab (NOR) 2:04:24.",
+    "Women's podium: Joyciline Jepkosgei (KEN) 2:14:00; Peres Jepchirchir (KEN) 2:14:43; Chloé Herbiet (BEL) 2:20:38.",
+    "Recorded on the ranking page: exit weather 14°C, 70% humidity, 15 km/h wind; finish weather 17°C, 70% humidity, 15 km/h wind.",
+    "Classified finishers: 30,775 total (23,396 men, 7,356 women, 23 non-binary)."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官网 2025 ranking 页概览与分组统计",
+    "note": "名次、成绩、国籍与现场天气、完赛人数均取自官方排名页。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "45th, Day/Hour 07-12-2025 8:15AM, Distance 42.195 metros。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Male：KORIR 2:02:24 KEN；PETROS 2:04:03 GER；KIBRAB 2:04:24 NOR。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Female：JEPKOSGEI 2:14:00 KEN；JEPCHIRCHIR 2:14:43 KEN；HERBIET 2:20:38 BEL。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Exit 14º 70% 15km/h；Finish 17º 70% 15km/h。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "Participation：Male 23,396 / Female 7,356 / Non-binary 23 / Total 30,775。" }
+  ]
+}

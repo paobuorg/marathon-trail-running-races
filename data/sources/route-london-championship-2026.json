@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-london-championship-2026",
+  "title": "Championship Entry – TCS London Marathon",
+  "url": "https://www.tcslondonmarathon.com/enter/how-to-enter/championship-entry",
+  "publisher": "London Marathon Events",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "2026 Championship places are capped at 1,200 (600 men, 600 women), selected fastest-first if applications exceed the cap; the application time must be achieved between 1 October 2024 and 30 September 2025.",
+    "Application times: marathon sub 2:38:00 men / sub 3:10:00 women; half marathon sub 1:11:30 men / sub 1:26:00 women.",
+    "Applicants must be registered members of a UK athletics body (England Athletics, Scotland Athletics, Welsh Athletics or Athletics Northern Ireland); non-UK residents who are UKA members may apply but are not eligible for the GFA fallback if unsuccessful.",
+    "A half-marathon time can only be used by runners who have never completed a marathon, or by runners whose marathon qualification time falls outside the qualifying window; falsification leads to a ban of up to five years, and a second breach to a life ban."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 championship-entry 正文与 Application Times 表",
+    "note": "名额上限、资格成绩、会员要求与半马使用条件均在页面正文中"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：capped at 1,200 (600 men, 600 women)；fastest-first；period 1 Oct 2024–30 Sep 2025"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Application Times 表：Marathon 2:38:00 / 3:10:00；Half 1:11:30 / 1:26:00"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：registered member of a UK athletics body；非英国居民须为 UKA 会员，未中选不能转 GFA"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "FAQ：half-marathon 仅首马跑者或全马成绩在窗口外者可用；falsification ban up to five years, second breach life"
+    }
+  ]
+}

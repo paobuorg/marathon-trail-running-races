@@ -1,0 +1,55 @@
+{
+  "sourceId": "route-paris-course-presentation",
+  "title": "Organiser event presentation: route landmarks, FFA Gold Label and all-time top-10 lists",
+  "url": "https://www.schneiderelectricparismarathon.com/en/event/presentation",
+  "publisher": "A.S.O. — Schneider Electric Marathon de Paris official website",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The event is described as an FFA Gold Label certified road race over the 42.195 km distance.",
+    "The organiser's own route prose: runners start at the foot of the Arc de Triomphe, head to Place de la Concorde, along Rue de Rivoli past Opéra Garnier and Place de la Bastille, cross the Bois de Vincennes, pass views of Notre-Dame and the Eiffel Tower on the way home, taking in the Champs-Élysées, Bois de Vincennes and Bois de Boulogne.",
+    "The official men's all-time top 10 lists Elisha Rotich (KEN) 2:04:21 from 2021 as the fastest men's performance on the Paris course; Kenenisa Bekele (ETH) 2:05:04 (2014) is second.",
+    "The static women's top-10 table on this presentation page still lists Judith Jeptum (KEN) 2:19:48 (2022) at the top; the page was not updated after the 2026 women's course record, so its women's list is not the current record reference.",
+    "The Run Experience trade fair at Porte de Versailles takes place three days before the marathon."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取官网 About 页正文与两张 top-10 表",
+    "note": "男子 top-10 与 2026 新闻一致；女子 top-10 为旧表，正文以 2026 官网新闻的 2:18:34 新纪录为准。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 About：“a road race certified FFA Gold Label”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 About 路线叙述：凯旋门起点 → 协和广场 → 里沃利路 → 加尼叶歌剧院 → 巴士底广场 → 文森森林 → 巴黎圣母院/埃菲尔铁塔。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "男子表第 1：Rotich KEN 2:04:21（2021）；第 2 Bekele ETH 2:05:04（2014）。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "女子表表头仍为 Jeptum 2:19:48（2022）；2026 Demise 2:18:34 见 route-paris-2026-elite-news。"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "官网 About：Run Experience 展会在 Porte de Versailles，赛前三天举行。"
+    }
+  ]
+}

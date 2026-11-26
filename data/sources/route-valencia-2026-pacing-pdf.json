@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-valencia-2026-pacing-pdf",
+  "title": "Tiempos de paso 42K Valencia 2026 — official per-kilometre split PDF",
+  "url": "https://cdn1.valenciaciudaddelrunning.com/wp-content/uploads/2026/11/tiempos-de-paso-42k-valencia-2026.pdf",
+  "publisher": "S.D. Correcaminos",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The official split-time PDF lists per-kilometre road names from km 0 Puente de Monteolivete to km 42 Ciudad de las Artes y las Ciencias, with the finish at Lago CACSA frente Hemisfèric.",
+    "The half-marathon point (M.M./HM) is marked at km 21, Calle de la Reina.",
+    "The PDF provides two reference split clocks per kilometre, labelled DESDE/FROM and HASTA/TO, spanning the fastest and slowest wave pacing windows; these are reference clocks, not published cut-off times.",
+    "The PDF header lists nine start times: 8:15, 8:25, 8:35, 8:45, 8:55, 9:05, 9:15, 9:25 and 9:35."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "下载官方 PDF（117,835 字节）并逐页读图核对公里点、街名与两列时钟",
+    "note": "PDF 一页，表头 06.12.26；FROM/TO 两列分别对应快慢波次参考时刻。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "KM 0 Puente de Monteolivete；KM 42 Ciudad de las Artes y las Ciencias；META/FINISH Lago CACSA frente Hemisfèric。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "M.M./HM 行：21, Calle de la Reina，FROM 9:15 / TO 12:24。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "列名 DESDE/FROM、HASTA/TO；表内未标注为关门时间，规则页唯一硬性中途关门点为 km 25 12:57。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "页首：9 salidas/9 start times: 8:15 - 8:25 - 8:35 - 8:45 - 8:55 - 9:05 - 9:15 - 9:25 - 9:35h。"
+    }
+  ]
+}

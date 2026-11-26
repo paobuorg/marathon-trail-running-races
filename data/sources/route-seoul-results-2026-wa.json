@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-seoul-results-2026-wa",
+  "title": "World Athletics results — Seoul Marathon, 15 MAR 2026 (96th Dong-A)",
+  "url": "https://worldathletics.org/competitions/world-athletics-label-road-races/calendar-results/7235569/result",
+  "publisher": "World Athletics",
+  "publishedAt": "2026-03-15",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The WA result page records the race on 15 MAR 2026 in Seoul (KOR).",
+    "Men's Marathon winner: Haftu TEKLU (ETH), 2:04:22; runner-up Getaneh MOLLA (ETH), 2:04:23.",
+    "Women's Marathon winner: Haven Hailu DESSE (ETH), 2:19:09.",
+    "The page carries the World Athletics Platinum Label Road Race 2026 and Heritage Site competition badges."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 WA competition 7235569 成绩页男子/女子马拉松名次表",
+    "note": "名次表读出冠军与亚军成绩；徽章为页面标注。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Seoul (KOR) 15 MAR 2026" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Men 1 Haftu TEKLU ETH 2:04:22；2 Getaneh MOLLA ETH 2:04:23" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Women 1 Haven Hailu DESSE ETH 2:19:09" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Platinum Label Road Race 2026 / Heritage Site 徽章" }
+  ]
+}

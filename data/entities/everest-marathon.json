@@ -1,0 +1,64 @@
+{
+  "entityId": "route:everest-marathon",
+  "slug": "everest-marathon",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-everest-homepage",
+    "route-everest-full-event",
+    "route-everest-registration",
+    "route-everest-nepali-registration",
+    "route-everest-essentials",
+    "route-everest-itinerary",
+    "route-everest-results-2026",
+    "route-everest-results-2025",
+    "route-everest-results-2006",
+    "route-everest-results-index",
+    "route-everest-thirdparty-course",
+    "route-everest-openmeteo"
+  ],
+  "relatedRefs": [
+    "knowledge:altitude-and-running",
+    "knowledge:uphill-and-downhill",
+    "knowledge:trail-gear",
+    "knowledge:cold-weather-running",
+    "knowledge:jet-lag-and-race-travel"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "trail-mountain",
+    "countryCodes": [
+      "NP"
+    ],
+    "placeName": {
+      "zh-CN": "尼泊尔萨加玛塔国家公园，珠峰大本营至南池市场（昆布地区）",
+      "en": "Everest Base Camp to Namche Bazaar, Khumbu, Sagarmatha National Park, Nepal"
+    },
+    "mapAnchor": {
+      "longitude": 86.7136,
+      "latitude": 27.4288,
+      "kind": "overview",
+      "sourceRef": "route-everest-full-event"
+    },
+    "courseVersion": "2027-everest-marathon-ebc-to-namche",
+    "courseEdition": "2027",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "Point-to-point downhill on Khumbu trekking trails: Everest Base Camp (Khumbu Icefall) via Gorakhshep, Lobuche, Thukla, Dingboche, the Bibre loop, Pangboche, Tengboche, Laublsasa and Kyanjuma, finishing at the Yak Parking Lot (Chaur Camp) in Namche Bazaar near the Sherpa Culture Museum.",
+    "distanceMeters": 42195,
+    "distanceMethod": "The official full-marathon page states 42.195 km from Everest Base Camp (Khumbu Icefall) to Namche Bazar; this Base Camp-to-Namche traditional route remains active on the 2026 results pages and the 2027 homepage. The event-page text gives the start as 5,356 m while the elevation chart starts at 5,360 m; the finish is Namche at 3,440 m, a net descent of about 1,916–1,920 m by subtraction. No certified measured track, cumulative ascent/descent figure or downloadable GPX/KML track was published on the pages reviewed.",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "The event name, official marks, official text, elevation table and results lists remain the property of the Tenzing Hillary Everest Marathon organiser. The event pages embed AllTrails custom-route maps (third-party platform); this site does not host, mirror or redraw the course and does not bundle a track file. No track redistribution licence was located. Open-Meteo reanalysis data is used under CC BY 4.0 with attribution. Site text is CC BY 4.0."
+  }
+}

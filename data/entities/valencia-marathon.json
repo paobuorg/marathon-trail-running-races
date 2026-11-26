@@ -1,0 +1,66 @@
+{
+  "entityId": "route:valencia-marathon",
+  "slug": "valencia-marathon",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-valencia-2026-regulations",
+    "route-valencia-2026-registration",
+    "route-valencia-2026-course-page",
+    "route-valencia-2026-course-pdf",
+    "route-valencia-2026-pacing-pdf",
+    "route-valencia-results-2025",
+    "route-valencia-results-2024",
+    "route-valencia-results-2023",
+    "route-valencia-edition-history",
+    "route-valencia-city-traffic-2025",
+    "route-valencia-race-services",
+    "route-valencia-openmeteo",
+    "route-valencia-renfe-discount",
+    "route-anchor-editorial"
+  ],
+  "relatedRefs": [
+    "knowledge:race-day-pacing",
+    "knowledge:marathon-distance",
+    "tool:race-predict",
+    "tool:splits",
+    "tool:pace"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "road-marathon",
+    "courseVersion": "2026-valencia-marathon-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "Starts at Plaça de la Marató beside the City of Arts and Sciences; finishes on the footbridge over the CACSA lake in front of the Hemisfèric. The 42.195 km route is an urban loop out through El Cabanyal and the seafront, into the historic centre and the northern avenues, then back to the City of Arts; start and finish are in the same waterfront district, so it is not a cross-city point-to-point race.",
+    "placeName": {
+      "zh-CN": "西班牙瓦伦西亚（艺术科学城一带）",
+      "en": "Valencia, Spain (City of Arts and Sciences)"
+    },
+    "countryCodes": [
+      "ES"
+    ],
+    "mapAnchor": {
+      "kind": "overview",
+      "latitude": 39.456,
+      "longitude": -0.3503,
+      "sourceRef": "route-anchor-editorial"
+    },
+    "distanceMeters": 42195,
+    "distanceMethod": "Official regulations, course PDF and ranking pages all state 42.195 km on urban asphalt; no competing distance figure was published on reviewed official pages.",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "The official 2026 static course map PDF/JPG, pacing PDF and race photographs are organiser copyright materials; this page links to the official course page and PDFs only. No downloadable GPX, KML or GeoJSON track was published by the organiser, so no geometry file is bundled or redrawn. The Strava route linked from the official course page is a third-party segment and is not treated as certified geometry."
+  }
+}

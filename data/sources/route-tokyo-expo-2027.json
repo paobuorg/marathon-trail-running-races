@@ -1,0 +1,46 @@
+{
+ "sourceId": "route-tokyo-expo-2027",
+ "title": "Tokyo Marathon EXPO 2027",
+ "url": "https://www.marathon.tokyo/en/expo/",
+ "publisher": "Tokyo Marathon Foundation",
+ "publishedAt": null,
+ "accessedAt": "2026-11-26",
+ "claims": [
+  "Tokyo Marathon EXPO 2027 runs on 4–5 March 10:00–21:00 and 6 March 10:00–18:00.",
+  "Packet pickup at the EXPO runs 4–5 March 10:00–20:30 and 6 March 10:00–17:30.",
+  "Packet pickup is in person only, with photo-ID check; proxy pickup is not allowed.",
+  "Runners receive a wristband at packet pickup that must be worn until the finish."
+ ],
+ "license": null,
+ "verification": {
+  "access": "direct",
+  "bodyRead": true,
+  "checkedAt": "2026-11-26"
+ },
+ "claimVerification": [
+  {
+   "index": 0,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "Period 段列出 3 月 4–5 日 10:00–21:00、3 月 6 日 10:00–18:00。"
+  },
+  {
+   "index": 1,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "Packet Pick-up 段列出 4–5 日 10:00–20:30、6 日 10:00–17:30。"
+  },
+  {
+   "index": 2,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "同段写明必须本人领取，禁止代理，并检查带照片证件。"
+  },
+  {
+   "index": 3,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "同段写明发放 wristband，须戴到终点。"
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+  "sourceId": "route-berlin-registration-2026",
+  "title": "Registration information – BMW BERLIN-MARATHON",
+  "url": "https://www.bmw-berlin-marathon.com/en/registration/registration-information",
+  "publisher": "SCC Events",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2026 BMW BERLIN-MARATHON takes place on 27 September 2026; as with all AbbottWMM events, entries are allocated by lottery, with the lottery open 25 September to 6 November 2025.",
+    "Participants aged 18 (age group 2008) and older are admitted; the course must be completed within the 6:15 time limit counted from crossing the start line; walkers are permitted within the limit, Nordic walkers are not.",
+    "The 2026 participation fee is 205€; the package includes timing, a four-day public transport ticket in fare zone ABC, a pacemaker for each start wave, the event app, refreshments, medal, personalized e-certificate, finish poncho (or a €5 clothing bag), massage, medical care, showers and changing tents.",
+    "Entries are personal and event-related and may not be transferred to another person or year; fees are not refunded without exception, and a cancellation insurance is offered; pregnancy allows a goodwill deferral of up to three years on medical certificate.",
+    "Race material is collected only in person at the MARATHON EXPO by BRITA at Messe Berlin, against the start card and a photo ID; no power of attorney is accepted; on race day no clothes, valuables or luggage may be brought to the start/finish area."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 registration-information 正文（eligibility / fee / package / cancellation / start card）",
+    "note": "费用 205€ 为 2026 届口径；2027 届 215€ 见 route-berlin-entry-2027，两版费用分别标注"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：27 September 2026；allocate by lottery；lottery 25 Sep–6 Nov 2025"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Eligibility：age group 2008+；time limit 6:15 from start line；walker permitted；Nordic walker not"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Participation fee 205€；package 清单逐项在正文中列出"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Cancellation/transfer：personal and event-related, not transferable; no refund; pregnancy deferral up to 3 years"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Start Card and race material：EXPO by BRITA at Messe Berlin；start card + picture ID；only personally；no luggage at start/finish"
+    }
+  ]
+}

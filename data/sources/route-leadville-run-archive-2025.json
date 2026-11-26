@@ -1,0 +1,32 @@
+{
+  "sourceId": "route-leadville-run-archive-2025",
+  "title": "Leadville Trail 100 Run — archived event page (traditional 11-station course, 2025 rundown cutoffs and crew/pacer layout)",
+  "url": "https://www.leadvilleraceseries.com/run/leadvilletrail100run-2/",
+  "publisher": "Life Time Leadville Race Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The archived event page lists 11 aid stations on the traditional course: Mayqueen outbound 12.4 mi cutoff 7:45am; Outward Bound outbound 23.3 mi cutoff 10:00am; Half Pipe outbound 29.2 mi cutoff 11:30am; Twin Lakes Village outbound 37.9 mi cutoff 1:30pm; Hope Pass outbound 43.1 mi cutoff 4:00pm; Winfield turnaround 49.8 mi cutoff 6:00pm; Hope Pass inbound 56.7 mi with no inbound cutoff; Twin Lakes Village inbound 61.8 mi cutoff 10:15pm; Half Pipe inbound 70.3 mi cutoff 1:15am; Outward Bound inbound 76.2 mi cutoff 3:00am; Mayqueen inbound 87.2 mi cutoff 6:30am; finish cutoff 10:00am Sunday.",
+    "The archived course profile states 99.7 miles, 15,492 feet elevation gain, 9,206 feet lowest point and 12,526 feet highest point; the overview text gives low point 9,200 feet and high point Hope Pass 12,600 feet; pacers are allowed after the 62-mile point.",
+    "The archived page lists four official crewing locations: Outward Bound, Pipeline, Twin Lakes Village and Mayqueen; crewing outside these four may disqualify the runner; Twin Lakes is shuttle-only; Mayqueen crew access is inbound only, begins 5:00pm, allows 4 crew plus 1 pacer, and traffic moves clockwise around the lake accessed from the south/Turquoise Lake dam side.",
+    "The archived pacer section: pacers start at Twin Lakes inbound mile 61.8; each runner receives 2 pacer bibs; extra bibs can be picked up at Twin Lakes, Half Pipe, Outward Bound or Mayqueen; Half Pipe has no vehicle access and requires hiking or biking in; pacers may not pace by vehicle or bicycle, take aid from vehicles, or camp overnight.",
+    "The archived drop-bag list covers Mayqueen, Outward Bound, Half Pipe, Twin Lakes and Winfield; drop-off was Friday 8/15/25 11:00am-5:00pm at 316 Harrison Ave; return Sunday about 8:00am-5:00pm; unclaimed bags are donated to local charities and are not mailed.",
+    "The archived 2026 reference schedule shows the mandatory athlete meeting Friday 10:00am, packet pickup Friday 11:00am-5:00pm, a 4:00am Saturday start, and Sunday 12:00pm awards at Lake County High School Football Field."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取归档赛事页正文",
+    "note": "2026-11-25 复核：该页为赛事方归档版本，保留传统线 11 站表与 2025 Race Week Rundown；与现行页 12 站表并列记录，不混用里程与关门时间。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Aid Stations 1–11 逐行核对英里、方向与 cutoff；Finish Cutoff 10:00 AM。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Course Info 段：99.7 miles / 15,492′ gain / 9,206′ low / 12,526′ high；overview 文字 9,200 / 12,600；Pacers allowed after the 62-mile point。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Crew Locations 四条目；Mayqueen 段 inbound only、5:00 PM、4 crew + 1 pacer、clockwise、south/dam side。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Pacer Info 段：mile 61.8；2 bibs；bib 领取点；Half Pipe 无车路；Pacer Don'ts 段。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "Drop Bags 段：5 个存包点；8/15/25 11–5；周日 8–5；捐赠不邮寄。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "2025 Race Week Rundown Event Schedule 段（页内标注 2026 Schedule COMING SOON，时间为参考口径）。" }
+  ]
+}

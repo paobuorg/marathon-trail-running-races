@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-lewa-race-info",
+  "title": "Race information — official international registration page (fees, fundraising, aid, medical, wildlife safety)",
+  "url": "https://www.lewasafarimarathon.com/race-information/",
+  "publisher": "Lewa Safari Marathon (official event site, Tusk and Lewa Wildlife Conservancy)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "International entry for full and half marathon is GBP 150, with a minimum fundraising requirement of GBP 1,750 per person; kids' 5 km entry is GBP 50 and spectator entry GBP 150; no fundraising minimum applies to kids or spectators.",
+    "Age categories: full and half marathon open to entrants aged 18 and over; junior categories cover ages 10–13 and 14–17.",
+    "Water stations are placed every 2.5 km, offering water, energy drink, oranges and bananas, with food at the finish and misting stations on course.",
+    "Medical cover: first aid every 2.5 km with a Red Cross member at each water station; helicopter on standby to the AMREF tent at the finish; equipped planes on standby for evacuation to Nairobi; a recovery staffed by doctors, medics and physios; a Red Cross ambulance at the finish plus three ambulances around the course.",
+    "An AMREF Maisha Bronze month subscription is included (26 June – 9 July) and covers up to two air evacuations within Kenya annually; this is not medical insurance, only an air ambulance evacuation cover, and all runners must hold full medical insurance; the event is not liable for medical costs beyond air evacuation.",
+    "Wildlife safety: runners must stay on the designated course and use official toilets only; the course is patrolled at all times by armed rangers, and a helicopter plus Supercub light aircraft monitor large species.",
+    "Downloadable documents listed on the page include the race rules, course route map, site map and terrain profile; GPX availability is not stated on the page."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取国际报名页费用、筹款、医疗与安全条目",
+    "note": "英镑费用与最低筹款为国际选手口径；本地费用见 .co.ke FAQ。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Fee 段：£150 entry，£1,750 minimum fundraising；kids £50；spectators £150。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Age 段：full/half 18+；junior 10–13、14–17。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Aid station 段：every 2.5 km，water/energy drink/oranges/bananas，mist stations。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Medical 段：first aid 2.5 km、Red Cross、helicopter standby、planes to Nairobi、recovery tent、ambulances。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "AMREF 段：Maisha Bronze month 26 Jun–9 Jul，two air evacuations/year Kenya；not medical insurance；runners must hold full medical insurance。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "Wildlife 段：designated course、official toilets only、armed rangers patrol、helicopter + Supercub monitor large species。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-25", "note": "Downloads：rules、route map、site map、terrain profile；页面未提 GPX。" }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-leadville-weather-openmeteo",
+  "title": "Open-Meteo historical archive — Leadville grid point, 15-24 August 2016-2025",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=39.2536&longitude=-106.2978&start_date=2016-08-15&end_date=2025-08-24&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=America%2FDenver&temperature_unit=fahrenheit",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The requested grid point at 39.2536 N, 106.2978 W returns an elevation of 3,080 m.",
+    "For 15-24 August 2016-2025 (100 day-samples), daily high temperatures ranged from 54.9 to 75.7 degrees F with a median of 67.1 degrees F.",
+    "Daily low temperatures ranged from 34.2 to 45.5 degrees F with a median of 40.0 degrees F.",
+    "33 of 100 days recorded at least 1 mm of precipitation; 9 of 100 recorded at least 5 mm; the single-day maximum was 20.1 mm.",
+    "These are modelled grid-point values, not measurements taken on the race course."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "PowerShell Invoke-RestMethod 读取 Open-Meteo archive API JSON，重算 min/median/max 与降水计数",
+    "note": "2026-11-25 复核：取 2016–2025 每年 8 月 15–24 日共 100 天；网格点海拔 3,080 m，低于 Hope Pass 3,818 m，不能代表山口温度。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "API 顶层 elevation 字段：3080 m。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "daily.temperature_2m_max 100 项：重算 min 54.9 / median 67.1 / max 75.7 °F。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "daily.temperature_2m_min 100 项：重算 min 34.2 / median 40.0 / max 45.5 °F。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "daily.precipitation_sum 100 项：≥1mm 33 天，≥5mm 9 天，最大 20.1 mm。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "API 历史再分析数据口径；非赛道实测。" }
+  ]
+}

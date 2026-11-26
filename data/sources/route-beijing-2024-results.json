@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-beijing-2024-results",
+  "title": "182949名跑者报名创纪录 3万选手金秋开跑北京马拉松（北京市体育局/北京日报）",
+  "url": "https://tyj.beijing.gov.cn/bjsports/gzdt84/jtdt/543447589/index.html",
+  "publisher": "北京市体育局（北京日报）",
+  "publishedAt": "2024-11-04",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2024 Beijing Marathon started at 07:30 on Sunday 3 November 2024 at Tiananmen Square with a 30,000-strong field; 182,949 runners from 43 countries and regions entered, a record at the time, and Beijing residents made up 21.1% of entrants.",
+    "Men's winner Lemi Berhanu Hayle (Ethiopia) ran 2:09:16; Betwel Kibet Jumba was second; Chen Tianyu was third in 2:09:48 and won the National Championships men's title.",
+    "Women's winner Vicoty Chepng'ok (Kenya) ran 2:21:56; Rahma Tusa (Ethiopia) was second and Angela Tanui (Kenya) third; Liu Min won the National Championships women's title in 2:28:36.",
+    "For 2024 the start arch on the square's east-side road was moved 100 metres north; all runners assembled on the east-side road for a straight start.",
+    "The pre-race marathon expo at the National Convention Centre covered 13,000 square metres; an 800-family children's fun run was held at the Olympic Green."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 tyj.beijing.gov.cn 竞体动态稿全文，含报名规模、男女前三、国内冠军与起点拱门调整",
+    "note": "2024-11-04 发布；女子亚军国籍与名次按正文。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "3 万人；182949 报名、43 个国家和地区；北京跑者 21.1%；11/3 7:30 天安门广场。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Hayle 2:09:16；Jumba 亚军；陈天宇 2:09:48 第三兼全锦赛男子冠军。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Chepgn'ok 2:21:56；Tusa 亚军；Tanui 季军；刘敏 2:28:36 全锦赛女子冠军。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "起点拱门在广场东侧路北移 100 米，全部在东侧路集结直线出发。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "国家会议中心博览会 13000 平方米；奥林匹克公园亲子跑 800 家庭。" }
+  ]
+}

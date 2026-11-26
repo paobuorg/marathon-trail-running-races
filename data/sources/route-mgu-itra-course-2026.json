@@ -1,0 +1,23 @@
+{
+  "sourceId": "route-mgu-itra-course-2026",
+  "title": "ITRA Race Course — ANTAGUANJUN TengChong Gaoligong Ultra 2026, MGU 168km",
+  "url": "https://itra.run/Races/RaceCourse/MGU.168km/2026/114951",
+  "publisher": "ITRA (International Trail Running Association)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "ITRA Race Course 页记录赛事为 ANTAGUANJUN TengChong Gaoligong Ultra 2026，地点 Tengchong, China，日期 2026 年 3 月 20 日至 22 日；MGU 168km 标 Mountain Level 7、Finisher Level 410。",
+    "ITRA 地形口径为 84% Paths / 2% Tracks / 13% Roads；起终点均记 Tengchong, China。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-26",
+    "note": "2026-11-26 通过 web.fetch 读取 ITRA RaceCourse 页 Event Information 与 Race Course 段；页面为第三方协会口径，作 B 层对照，不混入官方组别表。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-26", "note": "页面原文：Tengchong, China；20 March 2026 to 22 March 2026；MGU 168km；Mountain Level 7；Finisher level 410。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-26", "note": "页面原文：Type of Terrain: 84% Paths / 2% Tracks / 13% Roads；Start Location: Tengchong, China；Finish Location: Tengchong, China。" }
+  ]
+}

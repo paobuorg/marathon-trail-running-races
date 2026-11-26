@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-bigs-home-2026",
+  "title": "Big's Backyard Ultra home page — World Team Championship 2026 and global format figures",
+  "url": "https://www.bigsbackyardultra.com",
+  "publisher": "Big's Backyard Ultra / Lazarus Lake",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2026 World Team Championship started Saturday 17 October 2026 at 07:00 CDT as a national-team event staged simultaneously at satellite venues worldwide.",
+    "The 2026 team title was won by the United States with 1,120 yards, 51 ahead of Australia on 1,069; Belgium were third on 1,058 and ran the last national race to yard 124.",
+    "Belgium are the defending team champions with a benchmark of 1,147 yards set in 2024; in that Belgian satellite race Merijn Geerts, Ivo Steyaert and Frank Gielen all reached 110 yards (458.33 miles) and finished level, so the race ended without an individual last one standing.",
+    "The format statistics published on the home page: 55,000 athletes competed in the past year across 82 countries; 4,396 athletes ran 24 hours or longer; 708 affiliated races.",
+    "Lazarus Lake is quoted as the founder, based in Bell Buckle, Tennessee."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官网首页 2026 团队冠军段与全球数据段",
+    "note": "2026-11-25 复核：首页当前展示 2026 World Team Championship；2027 个人世锦赛页面未在首页正文展开。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "首页标题段：World Team Championship 2026, Saturday 17 October 2026 · 07:00 CDT · National Teams。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "首页 Team yards 段：United States 1,120 yards, 51 ahead of Australia 1,069; Belgium 1,058, last national race to yard 124。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "2024 Benchmarks 段：Belgium 1,147; Australia 971; United States 969; 110-yard stalemate Geerts/Steyaert/Gielen。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Global Movement 段：55,000 athletes, 82 countries, 4,396 ran 24h+, 708 affiliated races。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "首页引言署名 Lazarus Lake · Founder, Bell Buckle TN。" }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "entityId": "route:lewa-safari-marathon",
+  "slug": "lewa-safari-marathon",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-lewa-homepage",
+    "route-lewa-race-info",
+    "route-lewa-about",
+    "route-lewa-rules-pdf",
+    "route-lewa-terms",
+    "route-lewa-faqs-ke",
+    "route-lewa-faqs-2026",
+    "route-lewa-results-2026",
+    "route-lewa-results-2025",
+    "route-lewa-experience",
+    "route-lewa-tusk",
+    "route-lewa-moh-yf",
+    "route-lewa-who-yf",
+    "route-lewa-openmeteo"
+  ],
+  "relatedRefs": [
+    "knowledge:heat-and-humidity",
+    "knowledge:hydration",
+    "knowledge:jet-lag-and-race-travel",
+    "knowledge:trail-gear",
+    "tool:sweat-rate"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "trail-mountain",
+    "countryCodes": [
+      "KE"
+    ],
+    "placeName": {
+      "zh-CN": "肯尼亚北部莱瓦野生动物保护区（Lewa Wildlife Conservancy，伊西奥洛/布乌里一带）",
+      "en": "Lewa Wildlife Conservancy, northern Kenya (Isiolo/Buuri area)"
+    },
+    "mapAnchor": {
+      "longitude": 37.123,
+      "latitude": 0.197,
+      "kind": "overview",
+      "sourceRef": "route-lewa-about"
+    },
+    "courseVersion": "2027-lewa-safari-conservancy-loops",
+    "courseEdition": "2027",
+    "courseStatus": "current",
+    "courseChanges": [],
+    "direction": "Loop course inside the Lewa Wildlife Conservancy: the half marathon runs one loop and the full marathon two loops of rough, undulating dirt roads across savannah plains, river banks and acacia woodland; the Executive 10 km and Junior 5 km are separate shorter categories on the same venue.",
+    "distanceMeters": 42200,
+    "distanceMethod": "Official pages describe the full marathon as 26 miles / 42.2 km and the half as 13 miles / 21.1 km, with the full two loops and the half one loop. Elevation is given two ways by official material: the About page quotes about 5,500 ft (about 1,676 m) and the race rules PDF an average altitude of 6,000 ft (about 1,830 m). The course is undulating dirt-road savannah track rather than an alpine mountain trail. No certified measured track, cumulative elevation gain figure, downloadable GPX/KML track or track redistribution licence was located on the pages reviewed; downloadable documents are the route map, site map and terrain profile PDFs.",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "Event names, official marks, race text and results lists remain the property of the Lewa Wildlife Conservancy, Tusk Trust and the event organiser. The organiser publishes route map, site map and terrain profile PDFs; this site does not host, mirror or redraw the course and does not bundle a track file. Open-Meteo reanalysis data is used under CC BY 4.0 with attribution. Site text is CC BY 4.0."
+  }
+}

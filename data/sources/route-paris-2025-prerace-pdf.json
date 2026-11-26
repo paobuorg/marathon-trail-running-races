@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-paris-2025-prerace-pdf",
+  "title": "Organiser pre-event PDF: A Marathon Oozing Talent (2025 preview, records and 2024 results)",
+  "url": "https://storage-aso.lequipe.fr/ASO/publicEvents_mar/a-marathon-oozing-talent.pdf",
+  "publisher": "A.S.O. — Schneider Electric Marathon de Paris",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The organiser's preview describes Paris as the fifth-fastest marathon with over 20,000 participants, with an average finishing time of 4:11:23 for the field (referring to the 2024 edition).",
+    "The listed course records at the time were Elisha Rotich (KEN) 2:04:21 in 2021 and Judith Jeptum Korir (KEN) 2:19:48 in 2022; the women's mark was broken in 2026.",
+    "2024 winners: men Mulugeta Uma (ETH) 2:05:33; women Mestawut Fikir (ETH) 2:20:45; leading French entrants Adrien Toucas (FRA) 2:17:06 and Laurie Maleysson (FRA) 2:46:29.",
+    "2024 wheelchair winners: men Geert Schipper (NED) 1:34:36, Julien Casoli (FRA) 1:37:11; women Rita Cuccuru (ITA) 2:35:21."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 ASO 存储的英文赛前 PDF 正文",
+    "note": "该 PDF 为 2025 赛前宣传材料；平均成绩与纪录口径对应 2024 及以前，2026 新纪录以官网 /379 为准。"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "PDF Key points：fifth-fastest marathon with over 20,000 participants；average time 4:11:23。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "PDF：Rotich 2:04:21（2021）、Korir 2:19:48（2022）；女子纪录 2026 被 Demise 2:18:34 打破。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "PDF：2024 Uma 2:05:33、Fikir 2:20:45；法国本土前列 Toucas 2:17:06、Maleysson 2:46:29。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "PDF：轮椅男子 Schipper 1:34:36、Casoli 1:37:11；轮椅女子 Cuccuru 2:35:21。"
+    }
+  ]
+}

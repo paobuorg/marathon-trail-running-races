@@ -60,6 +60,46 @@ The official header and FAQ both give **101 km / 4,850 m+**. The point table emb
 
 The third figure is the local measurement: the official linked 2026 GPX has 7,974 points after de-duplication, a haversine distance of **101.104 km**, a low point of 3 m and a high point of 1,800 m; raw point-by-point change is **+5,258 / −5,258 m**, and a 3 m threshold reduces it to **+2,713 / −2,726 m**. A single-file point sum also amplifies elevation noise and cannot replace the official +4,778 m. The 2026 race report gives yet another organiser measurement of **101.9 km / +4,778 m**. The four figures (101 header, 102.2 table, 101.1 GPX, 101.9 previous-edition measurement) are kept side by side; this page does not invent an "average course".
 
+## Course and geometry: 13 numbered points and two elevation figures
+
+The start and finish are both in Paraty's historic centre; the official overview names Taquari, Pedra da Macela and the Caminho do Ouro, and the point table gives cumulative distance, altitude and cumulative climb for 13 numbered points. On geometry, the organiser links only a 2026 GPX file; its metadata year is 2026 and neither page nor file carries a reuse licence, so this page does not host or redraw the track. A [track viewer](/en/tools/track-view/) can read a file you provide yourself, but that does not mean the organiser has authorised redistribution.
+
+| Geometry item | Figure used | Note |
+| --- | --- | --- |
+| Official distance | 101 km (header) / 102.2 km (finish cumulative in point table) | Both are official; neither is averaged |
+| Official climb | 4,850 m+ (header and FAQ) / +4,778 m (point table total) | Table also lists −4,781 m descent |
+| GPX local measurement | 101.104 km / raw +5,258 m | 2026 file, magnitude check only, not redistributed |
+| Elevation method | Organiser publishes no method; per-point GPX accumulation amplifies noise | At a 3 m threshold +2,713 m, not used instead of the official figure |
+| Route tolerance | Published distance may differ from the actual course by ±5% | Follow course markings where they disagree with the GPX |
+
+Altitude structure: start and finish at 7 m, Pedra da Macela at 1,797 m is the high point; km 32.3–50.6 gains 1,825 m to 1,254 m, km 71.6–79.9 climbs another 811 m to the summit, and the last 22 km drop about 1,800 m back to the coast. The organiser has not published a 2027 track; small adjustments may be announced at the pre-race briefing.
+
+## Timing and cut-offs: the five main stations
+
+The cut-off judgement is the time the runner leaves the main aid station; the organiser publishes barriers only for those five main stations, with no cut-off at the other checkpoints. The table restores elapsed time from the 24 September 2027 19:00 start; remaining distance and time are this page's subtraction from the finish totals.
+
+| Main station | Cumulative | Cut-off (Brasilia time) | Elapsed | Remaining distance / time |
+| --- | ---: | --- | ---: | ---: |
+| Taquari (C1) | 32.3 | Sat 02:00 | 7:00 | 69.9 km / 23:00 |
+| Trutario Rio Manso (C2) | 71.6 | Sat 15:00 | 20:00 | 30.6 km / 10:00 |
+| Macela | 82.4 | Sat 19:15 | 24:15 | 19.8 km / 5:45 |
+| Cachoeira 7 Quedas | 90.7 | Sat 22:00 | 27:00 | 11.5 km / 3:00 |
+| Paraty finish | 102.2 | Sun 01:00 | 30:00 | — |
+
+Changes are announced at the briefing or by SMS. Finishing within 26 hours is the Western States ballot qualifying line, earlier than the 30-hour finish cut-off; anyone chasing that path should pace to 26 hours rather than to the finish barrier.
+
+## Weather and environment: the late-September coastland humidity window
+
+The race runs in late September in the coastal mountains of Rio de Janeiro state, Brazil, late spring in the Southern Hemisphere. The course climbs from 7 m at the coast to 1,797 m; low sections are Atlantic forest in heat and humidity, while the ridge has its own wind and temperature. The official pages read do not publish a race-day temperature range, precipitation probability or wind forecast, so this page does not invent meteorological numbers; regional heat and hydration strategy follow [racing in heat and humidity](/en/knowledge/heat-and-humidity/).
+
+| Environment section | Distance | Verified features | Preparation |
+| --- | ---: | --- | --- |
+| Coast and low-altitude trails | 0–32.3 km | Start 7 m, Taquari 15 m; Atlantic forest | Sun protection, enough fluid, hold back on the opening |
+| Mid-course climbs and ridge | 32.3–79.9 km | High point 1,797 m; Serraria 1,254 m, Escola do Pinhal 1,397 m | Layer clothing; prepare the cold kit for ridge wind and cooling |
+| Long descent back to coast | 79.9–102.2 km | About 1,800 m descent back to 7 m | Protect the quads; watch electrolytes in the humidity |
+
+The 19:00 start means running through the night; night navigation and roadside risk follow [night running and traffic](/en/knowledge/night-running-and-traffic/). Headlamp and spare batteries are on the mandatory kit list, not optional.
+
 ## PTR 100 point table
 
 The table reproduces the official 2027 course page. “From previous” and gain are derived from the official cumulative values, rounded to one decimal. Cut-off weekdays and times are resolved to dates from the official 24 September 2027, 19:00 start.
@@ -164,6 +204,34 @@ Editorial judgement, not an official rating:
 
 Retreat and risk: the regulations use departure time from the main aid stations as the cut-off, so withdrawal should be registered with staff at a main aid station. No collection-vehicle timetable from each aid station to the nearest road or Paraty town is published. The course starts in Paraty's historic centre and finishes in town, but parts of the final section may still be in the forest; do not leave the marked route to find a short cut. Medical certificates, on-course medical points and emergency numbers are governed by the 2027 regulations and race briefing; this page does not replace them.
 
+## Training transfer
+
+PTR 100 is a 101 km, 4,850 m+, 30-hour mountain race of hundred-mile scale, with climb concentrated in km 32–80 and a long descent of about 1,800 m in the final section. The table breaks the demands into trainable abilities; it lists directions, not an official plan.
+
+| Ability | Course demand | Preparation direction |
+| --- | --- | --- |
+| Hundred-mile endurance | Finish through the night inside 30 hours | Extend long runs gradually, keeping one late mountain session of 100 km or 50 mile scale |
+| Climbing load | +1,825 m on km 32.3–50.6, +811 m on km 71.6–79.9 | Build vertical load on climb sessions; practise climbing fatigued in the early hours |
+| Downhill tolerance | About 1,800 m descent in the last 22 km | Add downhill running and quad strength; without 100 km of downhill in training, do not use this as a first hundred |
+| Heat adaptation | Humid Atlantic forest at low altitude | Follow [racing in heat and humidity](/en/knowledge/heat-and-humidity/); practise fluid, electrolyte and cooling rhythm |
+| Night execution | 19:00 start, main climb in the early hours | Practise headlamp navigation and night fuelling per [night running and traffic](/en/knowledge/night-running-and-traffic/) |
+| Fuelling rhythm | Five main stations, two drop bags | Test gels, bars and station-to-station eating per [fueling long runs](/en/knowledge/long-run-fueling/); settle hourly intake in training |
+
+Entry requires a valid 50K UTMB Index for PTR 100. Use the [split pace tool](/en/tools/splits/) to break the 26-hour qualifying line or the 30-hour finish line down to each station.
+
+## Race-day execution card
+
+The table follows the main phases among the 13 points; cut-off references come from "Timing and cut-offs". Pacing notes are editorial judgement, not official split targets.
+
+| Phase | Distance | Execution notes | Cut-off reference |
+| --- | ---: | --- | --- |
+| Opening coastal trails | 0–32.3 km | Start 19:00, hold back; refill at Grauna and Barra Grande; keep reserve for the early-hours climb | Taquari 7:00 |
+| Main climb | 32.3–50.6 km | Collect drop bag and hot food at Taquari; run-walk the +1,825 m at a talkable intensity | — |
+| Ridge and second climb | 50.6–79.9 km | Hot food and rest at Escola do Pinhal; second bag at Trutario; Macela is a timing point with no aid, carry enough water before the summit | Trutario 20:00; Macela 24:15 |
+| Long descent to coast | 79.9–102.2 km | Pick descent footfalls, protect the quads; refill and refuel at Cachoeira 7 Quedas; last 5.5 km back to the historic centre | Cachoeira 27:00; finish 30:00 |
+
+Check the mandatory kit before the start: trail pack, 150 ml personal cup, phone with LiveTrail and no flight mode, at least 1 L water, two headlamps with spare batteries, hooded waterproof jacket, survival blanket, whistle, self-adhesive elastic bandage, hat or neck buff, photo ID; prepare the hot kit with SPF 50+ and 2 L water. Outside support is allowed only at Taquari and Trutario Rio Manso; hand-offs elsewhere are a violation. To drop, register with staff at a main station; do not leave the marked route to cut across.
+
 ## Verified and not verified
 
 **Verified from first-party official pages**
@@ -229,3 +297,10 @@ Text and tables: original to this site, published as CC BY 4.0; official facts a
 11. [Caminho do Ouro stone-road photograph](https://commons.wikimedia.org/wiki/File:Trecho_do_Caminho_do_Ouro_em_Parati-RJ_(1519027780).jpg), Glauco Umbelino, Wikimedia Commons, CC BY 2.0, taken 2007-07-26, accessed 2026-11-24.
 12. [Paraty historic-centre photograph](https://commons.wikimedia.org/wiki/File:Centro_Hist._de_Paraty_-_3_(5545421672).jpg), Leandro Neumann Ciuffo, Wikimedia Commons, CC BY 2.0, taken 2011-03-19, accessed 2026-11-24.
 13. [Pedra da Macela photograph](https://commons.wikimedia.org/wiki/File:Pedra_da_Macela_1.jpg), Rafael Defavari, Wikimedia Commons, CC BY-SA 4.0, taken 2015-07-11, accessed 2026-11-24.
+
+<!-- related-ring -->
+## Related entries
+
+- [Patagonia Run 100 Millas: 160.3 km in Patagonia, and an official no-GPX policy](/en/routes/patagonia-run/)
+- [Sydney Marathon: the complete 2026 course guide, North Sydney to the Opera House](/en/routes/sydney/)
+- [Tarawera TMiler: 163 km in New Zealand, five distances separated, sixteen timing points and a 2026 GPX linked from a 2027 page](/en/routes/tarawera/)

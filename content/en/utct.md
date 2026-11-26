@@ -11,20 +11,26 @@ reviewers:
 translationStatus: reviewed
 ---
 
-## Check status
+## Race snapshot
 
 - Version: `2026-utct-100k`, the 2026 edition, held over the weekend of 20–22 November 2026. UT100 starts at 04:00 on 21 November from Gardens Rugby Club; the 100 miler starts at 17:00 on 20 November. The pre-race check date was 2026-11-20; on 2026-11-22 at 06:22 SAST I re-read the official Sportraxs 2026 UT100 provisional leaderboard, and at 10:50 SAST the page had switched to official results. At 11:19 SAST the 100-mile page was still provisional; at 14:25 SAST it had changed to **Official results / Finished · official**, and a 14:33 SAST recheck was unchanged. The page now carries both 2026 UT100 and 2026 100-mile official results.
-- Positioning: this page covers one of the 2026 World Trail Majors races. The official UT100 page calls UT100 the final race of the Gran Canaria World Trail Majors and one of the event's original distances. It is not on the UTMB World Series calendar and is not a marathon major. The Cape Town road marathon is a different race and has its own page.
+- Attribution and positioning: this page covers one of the 2026 World Trail Majors races. The official UT100 page calls UT100 the final race of the Gran Canaria World Trail Majors and one of the event's original distances. The attribution wording was re-checked on 2026-11-25: the UTMB official 2026 calendar announcement lists 64 events, nine new events and four Majors, none of them Cape Town; inclusion of UTCT results in a UTMB.world athlete index does not make UTCT a World Series member; the official pages read here are branded RMB Ultra-trail Cape Town with RMB as title sponsor, carry no "by UTMB" mark, and no UTMB Group acquisition announcement was found. It is not a marathon major. The Cape Town road marathon is a different race and has its own page.
 - **Evidence level: A.** The official event page, UT100 page, 100-mile page, race-information page, entry page and official GPX were read through the local 7890 proxy on 2026-11-20. Distances, gain, limits, aid stations, start/finish, fees, prize money and age limits come from the official pages; ITRA's 99.85 km and +5,085 / −5,084 m are kept as a B-layer comparison.
 - The official pages disagree internally: the UT100 card says **99.1 km / 5,000 m D+**, while the same page's description says **4,972 m**; the 100-mile card says **163 km / 7,187 m D+**, while the same page's opening description says **7,516 m**. Both conflicts are retained; this page does not decide which is "correct" or blend them.
 - Course geometry: **an official GPX link exists**. The official UT100 page publishes a downloadable 2026 GPX. This page links to it but does not host or redistribute the file. Point by point, it sums to 97.83 km and +6,827 / −6,826 m raw; those are measurements, not the official 99.1 km / 5,000 m. The map still shows a city-level anchor, not the course line.
 - Nobody on this page ran the course.
-- Course-change check: **no official roadbook for 2023, 2024 or 2025 was obtained**. The organiser's 100 km description says the 12 Apostles and Llandudno Ravine section is "new" and was only recently permitted because of congestion at Constantia Nek, but it gives no year. Without a roadbook comparison the change cannot be tied to an edition, so `courseChanges` stays empty and the statement is recorded in the body only.
+- Course-change check: **no official roadbook for 2023, 2024 or 2025 was obtained**. The organiser's 100 km description says the 12 Apostles and Llandudno Ravine section is "new" and was only recently permitted because of congestion at Constantia Nek, but it gives no year. Without a roadbook comparison the change cannot be tied to an edition, so the entry is logged in `courseChanges` with the added year left unpublished.
 - 2026 UT100 official results: the official Sportraxs leaderboard is labelled **Official**; at 10:50 SAST on 22 November 2026 it listed 447 runners, 359 finished, 88 withdrawn and none on course (men 366 / 295 / 71 / 0; women 81 / 64 / 17 / 0). The 06:22 SAST provisional count was 358 / 87 / 2; official settlement moved the last two runners to one finish and one withdrawal, both in the men's field. The page no longer treats 358 as the finisher count.
 - 2026 result boundary: the 100 miler starts at 17:00 on 20 November with a 45-hour limit; UT100 starts at 04:00 on 21 November with a 26-hour limit. By card arithmetic, the 100-mile finish cut-off is 14:00 on 22 November and the UT100 cut-off is 06:00 on 22 November. Both races are now officially settled with none on course. The 100-mile's 16 on-course runners were all settled after 14:00: finishes rose from 75 to 91, withdrawals stayed at 36 and no new withdrawal was added.
-- Sources: eighteen, covering the official 2026 event page, UT100 page, 100-mile page, race-information page, entry page, the combined ITRA 2026 race pages for UT100 and the 100 miler, the ITRA 2025 UT100 results, the ITRA 2025 100-mile results, the WTM series page, an Open-Meteo geocode, Open-Meteo historical weather, a Cape Town airport transport page, the Sportraxs 2026 UT100 official leaderboard, the Sportraxs 2026 UTCT 100M provisional snapshot, the Sportraxs 2026 UTCT 100M official leaderboard and three Commons photo sources for Table Mountain, Hout Bay and Lion's Head.
+- Sources: nineteen, covering the official 2026 event page, UT100 page, 100-mile page, race-information page, entry page, the combined ITRA 2026 race pages for UT100 and the 100 miler, the ITRA 2025 UT100 results, the ITRA 2025 100-mile results, the WTM series page, the UTMB 2026 calendar announcement, an Open-Meteo geocode, Open-Meteo historical weather, a Cape Town airport transport page, the Sportraxs 2026 UT100 official leaderboard, the Sportraxs 2026 UTCT 100M provisional snapshot, the Sportraxs 2026 UTCT 100M official leaderboard and three Commons photo sources for Table Mountain, Hout Bay and Lion's Head.
 
-## What this race is
+## 60-second verdict
+
+This page is built from the 2026 official and ITRA material read here, for trail runners weighing UT100 or the 100 miler. **It suits** runners with a long mountain-distance base who can hold rhythm on Table Mountain's steep pitches and technical descents, and who can plan fueling, warmth and a night leg against a 26-hour (UT100) or 45-hour (100 miler) limit. **It does not suit** first-time 100 km runners, runners without night-race experience, or those unprepared for Peninsula daytime heat, exposed ridge wind and technical descents. Three decisions come first: pick the distance — UT100 is the long-standing main distance, the 100 miler is the 2026 flagship with a qualifier; check eligibility — the 100 miler needs a 50 km+ trail finish within 24 months submitted before noon on 28 October; and read distance and gain on the organiser's own terms — this page keeps the official card, ITRA listing and GPX measurement side by side without ruling between them.
+
+- **Who it suits**: advanced trail runners with sub-100 km experience, steep pitches above 35 degrees and technical descents handled, and some night racing behind them.
+- **Who it does not suit**: first-time long-distance runners, those without night navigation practice, or those under-prepared for heat exposure and windy ridges.
+- **What to do first**: compare qualifier rules and fee bands before choosing a distance; use the official GPX and course description to assess steep climbs, technical descents and the night leg; complete the compulsory gear list and station plan from the official race-info and briefing.
 
 RMB Ultra-Trail Cape Town is a trail-running weekend with six race distances in 2026. The event began in 2014, and the organiser says 35% of participants come from 55 countries. Racing takes place across Table Mountain, the Atlantic seaboard and the southern Cape Peninsula.
 
@@ -69,9 +75,9 @@ The organiser-supplied description on ITRA calls UT100 front-loaded: the first 5
 
 ![Lion's Head from Cape Town's central business district, the peak UT100 goes around after the start (2026; not a race photograph)](/media/routes/utct/lions-head-2026.jpg)
 
-The organiser adds that the 12 Apostles and Llandudno Ravine section is new, that it was requested and only recently permitted because of congestion at Constantia Nek. That says the 100 km route has been adjusted at least once, but it gives no year and no before-and-after description. This page therefore reports it in the body rather than logging it in `courseChanges`.
+The organiser adds that the 12 Apostles and Llandudno Ravine section is new, that it was requested and only recently permitted because of congestion at Constantia Nek. That says the 100 km route has been adjusted at least once, but it gives no year and no before-and-after description. This page therefore logs it as one `courseChanges` entry, with the added year left unpublished.
 
-## The 100 miler: flagship, qualifier and pacing
+## The 100 miler: flagship and pacing
 
 The 100 miler is not UT100 with an extra loop. The official description takes runners from the north to the south of the peninsula: up Kloof Corner and the north face of Table Mountain, through Llandudno and Hout Bay, then out to Silvermine, Kalk Bay, Simon's Town, Scarborough, Kommetjie and Noordhoek, before the final UCT-to-King's-Blockhouse climb and the contour back to Gardens.
 
@@ -87,7 +93,7 @@ Finishing the 100 miler under 30 hours earns the Honey Badger medal. The officia
 
 The 2026 100-mile open prize money is R80,000 for first, R40,000 for second and R25,000 for third; UT100 pays R75,000 / R37,500 / R18,750. Both lists cover only the open top three and do not include age-group or team awards.
 
-## The course in order: 13 official nodes
+## Course and geometry
 
 The official 100-mile page describes the route from north to south and back to the city: Gardens Rugby Club → Kloof Corner and the north face of Table Mountain → Llandudno → Hout Bay → Silvermine → Kalk Bay → Simon's Town → Scarborough → Kommetjie → Noordhoek → UCT → King's Blockhouse → Gardens Rugby Club. The graphic below arranges those 13 nodes in the official narrative order as equal-width cards. It answers only "which comes before which"; it gives no per-station distance and is not to scale.
 
@@ -129,7 +135,7 @@ On a phone, this graphic also scrolls horizontally inside its container; tap it 
 
 The bars are proportional to the values and compare only the figures read; they do not decide which one is the "real" gain. The longest bar, 9,004 m, comes from the timing-platform card and is not the most authoritative. The official 7,187 m and same-page 7,516 m remain side by side.
 
-## Aid, cut-offs and difficulty
+## Timing and cut-offs
 
 The official UT100 page confirms 26 hours and nine aid stations; the official 100-mile page gives 45 hours and fourteen. Neither page publishes cumulative kilometres for the stations or per-station closing times, so this page does not calculate station gaps or turn the total limit into a pace plan.
 
@@ -144,7 +150,23 @@ The 100 miler scales the problem up: 45 hours, fourteen aid stations, a longer a
 
 By card arithmetic: the 100 miler's 17:00 start plus 45 hours gives a 14:00 cut-off on 22 November; UT100's 04:00 start plus 26 hours gives 06:00 on 22 November. Both are derived clock times, not separately published official cut-offs, and neither replaces the race-day briefing or any per-station cut-off.
 
-## Race-day execution card: 100 miler
+## Gear and rules
+
+The official race-information page groups age limits, compulsory gear, the cupless rule and the dropout procedure under one rules set; the wording below comes from the official race-info and 100-mile pages.
+
+| Category | Official wording |
+|---|---|
+| Minimum age | 16+ for Kickstarter 16; 18+ for Explorer 23; 20+ for Table Mountain 35, Peninsula Traverse 55, UT100 and the 100 miler |
+| Compulsory gear | Whatever the distance entered, all compulsory gear must be carried for the entire race; the specific checklist follows the current race-info edition |
+| Cup | The race is cupless; runners must carry their own cup |
+| Closed course | A runner who leaves the marked course must return on foot; anyone withdrawing must continue to the nearest aid station and inform the captain; leaving without notifying officials can lead to a future ban, unless first-aid crews assist the runner off |
+| Medical | Medical attention is available but may not be immediately on hand; alert the emergency contact before heading to an aid station for more than basic first aid |
+| Pacers (100 miler) | Fixed zone Llandudno → Alphen Trail, 105.7 km, seven pick-up points; register up to three, use one at a time; pacers cannot carry the runner's gear and cannot join or leave at non-designated stations |
+| Elite and categories | International elites by ITRA performance index: men 800+, women 690+ may request a free entry; South African elites are handled case by case; categories Open 18–39, Vets 40–49, Masters 50+, Grand Masters 60+ |
+
+The gear checklist itself is not itemised on the pages read, so this page does not write a checkbox list on the organiser's behalf; the ridge-versus-city temperature swing is covered under "Weather and environment".
+
+## Race-day execution card
 
 | Item | Official information | What it means in practice |
 |---|---|---|
@@ -173,7 +195,9 @@ Dividing the official 163 km card distance by total time gives a flat average wi
 
 The 45-hour figure is the limit, not a goal; 30 hours is the Honey Badger threshold. Climbs, technical descents, night and aid stops will all make real splits slower than the flat average. This page does not treat the 45-hour average as a complete time budget.
 
-## Start, finish and logistics
+![UTCT 100M: average pace by target finish time](/media/routes/utct/pace-targets-100m-en.svg)
+
+## Aid, logistics and crew/pacer support
 
 - UT100 starts at 04:00 on 21 November at Gardens Rugby Club and finishes at the same venue; the official page names it for both. The 100 miler starts and finishes there too, at 17:00 on 20 November.
 - The other start times are in the table above; the 35 km starts at 06:00 on 22 November as the weekend's last big-race start.
@@ -190,13 +214,28 @@ The 45-hour figure is the limit, not a goal; 30 hours is the Honey Badger thresh
 - **MyCiTi:** the A01 route runs from the airport to the city about every 20–30 minutes and takes about 30 minutes; MyCiTi requires a MyConnect card and does not sell tickets on board for cash.
 - **Race day:** city transport only gets you to the city, not to the start; it does not replace the race Park & Ride. Check the official schedule for shuttle times and do not treat A01 airport times as start transfers.
 
-## Weather and season
+## Weather and environment
 
 Open-Meteo's Cape Town record for 20–22 November, 2015–2025 (33 days): daily maximum 16.5–30.2 °C, median 23.6 °C; daily minimum 9.8–17.4 °C, median 14.8 °C; 10 of 33 days had at least 1 mm precipitation, 5 had at least 5 mm.
 
 This is the Cape Town city grid, not the Table Mountain ridge or exposed Chapman's Peak. November can be 30 °C, or wet, windy and about 10 °C at night; the 17:00 100-mile start crosses a full night cooling, while the 04:00 UT100 start meets mountain wind before sunrise. The organiser publishes no race-period mountain measurements, and this page does not treat city data as ridge data.
 
-## Entry, fees and withdrawals
+## Training transfer
+
+The training question for the two flagship distances splits in two: first build the base capacity for long mountain distance, then add specificity for the Table Mountain steep pitches, technical descents, coastal heat and the night sections. The table turns this page's verifiable dimensions into training check items; weekly sessions follow the site's ultra trail plan and long-run fueling knowledge.
+
+| Phase | Key question | Verifiable basis on this page |
+|---|---|---|
+| Endurance capacity | Can the body hold 99.1 km (UT100) or 163 km (100 miler) with their respective gain? | UT100 card 99.1 km / 5,000 m D+ / 26 h; 100-mile card 163 km / 7,187 m D+ / 45 h |
+| Steep and technical terrain | Rehearsed for the over-35-degree Platteklip Gorge climb, the Llandudno Ravine technical descent and the Karbonkelberg traverse? | Official description: 1,700 m gain by 25 km; the north-face and Ravine descent sections |
+| Coastal heat | Heat-load experience for the Suther Peak and Karbonkelberg section as temperatures rise? | The organiser calls it the make-or-break section; city daytime can exceed 30 °C |
+| Night and pre-sunrise | The 17:00 100-mile start crosses a full night cooling; the 04:00 UT100 start meets mountain wind before sunrise; night navigation and warmth rehearsed? | Both start times and limits; ridge temperatures can sit in single digits |
+| Fueling and gut | Cup-less race, nine stations (UT100) / fourteen (100 miler); fluid, calorie and electrolyte plan rehearsed over long runs? | Official station counts; station kilometres unpublished, so water cannot be budgeted from station spacing |
+| Qualifier and entry | The 100 miler needs a 50 km+ trail finish within 24 months; UT100 lists no equivalent compulsory qualifier | Official 100-mile qualifier clause; UT100 entry conditions follow the official page |
+
+Convert pace with the site [pace calculator](/en/tools/pace/); for ultra background start with the [ultra trail training plan](/en/knowledge/trail-ultra-training-plan/) and [long-run fueling](/en/knowledge/long-run-fueling/); technical downhill follows the [downhill technique](/en/knowledge/downhill-running-technique/); heat coping is covered in [heat and humidity](/en/knowledge/heat-and-humidity/); finish prediction is on the [race predictor](/en/tools/race-predict/). This page does not set personal weekly mileage; individual capacity should be based on prior longest training and race records.
+
+## Qualification and entry
 
 ITRA lists registered caps of 350 for the 100 miler, 450 for UT100, 500 for the 55 km, 500 for the 35 km, 750 for the 23 km and 500 for the 16 km. The UT100 and 100-mile pages currently mark ENTRIES AS CLOSED; the other races' open status should be checked on their own pages.
 
@@ -221,7 +260,9 @@ Elite entry: international elites with an ITRA performance index above 800 for m
 
 The 100-mile qualifier differs from UT100: a 50 km+ trail finish within 24 months, submitted by midday on 28 October. The UT100 page read here does not list an equivalent compulsory qualifier, so the official entry conditions still govern.
 
-## 2026 UT100 official results (10:50 SAST, 22 November 2026)
+## Results and course changes
+
+### 2026 UT100 official results (10:50 SAST, 22 November 2026)
 
 The official Sportraxs 2026 UT100 leaderboard is now labelled **Official**. At 10:50 SAST it listed 447 runners in total (men 366, women 81): 359 finished, 88 withdrawn and none still on course. "Runners" is the leaderboard population, not entries.
 
@@ -277,6 +318,10 @@ Mark Winter and Matthew Thomson tie for fourth, so there is no separate fifth ov
 
 The Sportraxs event page's 100-mile card separately shows **161 km / 9,004 m**, 91 finishers and 36 withdrawals. Those are timing-platform card values and are not the same measure as the official page's 163 km / 7,187 m (same-page prose 7,516 m); they are reported side by side in "Competing distance and gain figures". The final settlement removes the "still on course" state, but the organiser still has not published per-station splits, per-station cut-offs or a complete elite list; this page does not expand the top five into a full category-by-category results set.
 
+The chart below is this site's own comparison of official 2026 finishes and withdrawals, drawn from the two Sportraxs official leaderboards; leaderboard entrants are not the same as registrations.
+
+![UTCT 2026: official finishers vs withdrawals, UT100 and 100M](/media/routes/utct/finish-status-2026-en.svg)
+
 ## 2025 results
 
 The 2025 UT100 men's top three were Jeff Mogavero (USA) 11:04:53, Dmitry Mityaev 11:05:24 and Matthew Healy (South Africa) 11:11:26; the first woman was Sunmaya Budha (Nepal) 12:25:55, eighth overall. Those are from the ITRA 2025 UT100 results page.
@@ -285,7 +330,11 @@ The 2025 100-mile men's top three were Douglas Pickard (South Africa) 21:49:11, 
 
 These are 2025 finishes and remain the historical baseline; the 2026 UT100 and 100-mile official results are in the two sections above. The 2026 100 miler was officially settled after the 14:00 cut-off on 22 November, and this page does not use the 2025 places as a 2026 prediction.
 
-## Verified and not verified
+### Course changes
+
+- **12 Apostles / Llandudno Ravine section (year added: officially unpublished)**: the organiser's 100 km course description calls this section "new" — originally requested and only recently permitted because of Constantia Nek congestion. The 2023–2025 roadbooks were not obtained, so it cannot be tied to a specific edition. Effect: the section forms the technical descent from the Table Mountain north face to the coastal aid station; the full pre/post alignment and distance difference were not published. Source: ITRA organiser-supplied description (`route-utct-itra-2026`).
+
+## Verification and rights
 
 **Supported by official (A) and ITRA (B) evidence:**
 
@@ -329,11 +378,11 @@ The two editorial SVGs were made by the Runmap editorial team: `utct-100m-course
 
 ## Sources
 
-1. Official 2026 event page (dates, six races, 100-mile 7,516 m description, weather, TRACKING/LIVE BROADCAST): https://www.ultratrailcapetown.com/utct
-2. Official UT100 2026 page (99.1 km / 5,000 m / 26 hours / nine stations / 04:00, GPX link, UT100 prize money, Nic Bornman and The Originals medals, WTM final race): https://www.ultratrailcapetown.com/ut100
-3. Official 100-mile 2026 page (163 km / 7,187 m / 45 hours / fourteen stations / 17:00, same-page 7,516 m, qualifier, pacing zone, Honey Badger, prize money): https://www.ultratrailcapetown.com/100miles
-4. Official race-info page (age 16/18/20, compulsory kit, cupless race, DNF procedure and medical wording): https://www.ultratrailcapetown.com/race-info
-5. Official entry page (2026 six-tier prices, refund and substitution, elite route, age categories; the embedded terms still name 2025): https://www.ultratrailcapetown.com/copy-of-enter
+1. Official 2026 event page (dates, six races, 100-mile 7,516 m description, weather, TRACKING/LIVE BROADCAST): [https://www.ultratrailcapetown.com/utct](https://www.ultratrailcapetown.com/utct)
+2. Official UT100 2026 page (99.1 km / 5,000 m / 26 hours / nine stations / 04:00, GPX link, UT100 prize money, Nic Bornman and The Originals medals, WTM final race): [https://www.ultratrailcapetown.com/ut100](https://www.ultratrailcapetown.com/ut100)
+3. Official 100-mile 2026 page (163 km / 7,187 m / 45 hours / fourteen stations / 17:00, same-page 7,516 m, qualifier, pacing zone, Honey Badger, prize money): [https://www.ultratrailcapetown.com/100miles](https://www.ultratrailcapetown.com/100miles)
+4. Official race-info page (age 16/18/20, compulsory kit, cupless race, DNF procedure and medical wording): [https://www.ultratrailcapetown.com/race-info](https://www.ultratrailcapetown.com/race-info)
+5. Official entry page (2026 six-tier prices, refund and substitution, elite route, age categories; the embedded terms still name 2025): [https://www.ultratrailcapetown.com/copy-of-enter](https://www.ultratrailcapetown.com/copy-of-enter)
 6. Combined ITRA 2026 race pages (UT100 99.85 km, +5,085 / −5,084 m, 450 cap; 100-mile 163.44 km, +6,995 / −6,991 m, 45 hours, fourteen stations, 350 cap): https://itra.run/Races/RaceDetails/RMB...Ultra.trail.Cape.Town.ULTRA.TRAIL.100.KM/2026/116887 ; https://itra.run/Races/RaceDetails/RMB...Ultra.trail.Cape.Town.UTCT.100.MILE/2026/116886
 7. ITRA 2025 UT100 results page (men's top three, first woman): https://itra.run/Races/RaceResults/RMB...Ultra.trail.Cape.Town.UTCT.100.MILE/2025/102584
 8. ITRA 2025 100-mile results page (men's and women's top three): https://itra.run/Races/RaceResults/RMB...Ultra.trail.Cape.Town.UTCT.100.MILE/2025/102583
@@ -347,5 +396,13 @@ The two editorial SVGs were made by the Runmap editorial team: `utct-100m-course
 16. Wikimedia Commons — Table Mountain from Blouberg (South African Tourism, CC BY 2.0, 5 January 2006, original 6,144×4,096): https://commons.wikimedia.org/wiki/File:Table_Mountain_from_Blouberg,_South_Africa_(4028515275).jpg
 17. Wikimedia Commons — Aerial of Hout Bay Harbour (South African Tourism, CC BY 2.0, 28 April 2009, original 1,024×680): https://commons.wikimedia.org/wiki/File:Aerial_of_Hout_Bay_Harbour,_Cape_Town,_Western_Cape_Province_(6253198444).jpg
 18. Wikimedia Commons — Lion's Head from Cape Town CBD (Husskeyy, CC BY-SA 4.0, 19 January 2026, original 4,096×1,864): https://commons.wikimedia.org/wiki/File:Lion%27s_Head_from_Cape_Town_CBD_(Landscape).jpg
+19. UTMB World Series 2026 season calendar announcement (64 events / 9 new / 4 Majors, no Cape Town; index inclusion is not membership; no group acquisition announcement found): https://utmb.world/it/news/new-season-2026
 
 Further reading: [Cape Town Marathon](/en/routes/cape-town/), [long-run fuelling](/en/knowledge/long-run-fueling/), [track viewer](/en/tools/track-view/), [split planner](/en/tools/splits/).
+
+<!-- related-ring -->
+## Related entries
+
+- [UTMB around Mont Blanc: the complete 2026 course guide](/en/routes/utmb/)
+- [Western States 100: the 2026 course in full](/en/routes/western-states/)
+- [CHIANG DAO 160: the 173 km race of the Chiang Mai Major, 48 hours and eight cut-offs](/en/routes/chiang-dao-160/)

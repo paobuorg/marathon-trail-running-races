@@ -1,0 +1,25 @@
+{
+ "sourceId": "route-utnh-2026-entry-page",
+ "title": "可隆宁海越野挑战赛 — 报名入口页",
+ "url": "https://ninghai100.com/page/entry",
+ "publisher": "可隆宁海越野挑战赛",
+ "publishedAt": null,
+ "accessedAt": "2026-11-26",
+ "claims": [
+  "The official race site publishes a dedicated entry page at /page/entry; on 2026-11-26 it returned HTTP 200 as a client-rendered page shell."
+ ],
+ "license": null,
+ "verification": {
+  "access": "metadata-only",
+  "bodyRead": false,
+  "checkedAt": "2026-11-26"
+ },
+ "claimVerification": [
+  {
+   "index": 0,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "2026-11-26 用 curl 请求返回 HTTP 200，页面为 3277 字节的前端壳；具体报名条款以竞赛规程页为准。"
+  }
+ ]
+}

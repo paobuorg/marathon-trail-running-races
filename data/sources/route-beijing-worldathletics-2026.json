@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-beijing-worldathletics-2026",
+  "title": "Tola runs Chinese all-comers' record in Beijing (World Athletics report & calendar)",
+  "url": "https://worldathletics.org/competitions/world-athletics-label-road-races/news/amsterdam-marathon-2026-diriba-berhanu",
+  "publisher": "World Athletics",
+  "publishedAt": "2026-10-18",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "World Athletics lists the 18 October 2026 Bank of China Beijing Marathon as a World Athletics Label Road Races Gold Label event in its calendar.",
+    "Tamirat Tola (Ethiopia) won in 2:03:10, a Chinese all-comers' record, improving the previous all-comers' mark of 2:05:35 run by Philemon Kiptoo Kipchumba in Shanghai in 2023 and the Beijing Marathon record of 2:07:06 set by Mathew Kipkoech Kisorio in 2019.",
+    "Muktar Edris and Adane Kebede, also Ethiopia, finished in 2:04:34 and 2:05:10, both inside the previous Beijing record.",
+    "Anchinalu Dessie (Ethiopia) retained the women's title in 2:20:36 ahead of China's Ciren Cuomu (2:23:48) and Lu Ying (2:24:24)."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 worldathletics.org 赛事综述稿北京段；标牌等级另经 WA 赛事日历 China 列表核对（Gold Label Result）",
+    "note": "WA 综述稿把多场赛事结果合并在同一页；本页只取北京段。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "WA 日历 China 列表：18 OCT 2026 Bank of China Beijing Marathon，Gold Label Result。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Tola 2:03:10；前 all-comers 2:05:35（Kipchumba，上海 2023）；北马纪录 2:07:06（Kisorio，2019）。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Edris 2:04:34；Kebede 2:05:10。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Dessie 2:20:36 卫冕；Ciren Cuomu 2:23:48；Lu Ying 2:24:24。" }
+  ]
+}

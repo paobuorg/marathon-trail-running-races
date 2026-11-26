@@ -14,12 +14,12 @@ translationStatus: reviewed
 ## Check status
 
 - Version: `2026-utnh-100`, the 2026 edition, held on 13–15 November 2026 in Ninghai County, Zhejiang. All three races start and finish at the West Gate.
-- Review date: facts 2026-11-20, media 2026-11-24. The 2026 edition was held on 13–15 November; this page has not obtained official results, finish rates or withdrawal rates, so it reports no result and makes no post-race prediction.
+- Review date: facts and sources 2026-11-26, media 2026-11-24. The 2026 edition was held on 13–15 November. Organiser-supplied and government-reported results are now recorded, but they have not been checked line by line against the official results app, so they are a post-race record rather than a ratified record.
 - Course geometry: **official link only, no line drawn**. The official UTNH-100 page offers a GPX download hosted on the organiser's own OSS bucket: <https://qiongjing.oss-cn-shanghai.aliyuncs.com/20261111/UTNH-100_2026%E5%8F%AF%E9%9A%86%E5%AE%81%E6%B5%B7%E8%B6%8A%E9%87%8E%E6%8C%91%E6%88%98%E8%B5%9B_1792643541919_1794370870868.gpx>. There is no licence or copyright statement, so this page downloads it only for a local measurement, does not host or redistribute it, and draws no track; the map anchor is a town-level point for Ninghai, not the West Gate start line.
 - Nobody on this page ran the course. No first-hand running measurements are presented; the official GPX measurement below is used only to sanity-check distance and elevation and is labelled as a measurement.
 - Course-change check: an update dated 14 September 2026 on the official UTNH-100 page states that CP2 moved from Wailiao at 16.4 km to Liliao at 18.6 km and that the cut-off was extended by 30 minutes. That is recorded in `courseChanges` as a within-edition adjustment, not a change between editions. No official handbook for 2025 or earlier was obtained, so the cross-edition history is unverified; an empty record beyond that does not mean the route never changed.
 - Next edition: the official home page lists only the three 2026 races and carries no 2027 dates or entry information. This page does not extrapolate the next edition from this one.
-- Sources: eleven sources cover the 2026 regulations, the official FAQ, the official home page, the UTNH-100 race page, the official GPX, the official schedule, the official transport and accommodation page, a geocode, and the Commons pages for three location photographs.
+- Sources: 18 sources cover the 2026 regulations, the official FAQ, the official home page, the UTNH-100 race page, the official GPX, the official schedule, the official transport and accommodation page, the entry/results/news entry pages, a geocode, Open-Meteo historical weather, the Ninghai government post-race report, Sina Sports and the RunnerReg race report, and the Commons pages for three location photographs.
 - **Media:** the page carries three Wikimedia Commons location photographs (the Niaolongkou section, a ridge view and fields at Dahutong on the Ninghai National Fitness Trail) and two self-made structure diagrams (a checkpoint chain and a cut-off ladder). All three photographs were taken in 2014; they are pre-race location images, not 2026 race-day photographs, and they do not prove the West Gate start line, the race arch, aid-station layout or metre-by-metre course passage. The diagrams are not official maps, are not to scale and cannot be used for navigation. Media checked 2026-11-24.
 
 ## What this race is
@@ -146,6 +146,118 @@ This is not an official grading. It is this page's reading of the official dista
 - **Night and colder weather.** November nights in the Ninghai hills are colder than the old October date. UTNH-100 runs through the night, and the organiser lists the warm long-sleeve top and a spare headtorch as race kit, not as suggestions.
 - **CNH-60 and YNH-25 are not simply shorter versions.** CNH-60's CP3 at Baishalinchang has no cut-off in the official table (marked N/A), and YNH-25 has only three timing points, leaving less room for error.
 
+## Timing and cut-offs
+
+The official UTNH-100 checkpoint table starts at 6:05 at the start and ends at 6:00 the next morning. Subtracting the 6:00 gun from every outbound cut-off gives the slowest permitted average pace to that point. It is a floor, not a target.
+
+| Checkpoint | Cumulative km | Outbound cut-off | Elapsed | Slowest average to the point |
+|---|---:|---|---:|---:|
+| CP1 Fengshan | 9.2 km | 7:30 | 1:30 | 9:47 /km |
+| CP2 Liliao | 18.6 km | 9:40 | 3:40 | 11:50 /km |
+| CP3 Feikeng | 29.2 km | 11:40 | 5:40 | 11:39 /km |
+| CP4 Zhangliao | 36.9 km | 13:20 | 7:20 | 11:56 /km |
+| CP5 Guanfeng | 50.5 km | 16:50 | 10:50 | 12:52 /km |
+| CP6 Tianhe | 59.5 km | 18:50 | 12:50 | 12:56 /km |
+| CP7 Shanyang | 64.8 km | 20:20 | 14:20 | 13:16 /km |
+| CP8 Liliao | 75.7 km | 23:40 | 17:40 | 14:00 /km |
+| CP9 Fengshan | 84.9 km | 02:10 next day | 20:10 | 14:22 /km |
+| CP10 Tuaocai | 94.8 km | 04:40 next day | 22:40 | 14:59 /km |
+| Finish West Gate | 100.6 km | 06:00 next day | 24:00 | 14:19 /km |
+
+The first 50.5 km get 10 hours 50 minutes; the remaining 50.1 km get only 13 hours 10 minutes. CP6 Tianhe and CP7 Shanyang are the real divide. At CP6 you have already used 12:50, with 41.1 km and the night still ahead. Anyone reaching CP6 near the cut-off has no right to treat the second half as a downhill stroll. The final CP10-to-finish floor tightens to 14:19 because the last 5.8 km still roll; it is not flat.
+
+## November weather in Ninghai
+
+The 2026 race ran from 13 to 15 November. To prepare for the same window, this page queried Open-Meteo history for 13–15 November in each year from 2015 to 2025 at the Ninghai grid point (29.28917N / 121.42472E), 33 days in total:
+
+| Measure | Range | Median | What it means |
+|---|---|---|---|
+| Daily maximum | 12.7–23.5°C | 18.9°C | Short sleeves by day, much colder on shaded and exposed ground |
+| Daily minimum | 3.9–19.3°C | 11.9°C | Nights can approach 4°C; warmth cannot live only in a drop bag |
+| Precipitation ≥1 mm | 13 of 33 days | — | Nearly four days in ten have perceptible rain |
+| Precipitation ≥5 mm | 8 of 33 days | — | About one day in four is properly wet and slippery |
+
+These are modelled valley-grid values, not measurements at CP5 Guanfeng or CP8 Liliao. Mountain nights are normally colder, and wind and humidity push the felt temperature lower. November in Ninghai is not simply "mild late autumn": the day can be 20°C, while CP8 at 75.7 km can be in single digits after 17 hours on foot.
+
+## Training for 100.6 km and 4,986 m
+
+A road marathon cannot substitute for UTNH-100 training. The organiser does not publish one universal schedule. The five phases below are an editorial suggestion for fitting volume, climbing, night running and November cold into one week, not an official prescription.
+
+| Phase | Weekly running | Weekly vertical | Key session | Night and cold rehearsal |
+|---|---|---|---|---|
+| Base, 4 weeks | 40–55 km | 1,000–1,600 m | 60 minutes continuous climbing | 60-minute headlamp walk |
+| Specific, 4 weeks | 55–70 km | 1,800–2,600 m | 4–5 hour mountain run | 2-hour night run in long sleeve and waterproof |
+| Simulation, 3 weeks | 65–80 km | 2,200–3,000 m | 7–8 hour loaded run, fuelling at checkpoint gaps | 5–6 hour overnight, descending while sleepy |
+| Peak, 2 weeks | 70–85 km | 2,500–3,200 m | Long run with one 1,000 m climb | Easy run after a cold night |
+| Taper, 2 weeks | 50–60% of peak | 40–50% of peak | Short hills at intensity | Kit-check walk only |
+
+Climbing training must build durability on long climbs, not just power on short repeats. CP4 to CP5 is 13.6 km with roughly 1,000 m of climbing, and CP2 to CP3 is 10.6 km. If the longest continuous climb in training is 20 minutes, CP4 will force a walk. Do one 60–90 minute continuous climb and one 30-minute up plus 30-minute down session each week.
+
+Night training belongs after fatigue. CP8 to CP9 is 9.2 km in the dark, and CP9 to CP10 is another 9.9 km, both after 17–22 hours on foot. Run three hours first, then 90 minutes with the headlamp. Practise changing the battery, tying shoes and eating solid food. A standalone night run does not reproduce the decision you make when sleepy.
+
+## Race-day execution card
+
+UTNH-100 starts at 6:00 on 14 November, with both start and finish at the West Gate. Bag drop opens one hour before the start, and the change bag waits at CP6. The organiser explicitly does not guarantee that a withdrawn runner's CP6 bag will reach the finish in time, so critical warmth must stay on the body, not only in the change bag.
+
+| Time | Action | Check |
+|---|---|---|
+| 13 Nov, 10:00–21:00 | Packet pickup and kit check | Original ID, full race kit |
+| 13 Nov, 20:30 | Final meal, pack, weigh | Two 30 L bags labelled finish and change |
+| 14 Nov, 04:30 | Reach start, bag drop, toilet | Bib, satellite tracker, headlamp |
+| 14 Nov, 05:40 | Enter the start pen | 1 L water capacity, 800 kcal bars |
+| 14 Nov, 06:00 | Start | Do not chase the first 9.2 km |
+| 14 Nov, 13:20 | CP4 Zhangliao | Solid food, check feet |
+| 14 Nov, 18:50 | CP6 Tianhe | Change kit, hot food, headlamp ready |
+| 14 Nov, 20:20 | CP7 Shanyang | Kit抽查, assess the night |
+| 15 Nov, 02:10 | CP9 Fengshan | Short cot rest, caffeine decision |
+| 15 Nov, 06:00 | Finish | Bib visible, collect finish bag |
+
+Write "latest outbound" rather than "target pace". At CP6 the latest outbound is 18:50 and the actions are change kit, eat 300 kcal, check the headlamp and spare battery. At CP7 the latest is 20:20 and the actions are put on the warm layer and confirm water for the next 10.9 km. Three actions per checkpoint are enough under fatigue; a long list is not.
+
+## Results: 2026 and past editions
+
+The 2026 UTNH-100 men's winner was Gu Rongchao in 9:25:06; the women's winner was Veronika Leng of Slovakia in 11:09:11. Miguel Arsénio was second in 9:41:35 and Daniel Jones third in 9:55:52. Sunmaya Budha was second woman in 11:10:44 and Ha Thi Hau third in 11:26:13. Those times come from results supplied by the organiser to media and from post-race reporting; the official results app and some outlets differ by about a second on the women's second place.
+
+| Edition | Men's winner | Time | Women's winner | Time |
+|---|---|---|---:|---:|
+| 2026 | Gu Rongchao | 9:25:06 | Veronika Leng | 11:09:11 |
+| 2025 | Ionel Cristian Manole | 10:37:31 | Chi Lingjie | 11:33:22 |
+| 2024 | Meng Guangfu | 10:05:00 | Xiang Fuzhao | 11:27:23 |
+| 2023 | Duoji | 10:46:58 | Yao Miao | 11:35:48 |
+| 2020 | Yan Longfei | 10:05:40 | Xiang Fuzhao | 12:32:48 |
+
+Past winners are not course records. The event moved from the by-UTMB period to independent organisation, and 2026 changed to three days and three guns. The flagship distance has appeared as both 100 km and 105 km in different years. Comparing 2024's 10:05 with 2026's 9:25 without noting the course difference turns a change of route into a change of performance. Read the edition, distance and route before reading the time.
+
+## Support, crew and pacing boundaries
+
+Only CP3, CP6 and CP9 allow friend/family support at UTNH-100, and each runner may apply for one support pass. Supporters may enter the designated zone only, and support outside those stations is not permitted. Receiving non-official help outside an aid station and gaining an advantage is a rule breach. "My friend can meet me anywhere" is not a plan; by CP4 or CP5 you will be out of water.
+
+A support pass is not a pacing pass. Supporters may not run with you for more than 200 m on course, nor hand over food outside the official zone. The most useful support is a single sheet listing the arrival window, socks to change and food to eat at CP3, CP6 and CP9. The runner should not have to explain the plan on arrival.
+
+## Night sections and lighting
+
+The UTNH-100 night is not "the last few kilometres". It starts after CP7 and runs to the finish. CP7 outbound is 20:20, CP8 is 23:40, CP9 is 02:10, CP10 is 04:40, and daylight may only arrive near the finish. A main headlamp plus a spare is race kit, not a suggestion, and CP7 can check it.
+
+Prepare the lighting for the darkest nine hours, not for the sunset at the start. Use a main lamp with replaceable batteries and keep the spare at the top of the pack, not in the change bag. Cold reduces battery capacity, so keep spares against the body. Practise a battery change until it takes under 30 seconds; that is the only version that works with frozen fingers.
+
+## Pacing strategy: four blocks
+
+The first block is the start to CP4 Zhangliao, 36.9 km. Its job is not to bank time but to recalibrate around the new CP1-to-CP2 distance of 9.4 km. CP1 at 7:30 is tight, yet 9.2 km in 90 minutes is 9:47/km, reachable by walking the climbs. The danger is chasing the crowd and arriving at CP2 with wasted legs. CP2 to CP3 is 10.6 km and CP3 to CP4 only 7.7 km; save effort on the former and lift the rhythm on the latter.
+
+The second block is CP4 to CP6, 22.6 km, including 13.6 km and roughly 1,000 m of climbing to CP5. Do not pace this block per kilometre; pace it per hour of climbing. CP5 closes at 16:50 and CP6 at 18:50, with only two hours for the 9 km between them. If you leave CP5 at 16:30, CP6 must be reached by 18:30 or there is no night margin.
+
+The third block is CP6 to CP9, 25.2 km, entirely at night. Change at CP6, eat hot food and get the headlamp ready; CP7 checks kit at 20:20; CP8 is 23:40; CP9 is 02:10. The skill is not speed but not stopping. Every seated break over 15 minutes turns CP9 into a problem. CP8 has a cot, but it is for a rest under 20 minutes; sleeping through is one of the most common ways to lose the race.
+
+The fourth block is CP9 to the finish, 15.7 km. Dawn is the coldest and mentally loosest hour. CP9 to CP10 is 9.9 km in 150 minutes, and CP10 to the finish 5.8 km in 80 minutes. Write the last two latest times on your hand; do not rely on a phone. The 6:00 finish cut-off is not "any time before sunrise".
+
+## The first 72 hours and the journey home
+
+The finish is the West Gate, and finish-bag collection closes at 14:00 on 15 November. If you finish after 6:00, confirm the bag is still available before you choose sleep over the train. The official transport page gives pre-race shuttles but no post-race return timetable, so arrange the return via Ninghai station or a car in advance instead of looking for a ride at the finish.
+
+After finishing, drink, eat carbohydrate and protein, then walk for ten minutes before sitting down. The common problems after 100 km are low blood pressure, low blood sugar and post-cold reactions, not just sore muscles. Persistent dizziness, vomiting or confusion belongs in the finish medical area, not in a hotel room. Wash and inspect the feet that evening, walk and stretch the next day, and only consider an easy run on day three.
+
+Do not do a "flush run" in the first 72 hours. The 4,986 m of climbing and repeated descents cause real muscle damage; an easy run does not speed recovery and can prolong blisters and knee pain. Sleep, fluid and normal meals beat every recovery gadget. If lateral knee or top-of-foot pain persists after returning to Shanghai or Hangzhou, see a sports physician rather than taping it and running on.
+
 ## Verified and unverified
 
 **Supported by official documents:**
@@ -161,7 +273,7 @@ This is not an official grading. It is this page's reading of the official dista
 
 **Not published officially, and therefore not filled in here:**
 
-- 2026 results, finish rates, withdrawals and winners: official post-race data was not obtained as of 2026-11-20; the official page still shows pre-race information.
+- 2026 official finish rates, withdrawal rates and checkpoint splits: the official results app has not been checked line by line; this page records only the placings and finish times supplied to media by the organiser.
 - 2027 dates, races, entry or fees: not on the official home page.
 - The licence and copyright status of the official GPX; this page records the link and makes no distribution judgement.
 - Per-station food and drink products, and water capacity at each station.
@@ -196,3 +308,16 @@ Copyright in the official images, maps and GPX belongs to the race organisation 
 11. Commons location photograph, Dahutong fields (MNXANL, CC BY-SA 4.0, 2014-06-14): https://commons.wikimedia.org/wiki/File:201406_Fields_in_Dahutong%2C_Ninghai_National_Fitness_Trail2.jpg
 
 Further reading: [long-run fuelling](/en/knowledge/long-run-fueling/), [track viewer](/en/tools/track-view/), [split calculator](/en/tools/splits/), [Gaoligong MGU](/en/routes/gaoligong-mgu/).
+
+Print and laminate one copy of the execution card for a supporter. A phone full of screenshots is not reliable where mountain signal disappears.
+
+One last timing note: the 24-hour limit is calculated from the 6:00 gun, and a runner who has not crossed the start timing mat within five minutes of the assigned wave is recorded as a withdrawal. Do not stay under the arch posing until the mat closes.
+
+The mat is the only proof that your race started at all, not a ceremonial detail.
+
+<!-- related-ring -->
+## Related entries
+
+- [The Dragon's Back Race: a six-day Welsh mountain ultra explained (2026 edition basis)](/en/routes/dragons-back-race/)
+- [Lavaredo 120K: 120 km in the Dolomites, with all five races kept apart](/en/routes/lavaredo/)
+- [Mont-Blanc Marathon: 42 km and 2,540 m, Chamonix's other race](/en/routes/mont-blanc-marathon/)

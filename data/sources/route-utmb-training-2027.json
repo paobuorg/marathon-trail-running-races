@@ -1,0 +1,39 @@
+{
+ "sourceId": "route-utmb-training-2027",
+ "title": "HOKA UTMB Mont-Blanc Training Plans with RunMotion Coach",
+ "url": "https://montblanc.utmb.world/races-runners/runners/training-course",
+ "publisher": "UTMB World Series",
+ "publishedAt": null,
+ "accessedAt": "2026-11-26",
+ "claims": [
+  "The official UTMB Mont-Blanc site offers free training-plan entry points through RunMotion Coach for ETC, MCC/OCC, CCC and UTMB/TDS.",
+  "The page describes progression, endurance and effort management as the framework of the standard plans, while a personalised plan adapts to goal, availability and terrain.",
+  "The UTMB/TDS plan is presented as preparation for the full loop around Mont-Blanc rather than a generic road marathon plan."
+ ],
+ "license": null,
+ "verification": {
+  "access": "direct",
+  "bodyRead": true,
+  "checkedAt": "2026-11-26"
+ },
+ "claimVerification": [
+  {
+   "index": 0,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "页面列出 ETC、MCC & OCC、CCC、UTMB & TDS 四组免费计划入口。"
+  },
+  {
+   "index": 1,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "页面写明标准计划提供 progression、endurance、effort management 框架。"
+  },
+  {
+   "index": 2,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "UTMB/TDS 计划说明为 “Prepare for the ultimate adventure around Mont-Blanc”。"
+  }
+ ]
+}

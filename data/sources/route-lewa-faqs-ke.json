@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-lewa-faqs-ke",
+  "title": "Registration FAQs — official Kenyan/East African portal (local fees, schedule, accommodation, AMREF cover, fundraising)",
+  "url": "https://www.lewasafarimarathon.co.ke/register/faqs/",
+  "publisher": "Lewa Safari Marathon (official .co.ke portal for Kenyan and East African entrants)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Local entry fees: full marathon 42 km KSh 20,000; half marathon 21 km KSh 20,000; Executive 10 km KSh 50,000; Junior 5 km KSh 3,000.",
+    "The race is held on a Saturday; the 2026 FAQ lists race day 27 June with a start before 7:00 AM; registration is Friday 26 June from 9:00 AM.",
+    "Accommodation: self-catering camping KSh 3,500 per adult per night and KSh 1,750 per child per night; catered options include Maridadi Camp and Safaricom Village (Location Africa); accommodation booking deadline is 5 May.",
+    "AMREF medical evacuation cover is compulsory for local registration, subsidised at KSh 850; evacuation without cover can cost over USD 4,000 and must be paid before treatment or flight.",
+    "Kenyan and East African entrants do not carry a minimum fundraising requirement; international entrants do (GBP 1,750 minimum on the .com portal).",
+    "Runner change deadline is 20 May; after that, changes are handled on registration day before 2:00 PM at a KSh 5,000 surcharge.",
+    "Corporate teams run 4–9 teammates; corporate registration is for the half marathon, with full marathon and spectator entries addable."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 .co.ke 注册 FAQ 全文",
+    "note": "本地费用以先令计；筹款口径区分本地与国际两套通道。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Fee 段：42km KSh 20,000、21km KSh 20,000、10km KSh 50,000、5km KSh 3,000。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "schedule 段：Saturday 27 June 2026；start before 7:00 AM；registration Friday 26 June 9:00 AM。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Accommodation 段：camping KSh 3,500/adult、1,750/child；Maridadi Camp、Safaricom Village；deadline 5 May。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "AMREF：compulsory，KSh 850 补贴；无保障撤离可超 USD 4,000，先付费再治疗/飞行。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "Fundraising：本地选手无最低筹款；国际选手按 .com 口径 £1,750。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "Change runner：deadline 20 May；之后 registration day 14:00 前，KSh 5,000。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-25", "note": "Corporate：4–9 人；half 为企业报名主项，可加 full/spectator。" }
+  ]
+}

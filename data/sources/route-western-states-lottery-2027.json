@@ -1,0 +1,39 @@
+{
+ "sourceId": "route-western-states-lottery-2027",
+ "title": "Lottery – Western States Endurance Run",
+ "url": "https://www.wser.org/lottery/",
+ "publisher": "Western States Endurance Run",
+ "publishedAt": null,
+ "accessedAt": "2026-11-26",
+ "claims": [
+  "The lottery was created to select the field fairly; registration is open for three weeks in November.",
+  "Applicants must have completed a qualifying race within the qualifying period and the allowed time.",
+  "Unsuccessful applicants accumulate 2^(n-1) tickets for each failed application, where n is the number of years applied."
+ ],
+ "license": null,
+ "verification": {
+  "access": "direct",
+  "bodyRead": true,
+  "checkedAt": "2026-11-26"
+ },
+ "claimVerification": [
+  {
+   "index": 0,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "页面写明 lottery 的目的与 11 月三周报名窗口。"
+  },
+  {
+   "index": 1,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "页面写明必须有 qualifying race。"
+  },
+  {
+   "index": 2,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "页面给出 2^(n-1) 的票数公式并举例。"
+  }
+ ]
+}

@@ -50,6 +50,18 @@ The 2010 race photograph below illustrates the surface and the self-supported lo
 
 The 270.0 km is the arithmetic sum of the six official stage distances: 35 + 40.5 + 29.1 + 100 + 42.2 + 23.2. The 2,567 m is likewise the sum of the six official stage gains: 285 + 486 + 413 + 721 + 424 + 238. No official total gain is printed, and the organiser does not explain the gap between "about 250 km" and 270.0 km. This page does not explain it on the organiser's behalf.
 
+## Course geometry: six-stage structure and the secret route
+
+MDS is a multi-day Sahara stage race whose route remains secret until the roadbook is issued; the organiser publishes no GPX. Geometry and navigation figures are:
+
+| Item | Figure | How this page handles it |
+| --- | --- | --- |
+| Distance | Regulations outline about 250 km; 2026 live six stages total 270.0 km | Both official figures kept side by side, not averaged |
+| Cumulative gain | Live six stages total 2,567 m; regulations give no overall total | Arithmetic sum; not back-calculated per stage |
+| Route file | Organiser states the exact parcours stays secret until the roadbook | `geometryAccess` recorded unavailable; no track drawn, no file hosted |
+| Navigation | Waymarks, roadbook, 1–2° compass, official GPS beacon, checkpoint punching | Leaving the course to the point of a search carries a €200 fine |
+| Terrain | Past photos show rocky slopes and open desert ground | Past photos are not used to judge 2026 surface type |
+
 ## Six race stages and one rest day
 
 The "official live page" column below gives the raw 2026 live-page values; the "regulation stage limit" column gives the general 2026 rulebook limit. The two official sets do not fully agree; the note after the table separates them.
@@ -78,6 +90,19 @@ Article 11 of the 2026 regulations says stages 1, 2, 3, 5 and 6 have a maximum a
 The official 2026 live page gives a second, more precise set of latest arrival times: stage 1 10 h, stage 2 11 h 35 m, stage 5 12 h 5 m, stage 4 38–40 h depending on a 05:00 or 07:00 start. Both sets are official; this page lists them side by side and neither averages nor overrides the other. `stages[].cutoffHours` uses the regulation values (10 / 10 / 10 / 32 / 10 / 10) because the regulation is the rulebook; the table also shows the live-page times.
 
 **The cumulative cut-off is not an official figure.** The organiser publishes no "hours accumulated by stage X" overall limit. The 10 / 20 / 30 / 62 / 62 / 72 / 82 h values are derived by adding the regulation stage limits; they are shown only to explain the structure and should not be treated as an official overall cut-off. The regulations also publish no single overall race time limit.
+
+## Timing and cut-offs: stage limits and two official time sets
+
+| Stage | Regulation stage limit (ART. 11/12) | 2026 live latest arrival | Note |
+| --- | ---: | --- | --- |
+| 1 | about 10 h | 07:00 → 17:00 (10 h) | The two match |
+| 2 | about 10 h | 06:00 → 17:35 (11 h 35 m) | Live sheet is wider |
+| 3 | about 10 h | latest 15:20; start time not printed | Start time unknown |
+| 4 | 32 h | 05:00 or 07:00 → 21:00 next day (38–40 h) | Long stage, crosses night |
+| 5 | about 10 h | 06:30 → 18:35 (12 h 5 m) | Live sheet is wider |
+| 6 | about 10 h | latest 13:10; start time not printed | Start time unknown |
+
+Each checkpoint's closing time is in the roadbook; passing after the limit means withdrawal. The cumulative cut-off in the table is a sum of the regulation stage limits, not an official overall close; the organiser publishes no total race time limit.
 
 ## 2026 40th-edition final results
 
@@ -139,6 +164,28 @@ In other words, **during the race the organisation takes charge of no item in yo
 
 The 2026 regulations also say that after a withdrawal the competitor's "sac personnel" (personal bag) is returned at Ouarzazate. That refers to post-withdrawal personal luggage, not in-race transfer. The organiser publishes no pre-race bag-handover details; this page does not invent them.
 
+## Kit and rules: mandatory list, weight range and penalties
+
+| Category | Official requirement (2026 regulations) | Check point |
+| --- | --- | --- |
+| Pack | 20 L pack | Carried throughout; the organiser takes nothing from the pack |
+| Sleep | Sleeping bag | Desert nights cool down |
+| Lighting | Headlamp ≥400 lumens plus spare batteries | Used on the cross-night Stage 4 |
+| Water containers | Sealable containers, total capacity ≥1.5 L | Capacity requirement, not a daily water intake |
+| Navigation | 1–2° compass; official GPS beacon issued | Used with waymarks and roadbook |
+| Safety | Whistle, metal knife, emergency blanket, signal mirror | Carried and available for inspection |
+| Protection | Sunscreen | Strong sun and sand reflection |
+| Food | Two broth cubes per day; timed stages ≥2,000 kcal/day (≥12,000 kcal total) | Repackaged food needs a readable nutrition label |
+| Prohibited | Gas stoves are explicitly banned | Must not be carried |
+
+| Item | Official range / figure | Basis |
+| --- | ---: | --- |
+| Weight (kit + personal items, excluding the day's water) | minimum 6.5 kg, maximum 15 kg | ART. 24 |
+| Minimum calories (timed stages 5–10 April) | 12,000 kcal, i.e. 2,000 kcal/day | Shortfall penalised 2 h under ART. 27/28 |
+| Water container capacity | ≥1.5 L | Container requirement |
+| Water issued at stage finish | 5 L per person | Next water at the first checkpoint the following day |
+| Search after leaving the course | €200 fine | ART. 19, external assistance clauses |
+
 ## Medical and safety
 
 ### Official medical cover
@@ -155,6 +202,17 @@ Article 17 of the 2026 regulations says the medical team is chosen by the organi
 
 This section sticks to what the official rules support. General sports-medicine guidance that the organiser does not state is not presented as a race rule.
 
+## Entry, qualification and participation boundary
+
+| Item | Official basis | How this page handles it |
+| --- | --- | --- |
+| Eligible runners | Regulations: course à pied, ouverte aux marcheurs; runners and walkers allowed, free pace | Official wording transcribed |
+| Medical check | Technical, administrative and medical check on 4 April | Runners who fail cannot take part; the detailed medical threshold is not expanded in the regulations read |
+| Entry package | Includes Marrakech airport to Ouarzazate to bivouac transfer and two post-race Ouarzazate nights | Classic/Berbère Palace tier differences are on the official package page |
+| Fee | No fee tier listed on the pages read | Insufficient evidence; price not added |
+| Lottery / places | No lottery ratio or place cap in the regulations read | Not guessed |
+| External assistance | Strictly forbidden (ART. 19) | Supporters and teams cannot hand supplies on course |
+
 ## Arrival and assembly
 
 The official 2026 programme is: on 3 April a bus transfer into the desert bivouac; on 4 April technical, administrative and medical checks; on 11 April, after stage 6, a bus back to Ouarzazate and a hotel; on 12 April a free day, awards and dinner; on 13 April departure transfers.
@@ -170,6 +228,37 @@ This is the Ouarzazate town grid, not the Sahara bivouac south of M'Hamid or the
 ## Difficulty
 
 This is not an altitude problem: the six stages total 2,567 m of gain and the organiser does not single out a high point. The difficulty is duration, heat, sand, self-sufficiency, navigation and multi-day recovery. The official 2027 event page gives historical averages of a 90% finish rate, 5.2 km/h average speed and cut-offs set at 3.5 km/h, and states that over 30% of participants walk. This page does not merge the 2026 270.0 km with the 2027 "about 250 km" into one number.
+
+## Training conversion: multi-day desert stage preparation
+
+The MDS challenge is consecutive days, self-carried food, sand and sustained dry heat, navigation and the cross-night long stage (Stage 4, 100 km). Preparation centres on multi-day endurance, loaded run-walk and heat adaptation, not a single-day peak time. General methods are in [ultra-trail training plan](/en/knowledge/trail-ultra-training-plan/), [long-run fueling](/en/knowledge/long-run-fueling/), [heat and humidity](/en/knowledge/heat-and-humidity/) and [load and overtraining](/en/knowledge/load-and-overtraining/).
+
+| Phase | Focus | Practical content | Race-day constraint |
+| --- | --- | --- | --- |
+| T-20 to T-14 weeks | Aerobic and loaded base | Repeated loaded jog/walk sessions; build sun-exposed training | 6.5–15 kg pack, repeated over multiple days |
+| T-14 to T-8 weeks | Back-to-back days | Back-to-back long runs or two-day run-walk sessions | Six stages over several days; Stage 4 at 100 km |
+| T-8 to T-3 weeks | Self-sufficiency and heat adaptation | Test 2,000 kcal/day food carry and dehydrated fueling; one warm long run | Food carried throughout, water only from the organiser; midday exposure |
+| T-3 to race | Taper | Shorten distance, keep rhythm; no new kit | Pass the pre-race medical check; see [taper and strength](/en/knowledge/strength-and-taper/) |
+
+Boundary: this is a generic preparation framework, not medical advice. Runners with pre-existing cardiopulmonary conditions, a heat illness history or recent injuries should consult a doctor first.
+
+## Race-day execution card: stage rhythm, water and withdrawal
+
+| Phase | Stage window | Rhythm and fueling | Check |
+| --- | --- | --- | --- |
+| Stages 1–3 | 35.0 / 40.5 / 29.1 km | Hold back the first two; split effort between run and walk | Collect 5 L at each stage finish; punch checkpoints |
+| Stage 4 | 100.0 km, 32 h regulation limit | Night headlamp and warmth; eat in small segments | Start group by 05:00 or 07:00; do not leave the course axis |
+| Rest day | 9 Apr (placeholder) | Recover, sleep, sort kit and food | Runners still on Stage 4 are still racing this day |
+| Stages 5–6 | 42.2 / 23.2 km | Tired after several days; hold steady rhythm | Stage 6 start time follows the roadbook |
+
+| Red flag | On-site action | Boundary |
+| --- | --- | --- |
+| Heat exhaustion, dizziness, palpitations, confusion | Stop, report to the checkpoint medical point | This page does not diagnose; the medical team may take the bib and withdraw the runner |
+| Sand obscuring the direction | Stay on the course axis and wait for an official's instruction | This is an official rule, not personal judgement |
+| Dehydration, cramping, vomiting | Rehydrate and replace salt at a checkpoint, report to medical | The regulations do not set a heat-illness procedure; this page adds no medical conclusion |
+| Lost direction | Return to the waymark axis, check the compass, report to the nearest checkpoint | Leaving the course to the point of a search carries a fine; external assistance is forbidden |
+
+Fueling and sweat framework are in the [fueling planner](/en/tools/fueling-planner/) and [sweat-rate tool](/en/tools/sweat-rate/); kit framework is in [trail gear](/en/knowledge/trail-gear/); pre-race check is in the [race checklist tool](/en/tools/race-checklist/).
 
 ## Verified and unverified
 
@@ -218,3 +307,10 @@ Both are historical race photographs, not evidence of the 2026 or 2027 course, a
 - 2004 Commons photograph `photo-mds-2004-salt-flat`: `https://commons.wikimedia.org/wiki/File:Running_the_Marathon_des_Sable.jpg`
 
 The text on this page is published under CC BY 4.0. The race name, regulation text and official page content remain the rights of Marathon des Sables / the relevant organiser; official quotations are used for verification and commentary.
+
+<!-- related-ring -->
+## Related entries
+
+- [MIUT Madeira Island Ultra-Trail: the 110 km crossing](/en/routes/miut/)
+- [Paraty Brazil by UTMB PTR 100: 2027 checkpoint table, cut-offs and race-day facts](/en/routes/paraty-brazil/)
+- [Patagonia Run 100 Millas: 160.3 km in Patagonia, and an official no-GPX policy](/en/routes/patagonia-run/)

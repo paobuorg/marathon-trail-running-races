@@ -15,7 +15,14 @@
     "route-utnh-place-geocoding",
     "photo-utnh-ninghai-trailhead",
     "photo-utnh-ninghai-mountains",
-    "photo-utnh-ninghai-fields"
+    "photo-utnh-ninghai-fields",
+    "route-utnh-2026-gov-result",
+    "route-utnh-2026-result-report",
+    "route-utnh-2026-sina-result",
+    "route-utnh-openmeteo-2026",
+    "route-utnh-2026-entry-page",
+    "route-utnh-2026-results-page",
+    "route-utnh-2026-news-page"
   ],
   "relatedRefs": [
     "knowledge:long-run-fueling",
@@ -24,9 +31,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-11-09",
-  "updatedAt": "2026-11-24",
-  "reviewedAt": "2026-11-24",
-  "reviewDueAt": "2027-03-04",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-05-31",
   "details": {
     "raceType": "trail-ultra",
     "countryCodes": [

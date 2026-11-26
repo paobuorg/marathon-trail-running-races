@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-everest-openmeteo",
+  "title": "Open-Meteo historical archive — Gorak Shep grid point, 25–31 May 2016–2025",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=27.9807&longitude=86.8289&start_date=2016-05-25&end_date=2025-05-31&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Asia/Kathmandu",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The requested grid point at 27.9807 N, 86.8289 E returns an elevation of 5,157 m, near Gorak Shep below the Everest Base Camp start.",
+    "For 25–31 May 2016–2025 (70 day-samples), daily high temperatures ranged from -2.6 to 7.8 °C with a median of 0.6 °C.",
+    "Daily low temperatures ranged from -12.0 to 0.3 °C with a median of -5.0 °C.",
+    "32 of 70 days recorded at least 1 mm of precipitation; 8 of 70 recorded at least 5 mm; the single-day maximum was 42.5 mm.",
+    "These are modelled grid-point reanalysis values, not measurements taken on the race course; the grid sits below the EBC start and above the Namche finish, so it cannot represent either end exactly."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "PowerShell Invoke-RestMethod 读取 Open-Meteo archive API JSON，过滤每年 5 月 25–31 日，重算 min/median/max 与降水计数",
+    "note": "网格点海拔 5,157 m，低于 EBC 起点 5,356–5,364 m、高于 Namche 终点 3,440 m；温度随海拔与坡向变化大。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "API 顶层 elevation 字段：5157 m。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "daily.temperature_2m_max 70 项：min -2.6 / median 0.6 / max 7.8 °C。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "daily.temperature_2m_min 70 项：min -12.0 / median -5.0 / max 0.3 °C。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "precipitation_sum：≥1mm 32 天，≥5mm 8 天，最大 42.5 mm。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "历史再分析网格口径；非赛道实测。" }
+  ]
+}

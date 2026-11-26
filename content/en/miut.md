@@ -60,7 +60,7 @@ The official checkpoint table gives this geometry (cumulative kilometres; gain a
 
 Adding the segments gives **108.9 km, +7,165 m and −7,175 m**. The three hardest blocks are Fanal (1,580 m up in 12.3 km), Curral das Freiras to Pico Ruivo (1,430 m up in 11 km) and the repeated climbs and descents from Pico Ruivo to Portela on an exposed ridge. The final 12.9 km from Larano to Machico still has +230 / −545 m; it is not a pure downhill finish.
 
-## Checkpoints, cut-offs and aid
+## Checkpoints, cut-offs, aid and personal support
 
 The ten Legend checkpoints from the official 2027 table. `L` = liquids, `S` = solids, `+` = nurse, `Méd` = medical, `AP` = personal assistance, `BAG` = drop bag:
 
@@ -181,6 +181,20 @@ The counter-intuitive part: 32 hours is 17:38/km, yet Fanal at 12.3 km closes at
 
 A workable budget: run the first 20.2 km at 15:15–15:30/km to reach Chão da Ribeira in 5:08–5:13; use 16:30–17:30/km from 20.2 to 58.4 km to reach Curral before 16:30; allow 18:30–20:00/km on the Pico Ruivo climb but leave Chão da Lagoa before 23:30; then use 17:00–17:30/km from 79 to 108.9 km, pass Larano before 05:00 and finish before 08:00. These are planning figures, not official splits.
 
+## Weather and season: Madeira in April — pre-dawn, ridges and rain fog
+
+MIUT 2027 runs 24–25 April; LEGEND starts at 00:00. The 2026 same-season observed range (reference only, not a 2027 forecast): about 16 °C at night, just over 20 °C by day, with intermittent rain fog and sun on the ridges. The organiser publishes no 2027 race-period mountain measurements, and this page does not treat the 2026 range as a 2027 weather prediction.
+
+| Section | Altitude | Feel and risk | Preparation |
+| --- | ---: | --- | --- |
+| Porto Moniz start to Fanal | 15 → 1,160 m | Pre-dawn start, fast climb, wet Laurissilva forest | Headlamp, waterproof jacket, warm layer within reach |
+| Estanquinhos to Chão dos Louros | 1,580 → 820 m | Alternating plateau and deep valley, wind and fog | Warm hat/neck cover, gloves when the cold pack activates |
+| Curral to Pico Ruivo | 670 → 1,760 m | Exposed ridge, technical rock surface | Grip shoes, downhill control |
+| Chão da Lagoa to Portela to Larano | 1,480 → 320 m | Coastal ridge rolling, afternoon weather changeable | Watch rain-fog visibility |
+| Larano to Machico | 320 → 5 m | Finish descent still has +230 / −545 m | Wet rock and roots slow the downhill |
+
+Boundary: Madeira rain arrives quickly; wet Laurissilva roots and stone slow the descent well below dry-ground pace. The table is a seasonal reference; race-day weather follows the official weather notice. This page does not provide medical advice for participation.
+
 ## Difficulty: official 4/5, and why
 
 The organiser rates the Legend 4/5, Trail Ultra Endurance. Using the checkpoint table, the main demands are:
@@ -194,6 +208,41 @@ The organiser rates the Legend 4/5, Trail Ultra Endurance. Using the checkpoint 
 Weather and kit must be planned for "midnight plus ridge". In 2026 it was about 16°C at night and low 20s°C by day, with drizzle and sun alternating on the ridges; that is not a 2027 forecast, only the range a runner may meet in the same season. After the 00:00 start, the coldest sections are the Fanal and Estanquinhos plateau; the waterproof jacket, long-sleeve layer, ear-covering hat and gloves need to be within reach. Two headlamps are not "a spare": one is the primary and one the backup, and the red rear light must be on on road sections. Madeira rain arrives quickly, and wet roots and rock in the Laurissilva make descents much slower than in the dry; build that loss into the pace budget.
 
 Withdrawal and medical: formalise a withdrawal at an official checkpoint/aid station or by phone to the organiser; do not cut down an unofficial path. The organiser provides transport back to Machico from checkpoints, subject to seats and schedules. Medical stations and mountain rescue are placed along the course; the race doctor can remove a runner for hypothermia, dehydration or altered consciousness. Rescue costs caused by ignoring instructions or reckless behaviour are charged to the runner. The emergency number is given at check-in; it is not a substitute for 112.
+
+## Training conversion: 110 km high-gain cross-night preparation
+
+The LEGEND challenge is 110 km, about 7,200 m of cumulative gain, a 32-hour limit spanning the night, three concentrated steep climbs and long technical descents. Preparation centres on high-gain mountain tolerance, night rhythm and downhill strength, not road mileage alone. General methods are in [ultra-trail training plan](/en/knowledge/trail-ultra-training-plan/), [long-run fueling](/en/knowledge/long-run-fueling/), [recovery day](/en/knowledge/recovery-day/) and [load and overtraining](/en/knowledge/load-and-overtraining/).
+
+| Phase | Focus | Practical content | Race-day constraint |
+| --- | --- | --- | --- |
+| T-16 to T-10 weeks | Mountain base | Mountain long run plus easy runs; weekly gain toward 2,500 m | Three climbs of 1,300–1,580 m |
+| T-10 to T-6 weeks | Long run and downhill | Long run to 70–90 km; practise descents and stairs | Several 800–1,445 m descents load knees and ankles |
+| T-6 to T-2 weeks | Self-sufficiency and night | Test 1 L water capacity, spare food and dual lights; one night session | No disposable cups anywhere; 00:00 start crosses the night |
+| T-2 to race | Taper | Shorten distance and gain, keep short rhythm; no new shoes or kit | Medical certificate and questionnaire due before 20 March; see [taper and strength](/en/knowledge/strength-and-taper/) |
+
+Boundary: this is a generic preparation framework, not medical advice. Runners with pre-existing cardiopulmonary conditions, recent injuries or a history of altitude intolerance should consult a doctor first. LEGEND entry requires 4 ITRA points or a 115 km-effort and minimum age 21; keep qualification thresholds separate from preparation targets.
+
+Against this course's figures: the first 12.3 km gain 1,580 m, about 128 m/km; long runs should include climbs at that density rather than accumulating road mileage only. Curral to Pico Ruivo climbs 1,430 m over 11 km, about 130 m/km, repeating the load on legs and lungs when tired. On the downhill side, sections before Fanal, Chão dos Louros and Curral each descend 800–1,445 m; training should practise cadence control on stairs and wet rock rather than saving the downhill for race day. The night section crosses the Pico Ruivo and Chão da Lagoa area; include at least one pre-dawn or night session to practise dual-light switching, tail-light use and navigation when fatigued.
+
+## Race-day execution card: cut-off buffer, stations and personal assistance
+
+LEGEND starts at 00:00 with a 32-hour limit; the predicted slow runner reaches Machico in 31:55. On race day, bank cut-off buffer first, then think about split pace. The table below breaks the route into four checkpoint windows; times come from the official 2027 checkpoint list.
+
+| Phase | Checkpoint window | Rhythm and fueling | Check |
+| --- | --- | --- | --- |
+| Start to Chão da Ribeira | 0–20.2 km | The first 12.3 km gain 1,580 m; run faster than the overall average to bank buffer | Fanal closes 03:30, Chão 05:15; carry a personal cup |
+| Estanquinhos to Curral | 29.9–58.4 km | The 14.5 km gap needs water attention; assistance limited to 20 m either side of a station | Estanquinhos 09:15, Curral 16:30; drop bag at Curral |
+| Pico Ruivo to Chão da Lagoa | 69.4–79.0 km | Control pace on the exposed ridge; keep warm at night | Pico Ruivo 20:30, Lagoa 23:30 close |
+| Portela to Machico | 90.9–108.9 km | Rolling late section; steady finish | Larano 05:00+1, Machico 08:00+1 close |
+
+| Red flag | On-site action | Boundary |
+| --- | --- | --- |
+| Dizziness, palpitations, chest pain, altered awareness | Report to a medical station, follow withdrawal instructions | This page does not diagnose; the race doctor may force withdrawal |
+| Hypothermia, persistent shivering, altered movement | Shelter at a station, add layers, notify staff | On-site medics assess |
+| Lost in rain fog, poor visibility | Return to the waymark axis, check track and compass, report to the nearest station | Do not cut down an unmarked route |
+| Approaching the cut-off at a station | Assess remaining climb and buffer; withdraw at a checkpoint if needed | Withdrawal uses official transport back to Machico, subject to seats and schedule |
+
+Station-use framework is in [crew and pacer planning](/en/knowledge/crew-and-pacer-planning/); pace comparison is in the [pace tool](/en/tools/pace/) and [splits tool](/en/tools/splits/); the withdrawal framework is in [drop-out decision](/en/knowledge/dnf-decision-making/).
 
 ## Verified and unverified
 
@@ -236,3 +285,10 @@ This page hosts no GPX. Images, maps and GPX on the official pages belong to MIU
 10. 2025 MIUT 115 start photograph (Jan Gutermann, author Sportif d'endurance, CC BY-SA 4.0): https://commons.wikimedia.org/wiki/File:Gutermann_Jan_2025.jpg
 
 Further reading: [Transgrancanaria](/en/routes/transgrancanaria/), [long-run fueling](/en/knowledge/long-run-fueling/), [track viewer](/en/tools/track-view/), [split calculator](/en/tools/splits/).
+
+<!-- related-ring -->
+## Related entries
+
+- [Paraty Brazil by UTMB PTR 100: 2027 checkpoint table, cut-offs and race-day facts](/en/routes/paraty-brazil/)
+- [Patagonia Run 100 Millas: 160.3 km in Patagonia, and an official no-GPX policy](/en/routes/patagonia-run/)
+- [Sydney Marathon: the complete 2026 course guide, North Sydney to the Opera House](/en/routes/sydney/)

@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-bigs-wikipedia-history",
+  "title": "Big's Backyard Ultra — Wikipedia article (history, past results, day/night course)",
+  "url": "https://en.wikipedia.org/wiki/Big_Dog%27s_Backyard_Ultra",
+  "publisher": "Wikipedia (community compilation, third-party)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The event is the original backyard ultra, invented by Gary \"Lazarus Lake\" Cantrell of Bell Buckle, Tennessee, and inaugurated in 2011.",
+    "Participants run a 4.167-mile loop every hour and are eliminated if they fail to complete a loop within the hour; the loop runs on trails during the day and along a road after dark.",
+    "Each loop equals 100 miles divided by 24, so a runner who completes a full day of 24 loops covers 100 miles; there is no predefined finish, and the winner completes one loop no other competitor completes.",
+    "Compiled past winners and laps: 2011 Tim Englund 18 (assist Dave Carver); 2012 Joe Fejes 28 (Marcy Beard); 2013 Tim Englund 35 (Keith Knipling); 2014 no winner at 49 laps (Johan Steene / Jeremy Ebel); 2016 Babak Rastgoufard 29 (Andy Pearson); 2017 Guillaume Calmettes 59 (Harvey Lewis); 2018 Johan Steene 68 (Courtney Dauwalter); 2019 Maggie Guterl 60 (William Hayward, first female winner); 2021 Harvey Lewis 85 (Chris Roberts); 2022 Piotr Chadovich 76 (Harvey Lewis); 2023 Harvey Lewis 108 (Ihor Verys); 2024 Scott Snell 88 (Megan Eckert); 2025 Phil Gore 114 (Ivo Steyaert).",
+    "In 2020 the COVID-19 pandemic precluded international travel to Tennessee; the race was replaced by satellite events and the world title was won by Karel Sabbe in Belgium with 76 laps."
+  ],
+  "license": "CC-BY-SA-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 Wikipedia 条目正文与 Past results 表",
+    "note": "第三方汇编：名次与圈数逐条引自条目表，未逐条回溯官方成绩 PDF；2015 条目记为未举办。2024 为团队冠军年，表内 Scott Snell / Megan Eckert 为美国阵营成绩，口径见正文说明。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "首段：invented by Gary Lazarus Lake Cantrell, Bell Buckle, Tennessee; Infobox Inaugurated 2011。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "首段：4.167-mile loop every hour; trails during the day, road after dark。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "首段：distance equals 100 divided by 24; no predefined finish; winner completes a loop no other completes。" },
+    { "index": 3, "status": "partial", "checkedAt": "2026-11-25", "note": "Past results 表逐年记录；本轮未取得 Big's 官方逐届成绩归档，名次按汇编口径标注。" },
+    { "index": 4, "status": "partial", "checkedAt": "2026-11-25", "note": "脚注 b：2020 卫星赛事，Karel Sabbe 比利时 76 圈；第三方叙述，官方页面本轮未复核。" }
+  ]
+}

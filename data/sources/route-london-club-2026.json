@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-london-club-2026",
+  "title": "British Athletics Club entry – TCS London Marathon",
+  "url": "https://www.tcslondonmarathon.com/enter/how-to-enter/british-athletics-club-entry",
+  "publisher": "London Marathon Events",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Club guaranteed entries are allocated by first-claim affiliated membership: clubs with 0–9 members receive zero; 10–39 members enter a ballot for 228 guaranteed entries (one per successful club); 40–189 members receive one guaranteed entry; 190+ members receive two.",
+    "Eligible clubs must be associated with British Athletics through England Athletics, Scottish Athletics, Welsh Athletics or Athletics Northern Ireland, with a minimum of 10 first-claim members.",
+    "Club entries are charged at the standard UK entry price of £69.99; allocation is automatic and clubs do not need to apply for their guaranteed places."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 british-athletics-club-entry 正文与名额分配表",
+    "note": "俱乐部名额档位与费用来自页面；页面标注 2025 口径，2027 信息待公布"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "分配表：0-9 zero；10-39 ballot for 228；40-189 one；190+ two"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：England/Scotland/Wales/Northern Ireland，minimum 10 first-claim members"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：club entries at standard UK entry price £69.99；allocation automatic"
+    }
+  ]
+}

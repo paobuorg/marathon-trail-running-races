@@ -29,6 +29,18 @@ On scale: the 2026 regulations cap the field at 1,100 bibs and set the entry fee
 
 One thing has to be understood before any other number: the official documents give at least three different lengths. The race page says 330 km and 24,000 m of climb. The regulations say approximately 350 km with around 25,000 m of climb, evaluated by ITRA. The official timetable totals 336.5 km with +26,182 m and −25,727 m. All three come from the organiser; none of the differences were created by this site. When you read any Tor des Géants material, first establish which of the three it is using.
 
+## Entry and qualification
+
+| Item | Official basis |
+| --- | --- |
+| Bibs | Maximum 1,100 |
+| Entry fee | 990 euros |
+| Age | From age 20 |
+| ITRA rating | 6 ITRA points, 12 mountain points |
+| Qualification threshold | The rules and race page read do not publish a UTMB Index or results requirement; ballot and waiting-list rules are also absent from the pages read, so this page fills in nothing |
+
+The race is single stage, free speed, limited time, semi-self-sufficiency; the winner is the runner completing the course in the shortest time, and the organiser sets no compulsory stages. The site has rolled to the 2027 edition (12–18 September); 2027 entry terms, qualification and bibs follow the later official pages.
+
 ## Official figures
 
 | Source | Distance | Climb | Descent | Highest point |
@@ -103,6 +115,19 @@ Further rules, all from the official regulations and timetable:
 
 ![The Miserin section of the 2017 Tor des Géants](/media/routes/tor-des-geants/miserin-terrain-2017.jpg)
 
+## Gear and rules
+
+Mandatory list (TOR330 column of the regulations): a cup or container, a mobile phone kept on and ringing, an identity document, two survival blankets, food and water, and two working head torches with spare batteries. A handheld GPS navigator, route maps, altimeter and compass are listed only in the TOR450 column, not as TOR330 mandatory items.
+
+| Item | Rule basis |
+| --- | --- |
+| Mandatory gear | Cup/container, phone, ID, two survival blankets, food and water, two head torches with spare batteries |
+| Communication | Phone kept on with ringing tone to receive race instructions |
+| Aid cup | The organiser supplies no plastic cup; runners must carry their own |
+| Assistant | One pass-holding assistant per runner, only at aid stations and Life Base reserved areas; no collecting TOR bags, no medical or quasi-medical service |
+| Pacing | Any systematic running alongside leads to disqualification; refuelling at an aid station or roadside is not pacing |
+| Sleeping | Sleeping in any building, shelter or vehicle outside designated and controlled areas is forbidden |
+
 ## Surface and terrain
 
 The organiser publishes no surface percentages, and this page does not invent any. What is officially confirmed:
@@ -131,6 +156,13 @@ This section only states what official rules, official route data and official t
 Courmayeur sits in Italy's Valle d'Aosta and connects to Chamonix on the French side through the Mont Blanc Tunnel. The following comes from the official Courmayeur tourism page and the tunnel operator's own notice:
 
 - **By air**: Turin Caselle airport is about 150 km from Courmayeur; Milan Malpensa 212 km; Milan Linate 235 km; Geneva 115 km. These are the four distances the official tourism page publishes; the page reviewed for this section does not give connecting timetables from each airport.
+
+| Airport | Distance to Courmayeur | Connection timetable |
+| --- | ---: | --- |
+| Turin Caselle (TRN) | About 150 km | Not published on the official page |
+| Milan Malpensa (MXP) | 212 km | Same |
+| Milan Linate (LIN) | 235 km | Same |
+| Geneva (GVA) | 115 km | Same |
 - **By train**: the railway line serving the locality is the Chivasso–Aosta line (the tourism page's own wording). The page stops at that line without describing the onward connection to the town, so this page does not invent one.
 - **By bus**: Courmayeur has a public bus service within the resort with connections to and from Aosta, the Valle del Monte Bianco and major cities in northern Italy; the same service connects Courmayeur with Chamonix on the other side of Mont Blanc. The tourism page points to aosta.arriva.it.
 - **By car**: from Italy, the main roads are the SS26 della Valle d'Aosta and the A5 Torino–Aosta–Courmayeur motorway; from France, Switzerland and northern Europe, the connection is the Mont Blanc Tunnel or the Gran San Bernardo Tunnel.
@@ -148,6 +180,13 @@ The 2026 edition starts on 13 September in two waves and closes at 18:00 on 19 S
 - Daily minimum temperature: −1.7°C to 13.5°C, median **9.6°C**.
 - Precipitation: 33 of 77 days recorded at least 1 mm, 14 recorded at least 5 mm, and the wettest single day reached 24.0 mm.
 
+| Metric | 77-day sample (13–19 September, 2015–2025) |
+| --- | --- |
+| Daily maximum | 9.7–28.6 °C, median 19.6 °C |
+| Daily minimum | −1.7–13.5 °C, median 9.6 °C |
+| Precipitation | 33 days ≥1 mm; 14 days ≥5 mm; wettest day 24.0 mm |
+| Grid point | 45.729N / 7.098E, 1,174 m; modelled, not course measurement |
+
 Those three lines are **modelled historical statistics for a valley grid point, not measurements on the course and not pass temperatures**.
 
 The organiser runs its own weather service: the Valle d'Aosta regional Functional Centre publishes a dedicated TORX bulletin by 14:00 every day, sector by sector along the course, covering the next 36 hours in six-hour blocks, with wind-chill at the highest point whenever the temperature is below 0°C. Bulletins appear on the Telegram channel "Meteo VdA" and on the TORX Weather page at cf.regione.vda.it, issued sector by sector from the day before the start until the end of the race.
@@ -162,6 +201,44 @@ The official documents publish no single "difficulty grade", and this page does 
 - Official maximum time 150 hours, no compulsory stages, sleep managed by the runner.
 - Semi-self-sufficiency, a mandatory kit list, and a longest gap between Life Bases of about 55.5 km.
 - Official ITRA rating: 6 ITRA points and 12 mountain points.
+
+## Results and course changes
+
+- 2026 finishers and winning times were not available in the sources read this round; this page lists no unverified standings.
+- Change log (entity `courseChanges`): the 2026 page has rolled to 2027 and the 2027 course rules are not yet published; the 2018 announcement records two route changes — the Valgrisenche base moved to the town centre, and the route between Finestra d'Ersaz and Rifugio Magià was diverted; the 2015 shortened edition keeps two official accounts side by side (magazine finish Ollomont; regulations stopped after Gressoney OUT). The 2012 official communiqué page is offline and its body cannot be read; the 2022 cancellation has third-party support only and is not logged.
+
+## Training conversion
+
+At 330+ km and 20,000+ m of climb, this ultra requires multi-day durability, long self-supported intervals and mountain up-and-down; a single long training run does not cover the scale. The mapping below uses only verified facts and gives no individual training prescription.
+
+| Verified fact | Training direction | Site reference |
+| --- | --- | --- |
+| 330–336.5 km, 24,000–26,182 m gain, 150 h | Multi-day mountain durability and progressive weekly volume | [Ultra-running basics](/en/knowledge/ultra-running-basics/), [Training volume and progression](/en/knowledge/training-volume-and-progression/) |
+| 6 Life Bases, longest aid gap about 55.5 km | Long self-supported fuelling and drop-bag planning | [Long-run fueling](/en/knowledge/long-run-fueling/), [Crew and pacer planning](/en/knowledge/crew-and-pacer-planning/) |
+| Repeated passes above 3,000 m | Climbing, descent and altitude adaptation | [Mountain path basics](/en/knowledge/hill-and-mountain-path-basics/), [Altitude and running](/en/knowledge/altitude-and-running/) |
+| Multiple nights, sleep arranged by the runner | Sleep management and recovery planning | [Sleep and recovery](/en/knowledge/sleep-recovery/), [Recovery day](/en/knowledge/recovery-day/) |
+
+Decision branches:
+
+| If your preparation is | Then the corresponding judgment is |
+| --- | --- |
+| No 100 km+ mountain ultra on record | Build multi-day durability first; do not reverse split goals from the 150 h limit |
+| Little experience of long self-supported intervals | Practise 50 km-class bag-free intervals before assessing Life Base arrangements |
+| Limited high-altitude mountain experience | Build pass climbing and descent tolerance before assessing the 3,000 m sections |
+| No multi-night recovery management experience | Build sleep and recovery strategy; do not treat continuous pushing as a training advantage |
+
+## Race-day execution card
+
+The table follows the 2026 official schedule and rules; 2027 nodes follow that year's announcement.
+
+| Node | Verified action | Key constraint |
+| --- | --- | --- |
+| 11–13 September | Bib pickup, TOR bag deposit, pasta party and briefing at the Courmayeur Forum Sport Center | Pre-race procedures are all in Courmayeur town |
+| 13 September 10:00 / 12:00 | Two start waves, Viale Monte Bianco | The two waves' cut-offs run about 2 h apart |
+| 6 Life Bases | Hot meal, hot shower, longer rest, TOR bag, check-in and check-out | Runners only; assistants may not enter; bags transfer between Life Bases |
+| Eaux Rousses / Oyace / Bosses | Timetable cut-off points | Not marked as Life Bases; services not itemised |
+| Finish, Jardin de l'Ange | Cut-off D9 16:00 (wave 1) / 18:00 (wave 2) | Awards 20 September 11:00, Parco Bollino (2026 basis) |
+| Withdrawal | Report at the nearest checkpoint; the organiser returns you to the Courmayeur Life Base | Helicopters are for urgent medical patients only, not runner transport |
 
 ## Verified and unverified
 
@@ -188,3 +265,10 @@ This page was written by the RunUp editorial team from the organiser's public pa
 Event names, official marks, official route text, the official GPX, the timetable, the regulations and the elevation profile remain the property of VDA Trailers / TORX. This site only links to the official GPX and **redistributes no official file**; because the GPX declares no redistribution licence, the page draws no track, packages nothing and mirrors nothing.
 
 The page cites 11 sources: the 2026 race page (now the single consolidated entry for the previously duplicated race-page sources), the 2026 official timetable PDF, the 2026 official regulations PDF, the official full-course GPX, the 2026 event schedule, the official weather service page, the official Courmayeur tourism page, the Mont Blanc Tunnel notice, the Open-Meteo archive, `photo-tor-des-geants-2017` (the 2017 Miserin photograph), plus one existing editorial source (the map-anchor method). Open-Meteo data are used under CC BY 4.0 with attribution here. The supporting claim and access date for each source appear in the source list at the foot of the page.
+
+<!-- related-ring -->
+## Related entries
+
+- [Transgrancanaria Classic 126 km: the full island traverse explained](/en/routes/transgrancanaria/)
+- [Val d'Aran by UTMB: the VDA 163 km course explained](/en/routes/val-daran/)
+- [VMM 100km: 101 kilometres in the Sapa mountains, from Sapa Square to Topas Ecolodge](/en/routes/vmm-100/)

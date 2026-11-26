@@ -259,12 +259,58 @@ Open-Meteo's Big Bear Lake village record for 9–10 October, 2015–2025 (22 da
 
 This is the lake-village grid at roughly 2,000 m, not Sugarloaf summit (9,995 ft) or the high-desert section. October nights at the summit can approach or fall below 0 °C, while the exposed high desert can be hot by day; the 13:00 100M start crosses a full day-night cycle, so headlamp, warm layers and sun protection all matter.
 
+## Kit and rules: high-altitude mountain and day-night range
+
+The official mandatory kit list was not obtained from the pages read this round, so the item-by-item mandatory list is unknown; this page does not invent an official list. Before the race, follow the official runner guide for the edition. The verifiable scenario boundary: the 100M starts Friday 13:00 with a 36-hour cut-off, crossing night and the next early morning; terrain spans high desert, subalpine and semi-arid climates, with Sugarloaf summit about 9,995 ft (about 3,046 m), so layers must handle day-night range and wind.
+
+| Category | Race-day scenario | Pre-start check | Boundary |
+| --- | --- | --- | --- |
+| Headlamp and spare power | 36-hour race crosses night | Main lamp, spare batteries or lamp, mount and wiring | Whether mandatory follows the official list |
+| Layered clothing | Cold high-altitude night, hot desert day | Wind/warm layer, breathable shirt, packable jacket | This page does not recommend specific models |
+| Shoes and leg cover | Single track, rock and ski-area trail | Grip, heel hold, long-distance break-in | Trial new shoes on long runs first |
+| Hydration and fueling | Strong sun and unequal station gaps in high desert | Carried volume, electrolyte and energy plan | Carry between stations; do not rely on unlisted stops |
+| Sun protection and cap | Desert and open ridges | Cap, sunscreen, sunglasses, lip balm | Reapply at altitude and exposed sections |
+| Bib and timing | Visible throughout; chip/bib handed in on withdrawal | Bib position, chip status | Withdrawal follows official hand-in instructions |
+
+The generic mountain trail kit framework is in [trail gear](/en/knowledge/trail-gear/); altitude adaptation is in [altitude and running](/en/knowledge/altitude-and-running/); kit weight trade-offs are in the [gear weight tool](/en/tools/gear-weight-planner/). Penalties, missing-item handling and pacer rules follow the official rules for the edition; unread clauses are not filled in here.
+
 ## Withdrawal and risk
 
 - **Crew/pacer points:** start, Doble Camp 1, Doble Camp 2, Sugarloaf 1, Sugarloaf 2, Bear Mountain, Snow Summit and finish. Cactus Flats lost crew/pacer access in 2026, a service change rather than a course change.
 - **Pacers:** allowed from Doble Camp 2; Sugarloaf 1/2, Bear Mountain and Snow Summit also have pacer access. The 2027 rules are not published; this is read from the 2026 chart.
 - **Risk:** exposure in the high-desert section, two Sugarloaf climbs, cold nights on the ridge and continuous running above 7,000 ft. The official page gives no per-segment technical grade, so this page does not invent one.
 - **Withdrawal:** report to the aid-station captain and follow the organiser's instructions for handing in chip/bib. Doble Camp 1/2 have no parking, so self-evacuation is awkward; ask about the shuttle before withdrawing. No unified sweep policy is published, so it remains unknown.
+
+## Training conversion: 36-hour multi-day mountain endurance
+
+The challenge of Kodiak 100M is the full loop around Big Bear Valley, 161 km, about 4,876 m of repeated up-and-down, two passes through the Sugarloaf area, and 36-hour cross-night fatigue. Preparation centres on ultra-long mountain endurance, night rhythm and altitude adaptation, not raw road mileage. General methods are in [ultra-trail training plan](/en/knowledge/trail-ultra-training-plan/), [long-run fueling](/en/knowledge/long-run-fueling/), [recovery day](/en/knowledge/recovery-day/) and [load and overtraining](/en/knowledge/load-and-overtraining/).
+
+| Phase | Focus | Practical content | Race-day constraint |
+| --- | --- | --- | --- |
+| T-20 to T-14 weeks | Mountain aerobic base | One mountain long run plus easy runs a week; build weekly gain toward 2,000 m | A full-valley loop needs a steady aerobic base |
+| T-14 to T-8 weeks | Long run and gain accumulation | Long run to 80–100 km; practise high-altitude ridges and stair sections | Repeated up-and-down at Sugarloaf and Snow Summit |
+| T-8 to T-3 weeks | Loaded self-sufficiency and cross-night | Test carrying food and water; one cross-night or very long session | 36-hour race; night and early-morning sections need rhythm control |
+| T-3 to race | Taper | Shorten distance and gain, keep short rhythm; no new shoes or kit | Recover fatigue before race day; see [taper and strength](/en/knowledge/strength-and-taper/) |
+
+Boundary: this is a generic preparation framework, not medical advice. Runners with pre-existing cardiopulmonary conditions or recent injuries should consult a doctor first. The 100M 36-hour cut-off and the 100K Western States 18-hour qualifying line are different races under different rules; they cannot be applied to each other.
+
+## Race-day execution card: loop rhythm, night stations and pacers
+
+| Phase | Station window (100M) | Rhythm and fueling | Check |
+| --- | --- | --- | --- |
+| Start to north/west | 0–26.8 mi (Rim Nordic to Van Dusen) | Hold back early; do not surge in the high desert | Drop bag at Camp Whittle; check published cut-offs |
+| High desert | 33.7–51.4 mi (Doble 1 to Cactus Flats) | Watch sun, water and salt; steady rhythm at night | Doble Camp 1 has drop bag and crew, no parking |
+| Back to mountain to Sugarloaf | 55.4–83.0 mi (Doble 2 to Sugarloaf 2) | Two Sugarloaf passes; control climbs on tired legs | Pacers at Doble 2, Sugarloaf 1/2; drop bags available |
+| Late section to finish | 89.2–100.1 mi (Bear Mountain to The Village) | Descend Snow Summit then back to the village finish | Snow Summit gondola needs a separate ticket; do not ease off early |
+
+| Red flag | On-site action | Boundary |
+| --- | --- | --- |
+| Dizziness, palpitations, blurred vision, chest pain | Stop, seek help, call medical if needed | This page does not diagnose; cardiac emergency recognition and call follow on-site first-aid standards |
+| Worsening altitude headache, nausea, hypothermia | Rest at a station, add layers, drop if needed | This page does not diagnose altitude illness; on-site medics assess |
+| Night blurred vision, headlamp failure | Rest and change kit at a station; drop if needed | Continuing at night without light is unsafe |
+| Approaching the cut-off at a station | Assess remaining sections and buffer; drop if needed | Withdrawal is reported at the station; bib/chip handed in per official instructions |
+
+Station use and pacer planning are in [crew and pacer planning](/en/knowledge/crew-and-pacer-planning/); pace comparison is in the [pace tool](/en/tools/pace/) and [splits tool](/en/tools/splits/).
 
 ## Images and rights
 
@@ -297,3 +343,10 @@ GPX: the official 2026 100M Final GPX has no redistributable licence. This page 
 Text and tables: original to this site, published under CC BY 4.0; official facts are attributed to their sources.
 
 Related pages: [Canyons Endurance Runs by UTMB](/en/routes/canyons/), [Western States](/en/routes/western-states/), [UTMB](/en/routes/utmb/).
+
+<!-- related-ring -->
+## Related entries
+
+- [Lewa Safari Marathon: a conservancy loop race guide (2027 basis)](/en/routes/lewa-safari-marathon/)
+- [Marathon des Sables Legendary: the full 270 km, six-stage Sahara guide (2026 edition record)](/en/routes/marathon-des-sables/)
+- [MIUT Madeira Island Ultra-Trail: the 110 km crossing](/en/routes/miut/)

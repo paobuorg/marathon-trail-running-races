@@ -1,0 +1,38 @@
+{
+  "sourceId": "route-new-york-time-qualifiers",
+  "title": "NYRR Marathon Time Qualifiers — 2027 TCS New York City Marathon standards",
+  "url": "https://www.nyrr.org/tcsnycmarathon/runners/marathon-time-qualifiers",
+  "publisher": "New York Road Runners",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "The standards apply to non-complimentary guaranteed entry to the 2027 TCS New York City Marathon; the qualifying window runs January 1 through December 31, 2026, and net (chip) time, not gun time, is evaluated.",
+    "Age for the standards is the runner's age on November 7, 2027.",
+    "NYRR Time Qualifiers: meeting the standard at an in-person NYRR marathon or half marathon within the window earns non-complimentary guaranteed entry; eligible NYRR races are the 2026 United Airlines NYC Half, 2026 Maybelline Women's Half, 2026 RBC Brooklyn Half, 2026 Staten Island Half and 2026 TCS New York City Marathon.",
+    "Non-NYRR Time Qualifiers: only a certified full marathon outside NYRR counts; half-marathon times are not eligible; submission of a qualifying time does not guarantee entry, and if applications exceed spots entry goes to the fastest in each age and gender category, with the rest moved to the non-guaranteed general drawing.",
+    "Non-NYRR qualifying courses must be certified by USATF, AIMS, World Athletics or the national distance-running governing body of the host country; indoor marathons, virtual marathons, triathlons, other distances, and personal Strava or GPS times are not accepted; the time must be verifiable on the race results page.",
+    "Men's marathon standards by age on Nov 7 2027: 18-34 2:53:00, 35-39 2:55:00, 40-44 2:58:00, 45-49 3:05:00, 50-54 3:14:00, 55-59 3:23:00, 60-64 3:34:00, 65-69 3:45:00, 70-74 4:10:00, 75-79 4:30:00, 80+ 4:55:00.",
+    "Women's and Nonbinary marathon standards by age on Nov 7 2027: 18-34 3:13:00, 35-39 3:15:00, 40-44 3:26:00, 45-49 3:38:00, 50-54 3:51:00, 55-59 4:10:00, 60-64 4:27:00, 65-69 4:50:00, 70-74 5:30:00, 75-79 6:00:00, 80+ 6:35:00.",
+    "Half-marathon times are accepted only from an NYRR half marathon; the Non-NYRR Time Qualifier entry is accepted on full marathon times only.",
+    "The Local Competitive Program places qualified club-affiliated runners in Wave 1, Pink Corral A, with a heated start tent, private portable toilets and streamlined corral entry; club captains submitted runners August 3 to September 2, 2026, and notifications went out by September 8, 2026."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-26",
+    "checkedVia": "WebFetch 读取 nyrr.org/tcsnycmarathon/runners/marathon-time-qualifiers 全文，核对三张标准表与资格段落",
+    "note": "标准表、窗口、净计时、认证赛事范围与 Local Competitive 条款均在页面正文；女子与非二元标准表数值相同。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-26", "note": "页首：standards for guaranteed entry to the 2027 race；window Jan 1–Dec 31 2026；Net (chip) time。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-26", "note": "表注：Age on November 7, 2027。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-26", "note": "NYRR Time Qualifiers 段与五场 eligible NYRR races 列表。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-26", "note": "Non-NYRR 段：half not eligible；不保证名额；超额时按年龄性别取最快，其余进 general drawing。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-26", "note": "同段：USATF/AIMS/WA/国家主管机构认证；室内/虚拟/铁三/其他距离与个人 GPS、Strava 不接受；成绩页须可核验。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-26", "note": "Men's Standards 表逐行核对。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-26", "note": "Women's 与 Nonbinary Standards 两张表逐行核对，数值一致。" },
+    { "index": 7, "status": "supported", "checkedAt": "2026-11-26", "note": "Half-Marathon 表注：Half times ONLY via NYRR half；Non-NYRR 只收 full marathon。" },
+    { "index": 8, "status": "supported", "checkedAt": "2026-11-26", "note": "Local Competitive Program 段：Wave 1 Pink Corral A；captain 提交 8/3–9/2；9/8 前通知。" }
+  ]
+}

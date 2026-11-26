@@ -22,6 +22,7 @@
     "route-hardrock-train",
     "route-hardrock-gpx-2026",
     "route-hardrock-weather",
+    "route-hardrock-results-ost",
     "photo-hardrock-ice-lake-2012",
     "route-anchor-editorial"
   ],
@@ -32,9 +33,9 @@
   ],
   "license": "CC-BY-4.0",
   "createdAt": "2026-10-27",
-  "updatedAt": "2026-11-08",
-  "reviewedAt": "2026-11-08",
-  "reviewDueAt": "2027-04-10",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
   "details": {
     "raceType": "trail-ultra",
     "countryCodes": [
@@ -53,7 +54,19 @@
     "courseVersion": "2026-hardrock-official-course",
     "courseEdition": "2026",
     "courseStatus": "latest-held",
-    "courseChanges": [],
+    "courseChanges": [
+      {
+        "sourceRef": "route-hardrock-manual-2026",
+        "note": {
+          "zh-CN": "2026 顺时针：Animas Forks 补给站从镇址移回 Grouse Gulch，去掉 CR 9 环线，赛道缩短 0.64 mi；Virginius Pass/Governor Basin 下坡因矿场修复有一处绕行，约 0.6 mi 后回到原线。",
+          "en": "2026 clockwise: the Animas Forks station moved from the townsite back to Grouse Gulch, the CR 9 loop was removed and the course shortened 0.64 mi; a mine-remediation detour on the Virginius Pass/Governor Basin descent rejoins the original route after about 0.6 mi."
+        },
+        "edition": "2026",
+        "observedAt": "2026-11-25",
+        "field": "course",
+        "change": "route-refined"
+      }
+    ],
     "direction": "Silverton loop; clockwise in 2026, counter-clockwise in 2027",
     "distanceMeters": 163800,
     "distanceMethod": "Official 2026 course page and runners manual: 101.8 miles (about 163.8 km). The homepage calls it a 100-mile run and the 2025 manual says approximately 102.5 miles; this card uses the 2026 figure.",

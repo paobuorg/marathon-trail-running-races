@@ -1,0 +1,53 @@
+{
+ "sourceId": "route-western-states-pacer-rules-2027",
+ "title": "Pacer Rules – WSER",
+ "url": "https://www.wser.org/pacer-rules/",
+ "publisher": "Western States Endurance Run",
+ "publishedAt": null,
+ "accessedAt": "2026-11-26",
+ "claims": [
+  "A runner may have one pacer at a time from Foresthill (mile 62) to the finish; a runner leaving Michigan Bluff after 20:00 may start pacing there.",
+  "Pacer changes are allowed only at Foresthill, Rucky Chucky north side, Green Gate, Pointed Rocks and Robie Point.",
+  "Pacers must be at least 18; they may help fill bottles but may not carry the runner's water, food, lights, shoes or clothing.",
+  "Muling is expressly forbidden, and pacers may not provide mechanical or physical assistance on the course.",
+  "Since 2025, pacers and crew are not allowed along Bath Road and must wait inside the official Foresthill area."
+ ],
+ "license": null,
+ "verification": {
+  "access": "direct",
+  "bodyRead": true,
+  "checkedAt": "2026-11-26"
+ },
+ "claimVerification": [
+  {
+   "index": 0,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "规则第 1 条写 Foresthill mile 62 起可陪跑，Michigan Bluff 20:00 后也可。"
+  },
+  {
+   "index": 1,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "规则列出五个换陪跑点。"
+  },
+  {
+   "index": 2,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "规则写 18 岁、可帮忙灌水但不得携带选手装备。"
+  },
+  {
+   "index": 3,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "规则明确禁止 muling 与机械/身体辅助。"
+  },
+  {
+   "index": 4,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "规则写明 2025 起 Bath Road 禁 pacer/crew。"
+  }
+ ]
+}

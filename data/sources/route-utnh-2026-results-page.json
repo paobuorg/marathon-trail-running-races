@@ -1,0 +1,25 @@
+{
+ "sourceId": "route-utnh-2026-results-page",
+ "title": "可隆宁海越野挑战赛 — 成绩页",
+ "url": "https://ninghai100.com/page/race-result",
+ "publisher": "可隆宁海越野挑战赛",
+ "publishedAt": null,
+ "accessedAt": "2026-11-26",
+ "claims": [
+  "The official race site publishes a race-result page at /page/race-result; on 2026-11-26 it returned HTTP 200 as a client-rendered page shell."
+ ],
+ "license": null,
+ "verification": {
+  "access": "metadata-only",
+  "bodyRead": false,
+  "checkedAt": "2026-11-26"
+ },
+ "claimVerification": [
+  {
+   "index": 0,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "2026-11-26 用 curl 请求返回 HTTP 200，页面为前端壳；本页不把壳页面当作具体成绩来源。"
+  }
+ ]
+}

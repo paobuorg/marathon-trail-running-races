@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-lewa-homepage",
+  "title": "Lewa Safari Marathon — official homepage (2027 date, organiser, distances, surface)",
+  "url": "https://www.lewasafarimarathon.com/",
+  "publisher": "Lewa Safari Marathon (official event site, Tusk and Lewa Wildlife Conservancy)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The next Lewa Safari Marathon will take place on 15 May 2027.",
+    "The event is hosted by Tusk and the Lewa Wildlife Conservancy; it runs through the dirt roads of the conservancy among wildlife.",
+    "The homepage lists a full marathon, a half marathon and a kids' 5 km category."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官方赛事站首页正文",
+    "note": "2027 日期与办赛方以首页为准；赛道路面描述为 dirt roads。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "首页：Join us on 15th May 2027 for the next marathon。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "首页与 Tusk 事件页：Tusk 与 Lewa Wildlife Conservancy 合办，Safaricom、Huawei 赞助。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "首页距离类目：full marathon、half marathon、kids 5 km。" }
+  ]
+}

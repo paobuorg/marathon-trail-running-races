@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-beijing-2025-route",
+  "title": "2025北京马拉松鸣枪开跑 3.2万名选手同场竞技（澎湃新闻·中国城市报）",
+  "url": "https://m.thepaper.cn/newsDetail_forward_31884339",
+  "publisher": "澎湃新闻（中国城市报）",
+  "publishedAt": "2025-11-03",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 2025 field was 32,000 runners, a record high at the time; the race kept the classic line while making multi-dimensional route refinements.",
+    "The organisers extended the North 4th Ring auxiliary-road section to ease congestion and reduced the number of second-half turnaround points to one, improving running fluency.",
+    "The 2025 route incorporated landmarks including the National Speed Skating Oval (Ice Ribbon) and Aolin East Road to present the city's dual-Olympic heritage.",
+    "Men's winner Hayle ran 2:08:10 and Chinese runner Li Dalin was the domestic men's first in 2:11:26; women's winner Genaneh ran 2:26:08 and Huang Xuemei was the domestic women's first in 2:31:28."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 thepaper.cn 移动端稿件全文，含 2025 路线优化条目与名次",
+    "note": "媒体复盘稿；路线改动描述与市体育局稿互证，里程与爬升不据此稿读取。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "“3.2万名选手齐聚赛道，规模创历史新高”；延续经典线路。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "延长北四环辅路赛段缓解拥堵；后半程折返点缩减至一处。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "融入冰丝带、奥林东路等标志性景观。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Hayle 2:08:10；李大林 2:11:26；Genaneh 2:26:08；黄雪梅 2:31:28。" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "sourceId": "route-valencia-renfe-discount",
+  "title": "Renfe official train discount for Valencia Marathon runners and companions",
+  "url": "https://www.valenciaciudaddelrunning.com/en/marathon/renfe-discount/",
+  "publisher": "S.D. Correcaminos / Renfe",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "Runners and companions receive a minimum 15% Renfe discount on AVE and long-distance services (AVE, Alvia, Euromed, Intercity) to Valencia between 1 and 13 December 2026.",
+    "The discount authorisation is issued through the organiser's Self-Management Area after registration verification and must be shown with the ticket; tickets are bought on renfe.com using the NEC Congress/Fairs tariff and the authorisation number."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官网 Renfe 折扣页正文",
+    "note": "折扣比例、适用车次、日期窗口与取票流程取自该页。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "minimum discount of 15%；between 1st and 13rd December；AVE/Alvia/Euromed/Intercity。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Self-Management Area 发 Discount Authorisation；renfe.com 选 NEC Congress/Fairs tariff，填 authorisation number。" }
+  ]
+}

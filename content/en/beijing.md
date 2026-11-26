@@ -1,9 +1,9 @@
 ---
 entityId: route:beijing
 locale: en
-title: "Beijing Marathon: the 2026 course in full"
-summary: "Everything the 2026 Beijing Marathon publishes: a 42.195 km point-to-point course from Tiananmen Square to the Olympic Park Landscape Avenue, nine cut-off points, fifteen service points, access plans, mid-October weather, risks and exit points. The official 2026 course map includes a reference-only elevation panel but no cumulative ascent or descent figures; there is no redistributable geometry, so no route line is drawn here. Three Commons location photographs describe the city setting, and two self-made diagrams show the cut-off and phase structure; none is a race-day photograph."
-aliases: ["Beijing Marathon", "Bei Ma", "北京马拉松", "Beijing Marathon 2026", "Tiananmen to Olympic Park"]
+title: "Beijing Marathon: Tiananmen Square to the Olympic Park Landscape Avenue"
+summary: "The 2026 Beijing Marathon, run jointly with the National Marathon Championships, starts at 07:30 on Sunday 18 October from the east side of Tiananmen Square and finishes on the central Landscape Avenue of the Olympic Park, 42.195 km along Chang'an Avenue, Fuxing Road, the North 4th Ring auxiliary road, Xueyuan Road and the Olympic Green. This page records entry thresholds and ballot rules, the segment cut-off table, aid and bag logistics, traffic controls, recent results, course records and route changes. The organiser offers no downloadable GPX/KML; the maps are not treated as a navigable track."
+aliases: ["Beijing Marathon: Tiananmen Square to the Olympic Park Landscape Avenue", "Beijing Marathon", "Bei Ma", "Beijing Marathon 2026"]
 authors:
   - runmap-editorial
 reviewers:
@@ -11,252 +11,315 @@ reviewers:
 translationStatus: reviewed
 ---
 
-## Check status
+## 60-Second Takeaway
 
-- Version: `2026-beijing-official-course`, the 2026 edition, held on Sunday 18 October 2026. The gun went at 07:30 from Tiananmen Square and the finish was on the Landscape Avenue in the Olympic Park central area.
-- Positioning: this page describes the Beijing Marathon as China's national flagship road marathon, on the basis that it is one of the country's largest and most competitive city races. It does not claim a place on any global list and does not present the race as one of the world's best-known marathons.
-- Review date: 2026-11-24. The 2026 edition finished before this review, so this page uses both pre-race official documents (entry notice, runner guide, traffic notice, official static course map) and the Chinese Athletics Association's post-race release. Every figure belongs to the 2026 edition; nothing from 2025 or earlier is carried over.
-- Scope of this check: Wikimedia Commons images and local copies were rechecked on 2026-11-24; race, route, cut-off and weather figures remain those fetched from official pages and the Open-Meteo record on 2026-11-22, and not every official page was re-fetched this round. The only additions are three location photographs, two self-made diagrams and the image-source boundary; no 2026 race figure was changed.
-- Course geometry: **no usable geometry**. The organiser presents the course as maps and images. Neither the race pages nor the official runner guide offers a downloadable GPX, KML or GeoJSON file, and no licence permits this site to redistribute one. This page therefore draws no line and packages no track. The map shows only an editorial overview anchor, which is not an official start, finish or course coordinate.
-- Nobody on this page ran the course. Nothing here is a first-hand measurement. The split between what official sources support and what they do not is set out near the end.
-- Official static map: the organiser's 比赛路线 page carries a 2026 high-resolution JPG rendered at 1,683 × 2,381, with a 路线海拔 Course Elevation panel scaled 0–100 m against 0–42.195 km and a footer reading 此海拔数据仅供参考. It prints no cumulative ascent, cumulative descent, maximum/minimum elevation or gradient figures, so the card's `elevationGainMeters` remains `null`.
-- Sources: this page cites eleven external sources plus one editorial method note. The external set is the race website homepage, the 2026 entry notice, the official runner guide, the Chinese Athletics Association release, the 28 September press conference, the Beijing traffic police notice, the official 2026 course map, the Open-Meteo historical record and three Wikimedia Commons location photographs. The 2026 dates, route, map and cut-offs come from the first eight race/weather sources; the photographs only describe the city environment and are handled under Images and rights.
-- Image boundary: three Commons location photographs and two self-made SVGs are included, with **no 2026 race-day photograph**. The photographs cannot prove a start arch, course furniture, aid station, finish line or timing equipment; the SVGs are order-and-cut-off schematics, not official maps, tracks or elevation profiles.
-- Course-change check: no past-edition handbook was obtained, so the course-change history is unverified. This page has no official evidence of a reroute, date change or rule change that qualifies for the log; `courseChanges` is an empty array and is not presented as "no changes".
+- **What kind of race this is.** Founded in 1981, the Beijing Marathon is one of the longest-established city marathons in mainland China. In 2026 it ran jointly with the National Marathon Championships: a point-to-point 42.195 km course that left the east side of Tiananmen Square at 07:30 on Sunday 18 October and finished on the central Landscape Avenue of the Olympic Park, along Chang'an Avenue, Fuxing Road, the North 4th Ring auxiliary roads and the Olympic Green. The course is broadly flat and carries a World Athletics Gold Label.
+- **Who it suits, and who it does not.** It suits road runners with a marathon finish behind them who can show a valid recent marathon or half-marathon result and aim to finish inside the six-hour gate. It is not for runners without a long-distance base, for anyone relying on a virtual-race result, or for runners with cardiovascular or metabolic contraindications or a fever/cold in the two weeks before the start. Mass places are balloted when oversubscribed; direct-entry places follow age-and-gender result standards.
+- **Three decisions to make first.** First, check the entry result threshold (one marathon or two half-marathons within 24 months; virtual results invalid) before deciding whether to enter the ballot or claim direct entry. Second, back-calculate your target pace against the official segment cut-off table: in 2026 the mass finish gate was shortened from 6:15 to 6:00. Third, the course offers no public support zone; the red self-supply tables are reserved for invited and championship athletes, and any mass runner taking anything from them is disqualified.
 
-## What this course is
+## Event Snapshot
 
-The Beijing Marathon is a point-to-point road course across the western and northern centre of Beijing. It starts at Tiananmen Square, turns left from the square's east side road into West Chang'an Avenue, and runs west through Fuxingmen Inner Street, Fuxingmen Outer Street and Fuxing Road to Xinxing Bridge. From there it follows the West Third Ring Middle auxiliary road north, turns at Huayuan Bridge into Linglong Road, Landianchang South Road and Landianchang North Road, then joins the North Fourth Ring West and Middle auxiliary roads east to Zhixin Bridge. The course then turns north through Zhixin East Road, Zhixin Road, Xueyuan Road and Xueqing Road into the university district, east through Shibanfang South Road and Kecui Road, north along Lincui Road into the Olympic centre, around the Speed Skating Hall's north road, internal road and south road, back to Aolin West Road and an out-and-back on Kecui Road, then east along the North Fifth Ring Middle auxiliary road, south on Aolin East Road, west on Kecui South Road onto the North Central Axis Landscape Avenue, a small loop through Datun North Road, Hujing East Road and Datun Road, and the finish on the Landscape Avenue in the Olympic Park central area. The official entry notice states that the route passes through Dongcheng, Xicheng, Haidian and Chaoyang districts.
+| Item | 2026 edition, as verified | Source basis |
+| --- | --- | --- |
+| Full race name | 2026 Bank of China Beijing Marathon & National Marathon Championships | Entry notice, CAA release |
+| Date | Sunday 18 October 2026, gun 07:30 | Entry notice |
+| Current status | Race held; official results and releases published; the 2027 date and entry ballot were not announced as of 2026-11-25 | Official site; verified 2026-11-25 |
+| Distance | 42.195 km (marathon and championships share the same distance) | Entry notice, CAA release, traffic notice |
+| Start and finish | Start: Tiananmen Square, assemble on the east-side road; finish: Olympic Park central Landscape Avenue | Entry notice, official site |
+| Districts | Dongcheng, Xicheng, Haidian, Chaoyang | Entry notice |
+| Cut-off | Finish gate 13:30; the 2026 mass finish cut-off was shortened from 6:15 to 6:00; segment gates under Timing and Cut-offs | 2026 participant guide, China News Service report |
+| Field | 32,000 runners; more than 265,000 entries worldwide | Press conference, CAA release |
+| Certification | World Athletics Gold Label road race; hosted by the Chinese Athletics Association and Beijing Municipal Bureau of Sport, jointly organised with China Media Group | World Athletics calendar and review, CAA release |
+| Geometry files | The course is presented as maps and diagrams; no downloadable GPX/KML is offered; this page does not treat the images as a navigable track | 2026 participant guide |
 
-![Five phases of the 2026 Beijing Marathon: start and West Chang'an Avenue, the western spine and West Third Ring, the North Fourth Ring and university district, the Olympic centre loops, and the Landscape Avenue finish; divided at 5/25/35/40 km and the finish, with horizontal position and length deliberately not to geographic scale](/media/routes/beijing/beijing-2026-course-phases.svg)
+**Elevation wording.** The entry notice, participant guide, CAA release and traffic notice all give 42.195 km, but none publishes cumulative ascent, cumulative descent, or highest and lowest points. The official course map carries a reference-only elevation panel with a 0–100 m vertical axis and a 0–42.195 km horizontal axis, footnoted "elevation data for reference only"; it prints no cumulative figure. This page therefore reports no verified climbing in metres and does not estimate an "official climb" from the panel curve.
 
-*Figure 1 | Five-phase order schematic. The divisions are this page's rough split at cut-off points, not an official split, map or track; it does not replace the official 2026 static course map.*
+## Eligibility and Entry
 
-The shape matters more than a glance at a map suggests. This is not a straight drag. It crosses the city's east–west spine, then works north and east along ring-road service lanes, enters the Haidian university district, enters the Olympic centre, and finishes with a turnaround plus a small loop. The direction changes are frequent, the turns are numerous, and the start and finish are in different places. Race-day logistics have to be planned for a point-to-point event, not a criterium.
+**Age and health.** Entrants must be at least 20 years old in the race year. Runners aged 65 or above must complete a strengthened self-assessment of their health and submit a Participation Commitment signed jointly by the runner and a family member (spouse, parent, adult child or another adult relative living together). Conditions listed as inadvisable to race include congenital and rheumatic heart disease, hypertension and cerebrovascular disease, myocarditis and other heart conditions, coronary disease or serious arrhythmia, moderate chest pain or angina after mild activity, diabetes with excessively high or low blood sugar, a cold or abnormal temperature within two weeks before race day, drinking alcohol or sleeping poorly the night before the race, pregnancy, and other conditions unsuitable for exercise.
 
-![Everyday elevated view of West Chang'an Avenue: a broad multi-lane boulevard with a central divider, tree-lined sidewalks and office buildings; the course enters this avenue westbound from the square, and the photograph contains no race-day closure, start arch or aid station](/media/routes/beijing/beijing-west-changan-avenue-2021.jpg)
+**Result threshold.** Entrants must hold one marathon or two half-marathon results within the 24 months before the entry deadline; online/virtual race results are invalid. The organiser recommends a pre-race check at a Grade-2A-or-above hospital, covering blood pressure, one of a standard ECG, 24-hour Holter or exercise treadmill test; runners with hypertension or clearly abnormal ECG should add an echocardiogram.
 
-*Figure 2 | West Chang'an Avenue (2021-04-07, 維基小霸王, CC BY-SA 4.0). A location photograph without race furniture; it cannot establish the closure extent, start area or aid-station positions.*
+**Ballot and timeline.** Mass runners enter online through the official website or the official partner app; group entries are not accepted. When entries exceed the quota, places are allocated by ballot. The 2026 entry window ran from 10:00 on 17 September to 18:00 on 22 September; the ballot result and payment fell in late September to early October. Selected runners had to pay in the stated window or the place lapsed; reallocation, if any, follows the organiser's announcement.
 
-The 2026 field was 32,000 runners and more than 265,000 people applied. The race was combined with the National Marathon Championships, so more than 140 professional athletes started on the same gun and the same course as the mass field. Tamirat Tola of Ethiopia won in 2:03:10, taking almost four minutes off the previous course record of 2:07:06 and setting a new best mark for a marathon run in mainland China. Anchinalu Dessie Genaneh won the women's race in 2:20:36. Chinese runner Cirencuomu was second in 2:23:48 and Lu Ying third in 2:24:24, while Li Dalin ran 2:08:30 as the fastest Chinese man and fourth overall. Those times say the course is fast, but they also say something about the day's weather, which is handled separately below.
+**Fee.** Entry fee is CNY 200 per runner; once entered the fee is non-refundable and the place is personal and non-transferable.
 
-## The published figures
+**Direct-entry standards (by 2025 Beijing Marathon finish result, age band).**
 
-| Source | Distance | Ascent | Descent |
-|---|---|---|---|
-| Official entry notice (race basics) | 42.195 km | Not published | Not published |
-| Official runner guide (cut-off and service tables) | 42.195 km | Not published | Not published |
-| Chinese Athletics Association post-race release | 42.195 km | Not published | Not published |
-| Beijing traffic police road-closure notice | 42.195 km (race occupies about six hours) | Not published | Not published |
+| Age band | Men's standard | Women's standard |
+| --- | --- | --- |
+| 20–34 | 2:40:00 | 3:10:00 |
+| 35–39 | 2:45:00 | 3:15:00 |
+| 40–44 | 2:50:00 | 3:20:00 |
+| 45–49 | 3:00:00 | 3:30:00 |
+| 50–54 | 3:05:00 | 3:35:00 |
+| 55–59 | 3:15:00 | 3:45:00 |
+| 60–64 | 3:30:00 | 4:00:00 |
+| 65–69 | 3:45:00 | 4:15:00 |
+| 70+ | 4:00:00 | 4:30:00 |
 
-All four official documents point to the same 42.195 km, and there is no second official distance to set beside it: the entry notice, the Chinese Athletics Association release and the traffic police notice state the figure directly, while the runner guide does not restate it but ends its cut-off table at the finish of the 42.195 km course given in the entry notice. Ascent and descent are a different case. None of the four documents publishes cumulative ascent, cumulative descent, a high point or a low point; the official course map adds a reference-only elevation panel, but that panel prints no cumulative figures either. The "not published" cells are not a gap in this site's research; the organiser genuinely does not release those numbers.
+A mutual-entry quota draws 200 runners by ballot from among 2026 Guangzhou Marathon entrants who meet Beijing's entry standards. Direct-entry runners still register and pay within the stated window; missing the deadline forfeits the place, which is not reserved.
 
-The `elevationGainMeters` field on the card therefore stays `null`. Central Beijing being flat is common knowledge, and common knowledge is not an official figure. Converting "roughly flat" into a tidy "about 50 m of ascent" would be this site inventing data, and this page does not do that. Any source quoting a Beijing Marathon ascent figure should first be asked which official document it came from. If there is no answer, the number should not enter a training plan.
+**Special categories.** There is no racing wheelchair division; racing wheelchairs may not enter. Non-racing wheelchair runners assemble at the very rear under referee and volunteer guidance. Visually impaired runners must be accompanied throughout by a guide runner; the guide must be another runner who has successfully entered the same event and must be reported and registered together; entering without a reported guide carries the runner's own consequences. Runners with other disabilities start with the mass field under the section rules. Strollers are prohibited at the start, finish and on the course.
 
-Distance is unambiguous, but the time limit needs its own note. For 2026 the marathon limit is six hours exactly: the official cut-off table runs from the 07:30 gun to a 13:30 close, and the traffic police notice independently describes the race as occupying about six hours. A cut-off table copied from an earlier edition will overstate the time available at the back of the field.
+**Next edition.** As of 2026-11-25 the official site has not announced the 2027 date or entry window; third-party date speculation is not official information. Enquiries: 010-67167482 etc. (09:00–11:30, 13:00–17:30 weekdays excluding weekends and holidays), email oc@beijing-marathon.com, site www.beijing-marathon.com.
 
-## The official 2026 static course map and elevation panel
+## Course and Geometry
 
-The organiser's 比赛路线 page carries a 2026 course map JPG rendered at 1,683 × 2,381, and the link 点击查看下载高清路线 points to the same file (449,101 bytes). It is a **static image**, not GPX, KML or GeoJSON, and no redistribution licence is published; this page links out only and does not copy, embed or redraw it.
+**Direction and start/finish.** The 2026 route is point-to-point. From the east-side road at Tiananmen Square it heads west along East and West Chang'an Avenue, turns into Fuxingmen Outer Street and Fuxing Road, follows the West 3rd Ring auxiliary road, Linglong Road and the Landianchang North/South roads into the North 4th Ring West and Middle auxiliary roads, crosses Zhixin Bridge, Zhixin East Road, Zhixin Road, Xueyuan Road and Xueqing Road, and via Shibanfang South Road, Kehui Road and Lincui Road enters the Olympic Central Area. There it runs along the Speed Skating Hall North–internal–South roads, Aolin West Road and Aolin East Road, Kehui South Road, joins the North Central Axis Landscape Avenue, and via Datun North Road, Hujing East Road and Datun Road finishes on the North Central Axis Landscape Avenue.
 
-- Official page: [比赛路线](https://www.beijing-marathon.com/subject.html?detailId=7992140408205034)
-- Official high-resolution JPG: [2026 Beijing Marathon course map](https://pub.mararun.com/cms/pic/BJCN/28c34fc407162d6aafa06ce2a015384c.jpg)
-
-The image can be checked against these points:
+**Finish-area venue order.** Inside the Olympic Green, the course enters from the National Speed Skating Oval (Ice Ribbon) north road to the internal road and exits south road; it passes the China National Tennis Center Diamond Court on one side, runs along the fringe of the Olympic Forest Park, and on the final straight the National Aquatics Center (Water Cube) lies to the west and the National Stadium (Bird's Nest) to the east, the two Double-Olympic landmarks lining the finish.
 
-| Item | What the map shows |
-|---|---|
-| Edition heading | `2026中国银行北京马拉松暨全国马拉松锦标赛` |
-| Start | Tiananmen Square, `START Tiananmen Square` |
-| Finish | Landscape Avenue, Olympic Park, `FINISH Landscape Avenue` |
-| Half-marathon marker | `21.0975km` |
-| Elevation panel | `路线海拔 Course Elevation`, y-axis `0m–100m`, x-axis `0–42.195 km` |
-| Elevation caveat | footer `此海拔数据仅供参考` |
+![Five-phase order of the 2026 Beijing Marathon: start and West Chang'an Avenue; Xicheng–West 3rd Ring–Landianchang; North 4th Ring–university district; Olympic Central Area loop; Central Axis Landscape Avenue finish. Phases are split at 5/25/35/40 km and the finish; horizontal position and length are not to geographic scale.](/media/routes/beijing/beijing-2026-course-phases.svg)
 
-The map closes the old gap of "no official elevation image", but it does not close the "official cumulative ascent" gap: there is one profile curve and a 0–100 m axis, with no printed cumulative ascent, cumulative descent, high point, low point or percentage gradient. Therefore:
+**Geometry source and usability.** The official pages and participant guide present the course as maps and diagrams; no downloadable GPX or KML is offered. This page does not bundle third-party tracks or trace a line from the images; `geometryAccess` is `unavailable`. Road order follows the traffic notice and participant guide; the diagrams are not treated as geometry evidence for mileage, elevation or turn angles. The official "race route" page carries a 1,683×2,381 JPG course map for 2026 (449,101 bytes), showing the start at Tiananmen Square, the finish on the Landscape Avenue and the 21.0975 km half point. The image is copyrighted by the organiser with no redistribution licence; this page links to it externally only and does not copy it into the site media folder.
 
-- `elevationGainMeters` stays `null`; a cumulative official figure cannot be estimated off the curve.
-- The 42.195 km distance, start and finish, street order and fifteen service points still rest on the entry notice, runner guide and traffic notice; the map is a visual cross-check, not a replacement for the written rules.
-- The heading identifies the 2026 edition, not 2027. That page links no 2027 course map, and this page does not present the 2026 image as a 2027 preview.
+**Surface and elevation.** The course mixes urban arterial roads, ring-road auxiliary roads, district-level roads, venue internal roads and Olympic Green landscape avenues, mainly asphalt; there are no trail technical sections. Official text files publish no surface-type percentages, and this page does not quote any. They also publish no highest/lowest points or gradient figures. The line crosses bridges and grade-separated nodes including Xinxing Bridge, Huayuan Bridge, Zhixin Bridge, Lincui Bridge, Aolin West Bridge and Aolin East Bridge; official documents give no numbers for joints, expansion gaps or auxiliary-road exit/entry grip. The course includes one turnaround at Kehui Road, one Olympic Central Area loop, and a small final loop via Datun North Road, Hujing East Road and Datun Road before the finish.
 
-## The nine segments
+![Segment cumulative distance for the Beijing Marathon: official full 42.195 km with 5 km segment points from 0 to 42.195 km; no downloadable official GPX/KML exists, and this chart reads no elevation value. Chart made by this site; it is not the official course profile.](/media/routes/beijing/segment-profile-en.svg)
 
-The table splits the course at the kilometre points the official cut-off table uses. The half-marathon point is taken as 21.0975 km, half of the 42.195 km course. Segment distances are the differences between adjacent official points, not an organiser-published split.
+## Segment Breakdown
 
-| Segment | Span | Segment distance | Ascent / descent |
-|---|---|---:|---:|
-| 1 | Start → 5 km | 5.00 km | Not published / Not published |
-| 2 | 5 km → 10 km | 5.00 km | Not published / Not published |
-| 3 | 10 km → 15 km | 5.00 km | Not published / Not published |
-| 4 | 15 km → 20 km | 5.00 km | Not published / Not published |
-| 5 | 20 km → half marathon, 21.0975 km | 1.0975 km | Not published / Not published |
-| 6 | Half marathon → 25 km | 3.9025 km | Not published / Not published |
-| 7 | 25 km → 30 km | 5.00 km | Not published / Not published |
-| 8 | 30 km → 35 km | 5.00 km | Not published / Not published |
-| 9 | 35 km → finish, 42.195 km | 7.195 km | Not published / Not published |
+- **First 5 km (Tiananmen–Chang'an Avenue):** Leaving the square's east-side road onto Chang'an Avenue, the road is wide and spectators dense; the first two kilometres are easy to pull ahead with the atmosphere. Start-time temperatures are on the cool side, so warm up properly.
+- **5–20 km (Fuxing Road–West 3rd Ring–Landianchang):** The route moves into western city roads and the auxiliary-road network, alternating junctions, bridges and turnarounds; aid stations begin at 5 km and food supply from 10 km.
+- **20–30 km (North 4th Ring auxiliary–Xueyuan Road–Xueqing Road):** Along the North 4th Ring auxiliary and university-district roads, straights alternate with turns; this section mainly tests pace stability and fueling rhythm.
+- **30–35 km (Lincui Road–Olympic Central Area fringe):** Entering the Olympic Forest Park fringe and venue area, the landscape opens up; food supply at 32.5 and 37.5 km.
+- **35–42.195 km (Ice Ribbon–Central Axis Landscape Avenue finish):** Past the Ice Ribbon internal road and the Diamond Court outer road, the line loops along Aolin West/East roads before joining the Central Axis Landscape Avenue; the Water Cube and Bird's Nest line the finish.
 
-![Beijing Marathon 2026 cut-off ladder: start 07:30, 5 km 08:25, 10 km 09:00, 15 km 09:40, 20 km 10:20, half marathon 10:30, 25 km 11:00, 30 km 11:45, 35 km 12:30 and finish 13:30; each segment shows minutes and reverse-engineered pace, with 5–10 km and half marathon–25 km marked as the two tightest](/media/routes/beijing/beijing-2026-cutoff-ladder.svg)
+These segments are grouped from the road order in the traffic notice and the finish-area municipal release; actual mileage and surface follow the official course map.
 
-*Figure 3 | Nine official cut-offs and reverse-engineered segment pace. The two red segments are arithmetic results, not official pacing advice.*
+## Timing and Cut-offs
 
-Segment notes. Every closing time below comes from the 2026 official runner guide's cut-off table and is calculated from the 07:30 gun, Beijing time.
+**2026 segment cut-off table** (published in the participant guide, Beijing time):
 
-- **Segment 1 (0 → 5 km)** closes at 08:25, which is 55 minutes for five kilometres, about 11:00/km. This is the loosest stretch of the race, and it is loose for a reason: the start is at Tiananmen Square, and 32,000 runners entering, clearing bib checks and filtering into pens will hold the first kilometres well below plan. Loose is not the same as free.
-- **Segment 2 (5 → 10 km)** closes at 09:00, so 35 minutes for five kilometres, about 7:00/km. Reverse-engineered from the cut-offs, this is the tightest segment of the whole race, much faster than the overall average. The cause is not that the road suddenly gets easy: the 55-minute cushion handed out at the start is taken back here. Treating the first five kilometres as a stroll puts the 10 km mat in play.
-- **Segment 3 (10 → 15 km)** closes at 09:40, 40 minutes for five kilometres, about 8:00/km. The route runs west on Chang'an Avenue, Fuxingmen Outer Street and Fuxing Road, wide and open, and is one of the easiest places on the course to run too fast.
-- **Segment 4 (15 → 20 km)** closes at 10:20, again 40 minutes for five kilometres, about 8:00/km. The course moves onto the West Third Ring auxiliary road, Linglong Road and Landianchang, where turns multiply and the usable width is narrower than on the boulevards.
-- **Segment 5 (20 → 21.0975 km)** closes at 10:30, 10 minutes for 1.0975 km, about 9:07/km. A separate half-marathon cut-off is unusual in a road marathon; its function is to split the first half from the second, so a slow opening cannot be carried indefinitely.
-- **Segment 6 (half marathon → 25 km)** closes at 11:00, 30 minutes for 3.9025 km, about 7:41/km. This is the tightest stretch of the second half, placed exactly where fatigue starts and fuelling demand rises.
-- **Segment 7 (25 → 30 km)** closes at 11:45, 45 minutes for five kilometres, about 9:00/km. The route runs east on the North Fourth Ring auxiliary road and then turns north onto Zhixin East Road and Zhixin Road.
-- **Segment 8 (30 → 35 km)** closes at 12:30, 45 minutes for five kilometres, about 9:00/km. Xueyuan Road and Xueqing Road are the classic wall territory here: narrower road, many turns, dense crowds of spectators and volunteers.
-- **Segment 9 (35 → 42.195 km)** closes at 13:30, 60 minutes for 7.195 km, about 8:20/km. Inside the Olympic centre the course loops the Speed Skating Hall, takes the Kecui Road out-and-back, runs the North Fifth Ring service road, Aolin East Road and Kecui South Road onto the Landscape Avenue, then makes the small loop through Datun North Road, Hujing East Road and Datun Road. This is the most direction-heavy part of the race, and pace will break at the turnarounds.
+| Timing point | Cut-off | Estimated arrival at 5:30 target | Buffer (min) |
+| --- | --- | --- | --- |
+| 5 km | 08:25 | 07:39.1 | 15.9 |
+| 10 km | 09:00 | 08:48.2 | 11.8 |
+| 15 km | 09:40 | 09:27.3 | 12.7 |
+| 20 km | 10:20 | 10:06.4 | 13.6 |
+| Half 21.0975 km | 10:30 | 10:15.0 | 15.0 |
+| 25 km | 11:00 | 10:45.5 | 14.5 |
+| 30 km | 11:45 | 11:24.6 | 20.4 |
+| 35 km | 12:30 | 12:03.7 | 26.3 |
+| Finish | 13:30 | 13:00.0 | 30.0 |
 
-One caveat applies to the whole table. Those minutes per kilometre are arithmetic: official closing times divided by official kilometre gaps. They are not official pacing advice and not a measurement of the course. The organiser publishes no segment ascent, segment surface or segment crowd data, and this page does not fill those cells with estimates.
-
-![Everyday aerial view of the Olympic Green central area: the central axis, water, the Bird's Nest, the Water Cube and surrounding venues; the race finishes on the Landscape Avenue in this area, and the photograph contains no finish arch, finish line or timing equipment](/media/routes/beijing/beijing-olympic-green-2017.jpg)
-
-*Figure 4 | Olympic Green central area (2017-07-06, Picrazy2, CC BY-SA 4.0). A finish-area location photograph without race furniture; it cannot locate the finish line, timing mat or bag-collection area.*
-
-## Fifteen service points and the cut-offs
+**Worked example (target 5:30:00, gun 07:30).** A 330-minute finish over 42.195 km gives an average pace of 7.821 min/km, about 7:49 per kilometre. Estimated arrival = 07:30 plus segment kilometres times 7.821 minutes; buffer = cut-off minus estimated arrival. At 10 km you estimate 08:48.2 against a 09:00 gate, the tightest buffer on the table at 11.8 minutes; at 35 km you estimate 12:03.7 against 12:30, a 26.3-minute buffer; at the finish you estimate 13:00 against 13:30, a 30.0-minute buffer. Positive values mean arriving before the gate; a negative value means the gate has passed, and you must withdraw under the rules.
 
-The table follows the 2026 official runner guide's course service table, which marks points at 5, 7.5, 10, 12.5, 15, 17.5, 20, 22.5, 25, 27.5, 30, 32.5, 35, 37.5 and 40 km. In the same table the organiser marks three functions across those points: eight refreshment stations, seven drinking and sponging stations, and seven food supply points. Closing times come from the same guide's cut-off table, Beijing time.
+**Cut-off rules.** Gates are set by kilometre point; when the gate time passes, the road reopens to traffic and runners who have not reached that point must leave the course. In 2026 the mass finish gate was shortened from six hours fifteen to six hours; segment times follow the 2026 participant guide. Timing mats sit at the start, every 5 km, the half point, the turnarounds and the finish; a missing timing point means no ranking.
 
-| Point | Distance · elevation · cumulative ascent | Service / nearest cut-off |
-|---|---|---|
-| 5 km | 5 km · not published · not published | Refreshment station · 5 km closes 08:25 |
-| 7.5 km | 7.5 km · not published · not published | Drinking and sponging · next cut-off 10 km, 09:00 |
-| 10 km | 10 km · not published · not published | Refreshment, food supply · 10 km closes 09:00 |
-| 12.5 km | 12.5 km · not published · not published | Drinking and sponging · next cut-off 15 km, 09:40 |
-| 15 km | 15 km · not published · not published | Refreshment, food supply · 15 km closes 09:40 |
-| 17.5 km | 17.5 km · not published · not published | Drinking and sponging · next cut-off 20 km, 10:20 |
-| 20 km | 20 km · not published · not published | Refreshment, food supply · 20 km closes 10:20 |
-| 22.5 km | 22.5 km · not published · not published | Drinking and sponging · half marathon at 21.0975 km closed 10:30, next cut-off 25 km, 11:00 |
-| 25 km | 25 km · not published · not published | Refreshment, food supply · 25 km closes 11:00 |
-| 27.5 km | 27.5 km · not published · not published | Drinking and sponging · next cut-off 30 km, 11:45 |
-| 30 km | 30 km · not published · not published | Refreshment, food supply · 30 km closes 11:45 |
-| 32.5 km | 32.5 km · not published · not published | Drinking and sponging, food supply · next cut-off 35 km, 12:30 |
-| 35 km | 35 km · not published · not published | Refreshment station · 35 km closes 12:30 |
-| 37.5 km | 37.5 km · not published · not published | Drinking and sponging, food supply · next cut-off the finish at 13:30 (40 km has no separate cut-off) |
-| 40 km | 40 km · not published · not published | Refreshment station · finish at 42.195 km closes 13:30 |
+**Reverse-computed segment pace (arithmetic only, not an official pace suggestion).** Dividing official gate times by the adjacent kilometre difference gives: 0→5 km 11:00/km, the most generous section, generous because 32,000 runners' assembly, check-in and entry suppress the opening speed; 5→10 km about 7:00/km, the tightest against the gate; 10→15 and 15→20 km about 8:00/km each; 20→half about 9:07/km; half→25 km about 7:41/km, tightest in the second half; 25→30 and 30→35 km about 9:00/km each; 35→finish about 8:20/km. These numbers are arithmetic, not course measurement or official pace advice.
 
-The full official list of nine closing points, from the 2026 runner guide:
-- 5 km: 08:25
-- 10 km: 09:00
-- 15 km: 09:40
-- 20 km: 10:20
-- Half marathon, 21.0975 km: 10:30
-- 25 km: 11:00
-- 30 km: 11:45
-- 35 km: 12:30
-- Finish, 42.195 km: 13:30
+![Cut-off buffers for the Beijing Marathon: calculated from the 2026 participant-guide cut-off table and a steady 5:30:00 target finish (gun 07:30); buffer equals cut-off minus estimated arrival. Chart made by this site; it is not the official course profile.](/media/routes/beijing/cutoff-buffer-en.svg)
 
-Service rules, from the guide's aid-station section:
-- Tables are laid out in staggered blocks. Refreshment stations alternate drinking water and sports drink; drinking and sponging stations alternate drinking water and wet sponges.
-- The red self-supply tables are reserved for invited and championship athletes designated by the organiser. A mass runner taking anything from a red table is disqualified.
-- 2026 moved beyond single-use paper cups: the organiser issued a reusable cup to entrants and installed multi-tap self-service water drums plus backpack-style mobile water units at service points, running conventional cup service and self-service in parallel.
+## Aid, Logistics, and Crew/Pacer Support
 
-Medical and toilets, from the guide and the post-race release:
-- Fixed medical stations run every 2.5 km from 5 km to 32.5 km inclusive, then every 1 km from 34 km to the finish, with additional stations at start and finish.
-- Total medical cover: 26 fixed medical points, 35 ambulances, 100 AED units, 610 medical observers and 160 first-aid runners at a ratio of 1:200, plus a 200 square metre medical service centre at the finish.
-- Mobile toilets are placed at 1, 2, 3 and 4 km, every 2.5 km from 5 km to the finish, and additionally at 14 km and 16 km.
-- 2026 provided 1,630 toilet places in total: 1,199 at the start, 240 along the course and 191 at the finish, a published ratio of one toilet per 20 runners.
-- Once a cut-off passes, the road reopens to traffic and runners behind it must leave the course, per the official guide. The documents fetched here publish no sweep-station locations, sweep-bus times or post-sweep procedure, so this page does not supply them.
+**Official stations.** The course has eight refreshment stations (5, 10, 15, 20, 25, 30, 35, 40 km), seven drinking-water/sponge stations (7.5, 12.5, 17.5, 22.5, 27.5, 32.5, 37.5 km) and seven food stations (10, 15, 20, 25, 30, 32.5, 37.5 km). Refreshment stations alternate drinking water and sports drink; water/sponge stations alternate drinking water and wet sponges. The race issues a reusable cup and provides multi-tap self-service water drums and backpack-style water units at the stations, running alongside traditional paper-cup supply.
 
-## Surface and terrain
+**Station mileage list (2026 participant guide service-point table):**
 
-The official documents publish no surface breakdown and no percentage split between asphalt, concrete, stone or brick. This page therefore quotes no percentages. What the official documents do establish is the material categories: city boulevards, ring-road service lanes, district roads, venue roads and the Landscape Avenue. The course strings together Chang'an Avenue, Fuxing Road, the West Third Ring auxiliary road, the North Fourth Ring auxiliary road, Xueyuan Road, Xueqing Road, Lincui Road, Aolin West Road, Aolin East Road, Kecui South Road and the North Central Axis Landscape Avenue, with the Speed Skating Hall's north road, internal road and south road belonging to the venue area.
+| Station type | Mile points (km) | Count |
+| --- | --- | ---: |
+| Refreshment (drink/water) stations | 5, 10, 15, 20, 25, 30, 35, 40 | 8 |
+| Water/sponge stations | 7.5, 12.5, 17.5, 22.5, 27.5, 32.5, 37.5 | 7 |
+| Food stations | 10, 15, 20, 25, 30, 32.5, 37.5 | 7 |
 
-On terrain, the official written documents publish no elevation profile, high point, low point or cumulative ascent; the official course map adds a reference-only profile panel, but no cumulative ascent or descent figures, so this page gives no gradient numbers. The official route text and map establish only these features:
+Reading note: refreshment stations alternate water and sports drink; sponge stations alternate water and wet sponges; solid food is provided only at the food points listed above, so runners should not rely on food elsewhere.
 
-- The route crosses several bridges and grade-separated junctions (Xinxing Bridge, Huayuan Bridge, Zhixin Bridge, Lincui Bridge, Aolin West Bridge, Aolin East Bridge); the official documents give no count of expansion joints, deck seams or service-road ramps, and no anti-slip detail.
-- The route contains a defined turnaround and a loop: one out-and-back on Kecui Road, one circuit inside the Olympic centre, and the final small ring through Datun North Road, Hujing East Road and Datun Road.
-- From Xueyuan Road and Xueqing Road into the Olympic centre, the official map shows shorter junction spacing and more turns, changing the course from long straights to continuous turning.
+**Own-drink table rules.** The red self-supply tables are open only to invited and championship athletes; any mass runner who takes anything from a red table is disqualified directly. Apart from visually impaired athletes' reported guides, the organiser opens no public support zone.
 
-**This site's rating**: urban road, low technical difficulty, gently graded with no official numbers. It is a descriptive rating by this site from the official route text and map, not an official grading. The official documents publish no surface hardness or friction coefficient, so this page makes no shoe recommendation on that basis.
+**Bag drop.** Entrants must choose whether to drop a bag at entry; the organiser provides a clothes bag and drop/collection service for those who choose it, and the option cannot be changed after entry closes. The start uses a mixed bag-drop model with a no-bag channel; start entry 05:30–07:20, bag drop 05:30–07:15, check-in 05:30–07:30. The finish collection area was rearranged to shorten queues; collection closes 14:30. Runners choosing the no-bag option receive a Beijing metro souvenir card as a green-participation incentive. Do not put ID, phone, cash, watch or keys of value in the bag.
 
-## Risks and exit points
+**Toilets and medical stations.** Toilets sit at 1, 2, 3 and 4 km, every 2.5 km from 5 km to the finish, plus 14 and 16 km; the total 2026 toilet provision is 1,630 places (1,199 start, 240 on course, 191 finish), about one toilet per 20 runners. Fixed medical points run every 2.5 km from 5 to 32.5 km inclusive, then every 1 km from 34 km, with fixed points at start and finish. The full provision: 26 fixed medical points, 35 ambulances, 100 AEDs, 610 medical observers, a 200 m² medical service centre at the finish, and 160 rescue runners equipped at 1:200. The referee team numbers 433 and volunteers 7,341. The official files captured this round do not publish collection-station locations, support-vehicle schedules or the post-collection procedure; this page does not write any.
 
-- **The cut-offs are back-loaded.** Reverse-engineered from the official times, segment 2 (5 → 10 km) needs about 7:00/km and segment 6 (half marathon → 25 km) about 7:41/km, both tighter than the overall average, while segment 1 gets 55 minutes. These figures are this site's arithmetic on official times and distances, not official wording.
-- **Start-area congestion.** 32,000 runners start on one gun from Tiananmen Square. Entry runs 05:30–07:20 and bib check 05:30–07:30. The bib Corral determines which block of the field you stand in, and the further back the corral, the less the first five kilometres will resemble the plan.
-- **Heat and cold are both possible.** The official race-day forecast was 14–19°C between 07:00 and 14:00 with a northerly around force 3 and gusts to force 5. The nine-day window used on this page nevertheless reaches 26.6°C on one day and 6.8°C on another. Mid-October in Beijing is not a single, reliably cool marathon.
-- **Rain the day before.** The official forecast expected 35–50 mm of steady rain across the city on 17 October; the Open-Meteo grid value for that date is 52.2 mm. The forecast does not describe how slippery the road surface becomes, and this page does not infer it.
-- **Closures and crossing.** The traffic police notice states that vehicles and pedestrians at junctions along the course must obey officers and must not cross while race vehicles or runners are passing. Spectators trying to cut across the course are both unsafe and in breach of the notice; use footbridges, metro entrances or the signed detours.
-- **Leaving the course.** A runner who misses a cut-off must leave the course; the official guide publishes no sweep-station locations or sweep-bus times. Public transport to the finish, then baggage collection, is the fallback, but do not assume a scheduled sweep service.
-- **Medical stoppage.** Medical staff may stop a runner and take the bib on health grounds. A runner who ignores that instruction carries the consequences. For an emergency on the course, contact on-course medical staff or the local emergency number.
-- **Bag deadlines.** Start bag drop runs 05:30–07:15. Finish collection must be completed by 14:30, and the official guide publishes no later collection arrangement. Do not book a train or flight that depends on a post-14:30 exit.
-- **Rule boundaries.** No racing wheelchair category was offered in 2026 and racing wheelchairs were not permitted. Strollers are barred from start, finish and course. Smoking, pets, flagpoles and selfie sticks are prohibited at Tiananmen Square. Bibs may not be transferred, altered or covered, and breaches can bring disqualification or a ban.
+**Toilet, medical, referee and volunteer provision:**
 
-## Getting there
+| Item | 2026 provision |
+| --- | --- |
+| Toilet locations | 1, 2, 3, 4 km; every 2.5 km from 5 km to finish; added at 14 and 16 km |
+| Total toilet places | 1,630 (1,199 start, 240 on course, 191 finish), about one per 20 runners |
+| Fixed medical points | 26 (every 2.5 km 5–32.5 km, every 1 km from 34 km, plus start/finish) |
+| Ambulances | 35 |
+| AEDs | 100 |
+| Medical observers | 610 |
+| Finish medical centre | 200 m² |
+| Rescue runners | 160, equipped at 1:200 |
+| Referees | 433 |
+| Volunteers | 7,341 |
 
-The access information published by the organiser and the traffic authority is below. Every walking time is the official guide's reference value, not a measurement by this site.
+Reading note: medical and volunteer figures come from the post-race release and press conference; point-by-point locations follow that year's participant guide, and collection-station locations and vehicle schedules were not published officially.
 
-![Ground-level entrance of exit B at Qianmen station on Metro Line 2: the blue line-and-station sign sits on the roof and the surrounding pavement is open; the official guide lists Qianmen exits B and C as start approach points, and this 2021 photograph is an ordinary station entrance, not a race-day checkpoint](/media/routes/beijing/beijing-qianmen-station-exit-b-2021.jpg)
+**Crew and pacer rules.** This is a city road race; the organiser does not arrange an on-course pacer team or a support crew for mass runners, whose fuel comes only from the stations above. The only reported accompanying people are guide runners for visually impaired athletes: the guide must be an entered runner in the same event; after submitting registration details the guide downloads the application, attaches a disability certificate scan or photo, and returns it to the organiser email before the deadline. Unreported accompanying carries the runner's own consequences, and a safety incident caused by the guide failing in that role is the runner's own responsibility.
 
-*Figure 5 | Qianmen station exit B on Line 2 (2021-04-09, N509FZ, CC BY-SA 4.0). An ordinary station entrance; it does not show race-day closures, barriers, bib check or entry layout.*
+**Transport to the start.** Metro Line 2 Hepingmen station exit B, 20–30 minutes on foot; or Line 2 Qianmen exits B/C, or Line 8 Qianmen exits E/I/G, 20–25 minutes on foot. Roads around the start close from 22:00 on 17 October; leave time to walk to the check-in entrance.
 
-- **Nearest stations to the start.** Metro Line 2, Hepingmen station exit B, about 20–30 minutes on foot to the Tiananmen Square athlete entrance. Line 2, Qianmen station exits B or C, about 20–25 minutes. Line 8, Qianmen station exits E, I or G, about 20–25 minutes.
-- **Start timings.** Entry 05:30–07:20, bib check 05:30–07:30, bag drop closes at 07:15. Bib checks plus face-recognition or identity-document verification happen at entry, and security screening queues too, so arrive ahead of the deadlines.
-- **Leaving the finish.** Walk south from the finish area to metro Line 8, Olympic Sports Center station exit B2. The organiser also runs a shuttle from the east side of exit D on Beichen Road to Beitucheng, the interchange for Lines 8 and 10, free of charge for runners wearing a bib.
-- **Race-day closures.** From 22:00 on 17 October the east and west side roads of Tiananmen Square close. On race day, East and West Chang'an Avenue close from 07:20 (Nanchizi south entrance to Fuxingmen Bridge), Fuxingmen Outer Street and Fuxing Road from 07:30, the West Third Ring Middle auxiliary road from 07:35, Linglong Road from 07:45, Landianchang South and North Roads from 07:50, the North Fourth Ring West and Middle auxiliary roads from 07:55.
-- **Northern closures.** Zhixin East Road from 08:05, Zhixin Road from 08:10, Xueyuan Road and Xueqing Road from 08:15, Shibanfang South Road and Kecui Road from 08:20, Lincui Road and the Speed Skating Hall north and south roads from 08:25, the North Fifth Ring south auxiliary road from 08:30, Aolin West Road from 08:35, Kecui Road in both directions from 08:40, the eastern North Fifth Ring south auxiliary road from 08:45, Aolin East Road and Beichen East Road from 08:50, Kecui South Road from 08:55, the North Central Axis Landscape Avenue approach from 09:00 with pedestrians barred, and Datun North Road, Hujing East Road and Datun Road from 09:05.
-- **Driving.** The notice bans parking on all those roads and closes them in stages. Driving to the start or finish on race day is not advised; if you must drive, park outside the closure area near a metro station and switch to the metro.
-- **Expo and bib pickup.** The 2026 Beijing Marathon Expo ran from 15 to 17 October at the China International Exhibition Center, Chaoyang hall. The official documents fetched here give no pickup hours, proxy-collection terms or post-race mailing, so this page adds none; check the organiser's notices before travelling.
-- **Airports and rail.** The official race documents fetched for this page contain no transfer terms from Beijing Capital, Beijing Daxing or the rail terminals to the start or finish. This section therefore gives no times or routes. That gap should not be filled with rules of thumb; check the airport, rail and city transport operators' own information before travelling.
+![Ground-level entrance of metro Line 2 Qianmen station exit B: a blue line and station-name sign on the roof and pedestrian paving outside; the official guide lists Qianmen B/C as start walk-up points, and the photograph is a 2021 everyday entrance, not a race-day entry.](/media/routes/beijing/beijing-qianmen-station-exit-b-2021.jpg)
 
-## Season and weather in mid-October
+**Transport from the finish.** After the finish, walk south to metro Line 8 Olympic Sports Center station exit B2; a free shuttle runs from the east side of exit D on Beichen Road to Beitucheng (Lines 8 and 10), for runners wearing a race bib.
 
-The 2026 race started at 07:30 on 18 October. The official runner guide's forecast for race day was clear from morning to midday (07:00–14:00), a northerly wind around force 3 with gusts to force 5, 14–19°C, and visibility above 10 km. It also forecast a significant rain event on 17 October, with 35–50 mm averaged across the city. The Chinese Athletics Association's post-race release matches this and adds that the morning cleared after the rain, with 14–19°C and a northerly around force 3.
+## Gear and Rules
 
-To give the same window context, this page queried the Open-Meteo historical archive for 2026-10-11 to 2026-10-19 at the Beijing grid point 39.89455N / 116.35983E, elevation 47 m, timezone Asia/Shanghai. Nine days of values:
+**Bib and clothing.** Athletes must wear suitable running clothing and keep the bib clearly visible. Masks or helmets that obscure identity, sharp hard or easily detachable accessories, trailing entanglement clothing, oversized props that occupy space or require stopping to display, and overly revealing, vulgar, bizarre, politically or religiously charged or discriminatory clothing are prohibited. The timing chip is attached to the back of the bib; do not fold it, as folding damages timing recording.
 
-- Daily maximum: 16.2°C to 26.6°C, median 21.5°C.
-- Daily minimum: 6.8°C to 15.9°C, median 12.8°C.
-- One of the nine days had at least 1 mm of precipitation and one had at least 5 mm; the largest daily total was 52.2 mm on 2026-10-17.
-- Race day, 2026-10-18: maximum 17.2°C, minimum 10.5°C, precipitation 0.0 mm.
+**Conduct rules.** Do not relieve yourself outside toilet areas at the start, finish or along the course; do not discard rain jackets, blankets, bottles, cans or other items and litter. Violations include concealing health conditions, providing false entry information, or transferring/using a bib from another edition; verified cases may lose results, receive a one-to-five-year or lifetime ban, and serious cases are reported to the Chinese Athletics Association for added penalties. Smoking is prohibited in the Tiananmen Square area, as are pets, flagpoles and banners, selfie sticks and similar items.
 
-Those four lines are **modelled values for a grid point, not measurements on the course and not a race-day forecast**. A grid cell does not represent the microclimates of Tiananmen Square, the West Third Ring service road, Xueyuan Road and the Olympic centre, and the dataset carries no humidity, wind, sunshine or apparent temperature. Its value is the spread: within one week the window contains a 26.6°C afternoon and a 6.8°C morning, and a 50 mm rain event the day before magnifies both ends.
+**Suggested pack.** Bib (with chip), clothes bag (if bag drop chosen), safety pins, original ID document (required for runners not enrolled for face check), broken-in road shoes and running clothing; the reusable cup is issued by the race, so no disposable cup is needed. Do not wear new shoes, new socks or untested clothing on race day. Gear trade-offs and clothing friction are covered in [Running Apparel and Chafing](/en/knowledge/running-apparel-and-chafing/); run through the [Race Checklist](/en/tools/race-checklist/) before the race.
 
-The practical reading is not to treat mid-October Beijing as one reliably crisp marathon. A 07:30 start sits near the daily minimum to median range, so the start-area wait can be cold; the daily maximum generally arrives in the afternoon, so the later stages can still warm up. Rain gear, a warm layer, gloves and sun protection should be planned as adjustable combinations. Discarded clothing and rain ponchos should not be left on the course; follow on-site instructions.
+**Identity verification.** Race-day entry runs face recognition or ID document check (the registration ID). Runners enrolled for face check capture their face at pack collection; those choosing ID check must carry the registration ID throughout and keep it safe. Packs are collected in person, cannot be delegated, and the Participation Commitment is signed on site; mismatched identity is not issued a pack; mailing is not provided.
 
-## Difficulty
+**No listed mandatory gear.** The rules do not require a water bottle, pack, headlamp or trail gear; the course is an urban road and standard road shoes suffice. This page does not interpret official clauses for the organiser; disputes follow that year's rules and on-site refereeing.
 
-The official documents publish no single difficulty grade, and this site will not invent an official one. **This site's rating**: a low-altitude, low-technical urban road marathon whose real pressure is cut-off shape, start logistics and autumn weather. The basis:
+## Weather and Environment
 
-- Distance 42.195 km, agreed by all four official documents.
-- Official limit six hours, with nine closing points from 5 km to the finish, including a separate half-marathon cut-off.
-- 2026 field 32,000, applications above 265,000, start at Tiananmen Square, and entry and screening time that cannot be compressed.
-- One turnaround on Kecui Road, one circuit in the Olympic centre and a final small loop, with dense junctions and turns.
-- The pre-race week ranges from 6.8°C to 26.6°C and includes a 50 mm rain event.
-- Start and finish are separate, finish bag collection closes at 14:30, and departure depends on metro Line 8 and the shuttle.
+**Race window (mid-October, Beijing).** The Open-Meteo reanalysis grid covers 11–19 October 2026: daily maxima 16.2–26.6°C, median 21.5°C; daily minima 6.8–15.9°C, median 12.8°C; one of the nine days recorded at least 1 mm and at least 5 mm precipitation, the largest single day 52.2 mm on 17 October. Race day 18 October grid values: max 17.2°C, min 10.5°C, precipitation 0.0 mm. These are model grid values, not instrument measurements on the course, and do not represent the microclimate at Tiananmen Square, the West 3rd Ring auxiliary, Xueyuan Road or the Olympic Green; the grid also excludes humidity, wind, sunlight and apparent temperature.
 
-What follows directly from those conditions: the difficulty is not ascent or technical ground, it is cut-off pacing, the start crowd, autumn weather variability and point-to-point transport. For a runner whose goal is to finish, the priorities are not being lulled by the 55-minute opening segment and keeping margin before the tighter 10 km, half marathon and 25 km points. For a runner chasing a time, the turnarounds, the loop and the narrow service roads will break pace continuity. That is this site's assessment from official numbers and the official route description.
+**2026 official forecast.** The pre-race forecast called for a clear race day, visibility above 10 km, northerly wind around force 3 with gusts to force 5, and 14–19°C between 07:00 and 14:00; the previous day, 17 October, brought a steady citywide 35–50 mm rain, against the Open-Meteo grid value of 52.2 mm. The official forecast does not describe surface slipperiness, and this page does not infer it. Start-time temperature sits around 10°C; open sections on Chang'an Avenue and the North 4th Ring carry wind, so plan start warmth; confirm shoe grip in pre-race training after rain.
 
-Nor is this a course to prepare for with trail logic: the official documents list no mandatory kit or technical section, and the course is at low altitude. Training should centre on road pacing, fuelling rhythm and tolerance for both warm and cold mornings. For pace conversion, use the site's [pace calculator](/en/tools/pace/); for what the marathon distance means in training, start with [the marathon distance](/en/knowledge/marathon-distance/).
+**Environmental risks.** The course is low altitude with no trail terrain; the main environmental factors are city roads, junction crowds, wind on open stretches and autumn dryness. Mid-October Beijing has a wide day-night split: one week may hold a 26.6°C afternoon and a 6.8°C morning. After sweating, wind on long straights can chill you, so put warmth back on promptly after finishing. Signals such as persistent chest tightness, palpitations, dizziness or unsteady gait should be assessed at the nearest medical point. General air-quality and running judgment is in [Air Quality and Running](/en/knowledge/air-quality-and-running/); race-day air quality follows the official forecast.
 
-## Verified and unverified
+## History and Background
 
-Nobody on this page ran the course, so the two lists are kept apart.
+The Beijing Marathon was founded in 1981 and is among the longest-established marathons in mainland China; the 2025 edition was the 43rd. It has long started at Tiananmen Square and finished on the Olympic Park central Landscape Avenue, linking Chang'an Avenue with the Double-Olympic venue cluster. In 2019 Kenya's Mathew Kipkoech Kisorio ran 2:07:06, the men's course record that stood for seven years; in 2026 Tola improved it to 2:03:10, the fastest marathon recorded in mainland China.
 
-**Verified against official sources**: the 2026 date of 18 October and the 07:30 start; the 32,000 field and more than 265,000 applications; 42.195 km; the start, finish and the four districts crossed; the full street sequence; start entry 05:30–07:20, bib check 05:30–07:30, bag drop 05:30–07:15 and finish bag collection by 14:30; the nine closing points and their times; the fifteen service points and the three service markings (refreshment, drinking/sponging, food supply); medical spacing plus 26 medical points, 35 ambulances, 100 AED units, 610 observers and 160 first-aid runners; 1,630 toilet places at a 1:20 ratio; the rule that runners behind a cut-off must leave the course; the official race-day forecast; the men's winning time and Tola's course record, the women's top three times; the pre-race rain forecast; the staged road closures; the metro and shuttle plans at start and finish; the expo dates and venue.
+**Event identity.** The 2026 edition was a World Athletics Gold Label road race, run jointly with the National Marathon Championships; more than 140 professional runners shared the same gun and course with the 32,000 mass field. The race is hosted by the Chinese Athletics Association and Beijing Municipal Bureau of Sport and jointly organised with China Media Group. Media nicknames such as a national-level slogan are promotional labels; this page does not write them up as an event grade or certification.
 
-**Unverified, so no conclusion is drawn**: official cumulative ascent, cumulative descent, high point and low point (none published); surface-type percentages; measured temperature, humidity and wind on the course; real queue times at each service point; how often marshals hold runners at turnarounds and junctions; airport and rail transfer times to start or finish; navigable course geometry; any subjective judgment about how the course "feels".
+![Everyday overhead view of the West Chang'an Avenue: multi lanes, central reservation, street trees and buildings; the course enters this avenue west from the square, and the photograph shows no race-day closures, start arch or aid facilities.](/media/routes/beijing/beijing-west-changan-avenue-2021.jpg)
 
-## Images and rights
+## Training Transfer
 
-**Three location photographs and two self-made diagrams; no 2026 race-day photograph.** Wikimedia Commons was rechecked on 2026-11-24. Under "Beijing Marathon" and "北京马拉松", no photograph both proves this event and shows the 2026 edition; the 2014 medal is not the 2026 race and is not used. The page instead carries three city-location photographs with identifiable authors, licences, dates and file pages: the start approach at Qianmen station exit B, the western course at West Chang'an Avenue, and the finish area at the Olympic Green. They describe the urban setting only. They do not prove a start arch, course furniture, aid station, finish line or timing equipment.
+1. **Prepare for a road marathon, not a trail race.** The course is city roads and park landscape avenues with no technical sections or meaningful climb; training should centre on continuous road mileage, pace stability and second-half hold. The training meaning of the marathon distance is in [Marathon Distance](/en/knowledge/marathon-distance/), and the system periodisation in [Marathon Training Plan](/en/knowledge/marathon-training-plan/).
+2. **Hold pace in the first half; don't get pulled away on Chang'an Avenue.** The start is wide and spectators dense, making the early kilometres easy to rush; run even to target pace and steady later. Pacing principles are in [Race-Day Pacing](/en/knowledge/race-day-pacing/); cut a target into 5 km blocks with the [Splits tool](/en/tools/splits/), and convert pace with the [Pace calculator](/en/tools/pace/).
+3. **Practise the fueling rhythm in long runs.** Food supply only begins at 10 km; gels and solid foods should already be tolerated in training. Full fueling strategy is in [Race-Day Fueling](/en/knowledge/race-day-fueling/) and [Long-Run Fueling](/en/knowledge/long-run-fueling/), and fluid rhythm in [Hydration](/en/knowledge/hydration/).
+4. **Adapt to the cool morning and open-section wind.** A mid-October morning start sits around 10°C; place long runs in morning slots and practise layered clothing and start warmth. Low-temperature running points are in [Cold-Weather Running](/en/knowledge/cold-weather-running/). The long straights on Chang'an Avenue, the North 4th Ring and the Olympic Green carry noticeable wind, so training should include open straights in similar conditions.
+5. **Back-calculate the target from cut-off buffers.** Against the segment table in Timing and Cut-offs, see which buffer band your most recent marathon falls into; with the 2026 gate at 6:00, a tight buffer after 30 km points to an endurance or fueling gap to fix first. Load-and-recovery judgment is in [Load and Overtraining](/en/knowledge/load-and-overtraining/); check items with the [Race Checklist](/en/tools/race-checklist/).
 
-| Place | What it shows and why it is here | Author | Licence | Date | Original / local | File page |
-|---|---|---|---|---|---|---|
-| Qianmen station exit B | Ground-level entrance of exit B on Metro Line 2; shows the start-side metro approach, not a race-day entrance, closure or barrier | N509FZ | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 2021-04-09 | 4,032×2,688 / 6,044,515; 960×640 / 182,665 | [Commons](https://commons.wikimedia.org/wiki/File:Exit_B_of_Qianmen_Station_(20210409130312).jpg) |
-| West Chang'an Avenue | Elevated view of West Chang'an Avenue; shows the westbound urban boulevard, without race-day closure, start arch or aid furniture | 維基小霸王 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 2021-04-07 | 5,007×3,338 / 5,402,511; 960×640 / 189,335 | [Commons](https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E9%95%BF%E5%AE%89%E8%A1%97.jpg) |
-| Olympic Green central area | Everyday aerial view of the central axis, water, Bird's Nest, Water Cube and surrounding venues; shows the finish-area setting, not a finish arch, finish line or timing equipment | Picrazy2 | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | 2017-07-06 | 7,234×4,139 / 17,398,612; 960×549 / 181,090 | [Commons](https://commons.wikimedia.org/wiki/File:Beijing_Olympic_Green.jpg) |
-| Cut-off ladder | Start plus nine official closing points, with minutes and reverse-engineered pace per segment; red marks the two tightest segments, 5–10 km and half marathon–25 km | This site | CC BY 4.0 | 2026-11-24 | 360×1,138 / 12,397 | Local SVG |
-| Five-phase order | Start—West Chang'an Avenue—West Third Ring—university district—Olympic centre—Landscape Avenue; order schematic, not an official split or map | This site | CC BY 4.0 | 2026-11-24 | 360×880 / 8,020 | Local SVG |
+## Race-Day Execution Card
 
-All three photographs were proportionally resized from the Commons originals to a 960 px long edge, with no crop and no colour change. Each remains under its own CC BY-SA 4.0 licence and is not relicensed to CC BY 4.0 by inclusion here. Author, licence, date and file page were checked against the imageinfo API and the local copies. The two SVGs are self-made and published under CC BY 4.0; they are order and cut-off schematics, not official maps, tracks, elevation profiles or navigation aids. The race name, marks, official course map and official runner guide remain the property of the Beijing Marathon organising committee. This page does not republish official artwork as its own illustration and does not host the official course map, runner guide or any track file.
+**The night before and the morning.** Check the bib (with chip), clothes bag, safety pins and original ID; confirm the bag-drop option chosen at entry. The start opens 05:30, bag drop closes 07:15, gun 07:30; Hepingmen/Qianmen-direction metro means a 20–30 minute walk, so allow for closure detours.
 
-## Sources and reuse
+**Segment targets (target 5:30:00, average 7:49/km).**
 
-The text on this page was written independently by the Runmap editorial team from the Beijing Marathon organising committee's public documents, the Chinese Athletics Association release and Open-Meteo data, and is published under CC BY 4.0. The three Commons location photographs are separately under CC BY-SA 4.0 and are not brought under the page's CC BY 4.0 text licence; their authors and licences are in the table above. The race name, official marks, official route wording, official course map and official runner guide remain the property of the event. This page links to official pages and official media republications only; it does not redistribute the course map, the runner guide or any track file.
+| Segment | Target elapsed time | Pace reference | Key actions |
+| --- | --- | --- | --- |
+| 5 km | 0:39.1 | 7:49/km | Hold the start rhythm; don't follow the front |
+| 10 km | 1:18.2 | 7:49/km | First food supply; water or sports drink |
+| 15 km | 1:57.3 | 7:49/km | Read how you feel; gel on plan |
+| 20 km | 2:36.4 | 7:49/km | Drink once before the half |
+| Half | 2:45.0 | 7:49/km | Half timing mat; check result recording |
+| 25 km | 3:15.5 | 7:49/km | Enter the North 4th Ring section; hold stride |
+| 30 km | 3:54.6 | 7:49/km | Long fueling stretch; get help if unwell |
+| 35 km | 4:33.7 | 7:49/km | Food at 32.5/37.5 km; converge to the Green |
+| Finish | 5:30.0 | — | Finish on the Landscape Avenue; finish medical and bag area |
 
-Eleven external sources and one editorial method note are cited: the race website homepage, the 2026 entry notice, the 2026 official runner guide (published by the organiser, republished in full by China News Service), the Chinese Athletics Association post-race release, the 28 September pre-race press conference report by Beijing Daily Sports, the Beijing traffic police notice on temporary traffic management, the official 2026 course map, the Open-Meteo historical record, and three Wikimedia Commons location photographs. The source types span the race website, the official guide, the national federation release, the organiser's press conference, a government traffic notice, meteorological data and openly licensed photography; each source's supporting claims and access date are listed in the source list at the foot of the page. Open-Meteo data is used under CC BY 4.0 with attribution here. The three location photographs are credited in Images and rights; no 2026 race-day photograph was available this round.
+**Fueling rhythm.** Take refreshment stations at 5/10/15/20/25/30/35/40 km and water/sponge stations from 7.5 km; food stations at 10, 15, 20, 25, 30, 32.5 and 37.5 km. Take fuel only from organiser stations; do not touch red self-supply tables.
+
+**Retreat points and signals.** If any timing point falls behind its gate, or you develop persistent vomiting you cannot eat through, unsteady gait, confused awareness, chest pain or marked palpitations, leave the course and go to a medical point for assessment. Finish bag collection closes 14:30; after finishing follow the flow south to Line 8 Olympic Sports Center, or take the free shuttle east of exit D to Beitucheng.
+
+**Gear switch.** Before the start wear a warm jacket; store or discard it per the bag-drop arrangement. During the race keep the bib and chip unobscured and carry no easily detachable accessories. Put warmth back on promptly after finishing, collect the bag and leave by the marked route.
+
+## How to Adapt This Card
+
+- **Different target time: change the pace line first.** At 5:00:00 the average pace is 7:07/km; at 6:00:00 it is 8:32/km. After changing the target, re-cut 5 km segments with the [Splits tool](/en/tools/splits/) and re-check buffers against the cut-off table.
+- **Start-section crowd affects the first 5 km.** The start arch concentrates runners on the square's east-side road; those further back lose time crossing the start mat. Net time runs from crossing the mat, but segment gates run on the natural clock, so do not pace the first 5 km off gun time.
+- **Adjust clothing and fluid for the weather.** If the forecast brings rain or cooler temperatures, layer clothing while keeping fueling unchanged; if the day is notably warm, raise water and sponge frequency. Heat-stress judgment is in [Heat and Humidity](/en/knowledge/heat-and-humidity/).
+- **Drop the target if long runs fall short.** If your last 30 km-plus long run is clearly slower than target pace, or you walk-run after 30 km, prioritise finishing on race day rather than holding a strength target.
+
+## Recent Results and Course Versions
+
+| Edition | Date | Field and entries | Men's winner | Women's winner | Best domestic | Course version notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| 2026 (championships combined) | 2026-10-18 | 32,000 runners; 265,000+ entries worldwide; media review gives 98.71% finish rate and 4,780 sub-three runners (media figures; the organiser's results page was not verified for a total finisher count) | Tamirat Tola (ETH) 2:03:10, new course record and fastest in mainland China; Muktar Edris 2:04:34; Adane Kebede 2:05:10 | Anchinalu Dessie/Genaneh (ETH) 2:20:36 defending; Ciren Cuomu 2:23:48; Lu Ying 2:24:24 | Li Dalin 2:08:30, fourth overall and leading Chinese man; Championships men: Chen Tianyu, Jiang Fakun, Xie Yunce; women: Ciren Cuomu, Lu Ying, Xia Yuyu | Finish section via Speed Skating Hall internal road, Diamond Court and Forest Park fringe; mass gate shortened to 6:00 |
+| 2025 (43rd) | 2025-11-02 | 32,000 runners, a record high at the time | Lemi Berhanu Hayle (ETH) 2:08:10 defending; Debel 2:09:27; Han Il Ryong (PRK) 2:09:47 | Genaneh (ETH) 2:26:08; Kibor 2:26:15; Dadiso 2:27:21 | Li Dalin 2:11:26 leading Chinese man; Huang Xuemei 2:31:28 leading Chinese woman | Second-half turnarounds cut from three to one; North 4th Ring auxiliary section extended; Ice Ribbon and Aolin East Road scenery added |
+| 2024 | 2024-11-03 | 30,000 runners; 182,949 entrants from 43 countries and regions; Beijing runners 21.1% | Hayle (ETH) 2:09:16; Betwel Kibet Jumba second; Chen Tianyu 2:09:48 third and Championships men's winner | Vicoty Chepng'ok (KEN) 2:21:56; Rahma Tusa second; Angela Tanui third | Liu Min 2:28:36 Championships women's winner | Start arch on the square's east-side road moved 100 m north; all runners assemble on the east-side road for a straight start; expo 13,000 m² |
+
+**Course records.** Men's course record 2:03:10 (Tola, 2026), improving Kisorio's 2:07:06 from 2019; Tola's time is also the fastest marathon in mainland China. The women's course record was not verified in an official source this round and no estimate is filled in. 2026 gun-by-gun results and rankings are available on the official results announcement page.
+
+![Everyday bird's-eye view of the Olympic Park central area: central avenue, water, Bird's Nest, Water Cube and surrounding venues; the race finish lies on the central Landscape Avenue, and the photograph shows no finish arch, finish line or timing facilities.](/media/routes/beijing/beijing-olympic-green-2017.jpg)
+
+## Results and Course Changes
+
+**Course changes and version history.**
+
+- **2026 version (current, held):** Run jointly with the National Marathon Championships; the finish section ran via Speed Skating Hall North–internal–South roads, Tennis Center Diamond Court and Forest Park fringe before joining the Central Axis Landscape Avenue; the mass finish gate was shortened from 6:15 to 6:00.
+- **2025 version:** Refined on the classic base: second-half turnaround points cut from three to one for smoother running; the North 4th Ring auxiliary section extended to ease congestion; Ice Ribbon and Aolin East Road Double-Olympic scenery added.
+- **2024 version:** The start arch moved 100 m north on the square's east-side road; all runners assembled on the east-side road for a straight start; the main body remained the Tiananmen Square to Olympic Park Landscape Avenue framework.
+- **Earlier versions:** Kisorio's 2:07:06 set the then record in 2019. Earlier editions' start/finish and route changes were not verified edition by edition in official sources this round and are not reconstructed from user-generated maps.
+
+**Items not verified.** The 2027 date and entry window; downloadable official track (GPX/KML/GeoJSON); official cumulative ascent/descent; the women's course record; and the organiser's official count of 2026 finishers and sub-three runners. These update after publication through official channels.
+
+## Common Misreadings
+
+- **"Beijing is a World Marathon Major."** No. It is a World Athletics Gold Label road race and is not in the Abbott World Marathon Majors sequence; Major candidate status belongs to other events such as Shanghai, and the two should not be mixed.
+- **"The official map is GPX."** No. The organiser publishes only maps and diagrams; there is no downloadable GPX/KML, and third-party tracks have unclear licences. This page does not bundle or trace them.
+- **"All 32,000 are mass runners."** Not exactly. The 32,000 includes mass runners, championship athletes and invited athletes; in 2026 more than 140 professionals shared the same gun and course with the mass field.
+- **"The six-hour gate and the 13:30 finish contradict each other."** They do not. Gun 07:30, finish gate 13:30 equals a 6:00 limit; in 2026 the mass gate was shortened from 6:15 to 6:00, with segment times in the guide table.
+- **"Mass runners may use the red self-supply tables."** No. The red tables are reserved for invited and championship athletes; any mass runner taking something from them is disqualified.
+
+## Transport, Expo and Accommodation
+
+**Pack collection.** The 2026 Beijing Marathon Expo ran 15–17 October at the China International Exhibition Center (Chaoyang Hall). Race shirt, race bag and bib (with timing chip on the back) are collected at the expo; collect in person with the original registration ID and the event voucher, signing the Participation Commitment on site; delegation is not allowed; face or ID check is逐一 verified on site, and mismatched identity is not issued a pack; mailing is not provided and late collection is not re-posted. Exact opening hours follow the pre-race organiser announcement.
+
+**Accommodation suggestion.** Before the race, choose lodging around Qianmen, Hepingmen or Xidan, close to start-direction metro Lines 2/8, so a 20–30 minute walk reaches the square's east-side road assembly in the morning. Do not book on straight-line distance alone; include road closures, metro first-train times and walk to check-in. The finish is in the Olympic Central Area, leaving via Line 8 Olympic Sports Center or the free shuttle to Beitucheng.
+
+**Race-day traffic control.** From 22:00 on 17 October the square east and west roads close; on 18 October from 07:20 the Chang'an Avenue section from south entrance of Nan Chizi to Fuxingmen Bridge closes; 07:30 Fuxingmen Outer Street/Fuxing Road, 07:35 West 3rd Ring auxiliary, 07:45 Linglong Road, 07:50 Landianchang, 07:55 North 4th Ring auxiliary; 08:05 Zhixin East Road, 08:10 Zhixin Road, 08:15 Xueyuan Road/Xueqing Road, 08:20 Shibanfang South Road/Kehui Road, 08:25 Lincui Road/Speed Skating Hall roads; 08:30 North 5th Ring south auxiliary, 08:35 Aolin West Road, 08:40 Kehui Road both directions, 08:45 North 5th Ring south auxiliary east section, 08:50 Aolin East Road/Beichen East Road, 08:55 Kehui South Road; from 09:00 the Central Axis Landscape Avenue to finish section closes to pedestrians, and 09:05 Datun North Road/Hujing East Road/Datun Road close. Reopening times follow the traffic authority according to race progress; closed roads must not be parked on, and vehicles and pedestrians at junctions obey police direction, with no crossing while event vehicles and runners pass.
+
+**Staggered closure list (Beijing traffic police 2026 No. 28 notice):**
+
+| Time | Controlled road |
+| --- | --- |
+| 22:00, 17 October | Square east and west side roads |
+| 07:20, 18 October | Chang'an Avenue: south entrance of Nan Chizi to Fuxingmen Bridge |
+| 07:30 | Fuxingmen Outer Street / Fuxing Road |
+| 07:35 | West 3rd Ring middle auxiliary road |
+| 07:45 | Linglong Road |
+| 07:50 | Landianchang South/North Road |
+| 07:55 | North 4th Ring auxiliary roads |
+| 08:05 | Zhixin East Road |
+| 08:10 | Zhixin Road |
+| 08:15 | Xueyuan Road / Xueqing Road |
+| 08:20 | Shibanfang South Road / Kehui Road |
+| 08:25 | Lincui Road / Speed Skating Hall roads |
+| 08:30 | North 5th Ring south auxiliary road |
+| 08:35 | Aolin West Road |
+| 08:40 | Kehui Road both directions |
+| 08:45 | North 5th Ring south auxiliary road (east section) |
+| 08:50 | Aolin East Road / Beichen East Road |
+| 08:55 | Kehui South Road |
+| 09:00 | North Central Axis Landscape Avenue to finish (closed to pedestrians) |
+| 09:05 | Datun North Road / Hujing East Road / Datun Road |
+
+Reading note: times are when each section begins to close; reopening follows the traffic authority by race progress. Closed roads must not be parked on, and junction vehicles and pedestrians obey police direction.
+
+**Driving and intercity.** Driving to the start/finish on race day is not advised; if you must drive, park near a metro station outside the closure area and transfer in. Rail and metro/airport-bus times from Capital and Daxing airports follow the official airport information for the day; runners arriving the day before should reserve time for expo collection, walking the start approach and dinner. The general framework for travel across time zones and post-trip recovery is in [Jet Lag and Race Travel](/en/knowledge/jet-lag-and-race-travel/).
+
+## Verification and Rights
+
+**Sources used on this page (route and rules order, matching the entity sourceRefs).**
+
+1. Beijing Marathon official website: https://www.beijing-marathon.com/ (SPA home and homeIndex interface)
+2. 2026 Bank of China Beijing Marathon & National Marathon Championships entry notice: https://www.beijing-marathon.com/subject.html?topicId=7793646850104219&detailId=9024245728409368&type=notice
+3. 2026 Beijing Marathon participant guide (organiser release, republished in full by China News Service): http://www.chinanews.com.cn/ty/2026/10-17/10716285.shtml
+4. 2026 official course map and start/finish diagrams (official event images, no GPX/KML download): https://www.beijing-marathon.com/subject.html?detailId=7992140408205034
+5. Opening the "203 era": 2026 Bank of China Beijing Marathon & National Marathon Championships conclude, Chinese Athletics Association: https://www.athletics.org.cn/news/marathon/2026/1018/711853.html
+6. 2026 Beijing Marathon fires 18 October (28 September press conference), Beijing Daily Sports: https://news.bjd.com.cn/2026/09/29/11977782.shtml
+7. Beijing Municipal Public Security Bureau traffic police 2026 No. 28 traffic management notice: https://jtgl.beijing.gov.cn/jgj/jgxx/gsgg/jttg/bjsgajgajtgljtg/744140011/index.html
+8. Open-Meteo historical archive, Beijing grid point 2026-10-11 to 2026-10-19 (CC-BY-4.0 reanalysis grid values)
+9. 2026 Beijing Marathon competition rules/entry notice (direct-entry standards, guide-runner clauses, penalties): https://www.beijing-marathon.com/subject.html?detailId=7991972216255091&topicId=7793644216441916
+10. 2025 Beijing Marathon results, field and route refinement, Beijing Municipal Bureau of Sport (Beijing Daily): https://tyj.beijing.gov.cn/bjsports/gzdt84/zwdt/743819564/index.html
+11. Record 182,949 entries; 30,000 runners open the Beijing Marathon in autumn, Beijing Municipal Bureau of Sport (Beijing Daily): https://tyj.beijing.gov.cn/bjsports/gzdt84/jtdt/543447589/index.html
+12. High level, great atmosphere! New record set at the 2026 Beijing Marathon, China News Service: https://www.chinanews.com.cn/ty/2026/10-18/10716599.shtml
+13. 2026 Beijing Marathon closes; 32,000 runners enter the Olympic Central Area, Chaoyang district government / Olympic Green committee: http://www.bjchy.gov.cn/dynamic/news/4028805aa0e8374401a1587a4e8c5917.html
+14. Tola runs Chinese all-comers' record in Beijing, World Athletics: https://worldathletics.org/competitions/world-athletics-label-road-races/news/amsterdam-marathon-2026-diriba-berhanu
+15. 2025 Beijing Marathon fires; 32,000 runners compete together, The Paper / China City News: https://m.thepaper.cn/newsDetail_forward_31884339
+16. Editorial anchor image (route-anchor-editorial); three historical location photographs: Qianmen station exit B, West Chang'an Avenue, Olympic Green (photo-beijing-qianmen-exit-b, photo-beijing-west-changan, photo-beijing-olympic-green), all Wikimedia Commons CC BY-SA 4.0: Qianmen exit B by N509FZ (2021-04-09), West Chang'an Avenue by 維基小霸王 (2021-04-07), Olympic Green by Picrazy2 (2017-07-06). The photos describe the city setting only and do not prove the start arch, course layout, aid stations, finish line or timing facilities.
+
+**Unverified / to-update list.** The 2027 date and entry window; downloadable official track; official cumulative ascent/descent; the women's course record; the organiser's official 2026 finisher and sub-three counts (this page's 98.71% and 4,780 are media review figures); collection-station locations and support-vehicle schedule.
+
+**Changes this round.** Versus the previous version, this page reorganises around the twelve modules and completes eligibility and direct-entry standards, training transfer, the race-day execution card, gear and rules, and recent results with route-change history; it carries the 2024/2025/2026 route and cut-off change record; it adds two self-made charts (segment cumulative distance, cut-off buffers) built from the official segment table in the body and a chosen target time; they are not the official course profile. The old internal knowledge-link path has been corrected.
+
+<!-- related-ring -->
+## Related entries
+
+- [Berlin Marathon: the complete 2026 course guide](/en/routes/berlin/)
+- [Boston Marathon: full 2026 course breakdown](/en/routes/boston/)
+- [Chicago Marathon: the 2026 official course in full](/en/routes/chicago/)

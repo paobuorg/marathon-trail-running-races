@@ -1,0 +1,69 @@
+{
+  "sourceId": "route-chicago-apply-2027",
+  "title": "Apply – Bank of America Chicago Marathon",
+  "url": "https://www.chicagomarathon.com/apply/",
+  "publisher": "Bank of America Chicago Marathon",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The 49th running takes place on Sunday 10 October 2027; the 2027 application window ran Thursday 8 October to Thursday 29 October 2026, with drawing status emailed Tuesday 8 December; the non-guaranteed drawing charges no application fee and removes duplicate submissions.",
+    "Guaranteed entry tracks are Time Qualifier, Legacy Finisher (five or more Chicago finishes in the last 10 years; finishes before 2016 do not count), Charity, High Performance Program, Chicago Distance Series finisher, 2026 cancelled entry and Para Athletics Program.",
+    "Time Qualifier standards (men / women / non-binary): 16-34 2:50:00 / 3:20:00 / 3:20:00; 35-39 2:55 / 3:25; 40-44 3:00 / 3:30; 45-49 3:10 / 3:40; 50-54 3:15 / 3:50; 55-59 3:25 / 3:55; 60-64 3:40 / 4:15; 65-69 3:55 / 4:30; 70-74 4:15 / 4:45; 75-79 4:30 / 5:00; 80+ 4:50 / 5:20.",
+    "Time Qualifier results must come from a marathon run on a USATF/WA-certified course between 1 January 2025 and 29 October 2026; half-marathon or 50K times are not accepted, and non-certified races, personal device times, weather or conditions are not considered.",
+    "High Performance Program standards: men sub 2:25:00, women and non-binary sub 2:45:00, masters men sub 2:35:00, masters women and non-binary sub 2:50:00; masters are 40+; program capacity is 300.",
+    "Charity entries require fundraising of no less than US$2,500; the charity entry fee is US$325 for US residents and US$335 for non-US residents; charity places run first-come first-served until Friday 10 September 2027 or capacity.",
+    "Non-charity entry fee is US$250 for US residents and US$260 for non-US residents, plus a processing fee; participants must be 16 or older on race day; the course time limit is 6:30:59. Guaranteed entrants must pay by 11:59 p.m. CT Tuesday 10 November; drawing selectees by 11:59 p.m. CT Tuesday 15 December."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 apply 页正文（drawing / guaranteed tracks / standards / HPP / charity / fee）",
+    "note": "本页为 2027 报名窗口口径；2026 届费用与筹款额见 route-chicago-faq，两版分别标注"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文：49th running 10 Oct 2027；window 8–29 Oct 2026；notify 8 Dec；no fee to apply；duplicates removed"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "正文 FAQ：guaranteed tracks 逐项列出；Legacy five finishes in last 10 years, pre-2016 not counted"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Time Qualifier 表 11 个年龄段逐行核对"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Registration requirements：window 1 Jan 2025–29 Oct 2026；marathon only；certified course"
+    },
+    {
+      "index": 4,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "HPP 表与要求：sub 2:25 / sub 2:45；Masters 2:35 / 2:50；40+；capacity 300"
+    },
+    {
+      "index": 5,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Charity：no less than $2,500；fee $325 US / $335 non-US；first-come until 10 Sep 2027 or capacity"
+    },
+    {
+      "index": 6,
+      "status": "supported",
+      "checkedAt": "2026-11-25",
+      "note": "Entry fee：$250 / $260；processing fee；age 16+；limit 6:30:59；缴费截止 10 Nov / 15 Dec"
+    }
+  ]
+}

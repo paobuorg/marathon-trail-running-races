@@ -1,0 +1,47 @@
+{
+  "slug": "london",
+  "charts": [
+    {
+      "id": "gfa-standards-men-2026",
+      "kind": "bar",
+      "title": {
+        "zh-CN": "伦敦马拉松 2026 Good For Age 男子资格标准（按年龄组）",
+        "en": "London Marathon 2026 Good For Age men's qualifying standards by age group"
+      },
+      "unit": {
+        "zh-CN": "分钟（资格全马净成绩上限）",
+        "en": "minutes (qualifying marathon net-time ceiling)"
+      },
+      "categories": {
+        "zh-CN": ["18-39", "40-44", "45-49", "50-54", "55-59", "60-64", "65-69", "70-74", "75-79", "80-84", "85-89", "90+"],
+        "en": ["18-39", "40-44", "45-49", "50-54", "55-59", "60-64", "65-69", "70-74", "75-79", "80-84", "85-89", "90+"]
+      },
+      "values": [172, 177, 182, 187, 192, 214, 232, 292, 307, 327, 370, 440],
+      "note": {
+        "zh-CN": "伦敦马拉松官方 2026 GFA 男子标准（女子标准在每个年龄组均更慢，如 18-39 为 3:38:00）；GFA 仅英国居民可申请，上限 6,000 名，达标只获得申请机会，名额按成绩优先录取。成绩须来自 UKA/AIMS/主管机构认证的线下全马，资格期 2024-10-01 至 2025-09-30。本站自制图，非官方赛道剖面。",
+        "en": "Official London Marathon 2026 GFA men's standards; women's standards are slower at each band (e.g. 3:38:00 at 18-39). GFA is UK-residents only, capped at 6,000; meeting the time only permits applying, and places are allocated fastest-first. The proof must be an in-person certified marathon (UKA/AIMS/national governing body) run between 1 Oct 2024 and 30 Sep 2025. Self-made chart, not an official course profile."
+      }
+    },
+    {
+      "id": "segment-profile",
+      "kind": "line",
+      "title": {
+        "zh-CN": "伦敦马拉松：分段累计距离",
+        "en": "London Marathon: cumulative distance by segment"
+      },
+      "unit": {
+        "zh-CN": "公里",
+        "en": "km"
+      },
+      "categories": {
+        "zh-CN": ["起点", "Mile 3", "Mile 6", "Mile 7", "Mile 13", "Mile 21", "Mile 25", "终点 26.2 mi"],
+        "en": ["Start", "Mile 3", "Mile 6", "Mile 7", "Mile 13", "Mile 21", "Mile 25", "Finish 26.2 mi"]
+      },
+      "values": [0, 4.83, 9.66, 11.27, 20.92, 33.80, 40.23, 42.195],
+      "note": {
+        "zh-CN": "累计距离按官方全程 26.2 英里与赛道页英里地标换算（1 mi = 1.609344 km）；官方未发布可提取数值的高程剖面，本图不读取爬升。本站自制图，非官方赛道剖面。",
+        "en": "Cumulative distance follows the official 26.2-mile route and the course page's mile landmarks, converted at 1 mi = 1.609344 km; the organiser publishes no extractable elevation profile, so this chart reads no climb figure. Self-made chart, not an official course profile."
+      }
+    }
+  ]
+}

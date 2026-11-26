@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-leadville-packing-list",
+  "title": "The Ultimate Packing List — Life Time Leadville Trail 100 Run p/b La Sportiva",
+  "url": "https://www.leadvilleraceseries.com/the-ultimate-packing-list-for-the-leadville-trail-100-run-p-b-la-sportiva/",
+  "publisher": "Life Time Leadville Race Series",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The official start-line list includes race kit, beanie or hat, gloves, jacket, race number, sunscreen and lube, watch or other device, bottles or race vest, gels or easily digestible carbs for the first 13 miles, electrolyte capsules, pace/split times, LED headlamp and/or flashlight, spare light, buff/bandana, toilet paper or baby wipes, essential medication/inhaler, and ID and emergency contact info.",
+    "The official pacer list includes LED headlamp and/or flashlight, handheld bottles or race vest, snacks, pace/split times, jacket, hat, gloves, basic medical kit, cell phone and space blanket.",
+    "Drop bags are not prepared for Hope Pass; basic drop-bag contents include upset-stomach kit, electrolyte capsules, backup food, dry socks and running kit, safety pins, anti-chafing cream, sunscreen, insect repellent, blister kit, toilet paper, essential medication and a bag for wet items.",
+    "The Twin Lakes outbound drop bag should add dry socks and running kit, a hooded windbreaker, polypro or wool socks, hat, gloves and a special treat for the Hope Pass climb; the Winfield turnaround bag should add a headlamp/flashlight packed for the worst-case finish time, spare light and dry shoes.",
+    "Drop bags use thick clear plastic bags (XL Ziploc is one option), labeled with white tape and a black Sharpie in big letters with name, race number, aid station and inbound/outbound; liquids go in leak-proof non-breakable containers."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官方打包清单页正文",
+    "note": "2026-11-25 复核：读取 Start Line List、Pacer List、Basic Drop Bag List、各站增补清单与打包规范段。清单为官方建议装备，不等同于强制装备检查清单。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "For the Start Line 列表逐项核对。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "The Pacer List 列表逐项核对。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Hope Pass Outbound/Inbound 标注 No drop bag；Basic drop bag contents 列表。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Twin Lakes Outbound 与 Winfield Turnaround 增补清单；Winfield 灯按最坏完赛时间准备。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "For Your Drop Bags 段：thick clear plastic、white tape + black Sharpie、大写字样、leak-proof non-breakable liquids。" }
+  ]
+}

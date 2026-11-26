@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-seoul-results-2024-wa",
+  "title": "World Athletics results — Seoul Marathon, 17 MAR 2024 (94th Dong-A)",
+  "url": "https://worldathletics.org/competition/calendar-results/results/7207591",
+  "publisher": "World Athletics",
+  "publishedAt": "2024-03-17",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The WA result page records the race on 17 MAR 2024 in Seoul (KOR).",
+    "Men's Marathon winner: Jemal MEKONEN (ETH), 2:06:08; runner-up Rhonzas Lokitam KILIMO (KEN), 2:06:09.",
+    "Women's Marathon winner: Fikrte WERETA (ETH), 2:21:32; runner-up Desi Jisa MOKONIN (BRN), 2:22:19."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 WA competition 7207591 名次表",
+    "note": "男子、女子名次表冠军与亚军成绩逐条核对。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Seoul (KOR) 17 MAR 2024" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Men 1 Jemal MEKONEN ETH 2:06:08；2 Rhonzas Lokitam KILIMO KEN 2:06:09" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Women 1 Fikrte WERETA ETH 2:21:32；2 Desi Jisa MOKONIN BRN 2:22:19" }
+  ]
+}

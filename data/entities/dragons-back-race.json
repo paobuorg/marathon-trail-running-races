@@ -1,0 +1,76 @@
+{
+  "entityId": "route:dragons-back-race",
+  "slug": "dragons-back-race",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-dbr-home-2027",
+    "route-dbr-enter-2026",
+    "route-dbr-results-2026",
+    "route-dbr-ourea-legacy",
+    "route-dbr-goatmaps-2027",
+    "route-dbr-runultra-2026",
+    "route-dbr-harrier-2026",
+    "route-dbr-endurance-2026",
+    "route-dbr-faq-ultrax",
+    "route-dbr-weather-openmeteo",
+    "route-dbr-itra-2026",
+    "route-anchor-editorial"
+  ],
+  "relatedRefs": [
+    "knowledge:trail-navigation",
+    "knowledge:uphill-and-downhill",
+    "knowledge:trail-gear",
+    "knowledge:post-race-recovery",
+    "tool:route-elevation"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "trail-mountain",
+    "countryCodes": [
+      "GB"
+    ],
+    "placeName": {
+      "zh-CN": "威尔士康威至加的夫（英国）",
+      "en": "Conwy to Cardiff, Wales, UK"
+    },
+    "mapAnchor": {
+      "longitude": -3.82612,
+      "latitude": 53.28003,
+      "kind": "overview",
+      "sourceRef": "route-anchor-editorial"
+    },
+    "courseVersion": "2026-dragons-back-race-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [
+      {
+        "edition": "2026",
+        "observedAt": "2026-09-12",
+        "field": "course",
+        "change": "new-course",
+        "sourceRef": "route-dbr-endurance-2026",
+        "note": {
+          "zh-CN": "2026 年起赛事首次设置单一强制路线，选手在检查点之间不再自由选线。",
+          "en": "Starting 2026 the organisers set a single mandatory route between checkpoints."
+        }
+      }
+    ],
+    "direction": "Point-to-point, north to south: Conwy Castle (North Wales) to Cardiff Castle (South Wales), six consecutive stages across the Carneddau, Glyderau, Snowdon massif, Moelwynion/Rhinogydd, Cadair Idris, Cambrian Mountains, Elan Valley and the Bannau Brycheiniog/Black Mountains.",
+    "distanceMeters": 380000,
+    "distanceMethod": "Official home page states 380 km over six days; this card records the full race total. Per-stage distances are not published on a single official table this round, so no `details.stages` array is written: compiled stage figures from third-party guides appear only in the body table and must not be parsed as official stage mileage. ITRA measured the 2026 edition at 384 km; that measured value is noted separately and is not averaged into the official 380 km figure.",
+    "elevationGainMeters": 16400,
+    "elevationMethod": "Official home page states 16,400 m of ascent for the Full Dragon. The legacy Ourea events page quoted an older 17,400 m figure for a prior edition, and ITRA's 2026 measurement recorded 16,078 m; both are noted separately and are not averaged with the official figure.",
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "Dragon's Back Race / Ultra X. Registered entrants receive a GPX file of the route and checkpoint locations through the event platform in advance, but no public GPX/KML download URL was located this round; no track is hosted, mirrored or redrawn by this site. Map anchor coordinates are an editorial overview position for Conwy, not a verified start-line precision fix."
+  }
+}

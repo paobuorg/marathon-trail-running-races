@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-everest-registration",
+  "title": "Registration & Payment — official English registration page (forms, deposit, medical certificate)",
+  "url": "https://everestmarathon.com/registration-payment",
+  "publisher": "Tenzing Hillary Everest Marathon (event organiser, Kathmandu)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The mandatory Registration, KYC, Medical and Credit Card forms must be prepared and sent before 30 April 2027 to reserve a place, emailed to info.guys@EverestMarathon.com.",
+    "Signing up only saves a spot; an amount of USD 500 is required to confirm the place, and this amount is non-refundable.",
+    "The Medical Form requires a medical certificate from the runner's doctor stating that the runner is healthy, free of injury, and comfortable at high altitudes.",
+    "Payment can be made by Visa or MasterCard, bank draft, or bank wire transfer.",
+    "Event Director is Mr. Shikhar Pandey, based in Kathmandu (+977 985 111 333), Shikhar@EverestMarathon.com; country coordinators are listed on the page."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 Registration & Payment 页正文",
+    "note": "页面同时提供在线 Sign Up 与可填写 PDF 表单两条通道。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "Sign Up Process 段：forms sent BEFORE 30TH APRIL 2027，邮件 info.guys@EverestMarathon.com。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Note 段：USD 500 required to confirm a place, non-refundable。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "Medical Form 段：healthy, free of injury, comfortable at high altitudes。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "Credit Card Form 段：Visa/MasterCard, Bank Draft, Bank Wire Transfer。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "Contacts 段：Event Director Shikhar Pandey，电话与邮箱，各国协调人列表。" }
+  ]
+}

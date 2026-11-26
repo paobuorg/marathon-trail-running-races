@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-beijing-2026-finish-area",
+  "title": "2026北京马拉松收官，3.2万名选手跑进奥林匹克中心区（朝阳区政府/奥管委）",
+  "url": "http://www.bjchy.gov.cn/dynamic/news/4028805aa0e8374401a1587a4e8c5917.html",
+  "publisher": "北京市朝阳区人民政府（北京奥林匹克中心区管理委员会）",
+  "publishedAt": "2026-10-20",
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The final section enters the Olympic Central Area: runners pass the north road of the National Speed Skating Oval, run through its internal road, and exit via the oval's south road.",
+    "The route then passes the National Tennis Center Diamond Court, follows the outer edge of the Olympic Forest Park, and joins the central Landscape Avenue via Datun North Road, Hujing East Road and Datun Road.",
+    "The finishing straight has the National Aquatics Center (Water Cube) on the west side and the National Stadium (Bird's Nest) on the east side, with the finish arch on the Landscape Avenue.",
+    "Li Dalin ran 2:08:30, fourth overall and the leading Chinese man, setting a PB by nearly three minutes.",
+    "The finishing-area host authority deployed more than 610 safeguard staff on fixed posts and handover segments."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 bjchy.gov.cn 部门动态稿全文，含终点段场馆顺序、李大林名次与属地保障人数",
+    "note": "2026-10-20 16:39 发布；路线描述为终点属地视角，不据此反推全程里程。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "速滑馆北路进入内部路，速滑馆南路穿出。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "网球中心钻石球场；奥林匹克森林公园外缘；大屯北路、湖景东路、大屯路汇入北中轴景观大道。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "最后直道西侧水立方、东侧鸟巢，终点拱门在景观大道。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "李大林 2:08:30 全场第四、国内男子第一，PB 近 3 分钟。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "终点属地投入保障人员 610 余人，定点值守、分段衔接。" }
+  ]
+}

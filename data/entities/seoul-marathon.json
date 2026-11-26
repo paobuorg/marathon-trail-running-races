@@ -1,0 +1,71 @@
+{
+  "entityId": "route:seoul-marathon",
+  "slug": "seoul-marathon",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-seoul-2027-outline",
+    "route-seoul-2027-overseas-entry",
+    "route-seoul-2027-rules",
+    "route-seoul-2027-faq",
+    "route-seoul-2027-record-submission",
+    "route-seoul-2027-domestic-entry",
+    "route-seoul-2027-groups",
+    "route-seoul-2026-venue-layout",
+    "route-seoul-2026-start-time",
+    "route-seoul-2026-closing",
+    "route-seoul-results-2026-wa",
+    "route-seoul-results-2025-wa",
+    "route-seoul-results-2024-wa",
+    "route-seoul-traffic-2026",
+    "route-seoul-weather",
+    "route-seoul-asian-dust",
+    "route-seoul-entry-visa",
+    "route-seoul-landmarks",
+    "route-anchor-editorial"
+  ],
+  "relatedRefs": [
+    "knowledge:cold-weather-running",
+    "knowledge:air-quality-and-running",
+    "knowledge:jet-lag-and-race-travel",
+    "tool:race-predict",
+    "route:tokyo"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "road-marathon",
+    "countryCodes": [
+      "KR"
+    ],
+    "placeName": {
+      "zh-CN": "韩国首尔",
+      "en": "Seoul, South Korea"
+    },
+    "mapAnchor": {
+      "longitude": 126.9769,
+      "latitude": 37.5759,
+      "kind": "overview",
+      "sourceRef": "route-anchor-editorial"
+    },
+    "courseVersion": "2027-seoul-marathon-official-course",
+    "courseEdition": "2027",
+    "courseStatus": "unknown",
+    "courseChanges": [],
+    "direction": "Point-to-point from Gwanghwamun Square to the Jamsil Sports Complex",
+    "distanceMeters": 42195,
+    "distanceMethod": "Official full marathon distance 42.195 km; the domestic record-submission form names 풀코스 42.195 km; World Athletics Platinum Label road race.",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "The Dong-A Ilbo / Seoul Marathon Organizing Committee"
+  }
+}

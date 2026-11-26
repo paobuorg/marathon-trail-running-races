@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-seoul-asian-dust",
+  "title": "Korea Meteorological Administration — yellow dust (Asian dust) action guide and information",
+  "url": "https://www.kma.go.kr/w/hazard/safety-guide/asiandust.do",
+  "publisher": "Korea Meteorological Administration (KMA)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The main source regions affecting Korea are the Gobi Desert and Inner Mongolian Plateau; about 50% arrive directly from the Gobi/Inner Mongolia region, 14% via the northeast China desert zone and 17% via the Loess Plateau, so Gobi/Inner Mongolia-origin dust accounts for about 81%.",
+    "A yellow dust alert is issued when PM10 at or above 800 µg/m3 is expected to persist for at least two hours; on a dust day, KMA advises wearing a mask and protective glasses outdoors, closing windows, and keeping the elderly and people with respiratory conditions indoors.",
+    "Yellow dust particles are typically 1–10 µm soil particles, distinct from fine dust (PM10/PM2.5, mostly carbon or ions); KMA handles yellow dust while the Ministry of Environment handles fine dust forecasts."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 KMA 黄砂行为指南页正文",
+    "note": "发源地比例、特报基准、防护要点与黄砂/미세먼지分工在页面正文中可读。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "고비·내몽골 50%；중국 북동 사막 경유 14%；황토고원 경유 17%；합계 81%" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "황사경보 PM-10 800µg/m³ 이상 2시간 이상；마스크·보안경 착용, 창문 닫기, 호흡기 질환자 실내" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "황사 1~10µm 토양성분；미세먼지 PM-10/PM-2.5 탄소·이온；소관부처 기상청 / 환경부" }
+  ]
+}

@@ -259,12 +259,58 @@ Open-Meteo 的 Big Bear Lake 村历史数据（2015–2025 年 10 月 9–10 日
 
 这是 2,000 米级别的湖村网格，不是 Sugarloaf 山顶（9,995 英尺）或 high desert 段。10 月夜间的山顶可以接近或低于 0 °C，白天在暴露的 high desert 段又可以很热；起跑 13:00 的 100M 会经历完整的昼夜转换，头灯、保暖层与防晒都要带。
 
+## 装备与规则：高海拔山地与昼夜温差
+
+官方 mandatory kit 清单本轮未在已读页面取得，逐项强制装备标 unknown；本页不编造官方清单，出发前以当届官方跑者指南为准。可核的场景边界是：100M 周五 13:00 起跑、36 小时，跨夜间与次日凌晨；地形跨 high desert、sub alpine 与 semi-arid 三种气候，Sugarloaf 山顶约 9,995 英尺（约 3,046 m），昼夜温差与风都需要分层准备。
+
+| 类别 | 本站场景 | 出发前检查 | 边界 |
+| --- | --- | --- | --- |
+| 头灯与备用电源 | 36 小时赛程跨夜段 | 主灯、备用电池或灯、固定与线路 | 是否列为强制以官方清单为准 |
+| 分层穿着 | 高海拔夜间凉、白天 desert 晒 | 防风保暖层、透气短袖、可收纳外套 | 本站不推荐具体型号 |
+| 鞋与腿套 | 单 track、碎石与滑雪区路段 | 抓地力、后跟固定、长距离磨合 | 新鞋先在长距离上试 |
+| 补水与补给 | high desert 段日照强、站点间隔不等 | 携水量、电解质与能量补给策略 | 两站之间自备，不依赖未列站点 |
+| 防晒与帽 | desert 与开阔山脊 | 帽子、防晒霜、墨镜、唇膏 | 高海拔与暴露段需重复补涂 |
+| 号码布与计时 | 全程可见、退赛交芯片/号码布 | 固定位置、芯片状态 | 退赛按官方指示交件 |
+
+通用山地越野装备框架见 [越野装备](/knowledge/trail-gear/)；高海拔适应见 [高海拔与跑步](/knowledge/altitude-and-running/)；装备重量权衡见 [装备减重工具](/tools/gear-weight-planner/)。罚则、缺件处置与 pacer 规则以当届官方规则为准，本页不补未读条款。
+
 ## 撤退与风险
 
 - **可撤退/可进 crew 的点**：起点、Doble Camp 1、Doble Camp 2、Sugarloaf 1、Sugarloaf 2、Bear Mountain、Snow Summit、终点；Cactus Flats 的 crew/pacer 在 2026 已取消，属服务变化，不是改线。
 - **pacer**：Doble Camp 2 起可接 pacer；Sugarloaf 1/2、Bear Mountain、Snow Summit 也有 pacer 点。具体 2027 规则未发布，按 2026 表读。
 - **风险**：100M 的 high desert 段暴露、Sugarloaf 两次登顶、夜间山顶低温、以及 7,000 英尺以上的持续起伏。官方没有给逐段技术分级，本页不写“官方难度等级”。
 - **退赛**：在补给站找站长，按官方指示交芯片/号码布；Doble Camp 1/2 无停车，自行撤离不方便，退赛前先问清接驳。官方没有公布统一收容政策，按 unknown 记。
+
+## 训练转化：36 小时山地多日耐力备赛
+
+Kodiak 100M 的难点是绕 Big Bear Valley 整圈、161 km、约 4,876 m 反复上下，两次经过 Sugarloaf 一带，以及 36 小时跨夜疲劳。备赛核心是超长距离山地耐受、夜间节奏与海拔适应，而不是单纯堆平路跑量。通用方法见 [越野超马训练计划](/knowledge/trail-ultra-training-plan/)、[长距离补给](/knowledge/long-run-fueling/)、[恢复日安排](/knowledge/recovery-day/) 与 [负荷与过度训练](/knowledge/load-and-overtraining/)。
+
+| 备赛阶段 | 重点 | 可执行内容 | 对应本站约束 |
+| --- | --- | --- | --- |
+| T-20 至 T-14 周 | 山地有氧底盘 | 每周 1 次山地长距离加轻松跑，累计爬升逐步到 2,000 m/周 | 绕谷整圈需要稳定有氧基础 |
+| T-14 至 T-8 周 | 长距离与爬升积累 | 长距离拉到 80–100 km，安排高海拔山脊与台阶路段演练 | Sugarloaf 一带与 Snow Summit 上下反复 |
+| T-8 至 T-3 周 | 负重自给与跨夜 | 测试携带食物水；安排 1 次跨夜或长时间路段 | 36 小时赛程，夜间与凌晨段需节奏控制 |
+| T-3 至比赛 | 减量 | 缩短距离与爬升，保留短节奏；不试新鞋新装备 | 赛前疲劳留到赛前恢复，参考 [减量与力量](/knowledge/strength-and-taper/) |
+
+边界：这是通用备赛框架，不构成医疗建议；有心肺基础疾病或近期伤病者先咨询医生。100M 的 36 小时关门与 100K 的 Western States 18 小时资格线是不同组别、不同规则，不能互相套用。
+
+## 比赛日执行卡：绕谷节奏、夜间站点与 pacer
+
+| 阶段 | 站点窗口（100M） | 节奏与补给 | 检查项 |
+| --- | --- | --- | --- |
+| 起跑—北侧西侧 | 0–26.8 mi（Rim Nordic→Van Dusen） | 压住前半程，不把 high desert 段跑爆 | Camp Whittle 有存包；对照已公布关门 |
+| 高沙漠段 | 33.7–51.4 mi（Doble 1→Cactus Flats） | 注意日照与补水补盐，夜间稳节奏 | Doble Camp 1 有存包与 crew、无停车 |
+| 回山地—Sugarloaf | 55.4–83.0 mi（Doble 2→Sugarloaf 2） | 两次过 Sugarloaf，控制疲劳腿上的爬升 | Doble 2、Sugarloaf 1/2 可接 pacer；存包可用 |
+| 后段—终点 | 89.2–100.1 mi（Bear Mountain→The Village） | Snow Summit 下山后回村终点 | Snow Summit 缆车需另购票；末段不提前松劲 |
+
+| 红旗信号 | 现场处置 | 边界 |
+| --- | --- | --- |
+| 头晕、心慌、视物模糊、胸痛 | 停止前进、求助，必要时呼叫医疗 | 本站不诊断；心脏急症识别与呼救遵循现场急救规范 |
+| 高海拔头痛加重、恶心、失温 | 进站休息、加层，必要时退赛 | 本站不诊断高海拔疾病；医疗评估由现场人员完成 |
+| 夜间视力模糊、头灯故障 | 进站休整、更换装备，必要时退赛 | 夜段无照明继续行进有安全风险 |
+| 到达站点已逼近关门 | 评估后续路段与余量，必要时退赛 | 退赛在补给站报到，按官方指示交号码布/芯片 |
+
+站点利用与 pacer 安排框架见 [crew 与 pacer 规划](/knowledge/crew-and-pacer-planning/)；配速对照见 [配速工具](/tools/pace/) 与 [分段工具](/tools/splits/)。
 
 ## 图片与权利
 
@@ -297,3 +343,10 @@ GPX：官方 2026 100M Final GPX 没有可再分发许可；本页只链接官�
 文字与表格：本站原创，按 CC BY 4.0 发布；引用官方事实时注明来源。
 
 相关页面：[Canyons Endurance Runs by UTMB](/routes/canyons/)、[Western States](/routes/western-states/)、[UTMB](/routes/utmb/)。
+
+<!-- related-ring -->
+## 相关条目
+
+- [Lewa Safari 马拉松：肯尼亚保护区环线赛事全解（2027 届口径）](/routes/lewa-safari-marathon/)
+- [Marathon des Sables Legendary：撒哈拉 270 公里六段赛全解（2026 届记录）](/routes/marathon-des-sables/)
+- [MIUT 马德拉岛超级越野赛：110 公里横穿路线](/routes/miut/)

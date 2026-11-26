@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-dbr-enter-2026",
+  "title": "Enter the race — Dragon's Back Race entry tiers, included services and entrant GPX",
+  "url": "https://www.dragonsbackrace.com/enter",
+  "publisher": "Dragon's Back Race / Ultra X",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The entry page lists a GPX file of the route and checkpoint locations made available in advance to registered entrants.",
+    "The entry includes five nights of tented accommodation at overnight camps, a participant marquee, volunteers and an info point, Dragon Mail message service and shared charging stations at camps.",
+    "The entry includes a bespoke waterproof annotated Harvey map plus a digital version, GPS tracking, digital timing, daily support-point access to the resupply dry bag, and a manned daily water point.",
+    "The organisers transport participants' overnight dry bags to each overnight camp and resupply dry bags to each daily support point; onward transport from the support point is provided if a runner retires.",
+    "Camp catering includes breakfast, finishing snacks and dinner each day, unlimited tea/coffee/hot and cold water, and a celebratory meal on the last night; medical professionals and a mountain rescue response team are available.",
+    "2026 entry pricing was tiered by booking time: Super Early £1,899 with £99 deposit until 31 August, Early Bird £1,999 with £199 deposit through September, Standard £2,099 with £299 deposit from October; a non-refundable deposit is followed by £150/month instalments.",
+    "There is no separate qualifying race on the entry page: participants simply accept the participant declaration on entry; terms and conditions and the deferral/options article must be read before entering."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取官网 Enter 页正文（2026 报名口径）",
+    "note": "2026-11-25 复核：页面当前仍展示 2026 日期与费用；2027 价格以官网后续公告为准。GPX 为报名选手提前获取，非公开下载。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "What's included: A GPX file of the route and checkpoint locations - available in advance。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "While in Camp 段：5 nights tented accommodation, marquee, volunteers, info point, Dragon Mail, charging stations。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "While on the Course 段：Harvey map waterproof annotated + digital, GPS tracking, digital timing, resupply dry bag at support point, manned water point。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "While on the Course / Transportation 段：overnight dry bag and resupply dry bag transport; onward transport if retire。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "Catering 段与 Safety 段：meals, unlimited drinks, final-night meal; doctors/nurses/physios, Mountain Rescue response team。" },
+    { "index": 5, "status": "supported", "checkedAt": "2026-11-25", "note": "Entry Fee 段：Super Early £1,899/£99; Early Bird £1,999/£199; Standard £2,099/£299; £150/month instalments; deposit non-refundable。" },
+    { "index": 6, "status": "supported", "checkedAt": "2026-11-25", "note": "Important information 段：no qualifying race mentioned; accept participant declaration; read terms and deferral article。" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "sourceId": "route-seoul-2027-groups",
+  "title": "2027 Seoul Marathon — start-group assignment bands",
+  "url": "https://en.seoul-marathon.com/88",
+  "publisher": "Seoul Marathon Organizing Committee (The Dong-A Ilbo)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "2027 full-course start-group bands: A 2:00:35–3:11:59; B 3:12:00–3:21:59; C 3:22:00–3:29:59; D 3:30:00–3:39:59; E 3:40:00–3:50:59; F 3:51:00–4:00:59; G 4:01:00–4:20:59; H 4:21:00–4:59:59.",
+    "The Hall of Fame S group precedes the A wave; groups are assigned from the submitted qualifying record."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web.fetch 读取 en.seoul-marathon.com/88 分组表",
+    "note": "A–H 分段成绩区间与 S 组顺序在分组表中可读。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "A 2:00:35–3:11:59 … H 4:21:00–4:59:59 八档区间逐条核对" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "Hall of Fame S 先于 A 出发；按提交成绩分组" }
+  ]
+}

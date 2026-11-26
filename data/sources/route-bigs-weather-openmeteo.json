@@ -1,0 +1,30 @@
+{
+  "sourceId": "route-bigs-weather-openmeteo",
+  "title": "Open-Meteo historical archive — Bell Buckle grid point, 14-21 October 2016-2025",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=35.5986&longitude=-86.4017&start_date=2016-10-14&end_date=2025-10-21&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=America%2FChicago&temperature_unit=fahrenheit",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The requested grid point at 35.5986 N, 86.4017 W returns an elevation of 260 m.",
+    "For 14-21 October 2016-2025 (80 day-samples), daily high temperatures ranged from 49.7 to 87.9 degrees F with a median of 71.6 degrees F.",
+    "Daily low temperatures ranged from 32.9 to 68.8 degrees F with a median of 49.0 degrees F.",
+    "20 of 80 days recorded at least 1 mm of precipitation; 11 of 80 recorded at least 5 mm; the single-day maximum was 28.4 mm.",
+    "These are modelled grid-point values, not measurements taken on the race course."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "PowerShell Invoke-RestMethod 读取 Open-Meteo archive API JSON，按 10 月 14–21 日过滤样本并重算 min/median/max 与降水计数",
+    "note": "2026-11-25 复核：2016–2025 每年 10 月 14–21 日共 80 天；网格点海拔 260 m，与起终点乡村场地接近，但不代表夜间公路段微气候。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "API 顶层 elevation 字段：260 m。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-25", "note": "daily.temperature_2m_max 80 项：重算 min 49.7 / median 71.6 / max 87.9 °F。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "daily.temperature_2m_min 80 项：重算 min 32.9 / median 49.0 / max 68.8 °F。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-25", "note": "daily.precipitation_sum 80 项：≥1mm 20 天，≥5mm 11 天，最大 28.4 mm。" },
+    { "index": 4, "status": "supported", "checkedAt": "2026-11-25", "note": "API 历史再分析数据口径；非赛道实测。" }
+  ]
+}

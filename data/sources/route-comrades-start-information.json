@@ -1,0 +1,28 @@
+{
+  "sourceId": "route-comrades-start-information",
+  "title": "Comrades Start Information — 2026 Up Run start venue, groups and finish",
+  "url": "https://www.comrades.com/start-information",
+  "publisher": "Comrades Marathon Association (CMA)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-22",
+  "claims": [
+    "The official Start Information page identifies the 2026 race as an Up Run starting outside Durban City Hall, over 85.777 km, finishing at the Hollywoodbets Scottsville Racecourse in Pietermaritzburg.",
+    "The 2026 start groups were Group 1 at 05:00, Group 2 at 05:15 and Group 3 at 05:30, with wheelchair participants starting at 04:45.",
+    "The page lists a Start Map diagram for the 2026 start village; this is a start-area diagram, not a full-route map, and no 2027 start grouping has been published there.",
+    "The page does not offer a downloadable GPX or track-reuse licence; route geometry remains an official-link/unavailable item pending the 2027 Final Race Instructions."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-22",
+    "checkedVia": "WebFetch 读取官方 Start Information 页（HTTP 200）；本来源只记录页面上的起终点、分组与 Start Map 图示事实，路线静态图 PDF 由 route-comrades-2026-static-map 来源单独记录",
+    "note": "与 route-comrades-2026-static-map 同属一个官方页面，分工不同：本来源管起终点与分组，静态图 PDF 链接归另一来源。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-22", "note": "页面文字：2026 Up Run、Durban City Hall 外出发、85.777 km、Scottsville Racecourse 终点。" },
+    { "index": 1, "status": "supported", "checkedAt": "2026-11-22", "note": "分组时刻 05:00/05:15/05:30，轮椅 04:45，与 2026 Final Race Instructions 一致。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-22", "note": "页面 Start Map 为起点村示意图；未见 2027 起跑分组。" },
+    { "index": 3, "status": "supported", "checkedAt": "2026-11-22", "note": "页面无 GPX 下载或轨迹许可声明。" }
+  ]
+}

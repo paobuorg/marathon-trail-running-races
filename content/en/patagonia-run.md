@@ -53,6 +53,21 @@ translationStatus: reviewed
 
 All races start at RCM4, and every official start time says “A definir”. “12k” is the race name; the official distance is 13 km, recorded here as published.
 
+## Route segments and GPX geometry
+
+The course runs in Parque Nacional Lanín and surrounding hills and trails, starting at RCM4 (2026 profile 740 m); the 2026 baseline finish is Plaza San Martín (651 m), while the 2027 finish address is pending. The 20-row 2026 baseline PAS/PAEX chain is in the station table under "Distance, gain and time limit"; the table below lists geometry bases only.
+
+| Basis | Distance | Cumulative climb | Elevation |
+|---|---|---|---|
+| 2027 official 100 Millas page (ES/EN agree) | 160.3 km | 9,221 m | not published |
+| 2026 official elevation profile | 160.3 km | D+ 9,221 m | start 740 m, finish 651 m |
+| 2026 guide | same baseline | D+ 9,221 m | approximate high point 1,959 m |
+| 2026 profile named summits | — | — | Cumbre CE Colorado 1,765 m; Quechuquina 1,650 m |
+
+- Official policy: no GPX is provided; navigation follows course markings. This site shows no track and does not rebuild one from text.
+- The 2027 course is based on 2026 and may change; the 2026 values above are a baseline, not a 2027 guarantee.
+- The profile prints no cumulative descent; a D− of about 9,310 m can only be derived arithmetically from 9,221 + (740 − 651) and is not an official figure.
+
 ## Distance, gain and time limit
 
 - The Spanish 100 Millas page and its English version both give **160.3 km / 9,221 m / 42 Horas**. There is no conflict between them, and the card uses these official figures.
@@ -220,6 +235,22 @@ This page therefore takes 2027 dates only from the regulations and the individua
 
 The official destination page gives the access framework: Chapelco airport (CPC) is 22 km from the city centre, about 35 minutes on paved road; Bariloche international airport (BRC) is 190 km away, about three hours via National Route 40 and the Seven Lakes Route. By road the main axes are National Routes 40 and 234, with the Seven Lakes Route linking Villa La Angostura over about 110 km; the main Chilean border crossings are Mamuil Malal and Hua Hum. The page gives an autumn average of 3–18 °C but publishes no race-week daily forecast or official shuttle timetable, so both remain unknown and this page does not substitute third-party bus times.
 
+## Late-April season and weather
+
+The official destination page gives only an autumn average range of 3–18 °C, with no race-day daily weather, precipitation probability or apparent-temperature conversion.
+
+Using the Open-Meteo historical archive for the town grid point (−40.15789 / −71.35337, grid elevation 650 m, timezone America/Argentina/Salta), filtered to 7–11 April 2015–2026, 60 days:
+
+| Statistic | Value (60-day sample) |
+|---|---|
+| Daily maximum temperature | 6.7–27.3 °C, median 16.5 °C |
+| Daily minimum temperature | 3.3–11.7 °C, median 8.1 °C |
+| Precipitation | median 0.0 mm; 17/60 days ≥1 mm, 8/60 days ≥5 mm, max daily 77.8 mm |
+
+- This is a town-grid model historical value, not a trail measurement; the course runs on Lanín National Park trails, and altitude and wind cannot be extrapolated from the town point.
+- Actual weather for 7–11 April 2027 is unknown at the verification date; check the official forecast before the race.
+- The regulations allow rerouting or cut-off changes for weather.
+
 ## Difficulty and who it suits
 
 Editorial judgement, not an official rating:
@@ -228,6 +259,47 @@ Editorial judgement, not an official rating:
 - The course is in Parque Nacional Lanín and the surrounding trails; the organiser describes it as one of South America's most demanding long-distance races. April weather in Patagonia is changeable, and the regulations allow the course or cut-offs to be changed for safety.
 - Entry is by application, requiring 12 ITRA points or an equivalent long-race finish; the organiser positions it as a challenge for experienced runners. It is not a suitable first hundred.
 - Because the organiser publishes no GPX and requires navigation by markings, runners used to following a track for the whole race need to prepare for that difference.
+
+## Training transfer
+
+This is a 100M-class Patagonian high-mountain ultra: 160.3 km with 9,221 m of climb, about 58 m per kilometre. 2027 station cut-offs are not published, so this section does not back-solve pace from stations; it gives condition-oriented training points only.
+
+- Distance and climb: about 58 m per kilometre; long training runs should include sustained mountain climbing and repeated up-and-down. This page does not set weekly mileage, which belongs to an individual plan.
+- Weather adaptation: Patagonian April weather is variable; the town point's daily minimum can sit around 3.3 °C. Prepare for colder conditions at altitude and in wind, and check warm layers against the later official kit list.
+- Navigation: the organiser provides no track and the race follows markings; train to read markings and direction without relying on a GPS route.
+- Self-sufficiency and night: the 42 h limit spans night sections; headlamp battery life, night fueling and rest rhythm need practice beforehand.
+- This page is not a training plan and does not replace a coach or medical assessment.
+
+## Race-day execution card
+
+- Cut-offs: 2027 station cut-offs are not published; the 2026 baseline has eight intermediate cut-offs (Gimnasio, Quechuquina, Nonthue, Lago, Cohíue, Colorado 2, Bayos, Ruta 48) plus the 08:00 finish, all clock times; they cannot be carried over to 2027.
+- Bags: three PAS Total points, one bag each, ≤3 kg per bag; the 100 Millas bag to PAS Colorado may reach 5 kg. Bags are not refrigerated, and the organiser is not responsible for loss.
+- External assistance: one certified assistant at designated points only, certified by the runner at bib pickup; details are in the unreleased 100Mi guide. Any other external assistance means disqualification.
+- Withdrawal: report at a PAS, the start or the finish; course marshals and others elsewhere have no authority to register withdrawal. Crossing the finish after the cut-off counts as an unofficial finisher (FINISHER fuera de clasificación).
+- Kit: the 2027 list is not yet published; the 2026 baseline is two lamps ≥200 lumens, batteries prepared for 30 h, plus whistle, blanket, ≥1.5 L water capacity, personal cup, waste bag and warm layer.
+
+| Branch | Situation | Action |
+|---|---|---|
+| If the 2027 guide arrives late | Station cut-offs undecided | Follow the pre-race technical meeting and later official list; do not carry over 2026 times |
+| If on trail sections at night | Night, cold, wind | Two lamps and spare batteries for 30 h; check warm layers against the mandatory list |
+| If resting at a PAS | Limited bag and aid points | Use the PAS Total bag; bring a personal cup, stations provide no disposable tableware |
+| If withdrawing mid-race | Registration only at PAS/start/finish | Report at the nearest PAS; do not leave the course on your own |
+| If weather turns | Regulations allow reroute or cut-off change | Follow on-site technical direction, markings and official notices |
+
+## Results and course changes
+
+The 2027 100 Millas is scheduled to start on 9 April 2027; the start time is listed "A definir". At the verification date (2026-11-20) the race had not been held, and the materials checked had not published a winner, course record, finisher count or finish rate; this page lists no placings.
+
+| Item | Status |
+|---|---|
+| 2027 winners (men / women) | Not published (race not yet held) |
+| Course record | Not published |
+| Past winners and finish rates | No official edition-by-edition results table obtained; insufficient evidence |
+| Reroute / date change / rule change | Course based on 2026, may change in 2027; `courseChanges` is an empty array |
+
+- Qualifying status: finishing the 2027 race within 42 hours counts toward the 2028 Western States lottery window (2026-11-09 to 2027-11-07); the Hardrock corresponding edition was not verified because the official list was blocked during reading.
+- Earlier edition reroute notes were not obtained this round; this page does not write "no changes ever occurred".
+- After race day, winners and results follow the official results page.
 
 ## Verified and not verified
 
@@ -284,8 +356,16 @@ This page does not host or redraw a GPX. The three photographs are Wikimedia Com
 8. [Western States official qualifying races](https://www.wser.org/qualifying-races/), Western States Endurance Run, 2028 Race Lottery section, accessed 2026-11-09.
 9. [Open-Meteo geocoding](https://geocoding-api.open-meteo.com/v1/search?name=San%20Mart%C3%ADn%20de%20los%20Andes&count=3&language=es&format=json), Open-Meteo, accessed 2026-11-09.
 10. [Official destination page “The Destination”](https://patagoniarun.com/en/el-destino/), Patagonia Run, accessed 2026-11-19.
+10b. [Open-Meteo historical archive](https://archive-api.open-meteo.com/v1/archive): San Martín de los Andes town grid point −40.15789 / −71.35337, daily temperature and precipitation statistics for 7–11 April 2015–2026, accessed 2026-11-26, CC-BY-4.0.
 11. [Official 2026 100 Millas elevation profile (PDF)](https://patagoniarun.com/wp-content/uploads/2026/03/Altimetria_100Millas_2026_15_marzo.pdf), Patagonia Run, 160.3 km / D+ 9,221 m, start 740 m, finish 651 m, highest labelled summit 1,765 m, downloaded and read 2026-11-20; the same page also serves a [2,560×623 JPG](https://patagoniarun.com/wp-content/uploads/2026/03/Altimetria_100Millas_2026-scaled.jpg).
 12. [Official 2026 100Mi Participant Guide (PDF)](https://pr26.b-cdn.net/pdf/PR2026-100MI-V1-ES-2.pdf), Patagonia Run, 24 pages, including the 20-row PAS/PAEX table, eight intermediate cut-offs, kit list and 2026 elevation profiles, accessed and read in full 2026-11-22; 2026 baseline only.
 13. [Commons location photograph, Lácar lake and San Martín de los Andes](https://commons.wikimedia.org/wiki/File:SAN_MARTIN_DE_LOS_ANDES_LACAR.JPG) (Alasmalko, public domain, 2006-03-15).
 14. [Commons location photograph, Lanín volcano and Laguna Huenfuica](https://commons.wikimedia.org/wiki/File:Laguna_Huenfuica_y_Volc%C3%A1n_Lan%C3%ADn.jpg) (Rodrigo Yuraszeck, CC BY-SA 4.0, 2019-01-31). Taken in Villarrica National Park, not on the race course.
 15. [Commons location photograph, Plaza San Martín](https://commons.wikimedia.org/wiki/File:Plaza_San_Mart%C3%ADn%2C_San_Mart%C3%ADn_de_los_Andes%2C_Neuqu%C3%A9n%2C_Argentina.jpg) (Mro77, CC BY-SA 4.0, 2020-02-23). A 2026 finish reference only.
+
+<!-- related-ring -->
+## Related entries
+
+- [Sydney Marathon: the complete 2026 course guide, North Sydney to the Opera House](/en/routes/sydney/)
+- [Tarawera TMiler: 163 km in New Zealand, five distances separated, sixteen timing points and a 2026 GPX linked from a 2027 page](/en/routes/tarawera/)
+- [Torrencial Chile by UTMB: the full Pilolcura 100K course guide (2027)](/en/routes/torrencial-chile/)

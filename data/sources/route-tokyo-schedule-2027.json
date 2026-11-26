@@ -1,0 +1,32 @@
+{
+ "sourceId": "route-tokyo-schedule-2027",
+ "title": "Schedule — Tokyo Marathon 2027",
+ "url": "https://www.marathon.tokyo/en/about/schedule/",
+ "publisher": "Tokyo Marathon Foundation",
+ "publishedAt": null,
+ "accessedAt": "2026-11-26",
+ "claims": [
+  "Runner packet pickup is at Tokyo Big Sight South Exhibition Halls.",
+  "There is no packet pickup on race day; pickup ends on 6 March 2027."
+ ],
+ "license": null,
+ "verification": {
+  "access": "direct",
+  "bodyRead": true,
+  "checkedAt": "2026-11-26"
+ },
+ "claimVerification": [
+  {
+   "index": 0,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "页面表格的 Venue 写 Tokyo Big Sight South Exhibition Halls。"
+  },
+  {
+   "index": 1,
+   "status": "supported",
+   "checkedAt": "2026-11-26",
+   "note": "FAQ 与日程均写明比赛日不设领物；日程最后一天为 3 月 6 日。"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+  "sourceId": "route-bigs-stats-db",
+  "title": "BackyardUltra.com.au course record — Bigs Backyard Ultra Night Course (venue, starters, winners by year)",
+  "url": "https://backyardultra.com.au/course/67",
+  "publisher": "BackyardUltra.com.au results database (third-party)",
+  "publishedAt": null,
+  "accessedAt": "2026-11-25",
+  "claims": [
+    "The recorded Big's venue address is 5111 Millersburg Rd, Bell Buckle, Tennessee, United States, with a listed course elevation of 42 m.",
+    "Per-event starters and results recorded by the database include: 2012 Joe Fejes 28 / Marcy Beard 27, 29 starters; 2013 Tim Englund 35 / Keith Knipling 34, 37 starters; 2014 no winner, 49 yards, 40 starters; 2016 Babak Rastgoufard 29 / Andy Pearson 28, 46 starters; 2017 Guillaume Calmettes 59 / Harvey Lewis 58, 58 starters; 2018 Johan Steene 68 / Courtney Dauwalter 67, 69 starters; 2019 Maggie Guterl 60 / Will Hayward 59, 72 starters; 2021 Harvey Lewis 85 / Chris Roberts 84, 35 starters; 2023 Harvey Lewis 108 / Ihor Verys 107, 75 starters; 2025 Phil Gore 114 / Ivo Steyaert 113, 72 starters.",
+    "The database links a Strava course segment for the venue; no downloadable GPX file URL is published on the page."
+  ],
+  "license": null,
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-25",
+    "checkedVia": "web_fetch 读取 course/67 事件表与地址段",
+    "note": "第三方成绩库：starters 与 assist 圈数与 Wikipedia 表互证；2025 该库记 72 名出发，官网早年快照记 75 人，两处口径并列保留。"
+  },
+  "claimVerification": [
+    { "index": 0, "status": "supported", "checkedAt": "2026-11-25", "note": "页面 Address: 5111 Millersburg Rd, Bell Buckle, Tennessee; Course Elevation 42m。" },
+    { "index": 1, "status": "partial", "checkedAt": "2026-11-25", "note": "事件表逐年 Starters / Yards / Winner / Assist；数据库自行汇总，未与官方成绩页逐条核对。" },
+    { "index": 2, "status": "supported", "checkedAt": "2026-11-25", "note": "页面仅提供 View Course on Strava 链接，未列 GPX 下载地址。" }
+  ]
+}
