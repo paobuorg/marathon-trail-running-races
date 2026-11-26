@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-chongli-168-cl-rules",
+  "title": "崇礼168组竞赛规程",
+  "url": "http://www.chongli-ultra.cn/web/mobile_website_template/#/pages/detail/detail?website_id=9&id=523&type=1",
+  "publisher": "崇礼168组委会",
+  "publishedAt": "2026-01-01",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "崇礼168组里程 172.8 公里、关门 48 小时、ITRA 拟 6 分。",
+    "起点和终点均为庆典广场。",
+    "要求 2025 年 1 月 1 日以后 1 次 100 公里及以上越野赛完赛证书。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 崇礼168组里程 172.8 公里、关门 48 小时、ITRA 拟 6 分。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 起点和终点均为庆典广场。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 要求 2025 年 1 月 1 日以后 1 次 100 公里及以上越野赛完赛证书。"
+    }
+  ]
+}

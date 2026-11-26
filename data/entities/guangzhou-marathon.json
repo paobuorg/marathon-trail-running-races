@@ -1,0 +1,60 @@
+{
+  "entityId": "route:guangzhou-marathon",
+  "slug": "guangzhou-marathon",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-guangzhou-marathon-gz-rules",
+    "route-guangzhou-marathon-gz-sport",
+    "route-guangzhou-marathon-gz-gov",
+    "route-guangzhou-marathon-gz-gd",
+    "route-guangzhou-marathon-gz-official",
+    "route-guangzhou-marathon-gz-route",
+    "guangzhou-marathon-anchor",
+    "guangzhou-marathon-weather",
+    "guangzhou-marathon-method",
+    "guangzhou-marathon-official"
+  ],
+  "relatedRefs": [
+    "knowledge:race-day-pacing",
+    "knowledge:race-day-fueling",
+    "tool:pace"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "road-marathon",
+    "countryCodes": [
+      "CN"
+    ],
+    "placeName": {
+      "zh-CN": "中国广东省广州市",
+      "en": "Guangzhou, Guangdong, China"
+    },
+    "mapAnchor": {
+      "longitude": 113.326,
+      "latitude": 23.14,
+      "kind": "start",
+      "sourceRef": "guangzhou-marathon-anchor"
+    },
+    "courseVersion": "2026-guangzhou-marathon-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [],
+    "direction": "Tianhe Sports Centre South Plaza, Tianhe Road, Tiyu East Road, Xiancun Road, Linjiang Avenue, Pazhou Bridge out-and-back, Linjiang Avenue, Liede Avenue, Huacheng Avenue out-and-back, Liede Bridge, Shuangta Road out-and-back, Modiesha Road, Yuejiang West Road, Yuejiang Middle Road, Pazhou Bridge out-and-back, Binjiang East Road, Yiyuan Road, Yizhou Road, Binjiang West Road, Hongde Road, Renmin Bridge, Xidi 2nd Road, Yanjiang Road, Datong Road, Dizhu Street, Yuetai Road, Tanyue Street, Qingbo Road and Haixinsha.",
+    "distanceMeters": 42195,
+    "distanceMethod": "2026 official regulations and course page give 42.2 km; this page does not average conflicting figures.",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "广州马拉松 2026：一江两岸、四枪起跑与海心沙终点 / Guangzhou Marathon 2026: one river, two banks, four waves and a Haixinsha finish. Race facts from the 2026 official notices and host-city government pages; editorial schematic only, no official track bundled."
+  }
+}

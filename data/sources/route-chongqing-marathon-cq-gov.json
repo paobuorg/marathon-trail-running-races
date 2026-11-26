@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-chongqing-marathon-cq-gov",
+  "title": "2026重庆马拉松激情鸣枪",
+  "url": "https://www.cqna.gov.cn/bm/qrlsbj/sy/dt_59966/202601/t20260119_15330794.html",
+  "publisher": "重庆市南岸区人民政府",
+  "publishedAt": "2026-01-19",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "预报名约 25 万人，创历史新高。",
+    "赛道途经龙门浩老街、慈云寺、钟楼广场、重庆市规划展览馆等南岸地标。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 预报名约 25 万人，创历史新高。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛道途经龙门浩老街、慈云寺、钟楼广场、重庆市规划展览馆等南岸地标。"
+    }
+  ]
+}

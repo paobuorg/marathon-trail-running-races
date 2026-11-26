@@ -1,0 +1,60 @@
+{
+  "entityId": "route:wuxi-marathon",
+  "slug": "wuxi-marathon",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-wuxi-marathon-wx-gov-race",
+    "route-wuxi-marathon-wx-gov-notice",
+    "route-wuxi-marathon-wx-gov-press",
+    "route-wuxi-marathon-wx-gov-ballot",
+    "route-wuxi-marathon-wx-course",
+    "route-wuxi-marathon-wx-gov-review",
+    "route-wuxi-marathon-wx-official",
+    "wuxi-marathon-anchor",
+    "wuxi-marathon-weather",
+    "wuxi-marathon-method"
+  ],
+  "relatedRefs": [
+    "knowledge:race-day-pacing",
+    "knowledge:race-day-fueling",
+    "tool:pace"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "road-marathon",
+    "countryCodes": [
+      "CN"
+    ],
+    "placeName": {
+      "zh-CN": "中国江苏省无锡市",
+      "en": "Wuxi, Jiangsu, China"
+    },
+    "mapAnchor": {
+      "longitude": 120.245,
+      "latitude": 31.516,
+      "kind": "start",
+      "sourceRef": "wuxi-marathon-anchor"
+    },
+    "courseVersion": "2026-wuxi-marathon-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [],
+    "direction": "Taihu Avenue, Hongqiao Road, Zhongnan West Road, Yinxiu Road, Shuanghong Road, Huanhu Road, Jianzhu Road, Shili Fangdi, Yuanzhu Road, Shanshui East Road, Gaolang West Road, Yuandao Road, Zhenze Road, Jiangnan University, Wudu Road, Xincheng Road, Guanshan Road, Lixin Avenue, Jinrong 2nd Street, Fangmiao Road, Xinjinkui Road, Shangxian Road, Hefeng Road, Gonghu Bay Wetland and Qingshu Road to the expo centre.",
+    "distanceMeters": 42195,
+    "distanceMethod": "2026 official regulations and course page give 42.2 km; this page does not average conflicting figures.",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "无锡马拉松 2026：樱花、太湖与 49.5 万人争抢的“PB 赛道” / Wuxi Marathon 2026: cherry blossom, Taihu and a PB course with 495,635 applicants. Race facts from the 2026 official notices and host-city government pages; editorial schematic only, no official track bundled."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "entityId": "route:moganshan-trail",
+  "slug": "moganshan-trail",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-moganshan-trail-mg-rules",
+    "route-moganshan-trail-mg-gov",
+    "route-moganshan-trail-mg-tide",
+    "route-moganshan-trail-mg-cctv",
+    "route-moganshan-trail-mg-news",
+    "moganshan-trail-anchor",
+    "moganshan-trail-weather",
+    "moganshan-trail-method",
+    "moganshan-trail-official",
+    "moganshan-trail-course-map"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:uphill-and-downhill",
+    "tool:track-view"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "CN"
+    ],
+    "placeName": {
+      "zh-CN": "中国浙江省湖州市德清县莫干山镇",
+      "en": "Moganshan, Deqing, Huzhou, Zhejiang, China"
+    },
+    "mapAnchor": {
+      "longitude": 119.883,
+      "latitude": 30.607,
+      "kind": "start",
+      "sourceRef": "moganshan-trail-anchor"
+    },
+    "courseVersion": "2026-moganshan-trail-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [],
+    "direction": "From Yuxin South Street through Moganshan’s bamboo forest, century-old trails, Jianchi, Naked Castle, the Republican-era villas and the town, returning to Zhezhe Yuan. The 100K is the full loop; 70K, 50K, 30K, 20K and 10K shorten it step by step.",
+    "distanceMeters": 99000,
+    "distanceMethod": "2026 official regulations and course page give 99.0 km; this page does not average conflicting figures.",
+    "elevationGainMeters": 5903,
+    "elevationMethod": "100K 5,903 m; 70K and 50K step down, with separate official profiles",
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "凯乐石莫干山跑山赛 2026：竹海、古道与 99 公里的十周年 / Kailas Moganshan Trail 2026: bamboo forest, ancient trails and 99 km in the tenth year. Race facts from the 2026 official notices and host-city government pages; editorial schematic only, no official track bundled."
+  }
+}

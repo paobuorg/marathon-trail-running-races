@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-wuxi-marathon-wx-gov-race",
+  "title": "2026无锡马拉松热力开赛",
+  "url": "https://www.wuxi.gov.cn/doc/2026/03/23/4749309.shtml",
+  "publisher": "无锡市人民政府",
+  "publishedAt": "2026-03-23",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "比赛于 3 月 22 日 07:00 鸣枪。",
+    "起点为太湖大道与隐秀路路口，半程终点为江南大学体育中心，全程终点为无锡太湖国际博览中心。",
+    "赛事总规模 35,000 人。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 比赛于 3 月 22 日 07:00 鸣枪。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 起点为太湖大道与隐秀路路口，半程终点为江南大学体育中心，全程终点为无锡太湖国际博览中心。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛事总规模 35,000 人。"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "sourceId": "guangzhou-marathon-official",
+  "title": "广州马拉松 2026：一江两岸、四枪起跑与海心沙终点 official website",
+  "url": "https://www.guangzhou-marathon.com/",
+  "publisher": "Race organiser",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "The official race website is the authoritative portal for entry, rules and results."
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "URL identified as the event’s official site; used for the portal claim only.",
+    "checkedVia": "general_search result / event page"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "The event site is the entry portal named by the official notices."
+    }
+  ]
+}

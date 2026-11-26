@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-wuxi-marathon-wx-gov-review",
+  "title": "读懂城市：最懂跑者的马拉松，为什么在无锡",
+  "url": "https://www.wuxi.gov.cn/doc/2026/03/24/4751801.shtml",
+  "publisher": "无锡市人民政府",
+  "publishedAt": "2026-03-24",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "49.5 万人报名、3.5 万人开跑。",
+    "无锡马拉松被称为中国马拉松的“福地”和“PB 赛道”。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 49.5 万人报名、3.5 万人开跑。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 无锡马拉松被称为中国马拉松的“福地”和“PB 赛道”。"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-guangzhou-marathon-gz-rules",
+  "title": "2026广汽丰田广州马拉松赛竞赛规程",
+  "url": "https://guangzhou-marathon.com/subject.html?detailId=7810399152331197&topicId=7810378264285980",
+  "publisher": "广州马拉松组委会",
+  "publishedAt": "2026-09-20",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "比赛日期为 2026 年 12 月 20 日。",
+    "起跑时间为 07:00、07:10、07:20、07:30 四枪。",
+    "规模 30,000 人，项目为马拉松 42.195 公里。",
+    "起点天河体育中心，终点海心沙星光大道。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 比赛日期为 2026 年 12 月 20 日。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 起跑时间为 07:00、07:10、07:20、07:30 四枪。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 规模 30,000 人，项目为马拉松 42.195 公里。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 起点天河体育中心，终点海心沙星光大道。"
+    }
+  ]
+}

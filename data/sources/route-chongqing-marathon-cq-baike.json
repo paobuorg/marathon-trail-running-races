@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-chongqing-marathon-cq-baike",
+  "title": "2026重庆马拉松赛事资料",
+  "url": "https://m.baike.com/wiki/2026%E9%87%8D%E5%BA%86%E9%A9%AC%E6%8B%89%E6%9D%BE/7595429383583350819",
+  "publisher": "抖音百科",
+  "publishedAt": "2026-01-15",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "赛事主题为“万马奔腾，渝跑渝爱”。",
+    "全程路线为海棠烟雨公园起终点折返。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛事主题为“万马奔腾，渝跑渝爱”。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 全程路线为海棠烟雨公园起终点折返。"
+    }
+  ]
+}

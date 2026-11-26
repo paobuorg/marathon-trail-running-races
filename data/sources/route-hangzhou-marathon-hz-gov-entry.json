@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-hangzhou-marathon-hz-gov-entry",
+  "title": "2026年杭马报名开启",
+  "url": "https://www.hangzhou.gov.cn/col/col812270/art/2026/art_fca1930c042d4efdb72cc9ded8d8ee89.html",
+  "publisher": "杭州市人民政府",
+  "publishedAt": "2026-06-24",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "赛事于 2026 年 11 月 1 日 07:00 在黄龙体育中心起跑。",
+    "规模 3.6 万人，全程 2.2 万、半程 1.4 万；全程终点为杭州奥体中心体育场，半程终点为市民广场。",
+    "报名 6 月 23 日开启、7 月 15 日截止，新增二次抽签与境外选手通道。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛事于 2026 年 11 月 1 日 07:00 在黄龙体育中心起跑。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 规模 3.6 万人，全程 2.2 万、半程 1.4 万；全程终点为杭州奥体中心体育场，半程终点为市民广场。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 报名 6 月 23 日开启、7 月 15 日截止，新增二次抽签与境外选手通道。"
+    }
+  ]
+}

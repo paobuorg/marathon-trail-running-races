@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-shenzhen-marathon-sz-gov",
+  "title": "2026深马开始报名",
+  "url": "https://wtl.sz.gov.cn/tyfw/tynews/content/post_12992226.html",
+  "publisher": "深圳市文化广电旅游体育局",
+  "publishedAt": "2026-09-21",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "报名 9 月 20 日至 9 月 28 日 17:00。",
+    "比赛 12 月 6 日 07:00 鸣枪，规模 30,000 人。",
+    "赛道经深南大道、沙河西路、深圳湾、宝安大道、前海。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 报名 9 月 20 日至 9 月 28 日 17:00。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 比赛 12 月 6 日 07:00 鸣枪，规模 30,000 人。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛道经深南大道、沙河西路、深圳湾、宝安大道、前海。"
+    }
+  ]
+}

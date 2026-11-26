@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-chongli-168-cl-en-rules",
+  "title": "ChongLi 168 rules",
+  "url": "https://chongli168ultratrail.com/en/information/rules",
+  "publisher": "ChongLi 168",
+  "publishedAt": "2026-07-01",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "Chongli 168 7 月 10 日 08:00 从庆典广场出发。",
+    "Chongli 100 7 月 10 日 20:00/20:30 两枪。",
+    "Xueruyi 70 7 月 11 日 22:00/22:30；Wanlong 50 7 月 11 日 06:00；Yunding 30 7 月 12 日 06:00—08:00。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: Chongli 168 7 月 10 日 08:00 从庆典广场出发。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: Chongli 100 7 月 10 日 20:00/20:30 两枪。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: Xueruyi 70 7 月 11 日 22:00/22:30；Wanlong 50 7 月 11 日 06:00；Yunding 30 7 月 12 日 06:00—08:00。"
+    }
+  ]
+}

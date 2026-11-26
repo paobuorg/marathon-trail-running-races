@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-chaigutangsi-kuocang-cgt-gov-risk",
+  "title": "2026柴古唐斯括苍越野赛项目社会风险评估公示",
+  "url": "https://www.linhai.gov.cn/col/col1229517351/art/2026/art_3b2f708dcf2d5a728fc38bd2f563499c.html",
+  "publisher": "临海市人民政府",
+  "publishedAt": "2026-08-21",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "活动时间为 2026 年 10 月 30 日至 11 月 1 日。",
+    "起终点为兴善门广场，途经古城、江南、括苍、尤溪、永丰五个镇街。",
+    "105K 累计爬升约 6,677 米、关门 28 小时 30 分；50K 约 2,629 米、10 小时 45 分；25K 约 1,034 米、6 小时。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 活动时间为 2026 年 10 月 30 日至 11 月 1 日。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 起终点为兴善门广场，途经古城、江南、括苍、尤溪、永丰五个镇街。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 105K 累计爬升约 6,677 米、关门 28 小时 30 分；50K 约 2,629 米、10 小时 45 分；25K 约 1,034 米、6 小时。"
+    }
+  ]
+}

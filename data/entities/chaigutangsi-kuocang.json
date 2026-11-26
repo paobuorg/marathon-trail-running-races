@@ -1,0 +1,60 @@
+{
+  "entityId": "route:chaigutangsi-kuocang",
+  "slug": "chaigutangsi-kuocang",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-chaigutangsi-kuocang-cgt-gov-risk",
+    "route-chaigutangsi-kuocang-cgt-gov-press",
+    "route-chaigutangsi-kuocang-cgt-sport",
+    "route-chaigutangsi-kuocang-cgt-cmas",
+    "route-chaigutangsi-kuocang-cgt-zj",
+    "route-chaigutangsi-kuocang-cgt-official",
+    "chaigutangsi-kuocang-anchor",
+    "chaigutangsi-kuocang-weather",
+    "chaigutangsi-kuocang-method",
+    "chaigutangsi-kuocang-official"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:uphill-and-downhill",
+    "tool:track-view"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "CN"
+    ],
+    "placeName": {
+      "zh-CN": "中国浙江省台州市临海市",
+      "en": "Linhai, Taizhou, Zhejiang, China"
+    },
+    "mapAnchor": {
+      "longitude": 121.145,
+      "latitude": 28.845,
+      "kind": "start",
+      "sourceRef": "chaigutangsi-kuocang-anchor"
+    },
+    "courseVersion": "2026-chaigutangsi-kuocang-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [],
+    "direction": "From Xingshanmen Square via the Jiangnan Great Wall and Ziyang Old Street into the forested mountains of Kuocang, Youxi and Yongfeng towns, returning on a closed loop to Xingshanmen. The 105K runs through the core Kuocang forests; the 50K and 25K use middle and shorter sections.",
+    "distanceMeters": 105000,
+    "distanceMethod": "2026 official regulations and course page give 105.0 km; this page does not average conflicting figures.",
+    "elevationGainMeters": 6237,
+    "elevationMethod": "105K about 6,237 m; 50K 2,629 m; 25K 1,034 m",
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "柴古唐斯括苍越野赛 2026：临海古城、括苍山与 105 公里的山野环线 / Chaigutangsi Kuocang Trail 2026: Linhai’s old town, the Kuocang mountains and a 105 km loop. Race facts from the 2026 official notices and host-city government pages; editorial schematic only, no official track bundled."
+  }
+}

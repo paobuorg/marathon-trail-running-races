@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-guangzhou-marathon-gz-route",
+  "title": "2026广州马拉松比赛路线",
+  "url": "http://gz.bendibao.com/tour/202691/ly371840.shtml",
+  "publisher": "广州本地宝",
+  "publishedAt": "2026-09-01",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "起点天河体育中心，终点海心沙，全程 42.195 公里。",
+    "赛道贯穿广州“一江两岸”核心区。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 起点天河体育中心，终点海心沙，全程 42.195 公里。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛道贯穿广州“一江两岸”核心区。"
+    }
+  ]
+}

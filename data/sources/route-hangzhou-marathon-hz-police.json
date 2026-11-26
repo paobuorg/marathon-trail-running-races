@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-hangzhou-marathon-hz-police",
+  "title": "2026杭州马拉松交通管理通告",
+  "url": "http://police.hangzhou.gov.cn/col/col1229436763/art/2026/art_8015530e0e8a4a888c8431b0ffbf7331.html",
+  "publisher": "杭州市公安局交通管理支队",
+  "publishedAt": "2026-10-28",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "比赛日为 11 月 1 日，起点为黄龙体育中心及黄龙路。",
+    "全程终点为滨江区奥体中心主体育场，半程终点为上城区波浪文化公园。",
+    "赛道道路清单包括北山街、杨公堤、之江路、老彭埠大桥、闻涛路等。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 比赛日为 11 月 1 日，起点为黄龙体育中心及黄龙路。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 全程终点为滨江区奥体中心主体育场，半程终点为上城区波浪文化公园。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛道道路清单包括北山街、杨公堤、之江路、老彭埠大桥、闻涛路等。"
+    }
+  ]
+}

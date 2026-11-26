@@ -1,0 +1,27 @@
+{
+  "sourceId": "hangzhou-marathon-anchor",
+  "title": "RunUp map-anchor method",
+  "url": "https://paobu.org/about/#method",
+  "publisher": "RunUp",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "Map anchors are editorial overview coordinates, not official start or finish positions."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-26",
+    "note": "Read the public method page; the map-anchor paragraph states the limitation.",
+    "checkedVia": "paobu.org/about/"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "The page says map anchors are not precision declarations of start or finish."
+    }
+  ]
+}

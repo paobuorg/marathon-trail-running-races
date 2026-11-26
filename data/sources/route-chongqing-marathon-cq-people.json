@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-chongqing-marathon-cq-people",
+  "title": "2026重庆马拉松开跑 2.5万名选手参赛",
+  "url": "http://cq.people.com.cn/n2/2026/0118/c365401-41475685.html",
+  "publisher": "人民网重庆频道",
+  "publishedAt": "2026-01-18",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "2026 年 1 月 18 日 08:30 在海棠烟雨公园鸣枪。",
+    "25,000 名选手参赛，起终点均设于海棠烟雨公园。",
+    "赛道沿长江铺展，串联南岸、巴南两区。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 2026 年 1 月 18 日 08:30 在海棠烟雨公园鸣枪。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 25,000 名选手参赛，起终点均设于海棠烟雨公园。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛道沿长江铺展，串联南岸、巴南两区。"
+    }
+  ]
+}

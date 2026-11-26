@@ -1,0 +1,27 @@
+{
+  "sourceId": "chongqing-marathon-official",
+  "title": "重庆马拉松 2026：南滨路折返、长江两岸与 2.5 万人的平坦赛道 official website",
+  "url": "https://www.cqmarathon.com/",
+  "publisher": "Race organiser",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "The official race website is the authoritative portal for entry, rules and results."
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "URL identified as the event’s official site; used for the portal claim only.",
+    "checkedVia": "general_search result / event page"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "The event site is the entry portal named by the official notices."
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-wuxi-marathon-wx-course",
+  "title": "2026锡马赛道图公布",
+  "url": "https://m.thepaper.cn/newsDetail_forward_32788133",
+  "publisher": "澎湃新闻·政务",
+  "publishedAt": "2026-03-18",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "马拉松起点为太湖大道隐秀路路口。",
+    "路线经十里芳堤、鼋渚路、江南大学、贡湖湾湿地，终点为太湖国际博览中心。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 马拉松起点为太湖大道隐秀路路口。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 路线经十里芳堤、鼋渚路、江南大学、贡湖湾湿地，终点为太湖国际博览中心。"
+    }
+  ]
+}

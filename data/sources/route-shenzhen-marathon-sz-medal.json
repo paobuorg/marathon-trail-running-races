@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-shenzhen-marathon-sz-medal",
+  "title": "2026深圳马拉松奖牌和参赛服官宣",
+  "url": "https://m.weibo.cn/detail/5369480691581625",
+  "publisher": "晶报",
+  "publishedAt": "2026-11-26",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "2026 深马赛事发布会于 11 月 26 日举行。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 2026 深马赛事发布会于 11 月 26 日举行。"
+    }
+  ]
+}

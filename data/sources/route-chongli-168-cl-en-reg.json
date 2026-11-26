@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-chongli-168-cl-en-reg",
+  "title": "ChongLi 168 race distances",
+  "url": "https://chongli168ultratrail.com/th/information/registration",
+  "publisher": "ChongLi 168",
+  "publishedAt": "2026-07-01",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "Chongli 168 170.7 km、爬升 8,292 米、关门 48 小时。",
+    "Chongli 100 100.6 km、5,105 米、28 小时。",
+    "Xueruyi 70 72.8 km、3,193 米、19 小时；Wanlong 50 52.1 km、2,448 米、14 小时；Yunding 30 28 km、1,283 米、8 小时。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: Chongli 168 170.7 km、爬升 8,292 米、关门 48 小时。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: Chongli 100 100.6 km、5,105 米、28 小时。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: Xueruyi 70 72.8 km、3,193 米、19 小时；Wanlong 50 52.1 km、2,448 米、14 小时；Yunding 30 28 km、1,283 米、8 小时。"
+    }
+  ]
+}

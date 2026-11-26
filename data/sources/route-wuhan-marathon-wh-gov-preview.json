@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-wuhan-marathon-wh-gov-preview",
+  "title": "2026武汉马拉松22日开跑",
+  "url": "https://www.wuhan.gov.cn/sy/whyw/202603/t20260306_2735992.shtml",
+  "publisher": "武汉市人民政府",
+  "publishedAt": "2026-03-06",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "赛事于 3 月 22 日 07:30 鸣枪。",
+    "赛道首次实现 7 个中心城区全覆盖。",
+    "报名覆盖 60 多个国家和地区、45 万余人；全程 17,000、半程 13,000。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛事于 3 月 22 日 07:30 鸣枪。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛道首次实现 7 个中心城区全覆盖。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 报名覆盖 60 多个国家和地区、45 万余人；全程 17,000、半程 13,000。"
+    }
+  ]
+}

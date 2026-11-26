@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-chengdu-marathon-cd-traffic",
+  "title": "2026成都马拉松交通管控通告",
+  "url": "http://m.toutiao.com/group/7698710197163328034/",
+  "publisher": "锦观新闻",
+  "publishedAt": "2026-10-20",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "全程起点为金沙遗址博物馆。",
+    "全程经人民南路、天府广场、新华大道、一环路、世纪城。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 全程起点为金沙遗址博物馆。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 全程经人民南路、天府广场、新华大道、一环路、世纪城。"
+    }
+  ]
+}

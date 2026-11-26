@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-wuxi-marathon-wx-gov-notice",
+  "title": "2026无锡马拉松交通限制通告",
+  "url": "https://www.wuxi.gov.cn/doc/2026/03/06/4741768.shtml",
+  "publisher": "无锡市人民政府",
+  "publishedAt": "2026-03-06",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "全程路线经十里芳堤、鼋渚路、江南大学、贡湖湾湿地至太湖国际博览中心。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 全程路线经十里芳堤、鼋渚路、江南大学、贡湖湾湿地至太湖国际博览中心。"
+    }
+  ]
+}

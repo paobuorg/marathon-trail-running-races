@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-wuxi-marathon-wx-gov-ballot",
+  "title": "锡马抽签结果公布",
+  "url": "https://www.wuxi.gov.cn/doc/2026/01/06/4746904.shtml",
+  "publisher": "无锡市人民政府",
+  "publishedAt": "2026-01-06",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "全程整体中签率 9.9%。",
+    "A 段 59.2%、C 段 7.3%、D 段 2%。",
+    "全程可抽签名额 24,180 个。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 全程整体中签率 9.9%。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: A 段 59.2%、C 段 7.3%、D 段 2%。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 全程可抽签名额 24,180 个。"
+    }
+  ]
+}

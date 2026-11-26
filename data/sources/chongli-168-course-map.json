@@ -1,0 +1,27 @@
+{
+  "sourceId": "chongli-168-course-map",
+  "title": "Official course map entry",
+  "url": "https://chongli-ultra.cn",
+  "publisher": "Race organiser",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "The official course map is the route authority; this site does not bundle a track."
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Course-map entry on the official site; no local copy is stored.",
+    "checkedVia": "official event page"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Official event pages publish the course map."
+    }
+  ]
+}

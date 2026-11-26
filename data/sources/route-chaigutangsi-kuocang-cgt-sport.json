@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-chaigutangsi-kuocang-cgt-sport",
+  "title": "2026柴古唐斯括苍越野赛圆满落幕",
+  "url": "http://www.sport.gov.cn/dszx/n5415/c30142393/content.html",
+  "publisher": "国家体育总局",
+  "publishedAt": "2026-11-01",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "6,413 名选手来自 34 个国家和地区。",
+    "105K、50K、25K 累计爬升分别为 6,237 米、2,629 米、1,034 米。",
+    "105K 关门时间调整至 28.5 小时。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 6,413 名选手来自 34 个国家和地区。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 105K、50K、25K 累计爬升分别为 6,237 米、2,629 米、1,034 米。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 105K 关门时间调整至 28.5 小时。"
+    }
+  ]
+}

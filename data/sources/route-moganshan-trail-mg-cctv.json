@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-moganshan-trail-mg-cctv",
+  "title": "2026凯乐石莫干山跑山赛十周年",
+  "url": "http://big5.cctv.com/gate/big5/sports.cctv.com/2026/10/27/ARTI767YvPG0xzW71WclA9ba261027.shtml",
+  "publisher": "央视网",
+  "publishedAt": "2026-10-27",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "赛事设 100、70、50、30、20、10 公里七个组别。",
+    "赛道穿行竹海、剑池飞瀑、裸心堡与民国别墅群。",
+    "女性跑者占比超过 42%。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛事设 100、70、50、30、20、10 公里七个组别。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛道穿行竹海、剑池飞瀑、裸心堡与民国别墅群。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 女性跑者占比超过 42%。"
+    }
+  ]
+}

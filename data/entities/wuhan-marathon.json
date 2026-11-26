@@ -1,0 +1,74 @@
+{
+  "entityId": "route:wuhan-marathon",
+  "slug": "wuhan-marathon",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-wuhan-marathon-wh-gov-traffic",
+    "route-wuhan-marathon-wh-gov-preview",
+    "route-wuhan-marathon-wh-gov-course",
+    "route-wuhan-marathon-wh-news-pdf",
+    "route-wuhan-marathon-wh-official",
+    "route-wuhan-marathon-wh-bendibao",
+    "wuhan-marathon-anchor",
+    "wuhan-marathon-weather",
+    "wuhan-marathon-method",
+    "wuhan-marathon-official"
+  ],
+  "relatedRefs": [
+    "knowledge:race-day-pacing",
+    "knowledge:race-day-fueling",
+    "tool:pace"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "road-marathon",
+    "countryCodes": [
+      "CN"
+    ],
+    "placeName": {
+      "zh-CN": "中国湖北省武汉市",
+      "en": "Wuhan, Hubei, China"
+    },
+    "mapAnchor": {
+      "longitude": 114.303,
+      "latitude": 30.595,
+      "kind": "start",
+      "sourceRef": "wuhan-marathon-anchor"
+    },
+    "courseVersion": "2026-wuhan-marathon-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [
+      {
+        "edition": "2026",
+        "observedAt": "2026-03-06",
+        "field": "finish",
+        "change": "route-refined",
+        "from": "East Lake area",
+        "to": "Qingshan Riverside",
+        "sourceRef": "route-wuhan-marathon-wh-gov-preview",
+        "note": {
+          "zh-CN": "2026 年全程终点调整至青山江滩，青山区首次进入汉马赛道；35 公里后改道白马道、飞雁路。",
+          "en": "The 2026 full finish moved to Qingshan Riverside, bringing Qingshan into the course for the first time; after 35 km the route changed to Baima Dao and Feiyan Road."
+        }
+      }
+    ],
+    "direction": "Sanyang Road, Yanjiang Avenue, Nanjing Road, Zhongshan Avenue, Wusheng Road, Jianghan Bridge, Yingwu Avenue, Guishan South Road, the Yangtze Bridge, Yellow Crane Tower South Road, Pengliuyang Road, Linjiang Avenue out-and-back, Xinsheng Road, Youyi Avenue, Shahu Bridge, Chuhan Road, Donghu Road, Bailu Street, Tian’e Road, Donghu South Road, the East Lake greenway, Feiyan Road out-and-back, Huanle Avenue, Renhe Road, Youyi Avenue, Jianshe 3rd Road and Qingshan Riverside.",
+    "distanceMeters": 42195,
+    "distanceMethod": "2026 official regulations and course page give 42.2 km; this page does not average conflicting figures.",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "武汉马拉松 2026：长江大桥、东湖绿道与青山江滩的七区连线 / Wuhan Marathon 2026: the Yangtze Bridge, East Lake greenway and a Qingshan finish. Race facts from the 2026 official notices and host-city government pages; editorial schematic only, no official track bundled."
+  }
+}

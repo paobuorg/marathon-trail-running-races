@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-wuhan-marathon-wh-gov-traffic",
+  "title": "关于2026武汉马拉松期间交通管理的通告",
+  "url": "https://www.wuhan.gov.cn/zwgk/tzgg/202603/t20260317_2741341.shtml",
+  "publisher": "武汉市人民政府",
+  "publishedAt": "2026-03-18",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "比赛于 3 月 22 日举行，全程关门 6 小时。",
+    "起点为江岸区沿江大道三阳路口东侧，半程终点为武昌书卷路省图书馆东侧，全程终点为青山江滩。",
+    "全程路线经长江大桥、黄鹤楼、东湖绿道、青山江滩。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 比赛于 3 月 22 日举行，全程关门 6 小时。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 起点为江岸区沿江大道三阳路口东侧，半程终点为武昌书卷路省图书馆东侧，全程终点为青山江滩。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 全程路线经长江大桥、黄鹤楼、东湖绿道、青山江滩。"
+    }
+  ]
+}

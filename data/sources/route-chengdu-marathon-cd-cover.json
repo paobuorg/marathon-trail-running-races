@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-chengdu-marathon-cd-cover",
+  "title": "2026成都马拉松公布比赛路线",
+  "url": "https://cbgc.scol.com.cn/news/7982763",
+  "publisher": "川观新闻",
+  "publishedAt": "2026-09-22",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "前 6 公里串联杜甫草堂、四川博物院、青羊宫、琴台路。",
+    "成华区折返点缩短至双林北横路，城南改走下穿隧道。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 前 6 公里串联杜甫草堂、四川博物院、青羊宫、琴台路。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 成华区折返点缩短至双林北横路，城南改走下穿隧道。"
+    }
+  ]
+}

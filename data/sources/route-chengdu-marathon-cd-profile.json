@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-chengdu-marathon-cd-profile",
+  "title": "2026成马赛道海拔与路线优化",
+  "url": "http://m.toutiao.com/group/7698317292060394038/",
+  "publisher": "四川观察",
+  "publishedAt": "2026-10-19",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "全程海拔在 470 米至 505 米之间。",
+    "前 10 公里有温和起伏，10 公里后总体下降。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 全程海拔在 470 米至 505 米之间。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 前 10 公里有温和起伏，10 公里后总体下降。"
+    }
+  ]
+}

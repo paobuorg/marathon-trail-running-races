@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-wuhan-marathon-wh-gov-course",
+  "title": "武汉马拉松最美赛道",
+  "url": "https://www.wuhan.gov.cn/ztzl/sszx/ssxw/202603/t20260312_2739160.shtml",
+  "publisher": "武汉市人民政府",
+  "publishedAt": "2026-03-12",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "全程 42.195 公里，半程 21.0975 公里。",
+    "起点为汉口沿江大道三阳路口，全程终点为青山江滩，半程终点为书卷路省图书馆东侧。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 全程 42.195 公里，半程 21.0975 公里。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 起点为汉口沿江大道三阳路口，全程终点为青山江滩，半程终点为书卷路省图书馆东侧。"
+    }
+  ]
+}

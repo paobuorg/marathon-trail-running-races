@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-chongqing-marathon-cq-rules",
+  "title": "2026长安汽车重庆马拉松竞赛规程",
+  "url": "https://www.cqmarathon.com/News/Detail/DE6BD823E7851A88",
+  "publisher": "重庆马拉松组委会",
+  "publishedAt": "2025-08-13",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "比赛时间为 2026 年 1 月 18 日 08:30。",
+    "比赛地点为重庆市南滨路、巴滨路。",
+    "全程 42.195 km、25,000 人；迷你跑 5 km、10,000 人。",
+    "全程起终点均为海棠烟雨公园。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 比赛时间为 2026 年 1 月 18 日 08:30。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 比赛地点为重庆市南滨路、巴滨路。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 全程 42.195 km、25,000 人；迷你跑 5 km、10,000 人。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 全程起终点均为海棠烟雨公园。"
+    }
+  ]
+}

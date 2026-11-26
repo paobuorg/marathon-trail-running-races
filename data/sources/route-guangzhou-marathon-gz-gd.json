@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-guangzhou-marathon-gz-gd",
+  "title": "2026广州马拉松赛启动报名",
+  "url": "http://www.gd.gov.cn/gdywdt/dsdt/content/mpost_4950667.html",
+  "publisher": "广东省人民政府",
+  "publishedAt": "2026-09-03",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "赛事于 12 月 20 日 07:00 起跑。",
+    "报名人数超出名额后采用抽签。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛事于 12 月 20 日 07:00 起跑。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 报名人数超出名额后采用抽签。"
+    }
+  ]
+}

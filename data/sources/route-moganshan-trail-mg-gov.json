@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-moganshan-trail-mg-gov",
+  "title": "十年铸就“户外天堂”金名片",
+  "url": "http://www.deqing.gov.cn/col/col1229212607/art/2026/art_681a2b4e032a4530a4be294052e533ba.html",
+  "publisher": "德清县人民政府",
+  "publishedAt": "2026-10-26",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "2026 年 10 月 23 日至 25 日举行。",
+    "1.5 万名跑者参赛，100km 组 10 月 23 日 18:00 出发。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 2026 年 10 月 23 日至 25 日举行。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 1.5 万名跑者参赛，100km 组 10 月 23 日 18:00 出发。"
+    }
+  ]
+}

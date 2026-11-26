@@ -1,0 +1,60 @@
+{
+  "entityId": "route:chongli-168",
+  "slug": "chongli-168",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-chongli-168-cl-home",
+    "route-chongli-168-cl-rules",
+    "route-chongli-168-cl-en-rules",
+    "route-chongli-168-cl-en-reg",
+    "route-chongli-168-cl-people",
+    "chongli-168-anchor",
+    "chongli-168-weather",
+    "chongli-168-method",
+    "chongli-168-official",
+    "chongli-168-course-map"
+  ],
+  "relatedRefs": [
+    "knowledge:long-run-fueling",
+    "knowledge:uphill-and-downhill",
+    "tool:track-view"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "trail-ultra",
+    "countryCodes": [
+      "CN"
+    ],
+    "placeName": {
+      "zh-CN": "中国河北省张家口市崇礼区",
+      "en": "Chongli, Zhangjiakou, Hebei, China"
+    },
+    "mapAnchor": {
+      "longitude": 115.283,
+      "latitude": 40.976,
+      "kind": "start",
+      "sourceRef": "chongli-168-anchor"
+    },
+    "courseVersion": "2026-chongli-168-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [],
+    "direction": "From Celebration Square through Genting, Wanlong, Taiwoo, Xueruyi and the other core ski areas and Olympic venues, looping through the Chongli mountains back to Celebration Square. Chongli 168 is a closed loop with 80% natural trail.",
+    "distanceMeters": 170700,
+    "distanceMethod": "2026 official regulations and course page give 170.7 km; this page does not average conflicting figures.",
+    "elevationGainMeters": 8292,
+    "elevationMethod": "Chongli 168 8,292 m; Chongli 100 5,105 m; Xueruyi 70 3,193 m; Wanlong 50 2,448 m; Yunding 30 1,283 m",
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "崇礼168 2026：冬奥雪场、山野路径与 170.7 公里的 48 小时 / Chongli 168 2026: Olympic ski slopes, mountain trails and 170.7 km in 48 hours. Race facts from the 2026 official notices and host-city government pages; editorial schematic only, no official track bundled."
+  }
+}

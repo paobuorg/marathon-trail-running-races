@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-chongli-168-cl-people",
+  "title": "2026崇礼168超级越野赛7月10日开跑",
+  "url": "http://he.people.com.cn/n2/2026/0710/c192235-41635740.html",
+  "publisher": "人民网河北频道",
+  "publishedAt": "2026-07-10",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "崇礼168组 170.7 公里、累计爬升 8,292 米、关门 48 小时。",
+    "赛道串联7大冬奥地标，80%为天然山野路径。",
+    "赛事设崇礼100、雪如意70、太舞团体、万龙50、云顶30等组别。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 崇礼168组 170.7 公里、累计爬升 8,292 米、关门 48 小时。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛道串联7大冬奥地标，80%为天然山野路径。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛事设崇礼100、雪如意70、太舞团体、万龙50、云顶30等组别。"
+    }
+  ]
+}

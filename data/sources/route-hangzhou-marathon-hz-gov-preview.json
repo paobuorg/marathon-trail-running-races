@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-hangzhou-marathon-hz-gov-preview",
+  "title": "2026年杭州马拉松11月1日开跑",
+  "url": "https://www.hangzhou.gov.cn/col/col812270/art/2026/art_404c18b91947415fa1d657a8500a5556.html",
+  "publisher": "杭州市人民政府",
+  "publishedAt": "2026-06-23",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "赛道串联西湖与京杭大运河两处世界文化遗产。",
+    "赛事规模由 3.2 万扩容至 3.6 万。",
+    "7 月下旬统一公示抽签结果。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛道串联西湖与京杭大运河两处世界文化遗产。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛事规模由 3.2 万扩容至 3.6 万。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 7 月下旬统一公示抽签结果。"
+    }
+  ]
+}

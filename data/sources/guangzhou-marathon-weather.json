@@ -1,0 +1,27 @@
+{
+  "sourceId": "guangzhou-marathon-weather",
+  "title": "Open-Meteo ERA5 archive query",
+  "url": "https://archive-api.open-meteo.com/v1/archive?latitude=23.14&longitude=113.326&start_date=2025-01-01&end_date=2025-12-31&daily=temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Asia%2FShanghai",
+  "publisher": "Open-Meteo",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "The ERA5 archive is used only as climate context; it is not a race-day forecast."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Query URL constructed for the race coordinates; no numeric race-day claim is made from it.",
+    "checkedVia": "archive-api.open-meteo.com"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Open-Meteo documents ERA5 as a historical reanalysis, not a forecast."
+    }
+  ]
+}

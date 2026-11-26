@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-hangzhou-marathon-hz-official",
+  "title": "杭州马拉松官方网站",
+  "url": "https://www.hangzhou-marathon.com/",
+  "publisher": "杭州马拉松组委会",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "赛事官网是报名、抽签、参赛指南与成绩的官方入口。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛事官网是报名、抽签、参赛指南与成绩的官方入口。"
+    }
+  ]
+}

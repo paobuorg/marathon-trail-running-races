@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-hangzhou-marathon-hz-zj-sport",
+  "title": "2026杭马定档11月1日",
+  "url": "https://tyj.zj.gov.cn/col/col1347213/art/2026/art_cafc3985a1e5467fb1c1ac034caf4275.html",
+  "publisher": "浙江省体育局",
+  "publishedAt": "2026-06-23",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "杭州马拉松创办于 1987 年，是国内历史最悠久的马拉松之一。",
+    "2026 年获世界田联金标与中国田协 A 类认证。",
+    "报名 6 月 23 日 10:00 开启、7 月 15 日截止。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 杭州马拉松创办于 1987 年，是国内历史最悠久的马拉松之一。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 2026 年获世界田联金标与中国田协 A 类认证。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 报名 6 月 23 日 10:00 开启、7 月 15 日截止。"
+    }
+  ]
+}

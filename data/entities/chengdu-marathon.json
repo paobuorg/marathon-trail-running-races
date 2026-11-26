@@ -1,0 +1,74 @@
+{
+  "entityId": "route:chengdu-marathon",
+  "slug": "chengdu-marathon",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-chengdu-marathon-cd-rules",
+    "route-chengdu-marathon-cd-xinhua",
+    "route-chengdu-marathon-cd-cover",
+    "route-chengdu-marathon-cd-traffic",
+    "route-chengdu-marathon-cd-home",
+    "route-chengdu-marathon-cd-profile",
+    "chengdu-marathon-anchor",
+    "chengdu-marathon-weather",
+    "chengdu-marathon-method",
+    "chengdu-marathon-official"
+  ],
+  "relatedRefs": [
+    "knowledge:race-day-pacing",
+    "knowledge:race-day-fueling",
+    "tool:pace"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "road-marathon",
+    "countryCodes": [
+      "CN"
+    ],
+    "placeName": {
+      "zh-CN": "中国四川省成都市",
+      "en": "Chengdu, Sichuan, China"
+    },
+    "mapAnchor": {
+      "longitude": 104.033,
+      "latitude": 30.682,
+      "kind": "start",
+      "sourceRef": "chengdu-marathon-anchor"
+    },
+    "courseVersion": "2026-chengdu-marathon-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [
+      {
+        "edition": "2026",
+        "observedAt": "2026-09-22",
+        "field": "first 6 km",
+        "change": "route-refined",
+        "from": "metro construction detour",
+        "to": "Du Fu Thatched Cottage, Sichuan Museum, Qingyang Palace, Qintai Road",
+        "sourceRef": "route-chengdu-marathon-cd-cover",
+        "note": {
+          "zh-CN": "2026 年前 6 公里结合地铁 13 号线通车后的道路条件，新增杜甫草堂、四川博物院、青羊宫、琴台路四处地标。",
+          "en": "The 2026 first six kilometres used newly available road space after Metro Line 13 opened, adding Du Fu Thatched Cottage, Sichuan Museum, Qingyang Palace and Qintai Road."
+        }
+      }
+    ],
+    "direction": "Jinsha Site Museum, the Qingyang section of the Middle Ring, Guanghua Village Street, Qinghua Road, Qingyang Shang Street, Qingyang Zheng Street, Qintai Road, Jindu Road, Shaocheng Road, Citang Street, Xiyu Street, Renmin South Road, Tianfu Square, Shudu Avenue, Dong’an Road, Xinhua Avenue Shuanglin Road out-and-back, the eastern section of the 1st Ring, Shunjiang Road, Wangjiang Road and Sichuan University for the half; the full continues via Kehua Road and Tianfu Avenue to Century City.",
+    "distanceMeters": 42195,
+    "distanceMethod": "2026 official regulations and course page give 42.2 km; this page does not average conflicting figures.",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "成都马拉松 2026：从金沙遗址到世纪城的十年城市穿越 / Chengdu Marathon 2026: ten years from Jinsha to Century City. Race facts from the 2026 official notices and host-city government pages; editorial schematic only, no official track bundled."
+  }
+}

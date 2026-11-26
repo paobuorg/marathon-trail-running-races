@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-wuxi-marathon-wx-gov-press",
+  "title": "2026无锡马拉松新闻发布会",
+  "url": "https://www.wuxi.gov.cn/doc/2026/03/18/4747505.shtml",
+  "publisher": "无锡市人民政府",
+  "publishedAt": "2026-03-18",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "总规模 35,000 人，全程 27,000、半程 8,000。",
+    "共 495,635 人报名，全程 243,803、半程 251,832。",
+    "全程首次采用分段抽签，减少直通名额。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 总规模 35,000 人，全程 27,000、半程 8,000。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 共 495,635 人报名，全程 243,803、半程 251,832。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 全程首次采用分段抽签，减少直通名额。"
+    }
+  ]
+}

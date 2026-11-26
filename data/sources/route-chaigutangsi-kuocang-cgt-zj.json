@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-chaigutangsi-kuocang-cgt-zj",
+  "title": "柴古唐斯括苍越野赛跑进“新十年”",
+  "url": "https://tyj.zj.gov.cn/col/col1347214/art/2026/art_2d63d89d9a7d45758df0b16a53cea998.html",
+  "publisher": "浙江省体育局",
+  "publishedAt": "2026-11-02",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "2026 年参赛人数 6,413 人，境外选手 340 人。",
+    "50K 于 10 月 30 日 05:40 出发，起点兴善门。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 2026 年参赛人数 6,413 人，境外选手 340 人。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 50K 于 10 月 30 日 05:40 出发，起点兴善门。"
+    }
+  ]
+}

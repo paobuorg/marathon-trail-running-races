@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-wuhan-marathon-wh-news-pdf",
+  "title": "赛道首次覆盖7个中心城区",
+  "url": "https://whwb.cjn.cn/resfile/2026-03-06/11/B2026-03-06A1101.pdf",
+  "publisher": "武汉晚报",
+  "publishedAt": "2026-03-06",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "全马 35 公里后改道白马道、飞雁路，不再经东湖绿道梨园广场。",
+    "最后 6 公里更平缓。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 全马 35 公里后改道白马道、飞雁路，不再经东湖绿道梨园广场。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 最后 6 公里更平缓。"
+    }
+  ]
+}

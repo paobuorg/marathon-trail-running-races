@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-wuhan-marathon-wh-bendibao",
+  "title": "2026武汉马拉松交通管制",
+  "url": "http://wh.bendibao.com/xiuxian/2026316/194330.shtm",
+  "publisher": "武汉本地宝",
+  "publishedAt": "2026-03-16",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "全程路线与交通管制通告一致。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 全程路线与交通管制通告一致。"
+    }
+  ]
+}

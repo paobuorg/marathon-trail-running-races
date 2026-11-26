@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-guangzhou-marathon-gz-gov",
+  "title": "2026广州马拉松赛竞赛规程一图读懂",
+  "url": "https://www.gz.gov.cn/gzzcwjk/detail.html?id=184853",
+  "publisher": "广州市人民政府",
+  "publishedAt": "2026-09-20",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "赛事日期 12 月 20 日，规模 30,000 人。",
+    "起终点与竞赛规程与官网一致。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛事日期 12 月 20 日，规模 30,000 人。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 起终点与竞赛规程与官网一致。"
+    }
+  ]
+}

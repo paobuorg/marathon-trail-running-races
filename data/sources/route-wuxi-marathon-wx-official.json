@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-wuxi-marathon-wx-official",
+  "title": "无锡马拉松官方网站",
+  "url": "https://wuximarathon.com/",
+  "publisher": "无锡马拉松组委会",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "赛事官网发布报名、抽签、领物与成绩信息。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛事官网发布报名、抽签、领物与成绩信息。"
+    }
+  ]
+}

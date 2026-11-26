@@ -1,0 +1,74 @@
+{
+  "entityId": "route:hangzhou-marathon",
+  "slug": "hangzhou-marathon",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-hangzhou-marathon-hz-gov-entry",
+    "route-hangzhou-marathon-hz-gov-preview",
+    "route-hangzhou-marathon-hz-police",
+    "route-hangzhou-marathon-hz-dskb",
+    "route-hangzhou-marathon-hz-zj-sport",
+    "route-hangzhou-marathon-hz-official",
+    "route-hangzhou-marathon-hz-course-news",
+    "hangzhou-marathon-anchor",
+    "hangzhou-marathon-weather",
+    "hangzhou-marathon-method"
+  ],
+  "relatedRefs": [
+    "knowledge:race-day-pacing",
+    "knowledge:race-day-fueling",
+    "tool:pace"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "road-marathon",
+    "countryCodes": [
+      "CN"
+    ],
+    "placeName": {
+      "zh-CN": "中国浙江省杭州市",
+      "en": "Hangzhou, Zhejiang, China"
+    },
+    "mapAnchor": {
+      "longitude": 120.135,
+      "latitude": 30.274,
+      "kind": "start",
+      "sourceRef": "hangzhou-marathon-anchor"
+    },
+    "courseVersion": "2026-hangzhou-marathon-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [
+      {
+        "edition": "2026",
+        "observedAt": "2026-10-17",
+        "field": "second-half bridge",
+        "change": "route-refined",
+        "from": "Qiantang River Bridge",
+        "to": "old Pengbu Bridge",
+        "sourceRef": "route-hangzhou-marathon-hz-course-news",
+        "note": {
+          "zh-CN": "2026 年 10 月 17 日公布的新路线把后半程跨江桥改为彭埠大桥老桥，经平澜路、飞虹路、观澜路与闻涛路折返进入奥体中心。",
+          "en": "The course published on 17 October 2026 moved the second-half river crossing to the old Pengbu Bridge, then Pinglan, Feihong, Guanlan and the Wentao Road out-and-back into the Olympic park."
+        }
+      }
+    ],
+    "direction": "Huanglong Road, Shuguang Road, Baochu Road, Beishan Street, Yanggong Causeway, Hupao Road, Huyu Road, Nanfu Road, Zhijiang Road, Xinye Road, Sanxin Road, Qiantang Road, Tanggongju Road, Fengqi East Road, the old Pengbu Bridge, Pinglan Road, Feihong Road, Guanlan Road, an out-and-back on Wentao Road, Binhe South Road and the stadium’s north-east access.",
+    "distanceMeters": 42195,
+    "distanceMethod": "2026 official regulations and course page give 42.2 km; this page does not average conflicting figures.",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "杭州马拉松 2026：西湖、钱塘江与“大莲花”终点的 42.195 公里 / Hangzhou Marathon 2026: West Lake, the Qiantang and a finish at the Big Lotus. Race facts from the 2026 official notices and host-city government pages; editorial schematic only, no official track bundled."
+  }
+}

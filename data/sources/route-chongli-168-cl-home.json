@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-chongli-168-cl-home",
+  "title": "崇礼168超级越野赛官方网站",
+  "url": "https://chongli-ultra.cn",
+  "publisher": "崇礼168组委会",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "赛事每年 7 月第二个周末举行。",
+    "2026 年设崇礼168、崇礼100、雪如意70、万龙50、云顶30等组别。",
+    "崇礼168组 7 月 10 日 08:00 出发。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛事每年 7 月第二个周末举行。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 2026 年设崇礼168、崇礼100、雪如意70、万龙50、云顶30等组别。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 崇礼168组 7 月 10 日 08:00 出发。"
+    }
+  ]
+}

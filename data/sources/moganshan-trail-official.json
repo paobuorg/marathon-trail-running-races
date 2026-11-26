@@ -1,0 +1,27 @@
+{
+  "sourceId": "moganshan-trail-official",
+  "title": "凯乐石莫干山跑山赛 2026：竹海、古道与 99 公里的十周年 official website",
+  "url": "http://www.shturl.cc/60aba2fe66c2215b28bdf3e793a92c7b",
+  "publisher": "Race organiser",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "The official race website is the authoritative portal for entry, rules and results."
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "URL identified as the event’s official site; used for the portal claim only.",
+    "checkedVia": "general_search result / event page"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "The event site is the entry portal named by the official notices."
+    }
+  ]
+}

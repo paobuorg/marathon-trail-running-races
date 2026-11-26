@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-moganshan-trail-mg-rules",
+  "title": "2026凯乐石莫干山跑山赛赛事信息",
+  "url": "http://www.shturl.cc/60aba2fe66c2215b28bdf3e793a92c7b",
+  "publisher": "凯乐石莫干山跑山赛组委会",
+  "publishedAt": "2026-08-01",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "比赛时间为 2026 年 10 月 23 日至 25 日。",
+    "100km 组实际距离 99km、累计爬升 5,903 米、关门 30 小时。",
+    "100km 组 10 月 23 日 18:00 出发，10 月 25 日 00:00 关门。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 比赛时间为 2026 年 10 月 23 日至 25 日。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 100km 组实际距离 99km、累计爬升 5,903 米、关门 30 小时。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 100km 组 10 月 23 日 18:00 出发，10 月 25 日 00:00 关门。"
+    }
+  ]
+}

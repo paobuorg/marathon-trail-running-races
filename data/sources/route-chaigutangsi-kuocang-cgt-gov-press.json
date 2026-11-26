@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-chaigutangsi-kuocang-cgt-gov-press",
+  "title": "2026临海柴古唐斯括苍越野赛新闻发布会",
+  "url": "https://www.linhai.gov.cn/col/col1497127/art/2026/art_2cc8106684fd41c68b3916aa8b788afe.html",
+  "publisher": "临海市人民政府",
+  "publishedAt": "2026-10-27",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "赛事于 10 月 30 日至 11 月 1 日举行。",
+    "参赛规模 6,413 人，设 105K、50K、25K 三个组别。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛事于 10 月 30 日至 11 月 1 日举行。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 参赛规模 6,413 人，设 105K、50K、25K 三个组别。"
+    }
+  ]
+}

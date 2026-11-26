@@ -1,0 +1,27 @@
+{
+  "sourceId": "route-chaigutangsi-kuocang-cgt-official",
+  "title": "柴古唐斯官方网站",
+  "url": "https://www.chaigutangsi.com/",
+  "publisher": "柴古唐斯组委会",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "官网发布赛事规程、报名与成绩。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 官网发布赛事规程、报名与成绩。"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-guangzhou-marathon-gz-sport",
+  "title": "2026广州马拉松赛今日启动报名",
+  "url": "https://tyj.gz.gov.cn/bmzc/xwbd/content/post_10989208.html",
+  "publisher": "广州市体育局",
+  "publishedAt": "2026-09-02",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "报名 9 月 2 日 10:00 至 9 月 11 日 18:00。",
+    "报名费 180 元；新增破全国纪录奖，男女各 12 万元。",
+    "赛道继续沿“一江两岸”设置。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 报名 9 月 2 日 10:00 至 9 月 11 日 18:00。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 报名费 180 元；新增破全国纪录奖，男女各 12 万元。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛道继续沿“一江两岸”设置。"
+    }
+  ]
+}

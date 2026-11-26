@@ -1,0 +1,60 @@
+{
+  "entityId": "route:chongqing-marathon",
+  "slug": "chongqing-marathon",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-chongqing-marathon-cq-rules",
+    "route-chongqing-marathon-cq-people",
+    "route-chongqing-marathon-cq-gov",
+    "route-chongqing-marathon-cq-home",
+    "route-chongqing-marathon-cq-preview",
+    "route-chongqing-marathon-cq-baike",
+    "chongqing-marathon-anchor",
+    "chongqing-marathon-weather",
+    "chongqing-marathon-method",
+    "chongqing-marathon-official"
+  ],
+  "relatedRefs": [
+    "knowledge:race-day-pacing",
+    "knowledge:race-day-fueling",
+    "tool:pace"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "road-marathon",
+    "countryCodes": [
+      "CN"
+    ],
+    "placeName": {
+      "zh-CN": "中国重庆市南岸区",
+      "en": "Nan’an District, Chongqing, China"
+    },
+    "mapAnchor": {
+      "longitude": 106.585,
+      "latitude": 29.545,
+      "kind": "start",
+      "sourceRef": "chongqing-marathon-anchor"
+    },
+    "courseVersion": "2026-chongqing-marathon-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [],
+    "direction": "Haitang Yanyu Park, out-and-back below Chaotianmen Bridge, back past the park, Yangtze River Bridge, Meidiyacheng, Lijiatuo Bridge, out-and-back at Ronghui Jiangshan, then Lijiatuo Bridge, Meidiyacheng, Yangtze River Bridge and back to Haitang Yanyu Park.",
+    "distanceMeters": 42195,
+    "distanceMethod": "2026 official regulations and course page give 42.2 km; this page does not average conflicting figures.",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "重庆马拉松 2026：南滨路折返、长江两岸与 2.5 万人的平坦赛道 / Chongqing Marathon 2026: a flat Nanbin Road out-and-back between the Yangtze banks. Race facts from the 2026 official notices and host-city government pages; editorial schematic only, no official track bundled."
+  }
+}

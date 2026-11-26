@@ -1,0 +1,48 @@
+{
+  "sourceId": "route-chengdu-marathon-cd-rules",
+  "title": "2026极氪汽车成都马拉松竞赛规程",
+  "url": "https://chengdumarathon.cn/column/articleDetail/95?column_id=66&lang=cn",
+  "publisher": "成都马拉松组委会",
+  "publishedAt": "2026-09-22",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "比赛日期为 2026 年 10 月 25 日。",
+    "起跑分 07:30、07:50、08:10 三枪。",
+    "全程 42.195 公里、25,000 人；半程 21.0975 公里、10,000 人。",
+    "全程起点金沙遗址博物馆，终点世纪城新国际会展中心；半程终点四川大学望江校区。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 比赛日期为 2026 年 10 月 25 日。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 起跑分 07:30、07:50、08:10 三枪。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 全程 42.195 公里、25,000 人；半程 21.0975 公里、10,000 人。"
+    },
+    {
+      "index": 3,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 全程起点金沙遗址博物馆，终点世纪城新国际会展中心；半程终点四川大学望江校区。"
+    }
+  ]
+}

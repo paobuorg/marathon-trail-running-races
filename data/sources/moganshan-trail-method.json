@@ -1,0 +1,27 @@
+{
+  "sourceId": "moganshan-trail-method",
+  "title": "RunUp content standard: checked facts and marked unknowns",
+  "url": "https://paobu.org/about/#method",
+  "publisher": "RunUp",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "RunUp separates checked facts from editorial guidance and marks unpublished dates as unknown."
+  ],
+  "license": "CC-BY-4.0",
+  "verification": {
+    "access": "direct",
+    "bodyRead": true,
+    "checkedAt": "2026-11-26",
+    "note": "Public method page states the editorial boundary between checked facts and advice.",
+    "checkedVia": "paobu.org/about/"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "The method page describes source checking and explicit unknowns."
+    }
+  ]
+}

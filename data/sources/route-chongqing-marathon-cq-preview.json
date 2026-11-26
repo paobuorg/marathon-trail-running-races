@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-chongqing-marathon-cq-preview",
+  "title": "2027重庆马拉松路线信息",
+  "url": "https://m.cq.bendibao.com/xiuxian/79686.shtm",
+  "publisher": "重庆本地宝",
+  "publishedAt": "2026-09-01",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "2027 全程仍为 42.195 公里。",
+    "该页称 2027 路线仍在南滨路、北滨路沿线，具体路线以官方公布为准。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 2027 全程仍为 42.195 公里。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 该页称 2027 路线仍在南滨路、北滨路沿线，具体路线以官方公布为准。"
+    }
+  ]
+}

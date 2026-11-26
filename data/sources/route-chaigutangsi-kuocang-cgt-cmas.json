@@ -1,0 +1,34 @@
+{
+  "sourceId": "route-chaigutangsi-kuocang-cgt-cmas",
+  "title": "2026柴古唐斯括苍越野赛落幕",
+  "url": "https://www.cmasports.cn/xwzx/sdhw/2026/1101/713382.html",
+  "publisher": "中国登山协会",
+  "publishedAt": "2026-11-01",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "原生态山野路段占比近 90%，陡坡与连续起伏路段超过 60%。",
+    "赛道串联江南长城、紫阳古街与括苍山核心林区。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 原生态山野路段占比近 90%，陡坡与连续起伏路段超过 60%。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛道串联江南长城、紫阳古街与括苍山核心林区。"
+    }
+  ]
+}

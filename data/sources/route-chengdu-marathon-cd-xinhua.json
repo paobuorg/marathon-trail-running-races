@@ -1,0 +1,41 @@
+{
+  "sourceId": "route-chengdu-marathon-cd-xinhua",
+  "title": "3.5万跑者用脚步丈量十年“成马”",
+  "url": "https://www.news.cn/sports/20261025/4668eb44974e4d53ab8e34df571409bd/c.html",
+  "publisher": "新华网",
+  "publishedAt": "2026-10-25",
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "2026 年 10 月 25 日 07:30 在金沙遗址博物馆鸣枪。",
+    "3.5 万名跑者来自 58 个国家和地区。",
+    "赛道新增杜甫草堂、四川博物院、青羊宫、琴台路。"
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "Claims extracted from the returned official/government/news snippet; page body was not used as a bundled dataset.",
+    "checkedVia": "general_search result"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 2026 年 10 月 25 日 07:30 在金沙遗址博物馆鸣枪。"
+    },
+    {
+      "index": 1,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 3.5 万名跑者来自 58 个国家和地区。"
+    },
+    {
+      "index": 2,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "Snippet directly states: 赛道新增杜甫草堂、四川博物院、青羊宫、琴台路。"
+    }
+  ]
+}

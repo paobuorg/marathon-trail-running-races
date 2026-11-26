@@ -1,0 +1,27 @@
+{
+  "sourceId": "chaigutangsi-kuocang-official",
+  "title": "柴古唐斯括苍越野赛 2026：临海古城、括苍山与 105 公里的山野环线 official website",
+  "url": "https://www.chaigutangsi.com/",
+  "publisher": "Race organiser",
+  "publishedAt": null,
+  "accessedAt": "2026-11-26",
+  "claims": [
+    "The official race website is the authoritative portal for entry, rules and results."
+  ],
+  "license": null,
+  "verification": {
+    "access": "metadata-only",
+    "bodyRead": false,
+    "checkedAt": "2026-11-26",
+    "note": "URL identified as the event’s official site; used for the portal claim only.",
+    "checkedVia": "general_search result / event page"
+  },
+  "claimVerification": [
+    {
+      "index": 0,
+      "status": "supported",
+      "checkedAt": "2026-11-26",
+      "note": "The event site is the entry portal named by the official notices."
+    }
+  ]
+}

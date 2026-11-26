@@ -1,0 +1,60 @@
+{
+  "entityId": "route:shenzhen-marathon",
+  "slug": "shenzhen-marathon",
+  "kind": "route",
+  "status": "published",
+  "riskLevel": "general",
+  "sourceRefs": [
+    "route-shenzhen-marathon-sz-rules",
+    "route-shenzhen-marathon-sz-gov",
+    "route-shenzhen-marathon-sz-official",
+    "route-shenzhen-marathon-sz-route",
+    "route-shenzhen-marathon-sz-medal",
+    "route-shenzhen-marathon-sz-weibo",
+    "shenzhen-marathon-anchor",
+    "shenzhen-marathon-weather",
+    "shenzhen-marathon-method",
+    "shenzhen-marathon-official"
+  ],
+  "relatedRefs": [
+    "knowledge:race-day-pacing",
+    "knowledge:race-day-fueling",
+    "tool:pace"
+  ],
+  "license": "CC-BY-4.0",
+  "createdAt": "2026-11-26",
+  "updatedAt": "2026-11-26",
+  "reviewedAt": "2026-11-26",
+  "reviewDueAt": "2027-06-30",
+  "details": {
+    "raceType": "road-marathon",
+    "countryCodes": [
+      "CN"
+    ],
+    "placeName": {
+      "zh-CN": "中国广东省深圳市",
+      "en": "Shenzhen, Guangdong, China"
+    },
+    "mapAnchor": {
+      "longitude": 114.057,
+      "latitude": 22.546,
+      "kind": "start",
+      "sourceRef": "shenzhen-marathon-anchor"
+    },
+    "courseVersion": "2026-shenzhen-marathon-official-course",
+    "courseEdition": "2026",
+    "courseStatus": "latest-held",
+    "courseChanges": [],
+    "direction": "Civic Centre, Shennan Boulevard west, Shahe West Road south, Wanghai Road, Shenzhen Bay Sports Park out-and-back, Shahe West Road north, Jintong Shahe West interchange out-and-back, Shennan Boulevard west, Bao’an Avenue, Hubin West Road, Menghai Avenue, Qianhai Avenue, Qianhai Stone Park out-and-back, Menghai Avenue, Hubin West Road, Haixiu Road and Haibin Square.",
+    "distanceMeters": 42195,
+    "distanceMethod": "2026 official regulations and course page give 42.2 km; this page does not average conflicting figures.",
+    "elevationGainMeters": null,
+    "elevationMethod": null,
+    "geometryAccess": "unavailable",
+    "geometryRef": null,
+    "geometrySourceUrl": null,
+    "geometryLicense": null,
+    "officialGeometryUrl": null,
+    "attribution": "深圳马拉松 2026：从市民中心到宝安海滨广场的 42.195 公里 / Shenzhen Marathon 2026: Civic Centre to Bao’an Haibin Square. Race facts from the 2026 official notices and host-city government pages; editorial schematic only, no official track bundled."
+  }
+}
