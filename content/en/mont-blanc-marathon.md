@@ -276,6 +276,20 @@ Those are 2026 procedures and cannot be carried over as 2027 rules.
 
 The 2027 fee and phases will be added when the organiser publishes them.
 
+### 2027 versus 2026 entry rules
+
+| Item | 2026 practice | 2027 status |
+|---|---|---|
+| Opening | Phased from November 2025 | Site says "planned for November 2026"; phase table unpublished |
+| Field | 42 km capped at 2,300 | Race page still says 2,300; not a final entry-page figure |
+| Local transport | 10% on foot/bike/public transport, no lottery | Not published for 2027 |
+| Train/bus | 40%, no lottery | Not published for 2027 |
+| Other transport | 50% via free lottery | Not published for 2027 |
+| Fee | 2026 fee does not carry over | unknown |
+| Refund | Non-refundable after confirmation unless cancellation insurance bought | Check the 2027 entry page |
+
+This table only separates what is published from what is not; it does not turn 2026 rules into 2027 promises.
+
 ## Getting there and weather
 
 The organiser's transport page says that during the event, beyond the Chamonix Valley public network, a free plan of buses, shuttles and trains operates.

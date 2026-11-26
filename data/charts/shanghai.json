@@ -1,0 +1,113 @@
+{
+  "slug": "shanghai",
+  "charts": [
+    {
+      "id": "segment-profile",
+      "kind": "line",
+      "title": {
+        "zh-CN": "上海马拉松：分段累计距离",
+        "en": "Shanghai Marathon: cumulative distance by segment"
+      },
+      "unit": {
+        "zh-CN": "公里",
+        "en": "km"
+      },
+      "categories": {
+        "zh-CN": [
+          "0",
+          "5 km",
+          "10 km",
+          "15 km",
+          "20 km",
+          "半程 21.0975 km",
+          "25 km",
+          "30 km",
+          "35 km",
+          "40 km",
+          "42.195 km"
+        ],
+        "en": [
+          "0",
+          "5 km",
+          "10 km",
+          "15 km",
+          "20 km",
+          "Halfway 21.0975 km",
+          "25 km",
+          "30 km",
+          "35 km",
+          "40 km",
+          "42.195 km"
+        ]
+      },
+      "values": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        21.0975,
+        25,
+        30,
+        35,
+        40,
+        42.195
+      ],
+      "note": {
+        "zh-CN": "累计距离按 2026 官方路线图列出的计时点（每 5 公里、半程与终点）排列；官方路线图未标注累计爬升，本图不读取分段爬升。本站自制图，非官方赛道剖面。",
+        "en": "Cumulative distance follows the timing points on the 2026 official course map (every 5 km, halfway and finish); the map does not label cumulative climb, and this chart reads no per-segment climb. Self-made chart, not an official course profile."
+      }
+    },
+    {
+      "id": "cutoff-buffer",
+      "kind": "bar",
+      "title": {
+        "zh-CN": "上海马拉松：按 5:45:00 目标完赛算，官方关门点余量（2026 届）",
+        "en": "Shanghai Marathon: official cut-off buffer per gate at a 5:45:00 target (2026)"
+      },
+      "unit": {
+        "zh-CN": "分钟（正值为余量，负值为已超关门）",
+        "en": "minutes (positive = buffer, negative = outside cut-off)"
+      },
+      "categories": {
+        "zh-CN": [
+          "5 km 08:10",
+          "10 km 08:50",
+          "15 km 09:35",
+          "20 km 10:20",
+          "25 km 11:00",
+          "30 km 11:45",
+          "35 km 12:30",
+          "40 km 13:15",
+          "终点 13:30"
+        ],
+        "en": [
+          "5 km 08:10",
+          "10 km 08:50",
+          "15 km 09:35",
+          "20 km 10:20",
+          "25 km 11:00",
+          "30 km 11:45",
+          "35 km 12:30",
+          "40 km 13:15",
+          "Finish 13:30"
+        ]
+      },
+      "values": [
+        29.1,
+        28.2,
+        32.4,
+        36.5,
+        35.6,
+        39.7,
+        43.8,
+        47.9,
+        45.0
+      ],
+      "note": {
+        "zh-CN": "按 2026 官方路线图关门时刻、第一枪 07:00 与目标 5:45:00 完赛匀速推算；余量＝关门时刻−预计到达。靠后分区的分段关门按自然时钟计算，估算时须加回本区发枪差。本站自制图，非官方赛道剖面。",
+        "en": "Computed from the 2026 official course-map cut-offs, the 07:00 first gun and an even pace to a 5:45:00 finish; buffer = cut-off minus predicted arrival. Gates use wall-clock time for later waves, so add the wave offset back when estimating. Self-made chart, not an official course profile."
+      }
+    }
+  ]
+}

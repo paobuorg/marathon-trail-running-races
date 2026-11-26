@@ -1,0 +1,113 @@
+{
+  "slug": "beijing",
+  "charts": [
+    {
+      "id": "segment-profile",
+      "kind": "line",
+      "title": {
+        "zh-CN": "北京马拉松：分段累计距离",
+        "en": "Beijing Marathon: cumulative distance by segment"
+      },
+      "unit": {
+        "zh-CN": "公里",
+        "en": "km"
+      },
+      "categories": {
+        "zh-CN": [
+          "0",
+          "5 km",
+          "10 km",
+          "15 km",
+          "20 km",
+          "半程 21.0975 km",
+          "25 km",
+          "30 km",
+          "35 km",
+          "40 km",
+          "42.195 km"
+        ],
+        "en": [
+          "0",
+          "5 km",
+          "10 km",
+          "15 km",
+          "20 km",
+          "Halfway 21.0975 km",
+          "25 km",
+          "30 km",
+          "35 km",
+          "40 km",
+          "42.195 km"
+        ]
+      },
+      "values": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        21.0975,
+        25,
+        30,
+        35,
+        40,
+        42.195
+      ],
+      "note": {
+        "zh-CN": "累计距离按 2026 参赛指南列出的计时点（每 5 公里、半程与终点）排列；官方未公布可下载的 GPX/KML，本图不读取分段爬升。本站自制图，非官方赛道剖面。",
+        "en": "Cumulative distance follows the timing points listed in the 2026 participant guide (every 5 km, halfway and finish); no downloadable official GPX/KML exists, and this chart reads no per-segment climb. Self-made chart, not an official course profile."
+      }
+    },
+    {
+      "id": "cutoff-buffer",
+      "kind": "bar",
+      "title": {
+        "zh-CN": "北京马拉松：按 5:30:00 目标完赛算，官方关门点余量（2026 届）",
+        "en": "Beijing Marathon: official cut-off buffer per gate at a 5:30:00 target (2026)"
+      },
+      "unit": {
+        "zh-CN": "分钟（正值为余量，负值为已超关门）",
+        "en": "minutes (positive = buffer, negative = outside cut-off)"
+      },
+      "categories": {
+        "zh-CN": [
+          "5 km 08:25",
+          "10 km 09:00",
+          "15 km 09:40",
+          "20 km 10:20",
+          "半程 10:30",
+          "25 km 11:00",
+          "30 km 11:45",
+          "35 km 12:30",
+          "终点 13:30"
+        ],
+        "en": [
+          "5 km 08:25",
+          "10 km 09:00",
+          "15 km 09:40",
+          "20 km 10:20",
+          "Halfway 10:30",
+          "25 km 11:00",
+          "30 km 11:45",
+          "35 km 12:30",
+          "Finish 13:30"
+        ]
+      },
+      "values": [
+        15.9,
+        11.8,
+        12.7,
+        13.6,
+        15.0,
+        14.5,
+        20.4,
+        26.3,
+        30.0
+      ],
+      "note": {
+        "zh-CN": "按 2026 参赛指南关门表与 07:30 发枪、目标 5:30:00 完赛匀速推算；余量＝关门时刻−预计到达。正值为在关门前到达，负值表示已超关门。本站自制图，非官方赛道剖面。",
+        "en": "Computed from the 2026 participant-guide cut-off table, an 07:30 gun and an even pace to a 5:30:00 finish; buffer = cut-off minus predicted arrival. Positive values are inside the gate; negative values mean outside it. Self-made chart, not an official course profile."
+      }
+    }
+  ]
+}
